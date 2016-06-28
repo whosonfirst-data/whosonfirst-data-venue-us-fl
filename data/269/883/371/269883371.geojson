@@ -2,13 +2,14 @@
   "id": 269883371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23041,26.341695,-80.23041,26.341695",
     "geom:latitude":26.341695,
     "geom:longitude":-80.23041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22492 Cypress Wood Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269883371,
-    "wof:lastmodified":1449038248,
+    "wof:lastmodified":1466435531,
     "wof:name":"Anthony Andrews",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.23041,26.341695,-80.23041,26.341695],
-  "geometry": {"coordinates":[-80.23041,26.341695],"type":"Point"}
+  "bbox": [
+    -80.23041,
+    26.341695,
+    -80.23041,
+    26.341695
+],
+  "geometry": {"coordinates":[-80.23041000000001,26.341695],"type":"Point"}
 }

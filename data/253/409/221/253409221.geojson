@@ -2,13 +2,14 @@
   "id": 253409221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123687,25.867109,-80.123687,25.867109",
     "geom:latitude":25.867109,
     "geom:longitude":-80.123687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8260 Byron Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253409221,
-    "wof:lastmodified":1449064041,
+    "wof:lastmodified":1466434027,
     "wof:name":"International Plannerscom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.123687,25.867109,-80.123687,25.867109],
+  "bbox": [
+    -80.123687,
+    25.867109,
+    -80.123687,
+    25.867109
+],
   "geometry": {"coordinates":[-80.123687,25.867109],"type":"Point"}
 }

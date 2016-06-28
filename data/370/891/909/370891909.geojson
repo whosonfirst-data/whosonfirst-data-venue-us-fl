@@ -2,13 +2,14 @@
   "id": 370891909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325241,25.817267,-80.325241,25.817267",
     "geom:latitude":25.817267,
     "geom:longitude":-80.325241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7785 NW 48th St",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370891909,
-    "wof:lastmodified":1449031122,
+    "wof:lastmodified":1466447448,
     "wof:name":"Dade County WIC Program",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-80.325241,25.817267,-80.325241,25.817267],
-  "geometry": {"coordinates":[-80.325241,25.817267],"type":"Point"}
+  "bbox": [
+    -80.325241,
+    25.817267,
+    -80.325241,
+    25.817267
+],
+  "geometry": {"coordinates":[-80.32524100000001,25.817267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220124045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.462633,27.941582,-82.462633,27.941582",
     "geom:latitude":27.941582,
     "geom:longitude":-82.462633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Platt St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220124045,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466428554,
     "wof:name":"Venture Group",
     "wof:parent_id":85889721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-82.462633,27.941582,-82.462633,27.941582],
+  "bbox": [
+    -82.462633,
+    27.941582,
+    -82.462633,
+    27.941582
+],
   "geometry": {"coordinates":[-82.462633,27.941582],"type":"Point"}
 }

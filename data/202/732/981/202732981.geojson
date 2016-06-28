@@ -2,13 +2,14 @@
   "id": 202732981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445759,27.981579,-82.445759,27.981579",
     "geom:latitude":27.981579,
     "geom:longitude":-82.445759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 E Martin Luther King Jr Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202732981,
-    "wof:lastmodified":1449062754,
+    "wof:lastmodified":1466431396,
     "wof:name":"YNS Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.445759,27.981579,-82.445759,27.981579],
+  "bbox": [
+    -82.445759,
+    27.981579,
+    -82.445759,
+    27.981579
+],
   "geometry": {"coordinates":[-82.445759,27.981579],"type":"Point"}
 }

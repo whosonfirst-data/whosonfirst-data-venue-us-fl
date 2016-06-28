@@ -2,13 +2,14 @@
   "id": 370793615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288064,28.257621,-81.288064,28.257621",
     "geom:latitude":28.257621,
     "geom:longitude":-81.288064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Connecticut Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370793615,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466446323,
     "wof:name":"Sullivan ML Construction",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.288064,28.257621,-81.288064,28.257621],
-  "geometry": {"coordinates":[-81.288064,28.257621],"type":"Point"}
+  "bbox": [
+    -81.288064,
+    28.257621,
+    -81.288064,
+    28.257621
+],
+  "geometry": {"coordinates":[-81.28806400000001,28.257621],"type":"Point"}
 }

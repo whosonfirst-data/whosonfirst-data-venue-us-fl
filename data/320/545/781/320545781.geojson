@@ -2,13 +2,14 @@
   "id": 320545781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27158,26.290868,-80.27158,26.290868",
     "geom:latitude":26.290868,
     "geom:longitude":-80.27158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5213 Kensington Cir",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320545781,
-    "wof:lastmodified":1449012160,
+    "wof:lastmodified":1466442830,
     "wof:name":"Flowserve",
     "wof:parent_id":85876889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-80.27158,26.290868,-80.27158,26.290868],
+  "bbox": [
+    -80.27158,
+    26.290868,
+    -80.27158,
+    26.290868
+],
   "geometry": {"coordinates":[-80.27158,26.290868],"type":"Point"}
 }

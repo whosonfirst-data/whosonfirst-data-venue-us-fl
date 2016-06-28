@@ -2,13 +2,14 @@
   "id": 236105491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093748,26.209579,-80.093748,26.209579",
     "geom:latitude":26.209579,
     "geom:longitude":-80.093748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Ocean Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236105491,
-    "wof:lastmodified":1449002802,
+    "wof:lastmodified":1466429865,
     "wof:name":"R & A South",
     "wof:parent_id":85842619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-80.093748,26.209579,-80.093748,26.209579],
-  "geometry": {"coordinates":[-80.093748,26.209579],"type":"Point"}
+  "bbox": [
+    -80.093748,
+    26.209579,
+    -80.093748,
+    26.209579
+],
+  "geometry": {"coordinates":[-80.09374800000001,26.209579],"type":"Point"}
 }

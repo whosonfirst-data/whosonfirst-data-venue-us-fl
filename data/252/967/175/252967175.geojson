@@ -2,13 +2,14 @@
   "id": 252967175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209364,26.180424,-80.209364,26.180424",
     "geom:latitude":26.180424,
     "geom:longitude":-80.209364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4402 NW 44th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252967175,
-    "wof:lastmodified":1449006432,
+    "wof:lastmodified":1466432171,
     "wof:name":"Citizens Painting",
     "wof:parent_id":85896123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.209364,26.180424,-80.209364,26.180424],
-  "geometry": {"coordinates":[-80.209364,26.180424],"type":"Point"}
+  "bbox": [
+    -80.209364,
+    26.180424,
+    -80.209364,
+    26.180424
+],
+  "geometry": {"coordinates":[-80.20936399999999,26.180424],"type":"Point"}
 }

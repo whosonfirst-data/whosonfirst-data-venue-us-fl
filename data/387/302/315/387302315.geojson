@@ -2,13 +2,14 @@
   "id": 387302315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.648503,27.813556,-81.648503,27.813556",
     "geom:latitude":27.813556,
     "geom:longitude":-81.648503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6655 Lake Buffum Rd N",
     "sg:city":"Fort Meade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387302315,
-    "wof:lastmodified":1449057384,
+    "wof:lastmodified":1466443359,
     "wof:name":"Billies Handyworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.648503,27.813556,-81.648503,27.813556],
-  "geometry": {"coordinates":[-81.648503,27.813556],"type":"Point"}
+  "bbox": [
+    -81.648503,
+    27.813556,
+    -81.648503,
+    27.813556
+],
+  "geometry": {"coordinates":[-81.64850300000001,27.813556],"type":"Point"}
 }

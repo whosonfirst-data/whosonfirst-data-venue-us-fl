@@ -2,13 +2,14 @@
   "id": 203079125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.860054,26.360562,-81.860054,26.360562",
     "geom:latitude":26.360562,
     "geom:longitude":-81.860054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25840 Hickory Blvd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203079125,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1466444648,
     "wof:name":"Dolphin Way Of Hickory Point",
     "wof:parent_id":85888569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.860054,26.360562,-81.860054,26.360562],
-  "geometry": {"coordinates":[-81.860054,26.360562],"type":"Point"}
+  "bbox": [
+    -81.860054,
+    26.360562,
+    -81.860054,
+    26.360562
+],
+  "geometry": {"coordinates":[-81.86005400000001,26.360562],"type":"Point"}
 }

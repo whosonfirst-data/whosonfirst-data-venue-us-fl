@@ -2,13 +2,14 @@
   "id": 186150649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403821,28.329966,-81.403821,28.329966",
     "geom:latitude":28.329966,
     "geom:longitude":-81.403821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 N Orange Blossom Trl",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186150649,
-    "wof:lastmodified":1449050292,
+    "wof:lastmodified":1466428540,
     "wof:name":"FL Highway Patrol Troop D",
     "wof:parent_id":85878533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "highway"
     ]
 },
-  "bbox": [-81.403821,28.329966,-81.403821,28.329966],
-  "geometry": {"coordinates":[-81.403821,28.329966],"type":"Point"}
+  "bbox": [
+    -81.403821,
+    28.329966,
+    -81.403821,
+    28.329966
+],
+  "geometry": {"coordinates":[-81.40382099999999,28.329966],"type":"Point"}
 }

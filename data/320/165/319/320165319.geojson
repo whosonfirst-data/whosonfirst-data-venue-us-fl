@@ -2,13 +2,14 @@
   "id": 320165319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.748405,27.916516,-82.748405,27.916516",
     "geom:latitude":27.916516,
     "geom:longitude":-82.748405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3370 E Bay Dr",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320165319,
-    "wof:lastmodified":1449014974,
+    "wof:lastmodified":1466436218,
     "wof:name":"Meridian Diagnostic Svc",
     "wof:parent_id":85889107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.748405,27.916516,-82.748405,27.916516],
-  "geometry": {"coordinates":[-82.748405,27.916516],"type":"Point"}
+  "bbox": [
+    -82.748405,
+    27.916516,
+    -82.748405,
+    27.916516
+],
+  "geometry": {"coordinates":[-82.74840500000001,27.916516],"type":"Point"}
 }

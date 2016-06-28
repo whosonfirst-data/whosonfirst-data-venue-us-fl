@@ -2,13 +2,14 @@
   "id": 236267979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322715,28.524215,-81.322715,28.524215",
     "geom:latitude":28.524215,
     "geom:longitude":-81.322715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5130 Curry Ford Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236267979,
-    "wof:lastmodified":1449004891,
+    "wof:lastmodified":1466432208,
     "wof:name":"Eclipse Studio",
     "wof:parent_id":85879443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.322715,28.524215,-81.322715,28.524215],
+  "bbox": [
+    -81.322715,
+    28.524215,
+    -81.322715,
+    28.524215
+],
   "geometry": {"coordinates":[-81.322715,28.524215],"type":"Point"}
 }

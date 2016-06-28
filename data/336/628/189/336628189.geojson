@@ -2,13 +2,14 @@
   "id": 336628189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.297208,28.246013,-81.297208,28.246013",
     "geom:latitude":28.246013,
     "geom:longitude":-81.297208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 13th St",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336628189,
-    "wof:lastmodified":1448997826,
+    "wof:lastmodified":1466435476,
     "wof:name":"Construction Central",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.297208,28.246013,-81.297208,28.246013],
+  "bbox": [
+    -81.297208,
+    28.246013,
+    -81.297208,
+    28.246013
+],
   "geometry": {"coordinates":[-81.297208,28.246013],"type":"Point"}
 }

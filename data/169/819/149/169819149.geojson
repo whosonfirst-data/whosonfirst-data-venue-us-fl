@@ -2,13 +2,14 @@
   "id": 169819149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.677037,28.128351,-80.677037,28.128351",
     "geom:latitude":28.128351,
     "geom:longitude":-80.677037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 W Eau Gallie Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169819149,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466429229,
     "wof:name":"Applebees",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.677037,28.128351,-80.677037,28.128351],
+  "bbox": [
+    -80.677037,
+    28.128351,
+    -80.677037,
+    28.128351
+],
   "geometry": {"coordinates":[-80.677037,28.128351],"type":"Point"}
 }

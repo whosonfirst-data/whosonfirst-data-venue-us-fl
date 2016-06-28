@@ -2,13 +2,14 @@
   "id": 286477691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341689,25.68777,-80.341689,25.68777",
     "geom:latitude":25.68777,
     "geom:longitude":-80.341689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 N Kendall Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286477691,
-    "wof:lastmodified":1449015662,
+    "wof:lastmodified":1466433386,
     "wof:name":"Radiology Associates S Fla PA",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiologist"
     ]
 },
-  "bbox": [-80.341689,25.68777,-80.341689,25.68777],
+  "bbox": [
+    -80.341689,
+    25.68777,
+    -80.341689,
+    25.68777
+],
   "geometry": {"coordinates":[-80.341689,25.68777],"type":"Point"}
 }

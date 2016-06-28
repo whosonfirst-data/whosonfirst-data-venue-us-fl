@@ -2,13 +2,14 @@
   "id": 202622867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.604137,30.335016,-81.604137,30.335016",
     "geom:latitude":30.335016,
     "geom:longitude":-81.604137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Easter St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202622867,
-    "wof:lastmodified":1449062206,
+    "wof:lastmodified":1466429982,
     "wof:name":"Mohamed Salih Saeed Svc",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.604137,30.335016,-81.604137,30.335016],
-  "geometry": {"coordinates":[-81.604137,30.335016],"type":"Point"}
+  "bbox": [
+    -81.604137,
+    30.335016,
+    -81.604137,
+    30.335016
+],
+  "geometry": {"coordinates":[-81.60413699999999,30.335016],"type":"Point"}
 }

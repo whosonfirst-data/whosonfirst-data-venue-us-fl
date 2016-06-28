@@ -2,13 +2,14 @@
   "id": 286674799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783566,27.978157,-82.783566,27.978157",
     "geom:latitude":27.978157,
     "geom:longitude":-82.783566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Betty Ln",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286674799,
-    "wof:lastmodified":1449017382,
+    "wof:lastmodified":1466436890,
     "wof:name":"Safehouse",
     "wof:parent_id":85888631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-82.783566,27.978157,-82.783566,27.978157],
-  "geometry": {"coordinates":[-82.783566,27.978157],"type":"Point"}
+  "bbox": [
+    -82.783566,
+    27.978157,
+    -82.783566,
+    27.978157
+],
+  "geometry": {"coordinates":[-82.78356599999999,27.978157],"type":"Point"}
 }

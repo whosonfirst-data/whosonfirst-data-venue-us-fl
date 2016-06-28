@@ -2,13 +2,14 @@
   "id": 253579415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.691565,29.987551,-81.691565,29.987551",
     "geom:latitude":29.987551,
     "geom:longitude":-81.691565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Idlewild Ave",
     "sg:city":"Green Cove Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253579415,
-    "wof:lastmodified":1449063766,
+    "wof:lastmodified":1466437053,
     "wof:name":"National Health Lab",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.691565,29.987551,-81.691565,29.987551],
+  "bbox": [
+    -81.691565,
+    29.987551,
+    -81.691565,
+    29.987551
+],
   "geometry": {"coordinates":[-81.691565,29.987551],"type":"Point"}
 }

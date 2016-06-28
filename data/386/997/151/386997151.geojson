@@ -2,13 +2,14 @@
   "id": 386997151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201912,26.067078,-80.201912,26.067078",
     "geom:latitude":26.067078,
     "geom:longitude":-80.201912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4631 SW 42nd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386997151,
-    "wof:lastmodified":1449028899,
+    "wof:lastmodified":1466439445,
     "wof:name":"Brite Electric",
     "wof:parent_id":85842191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.201912,26.067078,-80.201912,26.067078],
-  "geometry": {"coordinates":[-80.201912,26.067078],"type":"Point"}
+  "bbox": [
+    -80.201912,
+    26.067078,
+    -80.201912,
+    26.067078
+],
+  "geometry": {"coordinates":[-80.20191199999999,26.067078],"type":"Point"}
 }

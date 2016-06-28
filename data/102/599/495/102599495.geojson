@@ -2,13 +2,14 @@
   "id": 102599495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.267444,31.004828,-87.267444,31.004828",
     "geom:latitude":31.004828,
     "geom:longitude":-87.267444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Poplar St",
     "sg:city":"Flomaton",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849667,
+        85688651,
         85633793,
         85933009,
         102084839,
-        85688651
+        85849667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102599495,
-    "wof:lastmodified":1449068889,
+    "wof:lastmodified":1466428380,
     "wof:name":"Escambia County Board Of Ed",
     "wof:parent_id":85849667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.267444,31.004828,-87.267444,31.004828],
+  "bbox": [
+    -87.267444,
+    31.004828,
+    -87.267444,
+    31.004828
+],
   "geometry": {"coordinates":[-87.267444,31.004828],"type":"Point"}
 }

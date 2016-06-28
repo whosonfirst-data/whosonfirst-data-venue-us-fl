@@ -2,13 +2,14 @@
   "id": 220200053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.794347,27.960887,-82.794347,27.960887",
     "geom:latitude":27.960887,
     "geom:longitude":-82.794347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Chestnut St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220200053,
-    "wof:lastmodified":1449074357,
+    "wof:lastmodified":1466429582,
     "wof:name":"Prospect Towers Of Clearwater",
     "wof:parent_id":85888657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.794347,27.960887,-82.794347,27.960887],
+  "bbox": [
+    -82.794347,
+    27.960887,
+    -82.794347,
+    27.960887
+],
   "geometry": {"coordinates":[-82.794347,27.960887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370323503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.148165,30.625486,-87.148165,30.625486",
     "geom:latitude":30.625486,
     "geom:longitude":-87.148165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 W Spencer Field Rd",
     "sg:city":"Pace",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370323503,
-    "wof:lastmodified":1449029384,
+    "wof:lastmodified":1466439117,
     "wof:name":"Peck's House Of Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.148165,30.625486,-87.148165,30.625486],
-  "geometry": {"coordinates":[-87.148165,30.625486],"type":"Point"}
+  "bbox": [
+    -87.148165,
+    30.625486,
+    -87.148165,
+    30.625486
+],
+  "geometry": {"coordinates":[-87.14816500000001,30.625486],"type":"Point"}
 }

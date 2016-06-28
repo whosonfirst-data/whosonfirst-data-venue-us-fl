@@ -2,13 +2,14 @@
   "id": 269860305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705203,28.356824,-80.705203,28.356824",
     "geom:latitude":28.356824,
     "geom:longitude":-80.705203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 W Merritt Island Cswy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269860305,
-    "wof:lastmodified":1449037204,
+    "wof:lastmodified":1466435139,
     "wof:name":"Westside Cars",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-80.705203,28.356824,-80.705203,28.356824],
+  "bbox": [
+    -80.705203,
+    28.356824,
+    -80.705203,
+    28.356824
+],
   "geometry": {"coordinates":[-80.705203,28.356824],"type":"Point"}
 }

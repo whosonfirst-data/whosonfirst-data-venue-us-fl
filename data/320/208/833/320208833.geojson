@@ -2,13 +2,14 @@
   "id": 320208833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.332021,25.648716,-80.332021,25.648716",
     "geom:latitude":25.648716,
     "geom:longitude":-80.332021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13114 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320208833,
-    "wof:lastmodified":1449011680,
+    "wof:lastmodified":1466436956,
     "wof:name":"Floors Today",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-80.332021,25.648716,-80.332021,25.648716],
+  "bbox": [
+    -80.332021,
+    25.648716,
+    -80.332021,
+    25.648716
+],
   "geometry": {"coordinates":[-80.332021,25.648716],"type":"Point"}
 }

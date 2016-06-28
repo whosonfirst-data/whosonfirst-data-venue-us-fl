@@ -2,13 +2,14 @@
   "id": 303123631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.636874,30.339056,-81.636874,30.339056",
     "geom:latitude":30.339056,
     "geom:longitude":-81.636874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Haines St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303123631,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1466432646,
     "wof:name":"Sofar Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.636874,30.339056,-81.636874,30.339056],
-  "geometry": {"coordinates":[-81.636874,30.339056],"type":"Point"}
+  "bbox": [
+    -81.636874,
+    30.339056,
+    -81.636874,
+    30.339056
+],
+  "geometry": {"coordinates":[-81.63687400000001,30.339056],"type":"Point"}
 }

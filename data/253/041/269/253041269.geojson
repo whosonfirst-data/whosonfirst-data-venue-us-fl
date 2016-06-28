@@ -2,13 +2,14 @@
   "id": 253041269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.193818,29.230804,-82.193818,29.230804",
     "geom:latitude":29.230804,
     "geom:longitude":-82.193818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 NW 44th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253041269,
-    "wof:lastmodified":1449063897,
+    "wof:lastmodified":1466429060,
     "wof:name":"Silver Oaks Farm",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-82.193818,29.230804,-82.193818,29.230804],
-  "geometry": {"coordinates":[-82.193818,29.230804],"type":"Point"}
+  "bbox": [
+    -82.193818,
+    29.230804,
+    -82.193818,
+    29.230804
+],
+  "geometry": {"coordinates":[-82.19381799999999,29.230804],"type":"Point"}
 }

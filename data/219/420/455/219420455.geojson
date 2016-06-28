@@ -2,13 +2,14 @@
   "id": 219420455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.475771,25.469113,-80.475771,25.469113",
     "geom:latitude":25.469113,
     "geom:longitude":-80.475771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 SE 1st Rd",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219420455,
-    "wof:lastmodified":1449072084,
+    "wof:lastmodified":1466430465,
     "wof:name":"Millennium Medical Group",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.475771,25.469113,-80.475771,25.469113],
-  "geometry": {"coordinates":[-80.475771,25.469113],"type":"Point"}
+  "bbox": [
+    -80.475771,
+    25.469113,
+    -80.475771,
+    25.469113
+],
+  "geometry": {"coordinates":[-80.47577099999999,25.469113],"type":"Point"}
 }

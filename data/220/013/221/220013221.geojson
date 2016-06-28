@@ -2,13 +2,14 @@
   "id": 220013221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087115,26.905413,-80.087115,26.905413",
     "geom:latitude":26.905413,
     "geom:longitude":-80.087115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Schooner Ln",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220013221,
-    "wof:lastmodified":1449074598,
+    "wof:lastmodified":1466443831,
     "wof:name":"Onshore Construction",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.087115,26.905413,-80.087115,26.905413],
+  "bbox": [
+    -80.087115,
+    26.905413,
+    -80.087115,
+    26.905413
+],
   "geometry": {"coordinates":[-80.087115,26.905413],"type":"Point"}
 }

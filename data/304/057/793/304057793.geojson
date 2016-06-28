@@ -2,13 +2,14 @@
   "id": 304057793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.597293,30.151841,-81.597293,30.151841",
     "geom:latitude":30.151841,
     "geom:longitude":-81.597293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 Weatherwood Estates Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304057793,
-    "wof:lastmodified":1449043856,
+    "wof:lastmodified":1466432819,
     "wof:name":"Larry's Giant Subs",
     "wof:parent_id":85870725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.597293,30.151841,-81.597293,30.151841],
-  "geometry": {"coordinates":[-81.597293,30.151841],"type":"Point"}
+  "bbox": [
+    -81.597293,
+    30.151841,
+    -81.597293,
+    30.151841
+],
+  "geometry": {"coordinates":[-81.59729299999999,30.151841],"type":"Point"}
 }

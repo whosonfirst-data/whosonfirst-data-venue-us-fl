@@ -2,13 +2,14 @@
   "id": 303855877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125127,25.929696,-80.125127,25.929696",
     "geom:latitude":25.929696,
     "geom:longitude":-80.125127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Sunny Isles Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303855877,
-    "wof:lastmodified":1448999923,
+    "wof:lastmodified":1466445269,
     "wof:name":"H2o Scuba",
     "wof:parent_id":85851449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "scuba"
     ]
 },
-  "bbox": [-80.125127,25.929696,-80.125127,25.929696],
-  "geometry": {"coordinates":[-80.125127,25.929696],"type":"Point"}
+  "bbox": [
+    -80.125127,
+    25.929696,
+    -80.125127,
+    25.929696
+],
+  "geometry": {"coordinates":[-80.12512700000001,25.929696],"type":"Point"}
 }

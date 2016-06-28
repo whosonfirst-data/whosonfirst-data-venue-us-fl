@@ -2,13 +2,14 @@
   "id": 286264321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546608,27.429565,-82.546608,27.429565",
     "geom:latitude":27.429565,
     "geom:longitude":-82.546608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6210 15th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286264321,
-    "wof:lastmodified":1449017099,
+    "wof:lastmodified":1466429693,
     "wof:name":"Sunset Auto Exchange Inc",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-82.546608,27.429565,-82.546608,27.429565],
-  "geometry": {"coordinates":[-82.546608,27.429565],"type":"Point"}
+  "bbox": [
+    -82.546608,
+    27.429565,
+    -82.546608,
+    27.429565
+],
+  "geometry": {"coordinates":[-82.54660800000001,27.429565],"type":"Point"}
 }

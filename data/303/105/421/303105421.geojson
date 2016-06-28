@@ -2,13 +2,14 @@
   "id": 303105421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.721587,27.867867,-82.721587,27.867867",
     "geom:latitude":27.867867,
     "geom:longitude":-82.721587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6240 105th Ter",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303105421,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466432313,
     "wof:name":"Southern Charm",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-82.721587,27.867867,-82.721587,27.867867],
+  "bbox": [
+    -82.721587,
+    27.867867,
+    -82.721587,
+    27.867867
+],
   "geometry": {"coordinates":[-82.721587,27.867867],"type":"Point"}
 }

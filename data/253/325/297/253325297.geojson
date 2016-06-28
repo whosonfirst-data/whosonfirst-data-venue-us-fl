@@ -2,13 +2,14 @@
   "id": 253325297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505756,27.391633,-82.505756,27.391633",
     "geom:latitude":27.391633,
     "geom:longitude":-82.505756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8364 Lockwood Ridge Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253325297,
-    "wof:lastmodified":1449063982,
+    "wof:lastmodified":1466432604,
     "wof:name":"Radio Shack",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.505756,27.391633,-82.505756,27.391633],
-  "geometry": {"coordinates":[-82.505756,27.391633],"type":"Point"}
+  "bbox": [
+    -82.505756,
+    27.391633,
+    -82.505756,
+    27.391633
+],
+  "geometry": {"coordinates":[-82.50575600000001,27.391633],"type":"Point"}
 }

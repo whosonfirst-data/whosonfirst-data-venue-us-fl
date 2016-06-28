@@ -2,13 +2,14 @@
   "id": 202615099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.622048,28.028251,-80.622048,28.028251",
     "geom:latitude":28.028251,
     "geom:longitude":-80.622048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4940 Babcock St NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202615099,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466429873,
     "wof:name":"EZ Payday Inc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-80.622048,28.028251,-80.622048,28.028251],
-  "geometry": {"coordinates":[-80.622048,28.028251],"type":"Point"}
+  "bbox": [
+    -80.622048,
+    28.028251,
+    -80.622048,
+    28.028251
+],
+  "geometry": {"coordinates":[-80.62204800000001,28.028251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353723929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.679708,28.150356,-80.679708,28.150356",
     "geom:latitude":28.150356,
     "geom:longitude":-80.679708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 Nobility Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353723929,
-    "wof:lastmodified":1449019759,
+    "wof:lastmodified":1466439761,
     "wof:name":"East West Technology",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.679708,28.150356,-80.679708,28.150356],
-  "geometry": {"coordinates":[-80.679708,28.150356],"type":"Point"}
+  "bbox": [
+    -80.679708,
+    28.150356,
+    -80.679708,
+    28.150356
+],
+  "geometry": {"coordinates":[-80.67970800000001,28.150356],"type":"Point"}
 }

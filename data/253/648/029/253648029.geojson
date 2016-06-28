@@ -2,13 +2,14 @@
   "id": 253648029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207011,25.992407,-80.207011,25.992407",
     "geom:latitude":25.992407,
     "geom:longitude":-80.207011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 S State Rd 7",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253648029,
-    "wof:lastmodified":1449063620,
+    "wof:lastmodified":1466438268,
     "wof:name":"St Stephen School",
     "wof:parent_id":85878191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "catholic"
     ]
 },
-  "bbox": [-80.207011,25.992407,-80.207011,25.992407],
-  "geometry": {"coordinates":[-80.207011,25.992407],"type":"Point"}
+  "bbox": [
+    -80.207011,
+    25.992407,
+    -80.207011,
+    25.992407
+],
+  "geometry": {"coordinates":[-80.20701099999999,25.992407],"type":"Point"}
 }

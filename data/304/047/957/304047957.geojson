@@ -2,13 +2,14 @@
   "id": 304047957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.655399,30.410515,-86.655399,30.410515",
     "geom:latitude":30.410515,
     "geom:longitude":-86.655399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Mary Esther Blvd",
     "sg:city":"Mary Esther",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304047957,
-    "wof:lastmodified":1449043988,
+    "wof:lastmodified":1466432652,
     "wof:name":"Heroes Ball Park",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.655399,30.410515,-86.655399,30.410515],
+  "bbox": [
+    -86.655399,
+    30.410515,
+    -86.655399,
+    30.410515
+],
   "geometry": {"coordinates":[-86.655399,30.410515],"type":"Point"}
 }

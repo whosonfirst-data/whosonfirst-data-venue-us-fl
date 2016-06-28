@@ -2,13 +2,14 @@
   "id": 303233547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.597317,28.145844,-80.597317,28.145844",
     "geom:latitude":28.145844,
     "geom:longitude":-80.597317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Cheyenne Ct",
     "sg:city":"Indian Hrbr Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303233547,
-    "wof:lastmodified":1449000606,
+    "wof:lastmodified":1466434567,
     "wof:name":"Melbourne Beach Police Dept",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.597317,28.145844,-80.597317,28.145844],
+  "bbox": [
+    -80.597317,
+    28.145844,
+    -80.597317,
+    28.145844
+],
   "geometry": {"coordinates":[-80.597317,28.145844],"type":"Point"}
 }

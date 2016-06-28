@@ -2,13 +2,14 @@
   "id": 303051703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225276,26.634101,-80.225276,26.634101",
     "geom:latitude":26.634101,
     "geom:longitude":-80.225276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11420 Fortune Cir",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303051703,
-    "wof:lastmodified":1448999629,
+    "wof:lastmodified":1466431343,
     "wof:name":"Southwide Industries",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marking"
     ]
 },
-  "bbox": [-80.225276,26.634101,-80.225276,26.634101],
-  "geometry": {"coordinates":[-80.225276,26.634101],"type":"Point"}
+  "bbox": [
+    -80.225276,
+    26.634101,
+    -80.225276,
+    26.634101
+],
+  "geometry": {"coordinates":[-80.22527599999999,26.634101],"type":"Point"}
 }

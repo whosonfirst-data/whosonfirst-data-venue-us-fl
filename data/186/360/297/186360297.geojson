@@ -2,13 +2,14 @@
   "id": 186360297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.796518,27.962011,-82.796518,27.962011",
     "geom:latitude":27.962011,
     "geom:longitude":-82.796518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Court St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186360297,
-    "wof:lastmodified":1449052392,
+    "wof:lastmodified":1466431029,
     "wof:name":"Saint Petersburg Times",
     "wof:parent_id":85888657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "publishing"
     ]
 },
-  "bbox": [-82.796518,27.962011,-82.796518,27.962011],
-  "geometry": {"coordinates":[-82.796518,27.962011],"type":"Point"}
+  "bbox": [
+    -82.796518,
+    27.962011,
+    -82.796518,
+    27.962011
+],
+  "geometry": {"coordinates":[-82.79651800000001,27.962011],"type":"Point"}
 }

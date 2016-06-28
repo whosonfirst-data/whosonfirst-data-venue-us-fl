@@ -2,13 +2,14 @@
   "id": 186129755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.790926,26.147874,-81.790926,26.147874",
     "geom:latitude":26.147874,
     "geom:longitude":-81.790926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Goodlette Rd S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186129755,
-    "wof:lastmodified":1449052492,
+    "wof:lastmodified":1466446077,
     "wof:name":"Furniture Collection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-81.790926,26.147874,-81.790926,26.147874],
+  "bbox": [
+    -81.790926,
+    26.147874,
+    -81.790926,
+    26.147874
+],
   "geometry": {"coordinates":[-81.790926,26.147874],"type":"Point"}
 }

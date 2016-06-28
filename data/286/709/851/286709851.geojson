@@ -2,13 +2,14 @@
   "id": 286709851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813623,26.205046,-81.813623,26.205046",
     "geom:latitude":26.205046,
     "geom:longitude":-81.813623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286709851,
-    "wof:lastmodified":1449015748,
+    "wof:lastmodified":1466437514,
     "wof:name":"Meridian Condominium Office",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.813623,26.205046,-81.813623,26.205046],
-  "geometry": {"coordinates":[-81.813623,26.205046],"type":"Point"}
+  "bbox": [
+    -81.813623,
+    26.205046,
+    -81.813623,
+    26.205046
+],
+  "geometry": {"coordinates":[-81.81362300000001,26.205046],"type":"Point"}
 }

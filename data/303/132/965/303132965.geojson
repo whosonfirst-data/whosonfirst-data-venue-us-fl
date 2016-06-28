@@ -2,13 +2,14 @@
   "id": 303132965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.117745,26.146448,-80.117745,26.146448",
     "geom:latitude":26.146448,
     "geom:longitude":-80.117745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2046 NE 15th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303132965,
-    "wof:lastmodified":1448999316,
+    "wof:lastmodified":1466432803,
     "wof:name":"Dent Doctor",
     "wof:parent_id":85877485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.117745,26.146448,-80.117745,26.146448],
+  "bbox": [
+    -80.117745,
+    26.146448,
+    -80.117745,
+    26.146448
+],
   "geometry": {"coordinates":[-80.117745,26.146448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185830663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735705,30.265556,-81.735705,30.265556",
     "geom:latitude":30.265556,
     "geom:longitude":-81.735705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Confederate Point Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185830663,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466429307,
     "wof:name":"WJXR",
     "wof:parent_id":85829203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.735705,30.265556,-81.735705,30.265556],
+  "bbox": [
+    -81.735705,
+    30.265556,
+    -81.735705,
+    30.265556
+],
   "geometry": {"coordinates":[-81.735705,30.265556],"type":"Point"}
 }

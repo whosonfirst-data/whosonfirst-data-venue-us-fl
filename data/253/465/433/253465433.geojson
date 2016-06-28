@@ -2,13 +2,14 @@
   "id": 253465433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10542,26.168619,-80.10542,26.168619",
     "geom:latitude":26.168619,
     "geom:longitude":-80.10542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 NE 32nd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253465433,
-    "wof:lastmodified":1449064827,
+    "wof:lastmodified":1466435003,
     "wof:name":"Sauve Line",
     "wof:parent_id":85812259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.10542,26.168619,-80.10542,26.168619],
+  "bbox": [
+    -80.10542,
+    26.168619,
+    -80.10542,
+    26.168619
+],
   "geometry": {"coordinates":[-80.10542,26.168619],"type":"Point"}
 }

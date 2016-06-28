@@ -2,13 +2,14 @@
   "id": 236432477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.629224,30.171837,-81.629224,30.171837",
     "geom:latitude":30.171837,
     "geom:longitude":-81.629224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11234 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236432477,
-    "wof:lastmodified":1449001633,
+    "wof:lastmodified":1466434522,
     "wof:name":"Watson and Osborne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.629224,30.171837,-81.629224,30.171837],
-  "geometry": {"coordinates":[-81.629224,30.171837],"type":"Point"}
+  "bbox": [
+    -81.629224,
+    30.171837,
+    -81.629224,
+    30.171837
+],
+  "geometry": {"coordinates":[-81.62922399999999,30.171837],"type":"Point"}
 }

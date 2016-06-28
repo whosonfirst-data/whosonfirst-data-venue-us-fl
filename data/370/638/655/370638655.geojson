@@ -2,13 +2,14 @@
   "id": 370638655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13317,26.189955,-80.13317,26.189955",
     "geom:latitude":26.189955,
     "geom:longitude":-80.13317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5066 N Dixie Hwy",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370638655,
-    "wof:lastmodified":1449029265,
+    "wof:lastmodified":1466443969,
     "wof:name":"All Broward Police Equipment",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.13317,26.189955,-80.13317,26.189955],
-  "geometry": {"coordinates":[-80.13317,26.189955],"type":"Point"}
+  "bbox": [
+    -80.13317,
+    26.189955,
+    -80.13317,
+    26.189955
+],
+  "geometry": {"coordinates":[-80.13317000000001,26.189955],"type":"Point"}
 }

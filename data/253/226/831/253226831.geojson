@@ -2,13 +2,14 @@
   "id": 253226831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.312812,29.892222,-81.312812,29.892222",
     "geom:latitude":29.892222,
     "geom:longitude":-81.312812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 King St",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253226831,
-    "wof:lastmodified":1449064975,
+    "wof:lastmodified":1466431109,
     "wof:name":"Potters Museum Shop",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-81.312812,29.892222,-81.312812,29.892222],
-  "geometry": {"coordinates":[-81.312812,29.892222],"type":"Point"}
+  "bbox": [
+    -81.312812,
+    29.892222,
+    -81.312812,
+    29.892222
+],
+  "geometry": {"coordinates":[-81.31281199999999,29.892222],"type":"Point"}
 }

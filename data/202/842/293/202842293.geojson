@@ -2,13 +2,14 @@
   "id": 202842293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.594884,30.290484,-81.594884,30.290484",
     "geom:latitude":30.290484,
     "geom:longitude":-81.594884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6444 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202842293,
-    "wof:lastmodified":1449060299,
+    "wof:lastmodified":1466432828,
     "wof:name":"Jacksonville Cardiovascular",
     "wof:parent_id":85868537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.594884,30.290484,-81.594884,30.290484],
-  "geometry": {"coordinates":[-81.594884,30.290484],"type":"Point"}
+  "bbox": [
+    -81.594884,
+    30.290484,
+    -81.594884,
+    30.290484
+],
+  "geometry": {"coordinates":[-81.59488399999999,30.290484],"type":"Point"}
 }

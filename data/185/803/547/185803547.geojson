@@ -2,13 +2,14 @@
   "id": 185803547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.16682,30.497967,-84.16682,30.497967",
     "geom:latitude":30.497967,
     "geom:longitude":-84.16682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6492 Justin Grant Trl",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185803547,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466429024,
     "wof:name":"Lawn Keepers",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.16682,30.497967,-84.16682,30.497967],
+  "bbox": [
+    -84.16682,
+    30.497967,
+    -84.16682,
+    30.497967
+],
   "geometry": {"coordinates":[-84.16682,30.497967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253514921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.940884,26.645307,-81.940884,26.645307",
     "geom:latitude":26.645307,
     "geom:longitude":-81.940884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 del Prado Blvd S",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253514921,
-    "wof:lastmodified":1449064310,
+    "wof:lastmodified":1466435869,
     "wof:name":"Southwest Fl Neurosurgical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.940884,26.645307,-81.940884,26.645307],
+  "bbox": [
+    -81.940884,
+    26.645307,
+    -81.940884,
+    26.645307
+],
   "geometry": {"coordinates":[-81.940884,26.645307],"type":"Point"}
 }

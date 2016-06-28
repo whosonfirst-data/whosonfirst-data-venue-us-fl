@@ -2,13 +2,14 @@
   "id": 202605329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293276,25.957135,-80.293276,25.957135",
     "geom:latitude":25.957135,
     "geom:longitude":-80.293276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 NW 202nd Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202605329,
-    "wof:lastmodified":1449061368,
+    "wof:lastmodified":1466429742,
     "wof:name":"Royal Country Inc",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "community"
     ]
 },
-  "bbox": [-80.293276,25.957135,-80.293276,25.957135],
-  "geometry": {"coordinates":[-80.293276,25.957135],"type":"Point"}
+  "bbox": [
+    -80.293276,
+    25.957135,
+    -80.293276,
+    25.957135
+],
+  "geometry": {"coordinates":[-80.29327600000001,25.957135],"type":"Point"}
 }

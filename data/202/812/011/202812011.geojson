@@ -2,13 +2,14 @@
   "id": 202812011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.05546,26.666806,-80.05546,26.666806",
     "geom:latitude":26.666806,
     "geom:longitude":-80.05546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 S Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202812011,
-    "wof:lastmodified":1449060168,
+    "wof:lastmodified":1466432406,
     "wof:name":"Jay Millstein Antiques",
     "wof:parent_id":85881817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-80.05546,26.666806,-80.05546,26.666806],
+  "bbox": [
+    -80.05546,
+    26.666806,
+    -80.05546,
+    26.666806
+],
   "geometry": {"coordinates":[-80.05546,26.666806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303719149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.089547,26.974736,-82.089547,26.974736",
     "geom:latitude":26.974736,
     "geom:longitude":-82.089547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 Tamiami Trl",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303719149,
-    "wof:lastmodified":1448998433,
+    "wof:lastmodified":1466442949,
     "wof:name":"First Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-82.089547,26.974736,-82.089547,26.974736],
+  "bbox": [
+    -82.089547,
+    26.974736,
+    -82.089547,
+    26.974736
+],
   "geometry": {"coordinates":[-82.089547,26.974736],"type":"Point"}
 }

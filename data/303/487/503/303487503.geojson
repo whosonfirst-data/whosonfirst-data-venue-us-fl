@@ -2,13 +2,14 @@
   "id": 303487503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.925976,28.048976,-81.925976,28.048976",
     "geom:latitude":28.048976,
     "geom:longitude":-81.925976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 E Gary Rd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303487503,
-    "wof:lastmodified":1448998916,
+    "wof:lastmodified":1466438937,
     "wof:name":"Lakeland Sanitary & Janitors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.925976,28.048976,-81.925976,28.048976],
-  "geometry": {"coordinates":[-81.925976,28.048976],"type":"Point"}
+  "bbox": [
+    -81.925976,
+    28.048976,
+    -81.925976,
+    28.048976
+],
+  "geometry": {"coordinates":[-81.92597600000001,28.048976],"type":"Point"}
 }

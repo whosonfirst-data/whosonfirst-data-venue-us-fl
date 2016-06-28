@@ -2,13 +2,14 @@
   "id": 303543091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.667008,28.07329,-80.667008,28.07329",
     "geom:latitude":28.07329,
     "geom:longitude":-80.667008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Lake Ct",
     "sg:city":"West Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303543091,
-    "wof:lastmodified":1448998591,
+    "wof:lastmodified":1466439898,
     "wof:name":"Grand Oaks",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.667008,28.07329,-80.667008,28.07329],
+  "bbox": [
+    -80.667008,
+    28.07329,
+    -80.667008,
+    28.07329
+],
   "geometry": {"coordinates":[-80.667008,28.07329],"type":"Point"}
 }

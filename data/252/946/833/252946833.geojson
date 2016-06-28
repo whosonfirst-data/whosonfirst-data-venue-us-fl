@@ -2,13 +2,14 @@
   "id": 252946833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.66431,30.371877,-81.66431,30.371877",
     "geom:latitude":30.371877,
     "geom:longitude":-81.66431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Norwood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252946833,
-    "wof:lastmodified":1449006384,
+    "wof:lastmodified":1466431881,
     "wof:name":"Gateway Maintenance",
     "wof:parent_id":85838513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.66431,30.371877,-81.66431,30.371877],
+  "bbox": [
+    -81.66431,
+    30.371877,
+    -81.66431,
+    30.371877
+],
   "geometry": {"coordinates":[-81.66431,30.371877],"type":"Point"}
 }

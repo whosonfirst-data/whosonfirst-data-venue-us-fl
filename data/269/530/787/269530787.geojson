@@ -2,13 +2,14 @@
   "id": 269530787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.485008,28.142944,-82.485008,28.142944",
     "geom:latitude":28.142944,
     "geom:longitude":-82.485008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18201 Griffith Rd",
     "sg:city":"Lutz",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269530787,
-    "wof:lastmodified":1449037415,
+    "wof:lastmodified":1466429308,
     "wof:name":"Wheatley Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.485008,28.142944,-82.485008,28.142944],
-  "geometry": {"coordinates":[-82.485008,28.142944],"type":"Point"}
+  "bbox": [
+    -82.485008,
+    28.142944,
+    -82.485008,
+    28.142944
+],
+  "geometry": {"coordinates":[-82.48500799999999,28.142944],"type":"Point"}
 }

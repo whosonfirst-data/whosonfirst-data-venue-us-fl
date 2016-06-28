@@ -2,13 +2,14 @@
   "id": 303081645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.72251,28.278797,-82.72251,28.278797",
     "geom:latitude":28.278797,
     "geom:longitude":-82.72251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5602 Quist Dr",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303081645,
-    "wof:lastmodified":1448998874,
+    "wof:lastmodified":1466431880,
     "wof:name":"Brandon Lodge",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-82.72251,28.278797,-82.72251,28.278797],
+  "bbox": [
+    -82.72251,
+    28.278797,
+    -82.72251,
+    28.278797
+],
   "geometry": {"coordinates":[-82.72251,28.278797],"type":"Point"}
 }

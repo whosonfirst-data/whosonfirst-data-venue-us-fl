@@ -2,13 +2,14 @@
   "id": 236754023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.493242,27.930485,-82.493242,27.930485",
     "geom:latitude":27.930485,
     "geom:longitude":-82.493242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 W Prospect Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236754023,
-    "wof:lastmodified":1449003888,
+    "wof:lastmodified":1466439196,
     "wof:name":"Fox Farm Management Inc",
     "wof:parent_id":85873231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.493242,27.930485,-82.493242,27.930485],
+  "bbox": [
+    -82.493242,
+    27.930485,
+    -82.493242,
+    27.930485
+],
   "geometry": {"coordinates":[-82.493242,27.930485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320089611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237603,26.123486,-80.237603,26.123486",
     "geom:latitude":26.123486,
     "geom:longitude":-80.237603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 Cypress Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320089611,
-    "wof:lastmodified":1449012018,
+    "wof:lastmodified":1466434912,
     "wof:name":"Kurth Apts",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.237603,26.123486,-80.237603,26.123486],
-  "geometry": {"coordinates":[-80.237603,26.123486],"type":"Point"}
+  "bbox": [
+    -80.237603,
+    26.123486,
+    -80.237603,
+    26.123486
+],
+  "geometry": {"coordinates":[-80.23760299999999,26.123486],"type":"Point"}
 }

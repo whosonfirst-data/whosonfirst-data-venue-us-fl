@@ -2,13 +2,14 @@
   "id": 303398173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.526716,27.908835,-82.526716,27.908835",
     "geom:latitude":27.908835,
     "geom:longitude":-82.526716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3627 S West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303398173,
-    "wof:lastmodified":1448998315,
+    "wof:lastmodified":1466437393,
     "wof:name":"Something Different",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-82.526716,27.908835,-82.526716,27.908835],
-  "geometry": {"coordinates":[-82.526716,27.908835],"type":"Point"}
+  "bbox": [
+    -82.526716,
+    27.908835,
+    -82.526716,
+    27.908835
+],
+  "geometry": {"coordinates":[-82.52671599999999,27.908835],"type":"Point"}
 }

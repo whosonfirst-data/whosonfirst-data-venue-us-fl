@@ -2,13 +2,14 @@
   "id": 387558561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813365,30.332294,-81.813365,30.332294",
     "geom:latitude":30.332294,
     "geom:longitude":-81.813365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9420 Old Plank Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387558561,
-    "wof:lastmodified":1449057134,
+    "wof:lastmodified":1466446879,
     "wof:name":"West Shores Baptist Church",
     "wof:parent_id":85857523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.813365,30.332294,-81.813365,30.332294],
+  "bbox": [
+    -81.813365,
+    30.332294,
+    -81.813365,
+    30.332294
+],
   "geometry": {"coordinates":[-81.813365,30.332294],"type":"Point"}
 }

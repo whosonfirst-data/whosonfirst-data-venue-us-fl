@@ -2,13 +2,14 @@
   "id": 320289173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293518,25.729094,-80.293518,25.729094",
     "geom:latitude":25.729094,
     "geom:longitude":-80.293518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6141 SW 45th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320289173,
-    "wof:lastmodified":1449014353,
+    "wof:lastmodified":1466438328,
     "wof:name":"Mundo Vitral",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.293518,25.729094,-80.293518,25.729094],
-  "geometry": {"coordinates":[-80.293518,25.729094],"type":"Point"}
+  "bbox": [
+    -80.293518,
+    25.729094,
+    -80.293518,
+    25.729094
+],
+  "geometry": {"coordinates":[-80.29351800000001,25.729094],"type":"Point"}
 }

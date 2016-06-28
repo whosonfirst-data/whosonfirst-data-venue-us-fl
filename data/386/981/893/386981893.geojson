@@ -2,13 +2,14 @@
   "id": 386981893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.057708,29.284121,-81.057708,29.284121",
     "geom:latitude":29.284121,
     "geom:longitude":-81.057708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Corbin Ave",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386981893,
-    "wof:lastmodified":1449028973,
+    "wof:lastmodified":1466439216,
     "wof:name":"Ormond Beach Elementary School",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.057708,29.284121,-81.057708,29.284121],
-  "geometry": {"coordinates":[-81.057708,29.284121],"type":"Point"}
+  "bbox": [
+    -81.057708,
+    29.284121,
+    -81.057708,
+    29.284121
+],
+  "geometry": {"coordinates":[-81.05770800000001,29.284121],"type":"Point"}
 }

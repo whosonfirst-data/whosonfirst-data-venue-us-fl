@@ -2,13 +2,14 @@
   "id": 203402041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.202352,30.488096,-87.202352,30.488096",
     "geom:latitude":30.488096,
     "geom:longitude":-87.202352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2095 Langley Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203402041,
-    "wof:lastmodified":1449025519,
+    "wof:lastmodified":1466431457,
     "wof:name":"Quicksilver Home Repair",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.202352,30.488096,-87.202352,30.488096],
+  "bbox": [
+    -87.202352,
+    30.488096,
+    -87.202352,
+    30.488096
+],
   "geometry": {"coordinates":[-87.202352,30.488096],"type":"Point"}
 }

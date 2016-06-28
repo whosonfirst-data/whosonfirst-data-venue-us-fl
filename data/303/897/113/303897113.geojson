@@ -2,13 +2,14 @@
   "id": 303897113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404789,28.426102,-81.404789,28.426102",
     "geom:latitude":28.426102,
     "geom:longitude":-81.404789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9448 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303897113,
-    "wof:lastmodified":1449000164,
+    "wof:lastmodified":1466446008,
     "wof:name":"Discount Mattress Barn",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.404789,28.426102,-81.404789,28.426102],
-  "geometry": {"coordinates":[-81.404789,28.426102],"type":"Point"}
+  "bbox": [
+    -81.404789,
+    28.426102,
+    -81.404789,
+    28.426102
+],
+  "geometry": {"coordinates":[-81.40478899999999,28.426102],"type":"Point"}
 }

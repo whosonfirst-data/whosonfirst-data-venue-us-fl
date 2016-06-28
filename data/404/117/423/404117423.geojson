@@ -2,13 +2,14 @@
   "id": 404117423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.274558,28.244094,-81.274558,28.244094",
     "geom:latitude":28.244094,
     "geom:longitude":-81.274558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Maryland Ave",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404117423,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1466442059,
     "wof:name":"Florida Refrigerated Transfer",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.274558,28.244094,-81.274558,28.244094],
+  "bbox": [
+    -81.274558,
+    28.244094,
+    -81.274558,
+    28.244094
+],
   "geometry": {"coordinates":[-81.274558,28.244094],"type":"Point"}
 }

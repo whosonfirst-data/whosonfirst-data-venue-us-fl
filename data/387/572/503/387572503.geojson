@@ -2,13 +2,14 @@
   "id": 387572503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143199,26.372995,-80.143199,26.372995",
     "geom:latitude":26.372995,
     "geom:longitude":-80.143199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2773 NW 26th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387572503,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1466447434,
     "wof:name":"Ace Fence Co",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.143199,26.372995,-80.143199,26.372995],
+  "bbox": [
+    -80.143199,
+    26.372995,
+    -80.143199,
+    26.372995
+],
   "geometry": {"coordinates":[-80.143199,26.372995],"type":"Point"}
 }

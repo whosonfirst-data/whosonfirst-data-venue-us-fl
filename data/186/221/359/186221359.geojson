@@ -2,13 +2,14 @@
   "id": 186221359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.632185,30.452559,-86.632185,30.452559",
     "geom:latitude":30.452559,
     "geom:longitude":-86.632185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Mar Walt Dr",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186221359,
-    "wof:lastmodified":1449051552,
+    "wof:lastmodified":1466429353,
     "wof:name":"Steven P Doheny MD",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.632185,30.452559,-86.632185,30.452559],
-  "geometry": {"coordinates":[-86.632185,30.452559],"type":"Point"}
+  "bbox": [
+    -86.632185,
+    30.452559,
+    -86.632185,
+    30.452559
+],
+  "geometry": {"coordinates":[-86.63218500000001,30.452559],"type":"Point"}
 }

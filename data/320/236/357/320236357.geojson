@@ -2,13 +2,14 @@
   "id": 320236357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146667,26.348369,-80.146667,26.348369",
     "geom:latitude":26.348369,
     "geom:longitude":-80.146667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6562 Boca del Mar Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320236357,
-    "wof:lastmodified":1449011638,
+    "wof:lastmodified":1466437429,
     "wof:name":"Coldwell Banker",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.146667,26.348369,-80.146667,26.348369],
-  "geometry": {"coordinates":[-80.146667,26.348369],"type":"Point"}
+  "bbox": [
+    -80.146667,
+    26.348369,
+    -80.146667,
+    26.348369
+],
+  "geometry": {"coordinates":[-80.14666699999999,26.348369],"type":"Point"}
 }

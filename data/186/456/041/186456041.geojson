@@ -2,13 +2,14 @@
   "id": 186456041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.673509,30.322303,-81.673509,30.322303",
     "geom:latitude":30.322303,
     "geom:longitude":-81.673509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 May St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186456041,
-    "wof:lastmodified":1449051172,
+    "wof:lastmodified":1466432248,
     "wof:name":"GAI Consultants Se",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.673509,30.322303,-81.673509,30.322303],
+  "bbox": [
+    -81.673509,
+    30.322303,
+    -81.673509,
+    30.322303
+],
   "geometry": {"coordinates":[-81.673509,30.322303],"type":"Point"}
 }

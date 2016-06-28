@@ -2,13 +2,14 @@
   "id": 303783177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.720239,30.161379,-81.720239,30.161379",
     "geom:latitude":30.161379,
     "geom:longitude":-81.720239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Hopkins St",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303783177,
-    "wof:lastmodified":1448998197,
+    "wof:lastmodified":1466444021,
     "wof:name":"Express Agency Typing Service",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-81.720239,30.161379,-81.720239,30.161379],
-  "geometry": {"coordinates":[-81.720239,30.161379],"type":"Point"}
+  "bbox": [
+    -81.720239,
+    30.161379,
+    -81.720239,
+    30.161379
+],
+  "geometry": {"coordinates":[-81.72023900000001,30.161379],"type":"Point"}
 }

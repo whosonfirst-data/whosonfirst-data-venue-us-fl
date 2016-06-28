@@ -2,13 +2,14 @@
   "id": 354034115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.77013,28.554206,-81.77013,28.554206",
     "geom:latitude":28.554206,
     "geom:longitude":-81.77013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 W Desoto St",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354034115,
-    "wof:lastmodified":1449066123,
+    "wof:lastmodified":1466436583,
     "wof:name":"DTS Restorative Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "damage"
     ]
 },
-  "bbox": [-81.77013,28.554206,-81.77013,28.554206],
-  "geometry": {"coordinates":[-81.77013,28.554206],"type":"Point"}
+  "bbox": [
+    -81.77013,
+    28.554206,
+    -81.77013,
+    28.554206
+],
+  "geometry": {"coordinates":[-81.77012999999999,28.554206],"type":"Point"}
 }

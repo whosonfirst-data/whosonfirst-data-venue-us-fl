@@ -2,13 +2,14 @@
   "id": 287133383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.371496,27.314445,-80.371496,27.314445",
     "geom:latitude":27.314445,
     "geom:longitude":-80.371496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 SW Bayshore Blvd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287133383,
-    "wof:lastmodified":1449001407,
+    "wof:lastmodified":1466432195,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.371496,27.314445,-80.371496,27.314445],
-  "geometry": {"coordinates":[-80.371496,27.314445],"type":"Point"}
+  "bbox": [
+    -80.371496,
+    27.314445,
+    -80.371496,
+    27.314445
+],
+  "geometry": {"coordinates":[-80.37149599999999,27.314445],"type":"Point"}
 }

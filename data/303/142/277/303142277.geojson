@@ -2,13 +2,14 @@
   "id": 303142277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144655,26.148218,-80.144655,26.148218",
     "geom:latitude":26.148218,
     "geom:longitude":-80.144655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 NE 16th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303142277,
-    "wof:lastmodified":1449000076,
+    "wof:lastmodified":1466432976,
     "wof:name":"Custom Tile Installation Inc",
     "wof:parent_id":85877527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.144655,26.148218,-80.144655,26.148218],
+  "bbox": [
+    -80.144655,
+    26.148218,
+    -80.144655,
+    26.148218
+],
   "geometry": {"coordinates":[-80.144655,26.148218],"type":"Point"}
 }

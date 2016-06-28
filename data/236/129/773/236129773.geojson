@@ -2,13 +2,14 @@
   "id": 236129773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.635618,27.768653,-82.635618,27.768653",
     "geom:latitude":27.768653,
     "geom:longitude":-82.635618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 2nd St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236129773,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466430210,
     "wof:name":"Pacific Wave",
     "wof:parent_id":85881941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.635618,27.768653,-82.635618,27.768653],
-  "geometry": {"coordinates":[-82.635618,27.768653],"type":"Point"}
+  "bbox": [
+    -82.635618,
+    27.768653,
+    -82.635618,
+    27.768653
+],
+  "geometry": {"coordinates":[-82.63561799999999,27.768653],"type":"Point"}
 }

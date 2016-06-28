@@ -2,13 +2,14 @@
   "id": 370989825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335209,25.565199,-80.335209,25.565199",
     "geom:latitude":25.565199,
     "geom:longitude":-80.335209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21524 SW 88th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370989825,
-    "wof:lastmodified":1449031576,
+    "wof:lastmodified":1466448165,
     "wof:name":"Absolute Pick Up & Delivery",
     "wof:parent_id":85865235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.335209,25.565199,-80.335209,25.565199],
-  "geometry": {"coordinates":[-80.335209,25.565199],"type":"Point"}
+  "bbox": [
+    -80.335209,
+    25.565199,
+    -80.335209,
+    25.565199
+],
+  "geometry": {"coordinates":[-80.33520900000001,25.565199],"type":"Point"}
 }

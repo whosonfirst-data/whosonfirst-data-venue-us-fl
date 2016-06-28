@@ -2,13 +2,14 @@
   "id": 404072943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40672,29.746273,-82.40672,29.746273",
     "geom:latitude":29.746273,
     "geom:longitude":-82.40672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10713 NW 59 Ter",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404072943,
-    "wof:lastmodified":1449039767,
+    "wof:lastmodified":1466441375,
     "wof:name":"Future Trees Inc",
     "wof:parent_id":85877655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-82.40672,29.746273,-82.40672,29.746273],
-  "geometry": {"coordinates":[-82.40672,29.746273],"type":"Point"}
+  "bbox": [
+    -82.40672,
+    29.746273,
+    -82.40672,
+    29.746273
+],
+  "geometry": {"coordinates":[-82.40672000000001,29.746273],"type":"Point"}
 }

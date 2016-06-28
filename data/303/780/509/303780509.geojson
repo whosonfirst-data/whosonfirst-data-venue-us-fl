@@ -2,13 +2,14 @@
   "id": 303780509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256633,26.272458,-80.256633,26.272458",
     "geom:latitude":26.272458,
     "geom:longitude":-80.256633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 W Sample Rd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303780509,
-    "wof:lastmodified":1448999949,
+    "wof:lastmodified":1466443976,
     "wof:name":"Biopass Medical",
     "wof:parent_id":85876873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.256633,26.272458,-80.256633,26.272458],
-  "geometry": {"coordinates":[-80.256633,26.272458],"type":"Point"}
+  "bbox": [
+    -80.256633,
+    26.272458,
+    -80.256633,
+    26.272458
+],
+  "geometry": {"coordinates":[-80.25663299999999,26.272458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371126621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.72602,26.253552,-81.72602,26.253552",
     "geom:latitude":26.253552,
     "geom:longitude":-81.72602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5980 14th Ave NW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371126621,
-    "wof:lastmodified":1449049408,
+    "wof:lastmodified":1466439492,
     "wof:name":"Palm River Pools Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.72602,26.253552,-81.72602,26.253552],
-  "geometry": {"coordinates":[-81.72602,26.253552],"type":"Point"}
+  "bbox": [
+    -81.72602,
+    26.253552,
+    -81.72602,
+    26.253552
+],
+  "geometry": {"coordinates":[-81.72602000000001,26.253552],"type":"Point"}
 }

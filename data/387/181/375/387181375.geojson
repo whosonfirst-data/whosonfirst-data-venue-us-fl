@@ -2,13 +2,14 @@
   "id": 387181375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.419536,28.080555,-82.419536,28.080555",
     "geom:latitude":28.080555,
     "geom:longitude":-82.419536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14535 Bruce B Downs Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387181375,
-    "wof:lastmodified":1449058433,
+    "wof:lastmodified":1466441498,
     "wof:name":"High Associates",
     "wof:parent_id":85889771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.419536,28.080555,-82.419536,28.080555],
-  "geometry": {"coordinates":[-82.419536,28.080555],"type":"Point"}
+  "bbox": [
+    -82.419536,
+    28.080555,
+    -82.419536,
+    28.080555
+],
+  "geometry": {"coordinates":[-82.41953599999999,28.080555],"type":"Point"}
 }

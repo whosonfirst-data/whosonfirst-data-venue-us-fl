@@ -2,13 +2,14 @@
   "id": 220003771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256534,25.760677,-80.256534,25.760677",
     "geom:latitude":25.760677,
     "geom:longitude":-80.256534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Antilla Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220003771,
-    "wof:lastmodified":1449074820,
+    "wof:lastmodified":1466443176,
     "wof:name":"Maria Sagaro Export",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.256534,25.760677,-80.256534,25.760677],
+  "bbox": [
+    -80.256534,
+    25.760677,
+    -80.256534,
+    25.760677
+],
   "geometry": {"coordinates":[-80.256534,25.760677],"type":"Point"}
 }

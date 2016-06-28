@@ -2,13 +2,14 @@
   "id": 353851379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.65488,27.764201,-82.65488,27.764201",
     "geom:latitude":27.764201,
     "geom:longitude":-82.65488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 16th St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353851379,
-    "wof:lastmodified":1449019922,
+    "wof:lastmodified":1466441726,
     "wof:name":"John Hopkins Middle School",
     "wof:parent_id":85889541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-82.65488,27.764201,-82.65488,27.764201],
-  "geometry": {"coordinates":[-82.65488,27.764201],"type":"Point"}
+  "bbox": [
+    -82.65488,
+    27.764201,
+    -82.65488,
+    27.764201
+],
+  "geometry": {"coordinates":[-82.65488000000001,27.764201],"type":"Point"}
 }

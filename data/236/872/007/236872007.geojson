@@ -2,13 +2,14 @@
   "id": 236872007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339751,25.863051,-80.339751,25.863051",
     "geom:latitude":25.863051,
     "geom:longitude":-80.339751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8730 NW 100th St",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236872007,
-    "wof:lastmodified":1449001896,
+    "wof:lastmodified":1466440842,
     "wof:name":"CTE Warehouse",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.339751,25.863051,-80.339751,25.863051],
-  "geometry": {"coordinates":[-80.339751,25.863051],"type":"Point"}
+  "bbox": [
+    -80.339751,
+    25.863051,
+    -80.339751,
+    25.863051
+],
+  "geometry": {"coordinates":[-80.33975100000001,25.863051],"type":"Point"}
 }

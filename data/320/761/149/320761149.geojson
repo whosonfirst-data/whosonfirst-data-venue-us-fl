@@ -2,13 +2,14 @@
   "id": 320761149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544547,27.336065,-82.544547,27.336065",
     "geom:latitude":27.336065,
     "geom:longitude":-82.544547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 N Palm Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320761149,
-    "wof:lastmodified":1449014076,
+    "wof:lastmodified":1466446445,
     "wof:name":"Sage Capital",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-82.544547,27.336065,-82.544547,27.336065],
-  "geometry": {"coordinates":[-82.544547,27.336065],"type":"Point"}
+  "bbox": [
+    -82.544547,
+    27.336065,
+    -82.544547,
+    27.336065
+],
+  "geometry": {"coordinates":[-82.54454699999999,27.336065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253313629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.374524,25.58341,-80.374524,25.58341",
     "geom:latitude":25.58341,
     "geom:longitude":-80.374524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11250 SW 197th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253313629,
-    "wof:lastmodified":1449062911,
+    "wof:lastmodified":1466432430,
     "wof:name":"Casa Devon",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.374524,25.58341,-80.374524,25.58341],
-  "geometry": {"coordinates":[-80.374524,25.58341],"type":"Point"}
+  "bbox": [
+    -80.374524,
+    25.58341,
+    -80.374524,
+    25.58341
+],
+  "geometry": {"coordinates":[-80.37452399999999,25.58341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269711093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652818,27.797576,-82.652818,27.797576",
     "geom:latitude":27.797576,
     "geom:longitude":-82.652818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 28th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269711093,
-    "wof:lastmodified":1449038402,
+    "wof:lastmodified":1466432538,
     "wof:name":"Matrix Studio",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modeling"
     ]
 },
-  "bbox": [-82.652818,27.797576,-82.652818,27.797576],
+  "bbox": [
+    -82.652818,
+    27.797576,
+    -82.652818,
+    27.797576
+],
   "geometry": {"coordinates":[-82.652818,27.797576],"type":"Point"}
 }

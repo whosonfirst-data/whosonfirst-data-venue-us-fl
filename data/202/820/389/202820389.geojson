@@ -2,13 +2,14 @@
   "id": 202820389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.41724,28.705148,-81.41724,28.705148",
     "geom:latitude":28.705148,
     "geom:longitude":-81.41724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Black Gum Trl",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202820389,
-    "wof:lastmodified":1449061432,
+    "wof:lastmodified":1466432519,
     "wof:name":"Kitchens Crafters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kitchen"
     ]
 },
-  "bbox": [-81.41724,28.705148,-81.41724,28.705148],
-  "geometry": {"coordinates":[-81.41724,28.705148],"type":"Point"}
+  "bbox": [
+    -81.41724,
+    28.705148,
+    -81.41724,
+    28.705148
+],
+  "geometry": {"coordinates":[-81.41724000000001,28.705148],"type":"Point"}
 }

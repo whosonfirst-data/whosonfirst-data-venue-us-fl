@@ -2,13 +2,14 @@
   "id": 185879551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.364925,28.589539,-81.364925,28.589539",
     "geom:latitude":28.589539,
     "geom:longitude":-81.364925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 S Orlando Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185879551,
-    "wof:lastmodified":1449006612,
+    "wof:lastmodified":1466429775,
     "wof:name":"El Tumlin",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.364925,28.589539,-81.364925,28.589539],
+  "bbox": [
+    -81.364925,
+    28.589539,
+    -81.364925,
+    28.589539
+],
   "geometry": {"coordinates":[-81.364925,28.589539],"type":"Point"}
 }

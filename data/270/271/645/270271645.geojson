@@ -2,13 +2,14 @@
   "id": 270271645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.397265,28.605742,-81.397265,28.605742",
     "geom:latitude":28.605742,
     "geom:longitude":-81.397265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Lee Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270271645,
-    "wof:lastmodified":1449009922,
+    "wof:lastmodified":1466434109,
     "wof:name":"Weenie Wagon",
     "wof:parent_id":85879475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.397265,28.605742,-81.397265,28.605742],
+  "bbox": [
+    -81.397265,
+    28.605742,
+    -81.397265,
+    28.605742
+],
   "geometry": {"coordinates":[-81.397265,28.605742],"type":"Point"}
 }

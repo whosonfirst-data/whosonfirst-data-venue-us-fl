@@ -2,13 +2,14 @@
   "id": 387789637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.356614,25.806008,-80.356614,25.806008",
     "geom:latitude":25.806008,
     "geom:longitude":-80.356614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9818 Costa del Sol Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":387789637,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466448741,
     "wof:name":"Mag Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-80.356614,25.806008,-80.356614,25.806008],
-  "geometry": {"coordinates":[-80.356614,25.806008],"type":"Point"}
+  "bbox": [
+    -80.356614,
+    25.806008,
+    -80.356614,
+    25.806008
+],
+  "geometry": {"coordinates":[-80.35661399999999,25.806008],"type":"Point"}
 }

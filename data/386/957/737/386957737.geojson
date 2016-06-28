@@ -2,13 +2,14 @@
   "id": 386957737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545547,30.28675,-81.545547,30.28675",
     "geom:latitude":30.28675,
     "geom:longitude":-81.545547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10265 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386957737,
-    "wof:lastmodified":1449028904,
+    "wof:lastmodified":1466438839,
     "wof:name":"Mattress Avenue",
     "wof:parent_id":85804135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-81.545547,30.28675,-81.545547,30.28675],
+  "bbox": [
+    -81.545547,
+    30.28675,
+    -81.545547,
+    30.28675
+],
   "geometry": {"coordinates":[-81.545547,30.28675],"type":"Point"}
 }

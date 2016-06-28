@@ -2,13 +2,14 @@
   "id": 303064045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.084567,26.369247,-80.084567,26.369247",
     "geom:latitude":26.369247,
     "geom:longitude":-80.084567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 N Dixie Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303064045,
-    "wof:lastmodified":1448998980,
+    "wof:lastmodified":1466431563,
     "wof:name":"Cornerstone Engineering",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.084567,26.369247,-80.084567,26.369247],
-  "geometry": {"coordinates":[-80.084567,26.369247],"type":"Point"}
+  "bbox": [
+    -80.084567,
+    26.369247,
+    -80.084567,
+    26.369247
+],
+  "geometry": {"coordinates":[-80.08456700000001,26.369247],"type":"Point"}
 }

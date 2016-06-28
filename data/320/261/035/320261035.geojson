@@ -2,13 +2,14 @@
   "id": 320261035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625712,30.291098,-81.625712,30.291098",
     "geom:latitude":30.291098,
     "geom:longitude":-81.625712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Spring Park Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320261035,
-    "wof:lastmodified":1449011319,
+    "wof:lastmodified":1466437863,
     "wof:name":"Dantzler's Audio",
     "wof:parent_id":85868539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "repair"
     ]
 },
-  "bbox": [-81.625712,30.291098,-81.625712,30.291098],
-  "geometry": {"coordinates":[-81.625712,30.291098],"type":"Point"}
+  "bbox": [
+    -81.625712,
+    30.291098,
+    -81.625712,
+    30.291098
+],
+  "geometry": {"coordinates":[-81.62571199999999,30.291098],"type":"Point"}
 }

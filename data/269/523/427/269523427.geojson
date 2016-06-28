@@ -2,13 +2,14 @@
   "id": 269523427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317962,25.651655,-80.317962,25.651655",
     "geom:latitude":25.651655,
     "geom:longitude":-80.317962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12885 SW 77th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269523427,
-    "wof:lastmodified":1449037520,
+    "wof:lastmodified":1466429180,
     "wof:name":"Applitech",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finish"
     ]
 },
-  "bbox": [-80.317962,25.651655,-80.317962,25.651655],
-  "geometry": {"coordinates":[-80.317962,25.651655],"type":"Point"}
+  "bbox": [
+    -80.317962,
+    25.651655,
+    -80.317962,
+    25.651655
+],
+  "geometry": {"coordinates":[-80.31796199999999,25.651655],"type":"Point"}
 }

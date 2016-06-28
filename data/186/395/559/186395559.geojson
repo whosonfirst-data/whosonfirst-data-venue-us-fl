@@ -2,13 +2,14 @@
   "id": 186395559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211036,25.791368,-80.211036,25.791368",
     "geom:latitude":25.791368,
     "geom:longitude":-80.211036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 NW 17th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186395559,
-    "wof:lastmodified":1449052620,
+    "wof:lastmodified":1466431455,
     "wof:name":"Palmer Eye Inst Personnel",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.211036,25.791368,-80.211036,25.791368],
-  "geometry": {"coordinates":[-80.211036,25.791368],"type":"Point"}
+  "bbox": [
+    -80.211036,
+    25.791368,
+    -80.211036,
+    25.791368
+],
+  "geometry": {"coordinates":[-80.21103599999999,25.791368],"type":"Point"}
 }

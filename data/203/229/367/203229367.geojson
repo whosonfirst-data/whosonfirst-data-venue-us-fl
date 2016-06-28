@@ -2,13 +2,14 @@
   "id": 203229367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141911,26.110527,-80.141911,26.110527",
     "geom:latitude":26.110527,
     "geom:longitude":-80.141911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 SE 10th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203229367,
-    "wof:lastmodified":1449026448,
+    "wof:lastmodified":1466429273,
     "wof:name":"Stormline Marine",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.141911,26.110527,-80.141911,26.110527],
-  "geometry": {"coordinates":[-80.141911,26.110527],"type":"Point"}
+  "bbox": [
+    -80.141911,
+    26.110527,
+    -80.141911,
+    26.110527
+],
+  "geometry": {"coordinates":[-80.14191099999999,26.110527],"type":"Point"}
 }

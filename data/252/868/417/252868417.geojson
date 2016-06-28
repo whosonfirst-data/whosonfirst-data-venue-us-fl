@@ -2,13 +2,14 @@
   "id": 252868417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.189353,25.959235,-80.189353,25.959235",
     "geom:latitude":25.959235,
     "geom:longitude":-80.189353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19958 NE 5th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252868417,
-    "wof:lastmodified":1449005446,
+    "wof:lastmodified":1466430742,
     "wof:name":"Internet Global Inc",
     "wof:parent_id":85837069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-80.189353,25.959235,-80.189353,25.959235],
+  "bbox": [
+    -80.189353,
+    25.959235,
+    -80.189353,
+    25.959235
+],
   "geometry": {"coordinates":[-80.189353,25.959235],"type":"Point"}
 }

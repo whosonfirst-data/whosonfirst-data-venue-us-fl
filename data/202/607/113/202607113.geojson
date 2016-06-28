@@ -2,13 +2,14 @@
   "id": 202607113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.222929,27.365211,-82.222929,27.365211",
     "geom:latitude":27.365211,
     "geom:longitude":-82.222929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31025 Betts Rd",
     "sg:city":"Myakka City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202607113,
-    "wof:lastmodified":1449060442,
+    "wof:lastmodified":1466429766,
     "wof:name":"Double C Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.222929,27.365211,-82.222929,27.365211],
-  "geometry": {"coordinates":[-82.222929,27.365211],"type":"Point"}
+  "bbox": [
+    -82.222929,
+    27.365211,
+    -82.222929,
+    27.365211
+],
+  "geometry": {"coordinates":[-82.22292899999999,27.365211],"type":"Point"}
 }

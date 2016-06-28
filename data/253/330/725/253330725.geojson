@@ -2,13 +2,14 @@
   "id": 253330725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.283673,30.51544,-87.283673,30.51544",
     "geom:latitude":30.51544,
     "geom:longitude":-87.283673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Elliott St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253330725,
-    "wof:lastmodified":1449064302,
+    "wof:lastmodified":1466432688,
     "wof:name":"Church of Christ Oakfield Road",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.283673,30.51544,-87.283673,30.51544],
-  "geometry": {"coordinates":[-87.283673,30.51544],"type":"Point"}
+  "bbox": [
+    -87.283673,
+    30.51544,
+    -87.283673,
+    30.51544
+],
+  "geometry": {"coordinates":[-87.28367299999999,30.51544],"type":"Point"}
 }

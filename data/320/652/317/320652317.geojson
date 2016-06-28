@@ -2,13 +2,14 @@
   "id": 320652317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.830069,27.828275,-82.830069,27.828275",
     "geom:latitude":27.828275,
     "geom:longitude":-82.830069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17811 Gulf Blvd",
     "sg:city":"Redington Shores",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":320652317,
-    "wof:lastmodified":1449013670,
+    "wof:lastmodified":1466444676,
     "wof:name":"Nachmanns Native Seafood",
     "wof:parent_id":85844127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.830069,27.828275,-82.830069,27.828275],
-  "geometry": {"coordinates":[-82.830069,27.828275],"type":"Point"}
+  "bbox": [
+    -82.830069,
+    27.828275,
+    -82.830069,
+    27.828275
+],
+  "geometry": {"coordinates":[-82.83006899999999,27.828275],"type":"Point"}
 }

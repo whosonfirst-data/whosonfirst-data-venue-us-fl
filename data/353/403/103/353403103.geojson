@@ -2,13 +2,14 @@
   "id": 353403103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314505,28.241143,-81.314505,28.241143",
     "geom:latitude":28.241143,
     "geom:longitude":-81.314505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 Lake Trudy Dr",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353403103,
-    "wof:lastmodified":1449020449,
+    "wof:lastmodified":1466435422,
     "wof:name":"Central Fla Rspnse Rcovery",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "emergency"
     ]
 },
-  "bbox": [-81.314505,28.241143,-81.314505,28.241143],
+  "bbox": [
+    -81.314505,
+    28.241143,
+    -81.314505,
+    28.241143
+],
   "geometry": {"coordinates":[-81.314505,28.241143],"type":"Point"}
 }

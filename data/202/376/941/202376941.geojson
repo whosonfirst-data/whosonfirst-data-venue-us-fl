@@ -2,13 +2,14 @@
   "id": 202376941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087971,26.366284,-80.087971,26.366284",
     "geom:latitude":26.366284,
     "geom:longitude":-80.087971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 Arcadia Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202376941,
-    "wof:lastmodified":1449060976,
+    "wof:lastmodified":1466429438,
     "wof:name":"Bob's Clean Sweep",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sweeping"
     ]
 },
-  "bbox": [-80.087971,26.366284,-80.087971,26.366284],
+  "bbox": [
+    -80.087971,
+    26.366284,
+    -80.087971,
+    26.366284
+],
   "geometry": {"coordinates":[-80.087971,26.366284],"type":"Point"}
 }

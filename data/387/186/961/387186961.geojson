@@ -2,13 +2,14 @@
   "id": 387186961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331837,25.835345,-80.331837,25.835345",
     "geom:latitude":25.835345,
     "geom:longitude":-80.331837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8323 NW 68th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387186961,
-    "wof:lastmodified":1449059086,
+    "wof:lastmodified":1466441587,
     "wof:name":"Elecom Enterprises Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.331837,25.835345,-80.331837,25.835345],
-  "geometry": {"coordinates":[-80.331837,25.835345],"type":"Point"}
+  "bbox": [
+    -80.331837,
+    25.835345,
+    -80.331837,
+    25.835345
+],
+  "geometry": {"coordinates":[-80.33183699999999,25.835345],"type":"Point"}
 }

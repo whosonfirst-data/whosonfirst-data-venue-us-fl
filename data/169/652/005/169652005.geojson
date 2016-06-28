@@ -2,13 +2,14 @@
   "id": 169652005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.348047,28.702414,-81.348047,28.702414",
     "geom:latitude":28.702414,
     "geom:longitude":-81.348047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Magnolia Ave",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169652005,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466446383,
     "wof:name":"Exit Realty Access LLC",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.348047,28.702414,-81.348047,28.702414],
-  "geometry": {"coordinates":[-81.348047,28.702414],"type":"Point"}
+  "bbox": [
+    -81.348047,
+    28.702414,
+    -81.348047,
+    28.702414
+],
+  "geometry": {"coordinates":[-81.34804699999999,28.702414],"type":"Point"}
 }

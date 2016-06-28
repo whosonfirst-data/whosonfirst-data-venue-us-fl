@@ -2,13 +2,14 @@
   "id": 336949235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800401,26.206013,-81.800401,26.206013",
     "geom:latitude":26.206013,
     "geom:longitude":-81.800401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5075 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336949235,
-    "wof:lastmodified":1448997601,
+    "wof:lastmodified":1466440996,
     "wof:name":"Jerry's Cleaners Inc",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.800401,26.206013,-81.800401,26.206013],
-  "geometry": {"coordinates":[-81.800401,26.206013],"type":"Point"}
+  "bbox": [
+    -81.800401,
+    26.206013,
+    -81.800401,
+    26.206013
+],
+  "geometry": {"coordinates":[-81.80040099999999,26.206013],"type":"Point"}
 }

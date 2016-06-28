@@ -2,13 +2,14 @@
   "id": 320567171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.60123,30.333486,-81.60123,30.333486",
     "geom:latitude":30.333486,
     "geom:longitude":-81.60123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5714 Arlington Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320567171,
-    "wof:lastmodified":1449014997,
+    "wof:lastmodified":1466443219,
     "wof:name":"Arlington Women's Club",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.60123,30.333486,-81.60123,30.333486],
+  "bbox": [
+    -81.60123,
+    30.333486,
+    -81.60123,
+    30.333486
+],
   "geometry": {"coordinates":[-81.60123,30.333486],"type":"Point"}
 }

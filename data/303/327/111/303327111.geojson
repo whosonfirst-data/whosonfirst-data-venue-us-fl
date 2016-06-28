@@ -2,13 +2,14 @@
   "id": 303327111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140894,26.369488,-80.140894,26.369488",
     "geom:latitude":26.369488,
     "geom:longitude":-80.140894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20685 NW 26th Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303327111,
-    "wof:lastmodified":1448998305,
+    "wof:lastmodified":1466436174,
     "wof:name":"Library Interiors Of Florida",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.140894,26.369488,-80.140894,26.369488],
+  "bbox": [
+    -80.140894,
+    26.369488,
+    -80.140894,
+    26.369488
+],
   "geometry": {"coordinates":[-80.140894,26.369488],"type":"Point"}
 }

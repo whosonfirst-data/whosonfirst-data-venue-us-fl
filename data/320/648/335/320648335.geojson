@@ -2,13 +2,14 @@
   "id": 320648335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.168633,27.017162,-82.168633,27.017162",
     "geom:latitude":27.017162,
     "geom:longitude":-82.168633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Buena Vista Cir",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320648335,
-    "wof:lastmodified":1449012276,
+    "wof:lastmodified":1466444612,
     "wof:name":"Charlotte Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-82.168633,27.017162,-82.168633,27.017162],
+  "bbox": [
+    -82.168633,
+    27.017162,
+    -82.168633,
+    27.017162
+],
   "geometry": {"coordinates":[-82.168633,27.017162],"type":"Point"}
 }

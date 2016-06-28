@@ -2,13 +2,14 @@
   "id": 354351673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.830687,28.649181,-80.830687,28.649181",
     "geom:latitude":28.649181,
     "geom:longitude":-80.830687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 Palomino Dr",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354351673,
-    "wof:lastmodified":1449067395,
+    "wof:lastmodified":1466441489,
     "wof:name":"Earl Bratcher",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vendor"
     ]
 },
-  "bbox": [-80.830687,28.649181,-80.830687,28.649181],
+  "bbox": [
+    -80.830687,
+    28.649181,
+    -80.830687,
+    28.649181
+],
   "geometry": {"coordinates":[-80.830687,28.649181],"type":"Point"}
 }

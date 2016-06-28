@@ -2,13 +2,14 @@
   "id": 403941499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.553447,30.220725,-81.553447,30.220725",
     "geom:latitude":30.220725,
     "geom:longitude":-81.553447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9950 Old Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403941499,
-    "wof:lastmodified":1449055436,
+    "wof:lastmodified":1466443386,
     "wof:name":"Beauty Within",
     "wof:parent_id":85870729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-81.553447,30.220725,-81.553447,30.220725],
-  "geometry": {"coordinates":[-81.553447,30.220725],"type":"Point"}
+  "bbox": [
+    -81.553447,
+    30.220725,
+    -81.553447,
+    30.220725
+],
+  "geometry": {"coordinates":[-81.55344700000001,30.220725],"type":"Point"}
 }

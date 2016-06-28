@@ -2,13 +2,14 @@
   "id": 403937231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603617,30.276871,-81.603617,30.276871",
     "geom:latitude":30.276871,
     "geom:longitude":-81.603617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5921 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":403937231,
-    "wof:lastmodified":1449054893,
+    "wof:lastmodified":1466443320,
     "wof:name":"Sun-TEL USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-81.603617,30.276871,-81.603617,30.276871],
+  "bbox": [
+    -81.603617,
+    30.276871,
+    -81.603617,
+    30.276871
+],
   "geometry": {"coordinates":[-81.603617,30.276871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303102515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.309742,25.815603,-80.309742,25.815603",
     "geom:latitude":25.815603,
     "geom:longitude":-80.309742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4670 NW 69th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303102515,
-    "wof:lastmodified":1449000381,
+    "wof:lastmodified":1466432259,
     "wof:name":"E J General Welding Corp",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.309742,25.815603,-80.309742,25.815603],
+  "bbox": [
+    -80.309742,
+    25.815603,
+    -80.309742,
+    25.815603
+],
   "geometry": {"coordinates":[-80.309742,25.815603],"type":"Point"}
 }

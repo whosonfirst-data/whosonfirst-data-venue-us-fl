@@ -2,13 +2,14 @@
   "id": 320789197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.335885,30.427289,-84.335885,30.427289",
     "geom:latitude":30.427289,
     "geom:longitude":-84.335885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Ridgeway St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320789197,
-    "wof:lastmodified":1449012941,
+    "wof:lastmodified":1466446917,
     "wof:name":"Secret Pantry",
     "wof:parent_id":85881351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-84.335885,30.427289,-84.335885,30.427289],
+  "bbox": [
+    -84.335885,
+    30.427289,
+    -84.335885,
+    30.427289
+],
   "geometry": {"coordinates":[-84.335885,30.427289],"type":"Point"}
 }

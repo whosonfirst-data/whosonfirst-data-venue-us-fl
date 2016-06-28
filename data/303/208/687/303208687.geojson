@@ -2,13 +2,14 @@
   "id": 303208687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.496739,28.585171,-81.496739,28.585171",
     "geom:latitude":28.585171,
     "geom:longitude":-81.496739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 N Apopka Vineland Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303208687,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466434137,
     "wof:name":"Mystic Limousine Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-81.496739,28.585171,-81.496739,28.585171],
-  "geometry": {"coordinates":[-81.496739,28.585171],"type":"Point"}
+  "bbox": [
+    -81.496739,
+    28.585171,
+    -81.496739,
+    28.585171
+],
+  "geometry": {"coordinates":[-81.49673900000001,28.585171],"type":"Point"}
 }

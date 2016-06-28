@@ -2,13 +2,14 @@
   "id": 202705725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.437788,28.21006,-81.437788,28.21006",
     "geom:latitude":28.21006,
     "geom:longitude":-81.437788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Foxy Ln",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202705725,
-    "wof:lastmodified":1449062661,
+    "wof:lastmodified":1466431057,
     "wof:name":"Leather Box",
     "wof:parent_id":85888999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.437788,28.21006,-81.437788,28.21006],
+  "bbox": [
+    -81.437788,
+    28.21006,
+    -81.437788,
+    28.21006
+],
   "geometry": {"coordinates":[-81.437788,28.21006],"type":"Point"}
 }

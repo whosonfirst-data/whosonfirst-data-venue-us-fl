@@ -2,13 +2,14 @@
   "id": 370370383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372492,27.32416,-81.372492,27.32416",
     "geom:latitude":27.32416,
     "geom:longitude":-81.372492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1357 US Hwy 27",
     "sg:city":"Lake Placid",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370370383,
-    "wof:lastmodified":1449030914,
+    "wof:lastmodified":1466439848,
     "wof:name":"Farm Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.372492,27.32416,-81.372492,27.32416],
-  "geometry": {"coordinates":[-81.372492,27.32416],"type":"Point"}
+  "bbox": [
+    -81.372492,
+    27.32416,
+    -81.372492,
+    27.32416
+],
+  "geometry": {"coordinates":[-81.37249199999999,27.32416],"type":"Point"}
 }

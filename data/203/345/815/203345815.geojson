@@ -2,13 +2,14 @@
   "id": 203345815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241458,28.060368,-81.241458,28.060368",
     "geom:latitude":28.060368,
     "geom:longitude":-81.241458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 N Canoe Creek Rd",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203345815,
-    "wof:lastmodified":1449026719,
+    "wof:lastmodified":1466430731,
     "wof:name":"Bar Seven Ranch Inc",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-81.241458,28.060368,-81.241458,28.060368],
-  "geometry": {"coordinates":[-81.241458,28.060368],"type":"Point"}
+  "bbox": [
+    -81.241458,
+    28.060368,
+    -81.241458,
+    28.060368
+],
+  "geometry": {"coordinates":[-81.24145799999999,28.060368],"type":"Point"}
 }

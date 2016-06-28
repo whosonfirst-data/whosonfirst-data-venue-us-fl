@@ -2,13 +2,14 @@
   "id": 220046699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.050485,30.656069,-87.050485,30.656069",
     "geom:latitude":30.656069,
     "geom:longitude":-87.050485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 Julia Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220046699,
-    "wof:lastmodified":1449074497,
+    "wof:lastmodified":1466444706,
     "wof:name":"Emergency Response",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.050485,30.656069,-87.050485,30.656069],
-  "geometry": {"coordinates":[-87.050485,30.656069],"type":"Point"}
+  "bbox": [
+    -87.050485,
+    30.656069,
+    -87.050485,
+    30.656069
+],
+  "geometry": {"coordinates":[-87.05048499999999,30.656069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252729245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.657406,27.800629,-82.657406,27.800629",
     "geom:latitude":27.800629,
     "geom:longitude":-82.657406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 Queen St N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252729245,
-    "wof:lastmodified":1449005971,
+    "wof:lastmodified":1466428731,
     "wof:name":"Pnom Penh Market",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.657406,27.800629,-82.657406,27.800629],
-  "geometry": {"coordinates":[-82.657406,27.800629],"type":"Point"}
+  "bbox": [
+    -82.657406,
+    27.800629,
+    -82.657406,
+    27.800629
+],
+  "geometry": {"coordinates":[-82.65740599999999,27.800629],"type":"Point"}
 }

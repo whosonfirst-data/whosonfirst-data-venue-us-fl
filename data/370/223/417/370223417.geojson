@@ -2,13 +2,14 @@
   "id": 370223417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.613787,30.448859,-86.613787,30.448859",
     "geom:latitude":30.448859,
     "geom:longitude":-86.613787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370223417,
-    "wof:lastmodified":1449029316,
+    "wof:lastmodified":1466437587,
     "wof:name":"Northside Veterinary Clinic",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-86.613787,30.448859,-86.613787,30.448859],
+  "bbox": [
+    -86.613787,
+    30.448859,
+    -86.613787,
+    30.448859
+],
   "geometry": {"coordinates":[-86.613787,30.448859],"type":"Point"}
 }

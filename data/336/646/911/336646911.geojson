@@ -2,13 +2,14 @@
   "id": 336646911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.172451,30.472823,-87.172451,30.472823",
     "geom:latitude":30.472823,
     "geom:longitude":-87.172451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 Lavallet Cir",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336646911,
-    "wof:lastmodified":1448996898,
+    "wof:lastmodified":1466435789,
     "wof:name":"Healthcare Management Systems",
     "wof:parent_id":85820875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-87.172451,30.472823,-87.172451,30.472823],
+  "bbox": [
+    -87.172451,
+    30.472823,
+    -87.172451,
+    30.472823
+],
   "geometry": {"coordinates":[-87.172451,30.472823],"type":"Point"}
 }

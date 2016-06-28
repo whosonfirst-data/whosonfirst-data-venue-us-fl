@@ -2,13 +2,14 @@
   "id": 303894519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.287539,26.306215,-80.287539,26.306215",
     "geom:latitude":26.306215,
     "geom:longitude":-80.287539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11801 Heron Bay Blvd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303894519,
-    "wof:lastmodified":1448999128,
+    "wof:lastmodified":1466445958,
     "wof:name":"Tpc At Heron Bay",
     "wof:parent_id":85876887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-80.287539,26.306215,-80.287539,26.306215],
+  "bbox": [
+    -80.287539,
+    26.306215,
+    -80.287539,
+    26.306215
+],
   "geometry": {"coordinates":[-80.287539,26.306215],"type":"Point"}
 }

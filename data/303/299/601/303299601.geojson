@@ -2,13 +2,14 @@
   "id": 303299601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328938,25.895153,-80.328938,25.895153",
     "geom:latitude":25.895153,
     "geom:longitude":-80.328938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W 80th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303299601,
-    "wof:lastmodified":1448998735,
+    "wof:lastmodified":1466435699,
     "wof:name":"Fastline Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.328938,25.895153,-80.328938,25.895153],
-  "geometry": {"coordinates":[-80.328938,25.895153],"type":"Point"}
+  "bbox": [
+    -80.328938,
+    25.895153,
+    -80.328938,
+    25.895153
+],
+  "geometry": {"coordinates":[-80.32893799999999,25.895153],"type":"Point"}
 }

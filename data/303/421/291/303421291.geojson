@@ -2,13 +2,14 @@
   "id": 303421291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.597063,30.328933,-81.597063,30.328933",
     "geom:latitude":30.328933,
     "geom:longitude":-81.597063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Cesery Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303421291,
-    "wof:lastmodified":1448999671,
+    "wof:lastmodified":1466437789,
     "wof:name":"George My Mechanic",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.597063,30.328933,-81.597063,30.328933],
-  "geometry": {"coordinates":[-81.597063,30.328933],"type":"Point"}
+  "bbox": [
+    -81.597063,
+    30.328933,
+    -81.597063,
+    30.328933
+],
+  "geometry": {"coordinates":[-81.59706300000001,30.328933],"type":"Point"}
 }

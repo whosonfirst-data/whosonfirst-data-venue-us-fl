@@ -2,13 +2,14 @@
   "id": 286619773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.681204,30.318728,-81.681204,30.318728",
     "geom:latitude":30.318728,
     "geom:longitude":-81.681204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 College St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286619773,
-    "wof:lastmodified":1449015688,
+    "wof:lastmodified":1466435891,
     "wof:name":"Sun Dance Rehabilitation",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-81.681204,30.318728,-81.681204,30.318728],
-  "geometry": {"coordinates":[-81.681204,30.318728],"type":"Point"}
+  "bbox": [
+    -81.681204,
+    30.318728,
+    -81.681204,
+    30.318728
+],
+  "geometry": {"coordinates":[-81.68120399999999,30.318728],"type":"Point"}
 }

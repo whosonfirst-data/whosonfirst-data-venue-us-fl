@@ -2,13 +2,14 @@
   "id": 270333703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.810712,28.076325,-81.810712,28.076325",
     "geom:latitude":28.076325,
     "geom:longitude":-81.810712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Colonial Dr",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270333703,
-    "wof:lastmodified":1449010936,
+    "wof:lastmodified":1466435179,
     "wof:name":"Ken Smith Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.810712,28.076325,-81.810712,28.076325],
+  "bbox": [
+    -81.810712,
+    28.076325,
+    -81.810712,
+    28.076325
+],
   "geometry": {"coordinates":[-81.810712,28.076325],"type":"Point"}
 }

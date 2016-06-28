@@ -2,13 +2,14 @@
   "id": 252891517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.607753,30.469683,-86.607753,30.469683",
     "geom:latitude":30.469683,
     "geom:longitude":-86.607753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Eldredge Rd",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252891517,
-    "wof:lastmodified":1449006088,
+    "wof:lastmodified":1466431068,
     "wof:name":"Jackson Auction Svc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-86.607753,30.469683,-86.607753,30.469683],
+  "bbox": [
+    -86.607753,
+    30.469683,
+    -86.607753,
+    30.469683
+],
   "geometry": {"coordinates":[-86.607753,30.469683],"type":"Point"}
 }

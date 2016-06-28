@@ -2,13 +2,14 @@
   "id": 303917803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125875,25.806328,-80.125875,25.806328",
     "geom:latitude":25.806328,
     "geom:longitude":-80.125875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Indian Creek Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303917803,
-    "wof:lastmodified":1449000244,
+    "wof:lastmodified":1466446345,
     "wof:name":"Casino Tours Inc",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-80.125875,25.806328,-80.125875,25.806328],
-  "geometry": {"coordinates":[-80.125875,25.806328],"type":"Point"}
+  "bbox": [
+    -80.125875,
+    25.806328,
+    -80.125875,
+    25.806328
+],
+  "geometry": {"coordinates":[-80.12587499999999,25.806328],"type":"Point"}
 }

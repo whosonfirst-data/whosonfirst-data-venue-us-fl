@@ -2,13 +2,14 @@
   "id": 320787923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120999,26.370915,-80.120999,26.370915",
     "geom:latitude":26.370915,
     "geom:longitude":-80.120999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Military Trl",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320787923,
-    "wof:lastmodified":1449012943,
+    "wof:lastmodified":1466446912,
     "wof:name":"United Synagogue Of America",
     "wof:parent_id":85840449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-80.120999,26.370915,-80.120999,26.370915],
+  "bbox": [
+    -80.120999,
+    26.370915,
+    -80.120999,
+    26.370915
+],
   "geometry": {"coordinates":[-80.120999,26.370915],"type":"Point"}
 }

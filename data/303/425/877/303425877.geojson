@@ -2,13 +2,14 @@
   "id": 303425877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.225118,28.293101,-81.225118,28.293101",
     "geom:latitude":28.293101,
     "geom:longitude":-81.225118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 N Eagle Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303425877,
-    "wof:lastmodified":1448998981,
+    "wof:lastmodified":1466437866,
     "wof:name":"Daniel Brockhaus Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.225118,28.293101,-81.225118,28.293101],
-  "geometry": {"coordinates":[-81.225118,28.293101],"type":"Point"}
+  "bbox": [
+    -81.225118,
+    28.293101,
+    -81.225118,
+    28.293101
+],
+  "geometry": {"coordinates":[-81.22511799999999,28.293101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403771393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.612378,30.264954,-81.612378,30.264954",
     "geom:latitude":30.264954,
     "geom:longitude":-81.612378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Richard St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403771393,
-    "wof:lastmodified":1449055352,
+    "wof:lastmodified":1466440660,
     "wof:name":"Infrastructure Corp America",
     "wof:parent_id":85818119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-81.612378,30.264954,-81.612378,30.264954],
-  "geometry": {"coordinates":[-81.612378,30.264954],"type":"Point"}
+  "bbox": [
+    -81.612378,
+    30.264954,
+    -81.612378,
+    30.264954
+],
+  "geometry": {"coordinates":[-81.61237800000001,30.264954],"type":"Point"}
 }

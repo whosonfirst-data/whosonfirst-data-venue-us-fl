@@ -2,13 +2,14 @@
   "id": 303312613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284025,25.931242,-80.284025,25.931242",
     "geom:latitude":25.931242,
     "geom:longitude":-80.284025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4952 NW 173rd Dr",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303312613,
-    "wof:lastmodified":1448999352,
+    "wof:lastmodified":1466435923,
     "wof:name":"Maid To Order",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.284025,25.931242,-80.284025,25.931242],
+  "bbox": [
+    -80.284025,
+    25.931242,
+    -80.284025,
+    25.931242
+],
   "geometry": {"coordinates":[-80.284025,25.931242],"type":"Point"}
 }

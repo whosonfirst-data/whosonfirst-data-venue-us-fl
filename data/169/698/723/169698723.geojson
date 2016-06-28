@@ -2,13 +2,14 @@
   "id": 169698723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.469192,30.522786,-86.469192,30.522786",
     "geom:latitude":30.522786,
     "geom:longitude":-86.469192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Honeysuckle Way",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169698723,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466445426,
     "wof:name":"Bgl Engine Svc",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engine"
     ]
 },
-  "bbox": [-86.469192,30.522786,-86.469192,30.522786],
-  "geometry": {"coordinates":[-86.469192,30.522786],"type":"Point"}
+  "bbox": [
+    -86.469192,
+    30.522786,
+    -86.469192,
+    30.522786
+],
+  "geometry": {"coordinates":[-86.46919200000001,30.522786],"type":"Point"}
 }

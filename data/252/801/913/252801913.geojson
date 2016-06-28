@@ -2,13 +2,14 @@
   "id": 252801913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21471,25.778024,-80.21471,25.778024",
     "geom:latitude":25.778024,
     "geom:longitude":-80.21471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 NW 12th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252801913,
-    "wof:lastmodified":1449006327,
+    "wof:lastmodified":1466429790,
     "wof:name":"Telecom Ring South",
     "wof:parent_id":85896177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-80.21471,25.778024,-80.21471,25.778024],
+  "bbox": [
+    -80.21471,
+    25.778024,
+    -80.21471,
+    25.778024
+],
   "geometry": {"coordinates":[-80.21471,25.778024],"type":"Point"}
 }

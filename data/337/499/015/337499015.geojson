@@ -2,13 +2,14 @@
   "id": 337499015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.364159,28.697813,-81.364159,28.697813",
     "geom:latitude":28.697813,
     "geom:longitude":-81.364159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 W State Rd 434",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337499015,
-    "wof:lastmodified":1449027073,
+    "wof:lastmodified":1466435885,
     "wof:name":"Neighborhood Cleaner",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-81.364159,28.697813,-81.364159,28.697813],
+  "bbox": [
+    -81.364159,
+    28.697813,
+    -81.364159,
+    28.697813
+],
   "geometry": {"coordinates":[-81.364159,28.697813],"type":"Point"}
 }

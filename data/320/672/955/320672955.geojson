@@ -2,13 +2,14 @@
   "id": 320672955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095823,26.808616,-80.095823,26.808616",
     "geom:latitude":26.808616,
     "geom:longitude":-80.095823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 Northlake Blvd",
     "sg:city":"Palm Beach Gdns",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320672955,
-    "wof:lastmodified":1449011483,
+    "wof:lastmodified":1466445025,
     "wof:name":"Pet Emergency & Critical Care",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.095823,26.808616,-80.095823,26.808616],
+  "bbox": [
+    -80.095823,
+    26.808616,
+    -80.095823,
+    26.808616
+],
   "geometry": {"coordinates":[-80.095823,26.808616],"type":"Point"}
 }

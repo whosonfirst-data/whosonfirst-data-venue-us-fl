@@ -2,13 +2,14 @@
   "id": 353548163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.588254,27.902096,-81.588254,27.902096",
     "geom:latitude":27.902096,
     "geom:longitude":-81.588254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Market St",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353548163,
-    "wof:lastmodified":1449020009,
+    "wof:lastmodified":1466436916,
     "wof:name":"Independent Geological Svc",
     "wof:parent_id":85889009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "geological"
     ]
 },
-  "bbox": [-81.588254,27.902096,-81.588254,27.902096],
-  "geometry": {"coordinates":[-81.588254,27.902096],"type":"Point"}
+  "bbox": [
+    -81.588254,
+    27.902096,
+    -81.588254,
+    27.902096
+],
+  "geometry": {"coordinates":[-81.58825400000001,27.902096],"type":"Point"}
 }

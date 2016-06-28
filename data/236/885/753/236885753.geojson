@@ -2,13 +2,14 @@
   "id": 236885753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251415,25.785419,-80.251415,25.785419",
     "geom:latitude":25.785419,
     "geom:longitude":-80.251415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1262 NW 34th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236885753,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1466441037,
     "wof:name":"Estevez Towing Corp",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.251415,25.785419,-80.251415,25.785419],
-  "geometry": {"coordinates":[-80.251415,25.785419],"type":"Point"}
+  "bbox": [
+    -80.251415,
+    25.785419,
+    -80.251415,
+    25.785419
+],
+  "geometry": {"coordinates":[-80.25141499999999,25.785419],"type":"Point"}
 }

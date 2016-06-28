@@ -2,13 +2,14 @@
   "id": 387127939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.017401,27.959283,-82.017401,27.959283",
     "geom:latitude":27.959283,
     "geom:longitude":-82.017401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5809 Spring Lake Dr",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387127939,
-    "wof:lastmodified":1449059603,
+    "wof:lastmodified":1466440673,
     "wof:name":"Paul Painting Inc",
     "wof:parent_id":85889031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.017401,27.959283,-82.017401,27.959283],
-  "geometry": {"coordinates":[-82.017401,27.959283],"type":"Point"}
+  "bbox": [
+    -82.017401,
+    27.959283,
+    -82.017401,
+    27.959283
+],
+  "geometry": {"coordinates":[-82.01740100000001,27.959283],"type":"Point"}
 }

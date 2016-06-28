@@ -2,13 +2,14 @@
   "id": 169802123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.53731,30.679627,-81.53731,30.679627",
     "geom:latitude":30.679627,
     "geom:longitude":-81.53731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1883 Blackrock Rd",
     "sg:city":"Yulee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169802123,
-    "wof:lastmodified":1449035340,
+    "wof:lastmodified":1466429043,
     "wof:name":"Happy Pets Sitting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-81.53731,30.679627,-81.53731,30.679627],
-  "geometry": {"coordinates":[-81.53731,30.679627],"type":"Point"}
+  "bbox": [
+    -81.53731,
+    30.679627,
+    -81.53731,
+    30.679627
+],
+  "geometry": {"coordinates":[-81.53731000000001,30.679627],"type":"Point"}
 }

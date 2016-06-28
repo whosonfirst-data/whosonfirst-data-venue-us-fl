@@ -2,13 +2,14 @@
   "id": 370565389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.389041,27.264913,-80.389041,27.264913",
     "geom:latitude":27.264913,
     "geom:longitude":-80.389041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1371 SW Babcock Ave",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370565389,
-    "wof:lastmodified":1449032178,
+    "wof:lastmodified":1466442853,
     "wof:name":"Works of Heart Work",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.389041,27.264913,-80.389041,27.264913],
-  "geometry": {"coordinates":[-80.389041,27.264913],"type":"Point"}
+  "bbox": [
+    -80.389041,
+    27.264913,
+    -80.389041,
+    27.264913
+],
+  "geometry": {"coordinates":[-80.38904100000001,27.264913],"type":"Point"}
 }

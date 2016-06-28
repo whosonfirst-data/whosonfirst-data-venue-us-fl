@@ -2,13 +2,14 @@
   "id": 303600283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.994425,26.587413,-81.994425,26.587413",
     "geom:latitude":26.587413,
     "geom:longitude":-81.994425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 SW 35th St",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303600283,
-    "wof:lastmodified":1448998343,
+    "wof:lastmodified":1466440859,
     "wof:name":"Freedom Inc Of Lee County",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-81.994425,26.587413,-81.994425,26.587413],
-  "geometry": {"coordinates":[-81.994425,26.587413],"type":"Point"}
+  "bbox": [
+    -81.994425,
+    26.587413,
+    -81.994425,
+    26.587413
+],
+  "geometry": {"coordinates":[-81.99442500000001,26.587413],"type":"Point"}
 }

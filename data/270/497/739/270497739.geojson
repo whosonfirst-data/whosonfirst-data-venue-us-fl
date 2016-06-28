@@ -2,13 +2,14 @@
   "id": 270497739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.490822,28.504684,-81.490822,28.504684",
     "geom:latitude":28.504684,
     "geom:longitude":-81.490822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3929 Winderlakes Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270497739,
-    "wof:lastmodified":1449011103,
+    "wof:lastmodified":1466437979,
     "wof:name":"Sunset Strip",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.490822,28.504684,-81.490822,28.504684],
-  "geometry": {"coordinates":[-81.490822,28.504684],"type":"Point"}
+  "bbox": [
+    -81.490822,
+    28.504684,
+    -81.490822,
+    28.504684
+],
+  "geometry": {"coordinates":[-81.49082199999999,28.504684],"type":"Point"}
 }

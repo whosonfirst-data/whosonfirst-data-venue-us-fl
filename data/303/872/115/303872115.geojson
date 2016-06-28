@@ -2,13 +2,14 @@
   "id": 303872115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241764,26.215179,-80.241764,26.215179",
     "geom:latitude":26.215179,
     "geom:longitude":-80.241764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7513 NW 67th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303872115,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1466446420,
     "wof:name":"John Sandlin",
     "wof:parent_id":85896107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.241764,26.215179,-80.241764,26.215179],
+  "bbox": [
+    -80.241764,
+    26.215179,
+    -80.241764,
+    26.215179
+],
   "geometry": {"coordinates":[-80.241764,26.215179],"type":"Point"}
 }

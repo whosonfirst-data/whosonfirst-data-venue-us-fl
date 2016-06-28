@@ -2,13 +2,14 @@
   "id": 303364033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.651266,30.327094,-81.651266,30.327094",
     "geom:latitude":30.327094,
     "geom:longitude":-81.651266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Monroe St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303364033,
-    "wof:lastmodified":1448999493,
+    "wof:lastmodified":1466436805,
     "wof:name":"Robert H Fishback Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.651266,30.327094,-81.651266,30.327094],
-  "geometry": {"coordinates":[-81.651266,30.327094],"type":"Point"}
+  "bbox": [
+    -81.651266,
+    30.327094,
+    -81.651266,
+    30.327094
+],
+  "geometry": {"coordinates":[-81.65126600000001,30.327094],"type":"Point"}
 }

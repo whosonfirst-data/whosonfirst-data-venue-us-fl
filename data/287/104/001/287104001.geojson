@@ -2,13 +2,14 @@
   "id": 287104001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.425398,28.578014,-81.425398,28.578014",
     "geom:latitude":28.578014,
     "geom:longitude":-81.425398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Silver Star Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287104001,
-    "wof:lastmodified":1449001034,
+    "wof:lastmodified":1466431679,
     "wof:name":"John Wagner Associates Inc",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.425398,28.578014,-81.425398,28.578014],
+  "bbox": [
+    -81.425398,
+    28.578014,
+    -81.425398,
+    28.578014
+],
   "geometry": {"coordinates":[-81.425398,28.578014],"type":"Point"}
 }

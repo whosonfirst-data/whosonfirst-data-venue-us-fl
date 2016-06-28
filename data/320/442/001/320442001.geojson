@@ -2,13 +2,14 @@
   "id": 320442001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.491818,27.505619,-81.491818,27.505619",
     "geom:latitude":27.505619,
     "geom:longitude":-81.491818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2153 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320442001,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466440983,
     "wof:name":"Highlands Independent Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.491818,27.505619,-81.491818,27.505619],
-  "geometry": {"coordinates":[-81.491818,27.505619],"type":"Point"}
+  "bbox": [
+    -81.491818,
+    27.505619,
+    -81.491818,
+    27.505619
+],
+  "geometry": {"coordinates":[-81.49181799999999,27.505619],"type":"Point"}
 }

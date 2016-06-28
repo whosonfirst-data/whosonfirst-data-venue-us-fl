@@ -2,13 +2,14 @@
   "id": 353717443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.742326,27.871107,-82.742326,27.871107",
     "geom:latitude":27.871107,
     "geom:longitude":-82.742326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10880 75th St",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353717443,
-    "wof:lastmodified":1449018314,
+    "wof:lastmodified":1466439662,
     "wof:name":"John Le Clair Painting",
     "wof:parent_id":85889589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.742326,27.871107,-82.742326,27.871107],
-  "geometry": {"coordinates":[-82.742326,27.871107],"type":"Point"}
+  "bbox": [
+    -82.742326,
+    27.871107,
+    -82.742326,
+    27.871107
+],
+  "geometry": {"coordinates":[-82.74232600000001,27.871107],"type":"Point"}
 }

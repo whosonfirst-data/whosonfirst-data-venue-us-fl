@@ -2,13 +2,14 @@
   "id": 319986101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.282361,28.249592,-81.282361,28.249592",
     "geom:latitude":28.249592,
     "geom:longitude":-81.282361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Pennsylvania Ave",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319986101,
-    "wof:lastmodified":1449024731,
+    "wof:lastmodified":1466435752,
     "wof:name":"Signature Salons",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.282361,28.249592,-81.282361,28.249592],
-  "geometry": {"coordinates":[-81.282361,28.249592],"type":"Point"}
+  "bbox": [
+    -81.282361,
+    28.249592,
+    -81.282361,
+    28.249592
+],
+  "geometry": {"coordinates":[-81.28236099999999,28.249592],"type":"Point"}
 }

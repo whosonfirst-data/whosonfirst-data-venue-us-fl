@@ -2,13 +2,14 @@
   "id": 303297313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.621891,30.467324,-81.621891,30.467324",
     "geom:latitude":30.467324,
     "geom:longitude":-81.621891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 New Berlin Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303297313,
-    "wof:lastmodified":1448999672,
+    "wof:lastmodified":1466435663,
     "wof:name":"Wireless Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.621891,30.467324,-81.621891,30.467324],
-  "geometry": {"coordinates":[-81.621891,30.467324],"type":"Point"}
+  "bbox": [
+    -81.621891,
+    30.467324,
+    -81.621891,
+    30.467324
+],
+  "geometry": {"coordinates":[-81.62189100000001,30.467324],"type":"Point"}
 }

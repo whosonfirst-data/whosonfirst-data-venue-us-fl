@@ -2,13 +2,14 @@
   "id": 336855111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.264986,30.425031,-87.264986,30.425031",
     "geom:latitude":30.425031,
     "geom:longitude":-87.264986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Mobile Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336855111,
-    "wof:lastmodified":1448997730,
+    "wof:lastmodified":1466439430,
     "wof:name":"Defense Stamping & Engineering",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "furnace"
     ]
 },
-  "bbox": [-87.264986,30.425031,-87.264986,30.425031],
-  "geometry": {"coordinates":[-87.264986,30.425031],"type":"Point"}
+  "bbox": [
+    -87.264986,
+    30.425031,
+    -87.264986,
+    30.425031
+],
+  "geometry": {"coordinates":[-87.26498599999999,30.425031],"type":"Point"}
 }

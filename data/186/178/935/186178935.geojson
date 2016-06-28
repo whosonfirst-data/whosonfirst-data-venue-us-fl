@@ -2,13 +2,14 @@
   "id": 186178935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.049258,26.668193,-80.049258,26.668193",
     "geom:latitude":26.668193,
     "geom:longitude":-80.049258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 S Flagler Way",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186178935,
-    "wof:lastmodified":1449052287,
+    "wof:lastmodified":1466428857,
     "wof:name":"Pediatric Critical Care-Palm",
     "wof:parent_id":85881815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.049258,26.668193,-80.049258,26.668193],
-  "geometry": {"coordinates":[-80.049258,26.668193],"type":"Point"}
+  "bbox": [
+    -80.049258,
+    26.668193,
+    -80.049258,
+    26.668193
+],
+  "geometry": {"coordinates":[-80.04925799999999,26.668193],"type":"Point"}
 }

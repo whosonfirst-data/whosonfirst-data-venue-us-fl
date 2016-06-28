@@ -2,13 +2,14 @@
   "id": 185640387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284855,28.504924,-81.284855,28.504924",
     "geom:latitude":28.504924,
     "geom:longitude":-81.284855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 Whippet Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185640387,
-    "wof:lastmodified":1449007319,
+    "wof:lastmodified":1466444314,
     "wof:name":"Leather Shack",
     "wof:parent_id":85889405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.284855,28.504924,-81.284855,28.504924],
-  "geometry": {"coordinates":[-81.284855,28.504924],"type":"Point"}
+  "bbox": [
+    -81.284855,
+    28.504924,
+    -81.284855,
+    28.504924
+],
+  "geometry": {"coordinates":[-81.28485499999999,28.504924],"type":"Point"}
 }

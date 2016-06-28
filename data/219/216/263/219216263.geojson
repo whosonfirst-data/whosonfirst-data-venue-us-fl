@@ -2,13 +2,14 @@
   "id": 219216263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315813,25.961523,-80.315813,25.961523",
     "geom:latitude":25.961523,
     "geom:longitude":-80.315813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5091 SW 128th Ave",
     "sg:city":"Miramar",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219216263,
-    "wof:lastmodified":1449073518,
+    "wof:lastmodified":1466444649,
     "wof:name":"Southern Homes At Santorini",
     "wof:parent_id":85840305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "builder"
     ]
 },
-  "bbox": [-80.315813,25.961523,-80.315813,25.961523],
-  "geometry": {"coordinates":[-80.315813,25.961523],"type":"Point"}
+  "bbox": [
+    -80.315813,
+    25.961523,
+    -80.315813,
+    25.961523
+],
+  "geometry": {"coordinates":[-80.31581300000001,25.961523],"type":"Point"}
 }

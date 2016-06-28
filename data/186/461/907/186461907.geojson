@@ -2,13 +2,14 @@
   "id": 186461907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206002,26.680412,-80.206002,26.680412",
     "geom:latitude":26.680412,
     "geom:longitude":-80.206002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10299 Southern Blvd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186461907,
-    "wof:lastmodified":1449051395,
+    "wof:lastmodified":1466432326,
     "wof:name":"US Post Office",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.206002,26.680412,-80.206002,26.680412],
+  "bbox": [
+    -80.206002,
+    26.680412,
+    -80.206002,
+    26.680412
+],
   "geometry": {"coordinates":[-80.206002,26.680412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319909651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.743316,30.314036,-81.743316,30.314036",
     "geom:latitude":30.314036,
     "geom:longitude":-81.743316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Ramona Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319909651,
-    "wof:lastmodified":1449024681,
+    "wof:lastmodified":1466434400,
     "wof:name":"Ramona Blvd Elementary",
     "wof:parent_id":85870735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.743316,30.314036,-81.743316,30.314036],
-  "geometry": {"coordinates":[-81.743316,30.314036],"type":"Point"}
+  "bbox": [
+    -81.743316,
+    30.314036,
+    -81.743316,
+    30.314036
+],
+  "geometry": {"coordinates":[-81.74331599999999,30.314036],"type":"Point"}
 }

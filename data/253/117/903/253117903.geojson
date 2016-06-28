@@ -2,13 +2,14 @@
   "id": 253117903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.579179,30.206003,-81.579179,30.206003",
     "geom:latitude":30.206003,
     "geom:longitude":-81.579179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Sunbeam Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253117903,
-    "wof:lastmodified":1449064848,
+    "wof:lastmodified":1466430130,
     "wof:name":"Tenant Contractors",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.579179,30.206003,-81.579179,30.206003],
+  "bbox": [
+    -81.579179,
+    30.206003,
+    -81.579179,
+    30.206003
+],
   "geometry": {"coordinates":[-81.579179,30.206003],"type":"Point"}
 }

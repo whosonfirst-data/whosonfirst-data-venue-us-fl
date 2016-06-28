@@ -2,13 +2,14 @@
   "id": 185992295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617128,30.301469,-81.617128,30.301469",
     "geom:latitude":30.301469,
     "geom:longitude":-81.617128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4551 Brown Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185992295,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466430995,
     "wof:name":"Heston-Fielding & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.617128,30.301469,-81.617128,30.301469],
-  "geometry": {"coordinates":[-81.617128,30.301469],"type":"Point"}
+  "bbox": [
+    -81.617128,
+    30.301469,
+    -81.617128,
+    30.301469
+],
+  "geometry": {"coordinates":[-81.61712799999999,30.301469],"type":"Point"}
 }

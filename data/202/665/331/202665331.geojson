@@ -2,13 +2,14 @@
   "id": 202665331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313417,25.817619,-80.313417,25.817619",
     "geom:latitude":25.817619,
     "geom:longitude":-80.313417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4761 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202665331,
-    "wof:lastmodified":1449060888,
+    "wof:lastmodified":1466430538,
     "wof:name":"Miami International Svc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "exp"
     ]
 },
-  "bbox": [-80.313417,25.817619,-80.313417,25.817619],
+  "bbox": [
+    -80.313417,
+    25.817619,
+    -80.313417,
+    25.817619
+],
   "geometry": {"coordinates":[-80.313417,25.817619],"type":"Point"}
 }

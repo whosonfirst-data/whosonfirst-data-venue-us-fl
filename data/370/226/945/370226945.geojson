@@ -2,13 +2,14 @@
   "id": 370226945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.796146,26.203329,-81.796146,26.203329",
     "geom:latitude":26.203329,
     "geom:longitude":-81.796146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1196 Granada Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370226945,
-    "wof:lastmodified":1449031545,
+    "wof:lastmodified":1466437640,
     "wof:name":"Corn Popper",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.796146,26.203329,-81.796146,26.203329],
-  "geometry": {"coordinates":[-81.796146,26.203329],"type":"Point"}
+  "bbox": [
+    -81.796146,
+    26.203329,
+    -81.796146,
+    26.203329
+],
+  "geometry": {"coordinates":[-81.79614599999999,26.203329],"type":"Point"}
 }

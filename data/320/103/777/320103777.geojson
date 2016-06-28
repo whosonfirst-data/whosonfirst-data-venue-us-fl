@@ -2,13 +2,14 @@
   "id": 320103777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.683811,30.176702,-85.683811,30.176702",
     "geom:latitude":30.176702,
     "geom:longitude":-85.683811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Lisenby Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320103777,
-    "wof:lastmodified":1449013587,
+    "wof:lastmodified":1466435153,
     "wof:name":"Kirkland Hobbies",
     "wof:parent_id":85804239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.683811,30.176702,-85.683811,30.176702],
-  "geometry": {"coordinates":[-85.683811,30.176702],"type":"Point"}
+  "bbox": [
+    -85.683811,
+    30.176702,
+    -85.683811,
+    30.176702
+],
+  "geometry": {"coordinates":[-85.68381100000001,30.176702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387444431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.628158,30.291236,-81.628158,30.291236",
     "geom:latitude":30.291236,
     "geom:longitude":-81.628158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 Emerson St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387444431,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1466445510,
     "wof:name":"Emerson Shell",
     "wof:parent_id":85868539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.628158,30.291236,-81.628158,30.291236],
+  "bbox": [
+    -81.628158,
+    30.291236,
+    -81.628158,
+    30.291236
+],
   "geometry": {"coordinates":[-81.628158,30.291236],"type":"Point"}
 }

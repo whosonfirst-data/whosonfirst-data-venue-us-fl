@@ -2,13 +2,14 @@
   "id": 371087555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.200488,30.475399,-87.200488,30.475399",
     "geom:latitude":30.475399,
     "geom:longitude":-87.200488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Airport Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371087555,
-    "wof:lastmodified":1449049487,
+    "wof:lastmodified":1466438913,
     "wof:name":"Cordova Lanes",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-87.200488,30.475399,-87.200488,30.475399],
-  "geometry": {"coordinates":[-87.200488,30.475399],"type":"Point"}
+  "bbox": [
+    -87.200488,
+    30.475399,
+    -87.200488,
+    30.475399
+],
+  "geometry": {"coordinates":[-87.20048800000001,30.475399],"type":"Point"}
 }

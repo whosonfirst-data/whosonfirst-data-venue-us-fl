@@ -2,13 +2,14 @@
   "id": 320825787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.305708,29.817659,-85.305708,29.817659",
     "geom:latitude":29.817659,
     "geom:longitude":-85.305708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Hwy 98",
     "sg:city":"Port St Joe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320825787,
-    "wof:lastmodified":1449011405,
+    "wof:lastmodified":1466447320,
     "wof:name":"Port Fine Wines & Spirits",
     "wof:parent_id":85896229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-85.305708,29.817659,-85.305708,29.817659],
+  "bbox": [
+    -85.305708,
+    29.817659,
+    -85.305708,
+    29.817659
+],
   "geometry": {"coordinates":[-85.305708,29.817659],"type":"Point"}
 }

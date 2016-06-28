@@ -2,13 +2,14 @@
   "id": 320695539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.608027,30.446408,-86.608027,30.446408",
     "geom:latitude":30.446408,
     "geom:longitude":-86.608027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Racetrack Rd NE",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320695539,
-    "wof:lastmodified":1449012702,
+    "wof:lastmodified":1466445417,
     "wof:name":"Harrison Finance",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-86.608027,30.446408,-86.608027,30.446408],
-  "geometry": {"coordinates":[-86.608027,30.446408],"type":"Point"}
+  "bbox": [
+    -86.608027,
+    30.446408,
+    -86.608027,
+    30.446408
+],
+  "geometry": {"coordinates":[-86.60802700000001,30.446408],"type":"Point"}
 }

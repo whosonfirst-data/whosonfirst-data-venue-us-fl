@@ -2,13 +2,14 @@
   "id": 403854257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251069,26.292097,-80.251069,26.292097",
     "geom:latitude":26.292097,
     "geom:longitude":-80.251069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 NW 96th Dr",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403854257,
-    "wof:lastmodified":1449055899,
+    "wof:lastmodified":1466442022,
     "wof:name":"All Florida Inspections",
     "wof:parent_id":85876865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.251069,26.292097,-80.251069,26.292097],
+  "bbox": [
+    -80.251069,
+    26.292097,
+    -80.251069,
+    26.292097
+],
   "geometry": {"coordinates":[-80.251069,26.292097],"type":"Point"}
 }

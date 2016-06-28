@@ -2,13 +2,14 @@
   "id": 286321705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.70187,27.806338,-82.70187,27.806338",
     "geom:latitude":27.806338,
     "geom:longitude":-82.70187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4922 38th Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286321705,
-    "wof:lastmodified":1449015229,
+    "wof:lastmodified":1466430701,
     "wof:name":"H&R Block",
     "wof:parent_id":85889545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-82.70187,27.806338,-82.70187,27.806338],
+  "bbox": [
+    -82.70187,
+    27.806338,
+    -82.70187,
+    27.806338
+],
   "geometry": {"coordinates":[-82.70187,27.806338],"type":"Point"}
 }

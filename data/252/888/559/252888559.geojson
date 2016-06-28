@@ -2,13 +2,14 @@
   "id": 252888559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.224258,29.111753,-82.224258,29.111753",
     "geom:latitude":29.111753,
     "geom:longitude":-82.224258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7770 SW Hwy 200",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252888559,
-    "wof:lastmodified":1449006101,
+    "wof:lastmodified":1466431020,
     "wof:name":"Countryside Farms Gate",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.224258,29.111753,-82.224258,29.111753],
-  "geometry": {"coordinates":[-82.224258,29.111753],"type":"Point"}
+  "bbox": [
+    -82.224258,
+    29.111753,
+    -82.224258,
+    29.111753
+],
+  "geometry": {"coordinates":[-82.22425800000001,29.111753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252839823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.945543,28.939209,-81.945543,28.939209",
     "geom:latitude":28.939209,
     "geom:longitude":-81.945543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Bichara Blvd",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252839823,
-    "wof:lastmodified":1449006085,
+    "wof:lastmodified":1466430339,
     "wof:name":"Village Eatery",
     "wof:parent_id":85888961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-81.945543,28.939209,-81.945543,28.939209],
+  "bbox": [
+    -81.945543,
+    28.939209,
+    -81.945543,
+    28.939209
+],
   "geometry": {"coordinates":[-81.945543,28.939209],"type":"Point"}
 }

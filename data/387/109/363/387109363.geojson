@@ -2,13 +2,14 @@
   "id": 387109363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.258333,28.788557,-81.258333,28.788557",
     "geom:latitude":28.788557,
     "geom:longitude":-81.258333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Willow Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387109363,
-    "wof:lastmodified":1449057418,
+    "wof:lastmodified":1466440381,
     "wof:name":"Carl Bigler Trucking Services",
     "wof:parent_id":85805341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-81.258333,28.788557,-81.258333,28.788557],
-  "geometry": {"coordinates":[-81.258333,28.788557],"type":"Point"}
+  "bbox": [
+    -81.258333,
+    28.788557,
+    -81.258333,
+    28.788557
+],
+  "geometry": {"coordinates":[-81.25833299999999,28.788557],"type":"Point"}
 }

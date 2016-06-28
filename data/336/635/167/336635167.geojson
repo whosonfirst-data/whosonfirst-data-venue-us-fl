@@ -2,13 +2,14 @@
   "id": 336635167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.750368,30.26302,-81.750368,30.26302",
     "geom:latitude":30.26302,
     "geom:longitude":-81.750368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6523 Bartholf Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336635167,
-    "wof:lastmodified":1448997419,
+    "wof:lastmodified":1466435591,
     "wof:name":"C & R Painting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.750368,30.26302,-81.750368,30.26302],
-  "geometry": {"coordinates":[-81.750368,30.26302],"type":"Point"}
+  "bbox": [
+    -81.750368,
+    30.26302,
+    -81.750368,
+    30.26302
+],
+  "geometry": {"coordinates":[-81.75036799999999,30.26302],"type":"Point"}
 }

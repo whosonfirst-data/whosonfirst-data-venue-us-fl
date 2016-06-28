@@ -2,13 +2,14 @@
   "id": 387160003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.783504,30.170806,-85.783504,30.170806",
     "geom:latitude":30.170806,
     "geom:longitude":-85.783504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Rusty Gans Dr",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387160003,
-    "wof:lastmodified":1449059324,
+    "wof:lastmodified":1466441166,
     "wof:name":"Salit Art Gallery",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-85.783504,30.170806,-85.783504,30.170806],
-  "geometry": {"coordinates":[-85.783504,30.170806],"type":"Point"}
+  "bbox": [
+    -85.783504,
+    30.170806,
+    -85.783504,
+    30.170806
+],
+  "geometry": {"coordinates":[-85.78350399999999,30.170806],"type":"Point"}
 }

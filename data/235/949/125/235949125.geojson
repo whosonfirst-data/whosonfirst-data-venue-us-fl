@@ -2,13 +2,14 @@
   "id": 235949125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111665,26.30479,-80.111665,26.30479",
     "geom:latitude":26.30479,
     "geom:longitude":-80.111665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 SW 10th St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235949125,
-    "wof:lastmodified":1449008465,
+    "wof:lastmodified":1466428655,
     "wof:name":"Mobile On Run",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-80.111665,26.30479,-80.111665,26.30479],
+  "bbox": [
+    -80.111665,
+    26.30479,
+    -80.111665,
+    26.30479
+],
   "geometry": {"coordinates":[-80.111665,26.30479],"type":"Point"}
 }

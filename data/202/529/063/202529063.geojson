@@ -2,13 +2,14 @@
   "id": 202529063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692513,28.380989,-80.692513,28.380989",
     "geom:latitude":28.380989,
     "geom:longitude":-80.692513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 Centaurus Ct",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202529063,
-    "wof:lastmodified":1449061230,
+    "wof:lastmodified":1466428733,
     "wof:name":"Coffee News",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-80.692513,28.380989,-80.692513,28.380989],
-  "geometry": {"coordinates":[-80.692513,28.380989],"type":"Point"}
+  "bbox": [
+    -80.692513,
+    28.380989,
+    -80.692513,
+    28.380989
+],
+  "geometry": {"coordinates":[-80.69251300000001,28.380989],"type":"Point"}
 }

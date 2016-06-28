@@ -2,13 +2,14 @@
   "id": 303190717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.155795,29.171496,-82.155795,29.171496",
     "geom:latitude":29.171496,
     "geom:longitude":-82.155795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 SW 17th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303190717,
-    "wof:lastmodified":1449000409,
+    "wof:lastmodified":1466433829,
     "wof:name":"AMF",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alley"
     ]
 },
-  "bbox": [-82.155795,29.171496,-82.155795,29.171496],
+  "bbox": [
+    -82.155795,
+    29.171496,
+    -82.155795,
+    29.171496
+],
   "geometry": {"coordinates":[-82.155795,29.171496],"type":"Point"}
 }

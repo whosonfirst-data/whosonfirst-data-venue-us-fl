@@ -2,13 +2,14 @@
   "id": 403786959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730969,30.337304,-81.730969,30.337304",
     "geom:latitude":30.337304,
     "geom:longitude":-81.730969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Edgewood Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403786959,
-    "wof:lastmodified":1449054801,
+    "wof:lastmodified":1466440902,
     "wof:name":"Smokers Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.730969,30.337304,-81.730969,30.337304],
+  "bbox": [
+    -81.730969,
+    30.337304,
+    -81.730969,
+    30.337304
+],
   "geometry": {"coordinates":[-81.730969,30.337304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270077075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.574554,28.234149,-81.574554,28.234149",
     "geom:latitude":28.234149,
     "geom:longitude":-81.574554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Co Rd 547 N",
     "sg:city":"Davenport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270077075,
-    "wof:lastmodified":1449009016,
+    "wof:lastmodified":1466430769,
     "wof:name":"Sunshine Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.574554,28.234149,-81.574554,28.234149],
-  "geometry": {"coordinates":[-81.574554,28.234149],"type":"Point"}
+  "bbox": [
+    -81.574554,
+    28.234149,
+    -81.574554,
+    28.234149
+],
+  "geometry": {"coordinates":[-81.57455400000001,28.234149],"type":"Point"}
 }

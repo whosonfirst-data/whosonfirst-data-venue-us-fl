@@ -2,13 +2,14 @@
   "id": 371043503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104204,26.216284,-80.104204,26.216284",
     "geom:latitude":26.216284,
     "geom:longitude":-80.104204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 SE 11th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371043503,
-    "wof:lastmodified":1449049834,
+    "wof:lastmodified":1466438241,
     "wof:name":"United States Cnstr Corp",
     "wof:parent_id":85847119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-80.104204,26.216284,-80.104204,26.216284],
+  "bbox": [
+    -80.104204,
+    26.216284,
+    -80.104204,
+    26.216284
+],
   "geometry": {"coordinates":[-80.104204,26.216284],"type":"Point"}
 }

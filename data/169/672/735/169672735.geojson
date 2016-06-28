@@ -2,13 +2,14 @@
   "id": 169672735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.795932,28.551996,-80.795932,28.551996",
     "geom:latitude":28.551996,
     "geom:longitude":-80.795932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5195 S Washington Ave",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":169672735,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466445063,
     "wof:name":"Honeycutt & Associates Inc",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.795932,28.551996,-80.795932,28.551996],
-  "geometry": {"coordinates":[-80.795932,28.551996],"type":"Point"}
+  "bbox": [
+    -80.795932,
+    28.551996,
+    -80.795932,
+    28.551996
+],
+  "geometry": {"coordinates":[-80.79593199999999,28.551996],"type":"Point"}
 }

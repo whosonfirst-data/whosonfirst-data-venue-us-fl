@@ -2,13 +2,14 @@
   "id": 354221803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.261322,28.657093,-81.261322,28.657093",
     "geom:latitude":28.657093,
     "geom:longitude":-81.261322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Andes Dr",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354221803,
-    "wof:lastmodified":1449066666,
+    "wof:lastmodified":1466439524,
     "wof:name":"James Birkenmeyer Installation",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.261322,28.657093,-81.261322,28.657093],
-  "geometry": {"coordinates":[-81.261322,28.657093],"type":"Point"}
+  "bbox": [
+    -81.261322,
+    28.657093,
+    -81.261322,
+    28.657093
+],
+  "geometry": {"coordinates":[-81.26132200000001,28.657093],"type":"Point"}
 }

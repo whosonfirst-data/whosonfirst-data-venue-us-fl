@@ -2,13 +2,14 @@
   "id": 319999675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.479799,28.480919,-81.479799,28.480919",
     "geom:latitude":28.480919,
     "geom:longitude":-81.479799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7336 Grace Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319999675,
-    "wof:lastmodified":1449024790,
+    "wof:lastmodified":1466435995,
     "wof:name":"Sullivan & Assoc",
     "wof:parent_id":85889407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-81.479799,28.480919,-81.479799,28.480919],
+  "bbox": [
+    -81.479799,
+    28.480919,
+    -81.479799,
+    28.480919
+],
   "geometry": {"coordinates":[-81.479799,28.480919],"type":"Point"}
 }

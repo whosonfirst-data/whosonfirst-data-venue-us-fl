@@ -2,13 +2,14 @@
   "id": 185926369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154085,26.692253,-80.154085,26.692253",
     "geom:latitude":26.692253,
     "geom:longitude":-80.154085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6789 Belvedere Rd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":185926369,
-    "wof:lastmodified":1449007152,
+    "wof:lastmodified":1466430231,
     "wof:name":"Florida Gas Transmission Co",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.154085,26.692253,-80.154085,26.692253],
-  "geometry": {"coordinates":[-80.154085,26.692253],"type":"Point"}
+  "bbox": [
+    -80.154085,
+    26.692253,
+    -80.154085,
+    26.692253
+],
+  "geometry": {"coordinates":[-80.15408499999999,26.692253],"type":"Point"}
 }

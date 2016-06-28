@@ -2,13 +2,14 @@
   "id": 354041309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607048,27.922587,-81.607048,27.922587",
     "geom:latitude":27.922587,
     "geom:longitude":-81.607048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Mountain Lake Cutoff Rd",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354041309,
-    "wof:lastmodified":1449066523,
+    "wof:lastmodified":1466436700,
     "wof:name":"WIPC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.607048,27.922587,-81.607048,27.922587],
-  "geometry": {"coordinates":[-81.607048,27.922587],"type":"Point"}
+  "bbox": [
+    -81.607048,
+    27.922587,
+    -81.607048,
+    27.922587
+],
+  "geometry": {"coordinates":[-81.60704800000001,27.922587],"type":"Point"}
 }

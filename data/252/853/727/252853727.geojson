@@ -2,13 +2,14 @@
   "id": 252853727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.491239,27.849736,-82.491239,27.849736",
     "geom:latitude":27.849736,
     "geom:longitude":-82.491239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8106 Condor St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252853727,
-    "wof:lastmodified":1449005845,
+    "wof:lastmodified":1466430533,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85889761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.491239,27.849736,-82.491239,27.849736],
-  "geometry": {"coordinates":[-82.491239,27.849736],"type":"Point"}
+  "bbox": [
+    -82.491239,
+    27.849736,
+    -82.491239,
+    27.849736
+],
+  "geometry": {"coordinates":[-82.49123899999999,27.849736],"type":"Point"}
 }

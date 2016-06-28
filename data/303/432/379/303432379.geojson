@@ -2,13 +2,14 @@
   "id": 303432379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.756633,28.139469,-82.756633,28.139469",
     "geom:latitude":28.139469,
     "geom:longitude":-82.756633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Pinellas Ave",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303432379,
-    "wof:lastmodified":1448998072,
+    "wof:lastmodified":1466437969,
     "wof:name":"Community Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.756633,28.139469,-82.756633,28.139469],
-  "geometry": {"coordinates":[-82.756633,28.139469],"type":"Point"}
+  "bbox": [
+    -82.756633,
+    28.139469,
+    -82.756633,
+    28.139469
+],
+  "geometry": {"coordinates":[-82.75663299999999,28.139469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186269537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.297457,29.678056,-82.297457,29.678056",
     "geom:latitude":29.678056,
     "geom:longitude":-82.297457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 NE 20 Way",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186269537,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1466429917,
     "wof:name":"Doug Hoffman Auto Repair",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-82.297457,29.678056,-82.297457,29.678056],
-  "geometry": {"coordinates":[-82.297457,29.678056],"type":"Point"}
+  "bbox": [
+    -82.297457,
+    29.678056,
+    -82.297457,
+    29.678056
+],
+  "geometry": {"coordinates":[-82.29745699999999,29.678056],"type":"Point"}
 }

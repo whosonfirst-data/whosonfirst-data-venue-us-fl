@@ -2,13 +2,14 @@
   "id": 269901447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.219487,30.537666,-87.219487,30.537666",
     "geom:latitude":30.537666,
     "geom:longitude":-87.219487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9811 Pinebrake Ct",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269901447,
-    "wof:lastmodified":1449037136,
+    "wof:lastmodified":1466435844,
     "wof:name":"RCC Welding",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-87.219487,30.537666,-87.219487,30.537666],
+  "bbox": [
+    -87.219487,
+    30.537666,
+    -87.219487,
+    30.537666
+],
   "geometry": {"coordinates":[-87.219487,30.537666],"type":"Point"}
 }

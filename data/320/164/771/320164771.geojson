@@ -2,13 +2,14 @@
   "id": 320164771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.208682,28.59781,-81.208682,28.59781",
     "geom:latitude":28.59781,
     "geom:longitude":-81.208682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12227 University Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320164771,
-    "wof:lastmodified":1449011690,
+    "wof:lastmodified":1466436207,
     "wof:name":"Apartment Hunters At UCF",
     "wof:parent_id":85889401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-81.208682,28.59781,-81.208682,28.59781],
+  "bbox": [
+    -81.208682,
+    28.59781,
+    -81.208682,
+    28.59781
+],
   "geometry": {"coordinates":[-81.208682,28.59781],"type":"Point"}
 }

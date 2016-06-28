@@ -2,13 +2,14 @@
   "id": 370998421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585675,30.439033,-86.585675,30.439033",
     "geom:latitude":30.439033,
     "geom:longitude":-86.585675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Clifford Dr",
     "sg:city":"Shalimar",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370998421,
-    "wof:lastmodified":1449030216,
+    "wof:lastmodified":1466448213,
     "wof:name":"Dynetics Inc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-86.585675,30.439033,-86.585675,30.439033],
-  "geometry": {"coordinates":[-86.585675,30.439033],"type":"Point"}
+  "bbox": [
+    -86.585675,
+    30.439033,
+    -86.585675,
+    30.439033
+],
+  "geometry": {"coordinates":[-86.58567499999999,30.439033],"type":"Point"}
 }

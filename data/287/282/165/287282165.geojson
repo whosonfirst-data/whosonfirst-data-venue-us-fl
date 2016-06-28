@@ -2,13 +2,14 @@
   "id": 287282165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798958,26.211177,-81.798958,26.211177",
     "geom:latitude":26.211177,
     "geom:longitude":-81.798958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Pine Ridge Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287282165,
-    "wof:lastmodified":1449001225,
+    "wof:lastmodified":1466434789,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-81.798958,26.211177,-81.798958,26.211177],
+  "bbox": [
+    -81.798958,
+    26.211177,
+    -81.798958,
+    26.211177
+],
   "geometry": {"coordinates":[-81.798958,26.211177],"type":"Point"}
 }

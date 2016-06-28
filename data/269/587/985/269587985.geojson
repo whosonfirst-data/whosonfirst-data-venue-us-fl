@@ -2,13 +2,14 @@
   "id": 269587985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.275698,28.25072,-81.275698,28.25072",
     "geom:latitude":28.25072,
     "geom:longitude":-81.275698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Virginia Ave",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269587985,
-    "wof:lastmodified":1449036967,
+    "wof:lastmodified":1466430336,
     "wof:name":"Artistic Walls",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.275698,28.25072,-81.275698,28.25072],
-  "geometry": {"coordinates":[-81.275698,28.25072],"type":"Point"}
+  "bbox": [
+    -81.275698,
+    28.25072,
+    -81.275698,
+    28.25072
+],
+  "geometry": {"coordinates":[-81.27569800000001,28.25072],"type":"Point"}
 }

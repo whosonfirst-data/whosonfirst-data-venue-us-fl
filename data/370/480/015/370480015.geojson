@@ -2,13 +2,14 @@
   "id": 370480015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088929,26.3494,-80.088929,26.3494",
     "geom:latitude":26.3494,
     "geom:longitude":-80.088929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 W Royal Palm Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370480015,
-    "wof:lastmodified":1449030198,
+    "wof:lastmodified":1466441534,
     "wof:name":"Us Alert",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-80.088929,26.3494,-80.088929,26.3494],
-  "geometry": {"coordinates":[-80.088929,26.3494],"type":"Point"}
+  "bbox": [
+    -80.088929,
+    26.3494,
+    -80.088929,
+    26.3494
+],
+  "geometry": {"coordinates":[-80.08892899999999,26.3494],"type":"Point"}
 }

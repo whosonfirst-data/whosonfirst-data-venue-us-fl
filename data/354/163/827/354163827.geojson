@@ -2,13 +2,14 @@
   "id": 354163827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.46156,25.520089,-80.46156,25.520089",
     "geom:latitude":25.520089,
     "geom:longitude":-80.46156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26450 SW 167th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354163827,
-    "wof:lastmodified":1449067646,
+    "wof:lastmodified":1466438615,
     "wof:name":"Tyre Building Corporation",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "co"
     ]
 },
-  "bbox": [-80.46156,25.520089,-80.46156,25.520089],
-  "geometry": {"coordinates":[-80.46156,25.520089],"type":"Point"}
+  "bbox": [
+    -80.46156,
+    25.520089,
+    -80.46156,
+    25.520089
+],
+  "geometry": {"coordinates":[-80.46156000000001,25.520089],"type":"Point"}
 }

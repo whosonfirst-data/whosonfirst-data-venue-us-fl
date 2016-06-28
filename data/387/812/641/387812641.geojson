@@ -2,13 +2,14 @@
   "id": 387812641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.653471,30.329175,-81.653471,30.329175",
     "geom:latitude":30.329175,
     "geom:longitude":-81.653471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 E Church St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387812641,
-    "wof:lastmodified":1449056226,
+    "wof:lastmodified":1466449139,
     "wof:name":"St John's Episcopal Cathedral",
     "wof:parent_id":85866891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.653471,30.329175,-81.653471,30.329175],
+  "bbox": [
+    -81.653471,
+    30.329175,
+    -81.653471,
+    30.329175
+],
   "geometry": {"coordinates":[-81.653471,30.329175],"type":"Point"}
 }

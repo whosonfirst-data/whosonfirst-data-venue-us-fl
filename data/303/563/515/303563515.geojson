@@ -2,13 +2,14 @@
   "id": 303563515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.319037,25.928127,-80.319037,25.928127",
     "geom:latitude":25.928127,
     "geom:longitude":-80.319037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17237 NW 72nd Pl",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303563515,
-    "wof:lastmodified":1448998154,
+    "wof:lastmodified":1466440242,
     "wof:name":"Ozzo Security Svc",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-80.319037,25.928127,-80.319037,25.928127],
-  "geometry": {"coordinates":[-80.319037,25.928127],"type":"Point"}
+  "bbox": [
+    -80.319037,
+    25.928127,
+    -80.319037,
+    25.928127
+],
+  "geometry": {"coordinates":[-80.31903699999999,25.928127],"type":"Point"}
 }

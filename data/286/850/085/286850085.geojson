@@ -2,13 +2,14 @@
   "id": 286850085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.007038,30.304403,-83.007038,30.304403",
     "geom:latitude":30.304403,
     "geom:longitude":-83.007038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Voyles St",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286850085,
-    "wof:lastmodified":1449016891,
+    "wof:lastmodified":1466440013,
     "wof:name":"Suwannee Valley Transit Auth",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "intercity"
     ]
 },
-  "bbox": [-83.007038,30.304403,-83.007038,30.304403],
-  "geometry": {"coordinates":[-83.007038,30.304403],"type":"Point"}
+  "bbox": [
+    -83.007038,
+    30.304403,
+    -83.007038,
+    30.304403
+],
+  "geometry": {"coordinates":[-83.00703799999999,30.304403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386928717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.164962,30.357951,-87.164962,30.357951",
     "geom:latitude":30.357951,
     "geom:longitude":-87.164962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Shoreline Dr",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386928717,
-    "wof:lastmodified":1449028906,
+    "wof:lastmodified":1466438365,
     "wof:name":"TTS Parcel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shipping"
     ]
 },
-  "bbox": [-87.164962,30.357951,-87.164962,30.357951],
+  "bbox": [
+    -87.164962,
+    30.357951,
+    -87.164962,
+    30.357951
+],
   "geometry": {"coordinates":[-87.164962,30.357951],"type":"Point"}
 }

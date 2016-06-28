@@ -2,13 +2,14 @@
   "id": 253390391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.490738,28.511812,-81.490738,28.511812",
     "geom:latitude":28.511812,
     "geom:longitude":-81.490738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7228 Somersworth Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253390391,
-    "wof:lastmodified":1449065839,
+    "wof:lastmodified":1466433695,
     "wof:name":"Wilkins & Son",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.490738,28.511812,-81.490738,28.511812],
-  "geometry": {"coordinates":[-81.490738,28.511812],"type":"Point"}
+  "bbox": [
+    -81.490738,
+    28.511812,
+    -81.490738,
+    28.511812
+],
+  "geometry": {"coordinates":[-81.49073799999999,28.511812],"type":"Point"}
 }

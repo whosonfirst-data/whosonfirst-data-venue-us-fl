@@ -2,13 +2,14 @@
   "id": 287132119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.418951,28.682706,-81.418951,28.682706",
     "geom:latitude":28.682706,
     "geom:longitude":-81.418951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 N State Rd 434",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287132119,
-    "wof:lastmodified":1449001088,
+    "wof:lastmodified":1466432174,
     "wof:name":"Sweetwater Ballroom & Dance",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.418951,28.682706,-81.418951,28.682706],
-  "geometry": {"coordinates":[-81.418951,28.682706],"type":"Point"}
+  "bbox": [
+    -81.418951,
+    28.682706,
+    -81.418951,
+    28.682706
+],
+  "geometry": {"coordinates":[-81.41895100000001,28.682706],"type":"Point"}
 }

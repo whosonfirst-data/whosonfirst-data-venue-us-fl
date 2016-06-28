@@ -2,13 +2,14 @@
   "id": 253102997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.755199,26.158781,-81.755199,26.158781",
     "geom:latitude":26.158781,
     "geom:longitude":-81.755199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 Exchange Ave",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253102997,
-    "wof:lastmodified":1449065571,
+    "wof:lastmodified":1466429928,
     "wof:name":"United Distribution Svc",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-81.755199,26.158781,-81.755199,26.158781],
+  "bbox": [
+    -81.755199,
+    26.158781,
+    -81.755199,
+    26.158781
+],
   "geometry": {"coordinates":[-81.755199,26.158781],"type":"Point"}
 }

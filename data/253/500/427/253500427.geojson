@@ -2,13 +2,14 @@
   "id": 253500427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.316479,30.180125,-84.316479,30.180125",
     "geom:latitude":30.180125,
     "geom:longitude":-84.316479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 White Oak Dr",
     "sg:city":"Crawfordville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253500427,
-    "wof:lastmodified":1449063555,
+    "wof:lastmodified":1466435626,
     "wof:name":"Watershed Management Institute",
     "wof:parent_id":85842795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-84.316479,30.180125,-84.316479,30.180125],
+  "bbox": [
+    -84.316479,
+    30.180125,
+    -84.316479,
+    30.180125
+],
   "geometry": {"coordinates":[-84.316479,30.180125],"type":"Point"}
 }

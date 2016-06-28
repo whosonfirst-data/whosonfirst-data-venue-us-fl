@@ -2,13 +2,14 @@
   "id": 303779389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.700381,28.525015,-81.700381,28.525015",
     "geom:latitude":28.525015,
     "geom:longitude":-81.700381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15400 Johns Lake Rd",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303779389,
-    "wof:lastmodified":1448998494,
+    "wof:lastmodified":1466443957,
     "wof:name":"Fox Wholesale",
     "wof:parent_id":85888705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "art"
     ]
 },
-  "bbox": [-81.700381,28.525015,-81.700381,28.525015],
-  "geometry": {"coordinates":[-81.700381,28.525015],"type":"Point"}
+  "bbox": [
+    -81.700381,
+    28.525015,
+    -81.700381,
+    28.525015
+],
+  "geometry": {"coordinates":[-81.70038099999999,28.525015],"type":"Point"}
 }

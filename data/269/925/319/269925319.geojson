@@ -2,13 +2,14 @@
   "id": 269925319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603065,28.569186,-81.603065,28.569186",
     "geom:latitude":28.569186,
     "geom:longitude":-81.603065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Harbor Dr",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269925319,
-    "wof:lastmodified":1449036174,
+    "wof:lastmodified":1466436256,
     "wof:name":"North American Journal of",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-81.603065,28.569186,-81.603065,28.569186],
+  "bbox": [
+    -81.603065,
+    28.569186,
+    -81.603065,
+    28.569186
+],
   "geometry": {"coordinates":[-81.603065,28.569186],"type":"Point"}
 }

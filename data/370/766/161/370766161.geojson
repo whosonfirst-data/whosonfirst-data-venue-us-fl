@@ -2,13 +2,14 @@
   "id": 370766161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52831,27.335518,-82.52831,27.335518",
     "geom:latitude":27.335518,
     "geom:longitude":-82.52831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Ringling Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370766161,
-    "wof:lastmodified":1449029020,
+    "wof:lastmodified":1466445941,
     "wof:name":"Goss Porter Congressman",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "congressional"
     ]
 },
-  "bbox": [-82.52831,27.335518,-82.52831,27.335518],
+  "bbox": [
+    -82.52831,
+    27.335518,
+    -82.52831,
+    27.335518
+],
   "geometry": {"coordinates":[-82.52831,27.335518],"type":"Point"}
 }

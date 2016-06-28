@@ -2,13 +2,14 @@
   "id": 303277451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.686399,28.287831,-82.686399,28.287831",
     "geom:latitude":28.287831,
     "geom:longitude":-82.686399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7720 San Miguel Dr",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303277451,
-    "wof:lastmodified":1448998397,
+    "wof:lastmodified":1466435339,
     "wof:name":"Y&S Trucking Inc",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.686399,28.287831,-82.686399,28.287831],
-  "geometry": {"coordinates":[-82.686399,28.287831],"type":"Point"}
+  "bbox": [
+    -82.686399,
+    28.287831,
+    -82.686399,
+    28.287831
+],
+  "geometry": {"coordinates":[-82.68639899999999,28.287831],"type":"Point"}
 }

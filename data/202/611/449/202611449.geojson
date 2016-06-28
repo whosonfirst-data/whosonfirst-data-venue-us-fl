@@ -2,13 +2,14 @@
   "id": 202611449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.683093,28.093628,-80.683093,28.093628",
     "geom:latitude":28.093628,
     "geom:longitude":-80.683093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7715 Greenboro Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202611449,
-    "wof:lastmodified":1449062124,
+    "wof:lastmodified":1466429827,
     "wof:name":"Jim French Inc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.683093,28.093628,-80.683093,28.093628],
+  "bbox": [
+    -80.683093,
+    28.093628,
+    -80.683093,
+    28.093628
+],
   "geometry": {"coordinates":[-80.683093,28.093628],"type":"Point"}
 }

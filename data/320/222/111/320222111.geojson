@@ -2,13 +2,14 @@
   "id": 320222111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.440587,25.525262,-80.440587,25.525262",
     "geom:latitude":25.525262,
     "geom:longitude":-80.440587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15305 SW 260th St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320222111,
-    "wof:lastmodified":1449013773,
+    "wof:lastmodified":1466437183,
     "wof:name":"Susie Petersen PA",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.440587,25.525262,-80.440587,25.525262],
-  "geometry": {"coordinates":[-80.440587,25.525262],"type":"Point"}
+  "bbox": [
+    -80.440587,
+    25.525262,
+    -80.440587,
+    25.525262
+],
+  "geometry": {"coordinates":[-80.44058699999999,25.525262],"type":"Point"}
 }

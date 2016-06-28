@@ -2,13 +2,14 @@
   "id": 186086857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320879,26.812957,-80.320879,26.812957",
     "geom:latitude":26.812957,
     "geom:longitude":-80.320879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17603 Murcott Blvd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186086857,
-    "wof:lastmodified":1449052166,
+    "wof:lastmodified":1466445215,
     "wof:name":"C&G Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.320879,26.812957,-80.320879,26.812957],
-  "geometry": {"coordinates":[-80.320879,26.812957],"type":"Point"}
+  "bbox": [
+    -80.320879,
+    26.812957,
+    -80.320879,
+    26.812957
+],
+  "geometry": {"coordinates":[-80.32087900000001,26.812957],"type":"Point"}
 }

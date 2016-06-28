@@ -2,13 +2,14 @@
   "id": 320508301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199704,27.145886,-80.199704,27.145886",
     "geom:latitude":27.145886,
     "geom:longitude":-80.199704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4064 SE Seaward St",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320508301,
-    "wof:lastmodified":1449013352,
+    "wof:lastmodified":1466442166,
     "wof:name":"Dave's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.199704,27.145886,-80.199704,27.145886],
+  "bbox": [
+    -80.199704,
+    27.145886,
+    -80.199704,
+    27.145886
+],
   "geometry": {"coordinates":[-80.199704,27.145886],"type":"Point"}
 }

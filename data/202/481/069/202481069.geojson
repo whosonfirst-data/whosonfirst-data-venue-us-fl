@@ -2,13 +2,14 @@
   "id": 202481069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459423,28.028026,-82.459423,28.028026",
     "geom:latitude":28.028026,
     "geom:longitude":-82.459423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8511 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202481069,
-    "wof:lastmodified":1449062335,
+    "wof:lastmodified":1466445719,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-82.459423,28.028026,-82.459423,28.028026],
+  "bbox": [
+    -82.459423,
+    28.028026,
+    -82.459423,
+    28.028026
+],
   "geometry": {"coordinates":[-82.459423,28.028026],"type":"Point"}
 }

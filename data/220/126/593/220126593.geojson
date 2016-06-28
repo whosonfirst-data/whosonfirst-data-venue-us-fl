@@ -2,13 +2,14 @@
   "id": 220126593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.358336,28.539694,-82.358336,28.539694",
     "geom:latitude":28.539694,
     "geom:longitude":-82.358336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22293 Cortez Blvd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220126593,
-    "wof:lastmodified":1449074328,
+    "wof:lastmodified":1466428591,
     "wof:name":"Brooksville Dance Academy",
     "wof:parent_id":85888605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-82.358336,28.539694,-82.358336,28.539694],
-  "geometry": {"coordinates":[-82.358336,28.539694],"type":"Point"}
+  "bbox": [
+    -82.358336,
+    28.539694,
+    -82.358336,
+    28.539694
+],
+  "geometry": {"coordinates":[-82.35833599999999,28.539694],"type":"Point"}
 }

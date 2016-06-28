@@ -2,13 +2,14 @@
   "id": 319820955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270361,27.240124,-80.270361,27.240124",
     "geom:latitude":27.240124,
     "geom:longitude":-80.270361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 NW Federal Hwy",
     "sg:city":"Jensen Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319820955,
-    "wof:lastmodified":1449024492,
+    "wof:lastmodified":1466432794,
     "wof:name":"Treasure Coast Stadium 15",
     "wof:parent_id":85889623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.270361,27.240124,-80.270361,27.240124],
-  "geometry": {"coordinates":[-80.270361,27.240124],"type":"Point"}
+  "bbox": [
+    -80.270361,
+    27.240124,
+    -80.270361,
+    27.240124
+],
+  "geometry": {"coordinates":[-80.27036099999999,27.240124],"type":"Point"}
 }

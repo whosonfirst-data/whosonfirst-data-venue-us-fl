@@ -2,13 +2,14 @@
   "id": 202705571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233518,26.681204,-80.233518,26.681204",
     "geom:latitude":26.681204,
     "geom:longitude":-80.233518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11965 Southern Blvd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202705571,
-    "wof:lastmodified":1449062664,
+    "wof:lastmodified":1466431055,
     "wof:name":"OMI Of Wellington",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "imaging"
     ]
 },
-  "bbox": [-80.233518,26.681204,-80.233518,26.681204],
+  "bbox": [
+    -80.233518,
+    26.681204,
+    -80.233518,
+    26.681204
+],
   "geometry": {"coordinates":[-80.233518,26.681204],"type":"Point"}
 }

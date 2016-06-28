@@ -2,13 +2,14 @@
   "id": 320139019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.301966,26.169932,-80.301966,26.169932",
     "geom:latitude":26.169932,
     "geom:longitude":-80.301966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 NW 115th Ter",
     "sg:city":"Sunrise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320139019,
-    "wof:lastmodified":1449011593,
+    "wof:lastmodified":1466435770,
     "wof:name":"Car Locator & Buyer Inc",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.301966,26.169932,-80.301966,26.169932],
-  "geometry": {"coordinates":[-80.301966,26.169932],"type":"Point"}
+  "bbox": [
+    -80.301966,
+    26.169932,
+    -80.301966,
+    26.169932
+],
+  "geometry": {"coordinates":[-80.30196599999999,26.169932],"type":"Point"}
 }

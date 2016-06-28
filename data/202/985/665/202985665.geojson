@@ -2,13 +2,14 @@
   "id": 202985665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.715516,30.413061,-86.715516,30.413061",
     "geom:latitude":30.413061,
     "geom:longitude":-86.715516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Solar St",
     "sg:city":"Mary Esther",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202985665,
-    "wof:lastmodified":1449061380,
+    "wof:lastmodified":1466434731,
     "wof:name":"Advantage Re Location",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relocation"
     ]
 },
-  "bbox": [-86.715516,30.413061,-86.715516,30.413061],
-  "geometry": {"coordinates":[-86.715516,30.413061],"type":"Point"}
+  "bbox": [
+    -86.715516,
+    30.413061,
+    -86.715516,
+    30.413061
+],
+  "geometry": {"coordinates":[-86.71551599999999,30.413061],"type":"Point"}
 }

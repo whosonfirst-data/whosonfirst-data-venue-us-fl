@@ -2,13 +2,14 @@
   "id": 287076595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.803328,26.233904,-81.803328,26.233904",
     "geom:latitude":26.233904,
     "geom:longitude":-81.803328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"864 Tanbark Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287076595,
-    "wof:lastmodified":1449001364,
+    "wof:lastmodified":1466431177,
     "wof:name":"Henry Poor Inc",
     "wof:parent_id":85889231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.803328,26.233904,-81.803328,26.233904],
-  "geometry": {"coordinates":[-81.803328,26.233904],"type":"Point"}
+  "bbox": [
+    -81.803328,
+    26.233904,
+    -81.803328,
+    26.233904
+],
+  "geometry": {"coordinates":[-81.80332799999999,26.233904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270221053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.553171,30.773991,-86.553171,30.773991",
     "geom:latitude":30.773991,
     "geom:longitude":-86.553171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 Farmer St",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270221053,
-    "wof:lastmodified":1449009711,
+    "wof:lastmodified":1466433250,
     "wof:name":"Crestview Ready Mix",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-86.553171,30.773991,-86.553171,30.773991],
-  "geometry": {"coordinates":[-86.553171,30.773991],"type":"Point"}
+  "bbox": [
+    -86.553171,
+    30.773991,
+    -86.553171,
+    30.773991
+],
+  "geometry": {"coordinates":[-86.55317100000001,30.773991],"type":"Point"}
 }

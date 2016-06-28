@@ -2,13 +2,14 @@
   "id": 270129217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.472176,28.521981,-81.472176,28.521981",
     "geom:latitude":28.521981,
     "geom:longitude":-81.472176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1768 Park Center Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270129217,
-    "wof:lastmodified":1449010592,
+    "wof:lastmodified":1466431649,
     "wof:name":"Preferred Travel Inc",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.472176,28.521981,-81.472176,28.521981],
+  "bbox": [
+    -81.472176,
+    28.521981,
+    -81.472176,
+    28.521981
+],
   "geometry": {"coordinates":[-81.472176,28.521981],"type":"Point"}
 }

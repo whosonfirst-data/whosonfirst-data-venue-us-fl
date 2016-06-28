@@ -2,13 +2,14 @@
   "id": 404146029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.543203,27.340529,-82.543203,27.340529",
     "geom:latitude":27.340529,
     "geom:longitude":-82.543203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1381 5th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404146029,
-    "wof:lastmodified":1449039533,
+    "wof:lastmodified":1466442511,
     "wof:name":"Giclee Inc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-82.543203,27.340529,-82.543203,27.340529],
-  "geometry": {"coordinates":[-82.543203,27.340529],"type":"Point"}
+  "bbox": [
+    -82.543203,
+    27.340529,
+    -82.543203,
+    27.340529
+],
+  "geometry": {"coordinates":[-82.54320300000001,27.340529],"type":"Point"}
 }

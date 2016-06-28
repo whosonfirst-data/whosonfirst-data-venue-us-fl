@@ -2,13 +2,14 @@
   "id": 303270313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174584,26.902277,-80.174584,26.902277",
     "geom:latitude":26.902277,
     "geom:longitude":-80.174584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15133 89th Ave N",
     "sg:city":"Palm Beach Gardens",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303270313,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466435211,
     "wof:name":"W Gerrit",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.174584,26.902277,-80.174584,26.902277],
+  "bbox": [
+    -80.174584,
+    26.902277,
+    -80.174584,
+    26.902277
+],
   "geometry": {"coordinates":[-80.174584,26.902277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403910513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069569,26.372684,-80.069569,26.372684",
     "geom:latitude":26.372684,
     "geom:longitude":-80.069569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 NE 24th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403910513,
-    "wof:lastmodified":1449055180,
+    "wof:lastmodified":1466442887,
     "wof:name":"Two Acres Properties",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.069569,26.372684,-80.069569,26.372684],
+  "bbox": [
+    -80.069569,
+    26.372684,
+    -80.069569,
+    26.372684
+],
   "geometry": {"coordinates":[-80.069569,26.372684],"type":"Point"}
 }

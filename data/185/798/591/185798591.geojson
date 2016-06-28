@@ -2,13 +2,14 @@
   "id": 185798591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430636,28.566207,-81.430636,28.566207",
     "geom:latitude":28.566207,
     "geom:longitude":-81.430636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 Mercy Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185798591,
-    "wof:lastmodified":1449006919,
+    "wof:lastmodified":1466428976,
     "wof:name":"Lakeside Village Apartments",
     "wof:parent_id":85879493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.430636,28.566207,-81.430636,28.566207],
-  "geometry": {"coordinates":[-81.430636,28.566207],"type":"Point"}
+  "bbox": [
+    -81.430636,
+    28.566207,
+    -81.430636,
+    28.566207
+],
+  "geometry": {"coordinates":[-81.43063600000001,28.566207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202870295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320057,25.786196,-80.320057,25.786196",
     "geom:latitude":25.786196,
     "geom:longitude":-80.320057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7570 NW 14th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202870295,
-    "wof:lastmodified":1449060782,
+    "wof:lastmodified":1466433197,
     "wof:name":"Multi Media Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "exporter"
     ]
 },
-  "bbox": [-80.320057,25.786196,-80.320057,25.786196],
-  "geometry": {"coordinates":[-80.320057,25.786196],"type":"Point"}
+  "bbox": [
+    -80.320057,
+    25.786196,
+    -80.320057,
+    25.786196
+],
+  "geometry": {"coordinates":[-80.32005700000001,25.786196],"type":"Point"}
 }

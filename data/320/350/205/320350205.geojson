@@ -2,13 +2,14 @@
   "id": 320350205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.688423,30.889477,-85.688423,30.889477",
     "geom:latitude":30.889477,
     "geom:longitude":-85.688423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1694 Robbins Bridge Rd",
     "sg:city":"Bonifay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320350205,
-    "wof:lastmodified":1449013161,
+    "wof:lastmodified":1466439395,
     "wof:name":"No Boundaries Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.688423,30.889477,-85.688423,30.889477],
+  "bbox": [
+    -85.688423,
+    30.889477,
+    -85.688423,
+    30.889477
+],
   "geometry": {"coordinates":[-85.688423,30.889477],"type":"Point"}
 }

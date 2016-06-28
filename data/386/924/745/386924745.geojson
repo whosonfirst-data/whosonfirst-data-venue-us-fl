@@ -2,13 +2,14 @@
   "id": 386924745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.142603,26.081609,-80.142603,26.081609",
     "geom:latitude":26.081609,
     "geom:longitude":-80.142603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 SW 34th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386924745,
-    "wof:lastmodified":1449028704,
+    "wof:lastmodified":1466446270,
     "wof:name":"USA 3000 Airlines",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-80.142603,26.081609,-80.142603,26.081609],
-  "geometry": {"coordinates":[-80.142603,26.081609],"type":"Point"}
+  "bbox": [
+    -80.142603,
+    26.081609,
+    -80.142603,
+    26.081609
+],
+  "geometry": {"coordinates":[-80.14260299999999,26.081609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253224401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.282201,30.460624,-87.282201,30.460624",
     "geom:latitude":30.460624,
     "geom:longitude":-87.282201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 W Michigan Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253224401,
-    "wof:lastmodified":1449064993,
+    "wof:lastmodified":1466431073,
     "wof:name":"Carriage Hills Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.282201,30.460624,-87.282201,30.460624],
+  "bbox": [
+    -87.282201,
+    30.460624,
+    -87.282201,
+    30.460624
+],
   "geometry": {"coordinates":[-87.282201,30.460624],"type":"Point"}
 }

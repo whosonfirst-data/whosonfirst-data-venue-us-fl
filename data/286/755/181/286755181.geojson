@@ -2,13 +2,14 @@
   "id": 286755181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430405,28.380747,-81.430405,28.380747",
     "geom:latitude":28.380747,
     "geom:longitude":-81.430405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13030 Winfield Scott Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286755181,
-    "wof:lastmodified":1449016022,
+    "wof:lastmodified":1466438346,
     "wof:name":"Rp Tours",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-81.430405,28.380747,-81.430405,28.380747],
-  "geometry": {"coordinates":[-81.430405,28.380747],"type":"Point"}
+  "bbox": [
+    -81.430405,
+    28.380747,
+    -81.430405,
+    28.380747
+],
+  "geometry": {"coordinates":[-81.43040499999999,28.380747],"type":"Point"}
 }

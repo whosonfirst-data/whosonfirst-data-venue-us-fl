@@ -2,13 +2,14 @@
   "id": 236660189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.185224,28.666038,-81.185224,28.666038",
     "geom:latitude":28.666038,
     "geom:longitude":-81.185224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 Buckingham Dr",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236660189,
-    "wof:lastmodified":1449004834,
+    "wof:lastmodified":1466437766,
     "wof:name":"Consumer Pulse",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analysis"
     ]
 },
-  "bbox": [-81.185224,28.666038,-81.185224,28.666038],
-  "geometry": {"coordinates":[-81.185224,28.666038],"type":"Point"}
+  "bbox": [
+    -81.185224,
+    28.666038,
+    -81.185224,
+    28.666038
+],
+  "geometry": {"coordinates":[-81.18522400000001,28.666038],"type":"Point"}
 }

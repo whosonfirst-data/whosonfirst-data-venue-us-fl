@@ -2,13 +2,14 @@
   "id": 253473051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242754,25.926009,-80.242754,25.926009",
     "geom:latitude":25.926009,
     "geom:longitude":-80.242754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16610 NW 25th Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253473051,
-    "wof:lastmodified":1449063429,
+    "wof:lastmodified":1466435149,
     "wof:name":"Meme's Place",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.242754,25.926009,-80.242754,25.926009],
-  "geometry": {"coordinates":[-80.242754,25.926009],"type":"Point"}
+  "bbox": [
+    -80.242754,
+    25.926009,
+    -80.242754,
+    25.926009
+],
+  "geometry": {"coordinates":[-80.24275400000001,25.926009],"type":"Point"}
 }

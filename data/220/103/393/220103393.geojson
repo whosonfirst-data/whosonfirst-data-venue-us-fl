@@ -2,13 +2,14 @@
   "id": 220103393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.390726,27.622782,-80.390726,27.622782",
     "geom:latitude":27.622782,
     "geom:longitude":-80.390726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Commerce Ave",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220103393,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466446017,
     "wof:name":"Bike Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.390726,27.622782,-80.390726,27.622782],
+  "bbox": [
+    -80.390726,
+    27.622782,
+    -80.390726,
+    27.622782
+],
   "geometry": {"coordinates":[-80.390726,27.622782],"type":"Point"}
 }

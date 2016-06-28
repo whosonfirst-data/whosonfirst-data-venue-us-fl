@@ -2,13 +2,14 @@
   "id": 270504005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246632,26.706079,-80.246632,26.706079",
     "geom:latitude":26.706079,
     "geom:longitude":-80.246632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12948 Okeechobee Rd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270504005,
-    "wof:lastmodified":1449009072,
+    "wof:lastmodified":1466438093,
     "wof:name":"V-K Transport",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-80.246632,26.706079,-80.246632,26.706079],
-  "geometry": {"coordinates":[-80.246632,26.706079],"type":"Point"}
+  "bbox": [
+    -80.246632,
+    26.706079,
+    -80.246632,
+    26.706079
+],
+  "geometry": {"coordinates":[-80.24663200000001,26.706079],"type":"Point"}
 }

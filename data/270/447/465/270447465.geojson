@@ -2,13 +2,14 @@
   "id": 270447465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290801,25.710191,-80.290801,25.710191",
     "geom:latitude":25.710191,
     "geom:longitude":-80.290801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6461 SW 59th Pl",
     "sg:city":"South Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270447465,
-    "wof:lastmodified":1449010374,
+    "wof:lastmodified":1466437104,
     "wof:name":"St John's AME Church",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.290801,25.710191,-80.290801,25.710191],
+  "bbox": [
+    -80.290801,
+    25.710191,
+    -80.290801,
+    25.710191
+],
   "geometry": {"coordinates":[-80.290801,25.710191],"type":"Point"}
 }

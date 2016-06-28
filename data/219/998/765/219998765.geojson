@@ -2,13 +2,14 @@
   "id": 219998765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34625,25.889009,-80.34625,25.889009",
     "geom:latitude":25.889009,
     "geom:longitude":-80.34625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 W 73rd Pl",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219998765,
-    "wof:lastmodified":1449071564,
+    "wof:lastmodified":1466438208,
     "wof:name":"American Fruit & Produce Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-80.34625,25.889009,-80.34625,25.889009],
+  "bbox": [
+    -80.34625,
+    25.889009,
+    -80.34625,
+    25.889009
+],
   "geometry": {"coordinates":[-80.34625,25.889009],"type":"Point"}
 }

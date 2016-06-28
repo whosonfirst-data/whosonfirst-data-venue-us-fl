@@ -2,13 +2,14 @@
   "id": 353671725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123199,26.137273,-80.123199,26.137273",
     "geom:latitude":26.137273,
     "geom:longitude":-80.123199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 E Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353671725,
-    "wof:lastmodified":1449018835,
+    "wof:lastmodified":1466438926,
     "wof:name":"Ryan Beck & Co Inc",
     "wof:parent_id":85877507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.123199,26.137273,-80.123199,26.137273],
+  "bbox": [
+    -80.123199,
+    26.137273,
+    -80.123199,
+    26.137273
+],
   "geometry": {"coordinates":[-80.123199,26.137273],"type":"Point"}
 }

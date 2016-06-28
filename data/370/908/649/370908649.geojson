@@ -2,13 +2,14 @@
   "id": 370908649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900523,28.004028,-81.900523,28.004028",
     "geom:latitude":28.004028,
     "geom:longitude":-81.900523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 Brooks St",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370908649,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1466447534,
     "wof:name":"First Fleet Of Central Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.900523,28.004028,-81.900523,28.004028],
-  "geometry": {"coordinates":[-81.900523,28.004028],"type":"Point"}
+  "bbox": [
+    -81.900523,
+    28.004028,
+    -81.900523,
+    28.004028
+],
+  "geometry": {"coordinates":[-81.90052300000001,28.004028],"type":"Point"}
 }

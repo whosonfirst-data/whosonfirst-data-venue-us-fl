@@ -2,13 +2,14 @@
   "id": 403774959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.395558,27.639632,-80.395558,27.639632",
     "geom:latitude":27.639632,
     "geom:longitude":-80.395558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 US Hwy 1",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403774959,
-    "wof:lastmodified":1449055154,
+    "wof:lastmodified":1466440715,
     "wof:name":"America's Health Choice",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.395558,27.639632,-80.395558,27.639632],
-  "geometry": {"coordinates":[-80.395558,27.639632],"type":"Point"}
+  "bbox": [
+    -80.395558,
+    27.639632,
+    -80.395558,
+    27.639632
+],
+  "geometry": {"coordinates":[-80.39555799999999,27.639632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370810283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.485639,27.179909,-82.485639,27.179909",
     "geom:latitude":27.179909,
     "geom:longitude":-82.485639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Pine Run Dr",
     "sg:city":"Osprey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370810283,
-    "wof:lastmodified":1449030088,
+    "wof:lastmodified":1466446479,
     "wof:name":"Palmer Rnch Unisex Barber Shop",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.485639,27.179909,-82.485639,27.179909],
-  "geometry": {"coordinates":[-82.485639,27.179909],"type":"Point"}
+  "bbox": [
+    -82.485639,
+    27.179909,
+    -82.485639,
+    27.179909
+],
+  "geometry": {"coordinates":[-82.48563900000001,27.179909],"type":"Point"}
 }

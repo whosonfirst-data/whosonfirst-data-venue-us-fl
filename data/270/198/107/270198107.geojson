@@ -2,13 +2,14 @@
   "id": 270198107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.59762,28.876795,-81.59762,28.876795",
     "geom:latitude":28.876795,
     "geom:longitude":-81.59762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21902 Co Rd 44A",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270198107,
-    "wof:lastmodified":1449009527,
+    "wof:lastmodified":1466432858,
     "wof:name":"Nicks Knacks & Paddy Wacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.59762,28.876795,-81.59762,28.876795],
-  "geometry": {"coordinates":[-81.59762,28.876795],"type":"Point"}
+  "bbox": [
+    -81.59762,
+    28.876795,
+    -81.59762,
+    28.876795
+],
+  "geometry": {"coordinates":[-81.59762000000001,28.876795],"type":"Point"}
 }

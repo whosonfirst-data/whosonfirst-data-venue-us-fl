@@ -2,13 +2,14 @@
   "id": 354128381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.41595,30.46858,-83.41595,30.46858",
     "geom:latitude":30.46858,
     "geom:longitude":-83.41595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Pinckney St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354128381,
-    "wof:lastmodified":1449066572,
+    "wof:lastmodified":1466438062,
     "wof:name":"Allen & Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-83.41595,30.46858,-83.41595,30.46858],
+  "bbox": [
+    -83.41595,
+    30.46858,
+    -83.41595,
+    30.46858
+],
   "geometry": {"coordinates":[-83.41595,30.46858],"type":"Point"}
 }

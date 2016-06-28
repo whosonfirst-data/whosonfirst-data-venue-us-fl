@@ -2,13 +2,14 @@
   "id": 303283093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.274358,30.414316,-87.274358,30.414316",
     "geom:latitude":30.414316,
     "geom:longitude":-87.274358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Old Corry Field Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303283093,
-    "wof:lastmodified":1448998836,
+    "wof:lastmodified":1466435424,
     "wof:name":"Four Seasons Insurance",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.274358,30.414316,-87.274358,30.414316],
-  "geometry": {"coordinates":[-87.274358,30.414316],"type":"Point"}
+  "bbox": [
+    -87.274358,
+    30.414316,
+    -87.274358,
+    30.414316
+],
+  "geometry": {"coordinates":[-87.27435800000001,30.414316],"type":"Point"}
 }

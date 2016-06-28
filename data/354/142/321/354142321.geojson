@@ -2,13 +2,14 @@
   "id": 354142321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.743209,30.178005,-81.743209,30.178005",
     "geom:latitude":30.178005,
     "geom:longitude":-81.743209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Aurora Blvd",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354142321,
-    "wof:lastmodified":1449067291,
+    "wof:lastmodified":1466438280,
     "wof:name":"Crazy Dave's Music Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-81.743209,30.178005,-81.743209,30.178005],
-  "geometry": {"coordinates":[-81.743209,30.178005],"type":"Point"}
+  "bbox": [
+    -81.743209,
+    30.178005,
+    -81.743209,
+    30.178005
+],
+  "geometry": {"coordinates":[-81.74320899999999,30.178005],"type":"Point"}
 }

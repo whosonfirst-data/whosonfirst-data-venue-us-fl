@@ -2,13 +2,14 @@
   "id": 286909091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541572,30.340935,-81.541572,30.340935",
     "geom:latitude":30.340935,
     "geom:longitude":-81.541572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Monument Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286909091,
-    "wof:lastmodified":1449017394,
+    "wof:lastmodified":1466441060,
     "wof:name":"Gate Food Post",
     "wof:parent_id":85803499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.541572,30.340935,-81.541572,30.340935],
+  "bbox": [
+    -81.541572,
+    30.340935,
+    -81.541572,
+    30.340935
+],
   "geometry": {"coordinates":[-81.541572,30.340935],"type":"Point"}
 }

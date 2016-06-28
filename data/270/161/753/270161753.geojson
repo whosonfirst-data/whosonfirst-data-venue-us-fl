@@ -2,13 +2,14 @@
   "id": 270161753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050328,26.710375,-80.050328,26.710375",
     "geom:latitude":26.710375,
     "geom:longitude":-80.050328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Flagler Dr",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270161753,
-    "wof:lastmodified":1449009594,
+    "wof:lastmodified":1466432209,
     "wof:name":"Noreen Mc Keen Residence",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-80.050328,26.710375,-80.050328,26.710375],
-  "geometry": {"coordinates":[-80.050328,26.710375],"type":"Point"}
+  "bbox": [
+    -80.050328,
+    26.710375,
+    -80.050328,
+    26.710375
+],
+  "geometry": {"coordinates":[-80.05032799999999,26.710375],"type":"Point"}
 }

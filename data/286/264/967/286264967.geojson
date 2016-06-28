@@ -2,13 +2,14 @@
   "id": 286264967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237862,25.74023,-80.237862,25.74023",
     "geom:latitude":25.74023,
     "geom:longitude":-80.237862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 SW 27th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286264967,
-    "wof:lastmodified":1449017103,
+    "wof:lastmodified":1466429705,
     "wof:name":"Casa Cuba",
     "wof:parent_id":85839179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.237862,25.74023,-80.237862,25.74023],
-  "geometry": {"coordinates":[-80.237862,25.74023],"type":"Point"}
+  "bbox": [
+    -80.237862,
+    25.74023,
+    -80.237862,
+    25.74023
+],
+  "geometry": {"coordinates":[-80.23786200000001,25.74023],"type":"Point"}
 }

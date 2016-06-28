@@ -2,13 +2,14 @@
   "id": 303700505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.632497,27.774169,-82.632497,27.774169",
     "geom:latitude":27.774169,
     "geom:longitude":-82.632497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Beach Dr NE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303700505,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466442630,
     "wof:name":"Museum Of Fine Arts",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.632497,27.774169,-82.632497,27.774169],
+  "bbox": [
+    -82.632497,
+    27.774169,
+    -82.632497,
+    27.774169
+],
   "geometry": {"coordinates":[-82.632497,27.774169],"type":"Point"}
 }

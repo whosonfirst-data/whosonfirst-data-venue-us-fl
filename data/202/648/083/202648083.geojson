@@ -2,13 +2,14 @@
   "id": 202648083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.049683,26.78318,-80.049683,26.78318",
     "geom:latitude":26.78318,
     "geom:longitude":-80.049683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"389 E Blue Heron Blvd",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202648083,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466430317,
     "wof:name":"Blue Heron Fleet Drift Fishing",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.049683,26.78318,-80.049683,26.78318],
+  "bbox": [
+    -80.049683,
+    26.78318,
+    -80.049683,
+    26.78318
+],
   "geometry": {"coordinates":[-80.049683,26.78318],"type":"Point"}
 }

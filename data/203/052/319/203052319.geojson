@@ -2,13 +2,14 @@
   "id": 203052319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10266,26.830735,-80.10266,26.830735",
     "geom:latitude":26.830735,
     "geom:longitude":-80.10266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4404 Burns Rd",
     "sg:city":"Palm Beach Gdns",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203052319,
-    "wof:lastmodified":1449025765,
+    "wof:lastmodified":1466444181,
     "wof:name":"Palm Beach Gardens Community",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.10266,26.830735,-80.10266,26.830735],
+  "bbox": [
+    -80.10266,
+    26.830735,
+    -80.10266,
+    26.830735
+],
   "geometry": {"coordinates":[-80.10266,26.830735],"type":"Point"}
 }

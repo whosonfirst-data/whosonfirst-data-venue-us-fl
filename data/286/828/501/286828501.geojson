@@ -2,13 +2,14 @@
   "id": 286828501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.406366,25.653351,-80.406366,25.653351",
     "geom:latitude":25.653351,
     "geom:longitude":-80.406366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12071 SW 131st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286828501,
-    "wof:lastmodified":1449016688,
+    "wof:lastmodified":1466439616,
     "wof:name":"LA Decor",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "curtain"
     ]
 },
-  "bbox": [-80.406366,25.653351,-80.406366,25.653351],
-  "geometry": {"coordinates":[-80.406366,25.653351],"type":"Point"}
+  "bbox": [
+    -80.406366,
+    25.653351,
+    -80.406366,
+    25.653351
+],
+  "geometry": {"coordinates":[-80.40636600000001,25.653351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303173633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530088,27.331446,-82.530088,27.331446",
     "geom:latitude":27.331446,
     "geom:longitude":-82.530088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Payne Pkwy",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303173633,
-    "wof:lastmodified":1448998587,
+    "wof:lastmodified":1466433528,
     "wof:name":"Traumahelp",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-82.530088,27.331446,-82.530088,27.331446],
-  "geometry": {"coordinates":[-82.530088,27.331446],"type":"Point"}
+  "bbox": [
+    -82.530088,
+    27.331446,
+    -82.530088,
+    27.331446
+],
+  "geometry": {"coordinates":[-82.53008800000001,27.331446],"type":"Point"}
 }

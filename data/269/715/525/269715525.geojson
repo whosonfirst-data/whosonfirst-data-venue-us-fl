@@ -2,13 +2,14 @@
   "id": 269715525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.74504,30.295466,-81.74504,30.295466",
     "geom:latitude":30.295466,
     "geom:longitude":-81.74504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Eola Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269715525,
-    "wof:lastmodified":1449038350,
+    "wof:lastmodified":1466432612,
     "wof:name":"Andrews Maintenance",
     "wof:parent_id":85870735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-81.74504,30.295466,-81.74504,30.295466],
+  "bbox": [
+    -81.74504,
+    30.295466,
+    -81.74504,
+    30.295466
+],
   "geometry": {"coordinates":[-81.74504,30.295466],"type":"Point"}
 }

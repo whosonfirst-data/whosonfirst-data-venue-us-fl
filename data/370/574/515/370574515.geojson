@@ -2,13 +2,14 @@
   "id": 370574515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.214331,28.568444,-81.214331,28.568444",
     "geom:latitude":28.568444,
     "geom:longitude":-81.214331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Bridgeway Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370574515,
-    "wof:lastmodified":1449029041,
+    "wof:lastmodified":1466442989,
     "wof:name":"Mental Health Management Svc",
     "wof:parent_id":85889361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.214331,28.568444,-81.214331,28.568444],
+  "bbox": [
+    -81.214331,
+    28.568444,
+    -81.214331,
+    28.568444
+],
   "geometry": {"coordinates":[-81.214331,28.568444],"type":"Point"}
 }

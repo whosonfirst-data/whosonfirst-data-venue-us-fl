@@ -2,13 +2,14 @@
   "id": 370541401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153348,26.117673,-80.153348,26.117673",
     "geom:latitude":26.117673,
     "geom:longitude":-80.153348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lauderdale Trl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370541401,
-    "wof:lastmodified":1449029463,
+    "wof:lastmodified":1466442470,
     "wof:name":"Around The World Collections",
     "wof:parent_id":85877521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.153348,26.117673,-80.153348,26.117673],
-  "geometry": {"coordinates":[-80.153348,26.117673],"type":"Point"}
+  "bbox": [
+    -80.153348,
+    26.117673,
+    -80.153348,
+    26.117673
+],
+  "geometry": {"coordinates":[-80.15334799999999,26.117673],"type":"Point"}
 }

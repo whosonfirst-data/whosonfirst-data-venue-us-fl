@@ -2,13 +2,14 @@
   "id": 186290399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.614759,30.149493,-81.614759,30.149493",
     "geom:latitude":30.149493,
     "geom:longitude":-81.614759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3734 Reedpond Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186290399,
-    "wof:lastmodified":1449051523,
+    "wof:lastmodified":1466430184,
     "wof:name":"Afis Inc",
     "wof:parent_id":85870725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.614759,30.149493,-81.614759,30.149493],
-  "geometry": {"coordinates":[-81.614759,30.149493],"type":"Point"}
+  "bbox": [
+    -81.614759,
+    30.149493,
+    -81.614759,
+    30.149493
+],
+  "geometry": {"coordinates":[-81.61475900000001,30.149493],"type":"Point"}
 }

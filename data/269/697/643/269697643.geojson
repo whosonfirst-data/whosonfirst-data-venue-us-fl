@@ -2,13 +2,14 @@
   "id": 269697643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.625271,28.082944,-80.625271,28.082944",
     "geom:latitude":28.082944,
     "geom:longitude":-80.625271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 S Park Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269697643,
-    "wof:lastmodified":1449037649,
+    "wof:lastmodified":1466432304,
     "wof:name":"TKS Trucking",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-80.625271,28.082944,-80.625271,28.082944],
+  "bbox": [
+    -80.625271,
+    28.082944,
+    -80.625271,
+    28.082944
+],
   "geometry": {"coordinates":[-80.625271,28.082944],"type":"Point"}
 }

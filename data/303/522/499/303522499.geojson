@@ -2,13 +2,14 @@
   "id": 303522499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.640209,28.078867,-80.640209,28.078867",
     "geom:latitude":28.078867,
     "geom:longitude":-80.640209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W New Haven Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303522499,
-    "wof:lastmodified":1448999284,
+    "wof:lastmodified":1466439549,
     "wof:name":"Connection Etc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-80.640209,28.078867,-80.640209,28.078867],
+  "bbox": [
+    -80.640209,
+    28.078867,
+    -80.640209,
+    28.078867
+],
   "geometry": {"coordinates":[-80.640209,28.078867],"type":"Point"}
 }

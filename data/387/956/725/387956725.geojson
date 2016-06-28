@@ -2,13 +2,14 @@
   "id": 387956725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253412,26.244084,-80.253412,26.244084",
     "geom:latitude":26.244084,
     "geom:longitude":-80.253412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N University Dr",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387956725,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1466449975,
     "wof:name":"Wine Warehouse Of Coral Spg",
     "wof:parent_id":85876891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-80.253412,26.244084,-80.253412,26.244084],
+  "bbox": [
+    -80.253412,
+    26.244084,
+    -80.253412,
+    26.244084
+],
   "geometry": {"coordinates":[-80.253412,26.244084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203286833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.556187,30.329231,-81.556187,30.329231",
     "geom:latitude":30.329231,
     "geom:longitude":-81.556187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Regency Square Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203286833,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466430003,
     "wof:name":"Inchcape Shipping Svc",
     "wof:parent_id":85870695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "steamship"
     ]
 },
-  "bbox": [-81.556187,30.329231,-81.556187,30.329231],
-  "geometry": {"coordinates":[-81.556187,30.329231],"type":"Point"}
+  "bbox": [
+    -81.556187,
+    30.329231,
+    -81.556187,
+    30.329231
+],
+  "geometry": {"coordinates":[-81.55618699999999,30.329231],"type":"Point"}
 }

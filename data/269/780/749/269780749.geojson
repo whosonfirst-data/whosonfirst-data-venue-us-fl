@@ -2,13 +2,14 @@
   "id": 269780749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.311,25.731599,-80.311,25.731599",
     "geom:latitude":25.731599,
     "geom:longitude":-80.311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7236 SW 42nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269780749,
-    "wof:lastmodified":1449038144,
+    "wof:lastmodified":1466433783,
     "wof:name":"Diamond Vending Inc",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.311,25.731599,-80.311,25.731599],
-  "geometry": {"coordinates":[-80.311,25.731599],"type":"Point"}
+  "bbox": [
+    -80.311,
+    25.731599,
+    -80.311,
+    25.731599
+],
+  "geometry": {"coordinates":[-80.31100000000001,25.731599],"type":"Point"}
 }

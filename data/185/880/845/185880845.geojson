@@ -2,13 +2,14 @@
   "id": 185880845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.070813,26.907325,-82.070813,26.907325",
     "geom:latitude":26.907325,
     "geom:longitude":-82.070813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Bal Harbor Blvd",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185880845,
-    "wof:lastmodified":1449008220,
+    "wof:lastmodified":1466429788,
     "wof:name":"Islands In The Sun Cruises",
     "wof:parent_id":85843289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-82.070813,26.907325,-82.070813,26.907325],
+  "bbox": [
+    -82.070813,
+    26.907325,
+    -82.070813,
+    26.907325
+],
   "geometry": {"coordinates":[-82.070813,26.907325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303686733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.321059,29.844555,-81.321059,29.844555",
     "geom:latitude":29.844555,
     "geom:longitude":-81.321059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Segovia Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303686733,
-    "wof:lastmodified":1448999968,
+    "wof:lastmodified":1466442376,
     "wof:name":"Gibson's Heating & Air",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.321059,29.844555,-81.321059,29.844555],
-  "geometry": {"coordinates":[-81.321059,29.844555],"type":"Point"}
+  "bbox": [
+    -81.321059,
+    29.844555,
+    -81.321059,
+    29.844555
+],
+  "geometry": {"coordinates":[-81.32105900000001,29.844555],"type":"Point"}
 }

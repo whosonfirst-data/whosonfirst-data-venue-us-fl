@@ -2,13 +2,14 @@
   "id": 320462013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.65851,30.155295,-85.65851,30.155295",
     "geom:latitude":30.155295,
     "geom:longitude":-85.65851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 4th St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320462013,
-    "wof:lastmodified":1449014819,
+    "wof:lastmodified":1466441343,
     "wof:name":"Boggs & Fishel",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-85.65851,30.155295,-85.65851,30.155295],
-  "geometry": {"coordinates":[-85.65851,30.155295],"type":"Point"}
+  "bbox": [
+    -85.65851,
+    30.155295,
+    -85.65851,
+    30.155295
+],
+  "geometry": {"coordinates":[-85.65851000000001,30.155295],"type":"Point"}
 }

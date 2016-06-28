@@ -2,13 +2,14 @@
   "id": 202556289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210216,26.408469,-80.210216,26.408469",
     "geom:latitude":26.408469,
     "geom:longitude":-80.210216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10386 Greenbriar Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202556289,
-    "wof:lastmodified":1449060746,
+    "wof:lastmodified":1466429099,
     "wof:name":"Bensonhurst Tax Svc",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-80.210216,26.408469,-80.210216,26.408469],
+  "bbox": [
+    -80.210216,
+    26.408469,
+    -80.210216,
+    26.408469
+],
   "geometry": {"coordinates":[-80.210216,26.408469],"type":"Point"}
 }

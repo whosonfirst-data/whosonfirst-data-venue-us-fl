@@ -2,13 +2,14 @@
   "id": 320022025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.228006,27.942375,-82.228006,27.942375",
     "geom:latitude":27.942375,
     "geom:longitude":-82.228006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Carousel Ln",
     "sg:city":"Valrico",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320022025,
-    "wof:lastmodified":1449012512,
+    "wof:lastmodified":1466433777,
     "wof:name":"Event Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.228006,27.942375,-82.228006,27.942375],
-  "geometry": {"coordinates":[-82.228006,27.942375],"type":"Point"}
+  "bbox": [
+    -82.228006,
+    27.942375,
+    -82.228006,
+    27.942375
+],
+  "geometry": {"coordinates":[-82.22800599999999,27.942375],"type":"Point"}
 }

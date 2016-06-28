@@ -2,13 +2,14 @@
   "id": 202927561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.58916,30.375375,-81.58916,30.375375",
     "geom:latitude":30.375375,
     "geom:longitude":-81.58916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4271 Heath Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202927561,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466433970,
     "wof:name":"Proclaims Management LLC",
     "wof:parent_id":85836795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "billing"
     ]
 },
-  "bbox": [-81.58916,30.375375,-81.58916,30.375375],
-  "geometry": {"coordinates":[-81.58916,30.375375],"type":"Point"}
+  "bbox": [
+    -81.58916,
+    30.375375,
+    -81.58916,
+    30.375375
+],
+  "geometry": {"coordinates":[-81.58916000000001,30.375375],"type":"Point"}
 }

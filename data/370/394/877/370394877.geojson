@@ -2,13 +2,14 @@
   "id": 370394877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243086,27.198319,-80.243086,27.198319",
     "geom:latitude":27.198319,
     "geom:longitude":-80.243086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 SE Hospital Ave",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370394877,
-    "wof:lastmodified":1449029750,
+    "wof:lastmodified":1466440223,
     "wof:name":"Guy Dillard MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.243086,27.198319,-80.243086,27.198319],
-  "geometry": {"coordinates":[-80.243086,27.198319],"type":"Point"}
+  "bbox": [
+    -80.243086,
+    27.198319,
+    -80.243086,
+    27.198319
+],
+  "geometry": {"coordinates":[-80.24308600000001,27.198319],"type":"Point"}
 }

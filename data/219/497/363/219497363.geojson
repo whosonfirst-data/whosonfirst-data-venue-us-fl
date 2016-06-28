@@ -2,13 +2,14 @@
   "id": 219497363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174728,26.360631,-80.174728,26.360631",
     "geom:latitude":26.360631,
     "geom:longitude":-80.174728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8185 Via Ancho",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219497363,
-    "wof:lastmodified":1449073861,
+    "wof:lastmodified":1466431483,
     "wof:name":"US Post Office",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.174728,26.360631,-80.174728,26.360631],
+  "bbox": [
+    -80.174728,
+    26.360631,
+    -80.174728,
+    26.360631
+],
   "geometry": {"coordinates":[-80.174728,26.360631],"type":"Point"}
 }

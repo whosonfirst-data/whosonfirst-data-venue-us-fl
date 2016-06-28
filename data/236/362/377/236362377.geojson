@@ -2,13 +2,14 @@
   "id": 236362377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645434,30.481827,-81.645434,30.481827",
     "geom:latitude":30.481827,
     "geom:longitude":-81.645434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14701 Duval Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236362377,
-    "wof:lastmodified":1449003853,
+    "wof:lastmodified":1466433525,
     "wof:name":"Red Roof Inn",
     "wof:parent_id":85888921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.645434,30.481827,-81.645434,30.481827],
-  "geometry": {"coordinates":[-81.645434,30.481827],"type":"Point"}
+  "bbox": [
+    -81.645434,
+    30.481827,
+    -81.645434,
+    30.481827
+],
+  "geometry": {"coordinates":[-81.64543399999999,30.481827],"type":"Point"}
 }

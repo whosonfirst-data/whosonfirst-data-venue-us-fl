@@ -2,13 +2,14 @@
   "id": 353746033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.220379,30.434552,-87.220379,30.434552",
     "geom:latitude":30.434552,
     "geom:longitude":-87.220379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353746033,
-    "wof:lastmodified":1449018232,
+    "wof:lastmodified":1466440104,
     "wof:name":"Hillman Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.220379,30.434552,-87.220379,30.434552],
-  "geometry": {"coordinates":[-87.220379,30.434552],"type":"Point"}
+  "bbox": [
+    -87.220379,
+    30.434552,
+    -87.220379,
+    30.434552
+],
+  "geometry": {"coordinates":[-87.22037899999999,30.434552],"type":"Point"}
 }

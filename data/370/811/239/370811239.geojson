@@ -2,13 +2,14 @@
   "id": 370811239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700318,28.196646,-82.700318,28.196646",
     "geom:latitude":28.196646,
     "geom:longitude":-82.700318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Ranchside Ter",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370811239,
-    "wof:lastmodified":1449030717,
+    "wof:lastmodified":1466446662,
     "wof:name":"Ranchside Apartments",
     "wof:parent_id":85889249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.700318,28.196646,-82.700318,28.196646],
+  "bbox": [
+    -82.700318,
+    28.196646,
+    -82.700318,
+    28.196646
+],
   "geometry": {"coordinates":[-82.700318,28.196646],"type":"Point"}
 }

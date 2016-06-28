@@ -2,13 +2,14 @@
   "id": 320822615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.709485,27.78086,-82.709485,27.78086",
     "geom:latitude":27.78086,
     "geom:longitude":-82.709485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 9th Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320822615,
-    "wof:lastmodified":1449014844,
+    "wof:lastmodified":1466447071,
     "wof:name":"Word Play Features",
     "wof:parent_id":85880523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-82.709485,27.78086,-82.709485,27.78086],
+  "bbox": [
+    -82.709485,
+    27.78086,
+    -82.709485,
+    27.78086
+],
   "geometry": {"coordinates":[-82.709485,27.78086],"type":"Point"}
 }

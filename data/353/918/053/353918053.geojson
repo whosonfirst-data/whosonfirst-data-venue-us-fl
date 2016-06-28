@@ -2,13 +2,14 @@
   "id": 353918053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253939,27.198797,-80.253939,27.198797",
     "geom:latitude":27.198797,
     "geom:longitude":-80.253939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 SW Flagler Ave",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353918053,
-    "wof:lastmodified":1449019973,
+    "wof:lastmodified":1466442753,
     "wof:name":"NTS",
     "wof:parent_id":85888939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-80.253939,27.198797,-80.253939,27.198797],
+  "bbox": [
+    -80.253939,
+    27.198797,
+    -80.253939,
+    27.198797
+],
   "geometry": {"coordinates":[-80.253939,27.198797],"type":"Point"}
 }

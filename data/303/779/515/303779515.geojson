@@ -2,13 +2,14 @@
   "id": 303779515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.497684,27.255671,-82.497684,27.255671",
     "geom:latitude":27.255671,
     "geom:longitude":-82.497684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6970 Beneva Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303779515,
-    "wof:lastmodified":1448998494,
+    "wof:lastmodified":1466443960,
     "wof:name":"E Z Ceramics",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ceramics"
     ]
 },
-  "bbox": [-82.497684,27.255671,-82.497684,27.255671],
-  "geometry": {"coordinates":[-82.497684,27.255671],"type":"Point"}
+  "bbox": [
+    -82.497684,
+    27.255671,
+    -82.497684,
+    27.255671
+],
+  "geometry": {"coordinates":[-82.49768400000001,27.255671],"type":"Point"}
 }

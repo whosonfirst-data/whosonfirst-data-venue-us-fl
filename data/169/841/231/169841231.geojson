@@ -2,13 +2,14 @@
   "id": 169841231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.064423,29.227215,-81.064423,29.227215",
     "geom:latitude":29.227215,
     "geom:longitude":-81.064423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Continental Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169841231,
-    "wof:lastmodified":1449033378,
+    "wof:lastmodified":1466429468,
     "wof:name":"Whittys Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.064423,29.227215,-81.064423,29.227215],
-  "geometry": {"coordinates":[-81.064423,29.227215],"type":"Point"}
+  "bbox": [
+    -81.064423,
+    29.227215,
+    -81.064423,
+    29.227215
+],
+  "geometry": {"coordinates":[-81.06442300000001,29.227215],"type":"Point"}
 }

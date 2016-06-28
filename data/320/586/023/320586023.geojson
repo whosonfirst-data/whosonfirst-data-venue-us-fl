@@ -2,13 +2,14 @@
   "id": 320586023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493629,30.509104,-86.493629,30.509104",
     "geom:latitude":30.509104,
     "geom:longitude":-86.493629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S John Sims Pkwy",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320586023,
-    "wof:lastmodified":1449014535,
+    "wof:lastmodified":1466443546,
     "wof:name":"Boathouse Landing",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.493629,30.509104,-86.493629,30.509104],
+  "bbox": [
+    -86.493629,
+    30.509104,
+    -86.493629,
+    30.509104
+],
   "geometry": {"coordinates":[-86.493629,30.509104],"type":"Point"}
 }

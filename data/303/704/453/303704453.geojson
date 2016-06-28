@@ -2,13 +2,14 @@
   "id": 303704453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133609,26.148346,-80.133609,26.148346",
     "geom:latitude":26.148346,
     "geom:longitude":-80.133609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Dixie Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303704453,
-    "wof:lastmodified":1448998750,
+    "wof:lastmodified":1466442698,
     "wof:name":"Clarks Auto Trim",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.133609,26.148346,-80.133609,26.148346],
-  "geometry": {"coordinates":[-80.133609,26.148346],"type":"Point"}
+  "bbox": [
+    -80.133609,
+    26.148346,
+    -80.133609,
+    26.148346
+],
+  "geometry": {"coordinates":[-80.13360900000001,26.148346],"type":"Point"}
 }

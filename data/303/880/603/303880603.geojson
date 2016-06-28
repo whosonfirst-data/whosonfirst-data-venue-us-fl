@@ -2,13 +2,14 @@
   "id": 303880603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.105108,30.383731,-87.105108,30.383731",
     "geom:latitude":30.383731,
     "geom:longitude":-87.105108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2849 Gulf Breeze Pkwy",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303880603,
-    "wof:lastmodified":1449000590,
+    "wof:lastmodified":1466445707,
     "wof:name":"Gulf Breeze Cellular Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.105108,30.383731,-87.105108,30.383731],
+  "bbox": [
+    -87.105108,
+    30.383731,
+    -87.105108,
+    30.383731
+],
   "geometry": {"coordinates":[-87.105108,30.383731],"type":"Point"}
 }

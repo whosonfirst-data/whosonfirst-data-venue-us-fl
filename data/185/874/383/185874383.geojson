@@ -2,13 +2,14 @@
   "id": 185874383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076056,26.808087,-80.076056,26.808087",
     "geom:latitude":26.808087,
     "geom:longitude":-80.076056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"962 Northlake Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185874383,
-    "wof:lastmodified":1449008107,
+    "wof:lastmodified":1466429724,
     "wof:name":"IMA Gopher",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.076056,26.808087,-80.076056,26.808087],
-  "geometry": {"coordinates":[-80.076056,26.808087],"type":"Point"}
+  "bbox": [
+    -80.076056,
+    26.808087,
+    -80.076056,
+    26.808087
+],
+  "geometry": {"coordinates":[-80.07605599999999,26.808087],"type":"Point"}
 }

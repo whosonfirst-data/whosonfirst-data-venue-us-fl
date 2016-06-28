@@ -2,13 +2,14 @@
   "id": 202912781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15366,26.304327,-80.15366,26.304327",
     "geom:latitude":26.304327,
     "geom:longitude":-80.15366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 SW 10th St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202912781,
-    "wof:lastmodified":1449061375,
+    "wof:lastmodified":1466433774,
     "wof:name":"North Broward Hospital Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "sport"
     ]
 },
-  "bbox": [-80.15366,26.304327,-80.15366,26.304327],
+  "bbox": [
+    -80.15366,
+    26.304327,
+    -80.15366,
+    26.304327
+],
   "geometry": {"coordinates":[-80.15366,26.304327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387825475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.542482,30.572572,-81.542482,30.572572",
     "geom:latitude":30.572572,
     "geom:longitude":-81.542482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 Stevens Rd",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387825475,
-    "wof:lastmodified":1449056265,
+    "wof:lastmodified":1466449081,
     "wof:name":"McClellans Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.542482,30.572572,-81.542482,30.572572],
-  "geometry": {"coordinates":[-81.542482,30.572572],"type":"Point"}
+  "bbox": [
+    -81.542482,
+    30.572572,
+    -81.542482,
+    30.572572
+],
+  "geometry": {"coordinates":[-81.54248200000001,30.572572],"type":"Point"}
 }

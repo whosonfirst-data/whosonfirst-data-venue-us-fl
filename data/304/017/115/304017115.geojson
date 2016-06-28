@@ -2,13 +2,14 @@
   "id": 304017115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.515634,27.260362,-82.515634,27.260362",
     "geom:latitude":27.260362,
     "geom:longitude":-82.515634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6616 Superior Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304017115,
-    "wof:lastmodified":1449043889,
+    "wof:lastmodified":1466432100,
     "wof:name":"Wine Shop",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-82.515634,27.260362,-82.515634,27.260362],
-  "geometry": {"coordinates":[-82.515634,27.260362],"type":"Point"}
+  "bbox": [
+    -82.515634,
+    27.260362,
+    -82.515634,
+    27.260362
+],
+  "geometry": {"coordinates":[-82.51563400000001,27.260362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186103129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.393596,29.984055,-84.393596,29.984055",
     "geom:latitude":29.984055,
     "geom:longitude":-84.393596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Bay Dr",
     "sg:city":"Crawfordville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186103129,
-    "wof:lastmodified":1449052044,
+    "wof:lastmodified":1466445648,
     "wof:name":"Installation In Singleton Tile",
     "wof:parent_id":85842795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.393596,29.984055,-84.393596,29.984055],
+  "bbox": [
+    -84.393596,
+    29.984055,
+    -84.393596,
+    29.984055
+],
   "geometry": {"coordinates":[-84.393596,29.984055],"type":"Point"}
 }

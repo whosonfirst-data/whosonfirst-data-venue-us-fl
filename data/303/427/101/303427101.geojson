@@ -2,13 +2,14 @@
   "id": 303427101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.296501,26.62878,-80.296501,26.62878",
     "geom:latitude":26.62878,
     "geom:longitude":-80.296501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3666 Palm Beach Point Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303427101,
-    "wof:lastmodified":1448998850,
+    "wof:lastmodified":1466437887,
     "wof:name":"Millennium Doors Inc",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.296501,26.62878,-80.296501,26.62878],
-  "geometry": {"coordinates":[-80.296501,26.62878],"type":"Point"}
+  "bbox": [
+    -80.296501,
+    26.62878,
+    -80.296501,
+    26.62878
+],
+  "geometry": {"coordinates":[-80.29650100000001,26.62878],"type":"Point"}
 }

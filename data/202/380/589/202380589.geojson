@@ -2,13 +2,14 @@
   "id": 202380589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.337211,28.76883,-81.337211,28.76883",
     "geom:latitude":28.76883,
     "geom:longitude":-81.337211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 Alinole Loop",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202380589,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466433357,
     "wof:name":"A T & T Cits",
     "wof:parent_id":85831111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.337211,28.76883,-81.337211,28.76883],
+  "bbox": [
+    -81.337211,
+    28.76883,
+    -81.337211,
+    28.76883
+],
   "geometry": {"coordinates":[-81.337211,28.76883],"type":"Point"}
 }

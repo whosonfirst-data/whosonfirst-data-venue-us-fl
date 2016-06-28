@@ -2,13 +2,14 @@
   "id": 370467825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.490086,27.501005,-81.490086,27.501005",
     "geom:latitude":27.501005,
     "geom:longitude":-81.490086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370467825,
-    "wof:lastmodified":1449031750,
+    "wof:lastmodified":1466441354,
     "wof:name":"Blue Ribbon Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-81.490086,27.501005,-81.490086,27.501005],
-  "geometry": {"coordinates":[-81.490086,27.501005],"type":"Point"}
+  "bbox": [
+    -81.490086,
+    27.501005,
+    -81.490086,
+    27.501005
+],
+  "geometry": {"coordinates":[-81.49008600000001,27.501005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404176971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.631189,30.260834,-81.631189,30.260834",
     "geom:latitude":30.260834,
     "geom:longitude":-81.631189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404176971,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1466442986,
     "wof:name":"Corporate Business Interiors",
     "wof:parent_id":85846911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.631189,30.260834,-81.631189,30.260834],
-  "geometry": {"coordinates":[-81.631189,30.260834],"type":"Point"}
+  "bbox": [
+    -81.631189,
+    30.260834,
+    -81.631189,
+    30.260834
+],
+  "geometry": {"coordinates":[-81.63118900000001,30.260834],"type":"Point"}
 }

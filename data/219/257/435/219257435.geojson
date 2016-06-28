@@ -2,13 +2,14 @@
   "id": 219257435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458311,28.545045,-81.458311,28.545045",
     "geom:latitude":28.545045,
     "geom:longitude":-81.458311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Kirkman Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219257435,
-    "wof:lastmodified":1449071445,
+    "wof:lastmodified":1466445642,
     "wof:name":"Gator Tours Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tours"
     ]
 },
-  "bbox": [-81.458311,28.545045,-81.458311,28.545045],
-  "geometry": {"coordinates":[-81.458311,28.545045],"type":"Point"}
+  "bbox": [
+    -81.458311,
+    28.545045,
+    -81.458311,
+    28.545045
+],
+  "geometry": {"coordinates":[-81.45831099999999,28.545045],"type":"Point"}
 }

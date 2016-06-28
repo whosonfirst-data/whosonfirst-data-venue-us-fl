@@ -2,13 +2,14 @@
   "id": 203278199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.18632,28.098009,-82.18632,28.098009",
     "geom:latitude":28.098009,
     "geom:longitude":-82.18632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 Bob Smith Ave",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203278199,
-    "wof:lastmodified":1449025990,
+    "wof:lastmodified":1466429896,
     "wof:name":"Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.18632,28.098009,-82.18632,28.098009],
-  "geometry": {"coordinates":[-82.18632,28.098009],"type":"Point"}
+  "bbox": [
+    -82.18632,
+    28.098009,
+    -82.18632,
+    28.098009
+],
+  "geometry": {"coordinates":[-82.18631999999999,28.098009],"type":"Point"}
 }

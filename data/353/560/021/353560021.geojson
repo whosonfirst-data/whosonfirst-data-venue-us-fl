@@ -2,13 +2,14 @@
   "id": 353560021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648351,28.05795,-82.648351,28.05795",
     "geom:latitude":28.05795,
     "geom:longitude":-82.648351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12708 Dupont Cir",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353560021,
-    "wof:lastmodified":1449020213,
+    "wof:lastmodified":1466437121,
     "wof:name":"Tampa Bay Home Interiors",
     "wof:parent_id":85889777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.648351,28.05795,-82.648351,28.05795],
-  "geometry": {"coordinates":[-82.648351,28.05795],"type":"Point"}
+  "bbox": [
+    -82.648351,
+    28.05795,
+    -82.648351,
+    28.05795
+],
+  "geometry": {"coordinates":[-82.64835100000001,28.05795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387060353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607233,28.310101,-81.607233,28.310101",
     "geom:latitude":28.310101,
     "geom:longitude":-81.607233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Sand Hill Rd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387060353,
-    "wof:lastmodified":1449059566,
+    "wof:lastmodified":1466439636,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-81.607233,28.310101,-81.607233,28.310101],
-  "geometry": {"coordinates":[-81.607233,28.310101],"type":"Point"}
+  "bbox": [
+    -81.607233,
+    28.310101,
+    -81.607233,
+    28.310101
+],
+  "geometry": {"coordinates":[-81.60723299999999,28.310101],"type":"Point"}
 }

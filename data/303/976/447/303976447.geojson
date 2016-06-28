@@ -2,13 +2,14 @@
   "id": 303976447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.389666,28.581319,-81.389666,28.581319",
     "geom:latitude":28.581319,
     "geom:longitude":-81.389666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3378 Edgewater Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303976447,
-    "wof:lastmodified":1448999131,
+    "wof:lastmodified":1466446979,
     "wof:name":"United Heritage Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.389666,28.581319,-81.389666,28.581319],
-  "geometry": {"coordinates":[-81.389666,28.581319],"type":"Point"}
+  "bbox": [
+    -81.389666,
+    28.581319,
+    -81.389666,
+    28.581319
+],
+  "geometry": {"coordinates":[-81.38966600000001,28.581319],"type":"Point"}
 }

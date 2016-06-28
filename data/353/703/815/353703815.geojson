@@ -2,13 +2,14 @@
   "id": 353703815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36645,28.564137,-81.36645,28.564137",
     "geom:latitude":28.564137,
     "geom:longitude":-81.36645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Virginia Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353703815,
-    "wof:lastmodified":1449019038,
+    "wof:lastmodified":1466439445,
     "wof:name":"Commercial Photography",
     "wof:parent_id":85879477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-81.36645,28.564137,-81.36645,28.564137],
+  "bbox": [
+    -81.36645,
+    28.564137,
+    -81.36645,
+    28.564137
+],
   "geometry": {"coordinates":[-81.36645,28.564137],"type":"Point"}
 }

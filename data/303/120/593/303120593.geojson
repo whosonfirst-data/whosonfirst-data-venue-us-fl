@@ -2,13 +2,14 @@
   "id": 303120593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067038,26.476918,-80.067038,26.476918",
     "geom:latitude":26.476918,
     "geom:longitude":-80.067038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Federal Hwy",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303120593,
-    "wof:lastmodified":1449000210,
+    "wof:lastmodified":1466432595,
     "wof:name":"IHOP",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.067038,26.476918,-80.067038,26.476918],
+  "bbox": [
+    -80.067038,
+    26.476918,
+    -80.067038,
+    26.476918
+],
   "geometry": {"coordinates":[-80.067038,26.476918],"type":"Point"}
 }

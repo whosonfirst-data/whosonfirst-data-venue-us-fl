@@ -2,13 +2,14 @@
   "id": 403953227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.025105,29.225064,-81.025105,29.225064",
     "geom:latitude":29.225064,
     "geom:longitude":-81.025105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 N Beach St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403953227,
-    "wof:lastmodified":1449055521,
+    "wof:lastmodified":1466443572,
     "wof:name":"Daytona Beach Trailer Park",
     "wof:parent_id":85847529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-81.025105,29.225064,-81.025105,29.225064],
+  "bbox": [
+    -81.025105,
+    29.225064,
+    -81.025105,
+    29.225064
+],
   "geometry": {"coordinates":[-81.025105,29.225064],"type":"Point"}
 }

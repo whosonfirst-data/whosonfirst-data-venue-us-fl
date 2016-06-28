@@ -2,13 +2,14 @@
   "id": 370704525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.591226,30.231983,-81.591226,30.231983",
     "geom:latitude":30.231983,
     "geom:longitude":-81.591226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8130 Baymeadows Way W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370704525,
-    "wof:lastmodified":1449029982,
+    "wof:lastmodified":1466444959,
     "wof:name":"AIG Valic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.591226,30.231983,-81.591226,30.231983],
-  "geometry": {"coordinates":[-81.591226,30.231983],"type":"Point"}
+  "bbox": [
+    -81.591226,
+    30.231983,
+    -81.591226,
+    30.231983
+],
+  "geometry": {"coordinates":[-81.59122600000001,30.231983],"type":"Point"}
 }

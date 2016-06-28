@@ -2,13 +2,14 @@
   "id": 370468723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529018,27.346451,-82.529018,27.346451",
     "geom:latitude":27.346451,
     "geom:longitude":-82.529018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 Princeton St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370468723,
-    "wof:lastmodified":1449031518,
+    "wof:lastmodified":1466441368,
     "wof:name":"APS Custom",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-82.529018,27.346451,-82.529018,27.346451],
-  "geometry": {"coordinates":[-82.529018,27.346451],"type":"Point"}
+  "bbox": [
+    -82.529018,
+    27.346451,
+    -82.529018,
+    27.346451
+],
+  "geometry": {"coordinates":[-82.52901799999999,27.346451],"type":"Point"}
 }

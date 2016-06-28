@@ -2,13 +2,14 @@
   "id": 304050505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236656,26.773196,-80.236656,26.773196",
     "geom:latitude":26.773196,
     "geom:longitude":-80.236656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12397 Tangerine Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304050505,
-    "wof:lastmodified":1449043926,
+    "wof:lastmodified":1466432697,
     "wof:name":"Fdny Inc",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-80.236656,26.773196,-80.236656,26.773196],
+  "bbox": [
+    -80.236656,
+    26.773196,
+    -80.236656,
+    26.773196
+],
   "geometry": {"coordinates":[-80.236656,26.773196],"type":"Point"}
 }

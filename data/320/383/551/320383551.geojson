@@ -2,13 +2,14 @@
   "id": 320383551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387749,25.994884,-80.387749,25.994884",
     "geom:latitude":25.994884,
     "geom:longitude":-80.387749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 SW 178th Way",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320383551,
-    "wof:lastmodified":1449012841,
+    "wof:lastmodified":1466439959,
     "wof:name":"Cruise Planners",
     "wof:parent_id":85879801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.387749,25.994884,-80.387749,25.994884],
+  "bbox": [
+    -80.387749,
+    25.994884,
+    -80.387749,
+    25.994884
+],
   "geometry": {"coordinates":[-80.387749,25.994884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403794947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.751928,27.74505,-82.751928,27.74505",
     "geom:latitude":27.74505,
     "geom:longitude":-82.751928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 Blind Pass Rd",
     "sg:city":"St Pete Beach",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403794947,
-    "wof:lastmodified":1449055267,
+    "wof:lastmodified":1466441032,
     "wof:name":"Lou's Florist",
     "wof:parent_id":85889533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.751928,27.74505,-82.751928,27.74505],
-  "geometry": {"coordinates":[-82.751928,27.74505],"type":"Point"}
+  "bbox": [
+    -82.751928,
+    27.74505,
+    -82.751928,
+    27.74505
+],
+  "geometry": {"coordinates":[-82.75192800000001,27.74505],"type":"Point"}
 }

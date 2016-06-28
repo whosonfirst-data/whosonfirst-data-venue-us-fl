@@ -2,13 +2,14 @@
   "id": 202912535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.362676,28.34704,-81.362676,28.34704",
     "geom:latitude":28.34704,
     "geom:longitude":-81.362676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Buenaventura Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202912535,
-    "wof:lastmodified":1449061376,
+    "wof:lastmodified":1466433771,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85889289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.362676,28.34704,-81.362676,28.34704],
-  "geometry": {"coordinates":[-81.362676,28.34704],"type":"Point"}
+  "bbox": [
+    -81.362676,
+    28.34704,
+    -81.362676,
+    28.34704
+],
+  "geometry": {"coordinates":[-81.36267599999999,28.34704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186018483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.372126,25.622498,-80.372126,25.622498",
     "geom:latitude":25.622498,
     "geom:longitude":-80.372126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11105 SW 157th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186018483,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466440252,
     "wof:name":"Chemical Synthesis",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.372126,25.622498,-80.372126,25.622498],
-  "geometry": {"coordinates":[-80.372126,25.622498],"type":"Point"}
+  "bbox": [
+    -80.372126,
+    25.622498,
+    -80.372126,
+    25.622498
+],
+  "geometry": {"coordinates":[-80.37212599999999,25.622498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219567125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393199,27.999203,-82.393199,27.999203",
     "geom:latitude":27.999203,
     "geom:longitude":-82.393199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 E Powhatan Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219567125,
-    "wof:lastmodified":1449073945,
+    "wof:lastmodified":1466432371,
     "wof:name":"Woodside USA",
     "wof:parent_id":85889703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.393199,27.999203,-82.393199,27.999203],
+  "bbox": [
+    -82.393199,
+    27.999203,
+    -82.393199,
+    27.999203
+],
   "geometry": {"coordinates":[-82.393199,27.999203],"type":"Point"}
 }

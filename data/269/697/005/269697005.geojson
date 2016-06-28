@@ -2,13 +2,14 @@
   "id": 269697005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.53006,27.306462,-82.53006,27.306462",
     "geom:latitude":27.306462,
     "geom:longitude":-82.53006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 S Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269697005,
-    "wof:lastmodified":1449037652,
+    "wof:lastmodified":1466432294,
     "wof:name":"We The People",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"
     ]
 },
-  "bbox": [-82.53006,27.306462,-82.53006,27.306462],
-  "geometry": {"coordinates":[-82.53006,27.306462],"type":"Point"}
+  "bbox": [
+    -82.53006,
+    27.306462,
+    -82.53006,
+    27.306462
+],
+  "geometry": {"coordinates":[-82.53006000000001,27.306462],"type":"Point"}
 }

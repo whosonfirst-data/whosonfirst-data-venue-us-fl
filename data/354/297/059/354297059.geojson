@@ -2,13 +2,14 @@
   "id": 354297059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.230404,30.451698,-87.230404,30.451698",
     "geom:latitude":30.451698,
     "geom:longitude":-87.230404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Lurton St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354297059,
-    "wof:lastmodified":1449067051,
+    "wof:lastmodified":1466440652,
     "wof:name":"ICI Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-87.230404,30.451698,-87.230404,30.451698],
-  "geometry": {"coordinates":[-87.230404,30.451698],"type":"Point"}
+  "bbox": [
+    -87.230404,
+    30.451698,
+    -87.230404,
+    30.451698
+],
+  "geometry": {"coordinates":[-87.23040399999999,30.451698],"type":"Point"}
 }

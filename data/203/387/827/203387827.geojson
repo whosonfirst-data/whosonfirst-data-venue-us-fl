@@ -2,13 +2,14 @@
   "id": 203387827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.689909,27.848025,-82.689909,27.848025",
     "geom:latitude":27.848025,
     "geom:longitude":-82.689909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8391 US Hwy 19",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203387827,
-    "wof:lastmodified":1449026605,
+    "wof:lastmodified":1466431259,
     "wof:name":"West Coast Car and Truck Sales",
     "wof:parent_id":85889525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-82.689909,27.848025,-82.689909,27.848025],
+  "bbox": [
+    -82.689909,
+    27.848025,
+    -82.689909,
+    27.848025
+],
   "geometry": {"coordinates":[-82.689909,27.848025],"type":"Point"}
 }

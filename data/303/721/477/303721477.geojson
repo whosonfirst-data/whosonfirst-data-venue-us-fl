@@ -2,13 +2,14 @@
   "id": 303721477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.729718,28.023011,-81.729718,28.023011",
     "geom:latitude":28.023011,
     "geom:longitude":-81.729718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Ave A NW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303721477,
-    "wof:lastmodified":1449000559,
+    "wof:lastmodified":1466442985,
     "wof:name":"Richard's Fine Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-81.729718,28.023011,-81.729718,28.023011],
-  "geometry": {"coordinates":[-81.729718,28.023011],"type":"Point"}
+  "bbox": [
+    -81.729718,
+    28.023011,
+    -81.729718,
+    28.023011
+],
+  "geometry": {"coordinates":[-81.72971800000001,28.023011],"type":"Point"}
 }

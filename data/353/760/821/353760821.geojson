@@ -2,13 +2,14 @@
   "id": 353760821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090736,26.318204,-80.090736,26.318204",
     "geom:latitude":26.318204,
     "geom:longitude":-80.090736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 N Federal Hwy",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353760821,
-    "wof:lastmodified":1449020687,
+    "wof:lastmodified":1466440324,
     "wof:name":"Yankee Clippers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.090736,26.318204,-80.090736,26.318204],
-  "geometry": {"coordinates":[-80.090736,26.318204],"type":"Point"}
+  "bbox": [
+    -80.090736,
+    26.318204,
+    -80.090736,
+    26.318204
+],
+  "geometry": {"coordinates":[-80.09073600000001,26.318204],"type":"Point"}
 }

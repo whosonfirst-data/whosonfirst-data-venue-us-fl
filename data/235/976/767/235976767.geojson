@@ -2,13 +2,14 @@
   "id": 235976767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.453958,27.096333,-82.453958,27.096333",
     "geom:latitude":27.096333,
     "geom:longitude":-82.453958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Park Blvd S",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235976767,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466429052,
     "wof:name":"White Dove Apartments",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.453958,27.096333,-82.453958,27.096333],
+  "bbox": [
+    -82.453958,
+    27.096333,
+    -82.453958,
+    27.096333
+],
   "geometry": {"coordinates":[-82.453958,27.096333],"type":"Point"}
 }

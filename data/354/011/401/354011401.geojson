@@ -2,13 +2,14 @@
   "id": 354011401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.442574,28.417803,-81.442574,28.417803",
     "geom:latitude":28.417803,
     "geom:longitude":-81.442574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10335 Orangewood Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354011401,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1466436233,
     "wof:name":"Praxis Software",
     "wof:parent_id":85889377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.442574,28.417803,-81.442574,28.417803],
-  "geometry": {"coordinates":[-81.442574,28.417803],"type":"Point"}
+  "bbox": [
+    -81.442574,
+    28.417803,
+    -81.442574,
+    28.417803
+],
+  "geometry": {"coordinates":[-81.44257399999999,28.417803],"type":"Point"}
 }

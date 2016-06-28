@@ -2,13 +2,14 @@
   "id": 270017765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.384153,27.812513,-82.384153,27.812513",
     "geom:latitude":27.812513,
     "geom:longitude":-82.384153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12514 US Hwy 41",
     "sg:city":"Gibsonton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270017765,
-    "wof:lastmodified":1449009943,
+    "wof:lastmodified":1466429750,
     "wof:name":"Murray Fisch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.384153,27.812513,-82.384153,27.812513],
+  "bbox": [
+    -82.384153,
+    27.812513,
+    -82.384153,
+    27.812513
+],
   "geometry": {"coordinates":[-82.384153,27.812513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186531169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.493462,28.221459,-81.493462,28.221459",
     "geom:latitude":28.221459,
     "geom:longitude":-81.493462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Royal Fern Pl",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186531169,
-    "wof:lastmodified":1449051038,
+    "wof:lastmodified":1466433207,
     "wof:name":"Paul Marriott",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.493462,28.221459,-81.493462,28.221459],
-  "geometry": {"coordinates":[-81.493462,28.221459],"type":"Point"}
+  "bbox": [
+    -81.493462,
+    28.221459,
+    -81.493462,
+    28.221459
+],
+  "geometry": {"coordinates":[-81.49346199999999,28.221459],"type":"Point"}
 }

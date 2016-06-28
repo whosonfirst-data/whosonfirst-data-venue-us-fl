@@ -2,13 +2,14 @@
   "id": 253538389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918861,26.54774,-81.918861,26.54774",
     "geom:latitude":26.54774,
     "geom:longitude":-81.918861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Waterway Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253538389,
-    "wof:lastmodified":1449063199,
+    "wof:lastmodified":1466436291,
     "wof:name":"Re/Max Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.918861,26.54774,-81.918861,26.54774],
-  "geometry": {"coordinates":[-81.918861,26.54774],"type":"Point"}
+  "bbox": [
+    -81.918861,
+    26.54774,
+    -81.918861,
+    26.54774
+],
+  "geometry": {"coordinates":[-81.91886100000001,26.54774],"type":"Point"}
 }

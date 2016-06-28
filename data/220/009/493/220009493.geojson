@@ -2,13 +2,14 @@
   "id": 220009493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.578212,30.440786,-81.578212,30.440786",
     "geom:latitude":30.440786,
     "geom:longitude":-81.578212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Aldersgate Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220009493,
-    "wof:lastmodified":1449074862,
+    "wof:lastmodified":1466443664,
     "wof:name":"Pro Billing",
     "wof:parent_id":85870687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-81.578212,30.440786,-81.578212,30.440786],
-  "geometry": {"coordinates":[-81.578212,30.440786],"type":"Point"}
+  "bbox": [
+    -81.578212,
+    30.440786,
+    -81.578212,
+    30.440786
+],
+  "geometry": {"coordinates":[-81.57821199999999,30.440786],"type":"Point"}
 }

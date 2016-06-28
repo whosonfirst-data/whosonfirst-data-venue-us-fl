@@ -2,13 +2,14 @@
   "id": 370753435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.581353,30.170467,-81.581353,30.170467",
     "geom:latitude":30.170467,
     "geom:longitude":-81.581353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4895 Torrington Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370753435,
-    "wof:lastmodified":1449029489,
+    "wof:lastmodified":1466445730,
     "wof:name":"Gerard N Bialkowski Vending",
     "wof:parent_id":85831429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.581353,30.170467,-81.581353,30.170467],
-  "geometry": {"coordinates":[-81.581353,30.170467],"type":"Point"}
+  "bbox": [
+    -81.581353,
+    30.170467,
+    -81.581353,
+    30.170467
+],
+  "geometry": {"coordinates":[-81.58135299999999,30.170467],"type":"Point"}
 }

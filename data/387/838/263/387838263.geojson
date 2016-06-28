@@ -2,13 +2,14 @@
   "id": 387838263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.739955,30.260953,-81.739955,30.260953",
     "geom:latitude":30.260953,
     "geom:longitude":-81.739955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Wesconnett Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387838263,
-    "wof:lastmodified":1449056573,
+    "wof:lastmodified":1466449068,
     "wof:name":"Northeast Fl Area Agency Aging",
     "wof:parent_id":85870739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.739955,30.260953,-81.739955,30.260953],
-  "geometry": {"coordinates":[-81.739955,30.260953],"type":"Point"}
+  "bbox": [
+    -81.739955,
+    30.260953,
+    -81.739955,
+    30.260953
+],
+  "geometry": {"coordinates":[-81.73995499999999,30.260953],"type":"Point"}
 }

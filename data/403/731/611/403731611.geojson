@@ -2,13 +2,14 @@
   "id": 403731611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.635371,30.248467,-81.635371,30.248467",
     "geom:latitude":30.248467,
     "geom:longitude":-81.635371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6877 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403731611,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1466440040,
     "wof:name":"Georges Auto Sales",
     "wof:parent_id":85846911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-81.635371,30.248467,-81.635371,30.248467],
-  "geometry": {"coordinates":[-81.635371,30.248467],"type":"Point"}
+  "bbox": [
+    -81.635371,
+    30.248467,
+    -81.635371,
+    30.248467
+],
+  "geometry": {"coordinates":[-81.63537100000001,30.248467],"type":"Point"}
 }

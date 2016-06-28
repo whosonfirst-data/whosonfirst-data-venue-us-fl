@@ -2,13 +2,14 @@
   "id": 252723273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.663452,30.334465,-81.663452,30.334465",
     "geom:latitude":30.334465,
     "geom:longitude":-81.663452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Broad St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252723273,
-    "wof:lastmodified":1449006056,
+    "wof:lastmodified":1466428652,
     "wof:name":"William Roberts Jr",
     "wof:parent_id":85888915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.663452,30.334465,-81.663452,30.334465],
-  "geometry": {"coordinates":[-81.663452,30.334465],"type":"Point"}
+  "bbox": [
+    -81.663452,
+    30.334465,
+    -81.663452,
+    30.334465
+],
+  "geometry": {"coordinates":[-81.66345200000001,30.334465],"type":"Point"}
 }

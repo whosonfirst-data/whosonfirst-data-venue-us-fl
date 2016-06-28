@@ -2,13 +2,14 @@
   "id": 253465671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.33253,28.812155,-82.33253,28.812155",
     "geom:latitude":28.812155,
     "geom:longitude":-82.33253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6168 E Calico Ln",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253465671,
-    "wof:lastmodified":1449064828,
+    "wof:lastmodified":1466435007,
     "wof:name":"A Bid Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-82.33253,28.812155,-82.33253,28.812155],
-  "geometry": {"coordinates":[-82.33253,28.812155],"type":"Point"}
+  "bbox": [
+    -82.33253,
+    28.812155,
+    -82.33253,
+    28.812155
+],
+  "geometry": {"coordinates":[-82.33253000000001,28.812155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320860317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.086943,29.205724,-82.086943,29.205724",
     "geom:latitude":29.205724,
     "geom:longitude":-82.086943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 NE 36th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320860317,
-    "wof:lastmodified":1449012913,
+    "wof:lastmodified":1466447716,
     "wof:name":"City of Ocala",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewerage"
     ]
 },
-  "bbox": [-82.086943,29.205724,-82.086943,29.205724],
-  "geometry": {"coordinates":[-82.086943,29.205724],"type":"Point"}
+  "bbox": [
+    -82.086943,
+    29.205724,
+    -82.086943,
+    29.205724
+],
+  "geometry": {"coordinates":[-82.08694300000001,29.205724],"type":"Point"}
 }

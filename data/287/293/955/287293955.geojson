@@ -2,13 +2,14 @@
   "id": 287293955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546585,27.458483,-82.546585,27.458483",
     "geom:latitude":27.458483,
     "geom:longitude":-82.546585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 15th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287293955,
-    "wof:lastmodified":1449000838,
+    "wof:lastmodified":1466434982,
     "wof:name":"Cemex",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-82.546585,27.458483,-82.546585,27.458483],
-  "geometry": {"coordinates":[-82.546585,27.458483],"type":"Point"}
+  "bbox": [
+    -82.546585,
+    27.458483,
+    -82.546585,
+    27.458483
+],
+  "geometry": {"coordinates":[-82.54658499999999,27.458483],"type":"Point"}
 }

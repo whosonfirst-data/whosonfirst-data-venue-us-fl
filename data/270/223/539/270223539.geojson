@@ -2,13 +2,14 @@
   "id": 270223539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.367919,29.600227,-82.367919,29.600227",
     "geom:latitude":29.600227,
     "geom:longitude":-82.367919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 SW 34 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270223539,
-    "wof:lastmodified":1449008825,
+    "wof:lastmodified":1466433296,
     "wof:name":"Piccadilly Apartments",
     "wof:parent_id":85845299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.367919,29.600227,-82.367919,29.600227],
+  "bbox": [
+    -82.367919,
+    29.600227,
+    -82.367919,
+    29.600227
+],
   "geometry": {"coordinates":[-82.367919,29.600227],"type":"Point"}
 }

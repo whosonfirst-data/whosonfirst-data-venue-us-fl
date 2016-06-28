@@ -2,13 +2,14 @@
   "id": 303182723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.224995,30.532256,-87.224995,30.532256",
     "geom:latitude":30.532256,
     "geom:longitude":-87.224995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1791 E Nine Mile Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303182723,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1466433691,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-87.224995,30.532256,-87.224995,30.532256],
-  "geometry": {"coordinates":[-87.224995,30.532256],"type":"Point"}
+  "bbox": [
+    -87.224995,
+    30.532256,
+    -87.224995,
+    30.532256
+],
+  "geometry": {"coordinates":[-87.22499500000001,30.532256],"type":"Point"}
 }

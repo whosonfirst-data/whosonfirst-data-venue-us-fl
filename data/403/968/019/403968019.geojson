@@ -2,13 +2,14 @@
   "id": 403968019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.34037,30.487581,-84.34037,30.487581",
     "geom:latitude":30.487581,
     "geom:longitude":-84.34037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3888 Magellan Trl",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403968019,
-    "wof:lastmodified":1449054717,
+    "wof:lastmodified":1466443810,
     "wof:name":"P Gidia",
     "wof:parent_id":85881347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.34037,30.487581,-84.34037,30.487581],
-  "geometry": {"coordinates":[-84.34037,30.487581],"type":"Point"}
+  "bbox": [
+    -84.34037,
+    30.487581,
+    -84.34037,
+    30.487581
+],
+  "geometry": {"coordinates":[-84.34036999999999,30.487581],"type":"Point"}
 }

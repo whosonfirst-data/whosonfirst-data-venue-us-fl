@@ -2,13 +2,14 @@
   "id": 203310629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.306243,26.15007,-80.306243,26.15007",
     "geom:latitude":26.15007,
     "geom:longitude":-80.306243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12343 NW 19th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310629,
-    "wof:lastmodified":1449026107,
+    "wof:lastmodified":1466430300,
     "wof:name":"James G Ingersoll",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.306243,26.15007,-80.306243,26.15007],
-  "geometry": {"coordinates":[-80.306243,26.15007],"type":"Point"}
+  "bbox": [
+    -80.306243,
+    26.15007,
+    -80.306243,
+    26.15007
+],
+  "geometry": {"coordinates":[-80.30624299999999,26.15007],"type":"Point"}
 }

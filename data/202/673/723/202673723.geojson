@@ -2,13 +2,14 @@
   "id": 202673723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141813,26.121625,-80.141813,26.121625",
     "geom:latitude":26.121625,
     "geom:longitude":-80.141813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 SE 1st St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202673723,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466430644,
     "wof:name":"Pan American Securities",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.141813,26.121625,-80.141813,26.121625],
+  "bbox": [
+    -80.141813,
+    26.121625,
+    -80.141813,
+    26.121625
+],
   "geometry": {"coordinates":[-80.141813,26.121625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303400579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.112546,30.387181,-87.112546,30.387181",
     "geom:latitude":30.387181,
     "geom:longitude":-87.112546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Bayshore Ct",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303400579,
-    "wof:lastmodified":1448998360,
+    "wof:lastmodified":1466437437,
     "wof:name":"Frank Heck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.112546,30.387181,-87.112546,30.387181],
-  "geometry": {"coordinates":[-87.112546,30.387181],"type":"Point"}
+  "bbox": [
+    -87.112546,
+    30.387181,
+    -87.112546,
+    30.387181
+],
+  "geometry": {"coordinates":[-87.11254599999999,30.387181],"type":"Point"}
 }

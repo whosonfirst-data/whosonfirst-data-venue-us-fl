@@ -2,13 +2,14 @@
   "id": 303894929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308124,28.545773,-81.308124,28.545773",
     "geom:latitude":28.545773,
     "geom:longitude":-81.308124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5837 Dahlia Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303894929,
-    "wof:lastmodified":1448999127,
+    "wof:lastmodified":1466445966,
     "wof:name":"Accounting Ctr For Small Bus",
     "wof:parent_id":85879457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.308124,28.545773,-81.308124,28.545773],
-  "geometry": {"coordinates":[-81.308124,28.545773],"type":"Point"}
+  "bbox": [
+    -81.308124,
+    28.545773,
+    -81.308124,
+    28.545773
+],
+  "geometry": {"coordinates":[-81.30812400000001,28.545773],"type":"Point"}
 }

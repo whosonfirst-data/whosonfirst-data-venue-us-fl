@@ -2,13 +2,14 @@
   "id": 303282323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.335015,27.338778,-82.335015,27.338778",
     "geom:latitude":27.338778,
     "geom:longitude":-82.335015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12300 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303282323,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1466435416,
     "wof:name":"Mote Aquaculture Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquaculture"
     ]
 },
-  "bbox": [-82.335015,27.338778,-82.335015,27.338778],
+  "bbox": [
+    -82.335015,
+    27.338778,
+    -82.335015,
+    27.338778
+],
   "geometry": {"coordinates":[-82.335015,27.338778],"type":"Point"}
 }

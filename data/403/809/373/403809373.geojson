@@ -2,13 +2,14 @@
   "id": 403809373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.478819,30.36402,-81.478819,30.36402",
     "geom:latitude":30.36402,
     "geom:longitude":-81.478819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13725 Spanish Marsh Trl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":403809373,
-    "wof:lastmodified":1449055727,
+    "wof:lastmodified":1466441276,
     "wof:name":"AAA-ABC Courier Express Inc",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-81.478819,30.36402,-81.478819,30.36402],
+  "bbox": [
+    -81.478819,
+    30.36402,
+    -81.478819,
+    30.36402
+],
   "geometry": {"coordinates":[-81.478819,30.36402],"type":"Point"}
 }

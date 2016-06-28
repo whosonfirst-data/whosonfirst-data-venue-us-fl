@@ -2,13 +2,14 @@
   "id": 236883273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.52778,28.682304,-81.52778,28.682304",
     "geom:latitude":28.682304,
     "geom:longitude":-81.52778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 W Orange Blossom Trl",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236883273,
-    "wof:lastmodified":1449004308,
+    "wof:lastmodified":1466441000,
     "wof:name":"Liquidgolf Corporation",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-81.52778,28.682304,-81.52778,28.682304],
-  "geometry": {"coordinates":[-81.52778,28.682304],"type":"Point"}
+  "bbox": [
+    -81.52778,
+    28.682304,
+    -81.52778,
+    28.682304
+],
+  "geometry": {"coordinates":[-81.52778000000001,28.682304],"type":"Point"}
 }

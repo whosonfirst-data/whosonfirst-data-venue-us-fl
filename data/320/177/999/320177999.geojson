@@ -2,13 +2,14 @@
   "id": 320177999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.781646,26.345518,-81.781646,26.345518",
     "geom:latitude":26.345518,
     "geom:longitude":-81.781646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10381 W Terry St",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320177999,
-    "wof:lastmodified":1449014966,
+    "wof:lastmodified":1466436434,
     "wof:name":"Montemayor Trucking Inc",
     "wof:parent_id":85888567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.781646,26.345518,-81.781646,26.345518],
-  "geometry": {"coordinates":[-81.781646,26.345518],"type":"Point"}
+  "bbox": [
+    -81.781646,
+    26.345518,
+    -81.781646,
+    26.345518
+],
+  "geometry": {"coordinates":[-81.78164599999999,26.345518],"type":"Point"}
 }

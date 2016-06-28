@@ -2,13 +2,14 @@
   "id": 220200559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517095,27.284016,-82.517095,27.284016",
     "geom:latitude":27.284016,
     "geom:longitude":-82.517095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 Proctor Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220200559,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466429588,
     "wof:name":"Forry & Father Pools",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.517095,27.284016,-82.517095,27.284016],
+  "bbox": [
+    -82.517095,
+    27.284016,
+    -82.517095,
+    27.284016
+],
   "geometry": {"coordinates":[-82.517095,27.284016],"type":"Point"}
 }

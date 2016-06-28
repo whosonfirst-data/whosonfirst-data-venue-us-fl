@@ -2,13 +2,14 @@
   "id": 287231539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.662215,30.329647,-81.662215,30.329647",
     "geom:latitude":30.329647,
     "geom:longitude":-81.662215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Monroe St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287231539,
-    "wof:lastmodified":1449001114,
+    "wof:lastmodified":1466433930,
     "wof:name":"US Border Patrol",
     "wof:parent_id":85888913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-81.662215,30.329647,-81.662215,30.329647],
+  "bbox": [
+    -81.662215,
+    30.329647,
+    -81.662215,
+    30.329647
+],
   "geometry": {"coordinates":[-81.662215,30.329647],"type":"Point"}
 }

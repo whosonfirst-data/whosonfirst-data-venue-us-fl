@@ -2,13 +2,14 @@
   "id": 353959771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.526616,30.281215,-81.526616,30.281215",
     "geom:latitude":30.281215,
     "geom:longitude":-81.526616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 St Johns Industrial Pkwy N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353959771,
-    "wof:lastmodified":1449020552,
+    "wof:lastmodified":1466443376,
     "wof:name":"Windows Direct USA-Jacksonvlle",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-81.526616,30.281215,-81.526616,30.281215],
+  "bbox": [
+    -81.526616,
+    30.281215,
+    -81.526616,
+    30.281215
+],
   "geometry": {"coordinates":[-81.526616,30.281215],"type":"Point"}
 }

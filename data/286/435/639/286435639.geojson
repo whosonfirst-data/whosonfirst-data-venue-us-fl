@@ -2,13 +2,14 @@
   "id": 286435639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372751,28.549497,-81.372751,28.549497",
     "geom:latitude":28.549497,
     "geom:longitude":-81.372751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Broadway Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286435639,
-    "wof:lastmodified":1449017827,
+    "wof:lastmodified":1466432662,
     "wof:name":"Anomie Entertainment",
     "wof:parent_id":85879473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-81.372751,28.549497,-81.372751,28.549497],
-  "geometry": {"coordinates":[-81.372751,28.549497],"type":"Point"}
+  "bbox": [
+    -81.372751,
+    28.549497,
+    -81.372751,
+    28.549497
+],
+  "geometry": {"coordinates":[-81.37275099999999,28.549497],"type":"Point"}
 }

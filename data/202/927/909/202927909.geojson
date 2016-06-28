@@ -2,13 +2,14 @@
   "id": 202927909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.65919,30.175206,-85.65919,30.175206",
     "geom:latitude":30.175206,
     "geom:longitude":-85.65919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 E 15th St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202927909,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466433975,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-85.65919,30.175206,-85.65919,30.175206],
+  "bbox": [
+    -85.65919,
+    30.175206,
+    -85.65919,
+    30.175206
+],
   "geometry": {"coordinates":[-85.65919,30.175206],"type":"Point"}
 }

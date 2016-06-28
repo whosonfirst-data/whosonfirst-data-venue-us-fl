@@ -2,13 +2,14 @@
   "id": 236252599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.577165,27.521188,-82.577165,27.521188",
     "geom:latitude":27.521188,
     "geom:longitude":-82.577165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 10th St W",
     "sg:city":"Palmetto",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236252599,
-    "wof:lastmodified":1449002001,
+    "wof:lastmodified":1466431987,
     "wof:name":"Palmetto Police Dept",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.577165,27.521188,-82.577165,27.521188],
-  "geometry": {"coordinates":[-82.577165,27.521188],"type":"Point"}
+  "bbox": [
+    -82.577165,
+    27.521188,
+    -82.577165,
+    27.521188
+],
+  "geometry": {"coordinates":[-82.57716499999999,27.521188],"type":"Point"}
 }

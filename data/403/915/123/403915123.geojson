@@ -2,13 +2,14 @@
   "id": 403915123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.456015,30.639271,-81.456015,30.639271",
     "geom:latitude":30.639271,
     "geom:longitude":-81.456015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 S 14th St",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403915123,
-    "wof:lastmodified":1449055938,
+    "wof:lastmodified":1466442957,
     "wof:name":"Amelia Island Bait & Tack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.456015,30.639271,-81.456015,30.639271],
-  "geometry": {"coordinates":[-81.456015,30.639271],"type":"Point"}
+  "bbox": [
+    -81.456015,
+    30.639271,
+    -81.456015,
+    30.639271
+],
+  "geometry": {"coordinates":[-81.45601499999999,30.639271],"type":"Point"}
 }

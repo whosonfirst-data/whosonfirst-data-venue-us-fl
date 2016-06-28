@@ -2,13 +2,14 @@
   "id": 320308755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.59471,30.2302,-85.59471,30.2302",
     "geom:latitude":30.2302,
     "geom:longitude":-85.59471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Cato Rd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320308755,
-    "wof:lastmodified":1449015056,
+    "wof:lastmodified":1466438670,
     "wof:name":"City Radiator & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "radiator"
     ]
 },
-  "bbox": [-85.59471,30.2302,-85.59471,30.2302],
-  "geometry": {"coordinates":[-85.59471,30.2302],"type":"Point"}
+  "bbox": [
+    -85.59471,
+    30.2302,
+    -85.59471,
+    30.2302
+],
+  "geometry": {"coordinates":[-85.59471000000001,30.2302],"type":"Point"}
 }

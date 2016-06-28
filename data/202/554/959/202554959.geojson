@@ -2,13 +2,14 @@
   "id": 202554959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200488,28.532571,-81.200488,28.532571",
     "geom:latitude":28.532571,
     "geom:longitude":-81.200488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12621 Castlemain Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202554959,
-    "wof:lastmodified":1449060638,
+    "wof:lastmodified":1466429081,
     "wof:name":"Camada USA Inc",
     "wof:parent_id":85889317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.200488,28.532571,-81.200488,28.532571],
-  "geometry": {"coordinates":[-81.200488,28.532571],"type":"Point"}
+  "bbox": [
+    -81.200488,
+    28.532571,
+    -81.200488,
+    28.532571
+],
+  "geometry": {"coordinates":[-81.20048800000001,28.532571],"type":"Point"}
 }

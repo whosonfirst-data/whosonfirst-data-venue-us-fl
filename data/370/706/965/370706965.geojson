@@ -2,13 +2,14 @@
   "id": 370706965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.434671,28.656419,-81.434671,28.656419",
     "geom:latitude":28.656419,
     "geom:longitude":-81.434671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 McNeil Rd",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370706965,
-    "wof:lastmodified":1449029325,
+    "wof:lastmodified":1466444998,
     "wof:name":"Teague Middle School",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.434671,28.656419,-81.434671,28.656419],
-  "geometry": {"coordinates":[-81.434671,28.656419],"type":"Point"}
+  "bbox": [
+    -81.434671,
+    28.656419,
+    -81.434671,
+    28.656419
+],
+  "geometry": {"coordinates":[-81.43467099999999,28.656419],"type":"Point"}
 }

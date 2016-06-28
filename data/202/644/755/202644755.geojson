@@ -2,13 +2,14 @@
   "id": 202644755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.014564,29.201399,-81.014564,29.201399",
     "geom:latitude":29.201399,
     "geom:longitude":-81.014564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Beach St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202644755,
-    "wof:lastmodified":1449061549,
+    "wof:lastmodified":1466430277,
     "wof:name":"Housing Authority Daytona Bch",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.014564,29.201399,-81.014564,29.201399],
-  "geometry": {"coordinates":[-81.014564,29.201399],"type":"Point"}
+  "bbox": [
+    -81.014564,
+    29.201399,
+    -81.014564,
+    29.201399
+],
+  "geometry": {"coordinates":[-81.01456399999999,29.201399],"type":"Point"}
 }

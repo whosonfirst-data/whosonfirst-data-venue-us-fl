@@ -2,13 +2,14 @@
   "id": 202810007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.609336,30.218997,-81.609336,30.218997",
     "geom:latitude":30.218997,
     "geom:longitude":-81.609336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4209 Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202810007,
-    "wof:lastmodified":1449060859,
+    "wof:lastmodified":1466432381,
     "wof:name":"Messer Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.609336,30.218997,-81.609336,30.218997],
+  "bbox": [
+    -81.609336,
+    30.218997,
+    -81.609336,
+    30.218997
+],
   "geometry": {"coordinates":[-81.609336,30.218997],"type":"Point"}
 }

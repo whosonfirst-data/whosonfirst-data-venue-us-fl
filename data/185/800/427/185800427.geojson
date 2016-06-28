@@ -2,13 +2,14 @@
   "id": 185800427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.772439,28.553513,-81.772439,28.553513",
     "geom:latitude":28.553513,
     "geom:longitude":-81.772439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1082 W Juniata St",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185800427,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466428993,
     "wof:name":"R G Gallup Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.772439,28.553513,-81.772439,28.553513],
-  "geometry": {"coordinates":[-81.772439,28.553513],"type":"Point"}
+  "bbox": [
+    -81.772439,
+    28.553513,
+    -81.772439,
+    28.553513
+],
+  "geometry": {"coordinates":[-81.77243900000001,28.553513],"type":"Point"}
 }

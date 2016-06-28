@@ -2,13 +2,14 @@
   "id": 353863291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.675772,30.322633,-81.675772,30.322633",
     "geom:latitude":30.322633,
     "geom:longitude":-81.675772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Oak St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353863291,
-    "wof:lastmodified":1449019999,
+    "wof:lastmodified":1466441910,
     "wof:name":"Buddy's Cycle",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-81.675772,30.322633,-81.675772,30.322633],
-  "geometry": {"coordinates":[-81.675772,30.322633],"type":"Point"}
+  "bbox": [
+    -81.675772,
+    30.322633,
+    -81.675772,
+    30.322633
+],
+  "geometry": {"coordinates":[-81.67577199999999,30.322633],"type":"Point"}
 }

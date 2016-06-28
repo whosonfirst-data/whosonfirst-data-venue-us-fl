@@ -2,13 +2,14 @@
   "id": 202980161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403695,28.328315,-81.403695,28.328315",
     "geom:latitude":28.328315,
     "geom:longitude":-81.403695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2753 N Orange Blossom Trl",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202980161,
-    "wof:lastmodified":1449060281,
+    "wof:lastmodified":1466434664,
     "wof:name":"George Gideon Auctioneers Inc",
     "wof:parent_id":85878533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.403695,28.328315,-81.403695,28.328315],
+  "bbox": [
+    -81.403695,
+    28.328315,
+    -81.403695,
+    28.328315
+],
   "geometry": {"coordinates":[-81.403695,28.328315],"type":"Point"}
 }

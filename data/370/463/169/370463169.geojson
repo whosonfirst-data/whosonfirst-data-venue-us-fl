@@ -2,13 +2,14 @@
   "id": 370463169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.811838,28.996582,-81.811838,28.996582",
     "geom:latitude":28.996582,
     "geom:longitude":-81.811838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19871 SE 155th St",
     "sg:city":"Umatilla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370463169,
-    "wof:lastmodified":1449031436,
+    "wof:lastmodified":1466441286,
     "wof:name":"Central Florida Asphalt Paving",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.811838,28.996582,-81.811838,28.996582],
-  "geometry": {"coordinates":[-81.811838,28.996582],"type":"Point"}
+  "bbox": [
+    -81.811838,
+    28.996582,
+    -81.811838,
+    28.996582
+],
+  "geometry": {"coordinates":[-81.81183799999999,28.996582],"type":"Point"}
 }

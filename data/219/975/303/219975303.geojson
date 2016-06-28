@@ -2,13 +2,14 @@
   "id": 219975303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133559,26.300948,-80.133559,26.300948",
     "geom:latitude":26.300948,
     "geom:longitude":-80.133559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 S Military Trl",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219975303,
-    "wof:lastmodified":1449073424,
+    "wof:lastmodified":1466437873,
     "wof:name":"Bank Atlantic",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.133559,26.300948,-80.133559,26.300948],
-  "geometry": {"coordinates":[-80.133559,26.300948],"type":"Point"}
+  "bbox": [
+    -80.133559,
+    26.300948,
+    -80.133559,
+    26.300948
+],
+  "geometry": {"coordinates":[-80.13355900000001,26.300948],"type":"Point"}
 }

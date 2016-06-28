@@ -2,13 +2,14 @@
   "id": 219386933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223571,26.315428,-80.223571,26.315428",
     "geom:latitude":26.315428,
     "geom:longitude":-80.223571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6711 E Cypresshead Dr",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219386933,
-    "wof:lastmodified":1449072234,
+    "wof:lastmodified":1466429994,
     "wof:name":"Arlington Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.223571,26.315428,-80.223571,26.315428],
-  "geometry": {"coordinates":[-80.223571,26.315428],"type":"Point"}
+  "bbox": [
+    -80.223571,
+    26.315428,
+    -80.223571,
+    26.315428
+],
+  "geometry": {"coordinates":[-80.22357100000001,26.315428],"type":"Point"}
 }

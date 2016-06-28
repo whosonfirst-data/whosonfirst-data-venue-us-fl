@@ -2,13 +2,14 @@
   "id": 270308289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.782335,28.501208,-80.782335,28.501208",
     "geom:latitude":28.501208,
     "geom:longitude":-80.782335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7455 S US Hwy 1",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270308289,
-    "wof:lastmodified":1449011161,
+    "wof:lastmodified":1466434734,
     "wof:name":"East Coast Acupuncture",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-80.782335,28.501208,-80.782335,28.501208],
+  "bbox": [
+    -80.782335,
+    28.501208,
+    -80.782335,
+    28.501208
+],
   "geometry": {"coordinates":[-80.782335,28.501208],"type":"Point"}
 }

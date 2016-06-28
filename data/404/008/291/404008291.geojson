@@ -2,13 +2,14 @@
   "id": 404008291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.381295,28.504395,-81.381295,28.504395",
     "geom:latitude":28.504395,
     "geom:longitude":-81.381295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 Macarthur Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404008291,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1466440395,
     "wof:name":"H & W Vending System",
     "wof:parent_id":85889383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "snack"
     ]
 },
-  "bbox": [-81.381295,28.504395,-81.381295,28.504395],
-  "geometry": {"coordinates":[-81.381295,28.504395],"type":"Point"}
+  "bbox": [
+    -81.381295,
+    28.504395,
+    -81.381295,
+    28.504395
+],
+  "geometry": {"coordinates":[-81.38129499999999,28.504395],"type":"Point"}
 }

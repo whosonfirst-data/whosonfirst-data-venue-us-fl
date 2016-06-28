@@ -2,13 +2,14 @@
   "id": 303107461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090313,26.365624,-80.090313,26.365624",
     "geom:latitude":26.365624,
     "geom:longitude":-80.090313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1759 NW 2nd Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303107461,
-    "wof:lastmodified":1448998124,
+    "wof:lastmodified":1466432351,
     "wof:name":"Tom Sawyer Restaurant & Pastry",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.090313,26.365624,-80.090313,26.365624],
-  "geometry": {"coordinates":[-80.090313,26.365624],"type":"Point"}
+  "bbox": [
+    -80.090313,
+    26.365624,
+    -80.090313,
+    26.365624
+],
+  "geometry": {"coordinates":[-80.09031299999999,26.365624],"type":"Point"}
 }

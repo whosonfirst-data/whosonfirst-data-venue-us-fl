@@ -2,13 +2,14 @@
   "id": 303861095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.42427,29.26794,-82.42427,29.26794",
     "geom:latitude":29.26794,
     "geom:longitude":-82.42427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4190 SE 212th Ct",
     "sg:city":"Morriston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303861095,
-    "wof:lastmodified":1449000549,
+    "wof:lastmodified":1466445363,
     "wof:name":"All In Line Stables",
     "wof:parent_id":85823917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-82.42427,29.26794,-82.42427,29.26794],
-  "geometry": {"coordinates":[-82.42427,29.26794],"type":"Point"}
+  "bbox": [
+    -82.42427,
+    29.26794,
+    -82.42427,
+    29.26794
+],
+  "geometry": {"coordinates":[-82.42427000000001,29.26794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202705763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.526062,27.256819,-82.526062,27.256819",
     "geom:latitude":27.256819,
     "geom:longitude":-82.526062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Dawn St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202705763,
-    "wof:lastmodified":1449062663,
+    "wof:lastmodified":1466431058,
     "wof:name":"John Munkholm Painting",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.526062,27.256819,-82.526062,27.256819],
+  "bbox": [
+    -82.526062,
+    27.256819,
+    -82.526062,
+    27.256819
+],
   "geometry": {"coordinates":[-82.526062,27.256819],"type":"Point"}
 }

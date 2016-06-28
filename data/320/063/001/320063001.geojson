@@ -2,13 +2,14 @@
   "id": 320063001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.333107,30.482547,-87.333107,30.482547",
     "geom:latitude":30.482547,
     "geom:longitude":-87.333107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6855 Cedar Lake Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320063001,
-    "wof:lastmodified":1449011568,
+    "wof:lastmodified":1466434466,
     "wof:name":"Andrew McDonald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.333107,30.482547,-87.333107,30.482547],
+  "bbox": [
+    -87.333107,
+    30.482547,
+    -87.333107,
+    30.482547
+],
   "geometry": {"coordinates":[-87.333107,30.482547],"type":"Point"}
 }

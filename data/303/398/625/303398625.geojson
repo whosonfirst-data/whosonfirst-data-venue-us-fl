@@ -2,13 +2,14 @@
   "id": 303398625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250296,25.812412,-80.250296,25.812412",
     "geom:latitude":25.812412,
     "geom:longitude":-80.250296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 NW 41st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303398625,
-    "wof:lastmodified":1448998317,
+    "wof:lastmodified":1466437401,
     "wof:name":"Team Goneaway Towing",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "road"
     ]
 },
-  "bbox": [-80.250296,25.812412,-80.250296,25.812412],
-  "geometry": {"coordinates":[-80.250296,25.812412],"type":"Point"}
+  "bbox": [
+    -80.250296,
+    25.812412,
+    -80.250296,
+    25.812412
+],
+  "geometry": {"coordinates":[-80.25029600000001,25.812412],"type":"Point"}
 }

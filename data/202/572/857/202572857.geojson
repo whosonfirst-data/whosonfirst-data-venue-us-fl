@@ -2,13 +2,14 @@
   "id": 202572857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527256,27.947253,-82.527256,27.947253",
     "geom:latitude":27.947253,
     "geom:longitude":-82.527256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Westshore Plz",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202572857,
-    "wof:lastmodified":1449061678,
+    "wof:lastmodified":1466429312,
     "wof:name":"Ellen's Hallmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.527256,27.947253,-82.527256,27.947253],
-  "geometry": {"coordinates":[-82.527256,27.947253],"type":"Point"}
+  "bbox": [
+    -82.527256,
+    27.947253,
+    -82.527256,
+    27.947253
+],
+  "geometry": {"coordinates":[-82.52725599999999,27.947253],"type":"Point"}
 }

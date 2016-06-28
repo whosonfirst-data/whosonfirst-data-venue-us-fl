@@ -2,13 +2,14 @@
   "id": 269629413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352725,28.648549,-81.352725,28.648549",
     "geom:latitude":28.648549,
     "geom:longitude":-81.352725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Obrien Rd",
     "sg:city":"Fern Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269629413,
-    "wof:lastmodified":1449038250,
+    "wof:lastmodified":1466431106,
     "wof:name":"Corvette Svc",
     "wof:parent_id":85866887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.352725,28.648549,-81.352725,28.648549],
-  "geometry": {"coordinates":[-81.352725,28.648549],"type":"Point"}
+  "bbox": [
+    -81.352725,
+    28.648549,
+    -81.352725,
+    28.648549
+],
+  "geometry": {"coordinates":[-81.35272500000001,28.648549],"type":"Point"}
 }

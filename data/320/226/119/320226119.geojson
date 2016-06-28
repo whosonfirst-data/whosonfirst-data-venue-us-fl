@@ -2,13 +2,14 @@
   "id": 320226119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73861,30.309869,-81.73861,30.309869",
     "geom:latitude":30.309869,
     "geom:longitude":-81.73861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Lenox Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320226119,
-    "wof:lastmodified":1449013965,
+    "wof:lastmodified":1466437251,
     "wof:name":"Pastime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.73861,30.309869,-81.73861,30.309869],
-  "geometry": {"coordinates":[-81.73861,30.309869],"type":"Point"}
+  "bbox": [
+    -81.73861,
+    30.309869,
+    -81.73861,
+    30.309869
+],
+  "geometry": {"coordinates":[-81.73860999999999,30.309869],"type":"Point"}
 }

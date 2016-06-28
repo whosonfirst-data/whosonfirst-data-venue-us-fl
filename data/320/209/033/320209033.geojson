@@ -2,13 +2,14 @@
   "id": 320209033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.230946,30.405611,-87.230946,30.405611",
     "geom:latitude":30.405611,
     "geom:longitude":-87.230946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S E St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320209033,
-    "wof:lastmodified":1449014561,
+    "wof:lastmodified":1466436959,
     "wof:name":"Music Box",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.230946,30.405611,-87.230946,30.405611],
+  "bbox": [
+    -87.230946,
+    30.405611,
+    -87.230946,
+    30.405611
+],
   "geometry": {"coordinates":[-87.230946,30.405611],"type":"Point"}
 }

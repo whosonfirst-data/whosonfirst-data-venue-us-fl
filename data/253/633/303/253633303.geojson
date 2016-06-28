@@ -2,13 +2,14 @@
   "id": 253633303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.401836,26.000055,-80.401836,26.000055",
     "geom:latitude":26.000055,
     "geom:longitude":-80.401836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19049 SW 7th St",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253633303,
-    "wof:lastmodified":1449065782,
+    "wof:lastmodified":1466438013,
     "wof:name":"Computer On Site Svc",
     "wof:parent_id":85879801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-80.401836,26.000055,-80.401836,26.000055],
+  "bbox": [
+    -80.401836,
+    26.000055,
+    -80.401836,
+    26.000055
+],
   "geometry": {"coordinates":[-80.401836,26.000055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252899123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.787095,27.889996,-82.787095,27.889996",
     "geom:latitude":27.889996,
     "geom:longitude":-82.787095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12891 Seminole Blvd",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252899123,
-    "wof:lastmodified":1449006444,
+    "wof:lastmodified":1466431182,
     "wof:name":"Global Youth Svc",
     "wof:parent_id":85889113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-82.787095,27.889996,-82.787095,27.889996],
-  "geometry": {"coordinates":[-82.787095,27.889996],"type":"Point"}
+  "bbox": [
+    -82.787095,
+    27.889996,
+    -82.787095,
+    27.889996
+],
+  "geometry": {"coordinates":[-82.78709499999999,27.889996],"type":"Point"}
 }

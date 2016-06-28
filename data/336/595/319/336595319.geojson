@@ -2,13 +2,14 @@
   "id": 336595319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.121862,29.163501,-82.121862,29.163501",
     "geom:latitude":29.163501,
     "geom:longitude":-82.121862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 SE 25th Loop",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336595319,
-    "wof:lastmodified":1448997915,
+    "wof:lastmodified":1466434898,
     "wof:name":"BMA North Central Florida",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.121862,29.163501,-82.121862,29.163501],
-  "geometry": {"coordinates":[-82.121862,29.163501],"type":"Point"}
+  "bbox": [
+    -82.121862,
+    29.163501,
+    -82.121862,
+    29.163501
+],
+  "geometry": {"coordinates":[-82.12186199999999,29.163501],"type":"Point"}
 }

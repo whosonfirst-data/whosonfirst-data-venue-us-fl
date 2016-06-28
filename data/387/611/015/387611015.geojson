@@ -2,13 +2,14 @@
   "id": 387611015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318905,25.85331,-80.318905,25.85331",
     "geom:latitude":25.85331,
     "geom:longitude":-80.318905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 W 35th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387611015,
-    "wof:lastmodified":1449059107,
+    "wof:lastmodified":1466447370,
     "wof:name":"Migun Miami",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.318905,25.85331,-80.318905,25.85331],
+  "bbox": [
+    -80.318905,
+    25.85331,
+    -80.318905,
+    25.85331
+],
   "geometry": {"coordinates":[-80.318905,25.85331],"type":"Point"}
 }

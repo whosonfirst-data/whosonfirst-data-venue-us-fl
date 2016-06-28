@@ -2,13 +2,14 @@
   "id": 253108895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.210871,27.998828,-82.210871,27.998828",
     "geom:latitude":27.998828,
     "geom:longitude":-82.210871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Lindsey St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253108895,
-    "wof:lastmodified":1449062870,
+    "wof:lastmodified":1466430010,
     "wof:name":"Migrant Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "immigration"
     ]
 },
-  "bbox": [-82.210871,27.998828,-82.210871,27.998828],
+  "bbox": [
+    -82.210871,
+    27.998828,
+    -82.210871,
+    27.998828
+],
   "geometry": {"coordinates":[-82.210871,27.998828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235951699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.297008,29.678817,-82.297008,29.678817",
     "geom:latitude":29.678817,
     "geom:longitude":-82.297008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 NE 20 Way",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235951699,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466428691,
     "wof:name":"NIP",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.297008,29.678817,-82.297008,29.678817],
-  "geometry": {"coordinates":[-82.297008,29.678817],"type":"Point"}
+  "bbox": [
+    -82.297008,
+    29.678817,
+    -82.297008,
+    29.678817
+],
+  "geometry": {"coordinates":[-82.29700800000001,29.678817],"type":"Point"}
 }

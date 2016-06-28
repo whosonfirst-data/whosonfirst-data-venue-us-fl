@@ -2,13 +2,14 @@
   "id": 353820695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.496361,28.085395,-82.496361,28.085395",
     "geom:latitude":28.085395,
     "geom:longitude":-82.496361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3351 W Bearss Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353820695,
-    "wof:lastmodified":1449019584,
+    "wof:lastmodified":1466441265,
     "wof:name":"Bay Capitol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "insurance"
     ]
 },
-  "bbox": [-82.496361,28.085395,-82.496361,28.085395],
-  "geometry": {"coordinates":[-82.496361,28.085395],"type":"Point"}
+  "bbox": [
+    -82.496361,
+    28.085395,
+    -82.496361,
+    28.085395
+],
+  "geometry": {"coordinates":[-82.49636099999999,28.085395],"type":"Point"}
 }

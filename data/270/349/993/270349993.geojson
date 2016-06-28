@@ -2,13 +2,14 @@
   "id": 270349993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.259133,30.413815,-84.259133,30.413815",
     "geom:latitude":30.413815,
     "geom:longitude":-84.259133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 Lola Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270349993,
-    "wof:lastmodified":1449009569,
+    "wof:lastmodified":1466435454,
     "wof:name":"Flowers of Goodwill Corp",
     "wof:parent_id":85881367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.259133,30.413815,-84.259133,30.413815],
-  "geometry": {"coordinates":[-84.259133,30.413815],"type":"Point"}
+  "bbox": [
+    -84.259133,
+    30.413815,
+    -84.259133,
+    30.413815
+],
+  "geometry": {"coordinates":[-84.25913300000001,30.413815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202728183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256825,25.81778,-80.256825,25.81778",
     "geom:latitude":25.81778,
     "geom:longitude":-80.256825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 NW 37th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202728183,
-    "wof:lastmodified":1449060697,
+    "wof:lastmodified":1466431339,
     "wof:name":"Cheo Towing",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.256825,25.81778,-80.256825,25.81778],
-  "geometry": {"coordinates":[-80.256825,25.81778],"type":"Point"}
+  "bbox": [
+    -80.256825,
+    25.81778,
+    -80.256825,
+    25.81778
+],
+  "geometry": {"coordinates":[-80.25682500000001,25.81778],"type":"Point"}
 }

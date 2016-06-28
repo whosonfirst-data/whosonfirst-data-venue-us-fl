@@ -2,13 +2,14 @@
   "id": 202406079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.385145,30.207309,-81.385145,30.207309",
     "geom:latitude":30.207309,
     "geom:longitude":-81.385145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Sawgrass Village Cir",
     "sg:city":"Ponte Vedra Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202406079,
-    "wof:lastmodified":1449061474,
+    "wof:lastmodified":1466443280,
     "wof:name":"John Brantley CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.385145,30.207309,-81.385145,30.207309],
-  "geometry": {"coordinates":[-81.385145,30.207309],"type":"Point"}
+  "bbox": [
+    -81.385145,
+    30.207309,
+    -81.385145,
+    30.207309
+],
+  "geometry": {"coordinates":[-81.38514499999999,30.207309],"type":"Point"}
 }

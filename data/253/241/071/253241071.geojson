@@ -2,13 +2,14 @@
   "id": 253241071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.786881,27.789185,-82.786881,27.789185",
     "geom:latitude":27.789185,
     "geom:longitude":-82.786881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13201 Gulf Blvd",
     "sg:city":"Madeira Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253241071,
-    "wof:lastmodified":1449065725,
+    "wof:lastmodified":1466431313,
     "wof:name":"Madeira Bay Docks",
     "wof:parent_id":85834657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.786881,27.789185,-82.786881,27.789185],
-  "geometry": {"coordinates":[-82.786881,27.789185],"type":"Point"}
+  "bbox": [
+    -82.786881,
+    27.789185,
+    -82.786881,
+    27.789185
+],
+  "geometry": {"coordinates":[-82.78688099999999,27.789185],"type":"Point"}
 }

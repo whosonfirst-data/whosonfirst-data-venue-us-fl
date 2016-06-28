@@ -2,13 +2,14 @@
   "id": 370545305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.206505,30.410552,-87.206505,30.410552",
     "geom:latitude":30.410552,
     "geom:longitude":-87.206505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 E Government St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370545305,
-    "wof:lastmodified":1449029910,
+    "wof:lastmodified":1466442531,
     "wof:name":"Camp Dental Labs Inc",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-87.206505,30.410552,-87.206505,30.410552],
-  "geometry": {"coordinates":[-87.206505,30.410552],"type":"Point"}
+  "bbox": [
+    -87.206505,
+    30.410552,
+    -87.206505,
+    30.410552
+],
+  "geometry": {"coordinates":[-87.20650500000001,30.410552],"type":"Point"}
 }

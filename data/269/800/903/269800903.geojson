@@ -2,13 +2,14 @@
   "id": 269800903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.563801,30.210774,-81.563801,30.210774",
     "geom:latitude":30.210774,
     "geom:longitude":-81.563801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8917 Western Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269800903,
-    "wof:lastmodified":1449036338,
+    "wof:lastmodified":1466434126,
     "wof:name":"Scooter Store",
     "wof:parent_id":85870729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-81.563801,30.210774,-81.563801,30.210774],
+  "bbox": [
+    -81.563801,
+    30.210774,
+    -81.563801,
+    30.210774
+],
   "geometry": {"coordinates":[-81.563801,30.210774],"type":"Point"}
 }

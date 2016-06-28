@@ -2,13 +2,14 @@
   "id": 269547229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323861,25.876161,-80.323861,25.876161",
     "geom:latitude":25.876161,
     "geom:longitude":-80.323861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5918 W 20th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269547229,
-    "wof:lastmodified":1449036398,
+    "wof:lastmodified":1466429605,
     "wof:name":"American Envia Express",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.323861,25.876161,-80.323861,25.876161],
-  "geometry": {"coordinates":[-80.323861,25.876161],"type":"Point"}
+  "bbox": [
+    -80.323861,
+    25.876161,
+    -80.323861,
+    25.876161
+],
+  "geometry": {"coordinates":[-80.32386099999999,25.876161],"type":"Point"}
 }

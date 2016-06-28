@@ -2,13 +2,14 @@
   "id": 304016273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.737491,26.095935,-81.737491,26.095935",
     "geom:latitude":26.095935,
     "geom:longitude":-81.737491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9001 Tamiami Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304016273,
-    "wof:lastmodified":1449043655,
+    "wof:lastmodified":1466432087,
     "wof:name":"Dvlpmnt-Flrida Mc Cormack Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.737491,26.095935,-81.737491,26.095935],
-  "geometry": {"coordinates":[-81.737491,26.095935],"type":"Point"}
+  "bbox": [
+    -81.737491,
+    26.095935,
+    -81.737491,
+    26.095935
+],
+  "geometry": {"coordinates":[-81.73749100000001,26.095935],"type":"Point"}
 }

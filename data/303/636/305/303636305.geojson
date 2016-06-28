@@ -2,13 +2,14 @@
   "id": 303636305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260726,25.778147,-80.260726,25.778147",
     "geom:latitude":25.778147,
     "geom:longitude":-80.260726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3955 NW 6th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303636305,
-    "wof:lastmodified":1448999090,
+    "wof:lastmodified":1466441476,
     "wof:name":"Completo's Roofing",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.260726,25.778147,-80.260726,25.778147],
-  "geometry": {"coordinates":[-80.260726,25.778147],"type":"Point"}
+  "bbox": [
+    -80.260726,
+    25.778147,
+    -80.260726,
+    25.778147
+],
+  "geometry": {"coordinates":[-80.26072600000001,25.778147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320330423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270531,26.056198,-80.270531,26.056198",
     "geom:latitude":26.056198,
     "geom:longitude":-80.270531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5188 SW 90th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320330423,
-    "wof:lastmodified":1449013127,
+    "wof:lastmodified":1466439043,
     "wof:name":"Coaches Corner Atheletic Depot",
     "wof:parent_id":85865217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.270531,26.056198,-80.270531,26.056198],
-  "geometry": {"coordinates":[-80.270531,26.056198],"type":"Point"}
+  "bbox": [
+    -80.270531,
+    26.056198,
+    -80.270531,
+    26.056198
+],
+  "geometry": {"coordinates":[-80.27053100000001,26.056198],"type":"Point"}
 }

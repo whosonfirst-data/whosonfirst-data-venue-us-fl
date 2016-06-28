@@ -2,13 +2,14 @@
   "id": 403889997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.691606,28.180106,-80.691606,28.180106",
     "geom:latitude":28.180106,
     "geom:longitude":-80.691606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4240 Windover Way",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403889997,
-    "wof:lastmodified":1449054609,
+    "wof:lastmodified":1466442570,
     "wof:name":"Robins Room",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.691606,28.180106,-80.691606,28.180106],
-  "geometry": {"coordinates":[-80.691606,28.180106],"type":"Point"}
+  "bbox": [
+    -80.691606,
+    28.180106,
+    -80.691606,
+    28.180106
+],
+  "geometry": {"coordinates":[-80.69160599999999,28.180106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169655615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129494,25.793916,-80.129494,25.793916",
     "geom:latitude":25.793916,
     "geom:longitude":-80.129494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Collins Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169655615,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1466444887,
     "wof:name":"Miami Vacation",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-80.129494,25.793916,-80.129494,25.793916],
-  "geometry": {"coordinates":[-80.129494,25.793916],"type":"Point"}
+  "bbox": [
+    -80.129494,
+    25.793916,
+    -80.129494,
+    25.793916
+],
+  "geometry": {"coordinates":[-80.12949399999999,25.793916],"type":"Point"}
 }

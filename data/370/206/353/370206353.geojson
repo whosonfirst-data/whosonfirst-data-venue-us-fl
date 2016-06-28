@@ -2,13 +2,14 @@
   "id": 370206353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.031123,29.78475,-82.031123,29.78475",
     "geom:latitude":29.78475,
     "geom:longitude":-82.031123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 S Lawrence Blvd",
     "sg:city":"Keystone Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370206353,
-    "wof:lastmodified":1449031375,
+    "wof:lastmodified":1466437327,
     "wof:name":"Keystone Barber & Hairstyling",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.031123,29.78475,-82.031123,29.78475],
-  "geometry": {"coordinates":[-82.031123,29.78475],"type":"Point"}
+  "bbox": [
+    -82.031123,
+    29.78475,
+    -82.031123,
+    29.78475
+],
+  "geometry": {"coordinates":[-82.03112299999999,29.78475],"type":"Point"}
 }

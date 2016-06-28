@@ -2,13 +2,14 @@
   "id": 303605951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098127,28.942029,-81.098127,28.942029",
     "geom:latitude":28.942029,
     "geom:longitude":-81.098127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4343 Lake Ashby Rd",
     "sg:city":"New Smyrna Beach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303605951,
-    "wof:lastmodified":1448999308,
+    "wof:lastmodified":1466440951,
     "wof:name":"P&M Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.098127,28.942029,-81.098127,28.942029],
-  "geometry": {"coordinates":[-81.098127,28.942029],"type":"Point"}
+  "bbox": [
+    -81.098127,
+    28.942029,
+    -81.098127,
+    28.942029
+],
+  "geometry": {"coordinates":[-81.09812700000001,28.942029],"type":"Point"}
 }

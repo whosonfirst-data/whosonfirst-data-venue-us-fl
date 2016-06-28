@@ -2,13 +2,14 @@
   "id": 303212015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.106508,26.934034,-80.106508,26.934034",
     "geom:latitude":26.934034,
     "geom:longitude":-80.106508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W Indiantown Rd",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303212015,
-    "wof:lastmodified":1448999701,
+    "wof:lastmodified":1466434199,
     "wof:name":"Covenant Financial",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.106508,26.934034,-80.106508,26.934034],
-  "geometry": {"coordinates":[-80.106508,26.934034],"type":"Point"}
+  "bbox": [
+    -80.106508,
+    26.934034,
+    -80.106508,
+    26.934034
+],
+  "geometry": {"coordinates":[-80.10650800000001,26.934034],"type":"Point"}
 }

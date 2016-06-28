@@ -2,13 +2,14 @@
   "id": 353679581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.429077,28.547219,-81.429077,28.547219",
     "geom:latitude":28.547219,
     "geom:longitude":-81.429077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Old Winter Garden Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353679581,
-    "wof:lastmodified":1449019891,
+    "wof:lastmodified":1466439049,
     "wof:name":"Tropical Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.429077,28.547219,-81.429077,28.547219],
-  "geometry": {"coordinates":[-81.429077,28.547219],"type":"Point"}
+  "bbox": [
+    -81.429077,
+    28.547219,
+    -81.429077,
+    28.547219
+],
+  "geometry": {"coordinates":[-81.42907700000001,28.547219],"type":"Point"}
 }

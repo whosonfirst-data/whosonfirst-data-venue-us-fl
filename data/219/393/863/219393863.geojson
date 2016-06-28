@@ -2,13 +2,14 @@
   "id": 219393863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.76296,27.96799,-82.76296,27.96799",
     "geom:latitude":27.96799,
     "geom:longitude":-82.76296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Drew St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219393863,
-    "wof:lastmodified":1449071503,
+    "wof:lastmodified":1466430101,
     "wof:name":"Simple Scrumptious Deli",
     "wof:parent_id":85888663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-82.76296,27.96799,-82.76296,27.96799],
-  "geometry": {"coordinates":[-82.76296,27.96799],"type":"Point"}
+  "bbox": [
+    -82.76296,
+    27.96799,
+    -82.76296,
+    27.96799
+],
+  "geometry": {"coordinates":[-82.76296000000001,27.96799],"type":"Point"}
 }

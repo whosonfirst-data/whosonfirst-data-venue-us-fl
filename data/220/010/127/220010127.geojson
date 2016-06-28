@@ -2,13 +2,14 @@
   "id": 220010127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.205986,30.410729,-87.205986,30.410729",
     "geom:latitude":30.410729,
     "geom:longitude":-87.205986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Cevallos St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220010127,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466443713,
     "wof:name":"International Bid Services",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.205986,30.410729,-87.205986,30.410729],
+  "bbox": [
+    -87.205986,
+    30.410729,
+    -87.205986,
+    30.410729
+],
   "geometry": {"coordinates":[-87.205986,30.410729],"type":"Point"}
 }

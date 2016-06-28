@@ -2,13 +2,14 @@
   "id": 185969375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.865793,26.641757,-81.865793,26.641757",
     "geom:latitude":26.641757,
     "geom:longitude":-81.865793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1833 Lee St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185969375,
-    "wof:lastmodified":1449006998,
+    "wof:lastmodified":1466430723,
     "wof:name":"FPL",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.865793,26.641757,-81.865793,26.641757],
+  "bbox": [
+    -81.865793,
+    26.641757,
+    -81.865793,
+    26.641757
+],
   "geometry": {"coordinates":[-81.865793,26.641757],"type":"Point"}
 }

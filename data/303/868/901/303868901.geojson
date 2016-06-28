@@ -2,13 +2,14 @@
   "id": 303868901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248264,26.013045,-80.248264,26.013045",
     "geom:latitude":26.013045,
     "geom:longitude":-80.248264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N University Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303868901,
-    "wof:lastmodified":1448998229,
+    "wof:lastmodified":1466445499,
     "wof:name":"Publix Super Market 012",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supermarket"
     ]
 },
-  "bbox": [-80.248264,26.013045,-80.248264,26.013045],
-  "geometry": {"coordinates":[-80.248264,26.013045],"type":"Point"}
+  "bbox": [
+    -80.248264,
+    26.013045,
+    -80.248264,
+    26.013045
+],
+  "geometry": {"coordinates":[-80.24826400000001,26.013045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353493299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137131,25.930099,-80.137131,25.930099",
     "geom:latitude":25.930099,
     "geom:longitude":-80.137131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16462 NE 34th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353493299,
-    "wof:lastmodified":1449019069,
+    "wof:lastmodified":1466436035,
     "wof:name":"110 Street Investments LLC",
     "wof:parent_id":85816987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.137131,25.930099,-80.137131,25.930099],
+  "bbox": [
+    -80.137131,
+    25.930099,
+    -80.137131,
+    25.930099
+],
   "geometry": {"coordinates":[-80.137131,25.930099],"type":"Point"}
 }

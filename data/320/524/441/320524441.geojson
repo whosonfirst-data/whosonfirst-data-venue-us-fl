@@ -2,13 +2,14 @@
   "id": 320524441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649283,26.591409,-81.649283,26.591409",
     "geom:latitude":26.591409,
     "geom:longitude":-81.649283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Rushmore Ave N",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320524441,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466442447,
     "wof:name":"World View Satellite",
     "wof:parent_id":85889141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-81.649283,26.591409,-81.649283,26.591409],
+  "bbox": [
+    -81.649283,
+    26.591409,
+    -81.649283,
+    26.591409
+],
   "geometry": {"coordinates":[-81.649283,26.591409],"type":"Point"}
 }

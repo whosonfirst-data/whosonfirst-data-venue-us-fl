@@ -2,13 +2,14 @@
   "id": 387145649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.677467,27.820624,-82.677467,27.820624",
     "geom:latitude":27.820624,
     "geom:longitude":-82.677467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3298 53rd Ter N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387145649,
-    "wof:lastmodified":1449057261,
+    "wof:lastmodified":1466440950,
     "wof:name":"Villa Plumosa Mobile Home Park",
     "wof:parent_id":85889521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "park"
     ]
 },
-  "bbox": [-82.677467,27.820624,-82.677467,27.820624],
-  "geometry": {"coordinates":[-82.677467,27.820624],"type":"Point"}
+  "bbox": [
+    -82.677467,
+    27.820624,
+    -82.677467,
+    27.820624
+],
+  "geometry": {"coordinates":[-82.67746699999999,27.820624],"type":"Point"}
 }

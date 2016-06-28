@@ -2,13 +2,14 @@
   "id": 253578383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.501189,27.298788,-82.501189,27.298788",
     "geom:latitude":27.298788,
     "geom:longitude":-82.501189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Bee Ridge Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253578383,
-    "wof:lastmodified":1449063562,
+    "wof:lastmodified":1466437034,
     "wof:name":"Westat",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.501189,27.298788,-82.501189,27.298788],
+  "bbox": [
+    -82.501189,
+    27.298788,
+    -82.501189,
+    27.298788
+],
   "geometry": {"coordinates":[-82.501189,27.298788],"type":"Point"}
 }

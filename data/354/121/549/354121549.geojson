@@ -2,13 +2,14 @@
   "id": 354121549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888145,26.535916,-81.888145,26.535916",
     "geom:latitude":26.535916,
     "geom:longitude":-81.888145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1677 S Fountainhead Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354121549,
-    "wof:lastmodified":1449067260,
+    "wof:lastmodified":1466437959,
     "wof:name":"Craig's Marine Svc",
     "wof:parent_id":85888787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-81.888145,26.535916,-81.888145,26.535916],
-  "geometry": {"coordinates":[-81.888145,26.535916],"type":"Point"}
+  "bbox": [
+    -81.888145,
+    26.535916,
+    -81.888145,
+    26.535916
+],
+  "geometry": {"coordinates":[-81.88814499999999,26.535916],"type":"Point"}
 }

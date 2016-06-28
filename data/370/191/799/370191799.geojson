@@ -2,13 +2,14 @@
   "id": 370191799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692788,28.14612,-80.692788,28.14612",
     "geom:latitude":28.14612,
     "geom:longitude":-80.692788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 Lake Washington Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370191799,
-    "wof:lastmodified":1449031137,
+    "wof:lastmodified":1466437096,
     "wof:name":"Tracy Aircraft Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-80.692788,28.14612,-80.692788,28.14612],
-  "geometry": {"coordinates":[-80.692788,28.14612],"type":"Point"}
+  "bbox": [
+    -80.692788,
+    28.14612,
+    -80.692788,
+    28.14612
+],
+  "geometry": {"coordinates":[-80.69278799999999,28.14612],"type":"Point"}
 }

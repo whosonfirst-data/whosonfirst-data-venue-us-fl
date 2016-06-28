@@ -2,13 +2,14 @@
   "id": 320712735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.671507,28.121989,-80.671507,28.121989",
     "geom:latitude":28.121989,
     "geom:longitude":-80.671507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1099 N Wickham Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320712735,
-    "wof:lastmodified":1449012861,
+    "wof:lastmodified":1466445707,
     "wof:name":"Brunswick Harbour Lanes",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-80.671507,28.121989,-80.671507,28.121989],
-  "geometry": {"coordinates":[-80.671507,28.121989],"type":"Point"}
+  "bbox": [
+    -80.671507,
+    28.121989,
+    -80.671507,
+    28.121989
+],
+  "geometry": {"coordinates":[-80.67150700000001,28.121989],"type":"Point"}
 }

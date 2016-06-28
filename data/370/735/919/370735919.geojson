@@ -2,13 +2,14 @@
   "id": 370735919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.564997,28.551142,-81.564997,28.551142",
     "geom:latitude":28.551142,
     "geom:longitude":-81.564997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12345 W Colonial Dr",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370735919,
-    "wof:lastmodified":1449032388,
+    "wof:lastmodified":1466445448,
     "wof:name":"Preferred Sand & Gravel Inc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.564997,28.551142,-81.564997,28.551142],
-  "geometry": {"coordinates":[-81.564997,28.551142],"type":"Point"}
+  "bbox": [
+    -81.564997,
+    28.551142,
+    -81.564997,
+    28.551142
+],
+  "geometry": {"coordinates":[-81.56499700000001,28.551142],"type":"Point"}
 }

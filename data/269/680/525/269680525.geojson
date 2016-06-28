@@ -2,13 +2,14 @@
   "id": 269680525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538514,27.491316,-82.538514,27.491316",
     "geom:latitude":27.491316,
     "geom:longitude":-82.538514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Martin Luther King Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269680525,
-    "wof:lastmodified":1449037823,
+    "wof:lastmodified":1466432010,
     "wof:name":"Pearls",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-82.538514,27.491316,-82.538514,27.491316],
-  "geometry": {"coordinates":[-82.538514,27.491316],"type":"Point"}
+  "bbox": [
+    -82.538514,
+    27.491316,
+    -82.538514,
+    27.491316
+],
+  "geometry": {"coordinates":[-82.53851400000001,27.491316],"type":"Point"}
 }

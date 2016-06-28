@@ -2,13 +2,14 @@
   "id": 303095161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.219456,28.956234,-81.219456,28.956234",
     "geom:latitude":28.956234,
     "geom:longitude":-81.219456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 Sixma Rd",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303095161,
-    "wof:lastmodified":1448999362,
+    "wof:lastmodified":1466432134,
     "wof:name":"Michael's Investigations",
     "wof:parent_id":85888749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.219456,28.956234,-81.219456,28.956234],
-  "geometry": {"coordinates":[-81.219456,28.956234],"type":"Point"}
+  "bbox": [
+    -81.219456,
+    28.956234,
+    -81.219456,
+    28.956234
+],
+  "geometry": {"coordinates":[-81.21945599999999,28.956234],"type":"Point"}
 }

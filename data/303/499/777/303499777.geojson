@@ -2,13 +2,14 @@
   "id": 303499777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396915,28.696601,-81.396915,28.696601",
     "geom:latitude":28.696601,
     "geom:longitude":-81.396915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Wild Olive Ln",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303499777,
-    "wof:lastmodified":1448998582,
+    "wof:lastmodified":1466439148,
     "wof:name":"Eric A Knapp",
     "wof:parent_id":85854903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.396915,28.696601,-81.396915,28.696601],
-  "geometry": {"coordinates":[-81.396915,28.696601],"type":"Point"}
+  "bbox": [
+    -81.396915,
+    28.696601,
+    -81.396915,
+    28.696601
+],
+  "geometry": {"coordinates":[-81.39691500000001,28.696601],"type":"Point"}
 }

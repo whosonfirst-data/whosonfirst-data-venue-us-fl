@@ -2,13 +2,14 @@
   "id": 320520211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.595274,30.238026,-81.595274,30.238026",
     "geom:latitude":30.238026,
     "geom:longitude":-81.595274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 Cypress Plz Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320520211,
-    "wof:lastmodified":1449012503,
+    "wof:lastmodified":1466442375,
     "wof:name":"Elite Lender Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repossessing"
     ]
 },
-  "bbox": [-81.595274,30.238026,-81.595274,30.238026],
+  "bbox": [
+    -81.595274,
+    30.238026,
+    -81.595274,
+    30.238026
+],
   "geometry": {"coordinates":[-81.595274,30.238026],"type":"Point"}
 }

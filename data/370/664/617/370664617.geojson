@@ -2,13 +2,14 @@
   "id": 370664617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109428,24.709087,-81.109428,24.709087",
     "geom:latitude":24.709087,
     "geom:longitude":-81.109428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370664617,
-    "wof:lastmodified":1449030333,
+    "wof:lastmodified":1466444354,
     "wof:name":"Galloway Bay",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "community"
     ]
 },
-  "bbox": [-81.109428,24.709087,-81.109428,24.709087],
-  "geometry": {"coordinates":[-81.109428,24.709087],"type":"Point"}
+  "bbox": [
+    -81.109428,
+    24.709087,
+    -81.109428,
+    24.709087
+],
+  "geometry": {"coordinates":[-81.10942799999999,24.709087],"type":"Point"}
 }

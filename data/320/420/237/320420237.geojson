@@ -2,13 +2,14 @@
   "id": 320420237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334488,25.818064,-80.334488,25.818064",
     "geom:latitude":25.818064,
     "geom:longitude":-80.334488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 NW 84th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320420237,
-    "wof:lastmodified":1449013041,
+    "wof:lastmodified":1466440601,
     "wof:name":"South East Regional Laboratory",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.334488,25.818064,-80.334488,25.818064],
-  "geometry": {"coordinates":[-80.334488,25.818064],"type":"Point"}
+  "bbox": [
+    -80.334488,
+    25.818064,
+    -80.334488,
+    25.818064
+],
+  "geometry": {"coordinates":[-80.33448799999999,25.818064],"type":"Point"}
 }

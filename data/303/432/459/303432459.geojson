@@ -2,13 +2,14 @@
   "id": 303432459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.479256,27.812083,-80.479256,27.812083",
     "geom:latitude":27.812083,
     "geom:longitude":-80.479256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Columbus St",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303432459,
-    "wof:lastmodified":1448998072,
+    "wof:lastmodified":1466437970,
     "wof:name":"Howell's Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-80.479256,27.812083,-80.479256,27.812083],
-  "geometry": {"coordinates":[-80.479256,27.812083],"type":"Point"}
+  "bbox": [
+    -80.479256,
+    27.812083,
+    -80.479256,
+    27.812083
+],
+  "geometry": {"coordinates":[-80.47925600000001,27.812083],"type":"Point"}
 }

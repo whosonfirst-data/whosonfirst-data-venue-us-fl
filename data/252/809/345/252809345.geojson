@@ -2,13 +2,14 @@
   "id": 252809345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103911,26.137969,-80.103911,26.137969",
     "geom:latitude":26.137969,
     "geom:longitude":-80.103911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 E Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252809345,
-    "wof:lastmodified":1449006318,
+    "wof:lastmodified":1466429895,
     "wof:name":"Cigar Factory",
     "wof:parent_id":85881955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cigar"
     ]
 },
-  "bbox": [-80.103911,26.137969,-80.103911,26.137969],
+  "bbox": [
+    -80.103911,
+    26.137969,
+    -80.103911,
+    26.137969
+],
   "geometry": {"coordinates":[-80.103911,26.137969],"type":"Point"}
 }

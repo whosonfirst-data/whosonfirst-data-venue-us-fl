@@ -2,13 +2,14 @@
   "id": 203020663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.630572,30.270655,-81.630572,30.270655",
     "geom:latitude":30.270655,
     "geom:longitude":-81.630572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4870 Victor St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203020663,
-    "wof:lastmodified":1449025799,
+    "wof:lastmodified":1466440268,
     "wof:name":"Alexander's Direct Mail Svc",
     "wof:parent_id":85870711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-81.630572,30.270655,-81.630572,30.270655],
+  "bbox": [
+    -81.630572,
+    30.270655,
+    -81.630572,
+    30.270655
+],
   "geometry": {"coordinates":[-81.630572,30.270655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370400761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.302274,28.242498,-81.302274,28.242498",
     "geom:latitude":28.242498,
     "geom:longitude":-81.302274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 17th St",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370400761,
-    "wof:lastmodified":1449029419,
+    "wof:lastmodified":1466440310,
     "wof:name":"Family Practice Assoc",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.302274,28.242498,-81.302274,28.242498],
+  "bbox": [
+    -81.302274,
+    28.242498,
+    -81.302274,
+    28.242498
+],
   "geometry": {"coordinates":[-81.302274,28.242498],"type":"Point"}
 }

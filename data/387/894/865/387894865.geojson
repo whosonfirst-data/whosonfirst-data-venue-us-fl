@@ -2,13 +2,14 @@
   "id": 387894865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030819,29.133306,-81.030819,29.133306",
     "geom:latitude":29.133306,
     "geom:longitude":-81.030819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Woodlake Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387894865,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1466449549,
     "wof:name":"Civitan International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.030819,29.133306,-81.030819,29.133306],
-  "geometry": {"coordinates":[-81.030819,29.133306],"type":"Point"}
+  "bbox": [
+    -81.030819,
+    29.133306,
+    -81.030819,
+    29.133306
+],
+  "geometry": {"coordinates":[-81.03081899999999,29.133306],"type":"Point"}
 }

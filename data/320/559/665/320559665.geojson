@@ -2,13 +2,14 @@
   "id": 320559665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800502,26.215324,-81.800502,26.215324",
     "geom:latitude":26.215324,
     "geom:longitude":-81.800502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Laurel Oak Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320559665,
-    "wof:lastmodified":1449014150,
+    "wof:lastmodified":1466443082,
     "wof:name":"Havens Co Of Naples",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.800502,26.215324,-81.800502,26.215324],
-  "geometry": {"coordinates":[-81.800502,26.215324],"type":"Point"}
+  "bbox": [
+    -81.800502,
+    26.215324,
+    -81.800502,
+    26.215324
+],
+  "geometry": {"coordinates":[-81.80050199999999,26.215324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203018809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.089697,30.311721,-86.089697,30.311721",
     "geom:latitude":30.311721,
     "geom:longitude":-86.089697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Trae Ln",
     "sg:city":"Santa Rosa Beach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203018809,
-    "wof:lastmodified":1449025877,
+    "wof:lastmodified":1466439508,
     "wof:name":"Jasmine Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.089697,30.311721,-86.089697,30.311721],
+  "bbox": [
+    -86.089697,
+    30.311721,
+    -86.089697,
+    30.311721
+],
   "geometry": {"coordinates":[-86.089697,30.311721],"type":"Point"}
 }

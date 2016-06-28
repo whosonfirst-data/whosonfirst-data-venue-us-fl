@@ -2,13 +2,14 @@
   "id": 303580821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.705508,30.320226,-81.705508,30.320226",
     "geom:latitude":30.320226,
     "geom:longitude":-81.705508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 S McDuff Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303580821,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1466440536,
     "wof:name":"Pantry Inc",
     "wof:parent_id":85828967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocery"
     ]
 },
-  "bbox": [-81.705508,30.320226,-81.705508,30.320226],
-  "geometry": {"coordinates":[-81.705508,30.320226],"type":"Point"}
+  "bbox": [
+    -81.705508,
+    30.320226,
+    -81.705508,
+    30.320226
+],
+  "geometry": {"coordinates":[-81.70550799999999,30.320226],"type":"Point"}
 }

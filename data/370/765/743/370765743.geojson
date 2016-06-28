@@ -2,13 +2,14 @@
   "id": 370765743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.752423,27.745776,-82.752423,27.745776",
     "geom:latitude":27.745776,
     "geom:longitude":-82.752423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Blind Pass Rd",
     "sg:city":"St Pete Beach",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370765743,
-    "wof:lastmodified":1449031033,
+    "wof:lastmodified":1466445932,
     "wof:name":"Storm Shutter Specialist Inc",
     "wof:parent_id":85889533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hurricane"
     ]
 },
-  "bbox": [-82.752423,27.745776,-82.752423,27.745776],
-  "geometry": {"coordinates":[-82.752423,27.745776],"type":"Point"}
+  "bbox": [
+    -82.752423,
+    27.745776,
+    -82.752423,
+    27.745776
+],
+  "geometry": {"coordinates":[-82.75242299999999,27.745776],"type":"Point"}
 }

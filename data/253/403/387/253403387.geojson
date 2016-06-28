@@ -2,13 +2,14 @@
   "id": 253403387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.262506,30.515551,-84.262506,30.515551",
     "geom:latitude":30.515551,
     "geom:longitude":-84.262506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"986 Bellflower Ct",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253403387,
-    "wof:lastmodified":1449065363,
+    "wof:lastmodified":1466433926,
     "wof:name":"John M Szczesny MD",
     "wof:parent_id":85889649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-84.262506,30.515551,-84.262506,30.515551],
+  "bbox": [
+    -84.262506,
+    30.515551,
+    -84.262506,
+    30.515551
+],
   "geometry": {"coordinates":[-84.262506,30.515551],"type":"Point"}
 }

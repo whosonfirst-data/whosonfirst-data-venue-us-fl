@@ -2,13 +2,14 @@
   "id": 220187971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.523142,25.590398,-80.523142,25.590398",
     "geom:latitude":25.590398,
     "geom:longitude":-80.523142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20201 SW 188th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220187971,
-    "wof:lastmodified":1449074157,
+    "wof:lastmodified":1466429412,
     "wof:name":"East Coast Marine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.523142,25.590398,-80.523142,25.590398],
-  "geometry": {"coordinates":[-80.523142,25.590398],"type":"Point"}
+  "bbox": [
+    -80.523142,
+    25.590398,
+    -80.523142,
+    25.590398
+],
+  "geometry": {"coordinates":[-80.52314200000001,25.590398],"type":"Point"}
 }

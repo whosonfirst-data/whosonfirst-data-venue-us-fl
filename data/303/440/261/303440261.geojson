@@ -2,13 +2,14 @@
   "id": 303440261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.862056,26.555065,-81.862056,26.555065",
     "geom:latitude":26.555065,
     "geom:longitude":-81.862056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Woodland Ter",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303440261,
-    "wof:lastmodified":1448998983,
+    "wof:lastmodified":1466438115,
     "wof:name":"Evelyn Amundsen Janitor Svc",
     "wof:parent_id":85888833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.862056,26.555065,-81.862056,26.555065],
+  "bbox": [
+    -81.862056,
+    26.555065,
+    -81.862056,
+    26.555065
+],
   "geometry": {"coordinates":[-81.862056,26.555065],"type":"Point"}
 }

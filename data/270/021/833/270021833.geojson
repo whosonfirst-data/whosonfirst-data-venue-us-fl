@@ -2,13 +2,14 @@
   "id": 270021833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076326,26.483334,-80.076326,26.483334",
     "geom:latitude":26.483334,
     "geom:longitude":-80.076326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 NW 18th St",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270021833,
-    "wof:lastmodified":1449010195,
+    "wof:lastmodified":1466429824,
     "wof:name":"PBG",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.076326,26.483334,-80.076326,26.483334],
-  "geometry": {"coordinates":[-80.076326,26.483334],"type":"Point"}
+  "bbox": [
+    -80.076326,
+    26.483334,
+    -80.076326,
+    26.483334
+],
+  "geometry": {"coordinates":[-80.07632599999999,26.483334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387683301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.044835,29.248297,-81.044835,29.248297",
     "geom:latitude":29.248297,
     "geom:longitude":-81.044835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 State Ave",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387683301,
-    "wof:lastmodified":1449057501,
+    "wof:lastmodified":1466447925,
     "wof:name":"LDF Svc",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.044835,29.248297,-81.044835,29.248297],
-  "geometry": {"coordinates":[-81.044835,29.248297],"type":"Point"}
+  "bbox": [
+    -81.044835,
+    29.248297,
+    -81.044835,
+    29.248297
+],
+  "geometry": {"coordinates":[-81.04483500000001,29.248297],"type":"Point"}
 }

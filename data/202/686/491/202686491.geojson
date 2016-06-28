@@ -2,13 +2,14 @@
   "id": 202686491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352728,28.598667,-81.352728,28.598667",
     "geom:latitude":28.598667,
     "geom:longitude":-81.352728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 N New York Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202686491,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466430811,
     "wof:name":"Orange Yellow Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.352728,28.598667,-81.352728,28.598667],
+  "bbox": [
+    -81.352728,
+    28.598667,
+    -81.352728,
+    28.598667
+],
   "geometry": {"coordinates":[-81.352728,28.598667],"type":"Point"}
 }

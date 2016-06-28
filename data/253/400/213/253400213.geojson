@@ -2,13 +2,14 @@
   "id": 253400213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52164,27.998178,-82.52164,27.998178",
     "geom:latitude":27.998178,
     "geom:longitude":-82.52164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4702 W Comanche Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253400213,
-    "wof:lastmodified":1449063093,
+    "wof:lastmodified":1466433868,
     "wof:name":"PF1 Software Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-82.52164,27.998178,-82.52164,27.998178],
+  "bbox": [
+    -82.52164,
+    27.998178,
+    -82.52164,
+    27.998178
+],
   "geometry": {"coordinates":[-82.52164,27.998178],"type":"Point"}
 }

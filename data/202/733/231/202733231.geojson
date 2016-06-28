@@ -2,13 +2,14 @@
   "id": 202733231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.287474,25.778093,-80.287474,25.778093",
     "geom:latitude":25.778093,
     "geom:longitude":-80.287474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5617 NW 7th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202733231,
-    "wof:lastmodified":1449060459,
+    "wof:lastmodified":1466431400,
     "wof:name":"Galloway Therapy Svc",
     "wof:parent_id":85865493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-80.287474,25.778093,-80.287474,25.778093],
+  "bbox": [
+    -80.287474,
+    25.778093,
+    -80.287474,
+    25.778093
+],
   "geometry": {"coordinates":[-80.287474,25.778093],"type":"Point"}
 }

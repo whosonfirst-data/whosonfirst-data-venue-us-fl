@@ -2,13 +2,14 @@
   "id": 186501719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.266761,25.760148,-80.266761,25.760148",
     "geom:latitude":25.760148,
     "geom:longitude":-80.266761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 SW 13th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186501719,
-    "wof:lastmodified":1449053049,
+    "wof:lastmodified":1466432829,
     "wof:name":"Jose L Barrera Installation",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-80.266761,25.760148,-80.266761,25.760148],
+  "bbox": [
+    -80.266761,
+    25.760148,
+    -80.266761,
+    25.760148
+],
   "geometry": {"coordinates":[-80.266761,25.760148],"type":"Point"}
 }

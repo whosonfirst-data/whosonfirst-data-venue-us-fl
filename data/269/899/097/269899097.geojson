@@ -2,13 +2,14 @@
   "id": 269899097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.616424,28.324285,-80.616424,28.324285",
     "geom:latitude":28.324285,
     "geom:longitude":-80.616424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 McNabb Pkwy",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269899097,
-    "wof:lastmodified":1449038838,
+    "wof:lastmodified":1466435802,
     "wof:name":"Banana River Maintenance",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.616424,28.324285,-80.616424,28.324285],
-  "geometry": {"coordinates":[-80.616424,28.324285],"type":"Point"}
+  "bbox": [
+    -80.616424,
+    28.324285,
+    -80.616424,
+    28.324285
+],
+  "geometry": {"coordinates":[-80.61642399999999,28.324285],"type":"Point"}
 }

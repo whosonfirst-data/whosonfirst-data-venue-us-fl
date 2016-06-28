@@ -2,13 +2,14 @@
   "id": 320672103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.846432,27.887183,-82.846432,27.887183",
     "geom:latitude":27.887183,
     "geom:longitude":-82.846432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Marcdale Blvd",
     "sg:city":"Indian Rocks Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320672103,
-    "wof:lastmodified":1449011483,
+    "wof:lastmodified":1466445010,
     "wof:name":"Wired Island",
     "wof:parent_id":85888907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-82.846432,27.887183,-82.846432,27.887183],
-  "geometry": {"coordinates":[-82.846432,27.887183],"type":"Point"}
+  "bbox": [
+    -82.846432,
+    27.887183,
+    -82.846432,
+    27.887183
+],
+  "geometry": {"coordinates":[-82.84643199999999,27.887183],"type":"Point"}
 }

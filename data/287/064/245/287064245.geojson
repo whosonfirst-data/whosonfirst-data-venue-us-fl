@@ -2,13 +2,14 @@
   "id": 287064245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.275618,28.247991,-81.275618,28.247991",
     "geom:latitude":28.247991,
     "geom:longitude":-81.275618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Virginia Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287064245,
-    "wof:lastmodified":1449000979,
+    "wof:lastmodified":1466430948,
     "wof:name":"Transition Center",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.275618,28.247991,-81.275618,28.247991],
-  "geometry": {"coordinates":[-81.275618,28.247991],"type":"Point"}
+  "bbox": [
+    -81.275618,
+    28.247991,
+    -81.275618,
+    28.247991
+],
+  "geometry": {"coordinates":[-81.27561799999999,28.247991],"type":"Point"}
 }

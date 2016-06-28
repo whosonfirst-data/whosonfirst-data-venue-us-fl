@@ -2,13 +2,14 @@
   "id": 202581635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.304966,29.028009,-81.304966,29.028009",
     "geom:latitude":29.028009,
     "geom:longitude":-81.304966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W New York Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202581635,
-    "wof:lastmodified":1449060651,
+    "wof:lastmodified":1466429435,
     "wof:name":"Greater Souther Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.304966,29.028009,-81.304966,29.028009],
-  "geometry": {"coordinates":[-81.304966,29.028009],"type":"Point"}
+  "bbox": [
+    -81.304966,
+    29.028009,
+    -81.304966,
+    29.028009
+],
+  "geometry": {"coordinates":[-81.30496599999999,29.028009],"type":"Point"}
 }

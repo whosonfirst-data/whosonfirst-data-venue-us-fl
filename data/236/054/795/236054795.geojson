@@ -2,13 +2,14 @@
   "id": 236054795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.478442,27.816099,-80.478442,27.816099",
     "geom:latitude":27.816099,
     "geom:longitude":-80.478442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Main St",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236054795,
-    "wof:lastmodified":1449003155,
+    "wof:lastmodified":1466429150,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "us"
     ]
 },
-  "bbox": [-80.478442,27.816099,-80.478442,27.816099],
+  "bbox": [
+    -80.478442,
+    27.816099,
+    -80.478442,
+    27.816099
+],
   "geometry": {"coordinates":[-80.478442,27.816099],"type":"Point"}
 }

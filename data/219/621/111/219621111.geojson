@@ -2,13 +2,14 @@
   "id": 219621111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231521,25.901869,-80.231521,25.901869",
     "geom:latitude":25.901869,
     "geom:longitude":-80.231521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14025 NW 19th Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219621111,
-    "wof:lastmodified":1449073503,
+    "wof:lastmodified":1466433082,
     "wof:name":"Florida Home SEC & Ironwork",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.231521,25.901869,-80.231521,25.901869],
+  "bbox": [
+    -80.231521,
+    25.901869,
+    -80.231521,
+    25.901869
+],
   "geometry": {"coordinates":[-80.231521,25.901869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270441029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51139,28.025546,-82.51139,28.025546",
     "geom:latitude":28.025546,
     "geom:longitude":-82.51139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4143 W Waters Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270441029,
-    "wof:lastmodified":1449008835,
+    "wof:lastmodified":1466436991,
     "wof:name":"Bay Area Direct Mail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-82.51139,28.025546,-82.51139,28.025546],
-  "geometry": {"coordinates":[-82.51139,28.025546],"type":"Point"}
+  "bbox": [
+    -82.51139,
+    28.025546,
+    -82.51139,
+    28.025546
+],
+  "geometry": {"coordinates":[-82.51139000000001,28.025546],"type":"Point"}
 }

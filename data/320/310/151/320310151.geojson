@@ -2,13 +2,14 @@
   "id": 320310151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.667549,29.643711,-81.667549,29.643711",
     "geom:latitude":29.643711,
     "geom:longitude":-81.667549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Mellon Rd",
     "sg:city":"Palatka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320310151,
-    "wof:lastmodified":1449013551,
+    "wof:lastmodified":1466438692,
     "wof:name":"Mellon Elementary School",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.667549,29.643711,-81.667549,29.643711],
-  "geometry": {"coordinates":[-81.667549,29.643711],"type":"Point"}
+  "bbox": [
+    -81.667549,
+    29.643711,
+    -81.667549,
+    29.643711
+],
+  "geometry": {"coordinates":[-81.66754899999999,29.643711],"type":"Point"}
 }

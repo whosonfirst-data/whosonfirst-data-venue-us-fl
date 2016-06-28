@@ -2,13 +2,14 @@
   "id": 370733041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.383456,25.871486,-81.383456,25.871486",
     "geom:latitude":25.871486,
     "geom:longitude":-81.383456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Dupont St",
     "sg:city":"Everglades City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370733041,
-    "wof:lastmodified":1449029564,
+    "wof:lastmodified":1466445402,
     "wof:name":"Captain Doug's Florida Boat",
     "wof:parent_id":85818829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-81.383456,25.871486,-81.383456,25.871486],
+  "bbox": [
+    -81.383456,
+    25.871486,
+    -81.383456,
+    25.871486
+],
   "geometry": {"coordinates":[-81.383456,25.871486],"type":"Point"}
 }

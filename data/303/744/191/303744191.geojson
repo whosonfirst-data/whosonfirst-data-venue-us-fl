@@ -2,13 +2,14 @@
   "id": 303744191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110019,26.599416,-80.110019,26.599416",
     "geom:latitude":26.599416,
     "geom:longitude":-80.110019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Glenbrook Dr",
     "sg:city":"Lantana",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303744191,
-    "wof:lastmodified":1448999001,
+    "wof:lastmodified":1466443368,
     "wof:name":"National Healthcare Business",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.110019,26.599416,-80.110019,26.599416],
-  "geometry": {"coordinates":[-80.110019,26.599416],"type":"Point"}
+  "bbox": [
+    -80.110019,
+    26.599416,
+    -80.110019,
+    26.599416
+],
+  "geometry": {"coordinates":[-80.11001899999999,26.599416],"type":"Point"}
 }

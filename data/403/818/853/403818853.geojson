@@ -2,13 +2,14 @@
   "id": 403818853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.341536,28.524106,-81.341536,28.524106",
     "geom:latitude":28.524106,
     "geom:longitude":-81.341536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3338 Curry Ford Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403818853,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1466441432,
     "wof:name":"Immigration Services",
     "wof:parent_id":85879445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "immigration"
     ]
 },
-  "bbox": [-81.341536,28.524106,-81.341536,28.524106],
+  "bbox": [
+    -81.341536,
+    28.524106,
+    -81.341536,
+    28.524106
+],
   "geometry": {"coordinates":[-81.341536,28.524106],"type":"Point"}
 }

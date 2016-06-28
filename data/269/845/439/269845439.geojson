@@ -2,13 +2,14 @@
   "id": 269845439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.248534,28.339259,-82.248534,28.339259",
     "geom:latitude":28.339259,
     "geom:longitude":-82.248534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12354 Forest Highlands Dr",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269845439,
-    "wof:lastmodified":1449036529,
+    "wof:lastmodified":1466434892,
     "wof:name":"Intercoast Contract Spc",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "building"
     ]
 },
-  "bbox": [-82.248534,28.339259,-82.248534,28.339259],
-  "geometry": {"coordinates":[-82.248534,28.339259],"type":"Point"}
+  "bbox": [
+    -82.248534,
+    28.339259,
+    -82.248534,
+    28.339259
+],
+  "geometry": {"coordinates":[-82.24853400000001,28.339259],"type":"Point"}
 }

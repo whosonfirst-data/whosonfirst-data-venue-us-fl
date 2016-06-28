@@ -2,13 +2,14 @@
   "id": 202695873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.617671,30.439844,-86.617671,30.439844",
     "geom:latitude":30.439844,
     "geom:longitude":-86.617671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 James Lee Rd",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202695873,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466430935,
     "wof:name":"Falcon House Apartments",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-86.617671,30.439844,-86.617671,30.439844],
+  "bbox": [
+    -86.617671,
+    30.439844,
+    -86.617671,
+    30.439844
+],
   "geometry": {"coordinates":[-86.617671,30.439844],"type":"Point"}
 }

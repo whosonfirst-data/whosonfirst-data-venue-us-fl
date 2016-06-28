@@ -2,13 +2,14 @@
   "id": 303424971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.57555,27.515034,-82.57555,27.515034",
     "geom:latitude":27.515034,
     "geom:longitude":-82.57555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 10th Ave W",
     "sg:city":"Palmetto",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303424971,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1466437850,
     "wof:name":"Antiques On Old Main",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.57555,27.515034,-82.57555,27.515034],
-  "geometry": {"coordinates":[-82.57555,27.515034],"type":"Point"}
+  "bbox": [
+    -82.57555,
+    27.515034,
+    -82.57555,
+    27.515034
+],
+  "geometry": {"coordinates":[-82.57555000000001,27.515034],"type":"Point"}
 }

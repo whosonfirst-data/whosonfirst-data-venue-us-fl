@@ -2,13 +2,14 @@
   "id": 370879741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240501,27.181529,-80.240501,27.181529",
     "geom:latitude":27.181529,
     "geom:longitude":-80.240501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 SW Federal Hwy",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370879741,
-    "wof:lastmodified":1449029092,
+    "wof:lastmodified":1466447163,
     "wof:name":"Suburban Extended Stay Hotel",
     "wof:parent_id":85889629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-80.240501,27.181529,-80.240501,27.181529],
-  "geometry": {"coordinates":[-80.240501,27.181529],"type":"Point"}
+  "bbox": [
+    -80.240501,
+    27.181529,
+    -80.240501,
+    27.181529
+],
+  "geometry": {"coordinates":[-80.24050099999999,27.181529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269779699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.540886,27.351609,-82.540886,27.351609",
     "geom:latitude":27.351609,
     "geom:longitude":-82.540886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 16th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269779699,
-    "wof:lastmodified":1449036506,
+    "wof:lastmodified":1466433765,
     "wof:name":"Renaissance Manor",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.540886,27.351609,-82.540886,27.351609],
+  "bbox": [
+    -82.540886,
+    27.351609,
+    -82.540886,
+    27.351609
+],
   "geometry": {"coordinates":[-82.540886,27.351609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253525967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245875,25.830101,-80.245875,25.830101",
     "geom:latitude":25.830101,
     "geom:longitude":-80.245875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3070 NW 61st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253525967,
-    "wof:lastmodified":1449065147,
+    "wof:lastmodified":1466436070,
     "wof:name":"Juniors Garage",
     "wof:parent_id":85808131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.245875,25.830101,-80.245875,25.830101],
+  "bbox": [
+    -80.245875,
+    25.830101,
+    -80.245875,
+    25.830101
+],
   "geometry": {"coordinates":[-80.245875,25.830101],"type":"Point"}
 }

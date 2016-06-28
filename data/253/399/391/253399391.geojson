@@ -2,13 +2,14 @@
   "id": 253399391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51121,27.357797,-82.51121,27.357797",
     "geom:latitude":27.357797,
     "geom:longitude":-82.51121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Lockwood Meadows Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253399391,
-    "wof:lastmodified":1449063346,
+    "wof:lastmodified":1466433855,
     "wof:name":"Russells Screen Service",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.51121,27.357797,-82.51121,27.357797],
-  "geometry": {"coordinates":[-82.51121,27.357797],"type":"Point"}
+  "bbox": [
+    -82.51121,
+    27.357797,
+    -82.51121,
+    27.357797
+],
+  "geometry": {"coordinates":[-82.51121000000001,27.357797],"type":"Point"}
 }

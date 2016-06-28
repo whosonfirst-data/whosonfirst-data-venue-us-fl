@@ -2,13 +2,14 @@
   "id": 303637485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324049,25.792267,-80.324049,25.792267",
     "geom:latitude":25.792267,
     "geom:longitude":-80.324049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 NW 79th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303637485,
-    "wof:lastmodified":1448998117,
+    "wof:lastmodified":1466441497,
     "wof:name":"Global Container Line Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-80.324049,25.792267,-80.324049,25.792267],
+  "bbox": [
+    -80.324049,
+    25.792267,
+    -80.324049,
+    25.792267
+],
   "geometry": {"coordinates":[-80.324049,25.792267],"type":"Point"}
 }

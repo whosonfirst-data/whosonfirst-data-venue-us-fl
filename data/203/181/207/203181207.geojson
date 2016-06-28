@@ -2,13 +2,14 @@
   "id": 203181207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155223,26.023005,-80.155223,26.023005",
     "geom:latitude":26.023005,
     "geom:longitude":-80.155223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 N 24th Ave",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203181207,
-    "wof:lastmodified":1449026096,
+    "wof:lastmodified":1466428657,
     "wof:name":"Citro Label",
     "wof:parent_id":85878177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "label"
     ]
 },
-  "bbox": [-80.155223,26.023005,-80.155223,26.023005],
-  "geometry": {"coordinates":[-80.155223,26.023005],"type":"Point"}
+  "bbox": [
+    -80.155223,
+    26.023005,
+    -80.155223,
+    26.023005
+],
+  "geometry": {"coordinates":[-80.15522300000001,26.023005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403973615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.16778,26.144731,-80.16778,26.144731",
     "geom:latitude":26.144731,
     "geom:longitude":-80.16778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 NW 15th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403973615,
-    "wof:lastmodified":1449055448,
+    "wof:lastmodified":1466443896,
     "wof:name":"Bond Supply",
     "wof:parent_id":85877497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.16778,26.144731,-80.16778,26.144731],
-  "geometry": {"coordinates":[-80.16778,26.144731],"type":"Point"}
+  "bbox": [
+    -80.16778,
+    26.144731,
+    -80.16778,
+    26.144731
+],
+  "geometry": {"coordinates":[-80.16777999999999,26.144731],"type":"Point"}
 }

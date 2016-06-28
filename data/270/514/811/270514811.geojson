@@ -2,13 +2,14 @@
   "id": 270514811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739257,28.083833,-82.739257,28.083833",
     "geom:latitude":28.083833,
     "geom:longitude":-82.739257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34629 US Hwy 19 N",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270514811,
-    "wof:lastmodified":1449009866,
+    "wof:lastmodified":1466438269,
     "wof:name":"J David Emerson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.739257,28.083833,-82.739257,28.083833],
-  "geometry": {"coordinates":[-82.739257,28.083833],"type":"Point"}
+  "bbox": [
+    -82.739257,
+    28.083833,
+    -82.739257,
+    28.083833
+],
+  "geometry": {"coordinates":[-82.73925699999999,28.083833],"type":"Point"}
 }

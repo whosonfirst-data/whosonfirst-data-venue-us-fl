@@ -2,13 +2,14 @@
   "id": 219201713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313156,25.81519,-80.313156,25.81519",
     "geom:latitude":25.81519,
     "geom:longitude":-80.313156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6924 NW 46th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219201713,
-    "wof:lastmodified":1449073439,
+    "wof:lastmodified":1466444224,
     "wof:name":"Our Family Getaway Inc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.313156,25.81519,-80.313156,25.81519],
-  "geometry": {"coordinates":[-80.313156,25.81519],"type":"Point"}
+  "bbox": [
+    -80.313156,
+    25.81519,
+    -80.313156,
+    25.81519
+],
+  "geometry": {"coordinates":[-80.31315600000001,25.81519],"type":"Point"}
 }

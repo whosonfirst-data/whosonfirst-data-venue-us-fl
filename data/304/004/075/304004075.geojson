@@ -2,13 +2,14 @@
   "id": 304004075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.71729,26.48989,-81.71729,26.48989",
     "geom:latitude":26.48989,
     "geom:longitude":-81.71729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14341 Alico Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304004075,
-    "wof:lastmodified":1449043775,
+    "wof:lastmodified":1466431881,
     "wof:name":"Harper Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-81.71729,26.48989,-81.71729,26.48989],
-  "geometry": {"coordinates":[-81.71729,26.48989],"type":"Point"}
+  "bbox": [
+    -81.71729,
+    26.48989,
+    -81.71729,
+    26.48989
+],
+  "geometry": {"coordinates":[-81.71729000000001,26.48989],"type":"Point"}
 }

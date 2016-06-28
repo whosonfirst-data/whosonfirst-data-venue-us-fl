@@ -2,13 +2,14 @@
   "id": 186253581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384124,28.679664,-81.384124,28.679664",
     "geom:latitude":28.679664,
     "geom:longitude":-81.384124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Sheppard St",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186253581,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466429726,
     "wof:name":"Florida Shoe Co",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.384124,28.679664,-81.384124,28.679664],
+  "bbox": [
+    -81.384124,
+    28.679664,
+    -81.384124,
+    28.679664
+],
   "geometry": {"coordinates":[-81.384124,28.679664],"type":"Point"}
 }

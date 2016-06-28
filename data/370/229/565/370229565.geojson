@@ -2,13 +2,14 @@
   "id": 370229565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.774858,27.868501,-82.774858,27.868501",
     "geom:latitude":27.868501,
     "geom:longitude":-82.774858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10433 98th St N",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370229565,
-    "wof:lastmodified":1449031799,
+    "wof:lastmodified":1466437681,
     "wof:name":"Start Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-82.774858,27.868501,-82.774858,27.868501],
-  "geometry": {"coordinates":[-82.774858,27.868501],"type":"Point"}
+  "bbox": [
+    -82.774858,
+    27.868501,
+    -82.774858,
+    27.868501
+],
+  "geometry": {"coordinates":[-82.77485799999999,27.868501],"type":"Point"}
 }

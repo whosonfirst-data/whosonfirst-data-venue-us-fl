@@ -2,13 +2,14 @@
   "id": 303817281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388331,25.537005,-80.388331,25.537005",
     "geom:latitude":25.537005,
     "geom:longitude":-80.388331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24210 SW 122nd Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303817281,
-    "wof:lastmodified":1449000088,
+    "wof:lastmodified":1466444603,
     "wof:name":"Tropical Painting of Miami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.388331,25.537005,-80.388331,25.537005],
-  "geometry": {"coordinates":[-80.388331,25.537005],"type":"Point"}
+  "bbox": [
+    -80.388331,
+    25.537005,
+    -80.388331,
+    25.537005
+],
+  "geometry": {"coordinates":[-80.38833099999999,25.537005],"type":"Point"}
 }

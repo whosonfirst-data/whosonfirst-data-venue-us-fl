@@ -2,13 +2,14 @@
   "id": 219522859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724173,30.324565,-81.724173,30.324565",
     "geom:latitude":30.324565,
     "geom:longitude":-81.724173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Dignan St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219522859,
-    "wof:lastmodified":1449072072,
+    "wof:lastmodified":1466431808,
     "wof:name":"Florida Cold Storage",
     "wof:parent_id":85828967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-81.724173,30.324565,-81.724173,30.324565],
-  "geometry": {"coordinates":[-81.724173,30.324565],"type":"Point"}
+  "bbox": [
+    -81.724173,
+    30.324565,
+    -81.724173,
+    30.324565
+],
+  "geometry": {"coordinates":[-81.72417299999999,30.324565],"type":"Point"}
 }

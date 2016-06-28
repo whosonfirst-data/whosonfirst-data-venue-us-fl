@@ -2,13 +2,14 @@
   "id": 185723651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.845688,28.557468,-80.845688,28.557468",
     "geom:latitude":28.557468,
     "geom:longitude":-80.845688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4665 Cll Corto",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185723651,
-    "wof:lastmodified":1449007552,
+    "wof:lastmodified":1466445825,
     "wof:name":"Chet's Customer Cars",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.845688,28.557468,-80.845688,28.557468],
+  "bbox": [
+    -80.845688,
+    28.557468,
+    -80.845688,
+    28.557468
+],
   "geometry": {"coordinates":[-80.845688,28.557468],"type":"Point"}
 }

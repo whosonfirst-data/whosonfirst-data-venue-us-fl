@@ -2,13 +2,14 @@
   "id": 370381039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155628,28.689875,-81.155628,28.689875",
     "geom:latitude":28.689875,
     "geom:longitude":-81.155628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 Walsh St",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370381039,
-    "wof:lastmodified":1449029365,
+    "wof:lastmodified":1466440014,
     "wof:name":"Holbert Bridgman",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.155628,28.689875,-81.155628,28.689875],
-  "geometry": {"coordinates":[-81.155628,28.689875],"type":"Point"}
+  "bbox": [
+    -81.155628,
+    28.689875,
+    -81.155628,
+    28.689875
+],
+  "geometry": {"coordinates":[-81.15562799999999,28.689875],"type":"Point"}
 }

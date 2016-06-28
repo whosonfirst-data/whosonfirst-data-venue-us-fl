@@ -2,13 +2,14 @@
   "id": 236454729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.374535,25.801328,-80.374535,25.801328",
     "geom:latitude":25.801328,
     "geom:longitude":-80.374535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10913 NW 30th St",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236454729,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466434830,
     "wof:name":"Ab Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.374535,25.801328,-80.374535,25.801328],
-  "geometry": {"coordinates":[-80.374535,25.801328],"type":"Point"}
+  "bbox": [
+    -80.374535,
+    25.801328,
+    -80.374535,
+    25.801328
+],
+  "geometry": {"coordinates":[-80.37453499999999,25.801328],"type":"Point"}
 }

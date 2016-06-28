@@ -2,13 +2,14 @@
   "id": 303131163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.574944,26.270401,-81.574944,26.270401",
     "geom:latitude":26.270401,
     "geom:longitude":-81.574944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 22nd Ave NE",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303131163,
-    "wof:lastmodified":1448998854,
+    "wof:lastmodified":1466432773,
     "wof:name":"Naples Multimedia Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-81.574944,26.270401,-81.574944,26.270401],
+  "bbox": [
+    -81.574944,
+    26.270401,
+    -81.574944,
+    26.270401
+],
   "geometry": {"coordinates":[-81.574944,26.270401],"type":"Point"}
 }

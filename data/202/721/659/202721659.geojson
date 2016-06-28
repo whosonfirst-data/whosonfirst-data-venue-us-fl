@@ -2,13 +2,14 @@
   "id": 202721659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130446,26.169619,-80.130446,26.169619",
     "geom:latitude":26.169619,
     "geom:longitude":-80.130446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 NE 12th Ter",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202721659,
-    "wof:lastmodified":1449062638,
+    "wof:lastmodified":1466431255,
     "wof:name":"Sunshine Cleaning Systems",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.130446,26.169619,-80.130446,26.169619],
-  "geometry": {"coordinates":[-80.130446,26.169619],"type":"Point"}
+  "bbox": [
+    -80.130446,
+    26.169619,
+    -80.130446,
+    26.169619
+],
+  "geometry": {"coordinates":[-80.13044600000001,26.169619],"type":"Point"}
 }

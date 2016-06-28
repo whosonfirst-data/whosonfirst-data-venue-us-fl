@@ -2,13 +2,14 @@
   "id": 286325067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422261,27.299806,-82.422261,27.299806",
     "geom:latitude":27.299806,
     "geom:longitude":-82.422261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7623 Alister Mackenzie Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286325067,
-    "wof:lastmodified":1449016337,
+    "wof:lastmodified":1466430761,
     "wof:name":"Jones Potato Farm Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-82.422261,27.299806,-82.422261,27.299806],
-  "geometry": {"coordinates":[-82.422261,27.299806],"type":"Point"}
+  "bbox": [
+    -82.422261,
+    27.299806,
+    -82.422261,
+    27.299806
+],
+  "geometry": {"coordinates":[-82.42226100000001,27.299806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236193641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.977325,29.011032,-81.977325,29.011032",
     "geom:latitude":29.011032,
     "geom:longitude":-81.977325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10730 SE 145th St",
     "sg:city":"Summerfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236193641,
-    "wof:lastmodified":1449002077,
+    "wof:lastmodified":1466431131,
     "wof:name":"Shed Shaker",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.977325,29.011032,-81.977325,29.011032],
-  "geometry": {"coordinates":[-81.977325,29.011032],"type":"Point"}
+  "bbox": [
+    -81.977325,
+    29.011032,
+    -81.977325,
+    29.011032
+],
+  "geometry": {"coordinates":[-81.97732499999999,29.011032],"type":"Point"}
 }

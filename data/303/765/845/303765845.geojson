@@ -2,13 +2,14 @@
   "id": 303765845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.80034,26.392272,-81.80034,26.392272",
     "geom:latitude":26.392272,
     "geom:longitude":-81.80034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9152 Spring Run Blvd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303765845,
-    "wof:lastmodified":1448999534,
+    "wof:lastmodified":1466443731,
     "wof:name":"Silverbar Realty",
     "wof:parent_id":85812451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.80034,26.392272,-81.80034,26.392272],
-  "geometry": {"coordinates":[-81.80034,26.392272],"type":"Point"}
+  "bbox": [
+    -81.80034,
+    26.392272,
+    -81.80034,
+    26.392272
+],
+  "geometry": {"coordinates":[-81.80034000000001,26.392272],"type":"Point"}
 }

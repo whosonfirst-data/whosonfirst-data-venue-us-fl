@@ -2,13 +2,14 @@
   "id": 270095451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.39011,28.436003,-81.39011,28.436003",
     "geom:latitude":28.436003,
     "geom:longitude":-81.39011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Landstreet Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270095451,
-    "wof:lastmodified":1449009875,
+    "wof:lastmodified":1466431072,
     "wof:name":"Hydraulic House Inc",
     "wof:parent_id":85889431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-81.39011,28.436003,-81.39011,28.436003],
-  "geometry": {"coordinates":[-81.39011,28.436003],"type":"Point"}
+  "bbox": [
+    -81.39011,
+    28.436003,
+    -81.39011,
+    28.436003
+],
+  "geometry": {"coordinates":[-81.39011000000001,28.436003],"type":"Point"}
 }

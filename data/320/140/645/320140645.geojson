@@ -2,13 +2,14 @@
   "id": 320140645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.409258,25.476285,-80.409258,25.476285",
     "geom:latitude":25.476285,
     "geom:longitude":-80.409258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31250 SW 134th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320140645,
-    "wof:lastmodified":1449011794,
+    "wof:lastmodified":1466435799,
     "wof:name":"De LA Salle Educational Ctr",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-80.409258,25.476285,-80.409258,25.476285],
-  "geometry": {"coordinates":[-80.409258,25.476285],"type":"Point"}
+  "bbox": [
+    -80.409258,
+    25.476285,
+    -80.409258,
+    25.476285
+],
+  "geometry": {"coordinates":[-80.40925799999999,25.476285],"type":"Point"}
 }

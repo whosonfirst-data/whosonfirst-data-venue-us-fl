@@ -2,13 +2,14 @@
   "id": 353604959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121077,26.137943,-80.121077,26.137943",
     "geom:latitude":26.137943,
     "geom:longitude":-80.121077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353604959,
-    "wof:lastmodified":1449020508,
+    "wof:lastmodified":1466437889,
     "wof:name":"GNI Inc",
     "wof:parent_id":85877485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.121077,26.137943,-80.121077,26.137943],
+  "bbox": [
+    -80.121077,
+    26.137943,
+    -80.121077,
+    26.137943
+],
   "geometry": {"coordinates":[-80.121077,26.137943],"type":"Point"}
 }

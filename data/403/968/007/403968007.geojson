@@ -2,13 +2,14 @@
   "id": 403968007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.567175,28.063695,-82.567175,28.063695",
     "geom:latitude":28.063695,
     "geom:longitude":-82.567175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12785 Holloway Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403968007,
-    "wof:lastmodified":1449054717,
+    "wof:lastmodified":1466443809,
     "wof:name":"Smeltzer's Training Ctr",
     "wof:parent_id":85889759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "academy"
     ]
 },
-  "bbox": [-82.567175,28.063695,-82.567175,28.063695],
-  "geometry": {"coordinates":[-82.567175,28.063695],"type":"Point"}
+  "bbox": [
+    -82.567175,
+    28.063695,
+    -82.567175,
+    28.063695
+],
+  "geometry": {"coordinates":[-82.56717500000001,28.063695],"type":"Point"}
 }

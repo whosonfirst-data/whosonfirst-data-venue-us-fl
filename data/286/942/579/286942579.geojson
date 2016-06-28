@@ -2,13 +2,14 @@
   "id": 286942579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337257,25.833555,-80.337257,25.833555",
     "geom:latitude":25.833555,
     "geom:longitude":-80.337257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8669 NW 66th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286942579,
-    "wof:lastmodified":1449016530,
+    "wof:lastmodified":1466441666,
     "wof:name":"Galileo Optical Laboratory",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.337257,25.833555,-80.337257,25.833555],
-  "geometry": {"coordinates":[-80.337257,25.833555],"type":"Point"}
+  "bbox": [
+    -80.337257,
+    25.833555,
+    -80.337257,
+    25.833555
+],
+  "geometry": {"coordinates":[-80.33725699999999,25.833555],"type":"Point"}
 }

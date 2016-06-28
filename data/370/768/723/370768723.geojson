@@ -2,13 +2,14 @@
   "id": 370768723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459246,28.116736,-82.459246,28.116736",
     "geom:latitude":28.116736,
     "geom:longitude":-82.459246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Whitaker Rd",
     "sg:city":"Lutz",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370768723,
-    "wof:lastmodified":1449030387,
+    "wof:lastmodified":1466445978,
     "wof:name":"Fox Med Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-82.459246,28.116736,-82.459246,28.116736],
-  "geometry": {"coordinates":[-82.459246,28.116736],"type":"Point"}
+  "bbox": [
+    -82.459246,
+    28.116736,
+    -82.459246,
+    28.116736
+],
+  "geometry": {"coordinates":[-82.45924599999999,28.116736],"type":"Point"}
 }

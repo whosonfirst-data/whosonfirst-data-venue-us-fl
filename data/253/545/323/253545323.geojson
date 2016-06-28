@@ -2,13 +2,14 @@
   "id": 253545323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324941,25.796765,-80.324941,25.796765",
     "geom:latitude":25.796765,
     "geom:longitude":-80.324941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 NW 79th Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253545323,
-    "wof:lastmodified":1449063525,
+    "wof:lastmodified":1466436419,
     "wof:name":"Terminal Transport Inc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.324941,25.796765,-80.324941,25.796765],
+  "bbox": [
+    -80.324941,
+    25.796765,
+    -80.324941,
+    25.796765
+],
   "geometry": {"coordinates":[-80.324941,25.796765],"type":"Point"}
 }

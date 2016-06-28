@@ -2,13 +2,14 @@
   "id": 169785177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328764,26.000673,-80.328764,26.000673",
     "geom:latitude":26.000673,
     "geom:longitude":-80.328764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SW 137th Ave",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169785177,
-    "wof:lastmodified":1449035399,
+    "wof:lastmodified":1466428855,
     "wof:name":"First Shomrim of Florida",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.328764,26.000673,-80.328764,26.000673],
-  "geometry": {"coordinates":[-80.328764,26.000673],"type":"Point"}
+  "bbox": [
+    -80.328764,
+    26.000673,
+    -80.328764,
+    26.000673
+],
+  "geometry": {"coordinates":[-80.32876400000001,26.000673],"type":"Point"}
 }

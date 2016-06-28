@@ -2,13 +2,14 @@
   "id": 286782635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.35953,28.712011,-81.35953,28.712011",
     "geom:latitude":28.712011,
     "geom:longitude":-81.35953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Heather Ave",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286782635,
-    "wof:lastmodified":1449015152,
+    "wof:lastmodified":1466438812,
     "wof:name":"Reyntech",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.35953,28.712011,-81.35953,28.712011],
-  "geometry": {"coordinates":[-81.35953,28.712011],"type":"Point"}
+  "bbox": [
+    -81.35953,
+    28.712011,
+    -81.35953,
+    28.712011
+],
+  "geometry": {"coordinates":[-81.35953000000001,28.712011],"type":"Point"}
 }

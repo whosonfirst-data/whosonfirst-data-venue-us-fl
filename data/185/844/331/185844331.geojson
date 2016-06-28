@@ -2,13 +2,14 @@
   "id": 185844331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.263246,29.081083,-82.263246,29.081083",
     "geom:latitude":29.081083,
     "geom:longitude":-82.263246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 SW 99th Street Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185844331,
-    "wof:lastmodified":1449007291,
+    "wof:lastmodified":1466429437,
     "wof:name":"Supervisor Of Elections",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.263246,29.081083,-82.263246,29.081083],
+  "bbox": [
+    -82.263246,
+    29.081083,
+    -82.263246,
+    29.081083
+],
   "geometry": {"coordinates":[-82.263246,29.081083],"type":"Point"}
 }

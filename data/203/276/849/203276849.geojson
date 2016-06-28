@@ -2,13 +2,14 @@
   "id": 203276849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.615702,30.261217,-81.615702,30.261217",
     "geom:latitude":30.261217,
     "geom:longitude":-81.615702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Gordon St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203276849,
-    "wof:lastmodified":1449025020,
+    "wof:lastmodified":1466429880,
     "wof:name":"Pacer Cartage",
     "wof:parent_id":85818119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.615702,30.261217,-81.615702,30.261217],
+  "bbox": [
+    -81.615702,
+    30.261217,
+    -81.615702,
+    30.261217
+],
   "geometry": {"coordinates":[-81.615702,30.261217],"type":"Point"}
 }

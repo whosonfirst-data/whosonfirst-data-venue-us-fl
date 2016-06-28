@@ -2,13 +2,14 @@
   "id": 169626767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.597479,30.327541,-81.597479,30.327541",
     "geom:latitude":30.327541,
     "geom:longitude":-81.597479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Arlington Expy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169626767,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466443459,
     "wof:name":"EEO Office",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.597479,30.327541,-81.597479,30.327541],
-  "geometry": {"coordinates":[-81.597479,30.327541],"type":"Point"}
+  "bbox": [
+    -81.597479,
+    30.327541,
+    -81.597479,
+    30.327541
+],
+  "geometry": {"coordinates":[-81.59747900000001,30.327541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286638177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.50244,28.493617,-81.50244,28.493617",
     "geom:latitude":28.493617,
     "geom:longitude":-81.50244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8815 Conroy Windermere Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286638177,
-    "wof:lastmodified":1449015333,
+    "wof:lastmodified":1466436225,
     "wof:name":"Anglo Investments",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.50244,28.493617,-81.50244,28.493617],
-  "geometry": {"coordinates":[-81.50244,28.493617],"type":"Point"}
+  "bbox": [
+    -81.50244,
+    28.493617,
+    -81.50244,
+    28.493617
+],
+  "geometry": {"coordinates":[-81.50244000000001,28.493617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387664529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.311939,29.896241,-81.311939,29.896241",
     "geom:latitude":29.896241,
     "geom:longitude":-81.311939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Charlotte St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387664529,
-    "wof:lastmodified":1449057509,
+    "wof:lastmodified":1466447934,
     "wof:name":"Secret In The Garden Inn",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-81.311939,29.896241,-81.311939,29.896241],
+  "bbox": [
+    -81.311939,
+    29.896241,
+    -81.311939,
+    29.896241
+],
   "geometry": {"coordinates":[-81.311939,29.896241],"type":"Point"}
 }

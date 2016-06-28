@@ -2,13 +2,14 @@
   "id": 270255959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732588,30.309264,-81.732588,30.309264",
     "geom:latitude":30.309264,
     "geom:longitude":-81.732588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5049 Normandy Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270255959,
-    "wof:lastmodified":1449009742,
+    "wof:lastmodified":1466433837,
     "wof:name":"Dunn Pawn",
     "wof:parent_id":85870735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-81.732588,30.309264,-81.732588,30.309264],
-  "geometry": {"coordinates":[-81.732588,30.309264],"type":"Point"}
+  "bbox": [
+    -81.732588,
+    30.309264,
+    -81.732588,
+    30.309264
+],
+  "geometry": {"coordinates":[-81.73258800000001,30.309264],"type":"Point"}
 }

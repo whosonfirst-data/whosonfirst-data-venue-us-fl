@@ -2,13 +2,14 @@
   "id": 286265615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.741825,30.438059,-81.741825,30.438059",
     "geom:latitude":30.438059,
     "geom:longitude":-81.741825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Dunn Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286265615,
-    "wof:lastmodified":1449016189,
+    "wof:lastmodified":1466429717,
     "wof:name":"Dunn Avenue Coin Laundry",
     "wof:parent_id":85821005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-81.741825,30.438059,-81.741825,30.438059],
-  "geometry": {"coordinates":[-81.741825,30.438059],"type":"Point"}
+  "bbox": [
+    -81.741825,
+    30.438059,
+    -81.741825,
+    30.438059
+],
+  "geometry": {"coordinates":[-81.74182500000001,30.438059],"type":"Point"}
 }

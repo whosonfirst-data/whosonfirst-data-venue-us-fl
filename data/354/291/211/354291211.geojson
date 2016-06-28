@@ -2,13 +2,14 @@
   "id": 354291211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.959483,30.470903,-85.959483,30.470903",
     "geom:latitude":30.470903,
     "geom:longitude":-85.959483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10420 State Hwy 20",
     "sg:city":"Ponce De Leon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354291211,
-    "wof:lastmodified":1449066426,
+    "wof:lastmodified":1466440557,
     "wof:name":"Bruce Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.959483,30.470903,-85.959483,30.470903],
-  "geometry": {"coordinates":[-85.959483,30.470903],"type":"Point"}
+  "bbox": [
+    -85.959483,
+    30.470903,
+    -85.959483,
+    30.470903
+],
+  "geometry": {"coordinates":[-85.95948300000001,30.470903],"type":"Point"}
 }

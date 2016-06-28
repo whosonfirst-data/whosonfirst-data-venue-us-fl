@@ -2,13 +2,14 @@
   "id": 387250661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31692,25.806179,-80.31692,25.806179",
     "geom:latitude":25.806179,
     "geom:longitude":-80.31692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7335 NW 35th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387250661,
-    "wof:lastmodified":1449058275,
+    "wof:lastmodified":1466442561,
     "wof:name":"Todo Foto",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-80.31692,25.806179,-80.31692,25.806179],
+  "bbox": [
+    -80.31692,
+    25.806179,
+    -80.31692,
+    25.806179
+],
   "geometry": {"coordinates":[-80.31692,25.806179],"type":"Point"}
 }

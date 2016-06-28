@@ -2,13 +2,14 @@
   "id": 286343573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289589,28.773196,-81.289589,28.773196",
     "geom:latitude":28.773196,
     "geom:longitude":-81.289589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 W Airport Blvd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286343573,
-    "wof:lastmodified":1449017274,
+    "wof:lastmodified":1466431083,
     "wof:name":"Smokers Express",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-81.289589,28.773196,-81.289589,28.773196],
-  "geometry": {"coordinates":[-81.289589,28.773196],"type":"Point"}
+  "bbox": [
+    -81.289589,
+    28.773196,
+    -81.289589,
+    28.773196
+],
+  "geometry": {"coordinates":[-81.28958900000001,28.773196],"type":"Point"}
 }

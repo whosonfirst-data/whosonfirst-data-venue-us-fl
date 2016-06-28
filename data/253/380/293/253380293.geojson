@@ -2,13 +2,14 @@
   "id": 253380293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705919,28.17795,-82.705919,28.17795",
     "geom:latitude":28.17795,
     "geom:longitude":-82.705919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Ridge Top Dr",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253380293,
-    "wof:lastmodified":1449064190,
+    "wof:lastmodified":1466433520,
     "wof:name":"Fabtech Products Inc",
     "wof:parent_id":85889249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.705919,28.17795,-82.705919,28.17795],
-  "geometry": {"coordinates":[-82.705919,28.17795],"type":"Point"}
+  "bbox": [
+    -82.705919,
+    28.17795,
+    -82.705919,
+    28.17795
+],
+  "geometry": {"coordinates":[-82.70591899999999,28.17795],"type":"Point"}
 }

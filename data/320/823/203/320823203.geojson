@@ -2,13 +2,14 @@
   "id": 320823203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.680473,28.858338,-81.680473,28.858338",
     "geom:latitude":28.858338,
     "geom:longitude":-81.680473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Bates Ave",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320823203,
-    "wof:lastmodified":1449014931,
+    "wof:lastmodified":1466447081,
     "wof:name":"Courtyard Antiques",
     "wof:parent_id":85888779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.680473,28.858338,-81.680473,28.858338],
-  "geometry": {"coordinates":[-81.680473,28.858338],"type":"Point"}
+  "bbox": [
+    -81.680473,
+    28.858338,
+    -81.680473,
+    28.858338
+],
+  "geometry": {"coordinates":[-81.68047300000001,28.858338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303405045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18183,26.323101,-80.18183,26.323101",
     "geom:latitude":26.323101,
     "geom:longitude":-80.18183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 NW 74th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303405045,
-    "wof:lastmodified":1449000365,
+    "wof:lastmodified":1466437506,
     "wof:name":"Pro Courts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "court"
     ]
 },
-  "bbox": [-80.18183,26.323101,-80.18183,26.323101],
-  "geometry": {"coordinates":[-80.18183,26.323101],"type":"Point"}
+  "bbox": [
+    -80.18183,
+    26.323101,
+    -80.18183,
+    26.323101
+],
+  "geometry": {"coordinates":[-80.18183000000001,26.323101],"type":"Point"}
 }

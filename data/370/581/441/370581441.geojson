@@ -2,13 +2,14 @@
   "id": 370581441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328941,25.793021,-80.328941,25.793021",
     "geom:latitude":25.793021,
     "geom:longitude":-80.328941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 NW 82nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370581441,
-    "wof:lastmodified":1449029807,
+    "wof:lastmodified":1466443093,
     "wof:name":"Par Ser Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.328941,25.793021,-80.328941,25.793021],
+  "bbox": [
+    -80.328941,
+    25.793021,
+    -80.328941,
+    25.793021
+],
   "geometry": {"coordinates":[-80.328941,25.793021],"type":"Point"}
 }

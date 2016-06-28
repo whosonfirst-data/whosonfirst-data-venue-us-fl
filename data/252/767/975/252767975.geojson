@@ -2,13 +2,14 @@
   "id": 252767975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.532012,27.336392,-82.532012,27.336392",
     "geom:latitude":27.336392,
     "geom:longitude":-82.532012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 Main St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252767975,
-    "wof:lastmodified":1449005734,
+    "wof:lastmodified":1466429293,
     "wof:name":"Mediterraneo",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.532012,27.336392,-82.532012,27.336392],
-  "geometry": {"coordinates":[-82.532012,27.336392],"type":"Point"}
+  "bbox": [
+    -82.532012,
+    27.336392,
+    -82.532012,
+    27.336392
+],
+  "geometry": {"coordinates":[-82.53201199999999,27.336392],"type":"Point"}
 }

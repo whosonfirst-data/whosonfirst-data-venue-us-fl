@@ -2,13 +2,14 @@
   "id": 336655797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135337,26.707325,-80.135337,26.707325",
     "geom:latitude":26.707325,
     "geom:longitude":-80.135337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6076 Okeechobee Rd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336655797,
-    "wof:lastmodified":1448997554,
+    "wof:lastmodified":1466435944,
     "wof:name":"Brooklyn's Italian Restaurant",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.135337,26.707325,-80.135337,26.707325],
-  "geometry": {"coordinates":[-80.135337,26.707325],"type":"Point"}
+  "bbox": [
+    -80.135337,
+    26.707325,
+    -80.135337,
+    26.707325
+],
+  "geometry": {"coordinates":[-80.13533700000001,26.707325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370659149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386829,27.105379,-82.386829,27.105379",
     "geom:latitude":27.105379,
     "geom:longitude":-82.386829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Grand Oak Cir",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370659149,
-    "wof:lastmodified":1449029451,
+    "wof:lastmodified":1466444273,
     "wof:name":"Cs Heating Cooling",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.386829,27.105379,-82.386829,27.105379],
-  "geometry": {"coordinates":[-82.386829,27.105379],"type":"Point"}
+  "bbox": [
+    -82.386829,
+    27.105379,
+    -82.386829,
+    27.105379
+],
+  "geometry": {"coordinates":[-82.38682900000001,27.105379],"type":"Point"}
 }

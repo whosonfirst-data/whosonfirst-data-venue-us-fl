@@ -2,13 +2,14 @@
   "id": 220125421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502766,28.721353,-81.502766,28.721353",
     "geom:latitude":28.721353,
     "geom:longitude":-81.502766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2553 Valerie Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220125421,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466428574,
     "wof:name":"TLC Convention Plant Svc",
     "wof:parent_id":85888545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-81.502766,28.721353,-81.502766,28.721353],
-  "geometry": {"coordinates":[-81.502766,28.721353],"type":"Point"}
+  "bbox": [
+    -81.502766,
+    28.721353,
+    -81.502766,
+    28.721353
+],
+  "geometry": {"coordinates":[-81.50276599999999,28.721353],"type":"Point"}
 }

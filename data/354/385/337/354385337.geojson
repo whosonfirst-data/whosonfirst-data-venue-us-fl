@@ -2,13 +2,14 @@
   "id": 354385337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099741,26.318452,-80.099741,26.318452",
     "geom:latitude":26.318452,
     "geom:longitude":-80.099741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 NE 2nd Ave",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354385337,
-    "wof:lastmodified":1449066959,
+    "wof:lastmodified":1466441987,
     "wof:name":"A-1 Vacuum Sales & Service",
     "wof:parent_id":85809697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-80.099741,26.318452,-80.099741,26.318452],
-  "geometry": {"coordinates":[-80.099741,26.318452],"type":"Point"}
+  "bbox": [
+    -80.099741,
+    26.318452,
+    -80.099741,
+    26.318452
+],
+  "geometry": {"coordinates":[-80.09974099999999,26.318452],"type":"Point"}
 }

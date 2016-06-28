@@ -2,13 +2,14 @@
   "id": 304013669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593663,30.20597,-81.593663,30.20597",
     "geom:latitude":30.20597,
     "geom:longitude":-81.593663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4686 Sunbeam Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304013669,
-    "wof:lastmodified":1449044000,
+    "wof:lastmodified":1466432041,
     "wof:name":"Providence Homes Inc",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [-81.593663,30.20597,-81.593663,30.20597],
-  "geometry": {"coordinates":[-81.593663,30.20597],"type":"Point"}
+  "bbox": [
+    -81.593663,
+    30.20597,
+    -81.593663,
+    30.20597
+],
+  "geometry": {"coordinates":[-81.59366300000001,30.20597],"type":"Point"}
 }

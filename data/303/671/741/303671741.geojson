@@ -2,13 +2,14 @@
   "id": 303671741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22321,25.995189,-80.22321,25.995189",
     "geom:latitude":25.995189,
     "geom:longitude":-80.22321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6810 Pembroke Rd",
     "sg:city":"Miramar",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303671741,
-    "wof:lastmodified":1448998675,
+    "wof:lastmodified":1466442097,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85878191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.22321,25.995189,-80.22321,25.995189],
-  "geometry": {"coordinates":[-80.22321,25.995189],"type":"Point"}
+  "bbox": [
+    -80.22321,
+    25.995189,
+    -80.22321,
+    25.995189
+],
+  "geometry": {"coordinates":[-80.22320999999999,25.995189],"type":"Point"}
 }

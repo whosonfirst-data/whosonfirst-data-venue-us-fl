@@ -2,13 +2,14 @@
   "id": 353498227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.255606,30.508843,-87.255606,30.508843",
     "geom:latitude":30.508843,
     "geom:longitude":-87.255606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Olive Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353498227,
-    "wof:lastmodified":1449020195,
+    "wof:lastmodified":1466436115,
     "wof:name":"Cemex",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-87.255606,30.508843,-87.255606,30.508843],
+  "bbox": [
+    -87.255606,
+    30.508843,
+    -87.255606,
+    30.508843
+],
   "geometry": {"coordinates":[-87.255606,30.508843],"type":"Point"}
 }

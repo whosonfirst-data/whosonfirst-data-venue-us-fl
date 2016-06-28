@@ -2,13 +2,14 @@
   "id": 203105605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.672328,28.217144,-82.672328,28.217144",
     "geom:latitude":28.217144,
     "geom:longitude":-82.672328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8605 Old Co Rd 54",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203105605,
-    "wof:lastmodified":1449025641,
+    "wof:lastmodified":1466445318,
     "wof:name":"Fishel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.672328,28.217144,-82.672328,28.217144],
-  "geometry": {"coordinates":[-82.672328,28.217144],"type":"Point"}
+  "bbox": [
+    -82.672328,
+    28.217144,
+    -82.672328,
+    28.217144
+],
+  "geometry": {"coordinates":[-82.67232799999999,28.217144],"type":"Point"}
 }

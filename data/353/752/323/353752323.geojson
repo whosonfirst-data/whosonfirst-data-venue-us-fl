@@ -2,13 +2,14 @@
   "id": 353752323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199333,25.808059,-80.199333,25.808059",
     "geom:latitude":25.808059,
     "geom:longitude":-80.199333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NW 34th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353752323,
-    "wof:lastmodified":1449018667,
+    "wof:lastmodified":1466440199,
     "wof:name":"Roberto Clemente Park",
     "wof:parent_id":85869827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.199333,25.808059,-80.199333,25.808059],
+  "bbox": [
+    -80.199333,
+    25.808059,
+    -80.199333,
+    25.808059
+],
   "geometry": {"coordinates":[-80.199333,25.808059],"type":"Point"}
 }

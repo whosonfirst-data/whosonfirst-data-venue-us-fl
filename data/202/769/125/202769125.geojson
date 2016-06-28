@@ -2,13 +2,14 @@
   "id": 202769125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.754035,28.150875,-82.754035,28.150875",
     "geom:latitude":28.150875,
     "geom:longitude":-82.754035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Pine St",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202769125,
-    "wof:lastmodified":1449060953,
+    "wof:lastmodified":1466431865,
     "wof:name":"Tarpon Springs Sewage Plant",
     "wof:parent_id":85889829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.754035,28.150875,-82.754035,28.150875],
+  "bbox": [
+    -82.754035,
+    28.150875,
+    -82.754035,
+    28.150875
+],
   "geometry": {"coordinates":[-82.754035,28.150875],"type":"Point"}
 }

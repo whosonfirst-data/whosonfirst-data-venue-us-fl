@@ -2,13 +2,14 @@
   "id": 202593473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.766726,26.152409,-81.766726,26.152409",
     "geom:latitude":26.152409,
     "geom:longitude":-81.766726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Airport Pulling Rd S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202593473,
-    "wof:lastmodified":1449061766,
+    "wof:lastmodified":1466429598,
     "wof:name":"Treatment Works",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drug"
     ]
 },
-  "bbox": [-81.766726,26.152409,-81.766726,26.152409],
-  "geometry": {"coordinates":[-81.766726,26.152409],"type":"Point"}
+  "bbox": [
+    -81.766726,
+    26.152409,
+    -81.766726,
+    26.152409
+],
+  "geometry": {"coordinates":[-81.76672600000001,26.152409],"type":"Point"}
 }

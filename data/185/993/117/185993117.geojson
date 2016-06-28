@@ -2,13 +2,14 @@
   "id": 185993117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.607616,30.410509,-86.607616,30.410509",
     "geom:latitude":30.410509,
     "geom:longitude":-86.607616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Carson Dr SE",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185993117,
-    "wof:lastmodified":1449007326,
+    "wof:lastmodified":1466431008,
     "wof:name":"Recreation Centre",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-86.607616,30.410509,-86.607616,30.410509],
-  "geometry": {"coordinates":[-86.607616,30.410509],"type":"Point"}
+  "bbox": [
+    -86.607616,
+    30.410509,
+    -86.607616,
+    30.410509
+],
+  "geometry": {"coordinates":[-86.60761599999999,30.410509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320390311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.294632,28.581378,-81.294632,28.581378",
     "geom:latitude":28.581378,
     "geom:longitude":-81.294632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 N Forsyth Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320390311,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466440067,
     "wof:name":"Lea Sametric Inc",
     "wof:parent_id":85889323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "datum"
     ]
 },
-  "bbox": [-81.294632,28.581378,-81.294632,28.581378],
-  "geometry": {"coordinates":[-81.294632,28.581378],"type":"Point"}
+  "bbox": [
+    -81.294632,
+    28.581378,
+    -81.294632,
+    28.581378
+],
+  "geometry": {"coordinates":[-81.29463199999999,28.581378],"type":"Point"}
 }

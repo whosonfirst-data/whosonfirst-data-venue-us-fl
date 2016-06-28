@@ -2,13 +2,14 @@
   "id": 303571529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.319707,30.509435,-84.319707,30.509435",
     "geom:latitude":30.509435,
     "geom:longitude":-84.319707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4113 Alpine Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303571529,
-    "wof:lastmodified":1448999786,
+    "wof:lastmodified":1466440376,
     "wof:name":"Royce L Landrum",
     "wof:parent_id":85881361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-84.319707,30.509435,-84.319707,30.509435],
-  "geometry": {"coordinates":[-84.319707,30.509435],"type":"Point"}
+  "bbox": [
+    -84.319707,
+    30.509435,
+    -84.319707,
+    30.509435
+],
+  "geometry": {"coordinates":[-84.31970699999999,30.509435],"type":"Point"}
 }

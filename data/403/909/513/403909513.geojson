@@ -2,13 +2,14 @@
   "id": 403909513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.731355,28.009444,-82.731355,28.009444",
     "geom:latitude":28.009444,
     "geom:longitude":-82.731355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26111 US Hwy 19",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403909513,
-    "wof:lastmodified":1449055627,
+    "wof:lastmodified":1466442870,
     "wof:name":"TGI Fridays",
     "wof:parent_id":85888653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-82.731355,28.009444,-82.731355,28.009444],
-  "geometry": {"coordinates":[-82.731355,28.009444],"type":"Point"}
+  "bbox": [
+    -82.731355,
+    28.009444,
+    -82.731355,
+    28.009444
+],
+  "geometry": {"coordinates":[-82.73135499999999,28.009444],"type":"Point"}
 }

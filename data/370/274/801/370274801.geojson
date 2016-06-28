@@ -2,13 +2,14 @@
   "id": 370274801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546816,27.415149,-82.546816,27.415149",
     "geom:latitude":27.415149,
     "geom:longitude":-82.546816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7070 15th St E",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370274801,
-    "wof:lastmodified":1449029507,
+    "wof:lastmodified":1466438379,
     "wof:name":"Marine Surplus",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.546816,27.415149,-82.546816,27.415149],
-  "geometry": {"coordinates":[-82.546816,27.415149],"type":"Point"}
+  "bbox": [
+    -82.546816,
+    27.415149,
+    -82.546816,
+    27.415149
+],
+  "geometry": {"coordinates":[-82.54681600000001,27.415149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320732493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146447,26.549083,-80.146447,26.549083",
     "geom:latitude":26.549083,
     "geom:longitude":-80.146447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Windy Cir",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320732493,
-    "wof:lastmodified":1449015077,
+    "wof:lastmodified":1466446046,
     "wof:name":"S&C Sales Inc",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-80.146447,26.549083,-80.146447,26.549083],
-  "geometry": {"coordinates":[-80.146447,26.549083],"type":"Point"}
+  "bbox": [
+    -80.146447,
+    26.549083,
+    -80.146447,
+    26.549083
+],
+  "geometry": {"coordinates":[-80.14644699999999,26.549083],"type":"Point"}
 }

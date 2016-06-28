@@ -2,13 +2,14 @@
   "id": 269755521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524211,27.955824,-82.524211,27.955824",
     "geom:latitude":27.955824,
     "geom:longitude":-82.524211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 N West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269755521,
-    "wof:lastmodified":1449036842,
+    "wof:lastmodified":1466433309,
     "wof:name":"Venta Realty",
     "wof:parent_id":85889687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.524211,27.955824,-82.524211,27.955824],
-  "geometry": {"coordinates":[-82.524211,27.955824],"type":"Point"}
+  "bbox": [
+    -82.524211,
+    27.955824,
+    -82.524211,
+    27.955824
+],
+  "geometry": {"coordinates":[-82.52421099999999,27.955824],"type":"Point"}
 }

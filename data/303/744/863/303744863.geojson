@@ -2,13 +2,14 @@
   "id": 303744863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.827098,27.982058,-82.827098,27.982058",
     "geom:latitude":27.982058,
     "geom:longitude":-82.827098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Baymont St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303744863,
-    "wof:lastmodified":1448999001,
+    "wof:lastmodified":1466443379,
     "wof:name":"Beach Barber",
     "wof:parent_id":85888693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.827098,27.982058,-82.827098,27.982058],
-  "geometry": {"coordinates":[-82.827098,27.982058],"type":"Point"}
+  "bbox": [
+    -82.827098,
+    27.982058,
+    -82.827098,
+    27.982058
+],
+  "geometry": {"coordinates":[-82.82709800000001,27.982058],"type":"Point"}
 }

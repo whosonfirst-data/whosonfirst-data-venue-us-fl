@@ -2,13 +2,14 @@
   "id": 387625191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.675264,28.235172,-80.675264,28.235172",
     "geom:latitude":28.235172,
     "geom:longitude":-80.675264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6470 US Hwy 1",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387625191,
-    "wof:lastmodified":1449059980,
+    "wof:lastmodified":1466447601,
     "wof:name":"Cat Doctor",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.675264,28.235172,-80.675264,28.235172],
+  "bbox": [
+    -80.675264,
+    28.235172,
+    -80.675264,
+    28.235172
+],
   "geometry": {"coordinates":[-80.675264,28.235172],"type":"Point"}
 }

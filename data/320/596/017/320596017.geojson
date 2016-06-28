@@ -2,13 +2,14 @@
   "id": 320596017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.536218,27.958768,-82.536218,27.958768",
     "geom:latitude":27.958768,
     "geom:longitude":-82.536218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 E Frontage Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320596017,
-    "wof:lastmodified":1449013169,
+    "wof:lastmodified":1466443725,
     "wof:name":"Concourse Cafe",
     "wof:parent_id":85889687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.536218,27.958768,-82.536218,27.958768],
-  "geometry": {"coordinates":[-82.536218,27.958768],"type":"Point"}
+  "bbox": [
+    -82.536218,
+    27.958768,
+    -82.536218,
+    27.958768
+],
+  "geometry": {"coordinates":[-82.53621800000001,27.958768],"type":"Point"}
 }

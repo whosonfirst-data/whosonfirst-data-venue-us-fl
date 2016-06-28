@@ -2,13 +2,14 @@
   "id": 219827697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137302,25.86073,-80.137302,25.86073",
     "geom:latitude":25.86073,
     "geom:longitude":-80.137302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Shore Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219827697,
-    "wof:lastmodified":1449071656,
+    "wof:lastmodified":1466435840,
     "wof:name":"Tommy Tile",
     "wof:parent_id":85837109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.137302,25.86073,-80.137302,25.86073],
-  "geometry": {"coordinates":[-80.137302,25.86073],"type":"Point"}
+  "bbox": [
+    -80.137302,
+    25.86073,
+    -80.137302,
+    25.86073
+],
+  "geometry": {"coordinates":[-80.13730200000001,25.86073],"type":"Point"}
 }

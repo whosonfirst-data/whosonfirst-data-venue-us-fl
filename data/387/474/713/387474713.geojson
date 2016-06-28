@@ -2,13 +2,14 @@
   "id": 387474713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.465139,25.543835,-80.465139,25.543835",
     "geom:latitude":25.543835,
     "geom:longitude":-80.465139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23950 SW 169th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387474713,
-    "wof:lastmodified":1449056279,
+    "wof:lastmodified":1466445984,
     "wof:name":"McKenzie Construction",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.465139,25.543835,-80.465139,25.543835],
-  "geometry": {"coordinates":[-80.465139,25.543835],"type":"Point"}
+  "bbox": [
+    -80.465139,
+    25.543835,
+    -80.465139,
+    25.543835
+],
+  "geometry": {"coordinates":[-80.46513899999999,25.543835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286590913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.77648,26.186959,-81.77648,26.186959",
     "geom:latitude":26.186959,
     "geom:longitude":-81.77648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3536 Santiago Way",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286590913,
-    "wof:lastmodified":1449016947,
+    "wof:lastmodified":1466435378,
     "wof:name":"Diego Occhiuzzo Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.77648,26.186959,-81.77648,26.186959],
-  "geometry": {"coordinates":[-81.77648,26.186959],"type":"Point"}
+  "bbox": [
+    -81.77648,
+    26.186959,
+    -81.77648,
+    26.186959
+],
+  "geometry": {"coordinates":[-81.77648000000001,26.186959],"type":"Point"}
 }

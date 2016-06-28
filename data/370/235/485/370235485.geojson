@@ -2,13 +2,14 @@
   "id": 370235485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.01654,24.733576,-81.01654,24.733576",
     "geom:latitude":24.733576,
     "geom:longitude":-81.01654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13365 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370235485,
-    "wof:lastmodified":1449029675,
+    "wof:lastmodified":1466437775,
     "wof:name":"Marc Matarazzo MD",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.01654,24.733576,-81.01654,24.733576],
-  "geometry": {"coordinates":[-81.01654,24.733576],"type":"Point"}
+  "bbox": [
+    -81.01654,
+    24.733576,
+    -81.01654,
+    24.733576
+],
+  "geometry": {"coordinates":[-81.01654000000001,24.733576],"type":"Point"}
 }

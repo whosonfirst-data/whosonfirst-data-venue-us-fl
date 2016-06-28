@@ -2,13 +2,14 @@
   "id": 252721299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.461419,27.340546,-82.461419,27.340546",
     "geom:latitude":27.340546,
     "geom:longitude":-82.461419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Southerly Way",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252721299,
-    "wof:lastmodified":1449006511,
+    "wof:lastmodified":1466428626,
     "wof:name":"SVC Cleaning Svc Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.461419,27.340546,-82.461419,27.340546],
-  "geometry": {"coordinates":[-82.461419,27.340546],"type":"Point"}
+  "bbox": [
+    -82.461419,
+    27.340546,
+    -82.461419,
+    27.340546
+],
+  "geometry": {"coordinates":[-82.46141900000001,27.340546],"type":"Point"}
 }

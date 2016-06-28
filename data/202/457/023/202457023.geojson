@@ -2,13 +2,14 @@
   "id": 202457023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096288,26.284598,-80.096288,26.284598",
     "geom:latitude":26.284598,
     "geom:longitude":-80.096288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N Federal Hwy",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202457023,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466445025,
     "wof:name":"Empire Club",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.096288,26.284598,-80.096288,26.284598],
+  "bbox": [
+    -80.096288,
+    26.284598,
+    -80.096288,
+    26.284598
+],
   "geometry": {"coordinates":[-80.096288,26.284598],"type":"Point"}
 }

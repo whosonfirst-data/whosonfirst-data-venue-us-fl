@@ -2,13 +2,14 @@
   "id": 253599811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.504686,28.481565,-81.504686,28.481565",
     "geom:latitude":28.481565,
     "geom:longitude":-81.504686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8735 Bay Ridge Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253599811,
-    "wof:lastmodified":1449064195,
+    "wof:lastmodified":1466437413,
     "wof:name":"Glass Concepts",
     "wof:parent_id":85889429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-81.504686,28.481565,-81.504686,28.481565],
-  "geometry": {"coordinates":[-81.504686,28.481565],"type":"Point"}
+  "bbox": [
+    -81.504686,
+    28.481565,
+    -81.504686,
+    28.481565
+],
+  "geometry": {"coordinates":[-81.50468600000001,28.481565],"type":"Point"}
 }

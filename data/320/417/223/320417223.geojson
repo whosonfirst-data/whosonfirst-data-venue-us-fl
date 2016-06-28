@@ -2,13 +2,14 @@
   "id": 320417223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.916181,28.846871,-81.916181,28.846871",
     "geom:latitude":28.846871,
     "geom:longitude":-81.916181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Urick St",
     "sg:city":"Fruitland Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320417223,
-    "wof:lastmodified":1449012796,
+    "wof:lastmodified":1466440545,
     "wof:name":"Fruitland Acres Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.916181,28.846871,-81.916181,28.846871],
-  "geometry": {"coordinates":[-81.916181,28.846871],"type":"Point"}
+  "bbox": [
+    -81.916181,
+    28.846871,
+    -81.916181,
+    28.846871
+],
+  "geometry": {"coordinates":[-81.91618099999999,28.846871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387752925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310519,28.529169,-81.310519,28.529169",
     "geom:latitude":28.529169,
     "geom:longitude":-81.310519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 S Semoran Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387752925,
-    "wof:lastmodified":1449056738,
+    "wof:lastmodified":1466448717,
     "wof:name":"HNCM Medical",
     "wof:parent_id":85879497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.310519,28.529169,-81.310519,28.529169],
+  "bbox": [
+    -81.310519,
+    28.529169,
+    -81.310519,
+    28.529169
+],
   "geometry": {"coordinates":[-81.310519,28.529169],"type":"Point"}
 }

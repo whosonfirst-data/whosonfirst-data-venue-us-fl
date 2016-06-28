@@ -2,13 +2,14 @@
   "id": 286391537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337032,25.688719,-80.337032,25.688719",
     "geom:latitude":25.688719,
     "geom:longitude":-80.337032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8741 SW 87th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286391537,
-    "wof:lastmodified":1449017070,
+    "wof:lastmodified":1466431904,
     "wof:name":"US Intertrade Corp",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.337032,25.688719,-80.337032,25.688719],
-  "geometry": {"coordinates":[-80.337032,25.688719],"type":"Point"}
+  "bbox": [
+    -80.337032,
+    25.688719,
+    -80.337032,
+    25.688719
+],
+  "geometry": {"coordinates":[-80.33703199999999,25.688719],"type":"Point"}
 }

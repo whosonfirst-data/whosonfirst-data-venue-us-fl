@@ -2,13 +2,14 @@
   "id": 304025275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240284,25.775063,-80.240284,25.775063",
     "geom:latitude":25.775063,
     "geom:longitude":-80.240284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 NW 27th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304025275,
-    "wof:lastmodified":1449044074,
+    "wof:lastmodified":1466432247,
     "wof:name":"Miami Rehabilitation Center",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-80.240284,25.775063,-80.240284,25.775063],
+  "bbox": [
+    -80.240284,
+    25.775063,
+    -80.240284,
+    25.775063
+],
   "geometry": {"coordinates":[-80.240284,25.775063],"type":"Point"}
 }

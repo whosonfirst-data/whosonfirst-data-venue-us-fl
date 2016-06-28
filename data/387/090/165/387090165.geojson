@@ -2,13 +2,14 @@
   "id": 387090165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.614407,24.9361,-80.614407,24.9361",
     "geom:latitude":24.9361,
     "geom:longitude":-80.614407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82803 Overseas Hwy",
     "sg:city":"Islamorada",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387090165,
-    "wof:lastmodified":1449059142,
+    "wof:lastmodified":1466440089,
     "wof:name":"US Post Office",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.614407,24.9361,-80.614407,24.9361],
+  "bbox": [
+    -80.614407,
+    24.9361,
+    -80.614407,
+    24.9361
+],
   "geometry": {"coordinates":[-80.614407,24.9361],"type":"Point"}
 }

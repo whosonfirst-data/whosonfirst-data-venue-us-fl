@@ -2,13 +2,14 @@
   "id": 270211213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.618417,30.449062,-86.618417,30.449062",
     "geom:latitude":30.449062,
     "geom:longitude":-86.618417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Racetrack Rd NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270211213,
-    "wof:lastmodified":1449009224,
+    "wof:lastmodified":1466433085,
     "wof:name":"Crime Prevention Technology",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.618417,30.449062,-86.618417,30.449062],
-  "geometry": {"coordinates":[-86.618417,30.449062],"type":"Point"}
+  "bbox": [
+    -86.618417,
+    30.449062,
+    -86.618417,
+    30.449062
+],
+  "geometry": {"coordinates":[-86.61841699999999,30.449062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286781765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.361922,26.007744,-80.361922,26.007744",
     "geom:latitude":26.007744,
     "geom:longitude":-80.361922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16000 Pines Blvd",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":286781765,
-    "wof:lastmodified":1449015717,
+    "wof:lastmodified":1466438799,
     "wof:name":"US Post Office",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.361922,26.007744,-80.361922,26.007744],
-  "geometry": {"coordinates":[-80.361922,26.007744],"type":"Point"}
+  "bbox": [
+    -80.361922,
+    26.007744,
+    -80.361922,
+    26.007744
+],
+  "geometry": {"coordinates":[-80.36192200000001,26.007744],"type":"Point"}
 }

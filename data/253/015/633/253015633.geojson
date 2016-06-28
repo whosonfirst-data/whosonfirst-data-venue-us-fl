@@ -2,13 +2,14 @@
   "id": 253015633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174353,25.857027,-80.174353,25.857027",
     "geom:latitude":25.857027,
     "geom:longitude":-80.174353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 NE 89th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253015633,
-    "wof:lastmodified":1449063487,
+    "wof:lastmodified":1466428701,
     "wof:name":"Superior Hand Car Wash Corp",
     "wof:parent_id":85896193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-80.174353,25.857027,-80.174353,25.857027],
+  "bbox": [
+    -80.174353,
+    25.857027,
+    -80.174353,
+    25.857027
+],
   "geometry": {"coordinates":[-80.174353,25.857027],"type":"Point"}
 }

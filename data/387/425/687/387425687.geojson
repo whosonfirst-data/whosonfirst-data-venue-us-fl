@@ -2,13 +2,14 @@
   "id": 387425687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.738841,30.35072,-81.738841,30.35072",
     "geom:latitude":30.35072,
     "geom:longitude":-81.738841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Lewis Industrial Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387425687,
-    "wof:lastmodified":1449057442,
+    "wof:lastmodified":1466445224,
     "wof:name":"Sysco Fodd Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-81.738841,30.35072,-81.738841,30.35072],
-  "geometry": {"coordinates":[-81.738841,30.35072],"type":"Point"}
+  "bbox": [
+    -81.738841,
+    30.35072,
+    -81.738841,
+    30.35072
+],
+  "geometry": {"coordinates":[-81.73884099999999,30.35072],"type":"Point"}
 }

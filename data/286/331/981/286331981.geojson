@@ -2,13 +2,14 @@
   "id": 286331981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.522348,27.450682,-81.522348,27.450682",
     "geom:latitude":27.450682,
     "geom:longitude":-81.522348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Sandy Loam Ct",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286331981,
-    "wof:lastmodified":1449016993,
+    "wof:lastmodified":1466430875,
     "wof:name":"Stephen L Gordon MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.522348,27.450682,-81.522348,27.450682],
-  "geometry": {"coordinates":[-81.522348,27.450682],"type":"Point"}
+  "bbox": [
+    -81.522348,
+    27.450682,
+    -81.522348,
+    27.450682
+],
+  "geometry": {"coordinates":[-81.52234799999999,27.450682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387325653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.803743,26.662521,-81.803743,26.662521",
     "geom:latitude":26.662521,
     "geom:longitude":-81.803743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5756 Corporation Cir",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387325653,
-    "wof:lastmodified":1449057600,
+    "wof:lastmodified":1466443723,
     "wof:name":"Ryan Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-81.803743,26.662521,-81.803743,26.662521],
+  "bbox": [
+    -81.803743,
+    26.662521,
+    -81.803743,
+    26.662521
+],
   "geometry": {"coordinates":[-81.803743,26.662521],"type":"Point"}
 }

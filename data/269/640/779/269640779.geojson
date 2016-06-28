@@ -2,13 +2,14 @@
   "id": 269640779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593016,30.138949,-81.593016,30.138949",
     "geom:latitude":30.138949,
     "geom:longitude":-81.593016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12756 Thicket Ridge Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269640779,
-    "wof:lastmodified":1449037181,
+    "wof:lastmodified":1466431313,
     "wof:name":"South East Contractor Inc",
     "wof:parent_id":85870725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.593016,30.138949,-81.593016,30.138949],
-  "geometry": {"coordinates":[-81.593016,30.138949],"type":"Point"}
+  "bbox": [
+    -81.593016,
+    30.138949,
+    -81.593016,
+    30.138949
+],
+  "geometry": {"coordinates":[-81.59301600000001,30.138949],"type":"Point"}
 }

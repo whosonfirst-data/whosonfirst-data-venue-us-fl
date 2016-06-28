@@ -2,13 +2,14 @@
   "id": 370999865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.665315,24.595128,-81.665315,24.595128",
     "geom:latitude":24.595128,
     "geom:longitude":-81.665315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Shore Ave",
     "sg:city":"Cherry Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370999865,
-    "wof:lastmodified":1449032054,
+    "wof:lastmodified":1466448372,
     "wof:name":"NJIS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.665315,24.595128,-81.665315,24.595128],
-  "geometry": {"coordinates":[-81.665315,24.595128],"type":"Point"}
+  "bbox": [
+    -81.665315,
+    24.595128,
+    -81.665315,
+    24.595128
+],
+  "geometry": {"coordinates":[-81.66531500000001,24.595128],"type":"Point"}
 }

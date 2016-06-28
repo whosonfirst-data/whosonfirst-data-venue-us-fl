@@ -2,13 +2,14 @@
   "id": 403997901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.766686,26.147596,-81.766686,26.147596",
     "geom:latitude":26.147596,
     "geom:longitude":-81.766686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Airport Pulling Rd S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403997901,
-    "wof:lastmodified":1449055736,
+    "wof:lastmodified":1466444267,
     "wof:name":"William G Stelzer CPA",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.766686,26.147596,-81.766686,26.147596],
-  "geometry": {"coordinates":[-81.766686,26.147596],"type":"Point"}
+  "bbox": [
+    -81.766686,
+    26.147596,
+    -81.766686,
+    26.147596
+],
+  "geometry": {"coordinates":[-81.76668600000001,26.147596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370584525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.957139,27.995991,-81.957139,27.995991",
     "geom:latitude":27.995991,
     "geom:longitude":-81.957139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 S Florida Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370584525,
-    "wof:lastmodified":1449029459,
+    "wof:lastmodified":1466443140,
     "wof:name":"Leonard Rabin",
     "wof:parent_id":85889035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.957139,27.995991,-81.957139,27.995991],
+  "bbox": [
+    -81.957139,
+    27.995991,
+    -81.957139,
+    27.995991
+],
   "geometry": {"coordinates":[-81.957139,27.995991],"type":"Point"}
 }

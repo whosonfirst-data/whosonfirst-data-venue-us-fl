@@ -2,13 +2,14 @@
   "id": 253183597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.569348,30.266445,-81.569348,30.266445",
     "geom:latitude":30.266445,
     "geom:longitude":-81.569348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3189 Old Port Cir E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253183597,
-    "wof:lastmodified":1449064421,
+    "wof:lastmodified":1466430464,
     "wof:name":"S S Marine Taxi",
     "wof:parent_id":85870713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "passenger"
     ]
 },
-  "bbox": [-81.569348,30.266445,-81.569348,30.266445],
-  "geometry": {"coordinates":[-81.569348,30.266445],"type":"Point"}
+  "bbox": [
+    -81.569348,
+    30.266445,
+    -81.569348,
+    30.266445
+],
+  "geometry": {"coordinates":[-81.56934800000001,30.266445],"type":"Point"}
 }

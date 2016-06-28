@@ -2,13 +2,14 @@
   "id": 219451117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.192656,30.359956,-87.192656,30.359956",
     "geom:latitude":30.359956,
     "geom:longitude":-87.192656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 San Carlos Ave",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219451117,
-    "wof:lastmodified":1449071932,
+    "wof:lastmodified":1466430866,
     "wof:name":"USA Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.192656,30.359956,-87.192656,30.359956],
+  "bbox": [
+    -87.192656,
+    30.359956,
+    -87.192656,
+    30.359956
+],
   "geometry": {"coordinates":[-87.192656,30.359956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253569399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800727,30.221249,-81.800727,30.221249",
     "geom:latitude":30.221249,
     "geom:longitude":-81.800727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6978 Paul Howard Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253569399,
-    "wof:lastmodified":1449065682,
+    "wof:lastmodified":1466436865,
     "wof:name":"A&B Tractor Works Inc",
     "wof:parent_id":85870747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.800727,30.221249,-81.800727,30.221249],
-  "geometry": {"coordinates":[-81.800727,30.221249],"type":"Point"}
+  "bbox": [
+    -81.800727,
+    30.221249,
+    -81.800727,
+    30.221249
+],
+  "geometry": {"coordinates":[-81.80072699999999,30.221249],"type":"Point"}
 }

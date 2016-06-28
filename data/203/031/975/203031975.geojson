@@ -2,13 +2,14 @@
   "id": 203031975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.083598,26.899168,-82.083598,26.899168",
     "geom:latitude":26.899168,
     "geom:longitude":-82.083598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3829 Bermuda Ct",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203031975,
-    "wof:lastmodified":1449025624,
+    "wof:lastmodified":1466443105,
     "wof:name":"Harbor Yacht Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-82.083598,26.899168,-82.083598,26.899168],
-  "geometry": {"coordinates":[-82.083598,26.899168],"type":"Point"}
+  "bbox": [
+    -82.083598,
+    26.899168,
+    -82.083598,
+    26.899168
+],
+  "geometry": {"coordinates":[-82.08359799999999,26.899168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286514989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.223272,30.489462,-84.223272,30.489462",
     "geom:latitude":30.489462,
     "geom:longitude":-84.223272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Centerville Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286514989,
-    "wof:lastmodified":1449016671,
+    "wof:lastmodified":1466434030,
     "wof:name":"Centerville Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.223272,30.489462,-84.223272,30.489462],
-  "geometry": {"coordinates":[-84.223272,30.489462],"type":"Point"}
+  "bbox": [
+    -84.223272,
+    30.489462,
+    -84.223272,
+    30.489462
+],
+  "geometry": {"coordinates":[-84.22327199999999,30.489462],"type":"Point"}
 }

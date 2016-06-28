@@ -2,13 +2,14 @@
   "id": 303643979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.376443,25.857305,-80.376443,25.857305",
     "geom:latitude":25.857305,
     "geom:longitude":-80.376443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 NW 92nd Ter",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303643979,
-    "wof:lastmodified":1449000240,
+    "wof:lastmodified":1466441605,
     "wof:name":"Hughes Miami Rebar Fabrication",
     "wof:parent_id":85841233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-80.376443,25.857305,-80.376443,25.857305],
-  "geometry": {"coordinates":[-80.376443,25.857305],"type":"Point"}
+  "bbox": [
+    -80.376443,
+    25.857305,
+    -80.376443,
+    25.857305
+],
+  "geometry": {"coordinates":[-80.37644299999999,25.857305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370508167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.624218,30.274677,-81.624218,30.274677",
     "geom:latitude":30.274677,
     "geom:longitude":-81.624218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4613 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370508167,
-    "wof:lastmodified":1449030968,
+    "wof:lastmodified":1466441969,
     "wof:name":"Florida Probation & Parole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-81.624218,30.274677,-81.624218,30.274677],
+  "bbox": [
+    -81.624218,
+    30.274677,
+    -81.624218,
+    30.274677
+],
   "geometry": {"coordinates":[-81.624218,30.274677],"type":"Point"}
 }

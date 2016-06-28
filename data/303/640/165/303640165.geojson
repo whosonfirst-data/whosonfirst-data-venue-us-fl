@@ -2,13 +2,14 @@
   "id": 303640165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145962,26.049052,-80.145962,26.049052",
     "geom:latitude":26.049052,
     "geom:longitude":-80.145962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 SW 2nd Ave",
     "sg:city":"Dania",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303640165,
-    "wof:lastmodified":1448999183,
+    "wof:lastmodified":1466441545,
     "wof:name":"America Distributor Inc",
     "wof:parent_id":85878175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-80.145962,26.049052,-80.145962,26.049052],
+  "bbox": [
+    -80.145962,
+    26.049052,
+    -80.145962,
+    26.049052
+],
   "geometry": {"coordinates":[-80.145962,26.049052],"type":"Point"}
 }

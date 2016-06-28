@@ -2,13 +2,14 @@
   "id": 270342501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178547,26.136154,-80.178547,26.136154",
     "geom:latitude":26.136154,
     "geom:longitude":-80.178547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"981 NW 27th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270342501,
-    "wof:lastmodified":1449010936,
+    "wof:lastmodified":1466435329,
     "wof:name":"Community Food Store",
     "wof:parent_id":85865213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.178547,26.136154,-80.178547,26.136154],
-  "geometry": {"coordinates":[-80.178547,26.136154],"type":"Point"}
+  "bbox": [
+    -80.178547,
+    26.136154,
+    -80.178547,
+    26.136154
+],
+  "geometry": {"coordinates":[-80.17854699999999,26.136154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202932267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.639262,30.180457,-82.639262,30.180457",
     "geom:latitude":30.180457,
     "geom:longitude":-82.639262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1283 State Hwy 47",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202932267,
-    "wof:lastmodified":1449061055,
+    "wof:lastmodified":1466434032,
     "wof:name":"CHC Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.639262,30.180457,-82.639262,30.180457],
+  "bbox": [
+    -82.639262,
+    30.180457,
+    -82.639262,
+    30.180457
+],
   "geometry": {"coordinates":[-82.639262,30.180457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202711539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.638095,28.056924,-80.638095,28.056924",
     "geom:latitude":28.056924,
     "geom:longitude":-80.638095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Dairy Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202711539,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466431129,
     "wof:name":"Stanley Steemer Carpet Cleaner",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.638095,28.056924,-80.638095,28.056924],
-  "geometry": {"coordinates":[-80.638095,28.056924],"type":"Point"}
+  "bbox": [
+    -80.638095,
+    28.056924,
+    -80.638095,
+    28.056924
+],
+  "geometry": {"coordinates":[-80.63809500000001,28.056924],"type":"Point"}
 }

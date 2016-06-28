@@ -2,13 +2,14 @@
   "id": 236489921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.521295,27.959674,-82.521295,27.959674",
     "geom:latitude":27.959674,
     "geom:longitude":-82.521295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4518 W Spruce St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236489921,
-    "wof:lastmodified":1449003464,
+    "wof:lastmodified":1466435316,
     "wof:name":"T Time Detail Auto Svc",
     "wof:parent_id":85889687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.521295,27.959674,-82.521295,27.959674],
-  "geometry": {"coordinates":[-82.521295,27.959674],"type":"Point"}
+  "bbox": [
+    -82.521295,
+    27.959674,
+    -82.521295,
+    27.959674
+],
+  "geometry": {"coordinates":[-82.52129499999999,27.959674],"type":"Point"}
 }

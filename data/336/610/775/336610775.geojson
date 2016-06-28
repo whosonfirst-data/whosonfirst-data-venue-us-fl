@@ -2,13 +2,14 @@
   "id": 336610775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.278724,30.496843,-84.278724,30.496843",
     "geom:latitude":30.496843,
     "geom:longitude":-84.278724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3202 Enterprise Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336610775,
-    "wof:lastmodified":1448997982,
+    "wof:lastmodified":1466435168,
     "wof:name":"Mystery Playhouse",
     "wof:parent_id":85817667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.278724,30.496843,-84.278724,30.496843],
+  "bbox": [
+    -84.278724,
+    30.496843,
+    -84.278724,
+    30.496843
+],
   "geometry": {"coordinates":[-84.278724,30.496843],"type":"Point"}
 }

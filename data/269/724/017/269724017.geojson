@@ -2,13 +2,14 @@
   "id": 269724017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.381346,28.526812,-81.381346,28.526812",
     "geom:latitude":28.526812,
     "geom:longitude":-81.381346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Underwood St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269724017,
-    "wof:lastmodified":1449038895,
+    "wof:lastmodified":1466432755,
     "wof:name":"Surgical Licensed Ward",
     "wof:parent_id":85879513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.381346,28.526812,-81.381346,28.526812],
-  "geometry": {"coordinates":[-81.381346,28.526812],"type":"Point"}
+  "bbox": [
+    -81.381346,
+    28.526812,
+    -81.381346,
+    28.526812
+],
+  "geometry": {"coordinates":[-81.38134599999999,28.526812],"type":"Point"}
 }

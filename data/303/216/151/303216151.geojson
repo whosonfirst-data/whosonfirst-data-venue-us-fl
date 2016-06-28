@@ -2,13 +2,14 @@
   "id": 303216151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.724015,28.228659,-80.724015,28.228659",
     "geom:latitude":28.228659,
     "geom:longitude":-80.724015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Wickham Lakes Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303216151,
-    "wof:lastmodified":1449000288,
+    "wof:lastmodified":1466434272,
     "wof:name":"Naturelean",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weight"
     ]
 },
-  "bbox": [-80.724015,28.228659,-80.724015,28.228659],
-  "geometry": {"coordinates":[-80.724015,28.228659],"type":"Point"}
+  "bbox": [
+    -80.724015,
+    28.228659,
+    -80.724015,
+    28.228659
+],
+  "geometry": {"coordinates":[-80.72401499999999,28.228659],"type":"Point"}
 }

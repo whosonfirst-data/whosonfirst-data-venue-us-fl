@@ -2,13 +2,14 @@
   "id": 353442313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.514289,27.308396,-82.514289,27.308396",
     "geom:latitude":27.308396,
     "geom:longitude":-82.514289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 Webber St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353442313,
-    "wof:lastmodified":1449019376,
+    "wof:lastmodified":1466435653,
     "wof:name":"Emory's Lawn Svc",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.514289,27.308396,-82.514289,27.308396],
-  "geometry": {"coordinates":[-82.514289,27.308396],"type":"Point"}
+  "bbox": [
+    -82.514289,
+    27.308396,
+    -82.514289,
+    27.308396
+],
+  "geometry": {"coordinates":[-82.51428900000001,27.308396],"type":"Point"}
 }

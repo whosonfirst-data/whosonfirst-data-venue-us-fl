@@ -2,13 +2,14 @@
   "id": 253481119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.294559,28.581571,-81.294559,28.581571",
     "geom:latitude":28.581571,
     "geom:longitude":-81.294559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2579 N Forsyth Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253481119,
-    "wof:lastmodified":1449065392,
+    "wof:lastmodified":1466435293,
     "wof:name":"Crown Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.294559,28.581571,-81.294559,28.581571],
-  "geometry": {"coordinates":[-81.294559,28.581571],"type":"Point"}
+  "bbox": [
+    -81.294559,
+    28.581571,
+    -81.294559,
+    28.581571
+],
+  "geometry": {"coordinates":[-81.29455900000001,28.581571],"type":"Point"}
 }

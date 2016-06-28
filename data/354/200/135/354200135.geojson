@@ -2,13 +2,14 @@
   "id": 354200135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524313,27.284081,-82.524313,27.284081",
     "geom:latitude":27.284081,
     "geom:longitude":-82.524313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 Riverwood Cir",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354200135,
-    "wof:lastmodified":1449066598,
+    "wof:lastmodified":1466439174,
     "wof:name":"Florida Gulfside Svc",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.524313,27.284081,-82.524313,27.284081],
-  "geometry": {"coordinates":[-82.524313,27.284081],"type":"Point"}
+  "bbox": [
+    -82.524313,
+    27.284081,
+    -82.524313,
+    27.284081
+],
+  "geometry": {"coordinates":[-82.52431300000001,27.284081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203342497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046289,26.538905,-80.046289,26.538905",
     "geom:latitude":26.538905,
     "geom:longitude":-80.046289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6711 N Ocean Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203342497,
-    "wof:lastmodified":1449026741,
+    "wof:lastmodified":1466430694,
     "wof:name":"Robert Neadel",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.046289,26.538905,-80.046289,26.538905],
+  "bbox": [
+    -80.046289,
+    26.538905,
+    -80.046289,
+    26.538905
+],
   "geometry": {"coordinates":[-80.046289,26.538905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370711893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212678,25.909322,-80.212678,25.909322",
     "geom:latitude":25.909322,
     "geom:longitude":-80.212678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 NW 147th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370711893,
-    "wof:lastmodified":1449031854,
+    "wof:lastmodified":1466445074,
     "wof:name":"GE Tile Co",
     "wof:parent_id":85852993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.212678,25.909322,-80.212678,25.909322],
+  "bbox": [
+    -80.212678,
+    25.909322,
+    -80.212678,
+    25.909322
+],
   "geometry": {"coordinates":[-80.212678,25.909322],"type":"Point"}
 }

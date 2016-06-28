@@ -2,13 +2,14 @@
   "id": 336812327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.048337,29.221606,-81.048337,29.221606",
     "geom:latitude":29.221606,
     "geom:longitude":-81.048337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 N Nova Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336812327,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466438665,
     "wof:name":"Fish Tank",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.048337,29.221606,-81.048337,29.221606],
+  "bbox": [
+    -81.048337,
+    29.221606,
+    -81.048337,
+    29.221606
+],
   "geometry": {"coordinates":[-81.048337,29.221606],"type":"Point"}
 }

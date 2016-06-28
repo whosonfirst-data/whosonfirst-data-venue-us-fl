@@ -2,13 +2,14 @@
   "id": 303112049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.651255,27.795639,-82.651255,27.795639",
     "geom:latitude":27.795639,
     "geom:longitude":-82.651255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 26th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303112049,
-    "wof:lastmodified":1448999246,
+    "wof:lastmodified":1466432436,
     "wof:name":"Executive's Chef",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-82.651255,27.795639,-82.651255,27.795639],
-  "geometry": {"coordinates":[-82.651255,27.795639],"type":"Point"}
+  "bbox": [
+    -82.651255,
+    27.795639,
+    -82.651255,
+    27.795639
+],
+  "geometry": {"coordinates":[-82.65125500000001,27.795639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303341217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.55179,28.513185,-81.55179,28.513185",
     "geom:latitude":28.513185,
     "geom:longitude":-81.55179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Kane Park Way",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303341217,
-    "wof:lastmodified":1449000461,
+    "wof:lastmodified":1466436418,
     "wof:name":"Windermere Mortgage",
     "wof:parent_id":85889899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.55179,28.513185,-81.55179,28.513185],
+  "bbox": [
+    -81.55179,
+    28.513185,
+    -81.55179,
+    28.513185
+],
   "geometry": {"coordinates":[-81.55179,28.513185],"type":"Point"}
 }

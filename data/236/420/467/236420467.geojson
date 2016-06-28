@@ -2,13 +2,14 @@
   "id": 236420467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.5435,27.430573,-82.5435,27.430573",
     "geom:latitude":27.430573,
     "geom:longitude":-82.5435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6209 17th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236420467,
-    "wof:lastmodified":1449003187,
+    "wof:lastmodified":1466434333,
     "wof:name":"Electrodex Inc",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "electrical"
     ]
 },
-  "bbox": [-82.5435,27.430573,-82.5435,27.430573],
-  "geometry": {"coordinates":[-82.5435,27.430573],"type":"Point"}
+  "bbox": [
+    -82.5435,
+    27.430573,
+    -82.5435,
+    27.430573
+],
+  "geometry": {"coordinates":[-82.54349999999999,27.430573],"type":"Point"}
 }

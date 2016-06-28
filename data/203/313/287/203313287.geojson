@@ -2,13 +2,14 @@
   "id": 203313287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.581476,28.559307,-81.581476,28.559307",
     "geom:latitude":28.559307,
     "geom:longitude":-81.581476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Charlotte St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203313287,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466430328,
     "wof:name":"Martin's Lock & Key Svc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.581476,28.559307,-81.581476,28.559307],
-  "geometry": {"coordinates":[-81.581476,28.559307],"type":"Point"}
+  "bbox": [
+    -81.581476,
+    28.559307,
+    -81.581476,
+    28.559307
+],
+  "geometry": {"coordinates":[-81.58147599999999,28.559307],"type":"Point"}
 }

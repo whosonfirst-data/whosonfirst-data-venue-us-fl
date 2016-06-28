@@ -2,13 +2,14 @@
   "id": 270046559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593477,28.114018,-81.593477,28.114018",
     "geom:latitude":28.114018,
     "geom:longitude":-81.593477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 E Johnson Ave",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270046559,
-    "wof:lastmodified":1449010001,
+    "wof:lastmodified":1466430253,
     "wof:name":"Florida Water Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-81.593477,28.114018,-81.593477,28.114018],
-  "geometry": {"coordinates":[-81.593477,28.114018],"type":"Point"}
+  "bbox": [
+    -81.593477,
+    28.114018,
+    -81.593477,
+    28.114018
+],
+  "geometry": {"coordinates":[-81.59347699999999,28.114018],"type":"Point"}
 }

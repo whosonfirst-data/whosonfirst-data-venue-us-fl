@@ -2,13 +2,14 @@
   "id": 387253831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623365,30.195002,-81.623365,30.195002",
     "geom:latitude":30.195002,
     "geom:longitude":-81.623365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10141 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387253831,
-    "wof:lastmodified":1449059450,
+    "wof:lastmodified":1466442613,
     "wof:name":"Hess",
     "wof:parent_id":85842435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.623365,30.195002,-81.623365,30.195002],
-  "geometry": {"coordinates":[-81.623365,30.195002],"type":"Point"}
+  "bbox": [
+    -81.623365,
+    30.195002,
+    -81.623365,
+    30.195002
+],
+  "geometry": {"coordinates":[-81.62336500000001,30.195002],"type":"Point"}
 }

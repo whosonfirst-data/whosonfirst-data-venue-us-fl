@@ -2,13 +2,14 @@
   "id": 404001921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506789,28.073739,-82.506789,28.073739",
     "geom:latitude":28.073739,
     "geom:longitude":-82.506789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13944 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404001921,
-    "wof:lastmodified":1449039327,
+    "wof:lastmodified":1466440298,
     "wof:name":"AmSouth",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-82.506789,28.073739,-82.506789,28.073739],
+  "bbox": [
+    -82.506789,
+    28.073739,
+    -82.506789,
+    28.073739
+],
   "geometry": {"coordinates":[-82.506789,28.073739],"type":"Point"}
 }

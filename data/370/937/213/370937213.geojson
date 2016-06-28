@@ -2,13 +2,14 @@
   "id": 370937213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331876,25.831745,-80.331876,25.831745",
     "geom:latitude":25.831745,
     "geom:longitude":-80.331876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8315 NW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370937213,
-    "wof:lastmodified":1449029729,
+    "wof:lastmodified":1466447680,
     "wof:name":"International Sumicargo",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.331876,25.831745,-80.331876,25.831745],
-  "geometry": {"coordinates":[-80.331876,25.831745],"type":"Point"}
+  "bbox": [
+    -80.331876,
+    25.831745,
+    -80.331876,
+    25.831745
+],
+  "geometry": {"coordinates":[-80.33187599999999,25.831745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303829597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.106631,26.231793,-80.106631,26.231793",
     "geom:latitude":26.231793,
     "geom:longitude":-80.106631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 E Atlantic Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303829597,
-    "wof:lastmodified":1449000406,
+    "wof:lastmodified":1466444808,
     "wof:name":"Williams & Williams",
     "wof:parent_id":85847119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.106631,26.231793,-80.106631,26.231793],
-  "geometry": {"coordinates":[-80.106631,26.231793],"type":"Point"}
+  "bbox": [
+    -80.106631,
+    26.231793,
+    -80.106631,
+    26.231793
+],
+  "geometry": {"coordinates":[-80.10663099999999,26.231793],"type":"Point"}
 }

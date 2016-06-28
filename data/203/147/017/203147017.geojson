@@ -2,13 +2,14 @@
   "id": 203147017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.311782,30.619744,-84.311782,30.619744",
     "geom:latitude":30.619744,
     "geom:longitude":-84.311782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Saint Angelo Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203147017,
-    "wof:lastmodified":1449026661,
+    "wof:lastmodified":1466446443,
     "wof:name":"Bilanco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.311782,30.619744,-84.311782,30.619744],
-  "geometry": {"coordinates":[-84.311782,30.619744],"type":"Point"}
+  "bbox": [
+    -84.311782,
+    30.619744,
+    -84.311782,
+    30.619744
+],
+  "geometry": {"coordinates":[-84.31178199999999,30.619744],"type":"Point"}
 }

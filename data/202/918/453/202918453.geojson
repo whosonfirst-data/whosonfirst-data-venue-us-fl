@@ -2,13 +2,14 @@
   "id": 202918453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.809885,27.539308,-81.809885,27.539308",
     "geom:latitude":27.539308,
     "geom:longitude":-81.809885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S 6th Ave",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202918453,
-    "wof:lastmodified":1449061811,
+    "wof:lastmodified":1466433851,
     "wof:name":"Hardee Motor Co",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.809885,27.539308,-81.809885,27.539308],
-  "geometry": {"coordinates":[-81.809885,27.539308],"type":"Point"}
+  "bbox": [
+    -81.809885,
+    27.539308,
+    -81.809885,
+    27.539308
+],
+  "geometry": {"coordinates":[-81.80988499999999,27.539308],"type":"Point"}
 }

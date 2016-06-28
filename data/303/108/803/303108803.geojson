@@ -2,13 +2,14 @@
   "id": 303108803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.121986,30.696605,-86.121986,30.696605",
     "geom:latitude":30.696605,
     "geom:longitude":-86.121986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Hugh Adams Rd",
     "sg:city":"Defuniak Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303108803,
-    "wof:lastmodified":1448998161,
+    "wof:lastmodified":1466432378,
     "wof:name":"Chautauqua Vineyard & Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-86.121986,30.696605,-86.121986,30.696605],
-  "geometry": {"coordinates":[-86.121986,30.696605],"type":"Point"}
+  "bbox": [
+    -86.121986,
+    30.696605,
+    -86.121986,
+    30.696605
+],
+  "geometry": {"coordinates":[-86.12198600000001,30.696605],"type":"Point"}
 }

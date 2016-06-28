@@ -2,13 +2,14 @@
   "id": 253353937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.346865,29.828494,-81.346865,29.828494",
     "geom:latitude":29.828494,
     "geom:longitude":-81.346865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3541 Red Cloud Trl",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253353937,
-    "wof:lastmodified":1449063659,
+    "wof:lastmodified":1466433077,
     "wof:name":"Mitchell Realty Inc",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-81.346865,29.828494,-81.346865,29.828494],
-  "geometry": {"coordinates":[-81.346865,29.828494],"type":"Point"}
+  "bbox": [
+    -81.346865,
+    29.828494,
+    -81.346865,
+    29.828494
+],
+  "geometry": {"coordinates":[-81.34686499999999,29.828494],"type":"Point"}
 }

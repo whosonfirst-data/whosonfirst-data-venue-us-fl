@@ -2,13 +2,14 @@
   "id": 253323689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.426752,30.467003,-86.426752,30.467003",
     "geom:latitude":30.467003,
     "geom:longitude":-86.426752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 Windlake Dr",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253323689,
-    "wof:lastmodified":1449063073,
+    "wof:lastmodified":1466432580,
     "wof:name":"USCS",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-86.426752,30.467003,-86.426752,30.467003],
-  "geometry": {"coordinates":[-86.426752,30.467003],"type":"Point"}
+  "bbox": [
+    -86.426752,
+    30.467003,
+    -86.426752,
+    30.467003
+],
+  "geometry": {"coordinates":[-86.42675199999999,30.467003],"type":"Point"}
 }

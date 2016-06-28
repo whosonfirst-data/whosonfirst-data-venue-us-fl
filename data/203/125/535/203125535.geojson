@@ -2,13 +2,14 @@
   "id": 203125535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.653163,26.609603,-81.653163,26.609603",
     "geom:latitude":26.609603,
     "geom:longitude":-81.653163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Homestead Rd N",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203125535,
-    "wof:lastmodified":1449026805,
+    "wof:lastmodified":1466445726,
     "wof:name":"Wright Cut",
     "wof:parent_id":85889143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.653163,26.609603,-81.653163,26.609603],
-  "geometry": {"coordinates":[-81.653163,26.609603],"type":"Point"}
+  "bbox": [
+    -81.653163,
+    26.609603,
+    -81.653163,
+    26.609603
+],
+  "geometry": {"coordinates":[-81.65316300000001,26.609603],"type":"Point"}
 }

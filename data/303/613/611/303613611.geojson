@@ -2,13 +2,14 @@
   "id": 303613611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193445,25.788372,-80.193445,25.788372",
     "geom:latitude":25.788372,
     "geom:longitude":-80.193445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 NE 14th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303613611,
-    "wof:lastmodified":1448999259,
+    "wof:lastmodified":1466441083,
     "wof:name":"Restaurant Warehouse Inc",
     "wof:parent_id":85889171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.193445,25.788372,-80.193445,25.788372],
+  "bbox": [
+    -80.193445,
+    25.788372,
+    -80.193445,
+    25.788372
+],
   "geometry": {"coordinates":[-80.193445,25.788372],"type":"Point"}
 }

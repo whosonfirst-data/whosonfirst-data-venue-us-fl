@@ -2,13 +2,14 @@
   "id": 270500705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34229,25.624821,-80.34229,25.624821",
     "geom:latitude":25.624821,
     "geom:longitude":-80.34229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9245 SW 157th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":270500705,
-    "wof:lastmodified":1449009233,
+    "wof:lastmodified":1466438033,
     "wof:name":"Ralph E Marcus DO",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-80.34229,25.624821,-80.34229,25.624821],
-  "geometry": {"coordinates":[-80.34229,25.624821],"type":"Point"}
+  "bbox": [
+    -80.34229,
+    25.624821,
+    -80.34229,
+    25.624821
+],
+  "geometry": {"coordinates":[-80.34229000000001,25.624821],"type":"Point"}
 }

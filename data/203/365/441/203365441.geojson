@@ -2,13 +2,14 @@
   "id": 203365441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751949,30.325892,-81.751949,30.325892",
     "geom:latitude":30.325892,
     "geom:longitude":-81.751949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Lane Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203365441,
-    "wof:lastmodified":1449025243,
+    "wof:lastmodified":1466430975,
     "wof:name":"ABS-Alignment Brake & Spring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-81.751949,30.325892,-81.751949,30.325892],
+  "bbox": [
+    -81.751949,
+    30.325892,
+    -81.751949,
+    30.325892
+],
   "geometry": {"coordinates":[-81.751949,30.325892],"type":"Point"}
 }

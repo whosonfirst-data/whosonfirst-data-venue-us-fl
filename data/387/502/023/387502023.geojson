@@ -2,13 +2,14 @@
   "id": 387502023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.752103,30.326103,-81.752103,30.326103",
     "geom:latitude":30.326103,
     "geom:longitude":-81.752103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Lane Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387502023,
-    "wof:lastmodified":1449057848,
+    "wof:lastmodified":1466446358,
     "wof:name":"Jacksonville Electric Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.752103,30.326103,-81.752103,30.326103],
-  "geometry": {"coordinates":[-81.752103,30.326103],"type":"Point"}
+  "bbox": [
+    -81.752103,
+    30.326103,
+    -81.752103,
+    30.326103
+],
+  "geometry": {"coordinates":[-81.75210300000001,30.326103],"type":"Point"}
 }

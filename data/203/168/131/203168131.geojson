@@ -2,13 +2,14 @@
   "id": 203168131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735393,29.349887,-81.735393,29.349887",
     "geom:latitude":29.349887,
     "geom:longitude":-81.735393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13535 State Hwy 19",
     "sg:city":"Salt Springs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203168131,
-    "wof:lastmodified":1449025926,
+    "wof:lastmodified":1466446231,
     "wof:name":"Salt Springs Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.735393,29.349887,-81.735393,29.349887],
+  "bbox": [
+    -81.735393,
+    29.349887,
+    -81.735393,
+    29.349887
+],
   "geometry": {"coordinates":[-81.735393,29.349887],"type":"Point"}
 }

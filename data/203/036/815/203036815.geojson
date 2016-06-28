@@ -2,13 +2,14 @@
   "id": 203036815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700329,27.869492,-82.700329,27.869492",
     "geom:latitude":27.869492,
     "geom:longitude":-82.700329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10606 49th St N",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203036815,
-    "wof:lastmodified":1449025346,
+    "wof:lastmodified":1466443586,
     "wof:name":"Flamingo Fireworks",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firework"
     ]
 },
-  "bbox": [-82.700329,27.869492,-82.700329,27.869492],
+  "bbox": [
+    -82.700329,
+    27.869492,
+    -82.700329,
+    27.869492
+],
   "geometry": {"coordinates":[-82.700329,27.869492],"type":"Point"}
 }

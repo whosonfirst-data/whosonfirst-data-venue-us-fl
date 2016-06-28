@@ -2,13 +2,14 @@
   "id": 203149271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504646,27.534405,-82.504646,27.534405",
     "geom:latitude":27.534405,
     "geom:longitude":-82.504646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5487 Factory Shops Blvd",
     "sg:city":"Ellenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203149271,
-    "wof:lastmodified":1449024943,
+    "wof:lastmodified":1466446029,
     "wof:name":"Lozano's Mexican Express",
     "wof:parent_id":85888761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.504646,27.534405,-82.504646,27.534405],
-  "geometry": {"coordinates":[-82.504646,27.534405],"type":"Point"}
+  "bbox": [
+    -82.504646,
+    27.534405,
+    -82.504646,
+    27.534405
+],
+  "geometry": {"coordinates":[-82.50464599999999,27.534405],"type":"Point"}
 }

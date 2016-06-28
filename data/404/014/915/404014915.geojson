@@ -2,13 +2,14 @@
   "id": 404014915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191318,26.392099,-80.191318,26.392099",
     "geom:latitude":26.392099,
     "geom:longitude":-80.191318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9236 Gettysburg Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404014915,
-    "wof:lastmodified":1449039630,
+    "wof:lastmodified":1466440492,
     "wof:name":"Sentry Locksmith & Safes",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.191318,26.392099,-80.191318,26.392099],
+  "bbox": [
+    -80.191318,
+    26.392099,
+    -80.191318,
+    26.392099
+],
   "geometry": {"coordinates":[-80.191318,26.392099],"type":"Point"}
 }

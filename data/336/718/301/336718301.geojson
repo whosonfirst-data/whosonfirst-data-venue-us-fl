@@ -2,13 +2,14 @@
   "id": 336718301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.157012,28.019598,-82.157012,28.019598",
     "geom:latitude":28.019598,
     "geom:longitude":-82.157012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 W Baker St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336718301,
-    "wof:lastmodified":1448997184,
+    "wof:lastmodified":1466437024,
     "wof:name":"Baker's Street Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.157012,28.019598,-82.157012,28.019598],
-  "geometry": {"coordinates":[-82.157012,28.019598],"type":"Point"}
+  "bbox": [
+    -82.157012,
+    28.019598,
+    -82.157012,
+    28.019598
+],
+  "geometry": {"coordinates":[-82.15701199999999,28.019598],"type":"Point"}
 }

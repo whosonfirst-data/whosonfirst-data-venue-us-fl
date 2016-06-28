@@ -2,13 +2,14 @@
   "id": 169768189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.511991,28.581525,-81.511991,28.581525",
     "geom:latitude":28.581525,
     "geom:longitude":-81.511991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1079 Royal Marquis Cir",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169768189,
-    "wof:lastmodified":1449033954,
+    "wof:lastmodified":1466428660,
     "wof:name":"Seismic Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-81.511991,28.581525,-81.511991,28.581525],
-  "geometry": {"coordinates":[-81.511991,28.581525],"type":"Point"}
+  "bbox": [
+    -81.511991,
+    28.581525,
+    -81.511991,
+    28.581525
+],
+  "geometry": {"coordinates":[-81.51199099999999,28.581525],"type":"Point"}
 }

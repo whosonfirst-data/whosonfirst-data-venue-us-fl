@@ -2,13 +2,14 @@
   "id": 236603553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20071,26.244521,-80.20071,26.244521",
     "geom:latitude":26.244521,
     "geom:longitude":-80.20071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Coconut Creek Pkwy",
     "sg:city":"Coconut Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236603553,
-    "wof:lastmodified":1449004633,
+    "wof:lastmodified":1466436953,
     "wof:name":"Coconut Creek Dental Center",
     "wof:parent_id":85896203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.20071,26.244521,-80.20071,26.244521],
+  "bbox": [
+    -80.20071,
+    26.244521,
+    -80.20071,
+    26.244521
+],
   "geometry": {"coordinates":[-80.20071,26.244521],"type":"Point"}
 }

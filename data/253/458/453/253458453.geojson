@@ -2,13 +2,14 @@
   "id": 253458453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.734608,30.341984,-81.734608,30.341984",
     "geom:latitude":30.341984,
     "geom:longitude":-81.734608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 Shawland Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253458453,
-    "wof:lastmodified":1449064939,
+    "wof:lastmodified":1466434874,
     "wof:name":"All Points Moving & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.734608,30.341984,-81.734608,30.341984],
-  "geometry": {"coordinates":[-81.734608,30.341984],"type":"Point"}
+  "bbox": [
+    -81.734608,
+    30.341984,
+    -81.734608,
+    30.341984
+],
+  "geometry": {"coordinates":[-81.73460799999999,30.341984],"type":"Point"}
 }

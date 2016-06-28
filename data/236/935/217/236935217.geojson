@@ -2,13 +2,14 @@
   "id": 236935217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384999,28.542826,-81.384999,28.542826",
     "geom:latitude":28.542826,
     "geom:longitude":-81.384999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Division Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236935217,
-    "wof:lastmodified":1449004542,
+    "wof:lastmodified":1466441715,
     "wof:name":"International Stainless Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.384999,28.542826,-81.384999,28.542826],
-  "geometry": {"coordinates":[-81.384999,28.542826],"type":"Point"}
+  "bbox": [
+    -81.384999,
+    28.542826,
+    -81.384999,
+    28.542826
+],
+  "geometry": {"coordinates":[-81.38499899999999,28.542826],"type":"Point"}
 }

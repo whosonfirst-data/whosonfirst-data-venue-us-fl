@@ -2,13 +2,14 @@
   "id": 269835839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.071086,26.44016,-80.071086,26.44016",
     "geom:latitude":26.44016,
     "geom:longitude":-80.071086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 S Federal Hwy",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269835839,
-    "wof:lastmodified":1449036484,
+    "wof:lastmodified":1466434725,
     "wof:name":"Dentaland",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.071086,26.44016,-80.071086,26.44016],
-  "geometry": {"coordinates":[-80.071086,26.44016],"type":"Point"}
+  "bbox": [
+    -80.071086,
+    26.44016,
+    -80.071086,
+    26.44016
+],
+  "geometry": {"coordinates":[-80.07108599999999,26.44016],"type":"Point"}
 }

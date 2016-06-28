@@ -2,13 +2,14 @@
   "id": 253171843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190383,25.778086,-80.190383,25.778086",
     "geom:latitude":25.778086,
     "geom:longitude":-80.190383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 NE 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253171843,
-    "wof:lastmodified":1449065820,
+    "wof:lastmodified":1466430293,
     "wof:name":"Wolfson Campus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-80.190383,25.778086,-80.190383,25.778086],
+  "bbox": [
+    -80.190383,
+    25.778086,
+    -80.190383,
+    25.778086
+],
   "geometry": {"coordinates":[-80.190383,25.778086],"type":"Point"}
 }

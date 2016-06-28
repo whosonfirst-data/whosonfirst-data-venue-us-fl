@@ -2,13 +2,14 @@
   "id": 219735629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240057,25.799765,-80.240057,25.799765",
     "geom:latitude":25.799765,
     "geom:longitude":-80.240057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 NW 27th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219735629,
-    "wof:lastmodified":1449073831,
+    "wof:lastmodified":1466434565,
     "wof:name":"Med Pro Medical Supply Inc",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.240057,25.799765,-80.240057,25.799765],
-  "geometry": {"coordinates":[-80.240057,25.799765],"type":"Point"}
+  "bbox": [
+    -80.240057,
+    25.799765,
+    -80.240057,
+    25.799765
+],
+  "geometry": {"coordinates":[-80.24005699999999,25.799765],"type":"Point"}
 }

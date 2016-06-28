@@ -2,13 +2,14 @@
   "id": 270056123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.387423,28.672742,-81.387423,28.672742",
     "geom:latitude":28.672742,
     "geom:longitude":-81.387423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Center Pointe Cir",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270056123,
-    "wof:lastmodified":1449009298,
+    "wof:lastmodified":1466430415,
     "wof:name":"Vandewater",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.387423,28.672742,-81.387423,28.672742],
+  "bbox": [
+    -81.387423,
+    28.672742,
+    -81.387423,
+    28.672742
+],
   "geometry": {"coordinates":[-81.387423,28.672742],"type":"Point"}
 }

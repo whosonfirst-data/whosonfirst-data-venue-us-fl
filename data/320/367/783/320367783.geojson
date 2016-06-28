@@ -2,13 +2,14 @@
   "id": 320367783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.428098,28.578164,-81.428098,28.578164",
     "geom:latitude":28.578164,
     "geom:longitude":-81.428098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3747 Silver Star Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320367783,
-    "wof:lastmodified":1449013463,
+    "wof:lastmodified":1466439695,
     "wof:name":"American Ambulance Svc",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-81.428098,28.578164,-81.428098,28.578164],
-  "geometry": {"coordinates":[-81.428098,28.578164],"type":"Point"}
+  "bbox": [
+    -81.428098,
+    28.578164,
+    -81.428098,
+    28.578164
+],
+  "geometry": {"coordinates":[-81.42809800000001,28.578164],"type":"Point"}
 }

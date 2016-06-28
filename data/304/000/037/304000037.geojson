@@ -2,13 +2,14 @@
   "id": 304000037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215145,25.995523,-80.215145,25.995523",
     "geom:latitude":25.995523,
     "geom:longitude":-80.215145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6303 Pembroke Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304000037,
-    "wof:lastmodified":1449043649,
+    "wof:lastmodified":1466446467,
     "wof:name":"Music Times Studio",
     "wof:parent_id":85878191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "production"
     ]
 },
-  "bbox": [-80.215145,25.995523,-80.215145,25.995523],
-  "geometry": {"coordinates":[-80.215145,25.995523],"type":"Point"}
+  "bbox": [
+    -80.215145,
+    25.995523,
+    -80.215145,
+    25.995523
+],
+  "geometry": {"coordinates":[-80.21514500000001,25.995523],"type":"Point"}
 }

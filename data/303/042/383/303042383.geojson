@@ -2,13 +2,14 @@
   "id": 303042383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.308326,28.248195,-81.308326,28.248195",
     "geom:latitude":28.248195,
     "geom:longitude":-81.308326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 13th St",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303042383,
-    "wof:lastmodified":1448999974,
+    "wof:lastmodified":1466431177,
     "wof:name":"A Plus Shoe & Boot Repair",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boot"
     ]
 },
-  "bbox": [-81.308326,28.248195,-81.308326,28.248195],
-  "geometry": {"coordinates":[-81.308326,28.248195],"type":"Point"}
+  "bbox": [
+    -81.308326,
+    28.248195,
+    -81.308326,
+    28.248195
+],
+  "geometry": {"coordinates":[-81.30832599999999,28.248195],"type":"Point"}
 }

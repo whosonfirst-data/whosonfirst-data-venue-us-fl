@@ -2,13 +2,14 @@
   "id": 203094143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.887643,26.5584,-81.887643,26.5584",
     "geom:latitude":26.5584,
     "geom:longitude":-81.887643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 Corporate Ct",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203094143,
-    "wof:lastmodified":1449026146,
+    "wof:lastmodified":1466445148,
     "wof:name":"Wmi",
     "wof:parent_id":85888811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.887643,26.5584,-81.887643,26.5584],
+  "bbox": [
+    -81.887643,
+    26.5584,
+    -81.887643,
+    26.5584
+],
   "geometry": {"coordinates":[-81.887643,26.5584],"type":"Point"}
 }

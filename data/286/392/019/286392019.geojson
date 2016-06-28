@@ -2,13 +2,14 @@
   "id": 286392019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739843,28.101427,-82.739843,28.101427",
     "geom:latitude":28.101427,
     "geom:longitude":-82.739843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36406 US Hwy 19 N",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286392019,
-    "wof:lastmodified":1449017536,
+    "wof:lastmodified":1466431912,
     "wof:name":"Orange Blossom Developers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.739843,28.101427,-82.739843,28.101427],
-  "geometry": {"coordinates":[-82.739843,28.101427],"type":"Point"}
+  "bbox": [
+    -82.739843,
+    28.101427,
+    -82.739843,
+    28.101427
+],
+  "geometry": {"coordinates":[-82.73984299999999,28.101427],"type":"Point"}
 }

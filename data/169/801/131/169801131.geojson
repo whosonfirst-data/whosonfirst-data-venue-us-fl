@@ -2,13 +2,14 @@
   "id": 169801131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.289042,26.255869,-80.289042,26.255869",
     "geom:latitude":26.255869,
     "geom:longitude":-80.289042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Preston Trl",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169801131,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1466429031,
     "wof:name":"Classic Bus Lines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-80.289042,26.255869,-80.289042,26.255869],
-  "geometry": {"coordinates":[-80.289042,26.255869],"type":"Point"}
+  "bbox": [
+    -80.289042,
+    26.255869,
+    -80.289042,
+    26.255869
+],
+  "geometry": {"coordinates":[-80.28904199999999,26.255869],"type":"Point"}
 }

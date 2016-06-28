@@ -2,13 +2,14 @@
   "id": 353395941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184975,25.928645,-80.184975,25.928645",
     "geom:latitude":25.928645,
     "geom:longitude":-80.184975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 NE 167th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353395941,
-    "wof:lastmodified":1449020444,
+    "wof:lastmodified":1466435401,
     "wof:name":"GBS Corporation",
     "wof:parent_id":85879295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "printer"
     ]
 },
-  "bbox": [-80.184975,25.928645,-80.184975,25.928645],
-  "geometry": {"coordinates":[-80.184975,25.928645],"type":"Point"}
+  "bbox": [
+    -80.184975,
+    25.928645,
+    -80.184975,
+    25.928645
+],
+  "geometry": {"coordinates":[-80.18497499999999,25.928645],"type":"Point"}
 }

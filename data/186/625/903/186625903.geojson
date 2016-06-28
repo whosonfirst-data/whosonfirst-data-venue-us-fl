@@ -2,13 +2,14 @@
   "id": 186625903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.100857,26.830841,-80.100857,26.830841",
     "geom:latitude":26.830841,
     "geom:longitude":-80.100857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Burns Rd",
     "sg:city":"Palm Beach Gdns",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186625903,
-    "wof:lastmodified":1449053061,
+    "wof:lastmodified":1466434516,
     "wof:name":"BCP Data Svc",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-80.100857,26.830841,-80.100857,26.830841],
+  "bbox": [
+    -80.100857,
+    26.830841,
+    -80.100857,
+    26.830841
+],
   "geometry": {"coordinates":[-80.100857,26.830841],"type":"Point"}
 }

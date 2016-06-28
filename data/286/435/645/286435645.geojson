@@ -2,13 +2,14 @@
   "id": 286435645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.647405,30.26558,-81.647405,30.26558",
     "geom:latitude":30.26558,
     "geom:longitude":-81.647405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Flanders Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286435645,
-    "wof:lastmodified":1449017822,
+    "wof:lastmodified":1466432663,
     "wof:name":"Lakewood Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.647405,30.26558,-81.647405,30.26558],
-  "geometry": {"coordinates":[-81.647405,30.26558],"type":"Point"}
+  "bbox": [
+    -81.647405,
+    30.26558,
+    -81.647405,
+    30.26558
+],
+  "geometry": {"coordinates":[-81.64740500000001,30.26558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303571641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.435257,25.636513,-80.435257,25.636513",
     "geom:latitude":25.636513,
     "geom:longitude":-80.435257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14974 SW 140th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303571641,
-    "wof:lastmodified":1448999786,
+    "wof:lastmodified":1466440381,
     "wof:name":"Morillo Corp",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.435257,25.636513,-80.435257,25.636513],
-  "geometry": {"coordinates":[-80.435257,25.636513],"type":"Point"}
+  "bbox": [
+    -80.435257,
+    25.636513,
+    -80.435257,
+    25.636513
+],
+  "geometry": {"coordinates":[-80.43525699999999,25.636513],"type":"Point"}
 }

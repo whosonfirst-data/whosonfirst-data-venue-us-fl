@@ -2,13 +2,14 @@
   "id": 303684173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338949,25.760316,-80.338949,25.760316",
     "geom:latitude":25.760316,
     "geom:longitude":-80.338949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 SW 88th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303684173,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466442330,
     "wof:name":"Dump Trucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.338949,25.760316,-80.338949,25.760316],
+  "bbox": [
+    -80.338949,
+    25.760316,
+    -80.338949,
+    25.760316
+],
   "geometry": {"coordinates":[-80.338949,25.760316],"type":"Point"}
 }

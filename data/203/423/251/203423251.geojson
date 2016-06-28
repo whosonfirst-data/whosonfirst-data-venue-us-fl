@@ -2,13 +2,14 @@
   "id": 203423251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.532679,27.316338,-82.532679,27.316338",
     "geom:latitude":27.316338,
     "geom:longitude":-82.532679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Hillview St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203423251,
-    "wof:lastmodified":1449025254,
+    "wof:lastmodified":1466431741,
     "wof:name":"Heart Specialists Of Sarasota",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.532679,27.316338,-82.532679,27.316338],
+  "bbox": [
+    -82.532679,
+    27.316338,
+    -82.532679,
+    27.316338
+],
   "geometry": {"coordinates":[-82.532679,27.316338],"type":"Point"}
 }

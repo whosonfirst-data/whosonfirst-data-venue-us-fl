@@ -2,13 +2,14 @@
   "id": 319860327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.53469,30.352413,-81.53469,30.352413",
     "geom:latitude":30.352413,
     "geom:longitude":-81.53469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10167 W Lake View Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319860327,
-    "wof:lastmodified":1449024442,
+    "wof:lastmodified":1466433501,
     "wof:name":"Steven Turner",
     "wof:parent_id":85812377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.53469,30.352413,-81.53469,30.352413],
+  "bbox": [
+    -81.53469,
+    30.352413,
+    -81.53469,
+    30.352413
+],
   "geometry": {"coordinates":[-81.53469,30.352413],"type":"Point"}
 }

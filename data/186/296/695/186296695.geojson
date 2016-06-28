@@ -2,13 +2,14 @@
   "id": 186296695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.256785,30.524588,-87.256785,30.524588",
     "geom:latitude":30.524588,
     "geom:longitude":-87.256785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Barker St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186296695,
-    "wof:lastmodified":1449052512,
+    "wof:lastmodified":1466430266,
     "wof:name":"Freds Place",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-87.256785,30.524588,-87.256785,30.524588],
-  "geometry": {"coordinates":[-87.256785,30.524588],"type":"Point"}
+  "bbox": [
+    -87.256785,
+    30.524588,
+    -87.256785,
+    30.524588
+],
+  "geometry": {"coordinates":[-87.25678499999999,30.524588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303723039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.496538,28.082357,-82.496538,28.082357",
     "geom:latitude":28.082357,
     "geom:longitude":-82.496538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 Westmoreland Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303723039,
-    "wof:lastmodified":1448999553,
+    "wof:lastmodified":1466443014,
     "wof:name":"Howard Tuch Dr",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.496538,28.082357,-82.496538,28.082357],
+  "bbox": [
+    -82.496538,
+    28.082357,
+    -82.496538,
+    28.082357
+],
   "geometry": {"coordinates":[-82.496538,28.082357],"type":"Point"}
 }

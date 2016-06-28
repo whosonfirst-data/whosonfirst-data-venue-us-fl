@@ -2,13 +2,14 @@
   "id": 404216123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.436991,25.502623,-80.436991,25.502623",
     "geom:latitude":25.502623,
     "geom:longitude":-80.436991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28450 SW 152nd Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404216123,
-    "wof:lastmodified":1449040184,
+    "wof:lastmodified":1466443584,
     "wof:name":"Modello Park",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.436991,25.502623,-80.436991,25.502623],
-  "geometry": {"coordinates":[-80.436991,25.502623],"type":"Point"}
+  "bbox": [
+    -80.436991,
+    25.502623,
+    -80.436991,
+    25.502623
+],
+  "geometry": {"coordinates":[-80.43699100000001,25.502623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252834605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135976,25.853309,-80.135976,25.853309",
     "geom:latitude":25.853309,
     "geom:longitude":-80.135976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1581 Normandy Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252834605,
-    "wof:lastmodified":1449005515,
+    "wof:lastmodified":1466430263,
     "wof:name":"Kalman Tapody W Nola M",
     "wof:parent_id":85878925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.135976,25.853309,-80.135976,25.853309],
+  "bbox": [
+    -80.135976,
+    25.853309,
+    -80.135976,
+    25.853309
+],
   "geometry": {"coordinates":[-80.135976,25.853309],"type":"Point"}
 }

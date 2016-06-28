@@ -2,13 +2,14 @@
   "id": 353823779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080534,26.38065,-80.080534,26.38065",
     "geom:latitude":26.38065,
     "geom:longitude":-80.080534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 NE 33rd St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353823779,
-    "wof:lastmodified":1449020756,
+    "wof:lastmodified":1466441309,
     "wof:name":"Solo Components",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lighting"
     ]
 },
-  "bbox": [-80.080534,26.38065,-80.080534,26.38065],
+  "bbox": [
+    -80.080534,
+    26.38065,
+    -80.080534,
+    26.38065
+],
   "geometry": {"coordinates":[-80.080534,26.38065],"type":"Point"}
 }

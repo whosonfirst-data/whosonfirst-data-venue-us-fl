@@ -2,13 +2,14 @@
   "id": 370480933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.14588,25.761736,-80.14588,25.761736",
     "geom:latitude":25.761736,
     "geom:longitude":-80.14588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Fisher Island Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370480933,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1466441550,
     "wof:name":"Azoulay Photo Gallery",
     "wof:parent_id":85865231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-80.14588,25.761736,-80.14588,25.761736],
-  "geometry": {"coordinates":[-80.14588,25.761736],"type":"Point"}
+  "bbox": [
+    -80.14588,
+    25.761736,
+    -80.14588,
+    25.761736
+],
+  "geometry": {"coordinates":[-80.14588000000001,25.761736],"type":"Point"}
 }

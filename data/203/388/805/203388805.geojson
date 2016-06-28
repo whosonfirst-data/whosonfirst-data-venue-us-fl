@@ -2,13 +2,14 @@
   "id": 203388805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617629,29.035351,-81.617629,29.035351",
     "geom:latitude":29.035351,
     "geom:longitude":-81.617629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47140 E Deer Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203388805,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466431271,
     "wof:name":"Spoonbill Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "artist"
     ]
 },
-  "bbox": [-81.617629,29.035351,-81.617629,29.035351],
-  "geometry": {"coordinates":[-81.617629,29.035351],"type":"Point"}
+  "bbox": [
+    -81.617629,
+    29.035351,
+    -81.617629,
+    29.035351
+],
+  "geometry": {"coordinates":[-81.61762899999999,29.035351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320163923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417453,29.653201,-82.417453,29.653201",
     "geom:latitude":29.653201,
     "geom:longitude":-82.417453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7112 W University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320163923,
-    "wof:lastmodified":1449014887,
+    "wof:lastmodified":1466436189,
     "wof:name":"Video Outlet",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-82.417453,29.653201,-82.417453,29.653201],
-  "geometry": {"coordinates":[-82.417453,29.653201],"type":"Point"}
+  "bbox": [
+    -82.417453,
+    29.653201,
+    -82.417453,
+    29.653201
+],
+  "geometry": {"coordinates":[-82.41745299999999,29.653201],"type":"Point"}
 }

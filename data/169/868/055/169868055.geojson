@@ -2,13 +2,14 @@
   "id": 169868055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380105,28.663261,-81.380105,28.663261",
     "geom:latitude":28.663261,
     "geom:longitude":-81.380105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 E Altamonte Dr",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169868055,
-    "wof:lastmodified":1449032835,
+    "wof:lastmodified":1466429738,
     "wof:name":"Dreyfus",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.380105,28.663261,-81.380105,28.663261],
+  "bbox": [
+    -81.380105,
+    28.663261,
+    -81.380105,
+    28.663261
+],
   "geometry": {"coordinates":[-81.380105,28.663261],"type":"Point"}
 }

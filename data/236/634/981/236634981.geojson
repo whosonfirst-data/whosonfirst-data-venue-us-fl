@@ -2,13 +2,14 @@
   "id": 236634981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.365464,28.549526,-81.365464,28.549526",
     "geom:latitude":28.549526,
     "geom:longitude":-81.365464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Amelia St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236634981,
-    "wof:lastmodified":1449003185,
+    "wof:lastmodified":1466437395,
     "wof:name":"United Sales Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-81.365464,28.549526,-81.365464,28.549526],
+  "bbox": [
+    -81.365464,
+    28.549526,
+    -81.365464,
+    28.549526
+],
   "geometry": {"coordinates":[-81.365464,28.549526],"type":"Point"}
 }

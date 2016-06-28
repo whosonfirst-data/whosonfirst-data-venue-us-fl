@@ -2,13 +2,14 @@
   "id": 353904757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.344991,25.759879,-80.344991,25.759879",
     "geom:latitude":25.759879,
     "geom:longitude":-80.344991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9245 SW 10th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353904757,
-    "wof:lastmodified":1449020868,
+    "wof:lastmodified":1466442548,
     "wof:name":"MCG Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "system"
     ]
 },
-  "bbox": [-80.344991,25.759879,-80.344991,25.759879],
-  "geometry": {"coordinates":[-80.344991,25.759879],"type":"Point"}
+  "bbox": [
+    -80.344991,
+    25.759879,
+    -80.344991,
+    25.759879
+],
+  "geometry": {"coordinates":[-80.34499099999999,25.759879],"type":"Point"}
 }

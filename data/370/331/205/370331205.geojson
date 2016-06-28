@@ -2,13 +2,14 @@
   "id": 370331205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326429,25.715094,-80.326429,25.715094",
     "geom:latitude":25.715094,
     "geom:longitude":-80.326429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5785 SW 82nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370331205,
-    "wof:lastmodified":1449031142,
+    "wof:lastmodified":1466439234,
     "wof:name":"James F Albury Painting",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.326429,25.715094,-80.326429,25.715094],
+  "bbox": [
+    -80.326429,
+    25.715094,
+    -80.326429,
+    25.715094
+],
   "geometry": {"coordinates":[-80.326429,25.715094],"type":"Point"}
 }

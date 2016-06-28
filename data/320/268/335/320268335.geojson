@@ -2,13 +2,14 @@
   "id": 320268335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20458,26.483756,-80.20458,26.483756",
     "geom:latitude":26.483756,
     "geom:longitude":-80.20458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12265 US Hwy 441",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320268335,
-    "wof:lastmodified":1449013381,
+    "wof:lastmodified":1466437982,
     "wof:name":"Tru Green Land Care",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.20458,26.483756,-80.20458,26.483756],
-  "geometry": {"coordinates":[-80.20458,26.483756],"type":"Point"}
+  "bbox": [
+    -80.20458,
+    26.483756,
+    -80.20458,
+    26.483756
+],
+  "geometry": {"coordinates":[-80.20458000000001,26.483756],"type":"Point"}
 }

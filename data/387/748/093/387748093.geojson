@@ -2,13 +2,14 @@
   "id": 387748093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.647521,30.34849,-81.647521,30.34849",
     "geom:latitude":30.34849,
     "geom:longitude":-81.647521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 Walnut St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387748093,
-    "wof:lastmodified":1449058960,
+    "wof:lastmodified":1466448590,
     "wof:name":"Walnut Inn",
     "wof:parent_id":85870765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-81.647521,30.34849,-81.647521,30.34849],
+  "bbox": [
+    -81.647521,
+    30.34849,
+    -81.647521,
+    30.34849
+],
   "geometry": {"coordinates":[-81.647521,30.34849],"type":"Point"}
 }

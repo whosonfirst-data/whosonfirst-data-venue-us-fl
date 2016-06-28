@@ -2,13 +2,14 @@
   "id": 337413569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246618,27.175719,-80.246618,27.175719",
     "geom:latitude":27.175719,
     "geom:longitude":-80.246618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 SE Monterey Rd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337413569,
-    "wof:lastmodified":1449027054,
+    "wof:lastmodified":1466435511,
     "wof:name":"Personal Postmaster Inc",
     "wof:parent_id":85889629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-80.246618,27.175719,-80.246618,27.175719],
+  "bbox": [
+    -80.246618,
+    27.175719,
+    -80.246618,
+    27.175719
+],
   "geometry": {"coordinates":[-80.246618,27.175719],"type":"Point"}
 }

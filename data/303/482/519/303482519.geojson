@@ -2,13 +2,14 @@
   "id": 303482519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.153207,30.602497,-87.153207,30.602497",
     "geom:latitude":30.602497,
     "geom:longitude":-87.153207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 US Hwy 90",
     "sg:city":"Pace",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303482519,
-    "wof:lastmodified":1448998988,
+    "wof:lastmodified":1466438858,
     "wof:name":"Panhandle Chimney Sweep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chimney"
     ]
 },
-  "bbox": [-87.153207,30.602497,-87.153207,30.602497],
-  "geometry": {"coordinates":[-87.153207,30.602497],"type":"Point"}
+  "bbox": [
+    -87.153207,
+    30.602497,
+    -87.153207,
+    30.602497
+],
+  "geometry": {"coordinates":[-87.15320699999999,30.602497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202635749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131396,26.191253,-80.131396,26.191253",
     "geom:latitude":26.191253,
     "geom:longitude":-80.131396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5095 NE 12th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202635749,
-    "wof:lastmodified":1449061219,
+    "wof:lastmodified":1466430159,
     "wof:name":"Personal Automotive Services",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.131396,26.191253,-80.131396,26.191253],
+  "bbox": [
+    -80.131396,
+    26.191253,
+    -80.131396,
+    26.191253
+],
   "geometry": {"coordinates":[-80.131396,26.191253],"type":"Point"}
 }

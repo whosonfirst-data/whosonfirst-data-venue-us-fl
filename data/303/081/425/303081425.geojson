@@ -2,13 +2,14 @@
   "id": 303081425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.733387,28.80992,-81.733387,28.80992",
     "geom:latitude":28.80992,
     "geom:longitude":-81.733387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 W Burleigh Blvd",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303081425,
-    "wof:lastmodified":1448998874,
+    "wof:lastmodified":1466431876,
     "wof:name":"Carpet Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.733387,28.80992,-81.733387,28.80992],
-  "geometry": {"coordinates":[-81.733387,28.80992],"type":"Point"}
+  "bbox": [
+    -81.733387,
+    28.80992,
+    -81.733387,
+    28.80992
+],
+  "geometry": {"coordinates":[-81.73338699999999,28.80992],"type":"Point"}
 }

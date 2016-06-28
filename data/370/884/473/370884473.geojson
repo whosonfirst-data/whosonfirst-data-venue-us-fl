@@ -2,13 +2,14 @@
   "id": 370884473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422373,27.955001,-82.422373,27.955001",
     "geom:latitude":27.955001,
     "geom:longitude":-82.422373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N 34th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370884473,
-    "wof:lastmodified":1449031825,
+    "wof:lastmodified":1466447369,
     "wof:name":"Shepler's",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "form"
     ]
 },
-  "bbox": [-82.422373,27.955001,-82.422373,27.955001],
-  "geometry": {"coordinates":[-82.422373,27.955001],"type":"Point"}
+  "bbox": [
+    -82.422373,
+    27.955001,
+    -82.422373,
+    27.955001
+],
+  "geometry": {"coordinates":[-82.42237299999999,27.955001],"type":"Point"}
 }

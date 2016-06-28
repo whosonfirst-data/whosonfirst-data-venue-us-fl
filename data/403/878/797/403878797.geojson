@@ -2,13 +2,14 @@
   "id": 403878797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141489,26.379405,-80.141489,26.379405",
     "geom:latitude":26.379405,
     "geom:longitude":-80.141489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 NW 31st St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403878797,
-    "wof:lastmodified":1449055340,
+    "wof:lastmodified":1466442394,
     "wof:name":"Ad Valorem",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.141489,26.379405,-80.141489,26.379405],
-  "geometry": {"coordinates":[-80.141489,26.379405],"type":"Point"}
+  "bbox": [
+    -80.141489,
+    26.379405,
+    -80.141489,
+    26.379405
+],
+  "geometry": {"coordinates":[-80.14148900000001,26.379405],"type":"Point"}
 }

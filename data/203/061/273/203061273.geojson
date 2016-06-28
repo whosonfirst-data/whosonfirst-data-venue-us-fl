@@ -2,13 +2,14 @@
   "id": 203061273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04739,29.235348,-81.04739,29.235348",
     "geom:latitude":29.235348,
     "geom:longitude":-81.04739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 8th St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203061273,
-    "wof:lastmodified":1449026337,
+    "wof:lastmodified":1466444368,
     "wof:name":"National Services",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.04739,29.235348,-81.04739,29.235348],
-  "geometry": {"coordinates":[-81.04739,29.235348],"type":"Point"}
+  "bbox": [
+    -81.04739,
+    29.235348,
+    -81.04739,
+    29.235348
+],
+  "geometry": {"coordinates":[-81.04738999999999,29.235348],"type":"Point"}
 }

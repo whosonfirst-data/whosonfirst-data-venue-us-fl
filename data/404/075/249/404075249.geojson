@@ -2,13 +2,14 @@
   "id": 404075249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.569783,27.322599,-82.569783,27.322599",
     "geom:latitude":27.322599,
     "geom:longitude":-82.569783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"773 John Ringling Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404075249,
-    "wof:lastmodified":1449039790,
+    "wof:lastmodified":1466441410,
     "wof:name":"Sarasota Harbour East",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-82.569783,27.322599,-82.569783,27.322599],
+  "bbox": [
+    -82.569783,
+    27.322599,
+    -82.569783,
+    27.322599
+],
   "geometry": {"coordinates":[-82.569783,27.322599],"type":"Point"}
 }

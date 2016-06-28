@@ -2,13 +2,14 @@
   "id": 303800965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.214202,30.454227,-87.214202,30.454227",
     "geom:latitude":30.454227,
     "geom:longitude":-87.214202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3818 N 9th Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303800965,
-    "wof:lastmodified":1448998312,
+    "wof:lastmodified":1466444324,
     "wof:name":"Express Phone Svc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-87.214202,30.454227,-87.214202,30.454227],
+  "bbox": [
+    -87.214202,
+    30.454227,
+    -87.214202,
+    30.454227
+],
   "geometry": {"coordinates":[-87.214202,30.454227],"type":"Point"}
 }

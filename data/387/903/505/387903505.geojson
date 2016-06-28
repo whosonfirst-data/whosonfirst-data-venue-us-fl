@@ -2,13 +2,14 @@
   "id": 387903505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.76234,27.906601,-82.76234,27.906601",
     "geom:latitude":27.906601,
     "geom:longitude":-82.76234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Starkey Rd",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387903505,
-    "wof:lastmodified":1449056340,
+    "wof:lastmodified":1466449643,
     "wof:name":"Habitat For Humanity Pinellas",
     "wof:parent_id":85889107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.76234,27.906601,-82.76234,27.906601],
-  "geometry": {"coordinates":[-82.76234,27.906601],"type":"Point"}
+  "bbox": [
+    -82.76234,
+    27.906601,
+    -82.76234,
+    27.906601
+],
+  "geometry": {"coordinates":[-82.76233999999999,27.906601],"type":"Point"}
 }

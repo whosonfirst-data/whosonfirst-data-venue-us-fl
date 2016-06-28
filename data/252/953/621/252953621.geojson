@@ -2,13 +2,14 @@
   "id": 252953621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.705013,26.175555,-81.705013,26.175555",
     "geom:latitude":26.175555,
     "geom:longitude":-81.705013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 49th Ln SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252953621,
-    "wof:lastmodified":1449006142,
+    "wof:lastmodified":1466431978,
     "wof:name":"Mr Duster Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.705013,26.175555,-81.705013,26.175555],
-  "geometry": {"coordinates":[-81.705013,26.175555],"type":"Point"}
+  "bbox": [
+    -81.705013,
+    26.175555,
+    -81.705013,
+    26.175555
+],
+  "geometry": {"coordinates":[-81.70501299999999,26.175555],"type":"Point"}
 }

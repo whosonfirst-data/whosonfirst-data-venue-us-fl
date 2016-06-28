@@ -2,13 +2,14 @@
   "id": 253328029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.44777,27.455954,-82.44777,27.455954",
     "geom:latitude":27.455954,
     "geom:longitude":-82.44777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4822 88th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253328029,
-    "wof:lastmodified":1449064554,
+    "wof:lastmodified":1466432647,
     "wof:name":"Skarp Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "planning"
     ]
 },
-  "bbox": [-82.44777,27.455954,-82.44777,27.455954],
-  "geometry": {"coordinates":[-82.44777,27.455954],"type":"Point"}
+  "bbox": [
+    -82.44777,
+    27.455954,
+    -82.44777,
+    27.455954
+],
+  "geometry": {"coordinates":[-82.44777000000001,27.455954],"type":"Point"}
 }

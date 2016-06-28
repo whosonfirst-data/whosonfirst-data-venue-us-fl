@@ -2,13 +2,14 @@
   "id": 354224189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.403065,29.661253,-82.403065,29.661253",
     "geom:latitude":29.661253,
     "geom:longitude":-82.403065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 NW 56 Ter",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354224189,
-    "wof:lastmodified":1449067208,
+    "wof:lastmodified":1466439563,
     "wof:name":"Hca Physician Svc",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.403065,29.661253,-82.403065,29.661253],
+  "bbox": [
+    -82.403065,
+    29.661253,
+    -82.403065,
+    29.661253
+],
   "geometry": {"coordinates":[-82.403065,29.661253],"type":"Point"}
 }

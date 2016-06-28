@@ -2,13 +2,14 @@
   "id": 370660071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493012,30.521929,-86.493012,30.521929",
     "geom:latitude":30.521929,
     "geom:longitude":-86.493012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370660071,
-    "wof:lastmodified":1449032125,
+    "wof:lastmodified":1466444285,
     "wof:name":"Moore Law Firm",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.493012,30.521929,-86.493012,30.521929],
-  "geometry": {"coordinates":[-86.493012,30.521929],"type":"Point"}
+  "bbox": [
+    -86.493012,
+    30.521929,
+    -86.493012,
+    30.521929
+],
+  "geometry": {"coordinates":[-86.49301199999999,30.521929],"type":"Point"}
 }

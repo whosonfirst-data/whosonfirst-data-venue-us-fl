@@ -2,13 +2,14 @@
   "id": 186314795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.216259,30.511554,-84.216259,30.511554",
     "geom:latitude":30.511554,
     "geom:longitude":-84.216259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Springfield Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186314795,
-    "wof:lastmodified":1449052923,
+    "wof:lastmodified":1466430480,
     "wof:name":"Tim Spath Painting",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.216259,30.511554,-84.216259,30.511554],
-  "geometry": {"coordinates":[-84.216259,30.511554],"type":"Point"}
+  "bbox": [
+    -84.216259,
+    30.511554,
+    -84.216259,
+    30.511554
+],
+  "geometry": {"coordinates":[-84.21625899999999,30.511554],"type":"Point"}
 }

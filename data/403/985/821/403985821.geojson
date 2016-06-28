@@ -2,13 +2,14 @@
   "id": 403985821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.121046,29.198483,-82.121046,29.198483",
     "geom:latitude":29.198483,
     "geom:longitude":-82.121046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 NE 13th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403985821,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466444088,
     "wof:name":"Creation Electric Inc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.121046,29.198483,-82.121046,29.198483],
-  "geometry": {"coordinates":[-82.121046,29.198483],"type":"Point"}
+  "bbox": [
+    -82.121046,
+    29.198483,
+    -82.121046,
+    29.198483
+],
+  "geometry": {"coordinates":[-82.12104600000001,29.198483],"type":"Point"}
 }

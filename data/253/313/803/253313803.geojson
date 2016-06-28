@@ -2,13 +2,14 @@
   "id": 253313803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.349823,25.864883,-80.349823,25.864883",
     "geom:latitude":25.864883,
     "geom:longitude":-80.349823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9205 NW 101st St",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253313803,
-    "wof:lastmodified":1449062911,
+    "wof:lastmodified":1466432431,
     "wof:name":"R Software",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-80.349823,25.864883,-80.349823,25.864883],
+  "bbox": [
+    -80.349823,
+    25.864883,
+    -80.349823,
+    25.864883
+],
   "geometry": {"coordinates":[-80.349823,25.864883],"type":"Point"}
 }

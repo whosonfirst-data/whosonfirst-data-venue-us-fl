@@ -2,13 +2,14 @@
   "id": 203255655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265547,26.16118,-80.265547,26.16118",
     "geom:latitude":26.16118,
     "geom:longitude":-80.265547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8531 NW 29th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203255655,
-    "wof:lastmodified":1449025771,
+    "wof:lastmodified":1466429622,
     "wof:name":"John Lipham Flooring",
     "wof:parent_id":85896109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.265547,26.16118,-80.265547,26.16118],
+  "bbox": [
+    -80.265547,
+    26.16118,
+    -80.265547,
+    26.16118
+],
   "geometry": {"coordinates":[-80.265547,26.16118],"type":"Point"}
 }

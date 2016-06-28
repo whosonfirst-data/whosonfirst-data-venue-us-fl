@@ -2,13 +2,14 @@
   "id": 303945781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502908,28.388842,-81.502908,28.388842",
     "geom:latitude":28.388842,
     "geom:longitude":-81.502908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12007 Cypress Run Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303945781,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466446830,
     "wof:name":"Westin Vacation Mgmt Corp",
     "wof:parent_id":85889283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-81.502908,28.388842,-81.502908,28.388842],
-  "geometry": {"coordinates":[-81.502908,28.388842],"type":"Point"}
+  "bbox": [
+    -81.502908,
+    28.388842,
+    -81.502908,
+    28.388842
+],
+  "geometry": {"coordinates":[-81.50290800000001,28.388842],"type":"Point"}
 }

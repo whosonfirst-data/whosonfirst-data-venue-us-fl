@@ -2,13 +2,14 @@
   "id": 370730891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099933,26.159482,-80.099933,26.159482",
     "geom:latitude":26.159482,
     "geom:longitude":-80.099933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 N Atlantic Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370730891,
-    "wof:lastmodified":1449031924,
+    "wof:lastmodified":1466445367,
     "wof:name":"Costa Properties Inc",
     "wof:parent_id":85881959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.099933,26.159482,-80.099933,26.159482],
-  "geometry": {"coordinates":[-80.099933,26.159482],"type":"Point"}
+  "bbox": [
+    -80.099933,
+    26.159482,
+    -80.099933,
+    26.159482
+],
+  "geometry": {"coordinates":[-80.09993299999999,26.159482],"type":"Point"}
 }

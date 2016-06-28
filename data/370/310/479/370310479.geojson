@@ -2,13 +2,14 @@
   "id": 370310479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.770873,28.1473,-82.770873,28.1473",
     "geom:latitude":28.1473,
     "geom:longitude":-82.770873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Riverside Dr",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370310479,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466438914,
     "wof:name":"Productivity",
     "wof:parent_id":85889823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-82.770873,28.1473,-82.770873,28.1473],
-  "geometry": {"coordinates":[-82.770873,28.1473],"type":"Point"}
+  "bbox": [
+    -82.770873,
+    28.1473,
+    -82.770873,
+    28.1473
+],
+  "geometry": {"coordinates":[-82.77087299999999,28.1473],"type":"Point"}
 }

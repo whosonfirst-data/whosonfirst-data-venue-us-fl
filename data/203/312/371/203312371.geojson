@@ -2,13 +2,14 @@
   "id": 203312371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.239241,28.656205,-81.239241,28.656205",
     "geom:latitude":28.656205,
     "geom:longitude":-81.239241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Red Bug Lake Rd",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203312371,
-    "wof:lastmodified":1449025883,
+    "wof:lastmodified":1466430317,
     "wof:name":"Rehab/Oviedo",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.239241,28.656205,-81.239241,28.656205],
-  "geometry": {"coordinates":[-81.239241,28.656205],"type":"Point"}
+  "bbox": [
+    -81.239241,
+    28.656205,
+    -81.239241,
+    28.656205
+],
+  "geometry": {"coordinates":[-81.23924100000001,28.656205],"type":"Point"}
 }

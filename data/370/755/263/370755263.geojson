@@ -2,13 +2,14 @@
   "id": 370755263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138596,26.176616,-80.138596,26.176616",
     "geom:latitude":26.176616,
     "geom:longitude":-80.138596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"692 NE 40th Ct",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370755263,
-    "wof:lastmodified":1449030065,
+    "wof:lastmodified":1466445759,
     "wof:name":"Tigress Blind Distributors",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-80.138596,26.176616,-80.138596,26.176616],
-  "geometry": {"coordinates":[-80.138596,26.176616],"type":"Point"}
+  "bbox": [
+    -80.138596,
+    26.176616,
+    -80.138596,
+    26.176616
+],
+  "geometry": {"coordinates":[-80.13859600000001,26.176616],"type":"Point"}
 }

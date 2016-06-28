@@ -2,13 +2,14 @@
   "id": 269911099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.331505,29.651975,-82.331505,29.651975",
     "geom:latitude":29.651975,
     "geom:longitude":-82.331505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269911099,
-    "wof:lastmodified":1449038457,
+    "wof:lastmodified":1466436019,
     "wof:name":"Ebona Magic",
     "wof:parent_id":85877639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-82.331505,29.651975,-82.331505,29.651975],
-  "geometry": {"coordinates":[-82.331505,29.651975],"type":"Point"}
+  "bbox": [
+    -82.331505,
+    29.651975,
+    -82.331505,
+    29.651975
+],
+  "geometry": {"coordinates":[-82.33150500000001,29.651975],"type":"Point"}
 }

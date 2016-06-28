@@ -2,13 +2,14 @@
   "id": 303132053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.704529,28.265336,-80.704529,28.265336",
     "geom:latitude":28.265336,
     "geom:longitude":-80.704529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5771 Herons Landing Dr",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303132053,
-    "wof:lastmodified":1448999313,
+    "wof:lastmodified":1466432787,
     "wof:name":"Cruise One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.704529,28.265336,-80.704529,28.265336],
-  "geometry": {"coordinates":[-80.704529,28.265336],"type":"Point"}
+  "bbox": [
+    -80.704529,
+    28.265336,
+    -80.704529,
+    28.265336
+],
+  "geometry": {"coordinates":[-80.70452899999999,28.265336],"type":"Point"}
 }

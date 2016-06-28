@@ -2,13 +2,14 @@
   "id": 353890635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.528286,30.317881,-81.528286,30.317881",
     "geom:latitude":30.317881,
     "geom:longitude":-81.528286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10441 Mc Aleer Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353890635,
-    "wof:lastmodified":1449018827,
+    "wof:lastmodified":1466442330,
     "wof:name":"Arlington East Athletic Assn",
     "wof:parent_id":85870695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.528286,30.317881,-81.528286,30.317881],
-  "geometry": {"coordinates":[-81.528286,30.317881],"type":"Point"}
+  "bbox": [
+    -81.528286,
+    30.317881,
+    -81.528286,
+    30.317881
+],
+  "geometry": {"coordinates":[-81.52828599999999,30.317881],"type":"Point"}
 }

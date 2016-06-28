@@ -2,13 +2,14 @@
   "id": 303163163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.017665,27.003587,-82.017665,27.003587",
     "geom:latitude":27.003587,
     "geom:longitude":-82.017665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 Rio de Janeiro Ave",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303163163,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466433342,
     "wof:name":"Cardiology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.017665,27.003587,-82.017665,27.003587],
-  "geometry": {"coordinates":[-82.017665,27.003587],"type":"Point"}
+  "bbox": [
+    -82.017665,
+    27.003587,
+    -82.017665,
+    27.003587
+],
+  "geometry": {"coordinates":[-82.01766499999999,27.003587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320379227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.481089,27.288293,-82.481089,27.288293",
     "geom:latitude":27.288293,
     "geom:longitude":-82.481089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 McIntosh Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320379227,
-    "wof:lastmodified":1449013426,
+    "wof:lastmodified":1466439879,
     "wof:name":"McIntosh Manor Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.481089,27.288293,-82.481089,27.288293],
+  "bbox": [
+    -82.481089,
+    27.288293,
+    -82.481089,
+    27.288293
+],
   "geometry": {"coordinates":[-82.481089,27.288293],"type":"Point"}
 }

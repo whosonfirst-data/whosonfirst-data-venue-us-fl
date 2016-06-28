@@ -2,13 +2,14 @@
   "id": 303590339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120999,26.370915,-80.120999,26.370915",
     "geom:latitude":26.370915,
     "geom:longitude":-80.120999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Military Trl",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303590339,
-    "wof:lastmodified":1448999575,
+    "wof:lastmodified":1466440693,
     "wof:name":"John P Courtney Jr DDS",
     "wof:parent_id":85840449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.120999,26.370915,-80.120999,26.370915],
+  "bbox": [
+    -80.120999,
+    26.370915,
+    -80.120999,
+    26.370915
+],
   "geometry": {"coordinates":[-80.120999,26.370915],"type":"Point"}
 }

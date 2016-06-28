@@ -2,13 +2,14 @@
   "id": 370223291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056833,26.472916,-80.056833,26.472916",
     "geom:latitude":26.472916,
     "geom:longitude":-80.056833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N Ocean Blvd",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370223291,
-    "wof:lastmodified":1449029316,
+    "wof:lastmodified":1466437586,
     "wof:name":"NDS",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.056833,26.472916,-80.056833,26.472916],
+  "bbox": [
+    -80.056833,
+    26.472916,
+    -80.056833,
+    26.472916
+],
   "geometry": {"coordinates":[-80.056833,26.472916],"type":"Point"}
 }

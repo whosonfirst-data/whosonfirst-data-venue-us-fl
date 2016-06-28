@@ -2,13 +2,14 @@
   "id": 286812763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.797333,30.116047,-81.797333,30.116047",
     "geom:latitude":30.116047,
     "geom:longitude":-81.797333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Knight Boxx Rd",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286812763,
-    "wof:lastmodified":1449015237,
+    "wof:lastmodified":1466439329,
     "wof:name":"Coastal Well Pump & Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.797333,30.116047,-81.797333,30.116047],
-  "geometry": {"coordinates":[-81.797333,30.116047],"type":"Point"}
+  "bbox": [
+    -81.797333,
+    30.116047,
+    -81.797333,
+    30.116047
+],
+  "geometry": {"coordinates":[-81.79733299999999,30.116047],"type":"Point"}
 }

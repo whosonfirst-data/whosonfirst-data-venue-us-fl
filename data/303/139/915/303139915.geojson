@@ -2,13 +2,14 @@
   "id": 303139915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195276,26.119153,-80.195276,26.119153",
     "geom:latitude":26.119153,
     "geom:longitude":-80.195276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3661 SW 2nd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303139915,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1466432931,
     "wof:name":"South Florida Pest Control",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.195276,26.119153,-80.195276,26.119153],
-  "geometry": {"coordinates":[-80.195276,26.119153],"type":"Point"}
+  "bbox": [
+    -80.195276,
+    26.119153,
+    -80.195276,
+    26.119153
+],
+  "geometry": {"coordinates":[-80.19527600000001,26.119153],"type":"Point"}
 }

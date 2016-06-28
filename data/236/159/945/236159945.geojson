@@ -2,13 +2,14 @@
   "id": 236159945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.973841,28.102215,-81.973841,28.102215",
     "geom:latitude":28.102215,
     "geom:longitude":-81.973841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4732 US Hwy 98",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236159945,
-    "wof:lastmodified":1449001972,
+    "wof:lastmodified":1466430650,
     "wof:name":"Mortgage Source of Lakeland",
     "wof:parent_id":85889021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "correspondent"
     ]
 },
-  "bbox": [-81.973841,28.102215,-81.973841,28.102215],
-  "geometry": {"coordinates":[-81.973841,28.102215],"type":"Point"}
+  "bbox": [
+    -81.973841,
+    28.102215,
+    -81.973841,
+    28.102215
+],
+  "geometry": {"coordinates":[-81.97384099999999,28.102215],"type":"Point"}
 }

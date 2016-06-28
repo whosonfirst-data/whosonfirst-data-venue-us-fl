@@ -2,13 +2,14 @@
   "id": 303722497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.098636,26.820352,-80.098636,26.820352",
     "geom:latitude":26.820352,
     "geom:longitude":-80.098636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4094 Jonquil Cir S",
     "sg:city":"Palm Beach Gardens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303722497,
-    "wof:lastmodified":1448998976,
+    "wof:lastmodified":1466443004,
     "wof:name":"Dow Chemical",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.098636,26.820352,-80.098636,26.820352],
+  "bbox": [
+    -80.098636,
+    26.820352,
+    -80.098636,
+    26.820352
+],
   "geometry": {"coordinates":[-80.098636,26.820352],"type":"Point"}
 }

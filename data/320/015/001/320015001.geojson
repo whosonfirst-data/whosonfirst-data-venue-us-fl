@@ -2,13 +2,14 @@
   "id": 320015001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147354,26.299332,-80.147354,26.299332",
     "geom:latitude":26.299332,
     "geom:longitude":-80.147354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 SW 13th Dr",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320015001,
-    "wof:lastmodified":1449012109,
+    "wof:lastmodified":1466433660,
     "wof:name":"Sporting Look",
     "wof:parent_id":85806695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mi"
     ]
 },
-  "bbox": [-80.147354,26.299332,-80.147354,26.299332],
-  "geometry": {"coordinates":[-80.147354,26.299332],"type":"Point"}
+  "bbox": [
+    -80.147354,
+    26.299332,
+    -80.147354,
+    26.299332
+],
+  "geometry": {"coordinates":[-80.14735400000001,26.299332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404103901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.681227,30.313987,-81.681227,30.313987",
     "geom:latitude":30.313987,
     "geom:longitude":-81.681227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404103901,
-    "wof:lastmodified":1449039863,
+    "wof:lastmodified":1466441842,
     "wof:name":"Time Warp Vintage",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-81.681227,30.313987,-81.681227,30.313987],
-  "geometry": {"coordinates":[-81.681227,30.313987],"type":"Point"}
+  "bbox": [
+    -81.681227,
+    30.313987,
+    -81.681227,
+    30.313987
+],
+  "geometry": {"coordinates":[-81.68122700000001,30.313987],"type":"Point"}
 }

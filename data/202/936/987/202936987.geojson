@@ -2,13 +2,14 @@
   "id": 202936987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.515057,27.29289,-82.515057,27.29289",
     "geom:latitude":27.29289,
     "geom:longitude":-82.515057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2624 Marlette St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202936987,
-    "wof:lastmodified":1449060956,
+    "wof:lastmodified":1466434094,
     "wof:name":"Harbor Home Inspections LLC",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.515057,27.29289,-82.515057,27.29289],
+  "bbox": [
+    -82.515057,
+    27.29289,
+    -82.515057,
+    27.29289
+],
   "geometry": {"coordinates":[-82.515057,27.29289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353936389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.339125,28.708348,-81.339125,28.708348",
     "geom:latitude":28.708348,
     "geom:longitude":-81.339125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Winding Oak Ln",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353936389,
-    "wof:lastmodified":1449019111,
+    "wof:lastmodified":1466443021,
     "wof:name":"John Tile Inc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.339125,28.708348,-81.339125,28.708348],
+  "bbox": [
+    -81.339125,
+    28.708348,
+    -81.339125,
+    28.708348
+],
   "geometry": {"coordinates":[-81.339125,28.708348],"type":"Point"}
 }

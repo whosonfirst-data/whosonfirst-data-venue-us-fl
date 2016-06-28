@@ -2,13 +2,14 @@
   "id": 220103441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257922,26.06452,-80.257922,26.06452",
     "geom:latitude":26.06452,
     "geom:longitude":-80.257922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8276 Griffin Rd",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220103441,
-    "wof:lastmodified":1449074542,
+    "wof:lastmodified":1466446017,
     "wof:name":"Barber Stylus",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.257922,26.06452,-80.257922,26.06452],
-  "geometry": {"coordinates":[-80.257922,26.06452],"type":"Point"}
+  "bbox": [
+    -80.257922,
+    26.06452,
+    -80.257922,
+    26.06452
+],
+  "geometry": {"coordinates":[-80.25792199999999,26.06452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202459673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240524,30.431891,-87.240524,30.431891",
     "geom:latitude":30.431891,
     "geom:longitude":-87.240524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 N Pace Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202459673,
-    "wof:lastmodified":1449061144,
+    "wof:lastmodified":1466445090,
     "wof:name":"Mount Pilgrim Miss Bapt Chrch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.240524,30.431891,-87.240524,30.431891],
-  "geometry": {"coordinates":[-87.240524,30.431891],"type":"Point"}
+  "bbox": [
+    -87.240524,
+    30.431891,
+    -87.240524,
+    30.431891
+],
+  "geometry": {"coordinates":[-87.24052399999999,30.431891],"type":"Point"}
 }

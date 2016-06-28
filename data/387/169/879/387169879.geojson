@@ -2,13 +2,14 @@
   "id": 387169879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.333627,28.446783,-81.333627,28.446783",
     "geom:latitude":28.446783,
     "geom:longitude":-81.333627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8442 Tradeport Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387169879,
-    "wof:lastmodified":1449058449,
+    "wof:lastmodified":1466441323,
     "wof:name":"USF Worldwide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.333627,28.446783,-81.333627,28.446783],
-  "geometry": {"coordinates":[-81.333627,28.446783],"type":"Point"}
+  "bbox": [
+    -81.333627,
+    28.446783,
+    -81.333627,
+    28.446783
+],
+  "geometry": {"coordinates":[-81.33362700000001,28.446783],"type":"Point"}
 }

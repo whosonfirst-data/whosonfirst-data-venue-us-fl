@@ -2,13 +2,14 @@
   "id": 270125489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.957034,27.991681,-81.957034,27.991681",
     "geom:latitude":27.991681,
     "geom:longitude":-81.957034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 S Florida Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270125489,
-    "wof:lastmodified":1449011045,
+    "wof:lastmodified":1466431586,
     "wof:name":"CBIS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.957034,27.991681,-81.957034,27.991681],
-  "geometry": {"coordinates":[-81.957034,27.991681],"type":"Point"}
+  "bbox": [
+    -81.957034,
+    27.991681,
+    -81.957034,
+    27.991681
+],
+  "geometry": {"coordinates":[-81.95703399999999,27.991681],"type":"Point"}
 }

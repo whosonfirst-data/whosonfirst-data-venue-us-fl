@@ -2,13 +2,14 @@
   "id": 303489703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.651215,26.607884,-81.651215,26.607884",
     "geom:latitude":26.607884,
     "geom:longitude":-81.651215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Homestead Rd N",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303489703,
-    "wof:lastmodified":1448999455,
+    "wof:lastmodified":1466438973,
     "wof:name":"Bealls 65",
     "wof:parent_id":85889143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.651215,26.607884,-81.651215,26.607884],
-  "geometry": {"coordinates":[-81.651215,26.607884],"type":"Point"}
+  "bbox": [
+    -81.651215,
+    26.607884,
+    -81.651215,
+    26.607884
+],
+  "geometry": {"coordinates":[-81.65121499999999,26.607884],"type":"Point"}
 }

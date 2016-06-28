@@ -2,13 +2,14 @@
   "id": 236311379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.815854,27.536399,-81.815854,27.536399",
     "geom:latitude":27.536399,
     "geom:longitude":-81.815854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Carlton St",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236311379,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1466432825,
     "wof:name":"Florida Hospital Wauchula",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.815854,27.536399,-81.815854,27.536399],
+  "bbox": [
+    -81.815854,
+    27.536399,
+    -81.815854,
+    27.536399
+],
   "geometry": {"coordinates":[-81.815854,27.536399],"type":"Point"}
 }

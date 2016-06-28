@@ -2,13 +2,14 @@
   "id": 320504611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.305006,27.97648,-82.305006,27.97648",
     "geom:latitude":27.97648,
     "geom:longitude":-82.305006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Palm Leaf Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320504611,
-    "wof:lastmodified":1449011916,
+    "wof:lastmodified":1466442105,
     "wof:name":"Johns Placque & Engraving Svc",
     "wof:parent_id":85889585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.305006,27.97648,-82.305006,27.97648],
-  "geometry": {"coordinates":[-82.305006,27.97648],"type":"Point"}
+  "bbox": [
+    -82.305006,
+    27.97648,
+    -82.305006,
+    27.97648
+],
+  "geometry": {"coordinates":[-82.30500600000001,27.97648],"type":"Point"}
 }

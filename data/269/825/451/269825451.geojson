@@ -2,13 +2,14 @@
   "id": 269825451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190125,25.773563,-80.190125,25.773563",
     "geom:latitude":25.773563,
     "geom:longitude":-80.190125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 SE 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269825451,
-    "wof:lastmodified":1449036223,
+    "wof:lastmodified":1466434549,
     "wof:name":"Perfect Cleaners",
     "wof:parent_id":85896173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.190125,25.773563,-80.190125,25.773563],
-  "geometry": {"coordinates":[-80.190125,25.773563],"type":"Point"}
+  "bbox": [
+    -80.190125,
+    25.773563,
+    -80.190125,
+    25.773563
+],
+  "geometry": {"coordinates":[-80.19012499999999,25.773563],"type":"Point"}
 }

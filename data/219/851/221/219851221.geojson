@@ -2,13 +2,14 @@
   "id": 219851221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.165371,29.155676,-82.165371,29.155676",
     "geom:latitude":29.155676,
     "geom:longitude":-82.165371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 SW 24th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219851221,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466436153,
     "wof:name":"Grand Reserve Apartments",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.165371,29.155676,-82.165371,29.155676],
-  "geometry": {"coordinates":[-82.165371,29.155676],"type":"Point"}
+  "bbox": [
+    -82.165371,
+    29.155676,
+    -82.165371,
+    29.155676
+],
+  "geometry": {"coordinates":[-82.16537099999999,29.155676],"type":"Point"}
 }

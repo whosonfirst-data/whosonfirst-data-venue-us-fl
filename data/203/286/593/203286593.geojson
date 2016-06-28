@@ -2,13 +2,14 @@
   "id": 203286593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.439231,30.35686,-85.439231,30.35686",
     "geom:latitude":30.35686,
     "geom:longitude":-85.439231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11541 US Hwy 231",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203286593,
-    "wof:lastmodified":1449025412,
+    "wof:lastmodified":1466430001,
     "wof:name":"Rainbow Foods",
     "wof:parent_id":85839285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.439231,30.35686,-85.439231,30.35686],
-  "geometry": {"coordinates":[-85.439231,30.35686],"type":"Point"}
+  "bbox": [
+    -85.439231,
+    30.35686,
+    -85.439231,
+    30.35686
+],
+  "geometry": {"coordinates":[-85.43923100000001,30.35686],"type":"Point"}
 }

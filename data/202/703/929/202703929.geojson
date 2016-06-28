@@ -2,13 +2,14 @@
   "id": 202703929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324937,28.235013,-82.324937,28.235013",
     "geom:latitude":28.235013,
     "geom:longitude":-82.324937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 Pine Bark Ln",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202703929,
-    "wof:lastmodified":1449060884,
+    "wof:lastmodified":1466431032,
     "wof:name":"Paver Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.324937,28.235013,-82.324937,28.235013],
-  "geometry": {"coordinates":[-82.324937,28.235013],"type":"Point"}
+  "bbox": [
+    -82.324937,
+    28.235013,
+    -82.324937,
+    28.235013
+],
+  "geometry": {"coordinates":[-82.32493700000001,28.235013],"type":"Point"}
 }

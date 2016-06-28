@@ -2,13 +2,14 @@
   "id": 185800695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.46044,27.454711,-82.46044,27.454711",
     "geom:latitude":27.454711,
     "geom:longitude":-82.46044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7830 49th Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185800695,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466428994,
     "wof:name":"Shiny Happy Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-82.46044,27.454711,-82.46044,27.454711],
-  "geometry": {"coordinates":[-82.46044,27.454711],"type":"Point"}
+  "bbox": [
+    -82.46044,
+    27.454711,
+    -82.46044,
+    27.454711
+],
+  "geometry": {"coordinates":[-82.46044000000001,27.454711],"type":"Point"}
 }

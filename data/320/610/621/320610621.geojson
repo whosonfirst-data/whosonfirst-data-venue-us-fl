@@ -2,13 +2,14 @@
   "id": 320610621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.217469,30.427916,-84.217469,30.427916",
     "geom:latitude":30.427916,
     "geom:longitude":-84.217469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3419 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320610621,
-    "wof:lastmodified":1449014904,
+    "wof:lastmodified":1466443979,
     "wof:name":"Liberty Communications Inc",
     "wof:parent_id":85881349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cellular"
     ]
 },
-  "bbox": [-84.217469,30.427916,-84.217469,30.427916],
-  "geometry": {"coordinates":[-84.217469,30.427916],"type":"Point"}
+  "bbox": [
+    -84.217469,
+    30.427916,
+    -84.217469,
+    30.427916
+],
+  "geometry": {"coordinates":[-84.21746899999999,30.427916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387945763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074259,26.401878,-80.074259,26.401878",
     "geom:latitude":26.401878,
     "geom:longitude":-80.074259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5805 NE 7th Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387945763,
-    "wof:lastmodified":1449056432,
+    "wof:lastmodified":1466449833,
     "wof:name":"Francis Co Inc",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.074259,26.401878,-80.074259,26.401878],
+  "bbox": [
+    -80.074259,
+    26.401878,
+    -80.074259,
+    26.401878
+],
   "geometry": {"coordinates":[-80.074259,26.401878],"type":"Point"}
 }

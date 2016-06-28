@@ -2,13 +2,14 @@
   "id": 304077359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325219,25.803512,-80.325219,25.803512",
     "geom:latitude":25.803512,
     "geom:longitude":-80.325219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 NW 79th Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304077359,
-    "wof:lastmodified":1449043640,
+    "wof:lastmodified":1466433176,
     "wof:name":"Super Tiles & Marble",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.325219,25.803512,-80.325219,25.803512],
+  "bbox": [
+    -80.325219,
+    25.803512,
+    -80.325219,
+    25.803512
+],
   "geometry": {"coordinates":[-80.325219,25.803512],"type":"Point"}
 }

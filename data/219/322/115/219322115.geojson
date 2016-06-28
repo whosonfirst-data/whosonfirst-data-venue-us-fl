@@ -2,13 +2,14 @@
   "id": 219322115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147461,26.331878,-80.147461,26.331878",
     "geom:latitude":26.331878,
     "geom:longitude":-80.147461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6877 SW 18th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219322115,
-    "wof:lastmodified":1449070339,
+    "wof:lastmodified":1466429074,
     "wof:name":"Stephen J Scher D D S",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.147461,26.331878,-80.147461,26.331878],
-  "geometry": {"coordinates":[-80.147461,26.331878],"type":"Point"}
+  "bbox": [
+    -80.147461,
+    26.331878,
+    -80.147461,
+    26.331878
+],
+  "geometry": {"coordinates":[-80.14746100000001,26.331878],"type":"Point"}
 }

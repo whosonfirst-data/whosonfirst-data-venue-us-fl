@@ -2,13 +2,14 @@
   "id": 270100455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237548,26.235781,-80.237548,26.235781",
     "geom:latitude":26.235781,
     "geom:longitude":-80.237548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Ramblewood Dr",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270100455,
-    "wof:lastmodified":1449010458,
+    "wof:lastmodified":1466431158,
     "wof:name":"Ft Lauderdale District Office",
     "wof:parent_id":85876899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.237548,26.235781,-80.237548,26.235781],
+  "bbox": [
+    -80.237548,
+    26.235781,
+    -80.237548,
+    26.235781
+],
   "geometry": {"coordinates":[-80.237548,26.235781],"type":"Point"}
 }

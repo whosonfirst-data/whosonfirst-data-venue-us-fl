@@ -2,13 +2,14 @@
   "id": 220186275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351857,25.604041,-80.351857,25.604041",
     "geom:latitude":25.604041,
     "geom:longitude":-80.351857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17820 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220186275,
-    "wof:lastmodified":1449074664,
+    "wof:lastmodified":1466429386,
     "wof:name":"South Florida Independent Auto",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.351857,25.604041,-80.351857,25.604041],
+  "bbox": [
+    -80.351857,
+    25.604041,
+    -80.351857,
+    25.604041
+],
   "geometry": {"coordinates":[-80.351857,25.604041],"type":"Point"}
 }

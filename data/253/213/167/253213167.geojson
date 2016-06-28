@@ -2,13 +2,14 @@
   "id": 253213167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.100068,26.169963,-80.100068,26.169963",
     "geom:latitude":26.169963,
     "geom:longitude":-80.100068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 NE 34th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253213167,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466430902,
     "wof:name":"34th Street Clothes-Out",
     "wof:parent_id":85881959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.100068,26.169963,-80.100068,26.169963],
-  "geometry": {"coordinates":[-80.100068,26.169963],"type":"Point"}
+  "bbox": [
+    -80.100068,
+    26.169963,
+    -80.100068,
+    26.169963
+],
+  "geometry": {"coordinates":[-80.10006799999999,26.169963],"type":"Point"}
 }

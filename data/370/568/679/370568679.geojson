@@ -2,13 +2,14 @@
   "id": 370568679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093433,26.270562,-80.093433,26.270562",
     "geom:latitude":26.270562,
     "geom:longitude":-80.093433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 NE 32nd St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370568679,
-    "wof:lastmodified":1449028990,
+    "wof:lastmodified":1466442901,
     "wof:name":"Edmond Harris",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-80.093433,26.270562,-80.093433,26.270562],
+  "bbox": [
+    -80.093433,
+    26.270562,
+    -80.093433,
+    26.270562
+],
   "geometry": {"coordinates":[-80.093433,26.270562],"type":"Point"}
 }

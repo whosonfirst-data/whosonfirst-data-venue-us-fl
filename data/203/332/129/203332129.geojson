@@ -2,13 +2,14 @@
   "id": 203332129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.370657,30.213401,-81.370657,30.213401",
     "geom:latitude":30.213401,
     "geom:longitude":-81.370657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"684 Ponte Vedra Blvd",
     "sg:city":"Ponte Vedra Bch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203332129,
-    "wof:lastmodified":1449026007,
+    "wof:lastmodified":1466430563,
     "wof:name":"Boggs Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.370657,30.213401,-81.370657,30.213401],
-  "geometry": {"coordinates":[-81.370657,30.213401],"type":"Point"}
+  "bbox": [
+    -81.370657,
+    30.213401,
+    -81.370657,
+    30.213401
+],
+  "geometry": {"coordinates":[-81.37065699999999,30.213401],"type":"Point"}
 }

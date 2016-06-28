@@ -2,13 +2,14 @@
   "id": 353636101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79265,30.081792,-81.79265,30.081792",
     "geom:latitude":30.081792,
     "geom:longitude":-81.79265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Aaron Dr",
     "sg:city":"Green Cove Spgs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353636101,
-    "wof:lastmodified":1449019278,
+    "wof:lastmodified":1466438378,
     "wof:name":"Ennis Lawn Care",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.79265,30.081792,-81.79265,30.081792],
-  "geometry": {"coordinates":[-81.79265,30.081792],"type":"Point"}
+  "bbox": [
+    -81.79265,
+    30.081792,
+    -81.79265,
+    30.081792
+],
+  "geometry": {"coordinates":[-81.79264999999999,30.081792],"type":"Point"}
 }

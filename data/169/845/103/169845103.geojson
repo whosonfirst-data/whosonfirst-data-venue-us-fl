@@ -2,13 +2,14 @@
   "id": 169845103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.811462,27.547546,-81.811462,27.547546",
     "geom:latitude":27.547546,
     "geom:longitude":-81.811462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Main St",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169845103,
-    "wof:lastmodified":1449033235,
+    "wof:lastmodified":1466429509,
     "wof:name":"City Barber Shop & Style Shop",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.811462,27.547546,-81.811462,27.547546],
-  "geometry": {"coordinates":[-81.811462,27.547546],"type":"Point"}
+  "bbox": [
+    -81.811462,
+    27.547546,
+    -81.811462,
+    27.547546
+],
+  "geometry": {"coordinates":[-81.81146200000001,27.547546],"type":"Point"}
 }

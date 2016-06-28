@@ -2,13 +2,14 @@
   "id": 303265573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248971,25.775016,-80.248971,25.775016",
     "geom:latitude":25.775016,
     "geom:longitude":-80.248971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 NW 32nd Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303265573,
-    "wof:lastmodified":1448998950,
+    "wof:lastmodified":1466435123,
     "wof:name":"Floridean Nursing Home & Rehab",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.248971,25.775016,-80.248971,25.775016],
+  "bbox": [
+    -80.248971,
+    25.775016,
+    -80.248971,
+    25.775016
+],
   "geometry": {"coordinates":[-80.248971,25.775016],"type":"Point"}
 }

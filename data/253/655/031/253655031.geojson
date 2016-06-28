@@ -2,13 +2,14 @@
   "id": 253655031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.777498,26.21159,-81.777498,26.21159",
     "geom:latitude":26.21159,
     "geom:longitude":-81.777498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Pine Ridge Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253655031,
-    "wof:lastmodified":1449064528,
+    "wof:lastmodified":1466438393,
     "wof:name":"Orion Bank",
     "wof:parent_id":85889219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.777498,26.21159,-81.777498,26.21159],
-  "geometry": {"coordinates":[-81.777498,26.21159],"type":"Point"}
+  "bbox": [
+    -81.777498,
+    26.21159,
+    -81.777498,
+    26.21159
+],
+  "geometry": {"coordinates":[-81.77749799999999,26.21159],"type":"Point"}
 }

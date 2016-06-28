@@ -2,13 +2,14 @@
   "id": 253525625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.807533,28.615365,-80.807533,28.615365",
     "geom:latitude":28.615365,
     "geom:longitude":-80.807533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 A Max Brewer Memorial Hwy",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253525625,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1466436063,
     "wof:name":"Florida Marine Patrol",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "patrol"
     ]
 },
-  "bbox": [-80.807533,28.615365,-80.807533,28.615365],
-  "geometry": {"coordinates":[-80.807533,28.615365],"type":"Point"}
+  "bbox": [
+    -80.807533,
+    28.615365,
+    -80.807533,
+    28.615365
+],
+  "geometry": {"coordinates":[-80.80753300000001,28.615365],"type":"Point"}
 }

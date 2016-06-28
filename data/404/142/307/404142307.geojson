@@ -2,13 +2,14 @@
   "id": 404142307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240947,26.009497,-80.240947,26.009497",
     "geom:latitude":26.009497,
     "geom:longitude":-80.240947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7649 Pines Blvd",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404142307,
-    "wof:lastmodified":1449040043,
+    "wof:lastmodified":1466442455,
     "wof:name":"El Cafetal Bakery",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.240947,26.009497,-80.240947,26.009497],
-  "geometry": {"coordinates":[-80.240947,26.009497],"type":"Point"}
+  "bbox": [
+    -80.240947,
+    26.009497,
+    -80.240947,
+    26.009497
+],
+  "geometry": {"coordinates":[-80.24094700000001,26.009497],"type":"Point"}
 }

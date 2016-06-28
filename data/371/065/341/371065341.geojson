@@ -2,13 +2,14 @@
   "id": 371065341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.796151,30.242505,-81.796151,30.242505",
     "geom:latitude":30.242505,
     "geom:longitude":-81.796151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8735 Gum St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371065341,
-    "wof:lastmodified":1449050135,
+    "wof:lastmodified":1466438576,
     "wof:name":"McDonalds Tractor Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.796151,30.242505,-81.796151,30.242505],
-  "geometry": {"coordinates":[-81.796151,30.242505],"type":"Point"}
+  "bbox": [
+    -81.796151,
+    30.242505,
+    -81.796151,
+    30.242505
+],
+  "geometry": {"coordinates":[-81.79615099999999,30.242505],"type":"Point"}
 }

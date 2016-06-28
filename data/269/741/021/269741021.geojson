@@ -2,13 +2,14 @@
   "id": 269741021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.28512,28.875061,-82.28512,28.875061",
     "geom:latitude":28.875061,
     "geom:longitude":-82.28512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 N Horse Prairie Rd",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269741021,
-    "wof:lastmodified":1449036261,
+    "wof:lastmodified":1466433057,
     "wof:name":"Mitch Duncan & Son Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heater"
     ]
 },
-  "bbox": [-82.28512,28.875061,-82.28512,28.875061],
-  "geometry": {"coordinates":[-82.28512,28.875061],"type":"Point"}
+  "bbox": [
+    -82.28512,
+    28.875061,
+    -82.28512,
+    28.875061
+],
+  "geometry": {"coordinates":[-82.28512000000001,28.875061],"type":"Point"}
 }

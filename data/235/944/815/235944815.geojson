@@ -2,13 +2,14 @@
   "id": 235944815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227318,25.953306,-80.227318,25.953306",
     "geom:latitude":25.953306,
     "geom:longitude":-80.227318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 NW 196th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":235944815,
-    "wof:lastmodified":1449008417,
+    "wof:lastmodified":1466428593,
     "wof:name":"Christian Cathedral Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.227318,25.953306,-80.227318,25.953306],
+  "bbox": [
+    -80.227318,
+    25.953306,
+    -80.227318,
+    25.953306
+],
   "geometry": {"coordinates":[-80.227318,25.953306],"type":"Point"}
 }

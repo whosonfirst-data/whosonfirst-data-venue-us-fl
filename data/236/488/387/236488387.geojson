@@ -2,13 +2,14 @@
   "id": 236488387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249237,26.345599,-80.249237,26.345599",
     "geom:latitude":26.345599,
     "geom:longitude":-80.249237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22509 Middletown Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236488387,
-    "wof:lastmodified":1449005149,
+    "wof:lastmodified":1466435291,
     "wof:name":"HJM",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.249237,26.345599,-80.249237,26.345599],
-  "geometry": {"coordinates":[-80.249237,26.345599],"type":"Point"}
+  "bbox": [
+    -80.249237,
+    26.345599,
+    -80.249237,
+    26.345599
+],
+  "geometry": {"coordinates":[-80.24923699999999,26.345599],"type":"Point"}
 }

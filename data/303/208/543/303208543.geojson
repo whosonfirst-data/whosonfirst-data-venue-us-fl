@@ -2,13 +2,14 @@
   "id": 303208543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310284,28.707085,-81.310284,28.707085",
     "geom:latitude":28.707085,
     "geom:longitude":-81.310284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Dornoch Ct",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303208543,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466434135,
     "wof:name":"A JS Attic",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.310284,28.707085,-81.310284,28.707085],
+  "bbox": [
+    -81.310284,
+    28.707085,
+    -81.310284,
+    28.707085
+],
   "geometry": {"coordinates":[-81.310284,28.707085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387888897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.582006,27.459129,-82.582006,27.459129",
     "geom:latitude":27.459129,
     "geom:longitude":-82.582006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4442 20th St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387888897,
-    "wof:lastmodified":1449058478,
+    "wof:lastmodified":1466449621,
     "wof:name":"Malou Interior Workroom",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.582006,27.459129,-82.582006,27.459129],
-  "geometry": {"coordinates":[-82.582006,27.459129],"type":"Point"}
+  "bbox": [
+    -82.582006,
+    27.459129,
+    -82.582006,
+    27.459129
+],
+  "geometry": {"coordinates":[-82.58200600000001,27.459129],"type":"Point"}
 }

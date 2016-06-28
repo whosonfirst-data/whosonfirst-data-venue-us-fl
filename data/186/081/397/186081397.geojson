@@ -2,13 +2,14 @@
   "id": 186081397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.519298,27.327863,-82.519298,27.327863",
     "geom:latitude":27.327863,
     "geom:longitude":-82.519298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Bay St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186081397,
-    "wof:lastmodified":1449051210,
+    "wof:lastmodified":1466445077,
     "wof:name":"Coconut Bay Apartments",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-82.519298,27.327863,-82.519298,27.327863],
-  "geometry": {"coordinates":[-82.519298,27.327863],"type":"Point"}
+  "bbox": [
+    -82.519298,
+    27.327863,
+    -82.519298,
+    27.327863
+],
+  "geometry": {"coordinates":[-82.51929800000001,27.327863],"type":"Point"}
 }

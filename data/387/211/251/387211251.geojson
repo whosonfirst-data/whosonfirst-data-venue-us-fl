@@ -2,13 +2,14 @@
   "id": 387211251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.157627,30.41784,-84.157627,30.41784",
     "geom:latitude":30.41784,
     "geom:longitude":-84.157627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Williams Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387211251,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1466441968,
     "wof:name":"Life Church",
     "wof:parent_id":85881331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.157627,30.41784,-84.157627,30.41784],
-  "geometry": {"coordinates":[-84.157627,30.41784],"type":"Point"}
+  "bbox": [
+    -84.157627,
+    30.41784,
+    -84.157627,
+    30.41784
+],
+  "geometry": {"coordinates":[-84.15762700000001,30.41784],"type":"Point"}
 }

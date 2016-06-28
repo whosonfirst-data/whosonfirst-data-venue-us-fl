@@ -2,13 +2,14 @@
   "id": 203116099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.495178,28.053783,-82.495178,28.053783",
     "geom:latitude":28.053783,
     "geom:longitude":-82.495178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11506 Lipsey Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203116099,
-    "wof:lastmodified":1449025210,
+    "wof:lastmodified":1466445609,
     "wof:name":"Oakland Real Estate",
     "wof:parent_id":85865495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.495178,28.053783,-82.495178,28.053783],
+  "bbox": [
+    -82.495178,
+    28.053783,
+    -82.495178,
+    28.053783
+],
   "geometry": {"coordinates":[-82.495178,28.053783],"type":"Point"}
 }

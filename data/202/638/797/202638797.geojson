@@ -2,13 +2,14 @@
   "id": 202638797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20845,26.174329,-80.20845,26.174329",
     "geom:latitude":26.174329,
     "geom:longitude":-80.20845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3998 NW 45th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":202638797,
-    "wof:lastmodified":1449060244,
+    "wof:lastmodified":1466430196,
     "wof:name":"Forbes Masonry Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.20845,26.174329,-80.20845,26.174329],
+  "bbox": [
+    -80.20845,
+    26.174329,
+    -80.20845,
+    26.174329
+],
   "geometry": {"coordinates":[-80.20845,26.174329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370817747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18958,26.0472,-80.18958,26.0472",
     "geom:latitude":26.0472,
     "geom:longitude":-80.18958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4485 Stirling Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370817747,
-    "wof:lastmodified":1449031816,
+    "wof:lastmodified":1466446517,
     "wof:name":"View Satellite",
     "wof:parent_id":85878167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-80.18958,26.0472,-80.18958,26.0472],
-  "geometry": {"coordinates":[-80.18958,26.0472],"type":"Point"}
+  "bbox": [
+    -80.18958,
+    26.0472,
+    -80.18958,
+    26.0472
+],
+  "geometry": {"coordinates":[-80.18958000000001,26.0472],"type":"Point"}
 }

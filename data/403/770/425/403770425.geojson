@@ -2,13 +2,14 @@
   "id": 403770425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.305001,26.080703,-80.305001,26.080703",
     "geom:latitude":26.080703,
     "geom:longitude":-80.305001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 SW 117th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403770425,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466440643,
     "wof:name":"Acme Home Medical Equipment",
     "wof:parent_id":85851607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.305001,26.080703,-80.305001,26.080703],
+  "bbox": [
+    -80.305001,
+    26.080703,
+    -80.305001,
+    26.080703
+],
   "geometry": {"coordinates":[-80.305001,26.080703],"type":"Point"}
 }

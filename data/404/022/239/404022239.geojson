@@ -2,13 +2,14 @@
   "id": 404022239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700195,27.850135,-82.700195,27.850135",
     "geom:latitude":27.850135,
     "geom:longitude":-82.700195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8560 49th St N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404022239,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1466440610,
     "wof:name":"Speedy Check Cashing",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-82.700195,27.850135,-82.700195,27.850135],
-  "geometry": {"coordinates":[-82.700195,27.850135],"type":"Point"}
+  "bbox": [
+    -82.700195,
+    27.850135,
+    -82.700195,
+    27.850135
+],
+  "geometry": {"coordinates":[-82.70019499999999,27.850135],"type":"Point"}
 }

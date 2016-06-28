@@ -2,13 +2,14 @@
   "id": 387913225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.313987,28.555478,-81.313987,28.555478",
     "geom:latitude":28.555478,
     "geom:longitude":-81.313987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387913225,
-    "wof:lastmodified":1449057575,
+    "wof:lastmodified":1466449602,
     "wof:name":"Central Florida Boating Center",
     "wof:parent_id":85879457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-81.313987,28.555478,-81.313987,28.555478],
+  "bbox": [
+    -81.313987,
+    28.555478,
+    -81.313987,
+    28.555478
+],
   "geometry": {"coordinates":[-81.313987,28.555478],"type":"Point"}
 }

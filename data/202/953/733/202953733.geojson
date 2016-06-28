@@ -2,13 +2,14 @@
   "id": 202953733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506318,27.38507,-82.506318,27.38507",
     "geom:latitude":27.38507,
     "geom:longitude":-82.506318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3034 59th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202953733,
-    "wof:lastmodified":1449061834,
+    "wof:lastmodified":1466434315,
     "wof:name":"Flight Line Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-82.506318,27.38507,-82.506318,27.38507],
-  "geometry": {"coordinates":[-82.506318,27.38507],"type":"Point"}
+  "bbox": [
+    -82.506318,
+    27.38507,
+    -82.506318,
+    27.38507
+],
+  "geometry": {"coordinates":[-82.50631799999999,27.38507],"type":"Point"}
 }

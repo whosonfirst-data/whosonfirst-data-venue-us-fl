@@ -2,13 +2,14 @@
   "id": 303262127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155649,26.124739,-80.155649,26.124739",
     "geom:latitude":26.124739,
     "geom:longitude":-80.155649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 W Dixie Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303262127,
-    "wof:lastmodified":1448999635,
+    "wof:lastmodified":1466435063,
     "wof:name":"Dixie Court Housing Project",
     "wof:parent_id":85877521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-80.155649,26.124739,-80.155649,26.124739],
+  "bbox": [
+    -80.155649,
+    26.124739,
+    -80.155649,
+    26.124739
+],
   "geometry": {"coordinates":[-80.155649,26.124739],"type":"Point"}
 }

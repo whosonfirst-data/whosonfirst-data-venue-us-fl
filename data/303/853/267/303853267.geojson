@@ -2,13 +2,14 @@
   "id": 303853267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.518583,30.30551,-81.518583,30.30551",
     "geom:latitude":30.30551,
     "geom:longitude":-81.518583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Summer Tree Rd E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303853267,
-    "wof:lastmodified":1448999107,
+    "wof:lastmodified":1466445222,
     "wof:name":"Ahoy Cruises",
     "wof:parent_id":85846989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.518583,30.30551,-81.518583,30.30551],
-  "geometry": {"coordinates":[-81.518583,30.30551],"type":"Point"}
+  "bbox": [
+    -81.518583,
+    30.30551,
+    -81.518583,
+    30.30551
+],
+  "geometry": {"coordinates":[-81.51858300000001,30.30551],"type":"Point"}
 }

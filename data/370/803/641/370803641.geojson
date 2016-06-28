@@ -2,13 +2,14 @@
   "id": 370803641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06173,26.517315,-80.06173,26.517315",
     "geom:latitude":26.517315,
     "geom:longitude":-80.06173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 SE 12th Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370803641,
-    "wof:lastmodified":1449032517,
+    "wof:lastmodified":1466446579,
     "wof:name":"City Electric Supply Co",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-80.06173,26.517315,-80.06173,26.517315],
+  "bbox": [
+    -80.06173,
+    26.517315,
+    -80.06173,
+    26.517315
+],
   "geometry": {"coordinates":[-80.06173,26.517315],"type":"Point"}
 }

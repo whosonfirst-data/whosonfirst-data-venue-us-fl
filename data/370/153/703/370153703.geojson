@@ -2,13 +2,14 @@
   "id": 370153703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.07013,30.845921,-85.07013,30.845921",
     "geom:latitude":30.845921,
     "geom:longitude":-85.07013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3936 Hwy 69",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370153703,
-    "wof:lastmodified":1449031407,
+    "wof:lastmodified":1466436498,
     "wof:name":"M2 Software Online Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-85.07013,30.845921,-85.07013,30.845921],
-  "geometry": {"coordinates":[-85.07013,30.845921],"type":"Point"}
+  "bbox": [
+    -85.07013,
+    30.845921,
+    -85.07013,
+    30.845921
+],
+  "geometry": {"coordinates":[-85.07013000000001,30.845921],"type":"Point"}
 }

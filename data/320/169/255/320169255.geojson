@@ -2,13 +2,14 @@
   "id": 320169255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625598,30.119763,-81.625598,30.119763",
     "geom:latitude":30.119763,
     "geom:longitude":-81.625598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 State Hwy 13",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320169255,
-    "wof:lastmodified":1449013557,
+    "wof:lastmodified":1466436286,
     "wof:name":"Huddle House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.625598,30.119763,-81.625598,30.119763],
+  "bbox": [
+    -81.625598,
+    30.119763,
+    -81.625598,
+    30.119763
+],
   "geometry": {"coordinates":[-81.625598,30.119763],"type":"Point"}
 }

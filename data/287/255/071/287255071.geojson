@@ -2,13 +2,14 @@
   "id": 287255071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295398,28.589019,-81.295398,28.589019",
     "geom:latitude":28.589019,
     "geom:longitude":-81.295398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7044 Stapoint Ct",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287255071,
-    "wof:lastmodified":1449001059,
+    "wof:lastmodified":1466434340,
     "wof:name":"MKCS Corp",
     "wof:parent_id":85889323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-81.295398,28.589019,-81.295398,28.589019],
-  "geometry": {"coordinates":[-81.295398,28.589019],"type":"Point"}
+  "bbox": [
+    -81.295398,
+    28.589019,
+    -81.295398,
+    28.589019
+],
+  "geometry": {"coordinates":[-81.29539800000001,28.589019],"type":"Point"}
 }

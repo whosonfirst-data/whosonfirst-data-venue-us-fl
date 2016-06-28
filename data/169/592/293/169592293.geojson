@@ -2,13 +2,14 @@
   "id": 169592293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125975,25.802909,-80.125975,25.802909",
     "geom:latitude":25.802909,
     "geom:longitude":-80.125975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2699 Collins Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169592293,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1466428455,
     "wof:name":"Master Realty Investments Inc",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.125975,25.802909,-80.125975,25.802909],
+  "bbox": [
+    -80.125975,
+    25.802909,
+    -80.125975,
+    25.802909
+],
   "geometry": {"coordinates":[-80.125975,25.802909],"type":"Point"}
 }

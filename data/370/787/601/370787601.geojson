@@ -2,13 +2,14 @@
   "id": 370787601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264433,26.158958,-80.264433,26.158958",
     "geom:latitude":26.158958,
     "geom:longitude":-80.264433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 NW 27th Pl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370787601,
-    "wof:lastmodified":1449030628,
+    "wof:lastmodified":1466446245,
     "wof:name":"Fame Store",
     "wof:parent_id":85896113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beer"
     ]
 },
-  "bbox": [-80.264433,26.158958,-80.264433,26.158958],
+  "bbox": [
+    -80.264433,
+    26.158958,
+    -80.264433,
+    26.158958
+],
   "geometry": {"coordinates":[-80.264433,26.158958],"type":"Point"}
 }

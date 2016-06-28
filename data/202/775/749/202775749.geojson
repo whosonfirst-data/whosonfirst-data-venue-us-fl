@@ -2,13 +2,14 @@
   "id": 202775749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.405424,28.323548,-81.405424,28.323548",
     "geom:latitude":28.323548,
     "geom:longitude":-81.405424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 W Martin St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202775749,
-    "wof:lastmodified":1449061978,
+    "wof:lastmodified":1466431951,
     "wof:name":"VNS Auto Sales",
     "wof:parent_id":85878533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.405424,28.323548,-81.405424,28.323548],
+  "bbox": [
+    -81.405424,
+    28.323548,
+    -81.405424,
+    28.323548
+],
   "geometry": {"coordinates":[-81.405424,28.323548],"type":"Point"}
 }

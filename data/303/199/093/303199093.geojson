@@ -2,13 +2,14 @@
   "id": 303199093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.988837,26.590205,-81.988837,26.590205",
     "geom:latitude":26.590205,
     "geom:longitude":-81.988837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3403 SW 7th Ave",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303199093,
-    "wof:lastmodified":1448998371,
+    "wof:lastmodified":1466433969,
     "wof:name":"V&M Delivery Svc",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.988837,26.590205,-81.988837,26.590205],
+  "bbox": [
+    -81.988837,
+    26.590205,
+    -81.988837,
+    26.590205
+],
   "geometry": {"coordinates":[-81.988837,26.590205],"type":"Point"}
 }

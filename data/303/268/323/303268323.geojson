@@ -2,13 +2,14 @@
   "id": 303268323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.382718,28.789601,-81.382718,28.789601",
     "geom:latitude":28.789601,
     "geom:longitude":-81.382718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Tennyson Ct",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303268323,
-    "wof:lastmodified":1448999513,
+    "wof:lastmodified":1466435172,
     "wof:name":"Center For Health Learning",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-81.382718,28.789601,-81.382718,28.789601],
+  "bbox": [
+    -81.382718,
+    28.789601,
+    -81.382718,
+    28.789601
+],
   "geometry": {"coordinates":[-81.382718,28.789601],"type":"Point"}
 }

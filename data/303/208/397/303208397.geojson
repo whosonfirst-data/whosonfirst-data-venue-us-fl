@@ -2,13 +2,14 @@
   "id": 303208397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705353,28.363311,-80.705353,28.363311",
     "geom:latitude":28.363311,
     "geom:longitude":-80.705353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Nelson Dr",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303208397,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466434132,
     "wof:name":"Word Thunder Publications",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.705353,28.363311,-80.705353,28.363311],
+  "bbox": [
+    -80.705353,
+    28.363311,
+    -80.705353,
+    28.363311
+],
   "geometry": {"coordinates":[-80.705353,28.363311],"type":"Point"}
 }

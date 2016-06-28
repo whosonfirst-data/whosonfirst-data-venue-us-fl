@@ -2,13 +2,14 @@
   "id": 387389533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.465645,29.239593,-81.465645,29.239593",
     "geom:latitude":29.239593,
     "geom:longitude":-81.465645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 W 2nd Ave",
     "sg:city":"Pierson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387389533,
-    "wof:lastmodified":1449059136,
+    "wof:lastmodified":1466444685,
     "wof:name":"Extreme Welding Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.465645,29.239593,-81.465645,29.239593],
-  "geometry": {"coordinates":[-81.465645,29.239593],"type":"Point"}
+  "bbox": [
+    -81.465645,
+    29.239593,
+    -81.465645,
+    29.239593
+],
+  "geometry": {"coordinates":[-81.46564499999999,29.239593],"type":"Point"}
 }

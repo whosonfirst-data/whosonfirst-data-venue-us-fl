@@ -2,13 +2,14 @@
   "id": 403986383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541137,30.30517,-81.541137,30.30517",
     "geom:latitude":30.30517,
     "geom:longitude":-81.541137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2358 Anniston Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403986383,
-    "wof:lastmodified":1449055702,
+    "wof:lastmodified":1466444096,
     "wof:name":"Self Construction",
     "wof:parent_id":85804135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.541137,30.30517,-81.541137,30.30517],
-  "geometry": {"coordinates":[-81.541137,30.30517],"type":"Point"}
+  "bbox": [
+    -81.541137,
+    30.30517,
+    -81.541137,
+    30.30517
+],
+  "geometry": {"coordinates":[-81.54113700000001,30.30517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370431521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.425632,25.623286,-80.425632,25.623286",
     "geom:latitude":25.623286,
     "geom:longitude":-80.425632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15481 SW 143rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370431521,
-    "wof:lastmodified":1449029554,
+    "wof:lastmodified":1466440799,
     "wof:name":"MJS Floor Maintenance Inc",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.425632,25.623286,-80.425632,25.623286],
-  "geometry": {"coordinates":[-80.425632,25.623286],"type":"Point"}
+  "bbox": [
+    -80.425632,
+    25.623286,
+    -80.425632,
+    25.623286
+],
+  "geometry": {"coordinates":[-80.42563199999999,25.623286],"type":"Point"}
 }

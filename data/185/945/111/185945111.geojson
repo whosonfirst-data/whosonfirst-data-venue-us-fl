@@ -2,13 +2,14 @@
   "id": 185945111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.814651,28.597307,-80.814651,28.597307",
     "geom:latitude":28.597307,
     "geom:longitude":-80.814651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 Queen St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185945111,
-    "wof:lastmodified":1449006745,
+    "wof:lastmodified":1466430459,
     "wof:name":"Lincoln Park Groceries",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.814651,28.597307,-80.814651,28.597307],
+  "bbox": [
+    -80.814651,
+    28.597307,
+    -80.814651,
+    28.597307
+],
   "geometry": {"coordinates":[-80.814651,28.597307],"type":"Point"}
 }

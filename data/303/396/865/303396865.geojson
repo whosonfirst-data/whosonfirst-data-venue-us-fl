@@ -2,13 +2,14 @@
   "id": 303396865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.440947,28.484851,-81.440947,28.484851",
     "geom:latitude":28.484851,
     "geom:longitude":-81.440947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 Millenia Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303396865,
-    "wof:lastmodified":1448999723,
+    "wof:lastmodified":1466437370,
     "wof:name":"Nova Southeastern University",
     "wof:parent_id":85879453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.440947,28.484851,-81.440947,28.484851],
-  "geometry": {"coordinates":[-81.440947,28.484851],"type":"Point"}
+  "bbox": [
+    -81.440947,
+    28.484851,
+    -81.440947,
+    28.484851
+],
+  "geometry": {"coordinates":[-81.44094699999999,28.484851],"type":"Point"}
 }

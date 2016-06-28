@@ -2,13 +2,14 @@
   "id": 253023217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337071,25.698748,-80.337071,25.698748",
     "geom:latitude":25.698748,
     "geom:longitude":-80.337071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7495 SW 88th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253023217,
-    "wof:lastmodified":1449065495,
+    "wof:lastmodified":1466428805,
     "wof:name":"Radioshack At Dadeland",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.337071,25.698748,-80.337071,25.698748],
-  "geometry": {"coordinates":[-80.337071,25.698748],"type":"Point"}
+  "bbox": [
+    -80.337071,
+    25.698748,
+    -80.337071,
+    25.698748
+],
+  "geometry": {"coordinates":[-80.33707099999999,25.698748],"type":"Point"}
 }

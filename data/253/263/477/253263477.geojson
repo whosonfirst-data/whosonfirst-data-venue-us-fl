@@ -2,13 +2,14 @@
   "id": 253263477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.606629,30.363335,-81.606629,30.363335",
     "geom:latitude":30.363335,
     "geom:longitude":-81.606629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 University Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253263477,
-    "wof:lastmodified":1449065709,
+    "wof:lastmodified":1466431638,
     "wof:name":"Carruth Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-81.606629,30.363335,-81.606629,30.363335],
+  "bbox": [
+    -81.606629,
+    30.363335,
+    -81.606629,
+    30.363335
+],
   "geometry": {"coordinates":[-81.606629,30.363335],"type":"Point"}
 }

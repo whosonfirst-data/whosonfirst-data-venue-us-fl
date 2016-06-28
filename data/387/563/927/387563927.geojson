@@ -2,13 +2,14 @@
   "id": 387563927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255155,25.763102,-80.255155,25.763102",
     "geom:latitude":25.763102,
     "geom:longitude":-80.255155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 S Douglas Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387563927,
-    "wof:lastmodified":1449056176,
+    "wof:lastmodified":1466447135,
     "wof:name":"WCI Inc",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.255155,25.763102,-80.255155,25.763102],
+  "bbox": [
+    -80.255155,
+    25.763102,
+    -80.255155,
+    25.763102
+],
   "geometry": {"coordinates":[-80.255155,25.763102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252750641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269061,25.982789,-80.269061,25.982789",
     "geom:latitude":25.982789,
     "geom:longitude":-80.269061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 Crystal Way",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252750641,
-    "wof:lastmodified":1449006092,
+    "wof:lastmodified":1466429035,
     "wof:name":"Supreme Vending",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.269061,25.982789,-80.269061,25.982789],
-  "geometry": {"coordinates":[-80.269061,25.982789],"type":"Point"}
+  "bbox": [
+    -80.269061,
+    25.982789,
+    -80.269061,
+    25.982789
+],
+  "geometry": {"coordinates":[-80.26906099999999,25.982789],"type":"Point"}
 }

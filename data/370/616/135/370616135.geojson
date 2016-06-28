@@ -2,13 +2,14 @@
   "id": 370616135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.250246,30.418928,-87.250246,30.418928",
     "geom:latitude":30.418928,
     "geom:longitude":-87.250246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 N W St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370616135,
-    "wof:lastmodified":1449031579,
+    "wof:lastmodified":1466443625,
     "wof:name":"Digital Inc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machine"
     ]
 },
-  "bbox": [-87.250246,30.418928,-87.250246,30.418928],
+  "bbox": [
+    -87.250246,
+    30.418928,
+    -87.250246,
+    30.418928
+],
   "geometry": {"coordinates":[-87.250246,30.418928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404005679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135745,26.142145,-80.135745,26.142145",
     "geom:latitude":26.142145,
     "geom:longitude":-80.135745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 NE 8th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404005679,
-    "wof:lastmodified":1449040239,
+    "wof:lastmodified":1466440354,
     "wof:name":"United Auto Body Collision Inc",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.135745,26.142145,-80.135745,26.142145],
+  "bbox": [
+    -80.135745,
+    26.142145,
+    -80.135745,
+    26.142145
+],
   "geometry": {"coordinates":[-80.135745,26.142145],"type":"Point"}
 }

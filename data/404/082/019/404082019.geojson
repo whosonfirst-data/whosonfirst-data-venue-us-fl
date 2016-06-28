@@ -2,13 +2,14 @@
   "id": 404082019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255665,25.779863,-80.255665,25.779863",
     "geom:latitude":25.779863,
     "geom:longitude":-80.255665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 NW 37th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404082019,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1466441513,
     "wof:name":"Hi Tech School Of Miami",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.255665,25.779863,-80.255665,25.779863],
-  "geometry": {"coordinates":[-80.255665,25.779863],"type":"Point"}
+  "bbox": [
+    -80.255665,
+    25.779863,
+    -80.255665,
+    25.779863
+],
+  "geometry": {"coordinates":[-80.25566499999999,25.779863],"type":"Point"}
 }

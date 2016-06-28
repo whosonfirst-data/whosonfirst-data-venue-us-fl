@@ -2,13 +2,14 @@
   "id": 303466783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.320163,28.62223,-81.320163,28.62223",
     "geom:latitude":28.62223,
     "geom:longitude":-81.320163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2399 Sun Valley Cir",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303466783,
-    "wof:lastmodified":1448998844,
+    "wof:lastmodified":1466438597,
     "wof:name":"Medialab",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-81.320163,28.62223,-81.320163,28.62223],
-  "geometry": {"coordinates":[-81.320163,28.62223],"type":"Point"}
+  "bbox": [
+    -81.320163,
+    28.62223,
+    -81.320163,
+    28.62223
+],
+  "geometry": {"coordinates":[-81.32016299999999,28.62223],"type":"Point"}
 }

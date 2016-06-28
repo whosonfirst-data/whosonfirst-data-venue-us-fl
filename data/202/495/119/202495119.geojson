@@ -2,13 +2,14 @@
   "id": 202495119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.560787,30.306556,-81.560787,30.306556",
     "geom:latitude":30.306556,
     "geom:longitude":-81.560787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Corporate Square Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202495119,
-    "wof:lastmodified":1449061240,
+    "wof:lastmodified":1466446013,
     "wof:name":"De Grove Surveyors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.560787,30.306556,-81.560787,30.306556],
+  "bbox": [
+    -81.560787,
+    30.306556,
+    -81.560787,
+    30.306556
+],
   "geometry": {"coordinates":[-81.560787,30.306556],"type":"Point"}
 }

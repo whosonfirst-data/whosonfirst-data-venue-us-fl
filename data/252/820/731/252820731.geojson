@@ -2,13 +2,14 @@
   "id": 252820731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686985,30.403768,-81.686985,30.403768",
     "geom:latitude":30.403768,
     "geom:longitude":-81.686985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8918 2nd Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252820731,
-    "wof:lastmodified":1449005986,
+    "wof:lastmodified":1466430065,
     "wof:name":"Cynthia H Roman Svc",
     "wof:parent_id":85845125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.686985,30.403768,-81.686985,30.403768],
-  "geometry": {"coordinates":[-81.686985,30.403768],"type":"Point"}
+  "bbox": [
+    -81.686985,
+    30.403768,
+    -81.686985,
+    30.403768
+],
+  "geometry": {"coordinates":[-81.68698500000001,30.403768],"type":"Point"}
 }

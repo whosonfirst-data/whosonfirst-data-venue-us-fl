@@ -2,13 +2,14 @@
   "id": 286542353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199579,25.990169,-80.199579,25.990169",
     "geom:latitude":25.990169,
     "geom:longitude":-80.199579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 SW 56th Ter",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286542353,
-    "wof:lastmodified":1449017471,
+    "wof:lastmodified":1466434509,
     "wof:name":"System Import & Export",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vehicle"
     ]
 },
-  "bbox": [-80.199579,25.990169,-80.199579,25.990169],
+  "bbox": [
+    -80.199579,
+    25.990169,
+    -80.199579,
+    25.990169
+],
   "geometry": {"coordinates":[-80.199579,25.990169],"type":"Point"}
 }

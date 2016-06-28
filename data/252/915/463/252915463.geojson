@@ -2,13 +2,14 @@
   "id": 252915463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.388245,28.410114,-81.388245,28.410114",
     "geom:latitude":28.410114,
     "geom:longitude":-81.388245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10255 General Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252915463,
-    "wof:lastmodified":1449006493,
+    "wof:lastmodified":1466431431,
     "wof:name":"RPS Towing",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-81.388245,28.410114,-81.388245,28.410114],
+  "bbox": [
+    -81.388245,
+    28.410114,
+    -81.388245,
+    28.410114
+],
   "geometry": {"coordinates":[-81.388245,28.410114],"type":"Point"}
 }

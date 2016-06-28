@@ -2,13 +2,14 @@
   "id": 354374975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.306451,28.706506,-81.306451,28.706506",
     "geom:latitude":28.706506,
     "geom:longitude":-81.306451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Lisa Loop",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354374975,
-    "wof:lastmodified":1449066660,
+    "wof:lastmodified":1466441835,
     "wof:name":"Winter Springs Investment",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-81.306451,28.706506,-81.306451,28.706506],
+  "bbox": [
+    -81.306451,
+    28.706506,
+    -81.306451,
+    28.706506
+],
   "geometry": {"coordinates":[-81.306451,28.706506],"type":"Point"}
 }

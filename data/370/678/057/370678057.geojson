@@ -2,13 +2,14 @@
   "id": 370678057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31008,25.730252,-80.31008,25.730252",
     "geom:latitude":25.730252,
     "geom:longitude":-80.31008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7145 SW 43rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370678057,
-    "wof:lastmodified":1449030723,
+    "wof:lastmodified":1466444565,
     "wof:name":"Perez Lift Svc Inc",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-80.31008,25.730252,-80.31008,25.730252],
+  "bbox": [
+    -80.31008,
+    25.730252,
+    -80.31008,
+    25.730252
+],
   "geometry": {"coordinates":[-80.31008,25.730252],"type":"Point"}
 }

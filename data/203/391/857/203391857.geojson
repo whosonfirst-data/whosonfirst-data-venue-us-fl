@@ -2,13 +2,14 @@
   "id": 203391857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.939557,28.040633,-81.939557,28.040633",
     "geom:latitude":28.040633,
     "geom:longitude":-81.939557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 E Lime St",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203391857,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466431308,
     "wof:name":"Commercial Development Sltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.939557,28.040633,-81.939557,28.040633],
-  "geometry": {"coordinates":[-81.939557,28.040633],"type":"Point"}
+  "bbox": [
+    -81.939557,
+    28.040633,
+    -81.939557,
+    28.040633
+],
+  "geometry": {"coordinates":[-81.93955699999999,28.040633],"type":"Point"}
 }

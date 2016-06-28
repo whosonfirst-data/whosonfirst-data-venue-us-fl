@@ -2,13 +2,14 @@
   "id": 203176873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.244436,28.24596,-81.244436,28.24596",
     "geom:latitude":28.24596,
     "geom:longitude":-81.244436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4855 E Irlo Bronson Memorial Hwy",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203176873,
-    "wof:lastmodified":1449026218,
+    "wof:lastmodified":1466428602,
     "wof:name":"Winn-Dixie Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.244436,28.24596,-81.244436,28.24596],
-  "geometry": {"coordinates":[-81.244436,28.24596],"type":"Point"}
+  "bbox": [
+    -81.244436,
+    28.24596,
+    -81.244436,
+    28.24596
+],
+  "geometry": {"coordinates":[-81.24443599999999,28.24596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185827701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.508085,27.386995,-82.508085,27.386995",
     "geom:latitude":27.386995,
     "geom:longitude":-82.508085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 61st St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185827701,
-    "wof:lastmodified":1449007168,
+    "wof:lastmodified":1466429276,
     "wof:name":"Northmnster Prsbt Church-U S A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.508085,27.386995,-82.508085,27.386995],
-  "geometry": {"coordinates":[-82.508085,27.386995],"type":"Point"}
+  "bbox": [
+    -82.508085,
+    27.386995,
+    -82.508085,
+    27.386995
+],
+  "geometry": {"coordinates":[-82.50808499999999,27.386995],"type":"Point"}
 }

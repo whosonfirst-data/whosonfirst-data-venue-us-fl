@@ -2,13 +2,14 @@
   "id": 320811637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.30514,25.770453,-80.30514,25.770453",
     "geom:latitude":25.770453,
     "geom:longitude":-80.30514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":320811637,
-    "wof:lastmodified":1449013055,
+    "wof:lastmodified":1466446935,
     "wof:name":"Pepe's Discount Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.30514,25.770453,-80.30514,25.770453],
-  "geometry": {"coordinates":[-80.30514,25.770453],"type":"Point"}
+  "bbox": [
+    -80.30514,
+    25.770453,
+    -80.30514,
+    25.770453
+],
+  "geometry": {"coordinates":[-80.30513999999999,25.770453],"type":"Point"}
 }

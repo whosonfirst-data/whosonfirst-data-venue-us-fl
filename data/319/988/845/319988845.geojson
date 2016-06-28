@@ -2,13 +2,14 @@
   "id": 319988845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.386191,27.525995,-80.386191,27.525995",
     "geom:latitude":27.525995,
     "geom:longitude":-80.386191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 Eagle Dr",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319988845,
-    "wof:lastmodified":1449024336,
+    "wof:lastmodified":1466435803,
     "wof:name":"Bagel Port",
     "wof:parent_id":85889867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.386191,27.525995,-80.386191,27.525995],
+  "bbox": [
+    -80.386191,
+    27.525995,
+    -80.386191,
+    27.525995
+],
   "geometry": {"coordinates":[-80.386191,27.525995],"type":"Point"}
 }

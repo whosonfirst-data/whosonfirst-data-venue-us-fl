@@ -2,13 +2,14 @@
   "id": 185611119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144537,26.266501,-80.144537,26.266501",
     "geom:latitude":26.266501,
     "geom:longitude":-80.144537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Park Central Blvd N",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185611119,
-    "wof:lastmodified":1449007884,
+    "wof:lastmodified":1466446280,
     "wof:name":"RHA Chartered",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.144537,26.266501,-80.144537,26.266501],
+  "bbox": [
+    -80.144537,
+    26.266501,
+    -80.144537,
+    26.266501
+],
   "geometry": {"coordinates":[-80.144537,26.266501],"type":"Point"}
 }

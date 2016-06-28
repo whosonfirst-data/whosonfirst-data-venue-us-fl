@@ -2,13 +2,14 @@
   "id": 286978679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530318,27.352074,-82.530318,27.352074",
     "geom:latitude":27.352074,
     "geom:longitude":-82.530318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 N Washington Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286978679,
-    "wof:lastmodified":1449016883,
+    "wof:lastmodified":1466442320,
     "wof:name":"Presidential Pawn Inc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-82.530318,27.352074,-82.530318,27.352074],
-  "geometry": {"coordinates":[-82.530318,27.352074],"type":"Point"}
+  "bbox": [
+    -82.530318,
+    27.352074,
+    -82.530318,
+    27.352074
+],
+  "geometry": {"coordinates":[-82.53031799999999,27.352074],"type":"Point"}
 }

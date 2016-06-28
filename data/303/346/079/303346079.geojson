@@ -2,13 +2,14 @@
   "id": 303346079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.701012,27.806483,-82.701012,27.806483",
     "geom:latitude":27.806483,
     "geom:longitude":-82.701012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4957 38th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303346079,
-    "wof:lastmodified":1448998103,
+    "wof:lastmodified":1466436502,
     "wof:name":"Randall T Hedrick DDS",
     "wof:parent_id":85889545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.701012,27.806483,-82.701012,27.806483],
-  "geometry": {"coordinates":[-82.701012,27.806483],"type":"Point"}
+  "bbox": [
+    -82.701012,
+    27.806483,
+    -82.701012,
+    27.806483
+],
+  "geometry": {"coordinates":[-82.70101200000001,27.806483],"type":"Point"}
 }

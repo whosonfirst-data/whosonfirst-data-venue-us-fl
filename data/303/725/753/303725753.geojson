@@ -2,13 +2,14 @@
   "id": 303725753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444085,28.038277,-82.444085,28.038277",
     "geom:latitude":28.038277,
     "geom:longitude":-82.444085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 98th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":303725753,
-    "wof:lastmodified":1448998704,
+    "wof:lastmodified":1466443058,
     "wof:name":"Hawes Custom Cycle Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-82.444085,28.038277,-82.444085,28.038277],
+  "bbox": [
+    -82.444085,
+    28.038277,
+    -82.444085,
+    28.038277
+],
   "geometry": {"coordinates":[-82.444085,28.038277],"type":"Point"}
 }

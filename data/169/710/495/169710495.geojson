@@ -2,13 +2,14 @@
   "id": 169710495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.487395,26.49877,-81.487395,26.49877",
     "geom:latitude":26.49877,
     "geom:longitude":-81.487395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Immokalee Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169710495,
-    "wof:lastmodified":1449032887,
+    "wof:lastmodified":1466445743,
     "wof:name":"Westcoast Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-81.487395,26.49877,-81.487395,26.49877],
-  "geometry": {"coordinates":[-81.487395,26.49877],"type":"Point"}
+  "bbox": [
+    -81.487395,
+    26.49877,
+    -81.487395,
+    26.49877
+],
+  "geometry": {"coordinates":[-81.48739500000001,26.49877],"type":"Point"}
 }

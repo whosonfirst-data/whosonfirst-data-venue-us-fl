@@ -2,13 +2,14 @@
   "id": 202838399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451371,28.013282,-82.451371,28.013282",
     "geom:latitude":28.013282,
     "geom:longitude":-82.451371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7110 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202838399,
-    "wof:lastmodified":1449060408,
+    "wof:lastmodified":1466432767,
     "wof:name":"St Patrick Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.451371,28.013282,-82.451371,28.013282],
-  "geometry": {"coordinates":[-82.451371,28.013282],"type":"Point"}
+  "bbox": [
+    -82.451371,
+    28.013282,
+    -82.451371,
+    28.013282
+],
+  "geometry": {"coordinates":[-82.45137099999999,28.013282],"type":"Point"}
 }

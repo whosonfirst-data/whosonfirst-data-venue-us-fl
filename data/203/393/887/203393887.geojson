@@ -2,13 +2,14 @@
   "id": 203393887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.565002,27.472708,-82.565002,27.472708",
     "geom:latitude":27.472708,
     "geom:longitude":-82.565002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 3rd St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203393887,
-    "wof:lastmodified":1449025515,
+    "wof:lastmodified":1466431338,
     "wof:name":"Mike's Vw Svc",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.565002,27.472708,-82.565002,27.472708],
-  "geometry": {"coordinates":[-82.565002,27.472708],"type":"Point"}
+  "bbox": [
+    -82.565002,
+    27.472708,
+    -82.565002,
+    27.472708
+],
+  "geometry": {"coordinates":[-82.56500200000001,27.472708],"type":"Point"}
 }

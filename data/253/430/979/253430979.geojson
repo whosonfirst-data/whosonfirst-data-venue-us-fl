@@ -2,13 +2,14 @@
   "id": 253430979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70919,30.416423,-81.70919,30.416423",
     "geom:latitude":30.416423,
     "geom:longitude":-81.70919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Trout River Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253430979,
-    "wof:lastmodified":1449064714,
+    "wof:lastmodified":1466434398,
     "wof:name":"Higginbotham Enterprises",
     "wof:parent_id":85845125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.70919,30.416423,-81.70919,30.416423],
-  "geometry": {"coordinates":[-81.70919,30.416423],"type":"Point"}
+  "bbox": [
+    -81.70919,
+    30.416423,
+    -81.70919,
+    30.416423
+],
+  "geometry": {"coordinates":[-81.70919000000001,30.416423],"type":"Point"}
 }

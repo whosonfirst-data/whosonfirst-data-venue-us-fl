@@ -2,13 +2,14 @@
   "id": 186253825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105164,26.420966,-80.105164,26.420966",
     "geom:latitude":26.420966,
     "geom:longitude":-80.105164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17305 Boca Club Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186253825,
-    "wof:lastmodified":1449052683,
+    "wof:lastmodified":1466429730,
     "wof:name":"M Blum",
     "wof:parent_id":85859309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-80.105164,26.420966,-80.105164,26.420966],
+  "bbox": [
+    -80.105164,
+    26.420966,
+    -80.105164,
+    26.420966
+],
   "geometry": {"coordinates":[-80.105164,26.420966],"type":"Point"}
 }

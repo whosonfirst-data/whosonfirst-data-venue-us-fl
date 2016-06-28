@@ -2,13 +2,14 @@
   "id": 202609067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.508034,28.656138,-81.508034,28.656138",
     "geom:latitude":28.656138,
     "geom:longitude":-81.508034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Saunders St",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202609067,
-    "wof:lastmodified":1449061054,
+    "wof:lastmodified":1466429791,
     "wof:name":"Bolden Joseph",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-81.508034,28.656138,-81.508034,28.656138],
-  "geometry": {"coordinates":[-81.508034,28.656138],"type":"Point"}
+  "bbox": [
+    -81.508034,
+    28.656138,
+    -81.508034,
+    28.656138
+],
+  "geometry": {"coordinates":[-81.50803399999999,28.656138],"type":"Point"}
 }

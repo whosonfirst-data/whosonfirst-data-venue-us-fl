@@ -2,13 +2,14 @@
   "id": 353464681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090471,26.307545,-80.090471,26.307545",
     "geom:latitude":26.307545,
     "geom:longitude":-80.090471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 SE 9th Ter",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353464681,
-    "wof:lastmodified":1449018957,
+    "wof:lastmodified":1466435784,
     "wof:name":"Brazilian Classified Ads",
     "wof:parent_id":85848599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.090471,26.307545,-80.090471,26.307545],
-  "geometry": {"coordinates":[-80.090471,26.307545],"type":"Point"}
+  "bbox": [
+    -80.090471,
+    26.307545,
+    -80.090471,
+    26.307545
+],
+  "geometry": {"coordinates":[-80.09047099999999,26.307545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286606727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.021763,29.180145,-81.021763,29.180145",
     "geom:latitude":29.180145,
     "geom:longitude":-81.021763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 Peachtree Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286606727,
-    "wof:lastmodified":1449015619,
+    "wof:lastmodified":1466435659,
     "wof:name":"George & Doreen Lawn Care",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.021763,29.180145,-81.021763,29.180145],
-  "geometry": {"coordinates":[-81.021763,29.180145],"type":"Point"}
+  "bbox": [
+    -81.021763,
+    29.180145,
+    -81.021763,
+    29.180145
+],
+  "geometry": {"coordinates":[-81.02176300000001,29.180145],"type":"Point"}
 }

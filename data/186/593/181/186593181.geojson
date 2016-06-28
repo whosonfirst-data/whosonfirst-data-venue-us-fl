@@ -2,13 +2,14 @@
   "id": 186593181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51852,27.900191,-82.51852,27.900191",
     "geom:latitude":27.900191,
     "geom:longitude":-82.51852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4543 S Manhattan Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186593181,
-    "wof:lastmodified":1449052145,
+    "wof:lastmodified":1466434061,
     "wof:name":"Ace Internal Medicine",
     "wof:parent_id":85873253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.51852,27.900191,-82.51852,27.900191],
+  "bbox": [
+    -82.51852,
+    27.900191,
+    -82.51852,
+    27.900191
+],
   "geometry": {"coordinates":[-82.51852,27.900191],"type":"Point"}
 }

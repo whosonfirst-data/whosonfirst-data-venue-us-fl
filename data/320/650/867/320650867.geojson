@@ -2,13 +2,14 @@
   "id": 320650867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36629,28.564033,-81.36629,28.564033",
     "geom:latitude":28.564033,
     "geom:longitude":-81.36629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Brookhaven Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320650867,
-    "wof:lastmodified":1449013531,
+    "wof:lastmodified":1466444652,
     "wof:name":"Mosquito Pro-Florida",
     "wof:parent_id":85879477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.36629,28.564033,-81.36629,28.564033],
-  "geometry": {"coordinates":[-81.36629,28.564033],"type":"Point"}
+  "bbox": [
+    -81.36629,
+    28.564033,
+    -81.36629,
+    28.564033
+],
+  "geometry": {"coordinates":[-81.36629000000001,28.564033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370479535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.000519,26.869133,-82.000519,26.869133",
     "geom:latitude":26.869133,
     "geom:longitude":-82.000519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11225 Tamiami Trl",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370479535,
-    "wof:lastmodified":1449031394,
+    "wof:lastmodified":1466441526,
     "wof:name":"Suncoast Marine",
     "wof:parent_id":85849981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.000519,26.869133,-82.000519,26.869133],
+  "bbox": [
+    -82.000519,
+    26.869133,
+    -82.000519,
+    26.869133
+],
   "geometry": {"coordinates":[-82.000519,26.869133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270136497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.60281,30.34622,-81.60281,30.34622",
     "geom:latitude":30.34622,
     "geom:longitude":-81.60281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2242 University Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270136497,
-    "wof:lastmodified":1449011098,
+    "wof:lastmodified":1466431788,
     "wof:name":"Carroll's Lee's Meat Shoppe",
     "wof:parent_id":85870691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.60281,30.34622,-81.60281,30.34622],
-  "geometry": {"coordinates":[-81.60281,30.34622],"type":"Point"}
+  "bbox": [
+    -81.60281,
+    30.34622,
+    -81.60281,
+    30.34622
+],
+  "geometry": {"coordinates":[-81.60281000000001,30.34622],"type":"Point"}
 }

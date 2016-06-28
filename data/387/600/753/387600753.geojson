@@ -2,13 +2,14 @@
   "id": 387600753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.262065,30.545212,-87.262065,30.545212",
     "geom:latitude":30.545212,
     "geom:longitude":-87.262065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10230 Chemstrand Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600753,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1466447259,
     "wof:name":"Weber Window & House Washing",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-87.262065,30.545212,-87.262065,30.545212],
-  "geometry": {"coordinates":[-87.262065,30.545212],"type":"Point"}
+  "bbox": [
+    -87.262065,
+    30.545212,
+    -87.262065,
+    30.545212
+],
+  "geometry": {"coordinates":[-87.26206500000001,30.545212],"type":"Point"}
 }

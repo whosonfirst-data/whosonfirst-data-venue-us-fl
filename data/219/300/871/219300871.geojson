@@ -2,13 +2,14 @@
   "id": 219300871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.685993,28.140051,-80.685993,28.140051",
     "geom:latitude":28.140051,
     "geom:longitude":-80.685993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 Tranquility Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219300871,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466428776,
     "wof:name":"Detection Inspection Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.685993,28.140051,-80.685993,28.140051],
+  "bbox": [
+    -80.685993,
+    28.140051,
+    -80.685993,
+    28.140051
+],
   "geometry": {"coordinates":[-80.685993,28.140051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320280941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.190594,28.258306,-81.190594,28.258306",
     "geom:latitude":28.258306,
     "geom:longitude":-81.190594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6137 Bass Hwy",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320280941,
-    "wof:lastmodified":1449013101,
+    "wof:lastmodified":1466438199,
     "wof:name":"Phone Center",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-81.190594,28.258306,-81.190594,28.258306],
+  "bbox": [
+    -81.190594,
+    28.258306,
+    -81.190594,
+    28.258306
+],
   "geometry": {"coordinates":[-81.190594,28.258306],"type":"Point"}
 }

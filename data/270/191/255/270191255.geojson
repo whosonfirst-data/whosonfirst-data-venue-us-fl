@@ -2,13 +2,14 @@
   "id": 270191255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.528556,29.559357,-82.528556,29.559357",
     "geom:latitude":29.559357,
     "geom:longitude":-82.528556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17520 SW 103rd Pl",
     "sg:city":"Archer",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270191255,
-    "wof:lastmodified":1449010115,
+    "wof:lastmodified":1466432738,
     "wof:name":"Broward Custom Woodwork Inc",
     "wof:parent_id":85845299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-82.528556,29.559357,-82.528556,29.559357],
-  "geometry": {"coordinates":[-82.528556,29.559357],"type":"Point"}
+  "bbox": [
+    -82.528556,
+    29.559357,
+    -82.528556,
+    29.559357
+],
+  "geometry": {"coordinates":[-82.52855599999999,29.559357],"type":"Point"}
 }

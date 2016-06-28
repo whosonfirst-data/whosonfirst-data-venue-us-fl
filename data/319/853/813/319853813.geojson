@@ -2,13 +2,14 @@
   "id": 319853813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.528241,28.174761,-82.528241,28.174761",
     "geom:latitude":28.174761,
     "geom:longitude":-82.528241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Live Oak Ln",
     "sg:city":"Lutz",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319853813,
-    "wof:lastmodified":1449024394,
+    "wof:lastmodified":1466433387,
     "wof:name":"A & B Concrete & Masonry",
     "wof:parent_id":85889269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-82.528241,28.174761,-82.528241,28.174761],
-  "geometry": {"coordinates":[-82.528241,28.174761],"type":"Point"}
+  "bbox": [
+    -82.528241,
+    28.174761,
+    -82.528241,
+    28.174761
+],
+  "geometry": {"coordinates":[-82.52824099999999,28.174761],"type":"Point"}
 }

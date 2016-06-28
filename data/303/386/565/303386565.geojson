@@ -2,13 +2,14 @@
   "id": 303386565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.342704,28.543534,-81.342704,28.543534",
     "geom:latitude":28.543534,
     "geom:longitude":-81.342704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Nilson Way",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303386565,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1466437193,
     "wof:name":"Universal Air Svc Of Florida",
     "wof:parent_id":85879433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-81.342704,28.543534,-81.342704,28.543534],
+  "bbox": [
+    -81.342704,
+    28.543534,
+    -81.342704,
+    28.543534
+],
   "geometry": {"coordinates":[-81.342704,28.543534],"type":"Point"}
 }

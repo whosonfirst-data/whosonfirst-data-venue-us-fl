@@ -2,13 +2,14 @@
   "id": 353377549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250207,26.138493,-80.250207,26.138493",
     "geom:latitude":26.138493,
     "geom:longitude":-80.250207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 NW 75th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353377549,
-    "wof:lastmodified":1449019221,
+    "wof:lastmodified":1466435332,
     "wof:name":"Ident Systems",
     "wof:parent_id":85851519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.250207,26.138493,-80.250207,26.138493],
+  "bbox": [
+    -80.250207,
+    26.138493,
+    -80.250207,
+    26.138493
+],
   "geometry": {"coordinates":[-80.250207,26.138493],"type":"Point"}
 }

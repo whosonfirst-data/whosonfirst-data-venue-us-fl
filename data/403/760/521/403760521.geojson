@@ -2,13 +2,14 @@
   "id": 403760521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.345222,25.886047,-80.345222,25.886047",
     "geom:latitude":25.886047,
     "geom:longitude":-80.345222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7028 W 30th Ln",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403760521,
-    "wof:lastmodified":1449055897,
+    "wof:lastmodified":1466440491,
     "wof:name":"American Steering Columns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.345222,25.886047,-80.345222,25.886047],
-  "geometry": {"coordinates":[-80.345222,25.886047],"type":"Point"}
+  "bbox": [
+    -80.345222,
+    25.886047,
+    -80.345222,
+    25.886047
+],
+  "geometry": {"coordinates":[-80.34522200000001,25.886047],"type":"Point"}
 }

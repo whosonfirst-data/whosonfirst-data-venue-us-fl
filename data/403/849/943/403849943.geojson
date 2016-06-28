@@ -2,13 +2,14 @@
   "id": 403849943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.418127,25.736263,-80.418127,25.736263",
     "geom:latitude":25.736263,
     "geom:longitude":-80.418127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13801 SW 34th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403849943,
-    "wof:lastmodified":1449054878,
+    "wof:lastmodified":1466441957,
     "wof:name":"Florida Independent Pharmacies",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.418127,25.736263,-80.418127,25.736263],
+  "bbox": [
+    -80.418127,
+    25.736263,
+    -80.418127,
+    25.736263
+],
   "geometry": {"coordinates":[-80.418127,25.736263],"type":"Point"}
 }

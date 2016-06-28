@@ -2,13 +2,14 @@
   "id": 370194917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.137256,30.603628,-87.137256,30.603628",
     "geom:latitude":30.603628,
     "geom:longitude":-87.137256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4453 US Hwy 90",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370194917,
-    "wof:lastmodified":1449031980,
+    "wof:lastmodified":1466437146,
     "wof:name":"GMAC Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.137256,30.603628,-87.137256,30.603628],
-  "geometry": {"coordinates":[-87.137256,30.603628],"type":"Point"}
+  "bbox": [
+    -87.137256,
+    30.603628,
+    -87.137256,
+    30.603628
+],
+  "geometry": {"coordinates":[-87.13725599999999,30.603628],"type":"Point"}
 }

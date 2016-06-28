@@ -2,13 +2,14 @@
   "id": 303470275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069551,26.762341,-80.069551,26.762341",
     "geom:latitude":26.762341,
     "geom:longitude":-80.069551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Fairfield Dr",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303470275,
-    "wof:lastmodified":1448998703,
+    "wof:lastmodified":1466438654,
     "wof:name":"Digital Comm Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-80.069551,26.762341,-80.069551,26.762341],
+  "bbox": [
+    -80.069551,
+    26.762341,
+    -80.069551,
+    26.762341
+],
   "geometry": {"coordinates":[-80.069551,26.762341],"type":"Point"}
 }

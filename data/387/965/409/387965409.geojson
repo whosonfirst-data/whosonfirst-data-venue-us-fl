@@ -2,13 +2,14 @@
   "id": 387965409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.48811,28.039353,-82.48811,28.039353",
     "geom:latitude":28.039353,
     "geom:longitude":-82.48811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9703 Orange Grove Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387965409,
-    "wof:lastmodified":1449058766,
+    "wof:lastmodified":1466449948,
     "wof:name":"Bay Area Screening",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "window"
     ]
 },
-  "bbox": [-82.48811,28.039353,-82.48811,28.039353],
-  "geometry": {"coordinates":[-82.48811,28.039353],"type":"Point"}
+  "bbox": [
+    -82.48811,
+    28.039353,
+    -82.48811,
+    28.039353
+],
+  "geometry": {"coordinates":[-82.48811000000001,28.039353],"type":"Point"}
 }

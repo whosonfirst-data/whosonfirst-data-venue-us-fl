@@ -2,13 +2,14 @@
   "id": 270259355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145165,26.149528,-80.145165,26.149528",
     "geom:latitude":26.149528,
     "geom:longitude":-80.145165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 N Andrews Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270259355,
-    "wof:lastmodified":1449009189,
+    "wof:lastmodified":1466433899,
     "wof:name":"Stonewall Library",
     "wof:parent_id":85877527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-80.145165,26.149528,-80.145165,26.149528],
-  "geometry": {"coordinates":[-80.145165,26.149528],"type":"Point"}
+  "bbox": [
+    -80.145165,
+    26.149528,
+    -80.145165,
+    26.149528
+],
+  "geometry": {"coordinates":[-80.14516500000001,26.149528],"type":"Point"}
 }

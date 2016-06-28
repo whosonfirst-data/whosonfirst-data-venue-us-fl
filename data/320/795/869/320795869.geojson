@@ -2,13 +2,14 @@
   "id": 320795869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.313531,28.684843,-81.313531,28.684843",
     "geom:latitude":28.684843,
     "geom:longitude":-81.313531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 7th St",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320795869,
-    "wof:lastmodified":1449013470,
+    "wof:lastmodified":1466446974,
     "wof:name":"Cosmos Cleaning Svc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.313531,28.684843,-81.313531,28.684843],
+  "bbox": [
+    -81.313531,
+    28.684843,
+    -81.313531,
+    28.684843
+],
   "geometry": {"coordinates":[-81.313531,28.684843],"type":"Point"}
 }

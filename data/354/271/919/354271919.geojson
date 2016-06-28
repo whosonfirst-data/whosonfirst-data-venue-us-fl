@@ -2,13 +2,14 @@
   "id": 354271919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.639941,30.359629,-81.639941,30.359629",
     "geom:latitude":30.359629,
     "geom:longitude":-81.639941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 E 24th St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354271919,
-    "wof:lastmodified":1449066827,
+    "wof:lastmodified":1466440264,
     "wof:name":"Glen's Lawn Care",
     "wof:parent_id":85870765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.639941,30.359629,-81.639941,30.359629],
-  "geometry": {"coordinates":[-81.639941,30.359629],"type":"Point"}
+  "bbox": [
+    -81.639941,
+    30.359629,
+    -81.639941,
+    30.359629
+],
+  "geometry": {"coordinates":[-81.63994099999999,30.359629],"type":"Point"}
 }

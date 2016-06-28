@@ -2,13 +2,14 @@
   "id": 354019273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.361801,29.717001,-82.361801,29.717001",
     "geom:latitude":29.717001,
     "geom:longitude":-82.361801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 NW 68 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354019273,
-    "wof:lastmodified":1449066928,
+    "wof:lastmodified":1466436360,
     "wof:name":"Lighthouse Baptist Church",
     "wof:parent_id":85877601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.361801,29.717001,-82.361801,29.717001],
+  "bbox": [
+    -82.361801,
+    29.717001,
+    -82.361801,
+    29.717001
+],
   "geometry": {"coordinates":[-82.361801,29.717001],"type":"Point"}
 }

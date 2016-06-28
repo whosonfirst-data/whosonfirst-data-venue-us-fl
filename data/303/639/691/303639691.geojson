@@ -2,13 +2,14 @@
   "id": 303639691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.817543,28.05696,-81.817543,28.05696",
     "geom:latitude":28.05696,
     "geom:longitude":-81.817543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 US Hwy 92",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303639691,
-    "wof:lastmodified":1449000553,
+    "wof:lastmodified":1466441533,
     "wof:name":"Sunshine Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.817543,28.05696,-81.817543,28.05696],
+  "bbox": [
+    -81.817543,
+    28.05696,
+    -81.817543,
+    28.05696
+],
   "geometry": {"coordinates":[-81.817543,28.05696],"type":"Point"}
 }

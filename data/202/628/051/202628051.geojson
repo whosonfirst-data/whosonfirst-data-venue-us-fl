@@ -2,13 +2,14 @@
   "id": 202628051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527183,27.349778,-82.527183,27.349778",
     "geom:latitude":27.349778,
     "geom:longitude":-82.527183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Manhattan Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202628051,
-    "wof:lastmodified":1449062183,
+    "wof:lastmodified":1466430058,
     "wof:name":"Asolo Scene Shop",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-82.527183,27.349778,-82.527183,27.349778],
-  "geometry": {"coordinates":[-82.527183,27.349778],"type":"Point"}
+  "bbox": [
+    -82.527183,
+    27.349778,
+    -82.527183,
+    27.349778
+],
+  "geometry": {"coordinates":[-82.52718299999999,27.349778],"type":"Point"}
 }

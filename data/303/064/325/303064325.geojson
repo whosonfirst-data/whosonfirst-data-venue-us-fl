@@ -2,13 +2,14 @@
   "id": 303064325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.434216,28.508678,-81.434216,28.508678",
     "geom:latitude":28.508678,
     "geom:longitude":-81.434216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 L B McLeod Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303064325,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1466431568,
     "wof:name":"Specialty Directory Dist Svc",
     "wof:parent_id":85879425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "shipping"
     ]
 },
-  "bbox": [-81.434216,28.508678,-81.434216,28.508678],
-  "geometry": {"coordinates":[-81.434216,28.508678],"type":"Point"}
+  "bbox": [
+    -81.434216,
+    28.508678,
+    -81.434216,
+    28.508678
+],
+  "geometry": {"coordinates":[-81.43421600000001,28.508678],"type":"Point"}
 }

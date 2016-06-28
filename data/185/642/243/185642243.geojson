@@ -2,13 +2,14 @@
   "id": 185642243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.639659,30.431092,-86.639659,30.431092",
     "geom:latitude":30.431092,
     "geom:longitude":-86.639659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Beal Pkwy NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185642243,
-    "wof:lastmodified":1449006688,
+    "wof:lastmodified":1466444360,
     "wof:name":"Car Max Inc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.639659,30.431092,-86.639659,30.431092],
-  "geometry": {"coordinates":[-86.639659,30.431092],"type":"Point"}
+  "bbox": [
+    -86.639659,
+    30.431092,
+    -86.639659,
+    30.431092
+],
+  "geometry": {"coordinates":[-86.63965899999999,30.431092],"type":"Point"}
 }

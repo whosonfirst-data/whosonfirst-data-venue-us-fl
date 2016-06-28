@@ -2,13 +2,14 @@
   "id": 403917303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206029,26.116124,-80.206029,26.116124",
     "geom:latitude":26.116124,
     "geom:longitude":-80.206029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 E Country Club Cir",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403917303,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1466442994,
     "wof:name":"Fort Lauderdale Country Club",
     "wof:parent_id":85856953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "private"
     ]
 },
-  "bbox": [-80.206029,26.116124,-80.206029,26.116124],
+  "bbox": [
+    -80.206029,
+    26.116124,
+    -80.206029,
+    26.116124
+],
   "geometry": {"coordinates":[-80.206029,26.116124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220039259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.77545,30.099978,-81.77545,30.099978",
     "geom:latitude":30.099978,
     "geom:longitude":-81.77545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2584 Co Rd 220",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220039259,
-    "wof:lastmodified":1449074773,
+    "wof:lastmodified":1466444523,
     "wof:name":"Pantry",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.77545,30.099978,-81.77545,30.099978],
-  "geometry": {"coordinates":[-81.77545,30.099978],"type":"Point"}
+  "bbox": [
+    -81.77545,
+    30.099978,
+    -81.77545,
+    30.099978
+],
+  "geometry": {"coordinates":[-81.77545000000001,30.099978],"type":"Point"}
 }

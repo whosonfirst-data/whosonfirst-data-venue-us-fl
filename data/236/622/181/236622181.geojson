@@ -2,13 +2,14 @@
   "id": 236622181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.872009,26.612133,-81.872009,26.612133",
     "geom:latitude":26.612133,
     "geom:longitude":-81.872009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 Cleveland Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236622181,
-    "wof:lastmodified":1449004531,
+    "wof:lastmodified":1466437219,
     "wof:name":"Modern Auto Sales",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.872009,26.612133,-81.872009,26.612133],
-  "geometry": {"coordinates":[-81.872009,26.612133],"type":"Point"}
+  "bbox": [
+    -81.872009,
+    26.612133,
+    -81.872009,
+    26.612133
+],
+  "geometry": {"coordinates":[-81.87200900000001,26.612133],"type":"Point"}
 }

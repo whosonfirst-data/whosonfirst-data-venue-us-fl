@@ -2,13 +2,14 @@
   "id": 319825335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.807054,26.330639,-81.807054,26.330639",
     "geom:latitude":26.330639,
     "geom:longitude":-81.807054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Bonita Beach Rd SW",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319825335,
-    "wof:lastmodified":1449024124,
+    "wof:lastmodified":1466432874,
     "wof:name":"Gulfside Realty-Southwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.807054,26.330639,-81.807054,26.330639],
-  "geometry": {"coordinates":[-81.807054,26.330639],"type":"Point"}
+  "bbox": [
+    -81.807054,
+    26.330639,
+    -81.807054,
+    26.330639
+],
+  "geometry": {"coordinates":[-81.80705399999999,26.330639],"type":"Point"}
 }

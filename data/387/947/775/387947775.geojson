@@ -2,13 +2,14 @@
   "id": 387947775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.469046,27.81624,-80.469046,27.81624",
     "geom:latitude":27.81624,
     "geom:longitude":-80.469046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 US Hwy 1",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387947775,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1466450030,
     "wof:name":"Reliable Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-80.469046,27.81624,-80.469046,27.81624],
-  "geometry": {"coordinates":[-80.469046,27.81624],"type":"Point"}
+  "bbox": [
+    -80.469046,
+    27.81624,
+    -80.469046,
+    27.81624
+],
+  "geometry": {"coordinates":[-80.46904600000001,27.81624],"type":"Point"}
 }

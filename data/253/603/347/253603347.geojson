@@ -2,13 +2,14 @@
   "id": 253603347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165563,26.182865,-80.165563,26.182865",
     "geom:latitude":26.182865,
     "geom:longitude":-80.165563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 NW 45th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253603347,
-    "wof:lastmodified":1449065311,
+    "wof:lastmodified":1466437475,
     "wof:name":"T E M S",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.165563,26.182865,-80.165563,26.182865],
-  "geometry": {"coordinates":[-80.165563,26.182865],"type":"Point"}
+  "bbox": [
+    -80.165563,
+    26.182865,
+    -80.165563,
+    26.182865
+],
+  "geometry": {"coordinates":[-80.16556300000001,26.182865],"type":"Point"}
 }

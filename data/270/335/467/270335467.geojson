@@ -2,13 +2,14 @@
   "id": 270335467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51432,27.907979,-82.51432,27.907979",
     "geom:latitude":27.907979,
     "geom:longitude":-82.51432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 W Bay Villa Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270335467,
-    "wof:lastmodified":1449010280,
+    "wof:lastmodified":1466435207,
     "wof:name":"Meridian Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-82.51432,27.907979,-82.51432,27.907979],
+  "bbox": [
+    -82.51432,
+    27.907979,
+    -82.51432,
+    27.907979
+],
   "geometry": {"coordinates":[-82.51432,27.907979],"type":"Point"}
 }

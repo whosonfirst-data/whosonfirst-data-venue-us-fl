@@ -2,13 +2,14 @@
   "id": 353950105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243964,27.175686,-80.243964,27.175686",
     "geom:latitude":27.175686,
     "geom:longitude":-80.243964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 SE Monterey Rd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353950105,
-    "wof:lastmodified":1449019265,
+    "wof:lastmodified":1466443226,
     "wof:name":"Coastal Marine",
     "wof:parent_id":85889629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.243964,27.175686,-80.243964,27.175686],
-  "geometry": {"coordinates":[-80.243964,27.175686],"type":"Point"}
+  "bbox": [
+    -80.243964,
+    27.175686,
+    -80.243964,
+    27.175686
+],
+  "geometry": {"coordinates":[-80.24396400000001,27.175686],"type":"Point"}
 }

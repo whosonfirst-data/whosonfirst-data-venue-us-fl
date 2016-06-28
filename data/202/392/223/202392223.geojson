@@ -2,13 +2,14 @@
   "id": 202392223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.19385,29.57528,-81.19385,29.57528",
     "geom:latitude":29.57528,
     "geom:longitude":-81.19385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Clubhouse Dr",
     "sg:city":"Palm Coast",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202392223,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466440585,
     "wof:name":"Home Watch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.19385,29.57528,-81.19385,29.57528],
+  "bbox": [
+    -81.19385,
+    29.57528,
+    -81.19385,
+    29.57528
+],
   "geometry": {"coordinates":[-81.19385,29.57528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320251605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13124,26.185566,-80.13124,26.185566",
     "geom:latitude":26.185566,
     "geom:longitude":-80.13124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 NE 12th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320251605,
-    "wof:lastmodified":1449011325,
+    "wof:lastmodified":1466437709,
     "wof:name":"Axis Plastic Lettering Inc",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "display"
     ]
 },
-  "bbox": [-80.13124,26.185566,-80.13124,26.185566],
-  "geometry": {"coordinates":[-80.13124,26.185566],"type":"Point"}
+  "bbox": [
+    -80.13124,
+    26.185566,
+    -80.13124,
+    26.185566
+],
+  "geometry": {"coordinates":[-80.13124000000001,26.185566],"type":"Point"}
 }

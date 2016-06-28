@@ -2,13 +2,14 @@
   "id": 320601165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45941,28.006829,-82.45941,28.006829",
     "geom:latitude":28.006829,
     "geom:longitude":-82.45941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320601165,
-    "wof:lastmodified":1449012927,
+    "wof:lastmodified":1466443816,
     "wof:name":"Florida Drive In",
     "wof:parent_id":85873237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.45941,28.006829,-82.45941,28.006829],
-  "geometry": {"coordinates":[-82.45941,28.006829],"type":"Point"}
+  "bbox": [
+    -82.45941,
+    28.006829,
+    -82.45941,
+    28.006829
+],
+  "geometry": {"coordinates":[-82.45941000000001,28.006829],"type":"Point"}
 }

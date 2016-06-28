@@ -2,13 +2,14 @@
   "id": 236128197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25867,25.739211,-80.25867,25.739211",
     "geom:latitude":25.739211,
     "geom:longitude":-80.25867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236128197,
-    "wof:lastmodified":1449002848,
+    "wof:lastmodified":1466430188,
     "wof:name":"Susan Cummins",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-80.25867,25.739211,-80.25867,25.739211],
+  "bbox": [
+    -80.25867,
+    25.739211,
+    -80.25867,
+    25.739211
+],
   "geometry": {"coordinates":[-80.25867,25.739211],"type":"Point"}
 }

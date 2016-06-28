@@ -2,13 +2,14 @@
   "id": 287042491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.305911,28.667616,-81.305911,28.667616",
     "geom:latitude":28.667616,
     "geom:longitude":-81.305911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 Hastings Ct",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287042491,
-    "wof:lastmodified":1449001344,
+    "wof:lastmodified":1466430545,
     "wof:name":"R & S McMullen Inc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.305911,28.667616,-81.305911,28.667616],
-  "geometry": {"coordinates":[-81.305911,28.667616],"type":"Point"}
+  "bbox": [
+    -81.305911,
+    28.667616,
+    -81.305911,
+    28.667616
+],
+  "geometry": {"coordinates":[-81.30591099999999,28.667616],"type":"Point"}
 }

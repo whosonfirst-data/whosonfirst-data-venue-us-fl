@@ -2,13 +2,14 @@
   "id": 270427229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123344,26.180784,-80.123344,26.180784",
     "geom:latitude":26.180784,
     "geom:longitude":-80.123344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 NE 43rd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270427229,
-    "wof:lastmodified":1449009353,
+    "wof:lastmodified":1466436761,
     "wof:name":"Anwar Export",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.123344,26.180784,-80.123344,26.180784],
+  "bbox": [
+    -80.123344,
+    26.180784,
+    -80.123344,
+    26.180784
+],
   "geometry": {"coordinates":[-80.123344,26.180784],"type":"Point"}
 }

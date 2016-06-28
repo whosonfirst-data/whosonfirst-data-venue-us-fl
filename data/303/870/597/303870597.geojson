@@ -2,13 +2,14 @@
   "id": 303870597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.400493,30.288306,-81.400493,30.288306",
     "geom:latitude":30.288306,
     "geom:longitude":-81.400493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Beach Blvd",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303870597,
-    "wof:lastmodified":1448998756,
+    "wof:lastmodified":1466445532,
     "wof:name":"Pantry Inc",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocery"
     ]
 },
-  "bbox": [-81.400493,30.288306,-81.400493,30.288306],
+  "bbox": [
+    -81.400493,
+    30.288306,
+    -81.400493,
+    30.288306
+],
   "geometry": {"coordinates":[-81.400493,30.288306],"type":"Point"}
 }

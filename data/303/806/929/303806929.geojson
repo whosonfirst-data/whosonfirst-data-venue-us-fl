@@ -2,13 +2,14 @@
   "id": 303806929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.80684,28.058987,-81.80684,28.058987",
     "geom:latitude":28.058987,
     "geom:longitude":-81.80684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Alabama Ln",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303806929,
-    "wof:lastmodified":1448998108,
+    "wof:lastmodified":1466444422,
     "wof:name":"Eagle Building Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.80684,28.058987,-81.80684,28.058987],
-  "geometry": {"coordinates":[-81.80684,28.058987],"type":"Point"}
+  "bbox": [
+    -81.80684,
+    28.058987,
+    -81.80684,
+    28.058987
+],
+  "geometry": {"coordinates":[-81.80683999999999,28.058987],"type":"Point"}
 }

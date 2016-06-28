@@ -2,13 +2,14 @@
   "id": 370572433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102257,26.353876,-80.102257,26.353876",
     "geom:latitude":26.353876,
     "geom:longitude":-80.102257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Paloma Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370572433,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1466442957,
     "wof:name":"7-Eleven",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.102257,26.353876,-80.102257,26.353876],
-  "geometry": {"coordinates":[-80.102257,26.353876],"type":"Point"}
+  "bbox": [
+    -80.102257,
+    26.353876,
+    -80.102257,
+    26.353876
+],
+  "geometry": {"coordinates":[-80.10225699999999,26.353876],"type":"Point"}
 }

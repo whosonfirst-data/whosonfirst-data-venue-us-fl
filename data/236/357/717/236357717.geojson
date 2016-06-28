@@ -2,13 +2,14 @@
   "id": 236357717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.348017,28.86239,-81.348017,28.86239",
     "geom:latitude":28.86239,
     "geom:longitude":-81.348017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Fort Florida Rd",
     "sg:city":"De Bary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236357717,
-    "wof:lastmodified":1449004760,
+    "wof:lastmodified":1466433464,
     "wof:name":"FPL",
     "wof:parent_id":85805767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.348017,28.86239,-81.348017,28.86239],
+  "bbox": [
+    -81.348017,
+    28.86239,
+    -81.348017,
+    28.86239
+],
   "geometry": {"coordinates":[-81.348017,28.86239],"type":"Point"}
 }

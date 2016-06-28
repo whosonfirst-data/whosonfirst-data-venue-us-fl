@@ -2,13 +2,14 @@
   "id": 270508713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.51327,30.952849,-87.51327,30.952849",
     "geom:latitude":30.952849,
     "geom:longitude":-87.51327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4921 Rockaway Creek Rd",
     "sg:city":"Mc David",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270508713,
-    "wof:lastmodified":1449010026,
+    "wof:lastmodified":1466438172,
     "wof:name":"Gulf Coast Hatchery",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hatchery"
     ]
 },
-  "bbox": [-87.51327,30.952849,-87.51327,30.952849],
-  "geometry": {"coordinates":[-87.51327,30.952849],"type":"Point"}
+  "bbox": [
+    -87.51327,
+    30.952849,
+    -87.51327,
+    30.952849
+],
+  "geometry": {"coordinates":[-87.51327000000001,30.952849],"type":"Point"}
 }

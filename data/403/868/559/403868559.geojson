@@ -2,13 +2,14 @@
   "id": 403868559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.734249,28.139256,-82.734249,28.139256",
     "geom:latitude":28.139256,
     "geom:longitude":-82.734249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 S Highland Ave",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403868559,
-    "wof:lastmodified":1449054678,
+    "wof:lastmodified":1466442236,
     "wof:name":"Sea Service",
     "wof:parent_id":85889829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-82.734249,28.139256,-82.734249,28.139256],
-  "geometry": {"coordinates":[-82.734249,28.139256],"type":"Point"}
+  "bbox": [
+    -82.734249,
+    28.139256,
+    -82.734249,
+    28.139256
+],
+  "geometry": {"coordinates":[-82.73424900000001,28.139256],"type":"Point"}
 }

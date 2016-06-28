@@ -2,13 +2,14 @@
   "id": 370926671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231653,25.852574,-80.231653,25.852574",
     "geom:latitude":25.852574,
     "geom:longitude":-80.231653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 NW 86th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370926671,
-    "wof:lastmodified":1449030275,
+    "wof:lastmodified":1466447722,
     "wof:name":"Sun Lotus Enterprise",
     "wof:parent_id":85856921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.231653,25.852574,-80.231653,25.852574],
-  "geometry": {"coordinates":[-80.231653,25.852574],"type":"Point"}
+  "bbox": [
+    -80.231653,
+    25.852574,
+    -80.231653,
+    25.852574
+],
+  "geometry": {"coordinates":[-80.23165299999999,25.852574],"type":"Point"}
 }

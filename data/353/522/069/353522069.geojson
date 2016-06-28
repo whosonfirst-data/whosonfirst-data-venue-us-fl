@@ -2,13 +2,14 @@
   "id": 353522069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.959105,28.085982,-81.959105,28.085982",
     "geom:latitude":28.085982,
     "geom:longitude":-81.959105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Hennesse St",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353522069,
-    "wof:lastmodified":1449019479,
+    "wof:lastmodified":1466436503,
     "wof:name":"Mark Williams Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.959105,28.085982,-81.959105,28.085982],
-  "geometry": {"coordinates":[-81.959105,28.085982],"type":"Point"}
+  "bbox": [
+    -81.959105,
+    28.085982,
+    -81.959105,
+    28.085982
+],
+  "geometry": {"coordinates":[-81.95910499999999,28.085982],"type":"Point"}
 }

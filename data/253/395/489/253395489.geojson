@@ -2,13 +2,14 @@
   "id": 253395489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18348,26.202565,-80.18348,26.202565",
     "geom:latitude":26.202565,
     "geom:longitude":-80.18348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W Cypress Creek Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253395489,
-    "wof:lastmodified":1449065338,
+    "wof:lastmodified":1466433788,
     "wof:name":"Alleriant",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.18348,26.202565,-80.18348,26.202565],
+  "bbox": [
+    -80.18348,
+    26.202565,
+    -80.18348,
+    26.202565
+],
   "geometry": {"coordinates":[-80.18348,26.202565],"type":"Point"}
 }

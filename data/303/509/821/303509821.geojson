@@ -2,13 +2,14 @@
   "id": 303509821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.340415,29.632793,-82.340415,29.632793",
     "geom:latitude":29.632793,
     "geom:longitude":-82.340415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 SW 14 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303509821,
-    "wof:lastmodified":1448998220,
+    "wof:lastmodified":1466439330,
     "wof:name":"Jennifer Fong Architectural",
     "wof:parent_id":85828547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-82.340415,29.632793,-82.340415,29.632793],
-  "geometry": {"coordinates":[-82.340415,29.632793],"type":"Point"}
+  "bbox": [
+    -82.340415,
+    29.632793,
+    -82.340415,
+    29.632793
+],
+  "geometry": {"coordinates":[-82.34041499999999,29.632793],"type":"Point"}
 }

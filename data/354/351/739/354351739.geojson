@@ -2,13 +2,14 @@
   "id": 354351739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.399138,25.772249,-80.399138,25.772249",
     "geom:latitude":25.772249,
     "geom:longitude":-80.399138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 NW 125th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354351739,
-    "wof:lastmodified":1449067395,
+    "wof:lastmodified":1466441491,
     "wof:name":"Service Master Professional",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.399138,25.772249,-80.399138,25.772249],
-  "geometry": {"coordinates":[-80.399138,25.772249],"type":"Point"}
+  "bbox": [
+    -80.399138,
+    25.772249,
+    -80.399138,
+    25.772249
+],
+  "geometry": {"coordinates":[-80.39913799999999,25.772249],"type":"Point"}
 }

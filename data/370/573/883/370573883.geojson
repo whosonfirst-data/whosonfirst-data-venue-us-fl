@@ -2,13 +2,14 @@
   "id": 370573883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245173,26.234448,-80.245173,26.234448",
     "geom:latitude":26.234448,
     "geom:longitude":-80.245173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 NW 89th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370573883,
-    "wof:lastmodified":1449031594,
+    "wof:lastmodified":1466442978,
     "wof:name":"Federal Mgr Association",
     "wof:parent_id":85876899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.245173,26.234448,-80.245173,26.234448],
-  "geometry": {"coordinates":[-80.245173,26.234448],"type":"Point"}
+  "bbox": [
+    -80.245173,
+    26.234448,
+    -80.245173,
+    26.234448
+],
+  "geometry": {"coordinates":[-80.24517299999999,26.234448],"type":"Point"}
 }

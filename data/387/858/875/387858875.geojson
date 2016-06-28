@@ -2,13 +2,14 @@
   "id": 387858875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.312017,25.725523,-80.312017,25.725523",
     "geom:latitude":25.725523,
     "geom:longitude":-80.312017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7342 SW 48th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387858875,
-    "wof:lastmodified":1449056484,
+    "wof:lastmodified":1466449208,
     "wof:name":"Arline Investigation Unit Inc",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-80.312017,25.725523,-80.312017,25.725523],
+  "bbox": [
+    -80.312017,
+    25.725523,
+    -80.312017,
+    25.725523
+],
   "geometry": {"coordinates":[-80.312017,25.725523],"type":"Point"}
 }

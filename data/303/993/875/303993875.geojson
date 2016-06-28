@@ -2,13 +2,14 @@
   "id": 303993875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.789587,28.062417,-81.789587,28.062417",
     "geom:latitude":28.062417,
     "geom:longitude":-81.789587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Bridgers Ave",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303993875,
-    "wof:lastmodified":1448999202,
+    "wof:lastmodified":1466447171,
     "wof:name":"Main Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.789587,28.062417,-81.789587,28.062417],
+  "bbox": [
+    -81.789587,
+    28.062417,
+    -81.789587,
+    28.062417
+],
   "geometry": {"coordinates":[-81.789587,28.062417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320250347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.522399,28.481196,-81.522399,28.481196",
     "geom:latitude":28.481196,
     "geom:longitude":-81.522399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9642 McCormick Pl",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320250347,
-    "wof:lastmodified":1449013385,
+    "wof:lastmodified":1466437687,
     "wof:name":"Jeffery Group Inc",
     "wof:parent_id":85889903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.522399,28.481196,-81.522399,28.481196],
-  "geometry": {"coordinates":[-81.522399,28.481196],"type":"Point"}
+  "bbox": [
+    -81.522399,
+    28.481196,
+    -81.522399,
+    28.481196
+],
+  "geometry": {"coordinates":[-81.52239899999999,28.481196],"type":"Point"}
 }

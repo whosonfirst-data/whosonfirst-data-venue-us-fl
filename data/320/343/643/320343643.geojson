@@ -2,13 +2,14 @@
   "id": 320343643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.237401,30.783595,-85.237401,30.783595",
     "geom:latitude":30.783595,
     "geom:longitude":-85.237401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4302 Kelson Ave",
     "sg:city":"Marianna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320343643,
-    "wof:lastmodified":1449013914,
+    "wof:lastmodified":1466439274,
     "wof:name":"St Anne's Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.237401,30.783595,-85.237401,30.783595],
-  "geometry": {"coordinates":[-85.237401,30.783595],"type":"Point"}
+  "bbox": [
+    -85.237401,
+    30.783595,
+    -85.237401,
+    30.783595
+],
+  "geometry": {"coordinates":[-85.23740100000001,30.783595],"type":"Point"}
 }

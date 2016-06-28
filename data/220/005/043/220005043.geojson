@@ -2,13 +2,14 @@
   "id": 220005043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256759,25.813754,-80.256759,25.813754",
     "geom:latitude":25.813754,
     "geom:longitude":-80.256759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4238 NW 37th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220005043,
-    "wof:lastmodified":1449074817,
+    "wof:lastmodified":1466446324,
     "wof:name":"Antiques of Tomorrow",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-80.256759,25.813754,-80.256759,25.813754],
+  "bbox": [
+    -80.256759,
+    25.813754,
+    -80.256759,
+    25.813754
+],
   "geometry": {"coordinates":[-80.256759,25.813754],"type":"Point"}
 }

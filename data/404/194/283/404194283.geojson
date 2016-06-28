@@ -2,13 +2,14 @@
   "id": 404194283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504551,28.04599,-82.504551,28.04599",
     "geom:latitude":28.04599,
     "geom:longitude":-82.504551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10422 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404194283,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1466443260,
     "wof:name":"Electrolux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-82.504551,28.04599,-82.504551,28.04599],
-  "geometry": {"coordinates":[-82.504551,28.04599],"type":"Point"}
+  "bbox": [
+    -82.504551,
+    28.04599,
+    -82.504551,
+    28.04599
+],
+  "geometry": {"coordinates":[-82.50455100000001,28.04599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320320167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.698005,30.305304,-81.698005,30.305304",
     "geom:latitude":30.305304,
     "geom:longitude":-81.698005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Willow Branch Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320320167,
-    "wof:lastmodified":1449012209,
+    "wof:lastmodified":1466438868,
     "wof:name":"John A Luhrs Real Estate Svcs",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.698005,30.305304,-81.698005,30.305304],
-  "geometry": {"coordinates":[-81.698005,30.305304],"type":"Point"}
+  "bbox": [
+    -81.698005,
+    30.305304,
+    -81.698005,
+    30.305304
+],
+  "geometry": {"coordinates":[-81.69800499999999,30.305304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169829647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069967,26.538256,-80.069967,26.538256",
     "geom:latitude":26.538256,
     "geom:longitude":-80.069967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 NW 13th Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169829647,
-    "wof:lastmodified":1449035744,
+    "wof:lastmodified":1466429342,
     "wof:name":"Palm Beach County Housing Auth",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-80.069967,26.538256,-80.069967,26.538256],
-  "geometry": {"coordinates":[-80.069967,26.538256],"type":"Point"}
+  "bbox": [
+    -80.069967,
+    26.538256,
+    -80.069967,
+    26.538256
+],
+  "geometry": {"coordinates":[-80.06996700000001,26.538256],"type":"Point"}
 }

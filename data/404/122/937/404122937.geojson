@@ -2,13 +2,14 @@
   "id": 404122937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020595,29.207191,-81.020595,29.207191",
     "geom:latitude":29.207191,
     "geom:longitude":-81.020595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Orange Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404122937,
-    "wof:lastmodified":1449039813,
+    "wof:lastmodified":1466442148,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.020595,29.207191,-81.020595,29.207191],
+  "bbox": [
+    -81.020595,
+    29.207191,
+    -81.020595,
+    29.207191
+],
   "geometry": {"coordinates":[-81.020595,29.207191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303605711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.243596,30.46889,-87.243596,30.46889",
     "geom:latitude":30.46889,
     "geom:longitude":-87.243596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303605711,
-    "wof:lastmodified":1448999311,
+    "wof:lastmodified":1466440946,
     "wof:name":"Casa Del Sol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.243596,30.46889,-87.243596,30.46889],
+  "bbox": [
+    -87.243596,
+    30.46889,
+    -87.243596,
+    30.46889
+],
   "geometry": {"coordinates":[-87.243596,30.46889],"type":"Point"}
 }

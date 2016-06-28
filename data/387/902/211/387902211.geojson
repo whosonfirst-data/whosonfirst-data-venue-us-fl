@@ -2,13 +2,14 @@
   "id": 387902211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077627,26.352417,-80.077627,26.352417",
     "geom:latitude":26.352417,
     "geom:longitude":-80.077627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 NE 5th Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387902211,
-    "wof:lastmodified":1449058922,
+    "wof:lastmodified":1466449626,
     "wof:name":"LJ Property Management LLC",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-80.077627,26.352417,-80.077627,26.352417],
-  "geometry": {"coordinates":[-80.077627,26.352417],"type":"Point"}
+  "bbox": [
+    -80.077627,
+    26.352417,
+    -80.077627,
+    26.352417
+],
+  "geometry": {"coordinates":[-80.07762700000001,26.352417],"type":"Point"}
 }

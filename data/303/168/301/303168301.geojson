@@ -2,13 +2,14 @@
   "id": 303168301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.434209,28.057791,-82.434209,28.057791",
     "geom:latitude":28.057791,
     "geom:longitude":-82.434209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12245 University Mall Ct",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303168301,
-    "wof:lastmodified":1448999397,
+    "wof:lastmodified":1466433431,
     "wof:name":"Style Setter",
     "wof:parent_id":85873263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.434209,28.057791,-82.434209,28.057791],
+  "bbox": [
+    -82.434209,
+    28.057791,
+    -82.434209,
+    28.057791
+],
   "geometry": {"coordinates":[-82.434209,28.057791],"type":"Point"}
 }

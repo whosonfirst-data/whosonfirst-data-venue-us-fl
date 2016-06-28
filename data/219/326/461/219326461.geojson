@@ -2,13 +2,14 @@
   "id": 219326461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250825,26.166492,-80.250825,26.166492",
     "geom:latitude":26.166492,
     "geom:longitude":-80.250825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7481 W Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219326461,
-    "wof:lastmodified":1449071885,
+    "wof:lastmodified":1466429133,
     "wof:name":"American Mortgage Funding Corp",
     "wof:parent_id":85896109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.250825,26.166492,-80.250825,26.166492],
-  "geometry": {"coordinates":[-80.250825,26.166492],"type":"Point"}
+  "bbox": [
+    -80.250825,
+    26.166492,
+    -80.250825,
+    26.166492
+],
+  "geometry": {"coordinates":[-80.25082500000001,26.166492],"type":"Point"}
 }

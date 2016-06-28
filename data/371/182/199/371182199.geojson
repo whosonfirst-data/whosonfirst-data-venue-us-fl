@@ -2,13 +2,14 @@
   "id": 371182199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337544,25.690928,-80.337544,25.690928",
     "geom:latitude":25.690928,
     "geom:longitude":-80.337544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8741 SW 85th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371182199,
-    "wof:lastmodified":1449049719,
+    "wof:lastmodified":1466440343,
     "wof:name":"Ewm Realty",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.337544,25.690928,-80.337544,25.690928],
-  "geometry": {"coordinates":[-80.337544,25.690928],"type":"Point"}
+  "bbox": [
+    -80.337544,
+    25.690928,
+    -80.337544,
+    25.690928
+],
+  "geometry": {"coordinates":[-80.33754399999999,25.690928],"type":"Point"}
 }

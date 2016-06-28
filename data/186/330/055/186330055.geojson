@@ -2,13 +2,14 @@
   "id": 186330055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260399,25.744054,-80.260399,25.744054",
     "geom:latitude":25.744054,
     "geom:longitude":-80.260399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Salzedo St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186330055,
-    "wof:lastmodified":1449051717,
+    "wof:lastmodified":1466430659,
     "wof:name":"Decomed",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.260399,25.744054,-80.260399,25.744054],
-  "geometry": {"coordinates":[-80.260399,25.744054],"type":"Point"}
+  "bbox": [
+    -80.260399,
+    25.744054,
+    -80.260399,
+    25.744054
+],
+  "geometry": {"coordinates":[-80.26039900000001,25.744054],"type":"Point"}
 }

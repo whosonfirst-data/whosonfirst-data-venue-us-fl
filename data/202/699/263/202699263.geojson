@@ -2,13 +2,14 @@
   "id": 202699263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222376,26.652095,-80.222376,26.652095",
     "geom:latitude":26.652095,
     "geom:longitude":-80.222376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Birkdale Dr",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202699263,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466430978,
     "wof:name":"St Michael Lutheran Church",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.222376,26.652095,-80.222376,26.652095],
+  "bbox": [
+    -80.222376,
+    26.652095,
+    -80.222376,
+    26.652095
+],
   "geometry": {"coordinates":[-80.222376,26.652095],"type":"Point"}
 }

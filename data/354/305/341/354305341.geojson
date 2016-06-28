@@ -2,13 +2,14 @@
   "id": 354305341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235111,26.780366,-80.235111,26.780366",
     "geom:latitude":26.780366,
     "geom:longitude":-80.235111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12456 Orange Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354305341,
-    "wof:lastmodified":1449066193,
+    "wof:lastmodified":1466440785,
     "wof:name":"M O Welding",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.235111,26.780366,-80.235111,26.780366],
+  "bbox": [
+    -80.235111,
+    26.780366,
+    -80.235111,
+    26.780366
+],
   "geometry": {"coordinates":[-80.235111,26.780366],"type":"Point"}
 }

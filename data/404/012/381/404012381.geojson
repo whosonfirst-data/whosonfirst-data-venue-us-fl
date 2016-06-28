@@ -2,13 +2,14 @@
   "id": 404012381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116813,26.159817,-80.116813,26.159817",
     "geom:latitude":26.159817,
     "geom:longitude":-80.116813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 NE 26th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404012381,
-    "wof:lastmodified":1449040210,
+    "wof:lastmodified":1466440454,
     "wof:name":"Cargo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.116813,26.159817,-80.116813,26.159817],
-  "geometry": {"coordinates":[-80.116813,26.159817],"type":"Point"}
+  "bbox": [
+    -80.116813,
+    26.159817,
+    -80.116813,
+    26.159817
+],
+  "geometry": {"coordinates":[-80.11681299999999,26.159817],"type":"Point"}
 }

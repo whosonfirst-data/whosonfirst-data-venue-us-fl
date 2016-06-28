@@ -2,13 +2,14 @@
   "id": 303858031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351728,28.52212,-81.351728,28.52212",
     "geom:latitude":28.52212,
     "geom:longitude":-81.351728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 S Bumby Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303858031,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466445310,
     "wof:name":"Orange Computers File Servers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "certified"
     ]
 },
-  "bbox": [-81.351728,28.52212,-81.351728,28.52212],
-  "geometry": {"coordinates":[-81.351728,28.52212],"type":"Point"}
+  "bbox": [
+    -81.351728,
+    28.52212,
+    -81.351728,
+    28.52212
+],
+  "geometry": {"coordinates":[-81.35172799999999,28.52212],"type":"Point"}
 }

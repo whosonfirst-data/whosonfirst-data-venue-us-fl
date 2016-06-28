@@ -2,13 +2,14 @@
   "id": 353933209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234647,26.242867,-80.234647,26.242867",
     "geom:latitude":26.242867,
     "geom:longitude":-80.234647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 NW 82nd Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353933209,
-    "wof:lastmodified":1449018781,
+    "wof:lastmodified":1466442973,
     "wof:name":"Concrecell",
     "wof:parent_id":85876899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.234647,26.242867,-80.234647,26.242867],
+  "bbox": [
+    -80.234647,
+    26.242867,
+    -80.234647,
+    26.242867
+],
   "geometry": {"coordinates":[-80.234647,26.242867],"type":"Point"}
 }

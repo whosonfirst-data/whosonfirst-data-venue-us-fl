@@ -2,13 +2,14 @@
   "id": 269643151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.124293,29.221623,-82.124293,29.221623",
     "geom:latitude":29.221623,
     "geom:longitude":-82.124293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 NE Jacksonville Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269643151,
-    "wof:lastmodified":1449038513,
+    "wof:lastmodified":1466431356,
     "wof:name":"US Post Office",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "us"
     ]
 },
-  "bbox": [-82.124293,29.221623,-82.124293,29.221623],
-  "geometry": {"coordinates":[-82.124293,29.221623],"type":"Point"}
+  "bbox": [
+    -82.124293,
+    29.221623,
+    -82.124293,
+    29.221623
+],
+  "geometry": {"coordinates":[-82.12429299999999,29.221623],"type":"Point"}
 }

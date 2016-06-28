@@ -2,13 +2,14 @@
   "id": 270061127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225649,25.795711,-80.225649,25.795711",
     "geom:latitude":25.795711,
     "geom:longitude":-80.225649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 NW 21st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270061127,
-    "wof:lastmodified":1449010420,
+    "wof:lastmodified":1466430503,
     "wof:name":"New Miami Import & Export",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-80.225649,25.795711,-80.225649,25.795711],
+  "bbox": [
+    -80.225649,
+    25.795711,
+    -80.225649,
+    25.795711
+],
   "geometry": {"coordinates":[-80.225649,25.795711],"type":"Point"}
 }

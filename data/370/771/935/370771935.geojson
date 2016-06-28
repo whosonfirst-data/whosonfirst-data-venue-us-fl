@@ -2,13 +2,14 @@
   "id": 370771935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561314,27.497099,-82.561314,27.497099",
     "geom:latitude":27.497099,
     "geom:longitude":-82.561314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 2nd St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370771935,
-    "wof:lastmodified":1449030909,
+    "wof:lastmodified":1466446026,
     "wof:name":"APC Pediatrics",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.561314,27.497099,-82.561314,27.497099],
+  "bbox": [
+    -82.561314,
+    27.497099,
+    -82.561314,
+    27.497099
+],
   "geometry": {"coordinates":[-82.561314,27.497099],"type":"Point"}
 }

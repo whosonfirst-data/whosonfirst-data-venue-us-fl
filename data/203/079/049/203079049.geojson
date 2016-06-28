@@ -2,13 +2,14 @@
   "id": 203079049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.470581,27.941828,-82.470581,27.941828",
     "geom:latitude":27.941828,
     "geom:longitude":-82.470581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 W Platt St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203079049,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1466444647,
     "wof:name":"Imfeld Investigations",
     "wof:parent_id":85889805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-82.470581,27.941828,-82.470581,27.941828],
+  "bbox": [
+    -82.470581,
+    27.941828,
+    -82.470581,
+    27.941828
+],
   "geometry": {"coordinates":[-82.470581,27.941828],"type":"Point"}
 }

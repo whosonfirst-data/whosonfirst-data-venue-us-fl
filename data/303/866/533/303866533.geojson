@@ -2,13 +2,14 @@
   "id": 303866533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509647,27.946777,-82.509647,27.946777",
     "geom:latitude":27.946777,
     "geom:longitude":-82.509647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 W North B St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303866533,
-    "wof:lastmodified":1448999282,
+    "wof:lastmodified":1466445457,
     "wof:name":"3rd Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.509647,27.946777,-82.509647,27.946777],
+  "bbox": [
+    -82.509647,
+    27.946777,
+    -82.509647,
+    27.946777
+],
   "geometry": {"coordinates":[-82.509647,27.946777],"type":"Point"}
 }

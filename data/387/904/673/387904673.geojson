@@ -2,13 +2,14 @@
   "id": 387904673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215016,26.405119,-80.215016,26.405119",
     "geom:latitude":26.405119,
     "geom:longitude":-80.215016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10743 Lake Oak Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387904673,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1466449659,
     "wof:name":"Charlie Aristy Limousine Svc",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.215016,26.405119,-80.215016,26.405119],
-  "geometry": {"coordinates":[-80.215016,26.405119],"type":"Point"}
+  "bbox": [
+    -80.215016,
+    26.405119,
+    -80.215016,
+    26.405119
+],
+  "geometry": {"coordinates":[-80.21501600000001,26.405119],"type":"Point"}
 }

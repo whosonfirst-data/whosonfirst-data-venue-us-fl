@@ -2,13 +2,14 @@
   "id": 370539803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.790118,26.238534,-81.790118,26.238534",
     "geom:latitude":26.238534,
     "geom:longitude":-81.790118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Hickory Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370539803,
-    "wof:lastmodified":1449032548,
+    "wof:lastmodified":1466442447,
     "wof:name":"Jensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.790118,26.238534,-81.790118,26.238534],
-  "geometry": {"coordinates":[-81.790118,26.238534],"type":"Point"}
+  "bbox": [
+    -81.790118,
+    26.238534,
+    -81.790118,
+    26.238534
+],
+  "geometry": {"coordinates":[-81.79011800000001,26.238534],"type":"Point"}
 }

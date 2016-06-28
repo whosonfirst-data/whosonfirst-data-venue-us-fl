@@ -2,13 +2,14 @@
   "id": 185849179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.475288,30.357611,-81.475288,30.357611",
     "geom:latitude":30.357611,
     "geom:longitude":-81.475288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14071 Broken Bow Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849179,
-    "wof:lastmodified":1449006917,
+    "wof:lastmodified":1466429484,
     "wof:name":"Deluxe Corp",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.475288,30.357611,-81.475288,30.357611],
-  "geometry": {"coordinates":[-81.475288,30.357611],"type":"Point"}
+  "bbox": [
+    -81.475288,
+    30.357611,
+    -81.475288,
+    30.357611
+],
+  "geometry": {"coordinates":[-81.47528800000001,30.357611],"type":"Point"}
 }

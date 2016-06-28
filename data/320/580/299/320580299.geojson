@@ -2,13 +2,14 @@
   "id": 320580299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136488,26.092881,-80.136488,26.092881",
     "geom:latitude":26.092881,
     "geom:longitude":-80.136488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320580299,
-    "wof:lastmodified":1449013785,
+    "wof:lastmodified":1466443451,
     "wof:name":"West Marine",
     "wof:parent_id":85877517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.136488,26.092881,-80.136488,26.092881],
+  "bbox": [
+    -80.136488,
+    26.092881,
+    -80.136488,
+    26.092881
+],
   "geometry": {"coordinates":[-80.136488,26.092881],"type":"Point"}
 }

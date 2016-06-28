@@ -2,13 +2,14 @@
   "id": 387423803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101389,24.708016,-81.101389,24.708016",
     "geom:latitude":24.708016,
     "geom:longitude":-81.101389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 24th Street Ocean",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387423803,
-    "wof:lastmodified":1449056734,
+    "wof:lastmodified":1466445197,
     "wof:name":"Gordon J Shannon Dr",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.101389,24.708016,-81.101389,24.708016],
+  "bbox": [
+    -81.101389,
+    24.708016,
+    -81.101389,
+    24.708016
+],
   "geometry": {"coordinates":[-81.101389,24.708016],"type":"Point"}
 }

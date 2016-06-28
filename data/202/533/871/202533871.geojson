@@ -2,13 +2,14 @@
   "id": 202533871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.079953,29.269004,-81.079953,29.269004",
     "geom:latitude":29.269004,
     "geom:longitude":-81.079953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"483 S Nova Rd",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202533871,
-    "wof:lastmodified":1449060079,
+    "wof:lastmodified":1466428795,
     "wof:name":"Suncoast Radiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.079953,29.269004,-81.079953,29.269004],
+  "bbox": [
+    -81.079953,
+    29.269004,
+    -81.079953,
+    29.269004
+],
   "geometry": {"coordinates":[-81.079953,29.269004],"type":"Point"}
 }

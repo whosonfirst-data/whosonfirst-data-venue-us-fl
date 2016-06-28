@@ -2,13 +2,14 @@
   "id": 303825633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.221975,29.255097,-82.221975,29.255097",
     "geom:latitude":29.255097,
     "geom:longitude":-82.221975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6475 NW 62nd Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303825633,
-    "wof:lastmodified":1448998214,
+    "wof:lastmodified":1466444739,
     "wof:name":"Limb Walker Tree Svc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-82.221975,29.255097,-82.221975,29.255097],
+  "bbox": [
+    -82.221975,
+    29.255097,
+    -82.221975,
+    29.255097
+],
   "geometry": {"coordinates":[-82.221975,29.255097],"type":"Point"}
 }

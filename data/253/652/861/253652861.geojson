@@ -2,13 +2,14 @@
   "id": 253652861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.789578,28.02748,-82.789578,28.02748",
     "geom:latitude":28.02748,
     "geom:longitude":-82.789578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 Bayshore Blvd",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253652861,
-    "wof:lastmodified":1449064741,
+    "wof:lastmodified":1466438355,
     "wof:name":"Ambitious Pair Inc",
     "wof:parent_id":85815425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.789578,28.02748,-82.789578,28.02748],
-  "geometry": {"coordinates":[-82.789578,28.02748],"type":"Point"}
+  "bbox": [
+    -82.789578,
+    28.02748,
+    -82.789578,
+    28.02748
+],
+  "geometry": {"coordinates":[-82.78957800000001,28.02748],"type":"Point"}
 }

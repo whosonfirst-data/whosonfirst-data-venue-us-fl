@@ -2,13 +2,14 @@
   "id": 370246127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.683546,27.782757,-82.683546,27.782757",
     "geom:latitude":27.782757,
     "geom:longitude":-82.683546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 37th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370246127,
-    "wof:lastmodified":1449029314,
+    "wof:lastmodified":1466437951,
     "wof:name":"Sports Injury & Physical Thrpy",
     "wof:parent_id":85880553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-82.683546,27.782757,-82.683546,27.782757],
-  "geometry": {"coordinates":[-82.683546,27.782757],"type":"Point"}
+  "bbox": [
+    -82.683546,
+    27.782757,
+    -82.683546,
+    27.782757
+],
+  "geometry": {"coordinates":[-82.68354600000001,27.782757],"type":"Point"}
 }

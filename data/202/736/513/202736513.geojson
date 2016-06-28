@@ -2,13 +2,14 @@
   "id": 202736513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.056538,30.625968,-87.056538,30.625968",
     "geom:latitude":30.625968,
     "geom:longitude":-87.056538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Dogwood Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202736513,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466431448,
     "wof:name":"Gulf Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-87.056538,30.625968,-87.056538,30.625968],
+  "bbox": [
+    -87.056538,
+    30.625968,
+    -87.056538,
+    30.625968
+],
   "geometry": {"coordinates":[-87.056538,30.625968],"type":"Point"}
 }

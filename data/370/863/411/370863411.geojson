@@ -2,13 +2,14 @@
   "id": 370863411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.549369,30.176033,-81.549369,30.176033",
     "geom:latitude":30.176033,
     "geom:longitude":-81.549369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370863411,
-    "wof:lastmodified":1449031416,
+    "wof:lastmodified":1466446964,
     "wof:name":"Pantry Inc",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.549369,30.176033,-81.549369,30.176033],
+  "bbox": [
+    -81.549369,
+    30.176033,
+    -81.549369,
+    30.176033
+],
   "geometry": {"coordinates":[-81.549369,30.176033],"type":"Point"}
 }

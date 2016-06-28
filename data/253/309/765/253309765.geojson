@@ -2,13 +2,14 @@
   "id": 253309765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26108,25.733465,-80.26108,25.733465",
     "geom:latitude":25.733465,
     "geom:longitude":-80.26108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4041 Laguna St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253309765,
-    "wof:lastmodified":1449063460,
+    "wof:lastmodified":1466432365,
     "wof:name":"J P Studio",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.26108,25.733465,-80.26108,25.733465],
-  "geometry": {"coordinates":[-80.26108,25.733465],"type":"Point"}
+  "bbox": [
+    -80.26108,
+    25.733465,
+    -80.26108,
+    25.733465
+],
+  "geometry": {"coordinates":[-80.26108000000001,25.733465],"type":"Point"}
 }

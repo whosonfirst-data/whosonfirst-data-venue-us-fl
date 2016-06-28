@@ -2,13 +2,14 @@
   "id": 303221633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299258,25.774858,-80.299258,25.774858",
     "geom:latitude":25.774858,
     "geom:longitude":-80.299258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 NW 63rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303221633,
-    "wof:lastmodified":1448999194,
+    "wof:lastmodified":1466434367,
     "wof:name":"R & D Craft Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "facility"
     ]
 },
-  "bbox": [-80.299258,25.774858,-80.299258,25.774858],
-  "geometry": {"coordinates":[-80.299258,25.774858],"type":"Point"}
+  "bbox": [
+    -80.299258,
+    25.774858,
+    -80.299258,
+    25.774858
+],
+  "geometry": {"coordinates":[-80.29925799999999,25.774858],"type":"Point"}
 }

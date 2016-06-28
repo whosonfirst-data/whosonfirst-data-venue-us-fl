@@ -2,13 +2,14 @@
   "id": 320435501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.528467,27.317414,-82.528467,27.317414",
     "geom:latitude":27.317414,
     "geom:longitude":-82.528467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2043 Arlington St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320435501,
-    "wof:lastmodified":1449014620,
+    "wof:lastmodified":1466440873,
     "wof:name":"Arlington Manor",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.528467,27.317414,-82.528467,27.317414],
-  "geometry": {"coordinates":[-82.528467,27.317414],"type":"Point"}
+  "bbox": [
+    -82.528467,
+    27.317414,
+    -82.528467,
+    27.317414
+],
+  "geometry": {"coordinates":[-82.52846700000001,27.317414],"type":"Point"}
 }

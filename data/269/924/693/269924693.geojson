@@ -2,13 +2,14 @@
   "id": 269924693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.97777,28.109852,-81.97777,28.109852",
     "geom:latitude":28.109852,
     "geom:longitude":-81.97777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5203 E Grace St",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269924693,
-    "wof:lastmodified":1449036822,
+    "wof:lastmodified":1466436245,
     "wof:name":"Schaffer Test Products Inc",
     "wof:parent_id":85889021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-81.97777,28.109852,-81.97777,28.109852],
-  "geometry": {"coordinates":[-81.97777,28.109852],"type":"Point"}
+  "bbox": [
+    -81.97777,
+    28.109852,
+    -81.97777,
+    28.109852
+],
+  "geometry": {"coordinates":[-81.97777000000001,28.109852],"type":"Point"}
 }

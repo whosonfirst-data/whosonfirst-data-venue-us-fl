@@ -2,13 +2,14 @@
   "id": 186621215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.760117,26.268528,-81.760117,26.268528",
     "geom:latitude":26.268528,
     "geom:longitude":-81.760117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Arlette Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186621215,
-    "wof:lastmodified":1449052698,
+    "wof:lastmodified":1466434448,
     "wof:name":"Shutters and Such",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-81.760117,26.268528,-81.760117,26.268528],
-  "geometry": {"coordinates":[-81.760117,26.268528],"type":"Point"}
+  "bbox": [
+    -81.760117,
+    26.268528,
+    -81.760117,
+    26.268528
+],
+  "geometry": {"coordinates":[-81.76011699999999,26.268528],"type":"Point"}
 }

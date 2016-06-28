@@ -2,13 +2,14 @@
   "id": 303078945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.073253,29.256677,-81.073253,29.256677",
     "geom:latitude":29.256677,
     "geom:longitude":-81.073253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Nova Rd",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303078945,
-    "wof:lastmodified":1449000179,
+    "wof:lastmodified":1466431832,
     "wof:name":"Your Doctor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.073253,29.256677,-81.073253,29.256677],
-  "geometry": {"coordinates":[-81.073253,29.256677],"type":"Point"}
+  "bbox": [
+    -81.073253,
+    29.256677,
+    -81.073253,
+    29.256677
+],
+  "geometry": {"coordinates":[-81.07325299999999,29.256677],"type":"Point"}
 }

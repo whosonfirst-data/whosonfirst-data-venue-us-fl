@@ -2,13 +2,14 @@
   "id": 370346701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.859664,26.633524,-81.859664,26.633524",
     "geom:latitude":26.633524,
     "geom:longitude":-81.859664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2744 Edison Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370346701,
-    "wof:lastmodified":1449029049,
+    "wof:lastmodified":1466439469,
     "wof:name":"Bob Crum Co",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.859664,26.633524,-81.859664,26.633524],
+  "bbox": [
+    -81.859664,
+    26.633524,
+    -81.859664,
+    26.633524
+],
   "geometry": {"coordinates":[-81.859664,26.633524],"type":"Point"}
 }

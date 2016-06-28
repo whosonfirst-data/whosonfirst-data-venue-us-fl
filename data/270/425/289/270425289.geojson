@@ -2,13 +2,14 @@
   "id": 270425289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.280533,26.275536,-80.280533,26.275536",
     "geom:latitude":26.275536,
     "geom:longitude":-80.280533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11627 NW 36th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270425289,
-    "wof:lastmodified":1449009509,
+    "wof:lastmodified":1466436733,
     "wof:name":"Daniel Electric Associate",
     "wof:parent_id":85876869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.280533,26.275536,-80.280533,26.275536],
-  "geometry": {"coordinates":[-80.280533,26.275536],"type":"Point"}
+  "bbox": [
+    -80.280533,
+    26.275536,
+    -80.280533,
+    26.275536
+],
+  "geometry": {"coordinates":[-80.28053300000001,26.275536],"type":"Point"}
 }

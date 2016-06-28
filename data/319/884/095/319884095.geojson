@@ -2,13 +2,14 @@
   "id": 319884095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090071,26.509122,-80.090071,26.509122",
     "geom:latitude":26.509122,
     "geom:longitude":-80.090071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 S Congress Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319884095,
-    "wof:lastmodified":1449024736,
+    "wof:lastmodified":1466433935,
     "wof:name":"Graham Whitfield MD",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.090071,26.509122,-80.090071,26.509122],
-  "geometry": {"coordinates":[-80.090071,26.509122],"type":"Point"}
+  "bbox": [
+    -80.090071,
+    26.509122,
+    -80.090071,
+    26.509122
+],
+  "geometry": {"coordinates":[-80.09007099999999,26.509122],"type":"Point"}
 }

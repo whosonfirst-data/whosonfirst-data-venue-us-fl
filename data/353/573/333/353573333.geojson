@@ -2,13 +2,14 @@
   "id": 353573333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.567416,28.503329,-81.567416,28.503329",
     "geom:latitude":28.503329,
     "geom:longitude":-81.567416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12502 Lake Buynak Ct",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353573333,
-    "wof:lastmodified":1449020132,
+    "wof:lastmodified":1466437364,
     "wof:name":"Main St Mower Inc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.567416,28.503329,-81.567416,28.503329],
-  "geometry": {"coordinates":[-81.567416,28.503329],"type":"Point"}
+  "bbox": [
+    -81.567416,
+    28.503329,
+    -81.567416,
+    28.503329
+],
+  "geometry": {"coordinates":[-81.56741599999999,28.503329],"type":"Point"}
 }

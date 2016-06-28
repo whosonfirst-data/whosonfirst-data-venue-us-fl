@@ -2,13 +2,14 @@
   "id": 320803645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328847,25.834444,-80.328847,25.834444",
     "geom:latitude":25.834444,
     "geom:longitude":-80.328847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8133 NW 67th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320803645,
-    "wof:lastmodified":1449015008,
+    "wof:lastmodified":1466446855,
     "wof:name":"Quick Box Express",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-80.328847,25.834444,-80.328847,25.834444],
+  "bbox": [
+    -80.328847,
+    25.834444,
+    -80.328847,
+    25.834444
+],
   "geometry": {"coordinates":[-80.328847,25.834444],"type":"Point"}
 }

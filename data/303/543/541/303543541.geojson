@@ -2,13 +2,14 @@
   "id": 303543541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.660249,30.161716,-85.660249,30.161716",
     "geom:latitude":30.161716,
     "geom:longitude":-85.660249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 Harrison Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303543541,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1466439907,
     "wof:name":"Surgical Associates-Nw Florida",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.660249,30.161716,-85.660249,30.161716],
-  "geometry": {"coordinates":[-85.660249,30.161716],"type":"Point"}
+  "bbox": [
+    -85.660249,
+    30.161716,
+    -85.660249,
+    30.161716
+],
+  "geometry": {"coordinates":[-85.66024899999999,30.161716],"type":"Point"}
 }

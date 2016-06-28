@@ -2,13 +2,14 @@
   "id": 303243775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088509,29.165832,-81.088509,29.165832",
     "geom:latitude":29.165832,
     "geom:longitude":-81.088509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 W International Speedway Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303243775,
-    "wof:lastmodified":1448998911,
+    "wof:lastmodified":1466434742,
     "wof:name":"Speedway BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.088509,29.165832,-81.088509,29.165832],
+  "bbox": [
+    -81.088509,
+    29.165832,
+    -81.088509,
+    29.165832
+],
   "geometry": {"coordinates":[-81.088509,29.165832],"type":"Point"}
 }

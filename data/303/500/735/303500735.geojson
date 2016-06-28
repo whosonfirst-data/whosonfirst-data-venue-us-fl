@@ -2,13 +2,14 @@
   "id": 303500735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.74778,26.107261,-81.74778,26.107261",
     "geom:latitude":26.107261,
     "geom:longitude":-81.74778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5029 Tamiami Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303500735,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466439165,
     "wof:name":"Engle Homes Of Sw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.74778,26.107261,-81.74778,26.107261],
-  "geometry": {"coordinates":[-81.74778,26.107261],"type":"Point"}
+  "bbox": [
+    -81.74778,
+    26.107261,
+    -81.74778,
+    26.107261
+],
+  "geometry": {"coordinates":[-81.74778000000001,26.107261],"type":"Point"}
 }

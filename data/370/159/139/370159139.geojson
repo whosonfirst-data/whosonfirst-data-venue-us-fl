@@ -2,13 +2,14 @@
   "id": 370159139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.180917,25.875657,-80.180917,25.875657",
     "geom:latitude":25.875657,
     "geom:longitude":-80.180917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10903 NE 8th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370159139,
-    "wof:lastmodified":1449029493,
+    "wof:lastmodified":1466436578,
     "wof:name":"Murphy Roofs",
     "wof:parent_id":85833929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.180917,25.875657,-80.180917,25.875657],
-  "geometry": {"coordinates":[-80.180917,25.875657],"type":"Point"}
+  "bbox": [
+    -80.180917,
+    25.875657,
+    -80.180917,
+    25.875657
+],
+  "geometry": {"coordinates":[-80.18091699999999,25.875657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370645661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.411263,25.645761,-80.411263,25.645761",
     "geom:latitude":25.645761,
     "geom:longitude":-80.411263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13611 SW 131st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370645661,
-    "wof:lastmodified":1449029430,
+    "wof:lastmodified":1466444072,
     "wof:name":"Lawn Rescue",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.411263,25.645761,-80.411263,25.645761],
-  "geometry": {"coordinates":[-80.411263,25.645761],"type":"Point"}
+  "bbox": [
+    -80.411263,
+    25.645761,
+    -80.411263,
+    25.645761
+],
+  "geometry": {"coordinates":[-80.41126300000001,25.645761],"type":"Point"}
 }

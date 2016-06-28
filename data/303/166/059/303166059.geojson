@@ -2,13 +2,14 @@
   "id": 303166059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505552,27.387926,-82.505552,27.387926",
     "geom:latitude":27.387926,
     "geom:longitude":-82.505552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6392 N Lockwood Ridge Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303166059,
-    "wof:lastmodified":1448999486,
+    "wof:lastmodified":1466433394,
     "wof:name":"Filippo's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-82.505552,27.387926,-82.505552,27.387926],
-  "geometry": {"coordinates":[-82.505552,27.387926],"type":"Point"}
+  "bbox": [
+    -82.505552,
+    27.387926,
+    -82.505552,
+    27.387926
+],
+  "geometry": {"coordinates":[-82.50555199999999,27.387926],"type":"Point"}
 }

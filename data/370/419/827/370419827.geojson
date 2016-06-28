@@ -2,13 +2,14 @@
   "id": 370419827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.449318,27.096531,-82.449318,27.096531",
     "geom:latitude":27.096531,
     "geom:longitude":-82.449318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Ponce de Leon Ave",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370419827,
-    "wof:lastmodified":1449032405,
+    "wof:lastmodified":1466440604,
     "wof:name":"Horse & Chaise Inn",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-82.449318,27.096531,-82.449318,27.096531],
-  "geometry": {"coordinates":[-82.449318,27.096531],"type":"Point"}
+  "bbox": [
+    -82.449318,
+    27.096531,
+    -82.449318,
+    27.096531
+],
+  "geometry": {"coordinates":[-82.44931800000001,27.096531],"type":"Point"}
 }

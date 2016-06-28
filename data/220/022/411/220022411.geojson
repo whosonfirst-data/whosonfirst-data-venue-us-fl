@@ -2,13 +2,14 @@
   "id": 220022411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.197708,25.940553,-80.197708,25.940553",
     "geom:latitude":25.940553,
     "geom:longitude":-80.197708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 NE 181st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220022411,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466444121,
     "wof:name":"Drew Water Svc",
     "wof:parent_id":85852993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-80.197708,25.940553,-80.197708,25.940553],
-  "geometry": {"coordinates":[-80.197708,25.940553],"type":"Point"}
+  "bbox": [
+    -80.197708,
+    25.940553,
+    -80.197708,
+    25.940553
+],
+  "geometry": {"coordinates":[-80.19770800000001,25.940553],"type":"Point"}
 }

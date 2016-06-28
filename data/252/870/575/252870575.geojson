@@ -2,13 +2,14 @@
   "id": 252870575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270226,26.054463,-80.270226,26.054463",
     "geom:latitude":26.054463,
     "geom:longitude":-80.270226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 SW 90th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252870575,
-    "wof:lastmodified":1449005705,
+    "wof:lastmodified":1466430769,
     "wof:name":"API",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "legal"
     ]
 },
-  "bbox": [-80.270226,26.054463,-80.270226,26.054463],
-  "geometry": {"coordinates":[-80.270226,26.054463],"type":"Point"}
+  "bbox": [
+    -80.270226,
+    26.054463,
+    -80.270226,
+    26.054463
+],
+  "geometry": {"coordinates":[-80.27022599999999,26.054463],"type":"Point"}
 }

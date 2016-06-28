@@ -2,13 +2,14 @@
   "id": 387224309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.943389,26.523391,-81.943389,26.523391",
     "geom:latitude":26.523391,
     "geom:longitude":-81.943389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14706 Olde Millpond Ct",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387224309,
-    "wof:lastmodified":1449058887,
+    "wof:lastmodified":1466442171,
     "wof:name":"Golfnet",
     "wof:parent_id":85888835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.943389,26.523391,-81.943389,26.523391],
+  "bbox": [
+    -81.943389,
+    26.523391,
+    -81.943389,
+    26.523391
+],
   "geometry": {"coordinates":[-81.943389,26.523391],"type":"Point"}
 }

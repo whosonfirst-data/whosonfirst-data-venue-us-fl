@@ -2,13 +2,14 @@
   "id": 320535825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.278491,30.426623,-87.278491,30.426623",
     "geom:latitude":30.426623,
     "geom:longitude":-87.278491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4718 Lillian Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320535825,
-    "wof:lastmodified":1449011932,
+    "wof:lastmodified":1466442652,
     "wof:name":"Green's Produce",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-87.278491,30.426623,-87.278491,30.426623],
+  "bbox": [
+    -87.278491,
+    30.426623,
+    -87.278491,
+    30.426623
+],
   "geometry": {"coordinates":[-87.278491,30.426623],"type":"Point"}
 }

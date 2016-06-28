@@ -2,13 +2,14 @@
   "id": 320650131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.079246,29.353087,-82.079246,29.353087",
     "geom:latitude":29.353087,
     "geom:longitude":-82.079246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 NE 139th Ln",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320650131,
-    "wof:lastmodified":1449013531,
+    "wof:lastmodified":1466444640,
     "wof:name":"Action Engraving",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-82.079246,29.353087,-82.079246,29.353087],
+  "bbox": [
+    -82.079246,
+    29.353087,
+    -82.079246,
+    29.353087
+],
   "geometry": {"coordinates":[-82.079246,29.353087],"type":"Point"}
 }

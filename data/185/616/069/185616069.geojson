@@ -2,13 +2,14 @@
   "id": 185616069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.247448,30.424996,-87.247448,30.424996",
     "geom:latitude":30.424996,
     "geom:longitude":-87.247448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 W Brainerd St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185616069,
-    "wof:lastmodified":1449007775,
+    "wof:lastmodified":1466446325,
     "wof:name":"D & J Janitorial Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-87.247448,30.424996,-87.247448,30.424996],
-  "geometry": {"coordinates":[-87.247448,30.424996],"type":"Point"}
+  "bbox": [
+    -87.247448,
+    30.424996,
+    -87.247448,
+    30.424996
+],
+  "geometry": {"coordinates":[-87.24744800000001,30.424996],"type":"Point"}
 }

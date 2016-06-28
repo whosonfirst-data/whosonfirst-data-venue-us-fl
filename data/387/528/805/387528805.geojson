@@ -2,13 +2,14 @@
   "id": 387528805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625959,30.242583,-81.625959,30.242583",
     "geom:latitude":30.242583,
     "geom:longitude":-81.625959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7529 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387528805,
-    "wof:lastmodified":1449057117,
+    "wof:lastmodified":1466446768,
     "wof:name":"San Jose Country Club",
     "wof:parent_id":85846881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sporting"
     ]
 },
-  "bbox": [-81.625959,30.242583,-81.625959,30.242583],
-  "geometry": {"coordinates":[-81.625959,30.242583],"type":"Point"}
+  "bbox": [
+    -81.625959,
+    30.242583,
+    -81.625959,
+    30.242583
+],
+  "geometry": {"coordinates":[-81.62595899999999,30.242583],"type":"Point"}
 }

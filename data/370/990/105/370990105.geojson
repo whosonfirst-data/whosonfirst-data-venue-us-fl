@@ -2,13 +2,14 @@
   "id": 370990105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222658,25.769375,-80.222658,25.769375",
     "geom:latitude":25.769375,
     "geom:longitude":-80.222658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 SW 17th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370990105,
-    "wof:lastmodified":1449031346,
+    "wof:lastmodified":1466448264,
     "wof:name":"Bon-Bon Bakery",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.222658,25.769375,-80.222658,25.769375],
+  "bbox": [
+    -80.222658,
+    25.769375,
+    -80.222658,
+    25.769375
+],
   "geometry": {"coordinates":[-80.222658,25.769375],"type":"Point"}
 }

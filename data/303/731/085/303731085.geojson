@@ -2,13 +2,14 @@
   "id": 303731085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.375851,28.532187,-81.375851,28.532187",
     "geom:latitude":28.532187,
     "geom:longitude":-81.375851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Agnes Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303731085,
-    "wof:lastmodified":1449000293,
+    "wof:lastmodified":1466443150,
     "wof:name":"Ground Floor Engineering",
     "wof:parent_id":85879469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.375851,28.532187,-81.375851,28.532187],
+  "bbox": [
+    -81.375851,
+    28.532187,
+    -81.375851,
+    28.532187
+],
   "geometry": {"coordinates":[-81.375851,28.532187],"type":"Point"}
 }

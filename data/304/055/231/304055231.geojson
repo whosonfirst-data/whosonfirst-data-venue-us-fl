@@ -2,13 +2,14 @@
   "id": 304055231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.763759,30.123213,-81.763759,30.123213",
     "geom:latitude":30.123213,
     "geom:longitude":-81.763759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Cedar Rd",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304055231,
-    "wof:lastmodified":1449043687,
+    "wof:lastmodified":1466432775,
     "wof:name":"Robert E Padgett Electric",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.763759,30.123213,-81.763759,30.123213],
-  "geometry": {"coordinates":[-81.763759,30.123213],"type":"Point"}
+  "bbox": [
+    -81.763759,
+    30.123213,
+    -81.763759,
+    30.123213
+],
+  "geometry": {"coordinates":[-81.76375899999999,30.123213],"type":"Point"}
 }

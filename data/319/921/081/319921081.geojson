@@ -2,13 +2,14 @@
   "id": 319921081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102583,26.162892,-80.102583,26.162892",
     "geom:latitude":26.162892,
     "geom:longitude":-80.102583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 NE 28th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319921081,
-    "wof:lastmodified":1449024585,
+    "wof:lastmodified":1466434617,
     "wof:name":"Le Cercle Apartment By Beach",
     "wof:parent_id":85881959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.102583,26.162892,-80.102583,26.162892],
+  "bbox": [
+    -80.102583,
+    26.162892,
+    -80.102583,
+    26.162892
+],
   "geometry": {"coordinates":[-80.102583,26.162892],"type":"Point"}
 }

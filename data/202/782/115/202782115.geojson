@@ -2,13 +2,14 @@
   "id": 202782115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.95142,30.255922,-85.95142,30.255922",
     "geom:latitude":30.255922,
     "geom:longitude":-85.95142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21416 Dolphin Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202782115,
-    "wof:lastmodified":1449060096,
+    "wof:lastmodified":1466432030,
     "wof:name":"Artifacts Museum & Gallery",
     "wof:parent_id":85823335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-85.95142,30.255922,-85.95142,30.255922],
+  "bbox": [
+    -85.95142,
+    30.255922,
+    -85.95142,
+    30.255922
+],
   "geometry": {"coordinates":[-85.95142,30.255922],"type":"Point"}
 }

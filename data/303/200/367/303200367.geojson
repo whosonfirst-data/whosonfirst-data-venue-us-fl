@@ -2,13 +2,14 @@
   "id": 303200367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184048,26.333975,-80.184048,26.333975",
     "geom:latitude":26.333975,
     "geom:longitude":-80.184048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8843 SW 16th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303200367,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1466433993,
     "wof:name":"Bills Painting",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.184048,26.333975,-80.184048,26.333975],
+  "bbox": [
+    -80.184048,
+    26.333975,
+    -80.184048,
+    26.333975
+],
   "geometry": {"coordinates":[-80.184048,26.333975],"type":"Point"}
 }

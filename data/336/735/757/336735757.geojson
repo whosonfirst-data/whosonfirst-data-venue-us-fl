@@ -2,13 +2,14 @@
   "id": 336735757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.558765,30.269035,-81.558765,30.269035",
     "geom:latitude":30.269035,
     "geom:longitude":-81.558765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4372 Southside Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336735757,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466437322,
     "wof:name":"Hot Pans",
     "wof:parent_id":85870713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-81.558765,30.269035,-81.558765,30.269035],
-  "geometry": {"coordinates":[-81.558765,30.269035],"type":"Point"}
+  "bbox": [
+    -81.558765,
+    30.269035,
+    -81.558765,
+    30.269035
+],
+  "geometry": {"coordinates":[-81.55876499999999,30.269035],"type":"Point"}
 }

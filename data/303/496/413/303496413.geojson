@@ -2,13 +2,14 @@
   "id": 303496413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.61459,28.315994,-80.61459,28.315994",
     "geom:latitude":28.315994,
     "geom:longitude":-80.61459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Boca Ciega Rd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303496413,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1466439092,
     "wof:name":"Brevard Concepts In Kitchens",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-80.61459,28.315994,-80.61459,28.315994],
-  "geometry": {"coordinates":[-80.61459,28.315994],"type":"Point"}
+  "bbox": [
+    -80.61459,
+    28.315994,
+    -80.61459,
+    28.315994
+],
+  "geometry": {"coordinates":[-80.61459000000001,28.315994],"type":"Point"}
 }

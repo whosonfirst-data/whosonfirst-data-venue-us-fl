@@ -2,13 +2,14 @@
   "id": 202804613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.296597,25.75076,-80.296597,25.75076",
     "geom:latitude":25.75076,
     "geom:longitude":-80.296597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6250 SW 21st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202804613,
-    "wof:lastmodified":1449061859,
+    "wof:lastmodified":1466432316,
     "wof:name":"De LA Paz Wrecker & Towing Svc",
     "wof:parent_id":85855949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.296597,25.75076,-80.296597,25.75076],
-  "geometry": {"coordinates":[-80.296597,25.75076],"type":"Point"}
+  "bbox": [
+    -80.296597,
+    25.75076,
+    -80.296597,
+    25.75076
+],
+  "geometry": {"coordinates":[-80.29659700000001,25.75076],"type":"Point"}
 }

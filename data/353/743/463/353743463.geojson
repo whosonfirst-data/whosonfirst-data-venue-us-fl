@@ -2,13 +2,14 @@
   "id": 353743463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.224788,30.451314,-84.224788,30.451314",
     "geom:latitude":30.451314,
     "geom:longitude":-84.224788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Easterwood Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353743463,
-    "wof:lastmodified":1449020773,
+    "wof:lastmodified":1466440059,
     "wof:name":"Tallahassee Animal Shelter",
     "wof:parent_id":85841315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-84.224788,30.451314,-84.224788,30.451314],
+  "bbox": [
+    -84.224788,
+    30.451314,
+    -84.224788,
+    30.451314
+],
   "geometry": {"coordinates":[-84.224788,30.451314],"type":"Point"}
 }

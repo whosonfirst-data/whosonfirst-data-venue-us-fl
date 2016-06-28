@@ -2,13 +2,14 @@
   "id": 320431731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.650337,30.379903,-81.650337,30.379903",
     "geom:latitude":30.379903,
     "geom:longitude":-81.650337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320431731,
-    "wof:lastmodified":1449011758,
+    "wof:lastmodified":1466440802,
     "wof:name":"Burch Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.650337,30.379903,-81.650337,30.379903],
-  "geometry": {"coordinates":[-81.650337,30.379903],"type":"Point"}
+  "bbox": [
+    -81.650337,
+    30.379903,
+    -81.650337,
+    30.379903
+],
+  "geometry": {"coordinates":[-81.65033699999999,30.379903],"type":"Point"}
 }

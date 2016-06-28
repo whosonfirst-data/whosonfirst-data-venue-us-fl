@@ -2,13 +2,14 @@
   "id": 387562181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396543,27.633096,-80.396543,27.633096",
     "geom:latitude":27.633096,
     "geom:longitude":-80.396543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 17th St",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387562181,
-    "wof:lastmodified":1449058125,
+    "wof:lastmodified":1466446896,
     "wof:name":"None",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.396543,27.633096,-80.396543,27.633096],
-  "geometry": {"coordinates":[-80.396543,27.633096],"type":"Point"}
+  "bbox": [
+    -80.396543,
+    27.633096,
+    -80.396543,
+    27.633096
+],
+  "geometry": {"coordinates":[-80.39654299999999,27.633096],"type":"Point"}
 }

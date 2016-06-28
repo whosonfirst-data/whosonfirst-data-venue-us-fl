@@ -2,13 +2,14 @@
   "id": 236158571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.247023,28.597002,-81.247023,28.597002",
     "geom:latitude":28.597002,
     "geom:longitude":-81.247023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 Hollow Crossing Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236158571,
-    "wof:lastmodified":1449003931,
+    "wof:lastmodified":1466430631,
     "wof:name":"Atlantic Satellite",
     "wof:parent_id":85889301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "satellite"
     ]
 },
-  "bbox": [-81.247023,28.597002,-81.247023,28.597002],
+  "bbox": [
+    -81.247023,
+    28.597002,
+    -81.247023,
+    28.597002
+],
   "geometry": {"coordinates":[-81.247023,28.597002],"type":"Point"}
 }

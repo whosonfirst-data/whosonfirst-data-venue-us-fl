@@ -2,13 +2,14 @@
   "id": 403844231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.336043,25.760431,-80.336043,25.760431",
     "geom:latitude":25.760431,
     "geom:longitude":-80.336043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 SW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":403844231,
-    "wof:lastmodified":1449055201,
+    "wof:lastmodified":1466441860,
     "wof:name":"A-1 Medical Health Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.336043,25.760431,-80.336043,25.760431],
+  "bbox": [
+    -80.336043,
+    25.760431,
+    -80.336043,
+    25.760431
+],
   "geometry": {"coordinates":[-80.336043,25.760431],"type":"Point"}
 }

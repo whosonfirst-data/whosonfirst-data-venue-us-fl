@@ -2,13 +2,14 @@
   "id": 370653647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.349092,26.010526,-80.349092,26.010526",
     "geom:latitude":26.010526,
     "geom:longitude":-80.349092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 NW 153rd Ln",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370653647,
-    "wof:lastmodified":1449029328,
+    "wof:lastmodified":1466444193,
     "wof:name":"ABS Pumps",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-80.349092,26.010526,-80.349092,26.010526],
+  "bbox": [
+    -80.349092,
+    26.010526,
+    -80.349092,
+    26.010526
+],
   "geometry": {"coordinates":[-80.349092,26.010526],"type":"Point"}
 }

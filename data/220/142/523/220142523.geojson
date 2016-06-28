@@ -2,13 +2,14 @@
   "id": 220142523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79152,26.310618,-81.79152,26.310618",
     "geom:latitude":26.310618,
     "geom:longitude":-81.79152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Rail Head Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220142523,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466428816,
     "wof:name":"Rhodes & Rhodes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.79152,26.310618,-81.79152,26.310618],
-  "geometry": {"coordinates":[-81.79152,26.310618],"type":"Point"}
+  "bbox": [
+    -81.79152,
+    26.310618,
+    -81.79152,
+    26.310618
+],
+  "geometry": {"coordinates":[-81.79152000000001,26.310618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253725169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.289223,30.533652,-87.289223,30.533652",
     "geom:latitude":30.533652,
     "geom:longitude":-87.289223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 W Nine Mile Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253725169,
-    "wof:lastmodified":1449063533,
+    "wof:lastmodified":1466439629,
     "wof:name":"Coastal Container",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-87.289223,30.533652,-87.289223,30.533652],
-  "geometry": {"coordinates":[-87.289223,30.533652],"type":"Point"}
+  "bbox": [
+    -87.289223,
+    30.533652,
+    -87.289223,
+    30.533652
+],
+  "geometry": {"coordinates":[-87.28922300000001,30.533652],"type":"Point"}
 }

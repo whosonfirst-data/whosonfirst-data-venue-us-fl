@@ -2,13 +2,14 @@
   "id": 404182607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.473913,28.397624,-81.473913,28.397624",
     "geom:latitude":28.397624,
     "geom:longitude":-81.473913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11500 Westwood Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404182607,
-    "wof:lastmodified":1449039888,
+    "wof:lastmodified":1466443079,
     "wof:name":"Nice & Clean",
     "wof:parent_id":85889411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.473913,28.397624,-81.473913,28.397624],
+  "bbox": [
+    -81.473913,
+    28.397624,
+    -81.473913,
+    28.397624
+],
   "geometry": {"coordinates":[-81.473913,28.397624],"type":"Point"}
 }

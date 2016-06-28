@@ -2,13 +2,14 @@
   "id": 202445881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.193527,29.243744,-82.193527,29.243744",
     "geom:latitude":29.243744,
     "geom:longitude":-82.193527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5411 NW 44th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202445881,
-    "wof:lastmodified":1449060445,
+    "wof:lastmodified":1466444742,
     "wof:name":"Florida Auto Auction",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-82.193527,29.243744,-82.193527,29.243744],
+  "bbox": [
+    -82.193527,
+    29.243744,
+    -82.193527,
+    29.243744
+],
   "geometry": {"coordinates":[-82.193527,29.243744],"type":"Point"}
 }

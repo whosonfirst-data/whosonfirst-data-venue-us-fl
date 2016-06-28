@@ -2,13 +2,14 @@
   "id": 303761549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625018,28.110305,-81.625018,28.110305",
     "geom:latitude":28.110305,
     "geom:longitude":-81.625018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Melbourne Ave",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303761549,
-    "wof:lastmodified":1448999981,
+    "wof:lastmodified":1466443656,
     "wof:name":"Lighthouse Educational",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.625018,28.110305,-81.625018,28.110305],
+  "bbox": [
+    -81.625018,
+    28.110305,
+    -81.625018,
+    28.110305
+],
   "geometry": {"coordinates":[-81.625018,28.110305],"type":"Point"}
 }

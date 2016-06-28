@@ -2,13 +2,14 @@
   "id": 186489869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.729051,28.889126,-81.729051,28.889126",
     "geom:latitude":28.889126,
     "geom:longitude":-81.729051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37139 S Fish Camp Rd",
     "sg:city":"Grand Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186489869,
-    "wof:lastmodified":1449051850,
+    "wof:lastmodified":1466432676,
     "wof:name":"Central Florida Installation",
     "wof:parent_id":85888873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.729051,28.889126,-81.729051,28.889126],
+  "bbox": [
+    -81.729051,
+    28.889126,
+    -81.729051,
+    28.889126
+],
   "geometry": {"coordinates":[-81.729051,28.889126],"type":"Point"}
 }

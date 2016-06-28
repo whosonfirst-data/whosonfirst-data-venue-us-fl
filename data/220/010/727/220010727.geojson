@@ -2,13 +2,14 @@
   "id": 220010727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.118337,29.161227,-82.118337,29.161227",
     "geom:latitude":29.161227,
     "geom:longitude":-82.118337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 SE 24th Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220010727,
-    "wof:lastmodified":1449074535,
+    "wof:lastmodified":1466443722,
     "wof:name":"Park Place Of Ocala East",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "community"
     ]
 },
-  "bbox": [-82.118337,29.161227,-82.118337,29.161227],
+  "bbox": [
+    -82.118337,
+    29.161227,
+    -82.118337,
+    29.161227
+],
   "geometry": {"coordinates":[-82.118337,29.161227],"type":"Point"}
 }

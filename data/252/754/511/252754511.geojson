@@ -2,13 +2,14 @@
   "id": 252754511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.655515,30.346884,-81.655515,30.346884",
     "geom:latitude":30.346884,
     "geom:longitude":-81.655515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 N Laura St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252754511,
-    "wof:lastmodified":1449006113,
+    "wof:lastmodified":1466429092,
     "wof:name":"5 1/4 Music Publishing",
     "wof:parent_id":85850729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-81.655515,30.346884,-81.655515,30.346884],
-  "geometry": {"coordinates":[-81.655515,30.346884],"type":"Point"}
+  "bbox": [
+    -81.655515,
+    30.346884,
+    -81.655515,
+    30.346884
+],
+  "geometry": {"coordinates":[-81.65551499999999,30.346884],"type":"Point"}
 }

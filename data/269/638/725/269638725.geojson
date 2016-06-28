@@ -2,13 +2,14 @@
   "id": 269638725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.519517,28.800803,-81.519517,28.800803",
     "geom:latitude":28.800803,
     "geom:longitude":-81.519517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26443 Whitemarsh St",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269638725,
-    "wof:lastmodified":1449036263,
+    "wof:lastmodified":1466431277,
     "wof:name":"Robersons Lawn Care Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.519517,28.800803,-81.519517,28.800803],
-  "geometry": {"coordinates":[-81.519517,28.800803],"type":"Point"}
+  "bbox": [
+    -81.519517,
+    28.800803,
+    -81.519517,
+    28.800803
+],
+  "geometry": {"coordinates":[-81.51951699999999,28.800803],"type":"Point"}
 }

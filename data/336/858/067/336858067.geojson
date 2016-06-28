@@ -2,13 +2,14 @@
   "id": 336858067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.853025,27.217286,-81.853025,27.217286",
     "geom:latitude":27.217286,
     "geom:longitude":-81.853025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 N Mills Ave",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336858067,
-    "wof:lastmodified":1448997039,
+    "wof:lastmodified":1466439483,
     "wof:name":"Independent Inventory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-81.853025,27.217286,-81.853025,27.217286],
+  "bbox": [
+    -81.853025,
+    27.217286,
+    -81.853025,
+    27.217286
+],
   "geometry": {"coordinates":[-81.853025,27.217286],"type":"Point"}
 }

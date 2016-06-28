@@ -2,13 +2,14 @@
   "id": 320863901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129263,26.106885,-80.129263,26.106885",
     "geom:latitude":26.106885,
     "geom:longitude":-80.129263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1253 Cordova Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320863901,
-    "wof:lastmodified":1449013850,
+    "wof:lastmodified":1466447600,
     "wof:name":"Toe Hold Properties",
     "wof:parent_id":85877501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.129263,26.106885,-80.129263,26.106885],
-  "geometry": {"coordinates":[-80.129263,26.106885],"type":"Point"}
+  "bbox": [
+    -80.129263,
+    26.106885,
+    -80.129263,
+    26.106885
+],
+  "geometry": {"coordinates":[-80.12926299999999,26.106885],"type":"Point"}
 }

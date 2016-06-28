@@ -2,13 +2,14 @@
   "id": 303121011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.374963,25.818111,-80.374963,25.818111",
     "geom:latitude":25.818111,
     "geom:longitude":-80.374963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4883 NW 109th Path",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303121011,
-    "wof:lastmodified":1449000028,
+    "wof:lastmodified":1466432601,
     "wof:name":"JPL Lawn & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.374963,25.818111,-80.374963,25.818111],
-  "geometry": {"coordinates":[-80.374963,25.818111],"type":"Point"}
+  "bbox": [
+    -80.374963,
+    25.818111,
+    -80.374963,
+    25.818111
+],
+  "geometry": {"coordinates":[-80.37496299999999,25.818111],"type":"Point"}
 }

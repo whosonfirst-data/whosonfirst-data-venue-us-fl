@@ -2,13 +2,14 @@
   "id": 270406365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.817031,30.053723,-81.817031,30.053723",
     "geom:latitude":30.053723,
     "geom:longitude":-81.817031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Wesley Rd",
     "sg:city":"Green Cove Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270406365,
-    "wof:lastmodified":1449009951,
+    "wof:lastmodified":1466436412,
     "wof:name":"Pennington Siding",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.817031,30.053723,-81.817031,30.053723],
+  "bbox": [
+    -81.817031,
+    30.053723,
+    -81.817031,
+    30.053723
+],
   "geometry": {"coordinates":[-81.817031,30.053723],"type":"Point"}
 }

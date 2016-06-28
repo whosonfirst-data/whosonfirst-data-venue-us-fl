@@ -2,13 +2,14 @@
   "id": 320824613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.347503,29.84468,-81.347503,29.84468",
     "geom:latitude":29.84468,
     "geom:longitude":-81.347503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Elsie Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320824613,
-    "wof:lastmodified":1449012604,
+    "wof:lastmodified":1466447316,
     "wof:name":"TLC Cleaning",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.347503,29.84468,-81.347503,29.84468],
+  "bbox": [
+    -81.347503,
+    29.84468,
+    -81.347503,
+    29.84468
+],
   "geometry": {"coordinates":[-81.347503,29.84468],"type":"Point"}
 }

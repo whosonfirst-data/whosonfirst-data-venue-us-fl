@@ -2,13 +2,14 @@
   "id": 304007003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199683,25.782648,-80.199683,25.782648",
     "geom:latitude":25.782648,
     "geom:longitude":-80.199683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 NW 9th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304007003,
-    "wof:lastmodified":1449044062,
+    "wof:lastmodified":1466431932,
     "wof:name":"Overtown Civic Design Ctr",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-80.199683,25.782648,-80.199683,25.782648],
-  "geometry": {"coordinates":[-80.199683,25.782648],"type":"Point"}
+  "bbox": [
+    -80.199683,
+    25.782648,
+    -80.199683,
+    25.782648
+],
+  "geometry": {"coordinates":[-80.19968299999999,25.782648],"type":"Point"}
 }

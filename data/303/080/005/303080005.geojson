@@ -2,13 +2,14 @@
   "id": 303080005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.687925,30.334725,-81.687925,30.334725",
     "geom:latitude":30.334725,
     "geom:longitude":-81.687925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 W Beaver St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303080005,
-    "wof:lastmodified":1449000499,
+    "wof:lastmodified":1466431851,
     "wof:name":"Randstad",
     "wof:parent_id":85870731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.687925,30.334725,-81.687925,30.334725],
-  "geometry": {"coordinates":[-81.687925,30.334725],"type":"Point"}
+  "bbox": [
+    -81.687925,
+    30.334725,
+    -81.687925,
+    30.334725
+],
+  "geometry": {"coordinates":[-81.68792500000001,30.334725],"type":"Point"}
 }

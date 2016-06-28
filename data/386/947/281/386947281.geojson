@@ -2,13 +2,14 @@
   "id": 386947281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.519281,30.209072,-81.519281,30.209072",
     "geom:latitude":30.209072,
     "geom:longitude":-81.519281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8712 Reedy Branch Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386947281,
-    "wof:lastmodified":1449028864,
+    "wof:lastmodified":1466438667,
     "wof:name":"Golfer Guide",
     "wof:parent_id":85870699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-81.519281,30.209072,-81.519281,30.209072],
-  "geometry": {"coordinates":[-81.519281,30.209072],"type":"Point"}
+  "bbox": [
+    -81.519281,
+    30.209072,
+    -81.519281,
+    30.209072
+],
+  "geometry": {"coordinates":[-81.51928100000001,30.209072],"type":"Point"}
 }

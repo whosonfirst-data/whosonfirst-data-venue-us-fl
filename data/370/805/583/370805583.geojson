@@ -2,13 +2,14 @@
   "id": 370805583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.16698,25.995894,-80.16698,25.995894",
     "geom:latitude":25.995894,
     "geom:longitude":-80.16698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2865 SW 30th Ave",
     "sg:city":"Hallandale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370805583,
-    "wof:lastmodified":1449030229,
+    "wof:lastmodified":1466446601,
     "wof:name":"Cors-Air",
     "wof:parent_id":85896131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-80.16698,25.995894,-80.16698,25.995894],
+  "bbox": [
+    -80.16698,
+    25.995894,
+    -80.16698,
+    25.995894
+],
   "geometry": {"coordinates":[-80.16698,25.995894],"type":"Point"}
 }

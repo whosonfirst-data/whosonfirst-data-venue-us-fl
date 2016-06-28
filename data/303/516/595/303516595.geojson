@@ -2,13 +2,14 @@
   "id": 303516595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.205595,28.652271,-81.205595,28.652271",
     "geom:latitude":28.652271,
     "geom:longitude":-81.205595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Alexandria Blvd",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303516595,
-    "wof:lastmodified":1448998585,
+    "wof:lastmodified":1466439449,
     "wof:name":"Oviedo Police Dept",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-81.205595,28.652271,-81.205595,28.652271],
+  "bbox": [
+    -81.205595,
+    28.652271,
+    -81.205595,
+    28.652271
+],
   "geometry": {"coordinates":[-81.205595,28.652271],"type":"Point"}
 }

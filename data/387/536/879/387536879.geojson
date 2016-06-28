@@ -2,13 +2,14 @@
   "id": 387536879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686011,30.389638,-81.686011,30.389638",
     "geom:latitude":30.389638,
     "geom:longitude":-81.686011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7932 Dale Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387536879,
-    "wof:lastmodified":1449058372,
+    "wof:lastmodified":1466446853,
     "wof:name":"Haven Of Love",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.686011,30.389638,-81.686011,30.389638],
-  "geometry": {"coordinates":[-81.686011,30.389638],"type":"Point"}
+  "bbox": [
+    -81.686011,
+    30.389638,
+    -81.686011,
+    30.389638
+],
+  "geometry": {"coordinates":[-81.68601099999999,30.389638],"type":"Point"}
 }

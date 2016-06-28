@@ -2,13 +2,14 @@
   "id": 186510729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192452,25.773257,-80.192452,25.773257",
     "geom:latitude":25.773257,
     "geom:longitude":-80.192452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 SE 1st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186510729,
-    "wof:lastmodified":1449051976,
+    "wof:lastmodified":1466432941,
     "wof:name":"Allright Parking",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-80.192452,25.773257,-80.192452,25.773257],
+  "bbox": [
+    -80.192452,
+    25.773257,
+    -80.192452,
+    25.773257
+],
   "geometry": {"coordinates":[-80.192452,25.773257],"type":"Point"}
 }

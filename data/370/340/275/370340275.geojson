@@ -2,13 +2,14 @@
   "id": 370340275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.330865,28.483207,-81.330865,28.483207",
     "geom:latitude":28.483207,
     "geom:longitude":-81.330865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4864 S Conway Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370340275,
-    "wof:lastmodified":1449031713,
+    "wof:lastmodified":1466439371,
     "wof:name":"Almaguer Tile Corp",
     "wof:parent_id":85889293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.330865,28.483207,-81.330865,28.483207],
+  "bbox": [
+    -81.330865,
+    28.483207,
+    -81.330865,
+    28.483207
+],
   "geometry": {"coordinates":[-81.330865,28.483207],"type":"Point"}
 }

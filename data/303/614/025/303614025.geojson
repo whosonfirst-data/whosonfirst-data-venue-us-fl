@@ -2,13 +2,14 @@
   "id": 303614025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13196,25.793384,-80.13196,25.793384",
     "geom:latitude":25.793384,
     "geom:longitude":-80.13196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303614025,
-    "wof:lastmodified":1449000636,
+    "wof:lastmodified":1466441091,
     "wof:name":"Emerald Caterers",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-80.13196,25.793384,-80.13196,25.793384],
-  "geometry": {"coordinates":[-80.13196,25.793384],"type":"Point"}
+  "bbox": [
+    -80.13196,
+    25.793384,
+    -80.13196,
+    25.793384
+],
+  "geometry": {"coordinates":[-80.13196000000001,25.793384],"type":"Point"}
 }

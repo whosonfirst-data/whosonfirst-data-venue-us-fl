@@ -2,13 +2,14 @@
   "id": 303296029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503334,28.025509,-82.503334,28.025509",
     "geom:latitude":28.025509,
     "geom:longitude":-82.503334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 W Waters Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303296029,
-    "wof:lastmodified":1449000112,
+    "wof:lastmodified":1466435643,
     "wof:name":"UPS Stores 1977",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mailing"
     ]
 },
-  "bbox": [-82.503334,28.025509,-82.503334,28.025509],
+  "bbox": [
+    -82.503334,
+    28.025509,
+    -82.503334,
+    28.025509
+],
   "geometry": {"coordinates":[-82.503334,28.025509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320414737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.64257,28.08538,-80.64257,28.08538",
     "geom:latitude":28.08538,
     "geom:longitude":-80.64257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Hibiscus Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320414737,
-    "wof:lastmodified":1449013002,
+    "wof:lastmodified":1466440499,
     "wof:name":"Uniphase Broadband Products",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.64257,28.08538,-80.64257,28.08538],
-  "geometry": {"coordinates":[-80.64257,28.08538],"type":"Point"}
+  "bbox": [
+    -80.64257,
+    28.08538,
+    -80.64257,
+    28.08538
+],
+  "geometry": {"coordinates":[-80.64257000000001,28.08538],"type":"Point"}
 }

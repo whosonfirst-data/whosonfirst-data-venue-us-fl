@@ -2,13 +2,14 @@
   "id": 370547513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234943,26.796524,-80.234943,26.796524",
     "geom:latitude":26.796524,
     "geom:longitude":-80.234943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12401 80th Ln N",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370547513,
-    "wof:lastmodified":1449029431,
+    "wof:lastmodified":1466442563,
     "wof:name":"Immanuel Import Inc",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-80.234943,26.796524,-80.234943,26.796524],
+  "bbox": [
+    -80.234943,
+    26.796524,
+    -80.234943,
+    26.796524
+],
   "geometry": {"coordinates":[-80.234943,26.796524],"type":"Point"}
 }

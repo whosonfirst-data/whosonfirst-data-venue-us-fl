@@ -2,13 +2,14 @@
   "id": 370413917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.394326,28.552893,-81.394326,28.552893",
     "geom:latitude":28.552893,
     "geom:longitude":-81.394326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370413917,
-    "wof:lastmodified":1449029627,
+    "wof:lastmodified":1466440509,
     "wof:name":"On Site Management",
     "wof:parent_id":85879471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "auto"
     ]
 },
-  "bbox": [-81.394326,28.552893,-81.394326,28.552893],
-  "geometry": {"coordinates":[-81.394326,28.552893],"type":"Point"}
+  "bbox": [
+    -81.394326,
+    28.552893,
+    -81.394326,
+    28.552893
+],
+  "geometry": {"coordinates":[-81.39432600000001,28.552893],"type":"Point"}
 }

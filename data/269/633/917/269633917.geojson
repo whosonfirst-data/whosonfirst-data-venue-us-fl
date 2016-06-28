@@ -2,13 +2,14 @@
   "id": 269633917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123542,25.885833,-80.123542,25.885833",
     "geom:latitude":25.885833,
     "geom:longitude":-80.123542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9567 Harding Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269633917,
-    "wof:lastmodified":1449038939,
+    "wof:lastmodified":1466431188,
     "wof:name":"Normans",
     "wof:parent_id":85804283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-80.123542,25.885833,-80.123542,25.885833],
+  "bbox": [
+    -80.123542,
+    25.885833,
+    -80.123542,
+    25.885833
+],
   "geometry": {"coordinates":[-80.123542,25.885833],"type":"Point"}
 }

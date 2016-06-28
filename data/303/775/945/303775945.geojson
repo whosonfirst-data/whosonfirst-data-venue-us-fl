@@ -2,13 +2,14 @@
   "id": 303775945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.170722,29.367927,-82.170722,29.367927",
     "geom:latitude":29.367927,
     "geom:longitude":-82.170722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15098 N US Hwy 441",
     "sg:city":"Reddick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303775945,
-    "wof:lastmodified":1448999924,
+    "wof:lastmodified":1466443900,
     "wof:name":"Marion County Sheriff",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.170722,29.367927,-82.170722,29.367927],
+  "bbox": [
+    -82.170722,
+    29.367927,
+    -82.170722,
+    29.367927
+],
   "geometry": {"coordinates":[-82.170722,29.367927],"type":"Point"}
 }

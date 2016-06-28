@@ -2,13 +2,14 @@
   "id": 303047267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552405,28.100632,-82.552405,28.100632",
     "geom:latitude":28.100632,
     "geom:longitude":-82.552405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5803 Myrtle Ln",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303047267,
-    "wof:lastmodified":1448999697,
+    "wof:lastmodified":1466431262,
     "wof:name":"Bizkidz Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.552405,28.100632,-82.552405,28.100632],
-  "geometry": {"coordinates":[-82.552405,28.100632],"type":"Point"}
+  "bbox": [
+    -82.552405,
+    28.100632,
+    -82.552405,
+    28.100632
+],
+  "geometry": {"coordinates":[-82.55240499999999,28.100632],"type":"Point"}
 }

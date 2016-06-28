@@ -2,13 +2,14 @@
   "id": 286843229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116977,26.203828,-80.116977,26.203828",
     "geom:latitude":26.203828,
     "geom:longitude":-80.116977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 NE 62nd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286843229,
-    "wof:lastmodified":1449015446,
+    "wof:lastmodified":1466439884,
     "wof:name":"Team USA Relocation",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.116977,26.203828,-80.116977,26.203828],
-  "geometry": {"coordinates":[-80.116977,26.203828],"type":"Point"}
+  "bbox": [
+    -80.116977,
+    26.203828,
+    -80.116977,
+    26.203828
+],
+  "geometry": {"coordinates":[-80.11697700000001,26.203828],"type":"Point"}
 }

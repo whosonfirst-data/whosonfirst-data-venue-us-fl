@@ -2,13 +2,14 @@
   "id": 286364903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209956,25.880935,-80.209956,25.880935",
     "geom:latitude":25.880935,
     "geom:longitude":-80.209956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 NW 116th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286364903,
-    "wof:lastmodified":1449016830,
+    "wof:lastmodified":1466431452,
     "wof:name":"AHM LC",
     "wof:parent_id":85833929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.209956,25.880935,-80.209956,25.880935],
-  "geometry": {"coordinates":[-80.209956,25.880935],"type":"Point"}
+  "bbox": [
+    -80.209956,
+    25.880935,
+    -80.209956,
+    25.880935
+],
+  "geometry": {"coordinates":[-80.20995600000001,25.880935],"type":"Point"}
 }

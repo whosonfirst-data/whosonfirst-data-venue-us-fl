@@ -2,13 +2,14 @@
   "id": 387567273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930675,30.445728,-86.930675,30.445728",
     "geom:latitude":30.445728,
     "geom:longitude":-86.930675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6957 Brighton Oaks Blvd",
     "sg:city":"Navarre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387567273,
-    "wof:lastmodified":1449059946,
+    "wof:lastmodified":1466447173,
     "wof:name":"National Property Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-86.930675,30.445728,-86.930675,30.445728],
-  "geometry": {"coordinates":[-86.930675,30.445728],"type":"Point"}
+  "bbox": [
+    -86.930675,
+    30.445728,
+    -86.930675,
+    30.445728
+],
+  "geometry": {"coordinates":[-86.93067499999999,30.445728],"type":"Point"}
 }

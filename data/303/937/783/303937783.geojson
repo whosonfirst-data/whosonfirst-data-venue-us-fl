@@ -2,13 +2,14 @@
   "id": 303937783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323473,25.913321,-80.323473,25.913321",
     "geom:latitude":25.913321,
     "geom:longitude":-80.323473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7407 Miami Lakes Dr",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303937783,
-    "wof:lastmodified":1448998577,
+    "wof:lastmodified":1466446722,
     "wof:name":"Hearing & Speech Ctr-Florida",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech"
     ]
 },
-  "bbox": [-80.323473,25.913321,-80.323473,25.913321],
-  "geometry": {"coordinates":[-80.323473,25.913321],"type":"Point"}
+  "bbox": [
+    -80.323473,
+    25.913321,
+    -80.323473,
+    25.913321
+],
+  "geometry": {"coordinates":[-80.32347300000001,25.913321],"type":"Point"}
 }

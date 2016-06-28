@@ -2,13 +2,14 @@
   "id": 220200931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.689338,30.315434,-81.689338,30.315434",
     "geom:latitude":30.315434,
     "geom:longitude":-81.689338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 Stockton St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220200931,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466429595,
     "wof:name":"Pharcyde Dance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dancing"
     ]
 },
-  "bbox": [-81.689338,30.315434,-81.689338,30.315434],
-  "geometry": {"coordinates":[-81.689338,30.315434],"type":"Point"}
+  "bbox": [
+    -81.689338,
+    30.315434,
+    -81.689338,
+    30.315434
+],
+  "geometry": {"coordinates":[-81.68933800000001,30.315434],"type":"Point"}
 }

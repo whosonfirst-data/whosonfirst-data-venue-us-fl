@@ -2,13 +2,14 @@
   "id": 253033843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087428,26.36283,-80.087428,26.36283",
     "geom:latitude":26.36283,
     "geom:longitude":-80.087428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 NW 1st Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253033843,
-    "wof:lastmodified":1449063420,
+    "wof:lastmodified":1466428954,
     "wof:name":"Boca By Design",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "special"
     ]
 },
-  "bbox": [-80.087428,26.36283,-80.087428,26.36283],
+  "bbox": [
+    -80.087428,
+    26.36283,
+    -80.087428,
+    26.36283
+],
   "geometry": {"coordinates":[-80.087428,26.36283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386973779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396819,27.639577,-80.396819,27.639577",
     "geom:latitude":27.639577,
     "geom:longitude":-80.396819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 21st St",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386973779,
-    "wof:lastmodified":1449028819,
+    "wof:lastmodified":1466439089,
     "wof:name":"Rosie Malloy's Pub",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.396819,27.639577,-80.396819,27.639577],
-  "geometry": {"coordinates":[-80.396819,27.639577],"type":"Point"}
+  "bbox": [
+    -80.396819,
+    27.639577,
+    -80.396819,
+    27.639577
+],
+  "geometry": {"coordinates":[-80.39681899999999,27.639577],"type":"Point"}
 }

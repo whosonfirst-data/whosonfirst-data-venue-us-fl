@@ -2,13 +2,14 @@
   "id": 370438789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238762,25.826237,-80.238762,25.826237",
     "geom:latitude":25.826237,
     "geom:longitude":-80.238762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 NW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370438789,
-    "wof:lastmodified":1449030246,
+    "wof:lastmodified":1466440913,
     "wof:name":"Bo Mechanic",
     "wof:parent_id":85808131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-80.238762,25.826237,-80.238762,25.826237],
-  "geometry": {"coordinates":[-80.238762,25.826237],"type":"Point"}
+  "bbox": [
+    -80.238762,
+    25.826237,
+    -80.238762,
+    25.826237
+],
+  "geometry": {"coordinates":[-80.23876199999999,25.826237],"type":"Point"}
 }

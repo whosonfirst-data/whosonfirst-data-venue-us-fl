@@ -2,13 +2,14 @@
   "id": 370403615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.43848,27.493391,-81.43848,27.493391",
     "geom:latitude":27.493391,
     "geom:longitude":-81.43848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 S Commerce Ave",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370403615,
-    "wof:lastmodified":1449031991,
+    "wof:lastmodified":1466440351,
     "wof:name":"Sebring Medical Walk-In Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.43848,27.493391,-81.43848,27.493391],
+  "bbox": [
+    -81.43848,
+    27.493391,
+    -81.43848,
+    27.493391
+],
   "geometry": {"coordinates":[-81.43848,27.493391],"type":"Point"}
 }

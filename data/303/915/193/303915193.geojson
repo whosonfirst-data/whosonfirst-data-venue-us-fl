@@ -2,13 +2,14 @@
   "id": 303915193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396527,30.336357,-81.396527,30.336357",
     "geom:latitude":30.336357,
     "geom:longitude":-81.396527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 11th St",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303915193,
-    "wof:lastmodified":1449000540,
+    "wof:lastmodified":1466446307,
     "wof:name":"1036 Beach Blvd Inc",
     "wof:parent_id":85832101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.396527,30.336357,-81.396527,30.336357],
-  "geometry": {"coordinates":[-81.396527,30.336357],"type":"Point"}
+  "bbox": [
+    -81.396527,
+    30.336357,
+    -81.396527,
+    30.336357
+],
+  "geometry": {"coordinates":[-81.39652700000001,30.336357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219559273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326501,25.895587,-80.326501,25.895587",
     "geom:latitude":25.895587,
     "geom:longitude":-80.326501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8041 W 21st Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219559273,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466432278,
     "wof:name":"A Golden Awning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "canopy"
     ]
 },
-  "bbox": [-80.326501,25.895587,-80.326501,25.895587],
-  "geometry": {"coordinates":[-80.326501,25.895587],"type":"Point"}
+  "bbox": [
+    -80.326501,
+    25.895587,
+    -80.326501,
+    25.895587
+],
+  "geometry": {"coordinates":[-80.32650099999999,25.895587],"type":"Point"}
 }

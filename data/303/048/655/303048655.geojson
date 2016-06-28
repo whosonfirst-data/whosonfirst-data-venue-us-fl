@@ -2,13 +2,14 @@
   "id": 303048655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.181688,26.0092,-80.181688,26.0092",
     "geom:latitude":26.0092,
     "geom:longitude":-80.181688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 S Circle Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303048655,
-    "wof:lastmodified":1448998967,
+    "wof:lastmodified":1466431285,
     "wof:name":"Presidential Place",
     "wof:parent_id":85868423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.181688,26.0092,-80.181688,26.0092],
-  "geometry": {"coordinates":[-80.181688,26.0092],"type":"Point"}
+  "bbox": [
+    -80.181688,
+    26.0092,
+    -80.181688,
+    26.0092
+],
+  "geometry": {"coordinates":[-80.18168799999999,26.0092],"type":"Point"}
 }

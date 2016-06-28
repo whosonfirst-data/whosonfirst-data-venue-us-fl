@@ -2,13 +2,14 @@
   "id": 186416731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.399515,30.35697,-81.399515,30.35697",
     "geom:latitude":30.35697,
     "geom:longitude":-81.399515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2279 Seminole Rd",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186416731,
-    "wof:lastmodified":1449051581,
+    "wof:lastmodified":1466431725,
     "wof:name":"Project Supply Company",
     "wof:parent_id":85832101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.399515,30.35697,-81.399515,30.35697],
-  "geometry": {"coordinates":[-81.399515,30.35697],"type":"Point"}
+  "bbox": [
+    -81.399515,
+    30.35697,
+    -81.399515,
+    30.35697
+],
+  "geometry": {"coordinates":[-81.39951499999999,30.35697],"type":"Point"}
 }

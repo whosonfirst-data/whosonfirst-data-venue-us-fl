@@ -2,13 +2,14 @@
   "id": 320164325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300564,28.886211,-81.300564,28.886211",
     "geom:latitude":28.886211,
     "geom:longitude":-81.300564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Estrella Rd",
     "sg:city":"De Bary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320164325,
-    "wof:lastmodified":1449011691,
+    "wof:lastmodified":1466436197,
     "wof:name":"J & PS Painting",
     "wof:parent_id":85805767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.300564,28.886211,-81.300564,28.886211],
-  "geometry": {"coordinates":[-81.300564,28.886211],"type":"Point"}
+  "bbox": [
+    -81.300564,
+    28.886211,
+    -81.300564,
+    28.886211
+],
+  "geometry": {"coordinates":[-81.30056399999999,28.886211],"type":"Point"}
 }

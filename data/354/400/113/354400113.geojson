@@ -2,13 +2,14 @@
   "id": 354400113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.915703,30.450865,-86.915703,30.450865",
     "geom:latitude":30.450865,
     "geom:longitude":-86.915703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 Live Oak St",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354400113,
-    "wof:lastmodified":1449066096,
+    "wof:lastmodified":1466442211,
     "wof:name":"Bjl Sources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sales"
     ]
 },
-  "bbox": [-86.915703,30.450865,-86.915703,30.450865],
-  "geometry": {"coordinates":[-86.915703,30.450865],"type":"Point"}
+  "bbox": [
+    -86.915703,
+    30.450865,
+    -86.915703,
+    30.450865
+],
+  "geometry": {"coordinates":[-86.91570299999999,30.450865],"type":"Point"}
 }

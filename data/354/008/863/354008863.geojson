@@ -2,13 +2,14 @@
   "id": 354008863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.287753,27.935716,-82.287753,27.935716",
     "geom:latitude":27.935716,
     "geom:longitude":-82.287753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 W Robertson St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354008863,
-    "wof:lastmodified":1449066446,
+    "wof:lastmodified":1466436197,
     "wof:name":"Ledger Tax",
     "wof:parent_id":85888585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-82.287753,27.935716,-82.287753,27.935716],
+  "bbox": [
+    -82.287753,
+    27.935716,
+    -82.287753,
+    27.935716
+],
   "geometry": {"coordinates":[-82.287753,27.935716],"type":"Point"}
 }

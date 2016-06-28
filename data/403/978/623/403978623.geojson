@@ -2,13 +2,14 @@
   "id": 403978623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610015,28.205449,-80.610015,28.205449",
     "geom:latitude":28.205449,
     "geom:longitude":-80.610015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Lighthouse Landing St",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403978623,
-    "wof:lastmodified":1449055396,
+    "wof:lastmodified":1466443975,
     "wof:name":"Exact Tile",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.610015,28.205449,-80.610015,28.205449],
+  "bbox": [
+    -80.610015,
+    28.205449,
+    -80.610015,
+    28.205449
+],
   "geometry": {"coordinates":[-80.610015,28.205449],"type":"Point"}
 }

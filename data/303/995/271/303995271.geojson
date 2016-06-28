@@ -2,13 +2,14 @@
   "id": 303995271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260849,25.850955,-80.260849,25.850955",
     "geom:latitude":25.850955,
     "geom:longitude":-80.260849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 E 11th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303995271,
-    "wof:lastmodified":1449000298,
+    "wof:lastmodified":1466447358,
     "wof:name":"Dilema Corp",
     "wof:parent_id":85878147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-80.260849,25.850955,-80.260849,25.850955],
-  "geometry": {"coordinates":[-80.260849,25.850955],"type":"Point"}
+  "bbox": [
+    -80.260849,
+    25.850955,
+    -80.260849,
+    25.850955
+],
+  "geometry": {"coordinates":[-80.26084899999999,25.850955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404188043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050801,26.509553,-80.050801,26.509553",
     "geom:latitude":26.509553,
     "geom:longitude":-80.050801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Old Ocean Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404188043,
-    "wof:lastmodified":1449039668,
+    "wof:lastmodified":1466443162,
     "wof:name":"Ocean Liner Villa Apartments",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.050801,26.509553,-80.050801,26.509553],
-  "geometry": {"coordinates":[-80.050801,26.509553],"type":"Point"}
+  "bbox": [
+    -80.050801,
+    26.509553,
+    -80.050801,
+    26.509553
+],
+  "geometry": {"coordinates":[-80.05080100000001,26.509553],"type":"Point"}
 }

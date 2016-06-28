@@ -2,13 +2,14 @@
   "id": 186429301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.154389,30.456163,-84.154389,30.456163",
     "geom:latitude":30.456163,
     "geom:longitude":-84.154389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6930 Hanging Vine Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186429301,
-    "wof:lastmodified":1449052892,
+    "wof:lastmodified":1466431882,
     "wof:name":"M2 Properties LLC",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-84.154389,30.456163,-84.154389,30.456163],
-  "geometry": {"coordinates":[-84.154389,30.456163],"type":"Point"}
+  "bbox": [
+    -84.154389,
+    30.456163,
+    -84.154389,
+    30.456163
+],
+  "geometry": {"coordinates":[-84.15438899999999,30.456163],"type":"Point"}
 }

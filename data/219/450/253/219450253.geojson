@@ -2,13 +2,14 @@
   "id": 219450253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.28022,25.689395,-80.28022,25.689395",
     "geom:latitude":25.689395,
     "geom:longitude":-80.28022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 Banyan Dr",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219450253,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466430857,
     "wof:name":"St Thomas Episcopal",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.28022,25.689395,-80.28022,25.689395],
+  "bbox": [
+    -80.28022,
+    25.689395,
+    -80.28022,
+    25.689395
+],
   "geometry": {"coordinates":[-80.28022,25.689395],"type":"Point"}
 }

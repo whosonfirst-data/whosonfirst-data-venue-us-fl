@@ -2,13 +2,14 @@
   "id": 270034547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.804155,27.935181,-82.804155,27.935181",
     "geom:latitude":27.935181,
     "geom:longitude":-82.804155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Ponce de Leon Blvd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270034547,
-    "wof:lastmodified":1449008918,
+    "wof:lastmodified":1466430045,
     "wof:name":"Rote Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.804155,27.935181,-82.804155,27.935181],
-  "geometry": {"coordinates":[-82.804155,27.935181],"type":"Point"}
+  "bbox": [
+    -82.804155,
+    27.935181,
+    -82.804155,
+    27.935181
+],
+  "geometry": {"coordinates":[-82.80415499999999,27.935181],"type":"Point"}
 }

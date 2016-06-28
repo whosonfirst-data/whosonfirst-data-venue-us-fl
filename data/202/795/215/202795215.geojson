@@ -2,13 +2,14 @@
   "id": 202795215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.511995,27.337528,-82.511995,27.337528",
     "geom:latitude":27.337528,
     "geom:longitude":-82.511995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202795215,
-    "wof:lastmodified":1449061612,
+    "wof:lastmodified":1466432195,
     "wof:name":"US Labor Dept",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-82.511995,27.337528,-82.511995,27.337528],
+  "bbox": [
+    -82.511995,
+    27.337528,
+    -82.511995,
+    27.337528
+],
   "geometry": {"coordinates":[-82.511995,27.337528],"type":"Point"}
 }

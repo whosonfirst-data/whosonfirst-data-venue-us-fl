@@ -2,13 +2,14 @@
   "id": 236202317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951186,26.472924,-81.951186,26.472924",
     "geom:latitude":26.472924,
     "geom:longitude":-81.951186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18450 San Carlos Blvd",
     "sg:city":"Fort Myers Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236202317,
-    "wof:lastmodified":1449004731,
+    "wof:lastmodified":1466431256,
     "wof:name":"Ultimate Getaway",
     "wof:parent_id":85888843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diver"
     ]
 },
-  "bbox": [-81.951186,26.472924,-81.951186,26.472924],
-  "geometry": {"coordinates":[-81.951186,26.472924],"type":"Point"}
+  "bbox": [
+    -81.951186,
+    26.472924,
+    -81.951186,
+    26.472924
+],
+  "geometry": {"coordinates":[-81.95118600000001,26.472924],"type":"Point"}
 }

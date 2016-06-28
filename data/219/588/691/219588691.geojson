@@ -2,13 +2,14 @@
   "id": 219588691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.637071,30.260933,-81.637071,30.260933",
     "geom:latitude":30.260933,
     "geom:longitude":-81.637071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219588691,
-    "wof:lastmodified":1449073236,
+    "wof:lastmodified":1466432648,
     "wof:name":"Presbytery of St Augustine",
     "wof:parent_id":85870711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-81.637071,30.260933,-81.637071,30.260933],
-  "geometry": {"coordinates":[-81.637071,30.260933],"type":"Point"}
+  "bbox": [
+    -81.637071,
+    30.260933,
+    -81.637071,
+    30.260933
+],
+  "geometry": {"coordinates":[-81.63707100000001,30.260933],"type":"Point"}
 }

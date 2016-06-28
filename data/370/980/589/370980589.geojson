@@ -2,13 +2,14 @@
   "id": 370980589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.020723,29.211602,-81.020723,29.211602",
     "geom:latitude":29.211602,
     "geom:longitude":-81.020723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W International Speedway Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370980589,
-    "wof:lastmodified":1449029308,
+    "wof:lastmodified":1466448232,
     "wof:name":"Backstage Pass Magazine",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.020723,29.211602,-81.020723,29.211602],
+  "bbox": [
+    -81.020723,
+    29.211602,
+    -81.020723,
+    29.211602
+],
   "geometry": {"coordinates":[-81.020723,29.211602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354416365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.214835,25.777009,-80.214835,25.777009",
     "geom:latitude":25.777009,
     "geom:longitude":-80.214835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 NW 12th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354416365,
-    "wof:lastmodified":1449066676,
+    "wof:lastmodified":1466442459,
     "wof:name":"Cargo MM",
     "wof:parent_id":85889183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.214835,25.777009,-80.214835,25.777009],
-  "geometry": {"coordinates":[-80.214835,25.777009],"type":"Point"}
+  "bbox": [
+    -80.214835,
+    25.777009,
+    -80.214835,
+    25.777009
+],
+  "geometry": {"coordinates":[-80.21483499999999,25.777009],"type":"Point"}
 }

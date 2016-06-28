@@ -2,13 +2,14 @@
   "id": 220164127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.41522,30.624336,-84.41522,30.624336",
     "geom:latitude":30.624336,
     "geom:longitude":-84.41522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Main St",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220164127,
-    "wof:lastmodified":1449074128,
+    "wof:lastmodified":1466429103,
     "wof:name":"Antique Center",
     "wof:parent_id":85888887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-84.41522,30.624336,-84.41522,30.624336],
-  "geometry": {"coordinates":[-84.41522,30.624336],"type":"Point"}
+  "bbox": [
+    -84.41522,
+    30.624336,
+    -84.41522,
+    30.624336
+],
+  "geometry": {"coordinates":[-84.41522000000001,30.624336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203048791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.926308,30.68581,-81.926308,30.68581",
     "geom:latitude":30.68581,
     "geom:longitude":-81.926308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Illinois St",
     "sg:city":"Hilliard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203048791,
-    "wof:lastmodified":1449025585,
+    "wof:lastmodified":1466444094,
     "wof:name":"W 10 Cm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.926308,30.68581,-81.926308,30.68581],
-  "geometry": {"coordinates":[-81.926308,30.68581],"type":"Point"}
+  "bbox": [
+    -81.926308,
+    30.68581,
+    -81.926308,
+    30.68581
+],
+  "geometry": {"coordinates":[-81.92630800000001,30.68581],"type":"Point"}
 }

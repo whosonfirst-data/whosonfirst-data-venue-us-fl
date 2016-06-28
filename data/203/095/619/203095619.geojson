@@ -2,13 +2,14 @@
   "id": 203095619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404502,30.286191,-81.404502,30.286191",
     "geom:latitude":30.286191,
     "geom:longitude":-81.404502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Shetter Ave",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203095619,
-    "wof:lastmodified":1449025890,
+    "wof:lastmodified":1466445159,
     "wof:name":"Jax Beaches Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.404502,30.286191,-81.404502,30.286191],
-  "geometry": {"coordinates":[-81.404502,30.286191],"type":"Point"}
+  "bbox": [
+    -81.404502,
+    30.286191,
+    -81.404502,
+    30.286191
+],
+  "geometry": {"coordinates":[-81.40450199999999,30.286191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236628091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.662605,30.16245,-85.662605,30.16245",
     "geom:latitude":30.16245,
     "geom:longitude":-85.662605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Jenks Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236628091,
-    "wof:lastmodified":1449004492,
+    "wof:lastmodified":1466437301,
     "wof:name":"CDM Panama City",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.662605,30.16245,-85.662605,30.16245],
+  "bbox": [
+    -85.662605,
+    30.16245,
+    -85.662605,
+    30.16245
+],
   "geometry": {"coordinates":[-85.662605,30.16245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286296305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.320595,30.488756,-84.320595,30.488756",
     "geom:latitude":30.488756,
     "geom:longitude":-84.320595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 N Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286296305,
-    "wof:lastmodified":1449017575,
+    "wof:lastmodified":1466430253,
     "wof:name":"Headlines",
     "wof:parent_id":85881361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.320595,30.488756,-84.320595,30.488756],
+  "bbox": [
+    -84.320595,
+    30.488756,
+    -84.320595,
+    30.488756
+],
   "geometry": {"coordinates":[-84.320595,30.488756],"type":"Point"}
 }

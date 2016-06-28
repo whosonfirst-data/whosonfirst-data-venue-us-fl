@@ -2,13 +2,14 @@
   "id": 270494423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.275169,30.487412,-84.275169,30.487412",
     "geom:latitude":30.487412,
     "geom:longitude":-84.275169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Piedmont Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270494423,
-    "wof:lastmodified":1449010819,
+    "wof:lastmodified":1466437922,
     "wof:name":"Charles J Holland MD",
     "wof:parent_id":85881355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-84.275169,30.487412,-84.275169,30.487412],
-  "geometry": {"coordinates":[-84.275169,30.487412],"type":"Point"}
+  "bbox": [
+    -84.275169,
+    30.487412,
+    -84.275169,
+    30.487412
+],
+  "geometry": {"coordinates":[-84.27516900000001,30.487412],"type":"Point"}
 }

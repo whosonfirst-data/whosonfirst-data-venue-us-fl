@@ -2,13 +2,14 @@
   "id": 336652259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253696,27.196091,-80.253696,27.196091",
     "geom:latitude":27.196091,
     "geom:longitude":-80.253696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 SW Camden Ave",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336652259,
-    "wof:lastmodified":1448997625,
+    "wof:lastmodified":1466435885,
     "wof:name":"Paul Davis Restoration",
     "wof:parent_id":85889441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.253696,27.196091,-80.253696,27.196091],
-  "geometry": {"coordinates":[-80.253696,27.196091],"type":"Point"}
+  "bbox": [
+    -80.253696,
+    27.196091,
+    -80.253696,
+    27.196091
+],
+  "geometry": {"coordinates":[-80.25369600000001,27.196091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370602473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.267057,30.498486,-87.267057,30.498486",
     "geom:latitude":30.498486,
     "geom:longitude":-87.267057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Diamond Dairy Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370602473,
-    "wof:lastmodified":1449030679,
+    "wof:lastmodified":1466443408,
     "wof:name":"Ebony Barber Shop",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.267057,30.498486,-87.267057,30.498486],
-  "geometry": {"coordinates":[-87.267057,30.498486],"type":"Point"}
+  "bbox": [
+    -87.267057,
+    30.498486,
+    -87.267057,
+    30.498486
+],
+  "geometry": {"coordinates":[-87.26705699999999,30.498486],"type":"Point"}
 }

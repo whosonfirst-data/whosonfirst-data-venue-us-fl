@@ -2,13 +2,14 @@
   "id": 303840453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529097,27.355131,-82.529097,27.355131",
     "geom:latitude":27.355131,
     "geom:longitude":-82.529097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2036 20th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303840453,
-    "wof:lastmodified":1449000011,
+    "wof:lastmodified":1466444998,
     "wof:name":"Southeastern Site Development",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.529097,27.355131,-82.529097,27.355131],
-  "geometry": {"coordinates":[-82.529097,27.355131],"type":"Point"}
+  "bbox": [
+    -82.529097,
+    27.355131,
+    -82.529097,
+    27.355131
+],
+  "geometry": {"coordinates":[-82.52909699999999,27.355131],"type":"Point"}
 }

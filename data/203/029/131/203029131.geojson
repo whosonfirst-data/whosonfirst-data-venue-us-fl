@@ -2,13 +2,14 @@
   "id": 203029131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.570413,30.344295,-81.570413,30.344295",
     "geom:latitude":30.344295,
     "geom:longitude":-81.570413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8140 Vermanth Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203029131,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466442970,
     "wof:name":"Old St Lukes Restoration",
     "wof:parent_id":85870693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.570413,30.344295,-81.570413,30.344295],
+  "bbox": [
+    -81.570413,
+    30.344295,
+    -81.570413,
+    30.344295
+],
   "geometry": {"coordinates":[-81.570413,30.344295],"type":"Point"}
 }

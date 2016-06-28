@@ -2,13 +2,14 @@
   "id": 286463719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.370725,27.303314,-80.370725,27.303314",
     "geom:latitude":27.303314,
     "geom:longitude":-80.370725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1266 SW Biltmore St",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286463719,
-    "wof:lastmodified":1449017225,
+    "wof:lastmodified":1466433138,
     "wof:name":"FTG Painting",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.370725,27.303314,-80.370725,27.303314],
-  "geometry": {"coordinates":[-80.370725,27.303314],"type":"Point"}
+  "bbox": [
+    -80.370725,
+    27.303314,
+    -80.370725,
+    27.303314
+],
+  "geometry": {"coordinates":[-80.37072499999999,27.303314],"type":"Point"}
 }

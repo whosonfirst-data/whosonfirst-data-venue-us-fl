@@ -2,13 +2,14 @@
   "id": 320380121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.176363,26.317568,-80.176363,26.317568",
     "geom:latitude":26.317568,
     "geom:longitude":-80.176363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3656 W Hillsboro Blvd",
     "sg:city":"Coconut Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320380121,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466439897,
     "wof:name":"Raiden's Kung Fu",
     "wof:parent_id":85896209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-80.176363,26.317568,-80.176363,26.317568],
-  "geometry": {"coordinates":[-80.176363,26.317568],"type":"Point"}
+  "bbox": [
+    -80.176363,
+    26.317568,
+    -80.176363,
+    26.317568
+],
+  "geometry": {"coordinates":[-80.17636299999999,26.317568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303099517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.164361,29.196733,-82.164361,29.196733",
     "geom:latitude":29.196733,
     "geom:longitude":-82.164361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 NW 24th Ct",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303099517,
-    "wof:lastmodified":1448999709,
+    "wof:lastmodified":1466432209,
     "wof:name":"ABF",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.164361,29.196733,-82.164361,29.196733],
+  "bbox": [
+    -82.164361,
+    29.196733,
+    -82.164361,
+    29.196733
+],
   "geometry": {"coordinates":[-82.164361,29.196733],"type":"Point"}
 }

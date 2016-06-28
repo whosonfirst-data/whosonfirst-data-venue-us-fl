@@ -2,13 +2,14 @@
   "id": 287114441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.486511,28.536055,-81.486511,28.536055",
     "geom:latitude":28.536055,
     "geom:longitude":-81.486511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7612 Telegraph Hill Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287114441,
-    "wof:lastmodified":1449001038,
+    "wof:lastmodified":1466431866,
     "wof:name":"Timeshare Orlando",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacation"
     ]
 },
-  "bbox": [-81.486511,28.536055,-81.486511,28.536055],
-  "geometry": {"coordinates":[-81.486511,28.536055],"type":"Point"}
+  "bbox": [
+    -81.486511,
+    28.536055,
+    -81.486511,
+    28.536055
+],
+  "geometry": {"coordinates":[-81.48651099999999,28.536055],"type":"Point"}
 }

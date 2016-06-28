@@ -2,13 +2,14 @@
   "id": 387360825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.07165,30.465716,-84.07165,30.465716",
     "geom:latitude":30.465716,
     "geom:longitude":-84.07165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Corby Ct",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387360825,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1466444248,
     "wof:name":"Berg Wholesale Inc",
     "wof:parent_id":85881331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-84.07165,30.465716,-84.07165,30.465716],
-  "geometry": {"coordinates":[-84.07165,30.465716],"type":"Point"}
+  "bbox": [
+    -84.07165,
+    30.465716,
+    -84.07165,
+    30.465716
+],
+  "geometry": {"coordinates":[-84.07165000000001,30.465716],"type":"Point"}
 }

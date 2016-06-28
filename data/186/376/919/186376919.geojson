@@ -2,13 +2,14 @@
   "id": 186376919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895638,29.122569,-81.895638,29.122569",
     "geom:latitude":29.122569,
     "geom:longitude":-81.895638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6380 SE 155 Ave",
     "sg:city":"Ocklawaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186376919,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1466431232,
     "wof:name":"Associates Report Svc",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporter"
     ]
 },
-  "bbox": [-81.895638,29.122569,-81.895638,29.122569],
-  "geometry": {"coordinates":[-81.895638,29.122569],"type":"Point"}
+  "bbox": [
+    -81.895638,
+    29.122569,
+    -81.895638,
+    29.122569
+],
+  "geometry": {"coordinates":[-81.89563800000001,29.122569],"type":"Point"}
 }

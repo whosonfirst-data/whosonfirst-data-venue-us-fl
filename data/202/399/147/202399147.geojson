@@ -2,13 +2,14 @@
   "id": 202399147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730658,26.082202,-81.730658,26.082202",
     "geom:latitude":26.082202,
     "geom:longitude":-81.730658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 Myrtle Ln",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202399147,
-    "wof:lastmodified":1449060552,
+    "wof:lastmodified":1466442931,
     "wof:name":"Miguels Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.730658,26.082202,-81.730658,26.082202],
-  "geometry": {"coordinates":[-81.730658,26.082202],"type":"Point"}
+  "bbox": [
+    -81.730658,
+    26.082202,
+    -81.730658,
+    26.082202
+],
+  "geometry": {"coordinates":[-81.73065800000001,26.082202],"type":"Point"}
 }

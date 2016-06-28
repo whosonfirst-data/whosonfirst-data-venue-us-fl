@@ -2,13 +2,14 @@
   "id": 202610681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918738,26.555835,-81.918738,26.555835",
     "geom:latitude":26.555835,
     "geom:longitude":-81.918738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 Steamboat Bend E",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202610681,
-    "wof:lastmodified":1449062594,
+    "wof:lastmodified":1466429812,
     "wof:name":"Ericson USA",
     "wof:parent_id":85888819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.918738,26.555835,-81.918738,26.555835],
+  "bbox": [
+    -81.918738,
+    26.555835,
+    -81.918738,
+    26.555835
+],
   "geometry": {"coordinates":[-81.918738,26.555835],"type":"Point"}
 }

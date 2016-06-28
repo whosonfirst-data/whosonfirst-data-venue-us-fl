@@ -2,13 +2,14 @@
   "id": 203373465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.432504,30.294664,-81.432504,30.294664",
     "geom:latitude":30.294664,
     "geom:longitude":-81.432504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14486 San Pablo Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203373465,
-    "wof:lastmodified":1449025909,
+    "wof:lastmodified":1466431075,
     "wof:name":"John Waddell Productions",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.432504,30.294664,-81.432504,30.294664],
-  "geometry": {"coordinates":[-81.432504,30.294664],"type":"Point"}
+  "bbox": [
+    -81.432504,
+    30.294664,
+    -81.432504,
+    30.294664
+],
+  "geometry": {"coordinates":[-81.43250399999999,30.294664],"type":"Point"}
 }

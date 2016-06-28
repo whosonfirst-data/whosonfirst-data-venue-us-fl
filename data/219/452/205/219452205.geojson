@@ -2,13 +2,14 @@
   "id": 219452205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.515999,27.326421,-82.515999,27.326421",
     "geom:latitude":27.326421,
     "geom:longitude":-82.515999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Courtland St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219452205,
-    "wof:lastmodified":1449071224,
+    "wof:lastmodified":1466430880,
     "wof:name":"Integrted Hlth Svcs At Srasota",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-82.515999,27.326421,-82.515999,27.326421],
-  "geometry": {"coordinates":[-82.515999,27.326421],"type":"Point"}
+  "bbox": [
+    -82.515999,
+    27.326421,
+    -82.515999,
+    27.326421
+],
+  "geometry": {"coordinates":[-82.51599899999999,27.326421],"type":"Point"}
 }

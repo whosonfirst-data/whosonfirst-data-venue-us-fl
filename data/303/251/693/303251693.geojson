@@ -2,13 +2,14 @@
   "id": 303251693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813953,26.188569,-81.813953,26.188569",
     "geom:latitude":26.188569,
     "geom:longitude":-81.813953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303251693,
-    "wof:lastmodified":1448998162,
+    "wof:lastmodified":1466434879,
     "wof:name":"Madrid Club",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.813953,26.188569,-81.813953,26.188569],
+  "bbox": [
+    -81.813953,
+    26.188569,
+    -81.813953,
+    26.188569
+],
   "geometry": {"coordinates":[-81.813953,26.188569],"type":"Point"}
 }

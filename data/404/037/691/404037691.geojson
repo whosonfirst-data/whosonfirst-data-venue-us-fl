@@ -2,13 +2,14 @@
   "id": 404037691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.911082,26.733146,-81.911082,26.733146",
     "geom:latitude":26.733146,
     "geom:longitude":-81.911082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18491 N Tamiami Trl",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404037691,
-    "wof:lastmodified":1449040342,
+    "wof:lastmodified":1466440847,
     "wof:name":"Fabri-Tech",
     "wof:parent_id":85889255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "enclosure"
     ]
 },
-  "bbox": [-81.911082,26.733146,-81.911082,26.733146],
-  "geometry": {"coordinates":[-81.911082,26.733146],"type":"Point"}
+  "bbox": [
+    -81.911082,
+    26.733146,
+    -81.911082,
+    26.733146
+],
+  "geometry": {"coordinates":[-81.91108199999999,26.733146],"type":"Point"}
 }

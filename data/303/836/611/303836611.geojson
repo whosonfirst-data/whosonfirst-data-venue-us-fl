@@ -2,13 +2,14 @@
   "id": 303836611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.616903,27.79552,-82.616903,27.79552",
     "geom:latitude":27.79552,
     "geom:longitude":-82.616903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Rafael Blvd NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303836611,
-    "wof:lastmodified":1448999735,
+    "wof:lastmodified":1466444933,
     "wof:name":"James Mixson",
     "wof:parent_id":85881945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.616903,27.79552,-82.616903,27.79552],
-  "geometry": {"coordinates":[-82.616903,27.79552],"type":"Point"}
+  "bbox": [
+    -82.616903,
+    27.79552,
+    -82.616903,
+    27.79552
+],
+  "geometry": {"coordinates":[-82.61690299999999,27.79552],"type":"Point"}
 }

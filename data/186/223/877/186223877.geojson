@@ -2,13 +2,14 @@
   "id": 186223877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155858,26.096191,-80.155858,26.096191",
     "geom:latitude":26.096191,
     "geom:longitude":-80.155858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 SW 20th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186223877,
-    "wof:lastmodified":1449050440,
+    "wof:lastmodified":1466429383,
     "wof:name":"SSGI Management",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.155858,26.096191,-80.155858,26.096191],
-  "geometry": {"coordinates":[-80.155858,26.096191],"type":"Point"}
+  "bbox": [
+    -80.155858,
+    26.096191,
+    -80.155858,
+    26.096191
+],
+  "geometry": {"coordinates":[-80.15585799999999,26.096191],"type":"Point"}
 }

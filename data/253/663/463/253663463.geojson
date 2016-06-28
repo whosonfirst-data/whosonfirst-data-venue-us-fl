@@ -2,13 +2,14 @@
   "id": 253663463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215364,26.652192,-80.215364,26.652192",
     "geom:latitude":26.652192,
     "geom:longitude":-80.215364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10715 Lake Shore Dr",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253663463,
-    "wof:lastmodified":1449065008,
+    "wof:lastmodified":1466438540,
     "wof:name":"Shore Accounting Svc",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.215364,26.652192,-80.215364,26.652192],
-  "geometry": {"coordinates":[-80.215364,26.652192],"type":"Point"}
+  "bbox": [
+    -80.215364,
+    26.652192,
+    -80.215364,
+    26.652192
+],
+  "geometry": {"coordinates":[-80.21536399999999,26.652192],"type":"Point"}
 }

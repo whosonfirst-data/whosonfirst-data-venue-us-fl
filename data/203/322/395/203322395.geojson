@@ -2,13 +2,14 @@
   "id": 203322395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077565,26.377713,-80.077565,26.377713",
     "geom:latitude":26.377713,
     "geom:longitude":-80.077565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 NE 29th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203322395,
-    "wof:lastmodified":1449024925,
+    "wof:lastmodified":1466430442,
     "wof:name":"Phs Tile Corp",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.077565,26.377713,-80.077565,26.377713],
-  "geometry": {"coordinates":[-80.077565,26.377713],"type":"Point"}
+  "bbox": [
+    -80.077565,
+    26.377713,
+    -80.077565,
+    26.377713
+],
+  "geometry": {"coordinates":[-80.07756500000001,26.377713],"type":"Point"}
 }

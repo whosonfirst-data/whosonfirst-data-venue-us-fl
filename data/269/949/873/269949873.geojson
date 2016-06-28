@@ -2,13 +2,14 @@
   "id": 269949873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.280881,30.541428,-87.280881,30.541428",
     "geom:latitude":30.541428,
     "geom:longitude":-87.280881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10010 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269949873,
-    "wof:lastmodified":1449037632,
+    "wof:lastmodified":1466436669,
     "wof:name":"Friendly Shoe Repair",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shoes"
     ]
 },
-  "bbox": [-87.280881,30.541428,-87.280881,30.541428],
-  "geometry": {"coordinates":[-87.280881,30.541428],"type":"Point"}
+  "bbox": [
+    -87.280881,
+    30.541428,
+    -87.280881,
+    30.541428
+],
+  "geometry": {"coordinates":[-87.28088099999999,30.541428],"type":"Point"}
 }

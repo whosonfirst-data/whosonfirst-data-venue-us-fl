@@ -2,13 +2,14 @@
   "id": 303504437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383434,25.579355,-80.383434,25.579355",
     "geom:latitude":25.579355,
     "geom:longitude":-80.383434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20034 SW 118th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303504437,
-    "wof:lastmodified":1448998546,
+    "wof:lastmodified":1466439232,
     "wof:name":"Victor Roofing Contractors",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.383434,25.579355,-80.383434,25.579355],
-  "geometry": {"coordinates":[-80.383434,25.579355],"type":"Point"}
+  "bbox": [
+    -80.383434,
+    25.579355,
+    -80.383434,
+    25.579355
+],
+  "geometry": {"coordinates":[-80.38343399999999,25.579355],"type":"Point"}
 }

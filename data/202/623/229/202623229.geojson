@@ -2,13 +2,14 @@
   "id": 202623229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.348732,28.500938,-81.348732,28.500938",
     "geom:latitude":28.500938,
     "geom:longitude":-81.348732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 Geigel Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202623229,
-    "wof:lastmodified":1449061875,
+    "wof:lastmodified":1466429986,
     "wof:name":"Wall Trends",
     "wof:parent_id":85879481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hanging"
     ]
 },
-  "bbox": [-81.348732,28.500938,-81.348732,28.500938],
+  "bbox": [
+    -81.348732,
+    28.500938,
+    -81.348732,
+    28.500938
+],
   "geometry": {"coordinates":[-81.348732,28.500938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186227647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.375065,28.494955,-81.375065,28.494955",
     "geom:latitude":28.494955,
     "geom:longitude":-81.375065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186227647,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466429427,
     "wof:name":"Discovery Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.375065,28.494955,-81.375065,28.494955],
-  "geometry": {"coordinates":[-81.375065,28.494955],"type":"Point"}
+  "bbox": [
+    -81.375065,
+    28.494955,
+    -81.375065,
+    28.494955
+],
+  "geometry": {"coordinates":[-81.37506500000001,28.494955],"type":"Point"}
 }

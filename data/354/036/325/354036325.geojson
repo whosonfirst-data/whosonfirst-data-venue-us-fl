@@ -2,13 +2,14 @@
   "id": 354036325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593514,30.251558,-81.593514,30.251558",
     "geom:latitude":30.251558,
     "geom:longitude":-81.593514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4253 Salisbury Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354036325,
-    "wof:lastmodified":1449066298,
+    "wof:lastmodified":1466436617,
     "wof:name":"Jacksonville Surgery Center",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-81.593514,30.251558,-81.593514,30.251558],
+  "bbox": [
+    -81.593514,
+    30.251558,
+    -81.593514,
+    30.251558
+],
   "geometry": {"coordinates":[-81.593514,30.251558],"type":"Point"}
 }

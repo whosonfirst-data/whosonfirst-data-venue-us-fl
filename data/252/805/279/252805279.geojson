@@ -2,13 +2,14 @@
   "id": 252805279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375532,25.169854,-80.375532,25.169854",
     "geom:latitude":25.169854,
     "geom:longitude":-80.375532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106285 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252805279,
-    "wof:lastmodified":1449005772,
+    "wof:lastmodified":1466429841,
     "wof:name":"Travis Boating Ctr",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.375532,25.169854,-80.375532,25.169854],
-  "geometry": {"coordinates":[-80.375532,25.169854],"type":"Point"}
+  "bbox": [
+    -80.375532,
+    25.169854,
+    -80.375532,
+    25.169854
+],
+  "geometry": {"coordinates":[-80.37553200000001,25.169854],"type":"Point"}
 }

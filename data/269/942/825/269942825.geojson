@@ -2,13 +2,14 @@
   "id": 269942825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.534003,30.344987,-81.534003,30.344987",
     "geom:latitude":30.344987,
     "geom:longitude":-81.534003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1459 W Holly Oaks Lake Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269942825,
-    "wof:lastmodified":1449037234,
+    "wof:lastmodified":1466436550,
     "wof:name":"Production Premier",
     "wof:parent_id":85803499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-81.534003,30.344987,-81.534003,30.344987],
+  "bbox": [
+    -81.534003,
+    30.344987,
+    -81.534003,
+    30.344987
+],
   "geometry": {"coordinates":[-81.534003,30.344987],"type":"Point"}
 }

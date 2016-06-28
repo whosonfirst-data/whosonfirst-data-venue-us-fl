@@ -2,13 +2,14 @@
   "id": 186324139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330363,27.282746,-82.330363,27.282746",
     "geom:latitude":27.282746,
     "geom:longitude":-82.330363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4834 Rocking Horse Ln",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186324139,
-    "wof:lastmodified":1449051935,
+    "wof:lastmodified":1466430589,
     "wof:name":"Micheline Laberge Asid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.330363,27.282746,-82.330363,27.282746],
-  "geometry": {"coordinates":[-82.330363,27.282746],"type":"Point"}
+  "bbox": [
+    -82.330363,
+    27.282746,
+    -82.330363,
+    27.282746
+],
+  "geometry": {"coordinates":[-82.33036300000001,27.282746],"type":"Point"}
 }

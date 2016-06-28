@@ -2,13 +2,14 @@
   "id": 219296301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.327374,25.828146,-80.327374,25.828146",
     "geom:latitude":25.828146,
     "geom:longitude":-80.327374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8107 NW 60th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219296301,
-    "wof:lastmodified":1449073267,
+    "wof:lastmodified":1466428711,
     "wof:name":"Orion Press Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.327374,25.828146,-80.327374,25.828146],
-  "geometry": {"coordinates":[-80.327374,25.828146],"type":"Point"}
+  "bbox": [
+    -80.327374,
+    25.828146,
+    -80.327374,
+    25.828146
+],
+  "geometry": {"coordinates":[-80.32737400000001,25.828146],"type":"Point"}
 }

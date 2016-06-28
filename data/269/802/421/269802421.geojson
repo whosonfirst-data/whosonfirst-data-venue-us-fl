@@ -2,13 +2,14 @@
   "id": 269802421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.720041,28.327696,-80.720041,28.327696",
     "geom:latitude":28.327696,
     "geom:longitude":-80.720041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 US Hwy 1",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269802421,
-    "wof:lastmodified":1449038395,
+    "wof:lastmodified":1466434154,
     "wof:name":"Rockledge Fire Dept",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.720041,28.327696,-80.720041,28.327696],
-  "geometry": {"coordinates":[-80.720041,28.327696],"type":"Point"}
+  "bbox": [
+    -80.720041,
+    28.327696,
+    -80.720041,
+    28.327696
+],
+  "geometry": {"coordinates":[-80.72004099999999,28.327696],"type":"Point"}
 }

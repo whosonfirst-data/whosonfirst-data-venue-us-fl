@@ -2,13 +2,14 @@
   "id": 320385095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.621879,30.412712,-86.621879,30.412712",
     "geom:latitude":30.412712,
     "geom:longitude":-86.621879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Hollywood Blvd SW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320385095,
-    "wof:lastmodified":1449013476,
+    "wof:lastmodified":1466439984,
     "wof:name":"Image Wear",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.621879,30.412712,-86.621879,30.412712],
-  "geometry": {"coordinates":[-86.621879,30.412712],"type":"Point"}
+  "bbox": [
+    -86.621879,
+    30.412712,
+    -86.621879,
+    30.412712
+],
+  "geometry": {"coordinates":[-86.62187900000001,30.412712],"type":"Point"}
 }

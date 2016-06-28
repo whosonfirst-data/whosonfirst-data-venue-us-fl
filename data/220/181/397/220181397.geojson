@@ -2,13 +2,14 @@
   "id": 220181397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.599511,30.44195,-86.599511,30.44195",
     "geom:latitude":30.44195,
     "geom:longitude":-86.599511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Racetrack Rd NE",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220181397,
-    "wof:lastmodified":1449074525,
+    "wof:lastmodified":1466429321,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.599511,30.44195,-86.599511,30.44195],
-  "geometry": {"coordinates":[-86.599511,30.44195],"type":"Point"}
+  "bbox": [
+    -86.599511,
+    30.44195,
+    -86.599511,
+    30.44195
+],
+  "geometry": {"coordinates":[-86.59951100000001,30.44195],"type":"Point"}
 }

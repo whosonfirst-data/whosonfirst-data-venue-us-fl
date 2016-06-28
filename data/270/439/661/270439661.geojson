@@ -2,13 +2,14 @@
   "id": 270439661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.519742,30.317151,-81.519742,30.317151",
     "geom:latitude":30.317151,
     "geom:longitude":-81.519742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10771 Java Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270439661,
-    "wof:lastmodified":1449009289,
+    "wof:lastmodified":1466436968,
     "wof:name":"Carter-Vaughan Trucking Inc",
     "wof:parent_id":85846989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.519742,30.317151,-81.519742,30.317151],
-  "geometry": {"coordinates":[-81.519742,30.317151],"type":"Point"}
+  "bbox": [
+    -81.519742,
+    30.317151,
+    -81.519742,
+    30.317151
+],
+  "geometry": {"coordinates":[-81.51974199999999,30.317151],"type":"Point"}
 }

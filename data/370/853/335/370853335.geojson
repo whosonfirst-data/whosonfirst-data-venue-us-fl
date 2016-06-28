@@ -2,13 +2,14 @@
   "id": 370853335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800173,26.201137,-81.800173,26.201137",
     "geom:latitude":26.201137,
     "geom:longitude":-81.800173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370853335,
-    "wof:lastmodified":1449030453,
+    "wof:lastmodified":1466447068,
     "wof:name":"Naples Dental Wellness",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.800173,26.201137,-81.800173,26.201137],
+  "bbox": [
+    -81.800173,
+    26.201137,
+    -81.800173,
+    26.201137
+],
   "geometry": {"coordinates":[-81.800173,26.201137],"type":"Point"}
 }

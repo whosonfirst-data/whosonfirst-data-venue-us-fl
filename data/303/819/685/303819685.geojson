@@ -2,13 +2,14 @@
   "id": 303819685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780771,27.992165,-81.780771,27.992165",
     "geom:latitude":27.992165,
     "geom:longitude":-81.780771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Pangola Dr",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303819685,
-    "wof:lastmodified":1448998693,
+    "wof:lastmodified":1466444642,
     "wof:name":"Etter Trucking",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.780771,27.992165,-81.780771,27.992165],
+  "bbox": [
+    -81.780771,
+    27.992165,
+    -81.780771,
+    27.992165
+],
   "geometry": {"coordinates":[-81.780771,27.992165],"type":"Point"}
 }

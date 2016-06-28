@@ -2,13 +2,14 @@
   "id": 286741403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.802379,26.267784,-81.802379,26.267784",
     "geom:latitude":26.267784,
     "geom:longitude":-81.802379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 106th Ave N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286741403,
-    "wof:lastmodified":1449015331,
+    "wof:lastmodified":1466438094,
     "wof:name":"Southwest Notary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-81.802379,26.267784,-81.802379,26.267784],
+  "bbox": [
+    -81.802379,
+    26.267784,
+    -81.802379,
+    26.267784
+],
   "geometry": {"coordinates":[-81.802379,26.267784],"type":"Point"}
 }

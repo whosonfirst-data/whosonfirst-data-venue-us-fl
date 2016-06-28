@@ -2,13 +2,14 @@
   "id": 303948481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.864815,26.688293,-81.864815,26.688293",
     "geom:latitude":26.688293,
     "geom:longitude":-81.864815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5660 Bayshore Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303948481,
-    "wof:lastmodified":1449000059,
+    "wof:lastmodified":1466446689,
     "wof:name":"Alex Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-81.864815,26.688293,-81.864815,26.688293],
-  "geometry": {"coordinates":[-81.864815,26.688293],"type":"Point"}
+  "bbox": [
+    -81.864815,
+    26.688293,
+    -81.864815,
+    26.688293
+],
+  "geometry": {"coordinates":[-81.86481499999999,26.688293],"type":"Point"}
 }

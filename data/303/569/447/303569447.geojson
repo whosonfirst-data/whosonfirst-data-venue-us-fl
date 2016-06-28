@@ -2,13 +2,14 @@
   "id": 303569447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.450804,27.280861,-82.450804,27.280861",
     "geom:latitude":27.280861,
     "geom:longitude":-82.450804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5770 Sandy Pointe Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303569447,
-    "wof:lastmodified":1449000467,
+    "wof:lastmodified":1466440344,
     "wof:name":"Goff Enterprises",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-82.450804,27.280861,-82.450804,27.280861],
-  "geometry": {"coordinates":[-82.450804,27.280861],"type":"Point"}
+  "bbox": [
+    -82.450804,
+    27.280861,
+    -82.450804,
+    27.280861
+],
+  "geometry": {"coordinates":[-82.45080400000001,27.280861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186183075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.397146,28.527289,-81.397146,28.527289",
     "geom:latitude":28.527289,
     "geom:longitude":-81.397146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186183075,
-    "wof:lastmodified":1449051819,
+    "wof:lastmodified":1466428904,
     "wof:name":"Global Auto Inc",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.397146,28.527289,-81.397146,28.527289],
-  "geometry": {"coordinates":[-81.397146,28.527289],"type":"Point"}
+  "bbox": [
+    -81.397146,
+    28.527289,
+    -81.397146,
+    28.527289
+],
+  "geometry": {"coordinates":[-81.39714600000001,28.527289],"type":"Point"}
 }

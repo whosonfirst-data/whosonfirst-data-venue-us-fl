@@ -2,13 +2,14 @@
   "id": 202843597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.289161,30.425886,-87.289161,30.425886",
     "geom:latitude":30.425886,
     "geom:longitude":-87.289161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Lillian Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202843597,
-    "wof:lastmodified":1449060337,
+    "wof:lastmodified":1466432846,
     "wof:name":"US Post Office",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-87.289161,30.425886,-87.289161,30.425886],
-  "geometry": {"coordinates":[-87.289161,30.425886],"type":"Point"}
+  "bbox": [
+    -87.289161,
+    30.425886,
+    -87.289161,
+    30.425886
+],
+  "geometry": {"coordinates":[-87.28916099999999,30.425886],"type":"Point"}
 }

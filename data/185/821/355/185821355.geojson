@@ -2,13 +2,14 @@
   "id": 185821355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325752,25.620009,-80.325752,25.620009",
     "geom:latitude":25.620009,
     "geom:longitude":-80.325752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 SW 162nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185821355,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1466429211,
     "wof:name":"Landscapes South Inc",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-80.325752,25.620009,-80.325752,25.620009],
-  "geometry": {"coordinates":[-80.325752,25.620009],"type":"Point"}
+  "bbox": [
+    -80.325752,
+    25.620009,
+    -80.325752,
+    25.620009
+],
+  "geometry": {"coordinates":[-80.32575199999999,25.620009],"type":"Point"}
 }

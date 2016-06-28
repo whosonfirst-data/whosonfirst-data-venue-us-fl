@@ -2,13 +2,14 @@
   "id": 186465329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.63846,27.770308,-82.63846,27.770308",
     "geom:latitude":27.770308,
     "geom:longitude":-82.63846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 1st Ave S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186465329,
-    "wof:lastmodified":1449052174,
+    "wof:lastmodified":1466432372,
     "wof:name":"Wallace Welch & Willingham",
     "wof:parent_id":85881941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.63846,27.770308,-82.63846,27.770308],
-  "geometry": {"coordinates":[-82.63846,27.770308],"type":"Point"}
+  "bbox": [
+    -82.63846,
+    27.770308,
+    -82.63846,
+    27.770308
+],
+  "geometry": {"coordinates":[-82.63845999999999,27.770308],"type":"Point"}
 }

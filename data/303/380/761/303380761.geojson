@@ -2,13 +2,14 @@
   "id": 303380761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.145363,29.232199,-82.145363,29.232199",
     "geom:latitude":29.232199,
     "geom:longitude":-82.145363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 NW 43rd Ln",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303380761,
-    "wof:lastmodified":1448999254,
+    "wof:lastmodified":1466437090,
     "wof:name":"Bill's Pump Svc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-82.145363,29.232199,-82.145363,29.232199],
+  "bbox": [
+    -82.145363,
+    29.232199,
+    -82.145363,
+    29.232199
+],
   "geometry": {"coordinates":[-82.145363,29.232199],"type":"Point"}
 }

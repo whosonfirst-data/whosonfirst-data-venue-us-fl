@@ -2,13 +2,14 @@
   "id": 320210701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254283,25.765686,-80.254283,25.765686",
     "geom:latitude":25.765686,
     "geom:longitude":-80.254283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3697 SW 7th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320210701,
-    "wof:lastmodified":1449012544,
+    "wof:lastmodified":1466436987,
     "wof:name":"Erichs Car Care Inc",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-80.254283,25.765686,-80.254283,25.765686],
+  "bbox": [
+    -80.254283,
+    25.765686,
+    -80.254283,
+    25.765686
+],
   "geometry": {"coordinates":[-80.254283,25.765686],"type":"Point"}
 }

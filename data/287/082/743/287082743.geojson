@@ -2,13 +2,14 @@
   "id": 287082743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290528,25.763485,-80.290528,25.763485",
     "geom:latitude":25.763485,
     "geom:longitude":-80.290528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SW 58th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287082743,
-    "wof:lastmodified":1449000694,
+    "wof:lastmodified":1466431288,
     "wof:name":"Southwest Realty of Miami Inc",
     "wof:parent_id":85855949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.290528,25.763485,-80.290528,25.763485],
-  "geometry": {"coordinates":[-80.290528,25.763485],"type":"Point"}
+  "bbox": [
+    -80.290528,
+    25.763485,
+    -80.290528,
+    25.763485
+],
+  "geometry": {"coordinates":[-80.29052799999999,25.763485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303586355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.289609,26.278879,-80.289609,26.278879",
     "geom:latitude":26.278879,
     "geom:longitude":-80.289609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12301 NW 39th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303586355,
-    "wof:lastmodified":1449000286,
+    "wof:lastmodified":1466440628,
     "wof:name":"Careguide",
     "wof:parent_id":85876871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "care"
     ]
 },
-  "bbox": [-80.289609,26.278879,-80.289609,26.278879],
+  "bbox": [
+    -80.289609,
+    26.278879,
+    -80.289609,
+    26.278879
+],
   "geometry": {"coordinates":[-80.289609,26.278879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320203565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.841035,29.785074,-82.841035,29.785074",
     "geom:latitude":29.785074,
     "geom:longitude":-82.841035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3389 NW 20th Ave",
     "sg:city":"Bell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320203565,
-    "wof:lastmodified":1449012911,
+    "wof:lastmodified":1466436865,
     "wof:name":"Philman Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.841035,29.785074,-82.841035,29.785074],
-  "geometry": {"coordinates":[-82.841035,29.785074],"type":"Point"}
+  "bbox": [
+    -82.841035,
+    29.785074,
+    -82.841035,
+    29.785074
+],
+  "geometry": {"coordinates":[-82.84103500000001,29.785074],"type":"Point"}
 }

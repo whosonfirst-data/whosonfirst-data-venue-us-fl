@@ -2,13 +2,14 @@
   "id": 270415195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138315,25.777589,-80.138315,25.777589",
     "geom:latitude":25.777589,
     "geom:longitude":-80.138315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Michigan Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270415195,
-    "wof:lastmodified":1449010414,
+    "wof:lastmodified":1466436559,
     "wof:name":"Hibiscuscondo",
     "wof:parent_id":85865233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.138315,25.777589,-80.138315,25.777589],
-  "geometry": {"coordinates":[-80.138315,25.777589],"type":"Point"}
+  "bbox": [
+    -80.138315,
+    25.777589,
+    -80.138315,
+    25.777589
+],
+  "geometry": {"coordinates":[-80.13831500000001,25.777589],"type":"Point"}
 }

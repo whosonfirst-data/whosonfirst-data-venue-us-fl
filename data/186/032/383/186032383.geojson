@@ -2,13 +2,14 @@
   "id": 186032383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.638013,28.040508,-80.638013,28.040508",
     "geom:latitude":28.040508,
     "geom:longitude":-80.638013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 Dairy Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186032383,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466443436,
     "wof:name":"City Limits",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.638013,28.040508,-80.638013,28.040508],
+  "bbox": [
+    -80.638013,
+    28.040508,
+    -80.638013,
+    28.040508
+],
   "geometry": {"coordinates":[-80.638013,28.040508],"type":"Point"}
 }

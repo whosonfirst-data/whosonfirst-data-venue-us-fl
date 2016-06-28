@@ -2,13 +2,14 @@
   "id": 320449517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.714734,28.272851,-82.714734,28.272851",
     "geom:latitude":28.272851,
     "geom:longitude":-82.714734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7824 Clark Moody Blvd",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320449517,
-    "wof:lastmodified":1449014686,
+    "wof:lastmodified":1466441123,
     "wof:name":"Isoaid",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.714734,28.272851,-82.714734,28.272851],
-  "geometry": {"coordinates":[-82.714734,28.272851],"type":"Point"}
+  "bbox": [
+    -82.714734,
+    28.272851,
+    -82.714734,
+    28.272851
+],
+  "geometry": {"coordinates":[-82.71473400000001,28.272851],"type":"Point"}
 }

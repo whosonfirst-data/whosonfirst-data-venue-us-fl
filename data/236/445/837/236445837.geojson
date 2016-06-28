@@ -2,13 +2,14 @@
   "id": 236445837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378253,28.525084,-81.378253,28.525084",
     "geom:latitude":28.525084,
     "geom:longitude":-81.378253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 S Kuhl Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236445837,
-    "wof:lastmodified":1449002006,
+    "wof:lastmodified":1466434707,
     "wof:name":"Medical Center Radiology Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.378253,28.525084,-81.378253,28.525084],
+  "bbox": [
+    -81.378253,
+    28.525084,
+    -81.378253,
+    28.525084
+],
   "geometry": {"coordinates":[-81.378253,28.525084],"type":"Point"}
 }

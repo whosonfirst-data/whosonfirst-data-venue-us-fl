@@ -2,13 +2,14 @@
   "id": 286701887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.36759,30.20349,-84.36759,30.20349",
     "geom:latitude":30.20349,
     "geom:longitude":-84.36759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Crawfordville Hwy",
     "sg:city":"Crawfordville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286701887,
-    "wof:lastmodified":1449017513,
+    "wof:lastmodified":1466437369,
     "wof:name":"Barbaras Craft Cottage",
     "wof:parent_id":85842795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.36759,30.20349,-84.36759,30.20349],
-  "geometry": {"coordinates":[-84.36759,30.20349],"type":"Point"}
+  "bbox": [
+    -84.36759,
+    30.20349,
+    -84.36759,
+    30.20349
+],
+  "geometry": {"coordinates":[-84.36759000000001,30.20349],"type":"Point"}
 }

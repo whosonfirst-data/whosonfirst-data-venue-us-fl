@@ -2,13 +2,14 @@
   "id": 387687769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140639,26.12613,-80.140639,26.12613",
     "geom:latitude":26.12613,
     "geom:longitude":-80.140639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 NE 3rd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387687769,
-    "wof:lastmodified":1449057165,
+    "wof:lastmodified":1466447976,
     "wof:name":"US Labor Dept",
     "wof:parent_id":85877491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-80.140639,26.12613,-80.140639,26.12613],
-  "geometry": {"coordinates":[-80.140639,26.12613],"type":"Point"}
+  "bbox": [
+    -80.140639,
+    26.12613,
+    -80.140639,
+    26.12613
+],
+  "geometry": {"coordinates":[-80.14063899999999,26.12613],"type":"Point"}
 }

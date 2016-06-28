@@ -2,13 +2,14 @@
   "id": 403903213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04405,29.248949,-81.04405,29.248949",
     "geom:latitude":29.248949,
     "geom:longitude":-81.04405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Walker St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403903213,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1466442776,
     "wof:name":"Daytona Custom Machine Werks",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.04405,29.248949,-81.04405,29.248949],
+  "bbox": [
+    -81.04405,
+    29.248949,
+    -81.04405,
+    29.248949
+],
   "geometry": {"coordinates":[-81.04405,29.248949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202611309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.725564,27.67927,-82.725564,27.67927",
     "geom:latitude":27.67927,
     "geom:longitude":-82.725564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"487 Pinellas Bayway S",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202611309,
-    "wof:lastmodified":1449062122,
+    "wof:lastmodified":1466429825,
     "wof:name":"Amisar LLC",
     "wof:parent_id":85852237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.725564,27.67927,-82.725564,27.67927],
-  "geometry": {"coordinates":[-82.725564,27.67927],"type":"Point"}
+  "bbox": [
+    -82.725564,
+    27.67927,
+    -82.725564,
+    27.67927
+],
+  "geometry": {"coordinates":[-82.72556400000001,27.67927],"type":"Point"}
 }

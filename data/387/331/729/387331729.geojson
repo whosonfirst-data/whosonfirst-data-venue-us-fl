@@ -2,13 +2,14 @@
   "id": 387331729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210838,26.338175,-80.210838,26.338175",
     "geom:latitude":26.338175,
     "geom:longitude":-80.210838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22763 Sleepy Brook Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387331729,
-    "wof:lastmodified":1449058417,
+    "wof:lastmodified":1466443816,
     "wof:name":"Bicycle Doctor-Housecalls",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-80.210838,26.338175,-80.210838,26.338175],
+  "bbox": [
+    -80.210838,
+    26.338175,
+    -80.210838,
+    26.338175
+],
   "geometry": {"coordinates":[-80.210838,26.338175],"type":"Point"}
 }

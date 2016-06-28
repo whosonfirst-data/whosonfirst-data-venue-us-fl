@@ -2,13 +2,14 @@
   "id": 387877955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.463789,30.360839,-81.463789,30.360839",
     "geom:latitude":30.360839,
     "geom:longitude":-81.463789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1870 Buccaneer Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387877955,
-    "wof:lastmodified":1449058789,
+    "wof:lastmodified":1466449320,
     "wof:name":"DFS Irrigation",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-81.463789,30.360839,-81.463789,30.360839],
-  "geometry": {"coordinates":[-81.463789,30.360839],"type":"Point"}
+  "bbox": [
+    -81.463789,
+    30.360839,
+    -81.463789,
+    30.360839
+],
+  "geometry": {"coordinates":[-81.46378900000001,30.360839],"type":"Point"}
 }

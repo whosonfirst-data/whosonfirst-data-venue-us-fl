@@ -2,13 +2,14 @@
   "id": 203203887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195073,25.760631,-80.195073,25.760631",
     "geom:latitude":25.760631,
     "geom:longitude":-80.195073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 SW 1st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203203887,
-    "wof:lastmodified":1449025753,
+    "wof:lastmodified":1466428951,
     "wof:name":"Sousa Architechture",
     "wof:parent_id":85896195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-80.195073,25.760631,-80.195073,25.760631],
-  "geometry": {"coordinates":[-80.195073,25.760631],"type":"Point"}
+  "bbox": [
+    -80.195073,
+    25.760631,
+    -80.195073,
+    25.760631
+],
+  "geometry": {"coordinates":[-80.19507299999999,25.760631],"type":"Point"}
 }

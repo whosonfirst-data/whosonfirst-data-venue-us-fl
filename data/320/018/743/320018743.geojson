@@ -2,13 +2,14 @@
   "id": 320018743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.36365,25.585095,-80.36365,25.585095",
     "geom:latitude":25.585095,
     "geom:longitude":-80.36365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19770 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320018743,
-    "wof:lastmodified":1449013123,
+    "wof:lastmodified":1466433719,
     "wof:name":"Five Star Computers",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-80.36365,25.585095,-80.36365,25.585095],
-  "geometry": {"coordinates":[-80.36365,25.585095],"type":"Point"}
+  "bbox": [
+    -80.36365,
+    25.585095,
+    -80.36365,
+    25.585095
+],
+  "geometry": {"coordinates":[-80.36365000000001,25.585095],"type":"Point"}
 }

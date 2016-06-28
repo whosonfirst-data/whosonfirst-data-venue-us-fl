@@ -2,13 +2,14 @@
   "id": 202582857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.425381,27.068225,-82.425381,27.068225",
     "geom:latitude":27.068225,
     "geom:longitude":-82.425381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Aurora Rd",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202582857,
-    "wof:lastmodified":1449061480,
+    "wof:lastmodified":1466429454,
     "wof:name":"John F Langley",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.425381,27.068225,-82.425381,27.068225],
+  "bbox": [
+    -82.425381,
+    27.068225,
+    -82.425381,
+    27.068225
+],
   "geometry": {"coordinates":[-82.425381,27.068225],"type":"Point"}
 }

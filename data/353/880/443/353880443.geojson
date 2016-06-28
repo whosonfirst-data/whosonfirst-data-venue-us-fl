@@ -2,13 +2,14 @@
   "id": 353880443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.642113,30.437129,-86.642113,30.437129",
     "geom:latitude":30.437129,
     "geom:longitude":-86.642113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Shady Lane Dr",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353880443,
-    "wof:lastmodified":1449020825,
+    "wof:lastmodified":1466442169,
     "wof:name":"Shady Lane Boarding Kennels",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "sitting"
     ]
 },
-  "bbox": [-86.642113,30.437129,-86.642113,30.437129],
-  "geometry": {"coordinates":[-86.642113,30.437129],"type":"Point"}
+  "bbox": [
+    -86.642113,
+    30.437129,
+    -86.642113,
+    30.437129
+],
+  "geometry": {"coordinates":[-86.64211299999999,30.437129],"type":"Point"}
 }

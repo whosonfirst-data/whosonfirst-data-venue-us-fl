@@ -2,13 +2,14 @@
   "id": 269678893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403753,28.569206,-81.403753,28.569206",
     "geom:latitude":28.569206,
     "geom:longitude":-81.403753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 N Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269678893,
-    "wof:lastmodified":1449037307,
+    "wof:lastmodified":1466431983,
     "wof:name":"Auto Clinic",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-81.403753,28.569206,-81.403753,28.569206],
-  "geometry": {"coordinates":[-81.403753,28.569206],"type":"Point"}
+  "bbox": [
+    -81.403753,
+    28.569206,
+    -81.403753,
+    28.569206
+],
+  "geometry": {"coordinates":[-81.40375299999999,28.569206],"type":"Point"}
 }

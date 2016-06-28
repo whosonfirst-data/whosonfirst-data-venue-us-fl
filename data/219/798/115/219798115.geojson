@@ -2,13 +2,14 @@
   "id": 219798115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.958194,26.522384,-81.958194,26.522384",
     "geom:latitude":26.522384,
     "geom:longitude":-81.958194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15180 Portside Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219798115,
-    "wof:lastmodified":1449071049,
+    "wof:lastmodified":1466435421,
     "wof:name":"HBE Engineering",
     "wof:parent_id":85888835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.958194,26.522384,-81.958194,26.522384],
-  "geometry": {"coordinates":[-81.958194,26.522384],"type":"Point"}
+  "bbox": [
+    -81.958194,
+    26.522384,
+    -81.958194,
+    26.522384
+],
+  "geometry": {"coordinates":[-81.95819400000001,26.522384],"type":"Point"}
 }

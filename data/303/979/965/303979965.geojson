@@ -2,13 +2,14 @@
   "id": 303979965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.26909,28.508081,-81.26909,28.508081",
     "geom:latitude":28.508081,
     "geom:longitude":-81.26909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 S Chickasaw Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":303979965,
-    "wof:lastmodified":1448999840,
+    "wof:lastmodified":1466447030,
     "wof:name":"Finishing Touch Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.26909,28.508081,-81.26909,28.508081],
-  "geometry": {"coordinates":[-81.26909,28.508081],"type":"Point"}
+  "bbox": [
+    -81.26909,
+    28.508081,
+    -81.26909,
+    28.508081
+],
+  "geometry": {"coordinates":[-81.26909000000001,28.508081],"type":"Point"}
 }

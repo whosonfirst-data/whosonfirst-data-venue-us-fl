@@ -2,13 +2,14 @@
   "id": 403830379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.351795,30.35692,-87.351795,30.35692",
     "geom:latitude":30.35692,
     "geom:longitude":-87.351795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9798 Sidney Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403830379,
-    "wof:lastmodified":1449054922,
+    "wof:lastmodified":1466441621,
     "wof:name":"Miller's Marine Svc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yacht"
     ]
 },
-  "bbox": [-87.351795,30.35692,-87.351795,30.35692],
+  "bbox": [
+    -87.351795,
+    30.35692,
+    -87.351795,
+    30.35692
+],
   "geometry": {"coordinates":[-87.351795,30.35692],"type":"Point"}
 }

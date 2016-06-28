@@ -2,13 +2,14 @@
   "id": 286538755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258536,25.746699,-80.258536,25.746699",
     "geom:latitude":25.746699,
     "geom:longitude":-80.258536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286538755,
-    "wof:lastmodified":1449015542,
+    "wof:lastmodified":1466434443,
     "wof:name":"Burns & Mc Donnell Engineering",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.258536,25.746699,-80.258536,25.746699],
-  "geometry": {"coordinates":[-80.258536,25.746699],"type":"Point"}
+  "bbox": [
+    -80.258536,
+    25.746699,
+    -80.258536,
+    25.746699
+],
+  "geometry": {"coordinates":[-80.25853600000001,25.746699],"type":"Point"}
 }

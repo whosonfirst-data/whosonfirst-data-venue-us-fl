@@ -2,13 +2,14 @@
   "id": 303327817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105938,26.110242,-80.105938,26.110242",
     "geom:latitude":26.110242,
     "geom:longitude":-80.105938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Seabreeze Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303327817,
-    "wof:lastmodified":1448998305,
+    "wof:lastmodified":1466436187,
     "wof:name":"Boat Show West Marine Ft Ldle",
     "wof:parent_id":85881961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.105938,26.110242,-80.105938,26.110242],
-  "geometry": {"coordinates":[-80.105938,26.110242],"type":"Point"}
+  "bbox": [
+    -80.105938,
+    26.110242,
+    -80.105938,
+    26.110242
+],
+  "geometry": {"coordinates":[-80.10593799999999,26.110242],"type":"Point"}
 }

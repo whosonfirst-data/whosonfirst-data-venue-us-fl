@@ -2,13 +2,14 @@
   "id": 253536015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.433428,27.137256,-82.433428,27.137256",
     "geom:latitude":27.137256,
     "geom:longitude":-82.433428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Albee Farm Rd N",
     "sg:city":"Nokomis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253536015,
-    "wof:lastmodified":1449064579,
+    "wof:lastmodified":1466436249,
     "wof:name":"Advanced Concrete Pumping",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-82.433428,27.137256,-82.433428,27.137256],
-  "geometry": {"coordinates":[-82.433428,27.137256],"type":"Point"}
+  "bbox": [
+    -82.433428,
+    27.137256,
+    -82.433428,
+    27.137256
+],
+  "geometry": {"coordinates":[-82.43342800000001,27.137256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354029959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503858,28.014519,-82.503858,28.014519",
     "geom:latitude":28.014519,
     "geom:longitude":-82.503858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 W Hamilton Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354029959,
-    "wof:lastmodified":1449066642,
+    "wof:lastmodified":1466436520,
     "wof:name":"Neuro Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.503858,28.014519,-82.503858,28.014519],
-  "geometry": {"coordinates":[-82.503858,28.014519],"type":"Point"}
+  "bbox": [
+    -82.503858,
+    28.014519,
+    -82.503858,
+    28.014519
+],
+  "geometry": {"coordinates":[-82.50385799999999,28.014519],"type":"Point"}
 }

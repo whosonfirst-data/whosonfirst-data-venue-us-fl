@@ -2,13 +2,14 @@
   "id": 203215241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111414,26.222162,-80.111414,26.222162",
     "geom:latitude":26.222162,
     "geom:longitude":-80.111414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 SE 7th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203215241,
-    "wof:lastmodified":1449026510,
+    "wof:lastmodified":1466429089,
     "wof:name":"Beyer Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.111414,26.222162,-80.111414,26.222162],
+  "bbox": [
+    -80.111414,
+    26.222162,
+    -80.111414,
+    26.222162
+],
   "geometry": {"coordinates":[-80.111414,26.222162],"type":"Point"}
 }

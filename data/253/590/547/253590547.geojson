@@ -2,13 +2,14 @@
   "id": 253590547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.395975,28.632196,-81.395975,28.632196",
     "geom:latitude":28.632196,
     "geom:longitude":-81.395975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Winderley Pl",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253590547,
-    "wof:lastmodified":1449064574,
+    "wof:lastmodified":1466437251,
     "wof:name":"R H Donnelley Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guide"
     ]
 },
-  "bbox": [-81.395975,28.632196,-81.395975,28.632196],
-  "geometry": {"coordinates":[-81.395975,28.632196],"type":"Point"}
+  "bbox": [
+    -81.395975,
+    28.632196,
+    -81.395975,
+    28.632196
+],
+  "geometry": {"coordinates":[-81.39597500000001,28.632196],"type":"Point"}
 }

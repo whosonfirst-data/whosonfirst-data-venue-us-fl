@@ -2,13 +2,14 @@
   "id": 303712763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.298127,26.13672,-80.298127,26.13672",
     "geom:latitude":26.13672,
     "geom:longitude":-80.298127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 NW 112th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303712763,
-    "wof:lastmodified":1448999168,
+    "wof:lastmodified":1466442842,
     "wof:name":"Surrey Stables Inc",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stable"
     ]
 },
-  "bbox": [-80.298127,26.13672,-80.298127,26.13672],
-  "geometry": {"coordinates":[-80.298127,26.13672],"type":"Point"}
+  "bbox": [
+    -80.298127,
+    26.13672,
+    -80.298127,
+    26.13672
+],
+  "geometry": {"coordinates":[-80.29812699999999,26.13672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336815143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129679,26.200795,-80.129679,26.200795",
     "geom:latitude":26.200795,
     "geom:longitude":-80.129679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5940 NE 14th Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336815143,
-    "wof:lastmodified":1448997478,
+    "wof:lastmodified":1466438710,
     "wof:name":"All American Conferencing",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teleconferencing"
     ]
 },
-  "bbox": [-80.129679,26.200795,-80.129679,26.200795],
+  "bbox": [
+    -80.129679,
+    26.200795,
+    -80.129679,
+    26.200795
+],
   "geometry": {"coordinates":[-80.129679,26.200795],"type":"Point"}
 }

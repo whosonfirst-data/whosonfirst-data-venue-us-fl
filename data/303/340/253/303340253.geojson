@@ -2,13 +2,14 @@
   "id": 303340253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.830643,27.877412,-81.830643,27.877412",
     "geom:latitude":27.877412,
     "geom:longitude":-81.830643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 S Davis Ave",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303340253,
-    "wof:lastmodified":1449000007,
+    "wof:lastmodified":1466436402,
     "wof:name":"LOCALDEALERSHIPS.COM",
     "wof:parent_id":85888553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.830643,27.877412,-81.830643,27.877412],
-  "geometry": {"coordinates":[-81.830643,27.877412],"type":"Point"}
+  "bbox": [
+    -81.830643,
+    27.877412,
+    -81.830643,
+    27.877412
+],
+  "geometry": {"coordinates":[-81.83064299999999,27.877412],"type":"Point"}
 }

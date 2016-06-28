@@ -2,13 +2,14 @@
   "id": 303631133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6766,26.205139,-81.6766,26.205139",
     "geom:latitude":26.205139,
     "geom:longitude":-81.6766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 13th Ave SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303631133,
-    "wof:lastmodified":1448998872,
+    "wof:lastmodified":1466441389,
     "wof:name":"Fes Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-81.6766,26.205139,-81.6766,26.205139],
-  "geometry": {"coordinates":[-81.6766,26.205139],"type":"Point"}
+  "bbox": [
+    -81.6766,
+    26.205139,
+    -81.6766,
+    26.205139
+],
+  "geometry": {"coordinates":[-81.67659999999999,26.205139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186215731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730491,30.361738,-81.730491,30.361738",
     "geom:latitude":30.361738,
     "geom:longitude":-81.730491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 Old Kings Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186215731,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466429287,
     "wof:name":"ABC Cab Co",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.730491,30.361738,-81.730491,30.361738],
+  "bbox": [
+    -81.730491,
+    30.361738,
+    -81.730491,
+    30.361738
+],
   "geometry": {"coordinates":[-81.730491,30.361738],"type":"Point"}
 }

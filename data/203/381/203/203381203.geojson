@@ -2,13 +2,14 @@
   "id": 203381203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.801209,27.969089,-82.801209,27.969089",
     "geom:latitude":27.969089,
     "geom:longitude":-82.801209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Osceola Ave",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203381203,
-    "wof:lastmodified":1449025087,
+    "wof:lastmodified":1466431172,
     "wof:name":"Sandcastle Restaurant",
     "wof:parent_id":85888639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.801209,27.969089,-82.801209,27.969089],
+  "bbox": [
+    -82.801209,
+    27.969089,
+    -82.801209,
+    27.969089
+],
   "geometry": {"coordinates":[-82.801209,27.969089],"type":"Point"}
 }

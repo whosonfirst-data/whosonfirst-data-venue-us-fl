@@ -2,13 +2,14 @@
   "id": 236467365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.400439,30.288156,-81.400439,30.288156",
     "geom:latitude":30.288156,
     "geom:longitude":-81.400439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 Beach Blvd",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236467365,
-    "wof:lastmodified":1449004394,
+    "wof:lastmodified":1466435011,
     "wof:name":"Goodwill Of North Florida",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.400439,30.288156,-81.400439,30.288156],
-  "geometry": {"coordinates":[-81.400439,30.288156],"type":"Point"}
+  "bbox": [
+    -81.400439,
+    30.288156,
+    -81.400439,
+    30.288156
+],
+  "geometry": {"coordinates":[-81.40043900000001,30.288156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336911137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525151,27.337626,-82.525151,27.337626",
     "geom:latitude":27.337626,
     "geom:longitude":-82.525151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336911137,
-    "wof:lastmodified":1448997857,
+    "wof:lastmodified":1466440365,
     "wof:name":"Best Deal Auto Sales",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.525151,27.337626,-82.525151,27.337626],
-  "geometry": {"coordinates":[-82.525151,27.337626],"type":"Point"}
+  "bbox": [
+    -82.525151,
+    27.337626,
+    -82.525151,
+    27.337626
+],
+  "geometry": {"coordinates":[-82.52515099999999,27.337626],"type":"Point"}
 }

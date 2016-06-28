@@ -2,13 +2,14 @@
   "id": 304009397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453628,28.350523,-81.453628,28.350523",
     "geom:latitude":28.350523,
     "geom:longitude":-81.453628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4981 Brightmoor Cir",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304009397,
-    "wof:lastmodified":1449044152,
+    "wof:lastmodified":1466431973,
     "wof:name":"Gvc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.453628,28.350523,-81.453628,28.350523],
-  "geometry": {"coordinates":[-81.453628,28.350523],"type":"Point"}
+  "bbox": [
+    -81.453628,
+    28.350523,
+    -81.453628,
+    28.350523
+],
+  "geometry": {"coordinates":[-81.45362799999999,28.350523],"type":"Point"}
 }

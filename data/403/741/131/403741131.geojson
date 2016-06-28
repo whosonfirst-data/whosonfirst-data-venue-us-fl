@@ -2,13 +2,14 @@
   "id": 403741131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855685,30.066003,-81.855685,30.066003",
     "geom:latitude":30.066003,
     "geom:longitude":-81.855685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 Forest Dr",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403741131,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1466440188,
     "wof:name":"Larry's Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-81.855685,30.066003,-81.855685,30.066003],
-  "geometry": {"coordinates":[-81.855685,30.066003],"type":"Point"}
+  "bbox": [
+    -81.855685,
+    30.066003,
+    -81.855685,
+    30.066003
+],
+  "geometry": {"coordinates":[-81.85568499999999,30.066003],"type":"Point"}
 }

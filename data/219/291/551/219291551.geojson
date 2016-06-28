@@ -2,13 +2,14 @@
   "id": 219291551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.231845,30.488019,-84.231845,30.488019",
     "geom:latitude":30.488019,
     "geom:longitude":-84.231845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2663 Eddie Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219291551,
-    "wof:lastmodified":1449071483,
+    "wof:lastmodified":1466428647,
     "wof:name":"Mc Coys Conctrete Pumping Svc",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-84.231845,30.488019,-84.231845,30.488019],
-  "geometry": {"coordinates":[-84.231845,30.488019],"type":"Point"}
+  "bbox": [
+    -84.231845,
+    30.488019,
+    -84.231845,
+    30.488019
+],
+  "geometry": {"coordinates":[-84.23184500000001,30.488019],"type":"Point"}
 }

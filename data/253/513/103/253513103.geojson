@@ -2,13 +2,14 @@
   "id": 253513103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.880874,26.557642,-81.880874,26.557642",
     "geom:latitude":26.557642,
     "geom:longitude":-81.880874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12730 New Brittany Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253513103,
-    "wof:lastmodified":1449064792,
+    "wof:lastmodified":1466435840,
     "wof:name":"Brixton Development",
     "wof:parent_id":85888811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.880874,26.557642,-81.880874,26.557642],
-  "geometry": {"coordinates":[-81.880874,26.557642],"type":"Point"}
+  "bbox": [
+    -81.880874,
+    26.557642,
+    -81.880874,
+    26.557642
+],
+  "geometry": {"coordinates":[-81.88087400000001,26.557642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370840317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.453946,27.92908,-82.453946,27.92908",
     "geom:latitude":27.92908,
     "geom:longitude":-82.453946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Columbia Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370840317,
-    "wof:lastmodified":1449031722,
+    "wof:lastmodified":1466446730,
     "wof:name":"Flynn Inc",
     "wof:parent_id":85873213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-82.453946,27.92908,-82.453946,27.92908],
+  "bbox": [
+    -82.453946,
+    27.92908,
+    -82.453946,
+    27.92908
+],
   "geometry": {"coordinates":[-82.453946,27.92908],"type":"Point"}
 }

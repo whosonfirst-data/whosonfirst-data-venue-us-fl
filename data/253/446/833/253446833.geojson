@@ -2,13 +2,14 @@
   "id": 253446833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.270098,28.185425,-81.270098,28.185425",
     "geom:latitude":28.185425,
     "geom:longitude":-81.270098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Oakwood Dr",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253446833,
-    "wof:lastmodified":1449065535,
+    "wof:lastmodified":1466434671,
     "wof:name":"Fairmont Woodworks",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-81.270098,28.185425,-81.270098,28.185425],
+  "bbox": [
+    -81.270098,
+    28.185425,
+    -81.270098,
+    28.185425
+],
   "geometry": {"coordinates":[-81.270098,28.185425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320552077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.871845,26.55648,-81.871845,26.55648",
     "geom:latitude":26.55648,
     "geom:longitude":-81.871845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12875 Cleveland Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320552077,
-    "wof:lastmodified":1449012821,
+    "wof:lastmodified":1466442941,
     "wof:name":"KES Technologies",
     "wof:parent_id":85888833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.871845,26.55648,-81.871845,26.55648],
-  "geometry": {"coordinates":[-81.871845,26.55648],"type":"Point"}
+  "bbox": [
+    -81.871845,
+    26.55648,
+    -81.871845,
+    26.55648
+],
+  "geometry": {"coordinates":[-81.87184499999999,26.55648],"type":"Point"}
 }

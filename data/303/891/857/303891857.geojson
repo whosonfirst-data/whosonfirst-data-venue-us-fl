@@ -2,13 +2,14 @@
   "id": 303891857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.195596,30.511075,-87.195596,30.511075",
     "geom:latitude":30.511075,
     "geom:longitude":-87.195596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8189 Tippin Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303891857,
-    "wof:lastmodified":1448999595,
+    "wof:lastmodified":1466445909,
     "wof:name":"Mr Clean's Housewashing",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hanging"
     ]
 },
-  "bbox": [-87.195596,30.511075,-87.195596,30.511075],
-  "geometry": {"coordinates":[-87.195596,30.511075],"type":"Point"}
+  "bbox": [
+    -87.195596,
+    30.511075,
+    -87.195596,
+    30.511075
+],
+  "geometry": {"coordinates":[-87.19559599999999,30.511075],"type":"Point"}
 }

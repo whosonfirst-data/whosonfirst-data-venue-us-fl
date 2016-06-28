@@ -2,13 +2,14 @@
   "id": 370461821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258433,25.823309,-80.258433,25.823309",
     "geom:latitude":25.823309,
     "geom:longitude":-80.258433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3730 NW 54th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370461821,
-    "wof:lastmodified":1449030360,
+    "wof:lastmodified":1466441266,
     "wof:name":"Caribe Tiles",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile"
     ]
 },
-  "bbox": [-80.258433,25.823309,-80.258433,25.823309],
+  "bbox": [
+    -80.258433,
+    25.823309,
+    -80.258433,
+    25.823309
+],
   "geometry": {"coordinates":[-80.258433,25.823309],"type":"Point"}
 }

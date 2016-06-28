@@ -2,13 +2,14 @@
   "id": 203333545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.543524,30.176943,-81.543524,30.176943",
     "geom:latitude":30.176943,
     "geom:longitude":-81.543524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7583 Fawn Lake Dr S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203333545,
-    "wof:lastmodified":1449026743,
+    "wof:lastmodified":1466430581,
     "wof:name":"Bella Dolce",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.543524,30.176943,-81.543524,30.176943],
-  "geometry": {"coordinates":[-81.543524,30.176943],"type":"Point"}
+  "bbox": [
+    -81.543524,
+    30.176943,
+    -81.543524,
+    30.176943
+],
+  "geometry": {"coordinates":[-81.54352400000001,30.176943],"type":"Point"}
 }

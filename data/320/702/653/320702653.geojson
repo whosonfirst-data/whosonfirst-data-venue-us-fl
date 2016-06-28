@@ -2,13 +2,14 @@
   "id": 320702653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.945616,26.685351,-81.945616,26.685351",
     "geom:latitude":26.685351,
     "geom:longitude":-81.945616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 NE 17th Ter",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320702653,
-    "wof:lastmodified":1449013128,
+    "wof:lastmodified":1466445531,
     "wof:name":"Pressure Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.945616,26.685351,-81.945616,26.685351],
+  "bbox": [
+    -81.945616,
+    26.685351,
+    -81.945616,
+    26.685351
+],
   "geometry": {"coordinates":[-81.945616,26.685351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270136247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.899813,30.234166,-85.899813,30.234166",
     "geom:latitude":30.234166,
     "geom:longitude":-85.899813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17320 Panama City Beach Pkwy",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270136247,
-    "wof:lastmodified":1449011097,
+    "wof:lastmodified":1466431782,
     "wof:name":"Tandem",
     "wof:parent_id":85823335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.899813,30.234166,-85.899813,30.234166],
-  "geometry": {"coordinates":[-85.899813,30.234166],"type":"Point"}
+  "bbox": [
+    -85.899813,
+    30.234166,
+    -85.899813,
+    30.234166
+],
+  "geometry": {"coordinates":[-85.89981299999999,30.234166],"type":"Point"}
 }

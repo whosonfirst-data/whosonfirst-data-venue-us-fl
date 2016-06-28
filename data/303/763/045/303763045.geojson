@@ -2,13 +2,14 @@
   "id": 303763045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.069624,29.192069,-81.069624,29.192069",
     "geom:latitude":29.192069,
     "geom:longitude":-81.069624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 W International Speedway Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303763045,
-    "wof:lastmodified":1449000557,
+    "wof:lastmodified":1466443680,
     "wof:name":"Speedway Custom Photo Lab",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finishing"
     ]
 },
-  "bbox": [-81.069624,29.192069,-81.069624,29.192069],
+  "bbox": [
+    -81.069624,
+    29.192069,
+    -81.069624,
+    29.192069
+],
   "geometry": {"coordinates":[-81.069624,29.192069],"type":"Point"}
 }

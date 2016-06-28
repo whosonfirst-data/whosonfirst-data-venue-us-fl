@@ -2,13 +2,14 @@
   "id": 336641325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.142665,25.795009,-80.142665,25.795009",
     "geom:latitude":25.795009,
     "geom:longitude":-80.142665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1856 West Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":336641325,
-    "wof:lastmodified":1448997767,
+    "wof:lastmodified":1466435693,
     "wof:name":"Prop Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-80.142665,25.795009,-80.142665,25.795009],
-  "geometry": {"coordinates":[-80.142665,25.795009],"type":"Point"}
+  "bbox": [
+    -80.142665,
+    25.795009,
+    -80.142665,
+    25.795009
+],
+  "geometry": {"coordinates":[-80.14266499999999,25.795009],"type":"Point"}
 }

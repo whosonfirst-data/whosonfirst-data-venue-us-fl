@@ -2,13 +2,14 @@
   "id": 320409033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190525,25.892583,-80.190525,25.892583",
     "geom:latitude":25.892583,
     "geom:longitude":-80.190525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12825 NE 4th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320409033,
-    "wof:lastmodified":1449012800,
+    "wof:lastmodified":1466440400,
     "wof:name":"Alto Calibre Services",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.190525,25.892583,-80.190525,25.892583],
-  "geometry": {"coordinates":[-80.190525,25.892583],"type":"Point"}
+  "bbox": [
+    -80.190525,
+    25.892583,
+    -80.190525,
+    25.892583
+],
+  "geometry": {"coordinates":[-80.19052499999999,25.892583],"type":"Point"}
 }

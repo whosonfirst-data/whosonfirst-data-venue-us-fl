@@ -2,13 +2,14 @@
   "id": 203295281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220283,25.883432,-80.220283,25.883432",
     "geom:latitude":25.883432,
     "geom:longitude":-80.220283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 NW 119th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203295281,
-    "wof:lastmodified":1449025688,
+    "wof:lastmodified":1466430109,
     "wof:name":"Eben-Ezer Cleaners",
     "wof:parent_id":85833929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.220283,25.883432,-80.220283,25.883432],
-  "geometry": {"coordinates":[-80.220283,25.883432],"type":"Point"}
+  "bbox": [
+    -80.220283,
+    25.883432,
+    -80.220283,
+    25.883432
+],
+  "geometry": {"coordinates":[-80.22028299999999,25.883432],"type":"Point"}
 }

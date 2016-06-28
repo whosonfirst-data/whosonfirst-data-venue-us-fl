@@ -2,13 +2,14 @@
   "id": 219400347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.71702,28.803931,-81.71702,28.803931",
     "geom:latitude":28.803931,
     "geom:longitude":-81.71702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 E Alfred St",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219400347,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466430194,
     "wof:name":"Mainstreet Bakery & Cafe Inc",
     "wof:parent_id":85889833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.71702,28.803931,-81.71702,28.803931],
-  "geometry": {"coordinates":[-81.71702,28.803931],"type":"Point"}
+  "bbox": [
+    -81.71702,
+    28.803931,
+    -81.71702,
+    28.803931
+],
+  "geometry": {"coordinates":[-81.71702000000001,28.803931],"type":"Point"}
 }

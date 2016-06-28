@@ -2,13 +2,14 @@
   "id": 219302473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.310336,30.485432,-84.310336,30.485432",
     "geom:latitude":30.485432,
     "geom:longitude":-84.310336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Livingston Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219302473,
-    "wof:lastmodified":1449071592,
+    "wof:lastmodified":1466428799,
     "wof:name":"Fishperience LLC",
     "wof:parent_id":85881361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.310336,30.485432,-84.310336,30.485432],
-  "geometry": {"coordinates":[-84.310336,30.485432],"type":"Point"}
+  "bbox": [
+    -84.310336,
+    30.485432,
+    -84.310336,
+    30.485432
+],
+  "geometry": {"coordinates":[-84.31033600000001,30.485432],"type":"Point"}
 }

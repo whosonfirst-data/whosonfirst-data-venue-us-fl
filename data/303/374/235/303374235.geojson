@@ -2,13 +2,14 @@
   "id": 303374235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.034619,29.046383,-82.034619,29.046383",
     "geom:latitude":29.046383,
     "geom:longitude":-82.034619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12117 SE US Hwy 441",
     "sg:city":"Belleview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303374235,
-    "wof:lastmodified":1448999182,
+    "wof:lastmodified":1466436981,
     "wof:name":"Studio",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "casting"
     ]
 },
-  "bbox": [-82.034619,29.046383,-82.034619,29.046383],
-  "geometry": {"coordinates":[-82.034619,29.046383],"type":"Point"}
+  "bbox": [
+    -82.034619,
+    29.046383,
+    -82.034619,
+    29.046383
+],
+  "geometry": {"coordinates":[-82.03461900000001,29.046383],"type":"Point"}
 }

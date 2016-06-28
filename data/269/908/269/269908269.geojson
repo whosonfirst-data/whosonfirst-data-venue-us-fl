@@ -2,13 +2,14 @@
   "id": 269908269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.811009,28.610351,-80.811009,28.610351",
     "geom:latitude":28.610351,
     "geom:longitude":-80.811009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Pine St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269908269,
-    "wof:lastmodified":1449037496,
+    "wof:lastmodified":1466435972,
     "wof:name":"Florida East Coast RR",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-80.811009,28.610351,-80.811009,28.610351],
+  "bbox": [
+    -80.811009,
+    28.610351,
+    -80.811009,
+    28.610351
+],
   "geometry": {"coordinates":[-80.811009,28.610351],"type":"Point"}
 }

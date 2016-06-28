@@ -2,13 +2,14 @@
   "id": 370606021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047723,29.253619,-81.047723,29.253619",
     "geom:latitude":29.253619,
     "geom:longitude":-81.047723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1541 State Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370606021,
-    "wof:lastmodified":1449029614,
+    "wof:lastmodified":1466443463,
     "wof:name":"Daytona Helmets",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.047723,29.253619,-81.047723,29.253619],
+  "bbox": [
+    -81.047723,
+    29.253619,
+    -81.047723,
+    29.253619
+],
   "geometry": {"coordinates":[-81.047723,29.253619],"type":"Point"}
 }

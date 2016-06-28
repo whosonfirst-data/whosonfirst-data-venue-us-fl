@@ -2,13 +2,14 @@
   "id": 303292867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.726216,28.330815,-80.726216,28.330815",
     "geom:latitude":28.330815,
     "geom:longitude":-80.726216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Barton Blvd",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303292867,
-    "wof:lastmodified":1448998323,
+    "wof:lastmodified":1466435588,
     "wof:name":"Wuesthoff Medical Equipment",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "provides"
     ]
 },
-  "bbox": [-80.726216,28.330815,-80.726216,28.330815],
-  "geometry": {"coordinates":[-80.726216,28.330815],"type":"Point"}
+  "bbox": [
+    -80.726216,
+    28.330815,
+    -80.726216,
+    28.330815
+],
+  "geometry": {"coordinates":[-80.72621599999999,28.330815],"type":"Point"}
 }

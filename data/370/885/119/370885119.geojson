@@ -2,13 +2,14 @@
   "id": 370885119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.576313,30.172457,-81.576313,30.172457",
     "geom:latitude":30.172457,
     "geom:longitude":-81.576313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5131 Losco Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370885119,
-    "wof:lastmodified":1449030876,
+    "wof:lastmodified":1466447371,
     "wof:name":"Mmm of Jacksonville",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.576313,30.172457,-81.576313,30.172457],
+  "bbox": [
+    -81.576313,
+    30.172457,
+    -81.576313,
+    30.172457
+],
   "geometry": {"coordinates":[-81.576313,30.172457],"type":"Point"}
 }

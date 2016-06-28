@@ -2,13 +2,14 @@
   "id": 236042353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.303463,29.002578,-81.303463,29.002578",
     "geom:latitude":29.002578,
     "geom:longitude":-81.303463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Chipola Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236042353,
-    "wof:lastmodified":1449004288,
+    "wof:lastmodified":1466428981,
     "wof:name":"Woodland Towers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "home"
     ]
 },
-  "bbox": [-81.303463,29.002578,-81.303463,29.002578],
-  "geometry": {"coordinates":[-81.303463,29.002578],"type":"Point"}
+  "bbox": [
+    -81.303463,
+    29.002578,
+    -81.303463,
+    29.002578
+],
+  "geometry": {"coordinates":[-81.30346299999999,29.002578],"type":"Point"}
 }

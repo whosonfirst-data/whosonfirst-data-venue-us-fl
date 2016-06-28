@@ -2,13 +2,14 @@
   "id": 387438823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527291,28.06942,-82.527291,28.06942",
     "geom:latitude":28.06942,
     "geom:longitude":-82.527291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13044 Delwood Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387438823,
-    "wof:lastmodified":1449057390,
+    "wof:lastmodified":1466445423,
     "wof:name":"A American Building Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.527291,28.06942,-82.527291,28.06942],
-  "geometry": {"coordinates":[-82.527291,28.06942],"type":"Point"}
+  "bbox": [
+    -82.527291,
+    28.06942,
+    -82.527291,
+    28.06942
+],
+  "geometry": {"coordinates":[-82.52729100000001,28.06942],"type":"Point"}
 }

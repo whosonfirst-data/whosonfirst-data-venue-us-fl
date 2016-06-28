@@ -2,13 +2,14 @@
   "id": 370560837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.723233,28.331522,-80.723233,28.331522",
     "geom:latitude":28.331522,
     "geom:longitude":-80.723233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N US Hwy 1",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370560837,
-    "wof:lastmodified":1449031679,
+    "wof:lastmodified":1466442784,
     "wof:name":"Stop & Save",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.723233,28.331522,-80.723233,28.331522],
-  "geometry": {"coordinates":[-80.723233,28.331522],"type":"Point"}
+  "bbox": [
+    -80.723233,
+    28.331522,
+    -80.723233,
+    28.331522
+],
+  "geometry": {"coordinates":[-80.72323299999999,28.331522],"type":"Point"}
 }

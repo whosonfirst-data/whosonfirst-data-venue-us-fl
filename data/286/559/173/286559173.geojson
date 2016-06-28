@@ -2,13 +2,14 @@
   "id": 286559173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.664504,28.390087,-80.664504,28.390087",
     "geom:latitude":28.390087,
     "geom:longitude":-80.664504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Larchmont Ct",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286559173,
-    "wof:lastmodified":1449017484,
+    "wof:lastmodified":1466434824,
     "wof:name":"Flamingo Software",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-80.664504,28.390087,-80.664504,28.390087],
-  "geometry": {"coordinates":[-80.664504,28.390087],"type":"Point"}
+  "bbox": [
+    -80.664504,
+    28.390087,
+    -80.664504,
+    28.390087
+],
+  "geometry": {"coordinates":[-80.66450399999999,28.390087],"type":"Point"}
 }

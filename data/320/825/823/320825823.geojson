@@ -2,13 +2,14 @@
   "id": 320825823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.689569,27.822957,-82.689569,27.822957",
     "geom:latitude":27.822957,
     "geom:longitude":-82.689569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 56th Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320825823,
-    "wof:lastmodified":1449011409,
+    "wof:lastmodified":1466447116,
     "wof:name":"Lealman Fire & Rescue",
     "wof:parent_id":85889521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.689569,27.822957,-82.689569,27.822957],
-  "geometry": {"coordinates":[-82.689569,27.822957],"type":"Point"}
+  "bbox": [
+    -82.689569,
+    27.822957,
+    -82.689569,
+    27.822957
+],
+  "geometry": {"coordinates":[-82.68956900000001,27.822957],"type":"Point"}
 }

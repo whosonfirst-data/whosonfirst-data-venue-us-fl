@@ -2,13 +2,14 @@
   "id": 320292445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.382952,28.661755,-81.382952,28.661755",
     "geom:latitude":28.661755,
     "geom:longitude":-81.382952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Altamonte Springs Dr",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320292445,
-    "wof:lastmodified":1449011559,
+    "wof:lastmodified":1466438384,
     "wof:name":"Altamonte Springs Police Chief",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.382952,28.661755,-81.382952,28.661755],
+  "bbox": [
+    -81.382952,
+    28.661755,
+    -81.382952,
+    28.661755
+],
   "geometry": {"coordinates":[-81.382952,28.661755],"type":"Point"}
 }

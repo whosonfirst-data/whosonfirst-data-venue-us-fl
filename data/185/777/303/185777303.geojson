@@ -2,13 +2,14 @@
   "id": 185777303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.561022,30.157822,-81.561022,30.157822",
     "geom:latitude":30.157822,
     "geom:longitude":-81.561022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 Alden Bridge Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185777303,
-    "wof:lastmodified":1449007470,
+    "wof:lastmodified":1466428754,
     "wof:name":"Doc At Your Door",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.561022,30.157822,-81.561022,30.157822],
-  "geometry": {"coordinates":[-81.561022,30.157822],"type":"Point"}
+  "bbox": [
+    -81.561022,
+    30.157822,
+    -81.561022,
+    30.157822
+],
+  "geometry": {"coordinates":[-81.56102199999999,30.157822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202693133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314242,29.89348,-81.314242,29.89348",
     "geom:latitude":29.89348,
     "geom:longitude":-81.314242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Cordova St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202693133,
-    "wof:lastmodified":1449060252,
+    "wof:lastmodified":1466430900,
     "wof:name":"Drew Forest Chemical Lab",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.314242,29.89348,-81.314242,29.89348],
-  "geometry": {"coordinates":[-81.314242,29.89348],"type":"Point"}
+  "bbox": [
+    -81.314242,
+    29.89348,
+    -81.314242,
+    29.89348
+],
+  "geometry": {"coordinates":[-81.31424199999999,29.89348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370173601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.685969,30.438966,-81.685969,30.438966",
     "geom:latitude":30.438966,
     "geom:longitude":-81.685969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Dunn Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370173601,
-    "wof:lastmodified":1449029742,
+    "wof:lastmodified":1466436805,
     "wof:name":"North Lake Apartments",
     "wof:parent_id":85821005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.685969,30.438966,-81.685969,30.438966],
+  "bbox": [
+    -81.685969,
+    30.438966,
+    -81.685969,
+    30.438966
+],
   "geometry": {"coordinates":[-81.685969,30.438966],"type":"Point"}
 }

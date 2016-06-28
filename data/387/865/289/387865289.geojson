@@ -2,13 +2,14 @@
   "id": 387865289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.310707,25.675563,-80.310707,25.675563",
     "geom:latitude":25.675563,
     "geom:longitude":-80.310707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10251 SW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387865289,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1466449244,
     "wof:name":"Constantino Costarangos MD",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.310707,25.675563,-80.310707,25.675563],
-  "geometry": {"coordinates":[-80.310707,25.675563],"type":"Point"}
+  "bbox": [
+    -80.310707,
+    25.675563,
+    -80.310707,
+    25.675563
+],
+  "geometry": {"coordinates":[-80.31070699999999,25.675563],"type":"Point"}
 }

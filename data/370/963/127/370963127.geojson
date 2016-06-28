@@ -2,13 +2,14 @@
   "id": 370963127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.358928,29.622835,-82.358928,29.622835",
     "geom:latitude":29.622835,
     "geom:longitude":-82.358928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 SW 31 Pl",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370963127,
-    "wof:lastmodified":1449029412,
+    "wof:lastmodified":1466447824,
     "wof:name":"Phoenix Laundry",
     "wof:parent_id":85877637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.358928,29.622835,-82.358928,29.622835],
-  "geometry": {"coordinates":[-82.358928,29.622835],"type":"Point"}
+  "bbox": [
+    -82.358928,
+    29.622835,
+    -82.358928,
+    29.622835
+],
+  "geometry": {"coordinates":[-82.35892800000001,29.622835],"type":"Point"}
 }

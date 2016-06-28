@@ -2,13 +2,14 @@
   "id": 202610347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523984,27.945878,-82.523984,27.945878",
     "geom:latitude":27.945878,
     "geom:longitude":-82.523984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 W North A St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":202610347,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1466429807,
     "wof:name":"Bert Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.523984,27.945878,-82.523984,27.945878],
+  "bbox": [
+    -82.523984,
+    27.945878,
+    -82.523984,
+    27.945878
+],
   "geometry": {"coordinates":[-82.523984,27.945878],"type":"Point"}
 }

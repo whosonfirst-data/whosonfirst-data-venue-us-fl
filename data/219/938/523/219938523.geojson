@@ -2,13 +2,14 @@
   "id": 219938523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.630722,27.756399,-82.630722,27.756399",
     "geom:latitude":27.756399,
     "geom:longitude":-82.630722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Beach Dr SE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219938523,
-    "wof:lastmodified":1449073032,
+    "wof:lastmodified":1466437351,
     "wof:name":"US Army Reserve Training",
     "wof:parent_id":85881939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-82.630722,27.756399,-82.630722,27.756399],
-  "geometry": {"coordinates":[-82.630722,27.756399],"type":"Point"}
+  "bbox": [
+    -82.630722,
+    27.756399,
+    -82.630722,
+    27.756399
+],
+  "geometry": {"coordinates":[-82.63072200000001,27.756399],"type":"Point"}
 }

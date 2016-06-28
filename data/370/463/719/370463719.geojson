@@ -2,13 +2,14 @@
   "id": 370463719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.286325,30.474409,-84.286325,30.474409",
     "geom:latitude":30.474409,
     "geom:longitude":-84.286325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 John Knox Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370463719,
-    "wof:lastmodified":1449031434,
+    "wof:lastmodified":1466441297,
     "wof:name":"A D Platt & Assoc Inc",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-84.286325,30.474409,-84.286325,30.474409],
-  "geometry": {"coordinates":[-84.286325,30.474409],"type":"Point"}
+  "bbox": [
+    -84.286325,
+    30.474409,
+    -84.286325,
+    30.474409
+],
+  "geometry": {"coordinates":[-84.28632500000001,30.474409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219171043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.315806,29.774184,-81.315806,29.774184",
     "geom:latitude":29.774184,
     "geom:longitude":-81.315806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6144 US Hwy 1 S",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219171043,
-    "wof:lastmodified":1449073935,
+    "wof:lastmodified":1466442534,
     "wof:name":"John Moser Lawn Furniture",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.315806,29.774184,-81.315806,29.774184],
-  "geometry": {"coordinates":[-81.315806,29.774184],"type":"Point"}
+  "bbox": [
+    -81.315806,
+    29.774184,
+    -81.315806,
+    29.774184
+],
+  "geometry": {"coordinates":[-81.31580599999999,29.774184],"type":"Point"}
 }

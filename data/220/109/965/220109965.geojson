@@ -2,13 +2,14 @@
   "id": 220109965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101593,26.167643,-80.101593,26.167643",
     "geom:latitude":26.167643,
     "geom:longitude":-80.101593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220109965,
-    "wof:lastmodified":1449074294,
+    "wof:lastmodified":1466446204,
     "wof:name":"Rising Sun Consulting",
     "wof:parent_id":85881959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.101593,26.167643,-80.101593,26.167643],
-  "geometry": {"coordinates":[-80.101593,26.167643],"type":"Point"}
+  "bbox": [
+    -80.101593,
+    26.167643,
+    -80.101593,
+    26.167643
+],
+  "geometry": {"coordinates":[-80.10159299999999,26.167643],"type":"Point"}
 }

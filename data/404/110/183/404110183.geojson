@@ -2,13 +2,14 @@
   "id": 404110183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.411141,29.266222,-82.411141,29.266222",
     "geom:latitude":29.266222,
     "geom:longitude":-82.411141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4450 SE 216 Ave",
     "sg:city":"Morriston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404110183,
-    "wof:lastmodified":1449039409,
+    "wof:lastmodified":1466441940,
     "wof:name":"Training Threshold",
     "wof:parent_id":85823917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-82.411141,29.266222,-82.411141,29.266222],
+  "bbox": [
+    -82.411141,
+    29.266222,
+    -82.411141,
+    29.266222
+],
   "geometry": {"coordinates":[-82.411141,29.266222],"type":"Point"}
 }

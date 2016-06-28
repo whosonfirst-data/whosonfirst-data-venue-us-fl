@@ -2,13 +2,14 @@
   "id": 236005031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.219901,30.414769,-87.219901,30.414769",
     "geom:latitude":30.414769,
     "geom:longitude":-87.219901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Gregory St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236005031,
-    "wof:lastmodified":1449004928,
+    "wof:lastmodified":1466428450,
     "wof:name":"West Florida Regional Lib Sys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-87.219901,30.414769,-87.219901,30.414769],
-  "geometry": {"coordinates":[-87.219901,30.414769],"type":"Point"}
+  "bbox": [
+    -87.219901,
+    30.414769,
+    -87.219901,
+    30.414769
+],
+  "geometry": {"coordinates":[-87.21990099999999,30.414769],"type":"Point"}
 }

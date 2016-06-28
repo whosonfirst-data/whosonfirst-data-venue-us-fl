@@ -2,13 +2,14 @@
   "id": 371143963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.576255,30.319098,-81.576255,30.319098",
     "geom:latitude":30.319098,
     "geom:longitude":-81.576255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7506 Galveston Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371143963,
-    "wof:lastmodified":1449049936,
+    "wof:lastmodified":1466439761,
     "wof:name":"Saliba Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.576255,30.319098,-81.576255,30.319098],
+  "bbox": [
+    -81.576255,
+    30.319098,
+    -81.576255,
+    30.319098
+],
   "geometry": {"coordinates":[-81.576255,30.319098],"type":"Point"}
 }

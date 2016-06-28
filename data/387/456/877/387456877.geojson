@@ -2,13 +2,14 @@
   "id": 387456877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951433,26.562663,-81.951433,26.562663",
     "geom:latitude":26.562663,
     "geom:longitude":-81.951433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 E Cape Coral Pkwy",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387456877,
-    "wof:lastmodified":1449057233,
+    "wof:lastmodified":1466445712,
     "wof:name":"Linda Gosey DC PA",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951433,26.562663,-81.951433,26.562663],
-  "geometry": {"coordinates":[-81.951433,26.562663],"type":"Point"}
+  "bbox": [
+    -81.951433,
+    26.562663,
+    -81.951433,
+    26.562663
+],
+  "geometry": {"coordinates":[-81.95143299999999,26.562663],"type":"Point"}
 }

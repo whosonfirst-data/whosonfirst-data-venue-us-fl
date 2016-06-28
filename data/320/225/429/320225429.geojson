@@ -2,13 +2,14 @@
   "id": 320225429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.598524,28.138482,-80.598524,28.138482",
     "geom:latitude":28.138482,
     "geom:longitude":-80.598524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 E Eau Gallie Blvd",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320225429,
-    "wof:lastmodified":1449012436,
+    "wof:lastmodified":1466437242,
     "wof:name":"Pinch A Penny",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.598524,28.138482,-80.598524,28.138482],
+  "bbox": [
+    -80.598524,
+    28.138482,
+    -80.598524,
+    28.138482
+],
   "geometry": {"coordinates":[-80.598524,28.138482],"type":"Point"}
 }

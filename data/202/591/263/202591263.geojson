@@ -2,13 +2,14 @@
   "id": 202591263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146526,26.032678,-80.146526,26.032678",
     "geom:latitude":26.032678,
     "geom:longitude":-80.146526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 Sherman St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202591263,
-    "wof:lastmodified":1449061471,
+    "wof:lastmodified":1466429569,
     "wof:name":"Sara USA Inc",
     "wof:parent_id":85878181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.146526,26.032678,-80.146526,26.032678],
-  "geometry": {"coordinates":[-80.146526,26.032678],"type":"Point"}
+  "bbox": [
+    -80.146526,
+    26.032678,
+    -80.146526,
+    26.032678
+],
+  "geometry": {"coordinates":[-80.14652599999999,26.032678],"type":"Point"}
 }

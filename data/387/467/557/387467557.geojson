@@ -2,13 +2,14 @@
   "id": 387467557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211163,26.39376,-80.211163,26.39376",
     "geom:latitude":26.39376,
     "geom:longitude":-80.211163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10075 Yamato Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387467557,
-    "wof:lastmodified":1449059099,
+    "wof:lastmodified":1466445868,
     "wof:name":"Yogurt & Ice Cream",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-80.211163,26.39376,-80.211163,26.39376],
+  "bbox": [
+    -80.211163,
+    26.39376,
+    -80.211163,
+    26.39376
+],
   "geometry": {"coordinates":[-80.211163,26.39376],"type":"Point"}
 }

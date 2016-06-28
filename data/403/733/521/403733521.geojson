@@ -2,13 +2,14 @@
   "id": 403733521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686912,28.038879,-80.686912,28.038879",
     "geom:latitude":28.038879,
     "geom:longitude":-80.686912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3775 Hield Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403733521,
-    "wof:lastmodified":1449054806,
+    "wof:lastmodified":1466440072,
     "wof:name":"Jeff Citrus",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fruit"
     ]
 },
-  "bbox": [-80.686912,28.038879,-80.686912,28.038879],
-  "geometry": {"coordinates":[-80.686912,28.038879],"type":"Point"}
+  "bbox": [
+    -80.686912,
+    28.038879,
+    -80.686912,
+    28.038879
+],
+  "geometry": {"coordinates":[-80.68691200000001,28.038879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404118521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.608728,28.076552,-80.608728,28.076552",
     "geom:latitude":28.076552,
     "geom:longitude":-80.608728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Grant Pl",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404118521,
-    "wof:lastmodified":1449040070,
+    "wof:lastmodified":1466442076,
     "wof:name":"Tom Groark Advertising",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-80.608728,28.076552,-80.608728,28.076552],
+  "bbox": [
+    -80.608728,
+    28.076552,
+    -80.608728,
+    28.076552
+],
   "geometry": {"coordinates":[-80.608728,28.076552],"type":"Point"}
 }

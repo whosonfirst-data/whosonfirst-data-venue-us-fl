@@ -2,13 +2,14 @@
   "id": 387869905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.631741,27.869571,-82.631741,27.869571",
     "geom:latitude":27.869571,
     "geom:longitude":-82.631741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10590 Oak St NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387869905,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1466449274,
     "wof:name":"Accu-Sink",
     "wof:parent_id":85880531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-82.631741,27.869571,-82.631741,27.869571],
-  "geometry": {"coordinates":[-82.631741,27.869571],"type":"Point"}
+  "bbox": [
+    -82.631741,
+    27.869571,
+    -82.631741,
+    27.869571
+],
+  "geometry": {"coordinates":[-82.63174100000001,27.869571],"type":"Point"}
 }

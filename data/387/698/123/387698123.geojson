@@ -2,13 +2,14 @@
   "id": 387698123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.203021,25.801284,-80.203021,25.801284",
     "geom:latitude":25.801284,
     "geom:longitude":-80.203021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 NW 26th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387698123,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1466448102,
     "wof:name":"Miami Bias",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "belt"
     ]
 },
-  "bbox": [-80.203021,25.801284,-80.203021,25.801284],
-  "geometry": {"coordinates":[-80.203021,25.801284],"type":"Point"}
+  "bbox": [
+    -80.203021,
+    25.801284,
+    -80.203021,
+    25.801284
+],
+  "geometry": {"coordinates":[-80.20302100000001,25.801284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353494019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.330046,29.890602,-81.330046,29.890602",
     "geom:latitude":29.890602,
     "geom:longitude":-81.330046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 W King St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353494019,
-    "wof:lastmodified":1449020525,
+    "wof:lastmodified":1466436048,
     "wof:name":"St Augustine Water Plant",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.330046,29.890602,-81.330046,29.890602],
+  "bbox": [
+    -81.330046,
+    29.890602,
+    -81.330046,
+    29.890602
+],
   "geometry": {"coordinates":[-81.330046,29.890602],"type":"Point"}
 }

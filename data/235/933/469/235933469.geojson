@@ -2,13 +2,14 @@
   "id": 235933469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.569808,30.271377,-81.569808,30.271377",
     "geom:latitude":30.271377,
     "geom:longitude":-81.569808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8337 Lakemont Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235933469,
-    "wof:lastmodified":1449008331,
+    "wof:lastmodified":1466428430,
     "wof:name":"C Fleck Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.569808,30.271377,-81.569808,30.271377],
-  "geometry": {"coordinates":[-81.569808,30.271377],"type":"Point"}
+  "bbox": [
+    -81.569808,
+    30.271377,
+    -81.569808,
+    30.271377
+],
+  "geometry": {"coordinates":[-81.56980799999999,30.271377],"type":"Point"}
 }

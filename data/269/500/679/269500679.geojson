@@ -2,13 +2,14 @@
   "id": 269500679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.60326,28.159672,-80.60326,28.159672",
     "geom:latitude":28.159672,
     "geom:longitude":-80.60326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 S Patrick Dr",
     "sg:city":"Indian Hrbr Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269500679,
-    "wof:lastmodified":1449036755,
+    "wof:lastmodified":1466428785,
     "wof:name":"Lamb Shoppe Haven Thrift Store",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-80.60326,28.159672,-80.60326,28.159672],
-  "geometry": {"coordinates":[-80.60326,28.159672],"type":"Point"}
+  "bbox": [
+    -80.60326,
+    28.159672,
+    -80.60326,
+    28.159672
+],
+  "geometry": {"coordinates":[-80.60326000000001,28.159672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202680251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599142,30.467978,-81.599142,30.467978",
     "geom:latitude":30.467978,
     "geom:longitude":-81.599142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 New Berlin Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202680251,
-    "wof:lastmodified":1449061872,
+    "wof:lastmodified":1466430728,
     "wof:name":"Wallace Fletcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.599142,30.467978,-81.599142,30.467978],
+  "bbox": [
+    -81.599142,
+    30.467978,
+    -81.599142,
+    30.467978
+],
   "geometry": {"coordinates":[-81.599142,30.467978],"type":"Point"}
 }

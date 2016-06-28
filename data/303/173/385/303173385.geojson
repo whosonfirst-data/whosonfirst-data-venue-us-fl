@@ -2,13 +2,14 @@
   "id": 303173385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322264,29.829359,-81.322264,29.829359",
     "geom:latitude":29.829359,
     "geom:longitude":-81.322264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 US Hwy 1 S",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303173385,
-    "wof:lastmodified":1448998587,
+    "wof:lastmodified":1466433524,
     "wof:name":"Watson Property Management",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.322264,29.829359,-81.322264,29.829359],
+  "bbox": [
+    -81.322264,
+    29.829359,
+    -81.322264,
+    29.829359
+],
   "geometry": {"coordinates":[-81.322264,29.829359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287055591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679289,27.777383,-82.679289,27.777383",
     "geom:latitude":27.777383,
     "geom:longitude":-82.679289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 5th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287055591,
-    "wof:lastmodified":1449000859,
+    "wof:lastmodified":1466430784,
     "wof:name":"Watson Food Town",
     "wof:parent_id":85880537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.679289,27.777383,-82.679289,27.777383],
+  "bbox": [
+    -82.679289,
+    27.777383,
+    -82.679289,
+    27.777383
+],
   "geometry": {"coordinates":[-82.679289,27.777383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169807031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426093,28.06561,-82.426093,28.06561",
     "geom:latitude":28.06561,
     "geom:longitude":-82.426093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13201 Bruce B Downs Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169807031,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1466429099,
     "wof:name":"Stuart M Brooks MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.426093,28.06561,-82.426093,28.06561],
-  "geometry": {"coordinates":[-82.426093,28.06561],"type":"Point"}
+  "bbox": [
+    -82.426093,
+    28.06561,
+    -82.426093,
+    28.06561
+],
+  "geometry": {"coordinates":[-82.42609299999999,28.06561],"type":"Point"}
 }

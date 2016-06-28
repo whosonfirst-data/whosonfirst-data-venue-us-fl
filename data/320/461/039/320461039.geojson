@@ -2,13 +2,14 @@
   "id": 320461039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.638597,27.825994,-82.638597,27.825994",
     "geom:latitude":27.825994,
     "geom:longitude":-82.638597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 4th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320461039,
-    "wof:lastmodified":1449012690,
+    "wof:lastmodified":1466441327,
     "wof:name":"Joe's Fresh Produce",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-82.638597,27.825994,-82.638597,27.825994],
+  "bbox": [
+    -82.638597,
+    27.825994,
+    -82.638597,
+    27.825994
+],
   "geometry": {"coordinates":[-82.638597,27.825994],"type":"Point"}
 }

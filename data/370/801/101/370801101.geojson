@@ -2,13 +2,14 @@
   "id": 370801101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.600283,28.400727,-80.600283,28.400727",
     "geom:latitude":28.400727,
     "geom:longitude":-80.600283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Seaport Blvd",
     "sg:city":"Cape Canaveral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370801101,
-    "wof:lastmodified":1449031877,
+    "wof:lastmodified":1466446558,
     "wof:name":"Falmouth Scientific Inc",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-80.600283,28.400727,-80.600283,28.400727],
+  "bbox": [
+    -80.600283,
+    28.400727,
+    -80.600283,
+    28.400727
+],
   "geometry": {"coordinates":[-80.600283,28.400727],"type":"Point"}
 }

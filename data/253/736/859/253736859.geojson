@@ -2,13 +2,14 @@
   "id": 253736859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.953379,28.069704,-81.953379,28.069704",
     "geom:latitude":28.069704,
     "geom:longitude":-81.953379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Lakeland Hills Blvd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253736859,
-    "wof:lastmodified":1449065781,
+    "wof:lastmodified":1466439836,
     "wof:name":"Watson Clinic LLP",
     "wof:parent_id":85889067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.953379,28.069704,-81.953379,28.069704],
+  "bbox": [
+    -81.953379,
+    28.069704,
+    -81.953379,
+    28.069704
+],
   "geometry": {"coordinates":[-81.953379,28.069704],"type":"Point"}
 }

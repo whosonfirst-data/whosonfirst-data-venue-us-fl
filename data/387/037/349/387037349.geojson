@@ -2,13 +2,14 @@
   "id": 387037349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545392,30.286601,-81.545392,30.286601",
     "geom:latitude":30.286601,
     "geom:longitude":-81.545392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10256 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387037349,
-    "wof:lastmodified":1449059987,
+    "wof:lastmodified":1466439281,
     "wof:name":"Veloz Auto & Truck Acces",
     "wof:parent_id":85804135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.545392,30.286601,-81.545392,30.286601],
-  "geometry": {"coordinates":[-81.545392,30.286601],"type":"Point"}
+  "bbox": [
+    -81.545392,
+    30.286601,
+    -81.545392,
+    30.286601
+],
+  "geometry": {"coordinates":[-81.54539200000001,30.286601],"type":"Point"}
 }

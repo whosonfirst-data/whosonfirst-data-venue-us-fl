@@ -2,13 +2,14 @@
   "id": 220071795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670899,27.958777,-80.670899,27.958777",
     "geom:latitude":27.958777,
     "geom:longitude":-80.670899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Elmhurst Cir SE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220071795,
-    "wof:lastmodified":1449074551,
+    "wof:lastmodified":1466445240,
     "wof:name":"MPI Medical Products Inc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.670899,27.958777,-80.670899,27.958777],
-  "geometry": {"coordinates":[-80.670899,27.958777],"type":"Point"}
+  "bbox": [
+    -80.670899,
+    27.958777,
+    -80.670899,
+    27.958777
+],
+  "geometry": {"coordinates":[-80.67089900000001,27.958777],"type":"Point"}
 }

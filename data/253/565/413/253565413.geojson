@@ -2,13 +2,14 @@
   "id": 253565413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123883,25.870563,-80.123883,25.870563",
     "geom:latitude":25.870563,
     "geom:longitude":-80.123883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 Byron Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253565413,
-    "wof:lastmodified":1449065522,
+    "wof:lastmodified":1466436790,
     "wof:name":"Colonade Bay Condo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.123883,25.870563,-80.123883,25.870563],
-  "geometry": {"coordinates":[-80.123883,25.870563],"type":"Point"}
+  "bbox": [
+    -80.123883,
+    25.870563,
+    -80.123883,
+    25.870563
+],
+  "geometry": {"coordinates":[-80.12388300000001,25.870563],"type":"Point"}
 }

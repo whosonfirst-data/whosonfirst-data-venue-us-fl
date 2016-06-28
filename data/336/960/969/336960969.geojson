@@ -2,13 +2,14 @@
   "id": 336960969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206303,26.332121,-80.206303,26.332121",
     "geom:latitude":26.332121,
     "geom:longitude":-80.206303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10157 Serene Meadow Dr N",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336960969,
-    "wof:lastmodified":1448997702,
+    "wof:lastmodified":1466441197,
     "wof:name":"Pfl",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.206303,26.332121,-80.206303,26.332121],
-  "geometry": {"coordinates":[-80.206303,26.332121],"type":"Point"}
+  "bbox": [
+    -80.206303,
+    26.332121,
+    -80.206303,
+    26.332121
+],
+  "geometry": {"coordinates":[-80.20630300000001,26.332121],"type":"Point"}
 }

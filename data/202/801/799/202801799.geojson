@@ -2,13 +2,14 @@
   "id": 202801799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.722618,28.011294,-81.722618,28.011294",
     "geom:latitude":28.011294,
     "geom:longitude":-81.722618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Ave K SE",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202801799,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466432281,
     "wof:name":"Internal Medicine Group",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.722618,28.011294,-81.722618,28.011294],
+  "bbox": [
+    -81.722618,
+    28.011294,
+    -81.722618,
+    28.011294
+],
   "geometry": {"coordinates":[-81.722618,28.011294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370510559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.512556,28.486289,-81.512556,28.486289",
     "geom:latitude":28.486289,
     "geom:longitude":-81.512556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9462 Woodbreeze Blvd",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370510559,
-    "wof:lastmodified":1449031118,
+    "wof:lastmodified":1466442003,
     "wof:name":"Access Jmc Vending Inc",
     "wof:parent_id":85889429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-81.512556,28.486289,-81.512556,28.486289],
+  "bbox": [
+    -81.512556,
+    28.486289,
+    -81.512556,
+    28.486289
+],
   "geometry": {"coordinates":[-81.512556,28.486289],"type":"Point"}
 }

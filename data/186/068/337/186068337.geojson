@@ -2,13 +2,14 @@
   "id": 186068337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.127874,30.806987,-87.127874,30.806987",
     "geom:latitude":30.806987,
     "geom:longitude":-87.127874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4575 J Barlow Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186068337,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466444639,
     "wof:name":"Barlows Water Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-87.127874,30.806987,-87.127874,30.806987],
-  "geometry": {"coordinates":[-87.127874,30.806987],"type":"Point"}
+  "bbox": [
+    -87.127874,
+    30.806987,
+    -87.127874,
+    30.806987
+],
+  "geometry": {"coordinates":[-87.12787400000001,30.806987],"type":"Point"}
 }

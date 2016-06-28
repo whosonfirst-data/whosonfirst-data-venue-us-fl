@@ -2,13 +2,14 @@
   "id": 253010299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746612,28.331119,-80.746612,28.331119",
     "geom:latitude":28.331119,
     "geom:longitude":-80.746612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Fairlawn Dr",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253010299,
-    "wof:lastmodified":1449064657,
+    "wof:lastmodified":1466428618,
     "wof:name":"Airport Engineering Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.746612,28.331119,-80.746612,28.331119],
+  "bbox": [
+    -80.746612,
+    28.331119,
+    -80.746612,
+    28.331119
+],
   "geometry": {"coordinates":[-80.746612,28.331119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186368069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317619,27.258074,-80.317619,27.258074",
     "geom:latitude":27.258074,
     "geom:longitude":-80.317619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 SE Pruitt Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186368069,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466431121,
     "wof:name":"Champs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.317619,27.258074,-80.317619,27.258074],
-  "geometry": {"coordinates":[-80.317619,27.258074],"type":"Point"}
+  "bbox": [
+    -80.317619,
+    27.258074,
+    -80.317619,
+    27.258074
+],
+  "geometry": {"coordinates":[-80.31761899999999,27.258074],"type":"Point"}
 }

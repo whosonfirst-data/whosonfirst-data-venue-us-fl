@@ -2,13 +2,14 @@
   "id": 219649451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.633601,28.318322,-80.633601,28.318322",
     "geom:latitude":28.318322,
     "geom:longitude":-80.633601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Tom Warriner Blvd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219649451,
-    "wof:lastmodified":1449072791,
+    "wof:lastmodified":1466433431,
     "wof:name":"Cocoa Beach Tennis Club",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-80.633601,28.318322,-80.633601,28.318322],
+  "bbox": [
+    -80.633601,
+    28.318322,
+    -80.633601,
+    28.318322
+],
   "geometry": {"coordinates":[-80.633601,28.318322],"type":"Point"}
 }

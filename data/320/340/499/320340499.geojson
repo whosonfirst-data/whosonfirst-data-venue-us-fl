@@ -2,13 +2,14 @@
   "id": 320340499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040569,29.222501,-81.040569,29.222501",
     "geom:latitude":29.222501,
     "geom:longitude":-81.040569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Mason Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320340499,
-    "wof:lastmodified":1449014116,
+    "wof:lastmodified":1466439218,
     "wof:name":"Corner",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-81.040569,29.222501,-81.040569,29.222501],
+  "bbox": [
+    -81.040569,
+    29.222501,
+    -81.040569,
+    29.222501
+],
   "geometry": {"coordinates":[-81.040569,29.222501],"type":"Point"}
 }

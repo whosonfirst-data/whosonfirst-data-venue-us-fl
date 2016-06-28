@@ -2,13 +2,14 @@
   "id": 336865857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.302605,26.148128,-80.302605,26.148128",
     "geom:latitude":26.148128,
     "geom:longitude":-80.302605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11500 NW 18th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336865857,
-    "wof:lastmodified":1448997759,
+    "wof:lastmodified":1466439616,
     "wof:name":"Hals Sprinkler Service",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.302605,26.148128,-80.302605,26.148128],
+  "bbox": [
+    -80.302605,
+    26.148128,
+    -80.302605,
+    26.148128
+],
   "geometry": {"coordinates":[-80.302605,26.148128],"type":"Point"}
 }

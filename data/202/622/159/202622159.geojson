@@ -2,13 +2,14 @@
   "id": 202622159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.416506,25.120963,-80.416506,25.120963",
     "geom:latitude":25.120963,
     "geom:longitude":-80.416506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102001 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202622159,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466429971,
     "wof:name":"Woodshop 102",
     "wof:parent_id":85836845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-80.416506,25.120963,-80.416506,25.120963],
+  "bbox": [
+    -80.416506,
+    25.120963,
+    -80.416506,
+    25.120963
+],
   "geometry": {"coordinates":[-80.416506,25.120963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370503727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.511597,27.337601,-82.511597,27.337601",
     "geom:latitude":27.337601,
     "geom:longitude":-82.511597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2959 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370503727,
-    "wof:lastmodified":1449032478,
+    "wof:lastmodified":1466441897,
     "wof:name":"Koch Enterprises",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.511597,27.337601,-82.511597,27.337601],
-  "geometry": {"coordinates":[-82.511597,27.337601],"type":"Point"}
+  "bbox": [
+    -82.511597,
+    27.337601,
+    -82.511597,
+    27.337601
+],
+  "geometry": {"coordinates":[-82.51159699999999,27.337601],"type":"Point"}
 }

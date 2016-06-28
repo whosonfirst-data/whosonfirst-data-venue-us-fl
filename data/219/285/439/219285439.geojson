@@ -2,13 +2,14 @@
   "id": 219285439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.34171,28.427269,-81.34171,28.427269",
     "geom:latitude":28.427269,
     "geom:longitude":-81.34171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 8th St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219285439,
-    "wof:lastmodified":1449070467,
+    "wof:lastmodified":1466428555,
     "wof:name":"McCoy Annex Golf Course",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-81.34171,28.427269,-81.34171,28.427269],
-  "geometry": {"coordinates":[-81.34171,28.427269],"type":"Point"}
+  "bbox": [
+    -81.34171,
+    28.427269,
+    -81.34171,
+    28.427269
+],
+  "geometry": {"coordinates":[-81.34171000000001,28.427269],"type":"Point"}
 }

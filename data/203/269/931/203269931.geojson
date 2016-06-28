@@ -2,13 +2,14 @@
   "id": 203269931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.221375,26.332591,-80.221375,26.332591",
     "geom:latitude":26.332591,
     "geom:longitude":-80.221375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Loxahatchee Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203269931,
-    "wof:lastmodified":1449026148,
+    "wof:lastmodified":1466429800,
     "wof:name":"Ultra Light",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fabrication"
     ]
 },
-  "bbox": [-80.221375,26.332591,-80.221375,26.332591],
-  "geometry": {"coordinates":[-80.221375,26.332591],"type":"Point"}
+  "bbox": [
+    -80.221375,
+    26.332591,
+    -80.221375,
+    26.332591
+],
+  "geometry": {"coordinates":[-80.22137499999999,26.332591],"type":"Point"}
 }

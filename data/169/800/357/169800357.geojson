@@ -2,13 +2,14 @@
   "id": 169800357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800295,30.412622,-86.800295,30.412622",
     "geom:latitude":30.412622,
     "geom:longitude":-86.800295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2192 Cll de Castelar",
     "sg:city":"Navarre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169800357,
-    "wof:lastmodified":1449032941,
+    "wof:lastmodified":1466429024,
     "wof:name":"Emerald Coast Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800295,30.412622,-86.800295,30.412622],
-  "geometry": {"coordinates":[-86.800295,30.412622],"type":"Point"}
+  "bbox": [
+    -86.800295,
+    30.412622,
+    -86.800295,
+    30.412622
+],
+  "geometry": {"coordinates":[-86.80029500000001,30.412622],"type":"Point"}
 }

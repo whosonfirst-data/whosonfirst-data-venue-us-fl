@@ -2,13 +2,14 @@
   "id": 403805767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.758046,26.241175,-81.758046,26.241175",
     "geom:latitude":26.241175,
     "geom:longitude":-81.758046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2671 White Cedar Ln",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403805767,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1466441214,
     "wof:name":"Stjude Medical Kevin Heg",
     "wof:parent_id":85889227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.758046,26.241175,-81.758046,26.241175],
-  "geometry": {"coordinates":[-81.758046,26.241175],"type":"Point"}
+  "bbox": [
+    -81.758046,
+    26.241175,
+    -81.758046,
+    26.241175
+],
+  "geometry": {"coordinates":[-81.75804599999999,26.241175],"type":"Point"}
 }

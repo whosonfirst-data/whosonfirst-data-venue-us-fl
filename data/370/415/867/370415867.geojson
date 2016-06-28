@@ -2,13 +2,14 @@
   "id": 370415867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.911387,28.971122,-80.911387,28.971122",
     "geom:latitude":28.971122,
     "geom:longitude":-80.911387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Pine Tree Dr",
     "sg:city":"Edgewater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370415867,
-    "wof:lastmodified":1449031532,
+    "wof:lastmodified":1466440540,
     "wof:name":"Crown Tree Svc",
     "wof:parent_id":85896105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.911387,28.971122,-80.911387,28.971122],
+  "bbox": [
+    -80.911387,
+    28.971122,
+    -80.911387,
+    28.971122
+],
   "geometry": {"coordinates":[-80.911387,28.971122],"type":"Point"}
 }

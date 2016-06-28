@@ -2,13 +2,14 @@
   "id": 387600719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.756335,28.42004,-80.756335,28.42004",
     "geom:latitude":28.42004,
     "geom:longitude":-80.756335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 N Cocoa Blvd",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600719,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1466447258,
     "wof:name":"Cocoa Nursery",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-80.756335,28.42004,-80.756335,28.42004],
-  "geometry": {"coordinates":[-80.756335,28.42004],"type":"Point"}
+  "bbox": [
+    -80.756335,
+    28.42004,
+    -80.756335,
+    28.42004
+],
+  "geometry": {"coordinates":[-80.75633500000001,28.42004],"type":"Point"}
 }

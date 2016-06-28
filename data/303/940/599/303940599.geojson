@@ -2,13 +2,14 @@
   "id": 303940599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.478259,25.459263,-80.478259,25.459263",
     "geom:latitude":25.459263,
     "geom:longitude":-80.478259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 NW 12th St",
     "sg:city":"Florida City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303940599,
-    "wof:lastmodified":1448998709,
+    "wof:lastmodified":1466446756,
     "wof:name":"Florida Roof Repair & Gutters",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.478259,25.459263,-80.478259,25.459263],
-  "geometry": {"coordinates":[-80.478259,25.459263],"type":"Point"}
+  "bbox": [
+    -80.478259,
+    25.459263,
+    -80.478259,
+    25.459263
+],
+  "geometry": {"coordinates":[-80.47825899999999,25.459263],"type":"Point"}
 }

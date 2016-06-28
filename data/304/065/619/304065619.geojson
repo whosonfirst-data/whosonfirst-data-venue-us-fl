@@ -2,13 +2,14 @@
   "id": 304065619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.098599,29.270218,-81.098599,29.270218",
     "geom:latitude":29.270218,
     "geom:longitude":-81.098599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 W Granada Blvd",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304065619,
-    "wof:lastmodified":1449044156,
+    "wof:lastmodified":1466432962,
     "wof:name":"Us Blinds",
     "wof:parent_id":85889433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-81.098599,29.270218,-81.098599,29.270218],
-  "geometry": {"coordinates":[-81.098599,29.270218],"type":"Point"}
+  "bbox": [
+    -81.098599,
+    29.270218,
+    -81.098599,
+    29.270218
+],
+  "geometry": {"coordinates":[-81.09859899999999,29.270218],"type":"Point"}
 }

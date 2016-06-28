@@ -2,13 +2,14 @@
   "id": 186330577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15431,26.350248,-80.15431,26.350248",
     "geom:latitude":26.350248,
     "geom:longitude":-80.15431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7040 W Palmetto Park Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186330577,
-    "wof:lastmodified":1449051720,
+    "wof:lastmodified":1466430666,
     "wof:name":"Acupoint",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-80.15431,26.350248,-80.15431,26.350248],
+  "bbox": [
+    -80.15431,
+    26.350248,
+    -80.15431,
+    26.350248
+],
   "geometry": {"coordinates":[-80.15431,26.350248],"type":"Point"}
 }

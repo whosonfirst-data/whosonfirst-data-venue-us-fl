@@ -2,13 +2,14 @@
   "id": 202911027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.285734,28.759308,-81.285734,28.759308",
     "geom:latitude":28.759308,
     "geom:longitude":-81.285734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3657 S Orlando Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202911027,
-    "wof:lastmodified":1449062245,
+    "wof:lastmodified":1466433748,
     "wof:name":"Hover Hobby",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.285734,28.759308,-81.285734,28.759308],
-  "geometry": {"coordinates":[-81.285734,28.759308],"type":"Point"}
+  "bbox": [
+    -81.285734,
+    28.759308,
+    -81.285734,
+    28.759308
+],
+  "geometry": {"coordinates":[-81.28573400000001,28.759308],"type":"Point"}
 }

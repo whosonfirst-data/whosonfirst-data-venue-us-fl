@@ -2,13 +2,14 @@
   "id": 304068883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236585,26.665976,-80.236585,26.665976",
     "geom:latitude":26.665976,
     "geom:longitude":-80.236585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Wellington Trce",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304068883,
-    "wof:lastmodified":1449043872,
+    "wof:lastmodified":1466433024,
     "wof:name":"Little Blue Skate Park",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rink"
     ]
 },
-  "bbox": [-80.236585,26.665976,-80.236585,26.665976],
-  "geometry": {"coordinates":[-80.236585,26.665976],"type":"Point"}
+  "bbox": [
+    -80.236585,
+    26.665976,
+    -80.236585,
+    26.665976
+],
+  "geometry": {"coordinates":[-80.23658500000001,26.665976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270000575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621389,28.05641,-80.621389,28.05641",
     "geom:latitude":28.05641,
     "geom:longitude":-80.621389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3661 S Babcock St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270000575,
-    "wof:lastmodified":1449009018,
+    "wof:lastmodified":1466429463,
     "wof:name":"Space Coast Early Intervention",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-80.621389,28.05641,-80.621389,28.05641],
-  "geometry": {"coordinates":[-80.621389,28.05641],"type":"Point"}
+  "bbox": [
+    -80.621389,
+    28.05641,
+    -80.621389,
+    28.05641
+],
+  "geometry": {"coordinates":[-80.62138899999999,28.05641],"type":"Point"}
 }

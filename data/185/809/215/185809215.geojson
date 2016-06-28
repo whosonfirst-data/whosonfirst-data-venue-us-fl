@@ -2,13 +2,14 @@
   "id": 185809215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389049,29.676746,-82.389049,29.676746",
     "geom:latitude":29.676746,
     "geom:longitude":-82.389049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 NW 43 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185809215,
-    "wof:lastmodified":1449007941,
+    "wof:lastmodified":1466429085,
     "wof:name":"Therapeutic Massage",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-82.389049,29.676746,-82.389049,29.676746],
+  "bbox": [
+    -82.389049,
+    29.676746,
+    -82.389049,
+    29.676746
+],
   "geometry": {"coordinates":[-82.389049,29.676746],"type":"Point"}
 }

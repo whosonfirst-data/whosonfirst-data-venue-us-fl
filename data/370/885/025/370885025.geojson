@@ -2,13 +2,14 @@
   "id": 370885025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386561,29.676437,-82.386561,29.676437",
     "geom:latitude":29.676437,
     "geom:longitude":-82.386561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 NW 41 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370885025,
-    "wof:lastmodified":1449030874,
+    "wof:lastmodified":1466447370,
     "wof:name":"Vincent Schroder",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-82.386561,29.676437,-82.386561,29.676437],
+  "bbox": [
+    -82.386561,
+    29.676437,
+    -82.386561,
+    29.676437
+],
   "geometry": {"coordinates":[-82.386561,29.676437],"type":"Point"}
 }

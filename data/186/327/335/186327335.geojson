@@ -2,13 +2,14 @@
   "id": 186327335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.285767,28.759221,-81.285767,28.759221",
     "geom:latitude":28.759221,
     "geom:longitude":-81.285767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3653 S Orlando Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186327335,
-    "wof:lastmodified":1449050450,
+    "wof:lastmodified":1466430626,
     "wof:name":"Stephen Sindlinger Dr",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.285767,28.759221,-81.285767,28.759221],
-  "geometry": {"coordinates":[-81.285767,28.759221],"type":"Point"}
+  "bbox": [
+    -81.285767,
+    28.759221,
+    -81.285767,
+    28.759221
+],
+  "geometry": {"coordinates":[-81.28576700000001,28.759221],"type":"Point"}
 }

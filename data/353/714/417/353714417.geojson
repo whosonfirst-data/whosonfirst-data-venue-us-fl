@@ -2,13 +2,14 @@
   "id": 353714417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.81525,30.060047,-81.81525,30.060047",
     "geom:latitude":30.060047,
     "geom:longitude":-81.81525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Bush Ct",
     "sg:city":"Green Cove Spgs",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353714417,
-    "wof:lastmodified":1449019518,
+    "wof:lastmodified":1466439612,
     "wof:name":"Wandaer Fishing Charters Inc",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "transport"
     ]
 },
-  "bbox": [-81.81525,30.060047,-81.81525,30.060047],
-  "geometry": {"coordinates":[-81.81525,30.060047],"type":"Point"}
+  "bbox": [
+    -81.81525,
+    30.060047,
+    -81.81525,
+    30.060047
+],
+  "geometry": {"coordinates":[-81.81525000000001,30.060047],"type":"Point"}
 }

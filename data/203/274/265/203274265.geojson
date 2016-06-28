@@ -2,13 +2,14 @@
   "id": 203274265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.799719,26.171698,-81.799719,26.171698",
     "geom:latitude":26.171698,
     "geom:longitude":-81.799719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203274265,
-    "wof:lastmodified":1449025177,
+    "wof:lastmodified":1466429849,
     "wof:name":"Steering Wheel",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.799719,26.171698,-81.799719,26.171698],
+  "bbox": [
+    -81.799719,
+    26.171698,
+    -81.799719,
+    26.171698
+],
   "geometry": {"coordinates":[-81.799719,26.171698],"type":"Point"}
 }

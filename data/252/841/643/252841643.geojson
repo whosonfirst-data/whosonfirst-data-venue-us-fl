@@ -2,13 +2,14 @@
   "id": 252841643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813826,26.330531,-81.813826,26.330531",
     "geom:latitude":26.330531,
     "geom:longitude":-81.813826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3634 Bonita Beach Rd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252841643,
-    "wof:lastmodified":1449005647,
+    "wof:lastmodified":1466430365,
     "wof:name":"A 1 Door & Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.813826,26.330531,-81.813826,26.330531],
-  "geometry": {"coordinates":[-81.813826,26.330531],"type":"Point"}
+  "bbox": [
+    -81.813826,
+    26.330531,
+    -81.813826,
+    26.330531
+],
+  "geometry": {"coordinates":[-81.81382600000001,26.330531],"type":"Point"}
 }

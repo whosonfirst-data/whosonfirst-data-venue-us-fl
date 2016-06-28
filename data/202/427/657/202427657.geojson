@@ -2,13 +2,14 @@
   "id": 202427657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140946,26.320485,-80.140946,26.320485",
     "geom:latitude":26.320485,
     "geom:longitude":-80.140946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 Deer Creek Country Club Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202427657,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466444224,
     "wof:name":"Deer Creek Tennis Resort",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-80.140946,26.320485,-80.140946,26.320485],
+  "bbox": [
+    -80.140946,
+    26.320485,
+    -80.140946,
+    26.320485
+],
   "geometry": {"coordinates":[-80.140946,26.320485],"type":"Point"}
 }

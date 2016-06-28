@@ -2,13 +2,14 @@
   "id": 304000953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.287842,25.770873,-80.287842,25.770873",
     "geom:latitude":25.770873,
     "geom:longitude":-80.287842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5677 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":304000953,
-    "wof:lastmodified":1449043649,
+    "wof:lastmodified":1466446261,
     "wof:name":"Pollos Bastian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.287842,25.770873,-80.287842,25.770873],
+  "bbox": [
+    -80.287842,
+    25.770873,
+    -80.287842,
+    25.770873
+],
   "geometry": {"coordinates":[-80.287842,25.770873],"type":"Point"}
 }

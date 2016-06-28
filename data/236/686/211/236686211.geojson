@@ -2,13 +2,14 @@
   "id": 236686211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.250099,30.453588,-87.250099,30.453588",
     "geom:latitude":30.453588,
     "geom:longitude":-87.250099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 N W St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236686211,
-    "wof:lastmodified":1449004277,
+    "wof:lastmodified":1466438157,
     "wof:name":"Wall To Wall Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.250099,30.453588,-87.250099,30.453588],
-  "geometry": {"coordinates":[-87.250099,30.453588],"type":"Point"}
+  "bbox": [
+    -87.250099,
+    30.453588,
+    -87.250099,
+    30.453588
+],
+  "geometry": {"coordinates":[-87.25009900000001,30.453588],"type":"Point"}
 }

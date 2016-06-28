@@ -2,13 +2,14 @@
   "id": 320358817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.250263,30.484894,-84.250263,30.484894",
     "geom:latitude":30.484894,
     "geom:longitude":-84.250263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Woodgate Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320358817,
-    "wof:lastmodified":1449012830,
+    "wof:lastmodified":1466439542,
     "wof:name":"Surface Solutions",
     "wof:parent_id":85881379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.250263,30.484894,-84.250263,30.484894],
+  "bbox": [
+    -84.250263,
+    30.484894,
+    -84.250263,
+    30.484894
+],
   "geometry": {"coordinates":[-84.250263,30.484894],"type":"Point"}
 }

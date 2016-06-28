@@ -2,13 +2,14 @@
   "id": 303196737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593871,30.351791,-81.593871,30.351791",
     "geom:latitude":30.351791,
     "geom:longitude":-81.593871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6229 Merrill Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303196737,
-    "wof:lastmodified":1448998667,
+    "wof:lastmodified":1466433931,
     "wof:name":"McCrary Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.593871,30.351791,-81.593871,30.351791],
-  "geometry": {"coordinates":[-81.593871,30.351791],"type":"Point"}
+  "bbox": [
+    -81.593871,
+    30.351791,
+    -81.593871,
+    30.351791
+],
+  "geometry": {"coordinates":[-81.59387099999999,30.351791],"type":"Point"}
 }

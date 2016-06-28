@@ -2,13 +2,14 @@
   "id": 371114977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721409,26.712526,-81.721409,26.712526",
     "geom:latitude":26.712526,
     "geom:longitude":-81.721409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 Montego Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371114977,
-    "wof:lastmodified":1449049463,
+    "wof:lastmodified":1466439314,
     "wof:name":"American Golf Components",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.721409,26.712526,-81.721409,26.712526],
-  "geometry": {"coordinates":[-81.721409,26.712526],"type":"Point"}
+  "bbox": [
+    -81.721409,
+    26.712526,
+    -81.721409,
+    26.712526
+],
+  "geometry": {"coordinates":[-81.72140899999999,26.712526],"type":"Point"}
 }

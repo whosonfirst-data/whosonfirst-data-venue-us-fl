@@ -2,13 +2,14 @@
   "id": 370865955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.376909,29.651004,-82.376909,29.651004",
     "geom:latitude":29.651004,
     "geom:longitude":-82.376909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 SW 2 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370865955,
-    "wof:lastmodified":1449031650,
+    "wof:lastmodified":1466447000,
     "wof:name":"3001 The Geo Spatial Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mapping"
     ]
 },
-  "bbox": [-82.376909,29.651004,-82.376909,29.651004],
+  "bbox": [
+    -82.376909,
+    29.651004,
+    -82.376909,
+    29.651004
+],
   "geometry": {"coordinates":[-82.376909,29.651004],"type":"Point"}
 }

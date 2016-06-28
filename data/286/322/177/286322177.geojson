@@ -2,13 +2,14 @@
   "id": 286322177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.265143,28.647685,-81.265143,28.647685",
     "geom:latitude":28.647685,
     "geom:longitude":-81.265143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5840 Red Bug Lake Rd",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286322177,
-    "wof:lastmodified":1449015134,
+    "wof:lastmodified":1466430709,
     "wof:name":"House Hunters",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.265143,28.647685,-81.265143,28.647685],
-  "geometry": {"coordinates":[-81.265143,28.647685],"type":"Point"}
+  "bbox": [
+    -81.265143,
+    28.647685,
+    -81.265143,
+    28.647685
+],
+  "geometry": {"coordinates":[-81.26514299999999,28.647685],"type":"Point"}
 }

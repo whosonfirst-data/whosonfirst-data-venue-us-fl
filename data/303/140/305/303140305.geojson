@@ -2,13 +2,14 @@
   "id": 303140305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.725887,27.677416,-82.725887,27.677416",
     "geom:latitude":27.677416,
     "geom:longitude":-82.725887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Pinellas Bayway S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303140305,
-    "wof:lastmodified":1448998471,
+    "wof:lastmodified":1466432938,
     "wof:name":"Nautilus Health Care Group",
     "wof:parent_id":85852237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.725887,27.677416,-82.725887,27.677416],
+  "bbox": [
+    -82.725887,
+    27.677416,
+    -82.725887,
+    27.677416
+],
   "geometry": {"coordinates":[-82.725887,27.677416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303402301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451287,28.002416,-82.451287,28.002416",
     "geom:latitude":28.002416,
     "geom:longitude":-82.451287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303402301,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1466437464,
     "wof:name":"Publix Super Market 511",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supermarket"
     ]
 },
-  "bbox": [-82.451287,28.002416,-82.451287,28.002416],
-  "geometry": {"coordinates":[-82.451287,28.002416],"type":"Point"}
+  "bbox": [
+    -82.451287,
+    28.002416,
+    -82.451287,
+    28.002416
+],
+  "geometry": {"coordinates":[-82.45128699999999,28.002416],"type":"Point"}
 }

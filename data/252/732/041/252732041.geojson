@@ -2,13 +2,14 @@
   "id": 252732041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.495309,27.917719,-82.495309,27.917719",
     "geom:latitude":27.917719,
     "geom:longitude":-82.495309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 W San Pedro St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252732041,
-    "wof:lastmodified":1449006555,
+    "wof:lastmodified":1466428771,
     "wof:name":"Fiskio Inc",
     "wof:parent_id":85840309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.495309,27.917719,-82.495309,27.917719],
-  "geometry": {"coordinates":[-82.495309,27.917719],"type":"Point"}
+  "bbox": [
+    -82.495309,
+    27.917719,
+    -82.495309,
+    27.917719
+],
+  "geometry": {"coordinates":[-82.49530900000001,27.917719],"type":"Point"}
 }

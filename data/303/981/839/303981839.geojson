@@ -2,13 +2,14 @@
   "id": 303981839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.666905,28.389794,-82.666905,28.389794",
     "geom:latitude":28.389794,
     "geom:longitude":-82.666905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8917 Denton Ave",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303981839,
-    "wof:lastmodified":1449000611,
+    "wof:lastmodified":1466447278,
     "wof:name":"Altitude Adjustments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-82.666905,28.389794,-82.666905,28.389794],
+  "bbox": [
+    -82.666905,
+    28.389794,
+    -82.666905,
+    28.389794
+],
   "geometry": {"coordinates":[-82.666905,28.389794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252881915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.671287,26.21999,-81.671287,26.21999",
     "geom:latitude":26.21999,
     "geom:longitude":-81.671287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 5th Ave SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":252881915,
-    "wof:lastmodified":1449006049,
+    "wof:lastmodified":1466430926,
     "wof:name":"Intra-Agent Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.671287,26.21999,-81.671287,26.21999],
-  "geometry": {"coordinates":[-81.671287,26.21999],"type":"Point"}
+  "bbox": [
+    -81.671287,
+    26.21999,
+    -81.671287,
+    26.21999
+],
+  "geometry": {"coordinates":[-81.67128700000001,26.21999],"type":"Point"}
 }

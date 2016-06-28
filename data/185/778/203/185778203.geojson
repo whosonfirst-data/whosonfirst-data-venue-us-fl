@@ -2,13 +2,14 @@
   "id": 185778203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.36077,29.897749,-85.36077,29.897749",
     "geom:latitude":29.897749,
     "geom:longitude":-85.36077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Selma St",
     "sg:city":"Port St Joe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185778203,
-    "wof:lastmodified":1449006615,
+    "wof:lastmodified":1466428764,
     "wof:name":"National Data",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.36077,29.897749,-85.36077,29.897749],
+  "bbox": [
+    -85.36077,
+    29.897749,
+    -85.36077,
+    29.897749
+],
   "geometry": {"coordinates":[-85.36077,29.897749],"type":"Point"}
 }

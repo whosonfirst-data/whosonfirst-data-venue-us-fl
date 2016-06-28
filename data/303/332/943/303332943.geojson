@@ -2,13 +2,14 @@
   "id": 303332943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.120539,30.362538,-82.120539,30.362538",
     "geom:latitude":30.362538,
     "geom:longitude":-82.120539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4549 Shaves Bluff Rd",
     "sg:city":"Macclenny",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303332943,
-    "wof:lastmodified":1448999480,
+    "wof:lastmodified":1466436270,
     "wof:name":"Inspectorate America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.120539,30.362538,-82.120539,30.362538],
-  "geometry": {"coordinates":[-82.120539,30.362538],"type":"Point"}
+  "bbox": [
+    -82.120539,
+    30.362538,
+    -82.120539,
+    30.362538
+],
+  "geometry": {"coordinates":[-82.12053899999999,30.362538],"type":"Point"}
 }

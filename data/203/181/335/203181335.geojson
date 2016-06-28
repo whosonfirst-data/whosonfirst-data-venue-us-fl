@@ -2,13 +2,14 @@
   "id": 203181335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.139674,26.099712,-80.139674,26.099712",
     "geom:latitude":26.099712,
     "geom:longitude":-80.139674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 SE 3rd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203181335,
-    "wof:lastmodified":1449026095,
+    "wof:lastmodified":1466428659,
     "wof:name":"Broward House Inc",
     "wof:parent_id":85877517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.139674,26.099712,-80.139674,26.099712],
+  "bbox": [
+    -80.139674,
+    26.099712,
+    -80.139674,
+    26.099712
+],
   "geometry": {"coordinates":[-80.139674,26.099712],"type":"Point"}
 }

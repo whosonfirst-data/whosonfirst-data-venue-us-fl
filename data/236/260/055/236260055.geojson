@@ -2,13 +2,14 @@
   "id": 236260055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.672075,27.794579,-82.672075,27.794579",
     "geom:latitude":27.794579,
     "geom:longitude":-82.672075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2870 25th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236260055,
-    "wof:lastmodified":1449002086,
+    "wof:lastmodified":1466432094,
     "wof:name":"Acme Auto Glass",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-82.672075,27.794579,-82.672075,27.794579],
-  "geometry": {"coordinates":[-82.672075,27.794579],"type":"Point"}
+  "bbox": [
+    -82.672075,
+    27.794579,
+    -82.672075,
+    27.794579
+],
+  "geometry": {"coordinates":[-82.67207500000001,27.794579],"type":"Point"}
 }

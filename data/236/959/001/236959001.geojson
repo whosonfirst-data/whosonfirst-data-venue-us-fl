@@ -2,13 +2,14 @@
   "id": 236959001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248163,26.358625,-80.248163,26.358625",
     "geom:latitude":26.358625,
     "geom:longitude":-80.248163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12720 Yardley Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236959001,
-    "wof:lastmodified":1449004850,
+    "wof:lastmodified":1466442044,
     "wof:name":"Boingo Books Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.248163,26.358625,-80.248163,26.358625],
-  "geometry": {"coordinates":[-80.248163,26.358625],"type":"Point"}
+  "bbox": [
+    -80.248163,
+    26.358625,
+    -80.248163,
+    26.358625
+],
+  "geometry": {"coordinates":[-80.24816300000001,26.358625],"type":"Point"}
 }

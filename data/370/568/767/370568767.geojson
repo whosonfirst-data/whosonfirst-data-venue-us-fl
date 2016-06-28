@@ -2,13 +2,14 @@
   "id": 370568767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.306831,25.749561,-80.306831,25.749561",
     "geom:latitude":25.749561,
     "geom:longitude":-80.306831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 SW 69th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370568767,
-    "wof:lastmodified":1449028988,
+    "wof:lastmodified":1466442903,
     "wof:name":"Galaxy Courier Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.306831,25.749561,-80.306831,25.749561],
+  "bbox": [
+    -80.306831,
+    25.749561,
+    -80.306831,
+    25.749561
+],
   "geometry": {"coordinates":[-80.306831,25.749561],"type":"Point"}
 }

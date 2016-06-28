@@ -2,13 +2,14 @@
   "id": 236750789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.76663,26.139005,-81.76663,26.139005",
     "geom:latitude":26.139005,
     "geom:longitude":-81.76663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Airport Pulling Rd S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236750789,
-    "wof:lastmodified":1449003683,
+    "wof:lastmodified":1466439150,
     "wof:name":"Spanky's Speakeasy",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.76663,26.139005,-81.76663,26.139005],
-  "geometry": {"coordinates":[-81.76663,26.139005],"type":"Point"}
+  "bbox": [
+    -81.76663,
+    26.139005,
+    -81.76663,
+    26.139005
+],
+  "geometry": {"coordinates":[-81.76663000000001,26.139005],"type":"Point"}
 }

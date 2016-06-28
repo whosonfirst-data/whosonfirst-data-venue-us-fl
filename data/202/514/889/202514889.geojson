@@ -2,13 +2,14 @@
   "id": 202514889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.118251,26.200357,-80.118251,26.200357",
     "geom:latitude":26.200357,
     "geom:longitude":-80.118251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 NE 21st Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202514889,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466428547,
     "wof:name":"Sherlock Home Renovations",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "renovation"
     ]
 },
-  "bbox": [-80.118251,26.200357,-80.118251,26.200357],
+  "bbox": [
+    -80.118251,
+    26.200357,
+    -80.118251,
+    26.200357
+],
   "geometry": {"coordinates":[-80.118251,26.200357],"type":"Point"}
 }

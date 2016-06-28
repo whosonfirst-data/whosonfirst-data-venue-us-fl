@@ -2,13 +2,14 @@
   "id": 253076317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.03476,26.79067,-80.03476,26.79067",
     "geom:latitude":26.79067,
     "geom:longitude":-80.03476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 N Ocean Dr",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253076317,
-    "wof:lastmodified":1449065120,
+    "wof:lastmodified":1466429552,
     "wof:name":"Ocean Surf Motel-Apts",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.03476,26.79067,-80.03476,26.79067],
-  "geometry": {"coordinates":[-80.03476,26.79067],"type":"Point"}
+  "bbox": [
+    -80.03476,
+    26.79067,
+    -80.03476,
+    26.79067
+],
+  "geometry": {"coordinates":[-80.03476000000001,26.79067],"type":"Point"}
 }

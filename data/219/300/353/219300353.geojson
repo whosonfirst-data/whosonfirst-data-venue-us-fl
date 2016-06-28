@@ -2,13 +2,14 @@
   "id": 219300353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.255734,30.503688,-84.255734,30.503688",
     "geom:latitude":30.503688,
     "geom:longitude":-84.255734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3494 Martin Hurst Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219300353,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466428769,
     "wof:name":"Tallahassee Builders Assn",
     "wof:parent_id":85889649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-84.255734,30.503688,-84.255734,30.503688],
+  "bbox": [
+    -84.255734,
+    30.503688,
+    -84.255734,
+    30.503688
+],
   "geometry": {"coordinates":[-84.255734,30.503688],"type":"Point"}
 }

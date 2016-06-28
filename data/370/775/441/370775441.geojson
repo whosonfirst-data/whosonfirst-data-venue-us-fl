@@ -2,13 +2,14 @@
   "id": 370775441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076352,26.396451,-80.076352,26.396451",
     "geom:latitude":26.396451,
     "geom:longitude":-80.076352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5499 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370775441,
-    "wof:lastmodified":1449031596,
+    "wof:lastmodified":1466446080,
     "wof:name":"Paul Labiner",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.076352,26.396451,-80.076352,26.396451],
+  "bbox": [
+    -80.076352,
+    26.396451,
+    -80.076352,
+    26.396451
+],
   "geometry": {"coordinates":[-80.076352,26.396451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253359723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.666012,30.173291,-85.666012,30.173291",
     "geom:latitude":30.173291,
     "geom:longitude":-85.666012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 W 14th St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253359723,
-    "wof:lastmodified":1449062781,
+    "wof:lastmodified":1466433179,
     "wof:name":"Sullivan's Automotive",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-85.666012,30.173291,-85.666012,30.173291],
-  "geometry": {"coordinates":[-85.666012,30.173291],"type":"Point"}
+  "bbox": [
+    -85.666012,
+    30.173291,
+    -85.666012,
+    30.173291
+],
+  "geometry": {"coordinates":[-85.66601199999999,30.173291],"type":"Point"}
 }

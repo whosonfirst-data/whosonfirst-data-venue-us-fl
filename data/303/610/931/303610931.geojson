@@ -2,13 +2,14 @@
   "id": 303610931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.203279,30.419808,-87.203279,30.419808",
     "geom:latitude":30.419808,
     "geom:longitude":-87.203279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Belmont St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303610931,
-    "wof:lastmodified":1449000526,
+    "wof:lastmodified":1466441037,
     "wof:name":"Rhythm Design Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-87.203279,30.419808,-87.203279,30.419808],
-  "geometry": {"coordinates":[-87.203279,30.419808],"type":"Point"}
+  "bbox": [
+    -87.203279,
+    30.419808,
+    -87.203279,
+    30.419808
+],
+  "geometry": {"coordinates":[-87.20327899999999,30.419808],"type":"Point"}
 }

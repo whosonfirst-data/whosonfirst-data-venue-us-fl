@@ -2,13 +2,14 @@
   "id": 303516301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.182651,28.233103,-82.182651,28.233103",
     "geom:latitude":28.233103,
     "geom:longitude":-82.182651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38345 5th Ave",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303516301,
-    "wof:lastmodified":1448998583,
+    "wof:lastmodified":1466439443,
     "wof:name":"D & B Supply Corp of Pasco",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.182651,28.233103,-82.182651,28.233103],
-  "geometry": {"coordinates":[-82.182651,28.233103],"type":"Point"}
+  "bbox": [
+    -82.182651,
+    28.233103,
+    -82.182651,
+    28.233103
+],
+  "geometry": {"coordinates":[-82.18265100000001,28.233103],"type":"Point"}
 }

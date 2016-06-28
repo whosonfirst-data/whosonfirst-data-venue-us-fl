@@ -2,13 +2,14 @@
   "id": 354371645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255596,25.825163,-80.255596,25.825163",
     "geom:latitude":25.825163,
     "geom:longitude":-80.255596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 NW 36th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354371645,
-    "wof:lastmodified":1449067253,
+    "wof:lastmodified":1466441785,
     "wof:name":"Aero Management",
     "wof:parent_id":85856921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-80.255596,25.825163,-80.255596,25.825163],
+  "bbox": [
+    -80.255596,
+    25.825163,
+    -80.255596,
+    25.825163
+],
   "geometry": {"coordinates":[-80.255596,25.825163],"type":"Point"}
 }

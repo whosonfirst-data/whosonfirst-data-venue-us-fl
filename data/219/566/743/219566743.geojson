@@ -2,13 +2,14 @@
   "id": 219566743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.510731,27.993444,-82.510731,27.993444",
     "geom:latitude":27.993444,
     "geom:longitude":-82.510731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5019 N Hale Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219566743,
-    "wof:lastmodified":1449070443,
+    "wof:lastmodified":1466432365,
     "wof:name":"Newbay Auto Sales",
     "wof:parent_id":85873243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.510731,27.993444,-82.510731,27.993444],
-  "geometry": {"coordinates":[-82.510731,27.993444],"type":"Point"}
+  "bbox": [
+    -82.510731,
+    27.993444,
+    -82.510731,
+    27.993444
+],
+  "geometry": {"coordinates":[-82.51073100000001,27.993444],"type":"Point"}
 }

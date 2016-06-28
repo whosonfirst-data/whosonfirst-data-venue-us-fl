@@ -2,13 +2,14 @@
   "id": 186209787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.688471,30.312268,-81.688471,30.312268",
     "geom:latitude":30.312268,
     "geom:longitude":-81.688471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186209787,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466429223,
     "wof:name":"Professional Christian Counsel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-81.688471,30.312268,-81.688471,30.312268],
-  "geometry": {"coordinates":[-81.688471,30.312268],"type":"Point"}
+  "bbox": [
+    -81.688471,
+    30.312268,
+    -81.688471,
+    30.312268
+],
+  "geometry": {"coordinates":[-81.68847100000001,30.312268],"type":"Point"}
 }

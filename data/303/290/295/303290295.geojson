@@ -2,13 +2,14 @@
   "id": 303290295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316692,25.724056,-80.316692,25.724056",
     "geom:latitude":25.724056,
     "geom:longitude":-80.316692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 SW 75th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303290295,
-    "wof:lastmodified":1448999169,
+    "wof:lastmodified":1466435542,
     "wof:name":"Reed Construction Corporation",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.316692,25.724056,-80.316692,25.724056],
+  "bbox": [
+    -80.316692,
+    25.724056,
+    -80.316692,
+    25.724056
+],
   "geometry": {"coordinates":[-80.316692,25.724056],"type":"Point"}
 }

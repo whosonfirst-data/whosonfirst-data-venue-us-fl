@@ -2,13 +2,14 @@
   "id": 320494715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621629,28.048265,-80.621629,28.048265",
     "geom:latitude":28.048265,
     "geom:longitude":-80.621629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 S Babcock St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320494715,
-    "wof:lastmodified":1449014552,
+    "wof:lastmodified":1466441934,
     "wof:name":"Animal Medical Clinic PA",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.621629,28.048265,-80.621629,28.048265],
+  "bbox": [
+    -80.621629,
+    28.048265,
+    -80.621629,
+    28.048265
+],
   "geometry": {"coordinates":[-80.621629,28.048265],"type":"Point"}
 }

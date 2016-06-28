@@ -2,13 +2,14 @@
   "id": 270066301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751958,30.329635,-81.751958,30.329635",
     "geom:latitude":30.329635,
     "geom:longitude":-81.751958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Lane Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270066301,
-    "wof:lastmodified":1449009315,
+    "wof:lastmodified":1466430585,
     "wof:name":"PCL Packaging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-81.751958,30.329635,-81.751958,30.329635],
+  "bbox": [
+    -81.751958,
+    30.329635,
+    -81.751958,
+    30.329635
+],
   "geometry": {"coordinates":[-81.751958,30.329635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353812433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.145963,29.476368,-81.145963,29.476368",
     "geom:latitude":29.476368,
     "geom:longitude":-81.145963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Moody Blvd",
     "sg:city":"Flagler Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353812433,
-    "wof:lastmodified":1449018315,
+    "wof:lastmodified":1466441141,
     "wof:name":"Tobacco Outlet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.145963,29.476368,-81.145963,29.476368],
-  "geometry": {"coordinates":[-81.145963,29.476368],"type":"Point"}
+  "bbox": [
+    -81.145963,
+    29.476368,
+    -81.145963,
+    29.476368
+],
+  "geometry": {"coordinates":[-81.14596299999999,29.476368],"type":"Point"}
 }

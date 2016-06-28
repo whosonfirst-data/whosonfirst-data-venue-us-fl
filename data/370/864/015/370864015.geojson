@@ -2,13 +2,14 @@
   "id": 370864015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.356361,27.632304,-80.356361,27.632304",
     "geom:latitude":27.632304,
     "geom:longitude":-80.356361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 E Causeway Blvd",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370864015,
-    "wof:lastmodified":1449032518,
+    "wof:lastmodified":1466446973,
     "wof:name":"William G Wolfe DC",
     "wof:parent_id":85889883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.356361,27.632304,-80.356361,27.632304],
-  "geometry": {"coordinates":[-80.356361,27.632304],"type":"Point"}
+  "bbox": [
+    -80.356361,
+    27.632304,
+    -80.356361,
+    27.632304
+],
+  "geometry": {"coordinates":[-80.35636100000001,27.632304],"type":"Point"}
 }

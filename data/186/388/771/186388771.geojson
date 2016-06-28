@@ -2,13 +2,14 @@
   "id": 186388771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730629,26.096558,-81.730629,26.096558",
     "geom:latitude":26.096558,
     "geom:longitude":-81.730629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Saint Andrews Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186388771,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466431374,
     "wof:name":"Elizabeth Sunbelt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.730629,26.096558,-81.730629,26.096558],
-  "geometry": {"coordinates":[-81.730629,26.096558],"type":"Point"}
+  "bbox": [
+    -81.730629,
+    26.096558,
+    -81.730629,
+    26.096558
+],
+  "geometry": {"coordinates":[-81.73062899999999,26.096558],"type":"Point"}
 }

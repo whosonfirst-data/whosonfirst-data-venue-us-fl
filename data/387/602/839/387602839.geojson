@@ -2,13 +2,14 @@
   "id": 387602839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138991,26.142267,-80.138991,26.142267",
     "geom:latitude":26.142267,
     "geom:longitude":-80.138991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 NE 13th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387602839,
-    "wof:lastmodified":1449057893,
+    "wof:lastmodified":1466447285,
     "wof:name":"13th Street Take Out",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.138991,26.142267,-80.138991,26.142267],
+  "bbox": [
+    -80.138991,
+    26.142267,
+    -80.138991,
+    26.142267
+],
   "geometry": {"coordinates":[-80.138991,26.142267],"type":"Point"}
 }

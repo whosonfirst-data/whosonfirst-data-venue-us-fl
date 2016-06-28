@@ -2,13 +2,14 @@
   "id": 303673809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384946,25.8597,-81.384946,25.8597",
     "geom:latitude":25.8597,
     "geom:longitude":-81.384946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Copeland Ave",
     "sg:city":"Everglades City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303673809,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1466442140,
     "wof:name":"Everglades Community Church",
     "wof:parent_id":85818829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.384946,25.8597,-81.384946,25.8597],
+  "bbox": [
+    -81.384946,
+    25.8597,
+    -81.384946,
+    25.8597
+],
   "geometry": {"coordinates":[-81.384946,25.8597],"type":"Point"}
 }

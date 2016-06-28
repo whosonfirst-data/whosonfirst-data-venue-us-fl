@@ -2,13 +2,14 @@
   "id": 202711521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372162,28.573956,-81.372162,28.573956",
     "geom:latitude":28.573956,
     "geom:longitude":-81.372162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2423 Mc Rae Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202711521,
-    "wof:lastmodified":1449062203,
+    "wof:lastmodified":1466431129,
     "wof:name":"Florida Hospial Home Care",
     "wof:parent_id":85879499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-81.372162,28.573956,-81.372162,28.573956],
+  "bbox": [
+    -81.372162,
+    28.573956,
+    -81.372162,
+    28.573956
+],
   "geometry": {"coordinates":[-81.372162,28.573956],"type":"Point"}
 }

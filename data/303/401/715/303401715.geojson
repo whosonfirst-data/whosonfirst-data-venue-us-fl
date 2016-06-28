@@ -2,13 +2,14 @@
   "id": 303401715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.628306,30.185912,-82.628306,30.185912",
     "geom:latitude":30.185912,
     "geom:longitude":-82.628306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 SE Putnam St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303401715,
-    "wof:lastmodified":1449000200,
+    "wof:lastmodified":1466437455,
     "wof:name":"Construction Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-82.628306,30.185912,-82.628306,30.185912],
-  "geometry": {"coordinates":[-82.628306,30.185912],"type":"Point"}
+  "bbox": [
+    -82.628306,
+    30.185912,
+    -82.628306,
+    30.185912
+],
+  "geometry": {"coordinates":[-82.62830599999999,30.185912],"type":"Point"}
 }

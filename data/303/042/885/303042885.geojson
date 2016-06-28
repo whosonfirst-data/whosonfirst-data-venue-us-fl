@@ -2,13 +2,14 @@
   "id": 303042885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207879,26.253596,-80.207879,26.253596",
     "geom:latitude":26.253596,
     "geom:longitude":-80.207879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6160 NW 20th Ct",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303042885,
-    "wof:lastmodified":1448999974,
+    "wof:lastmodified":1466431187,
     "wof:name":"DC Imports International Inc",
     "wof:parent_id":85823731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "import"
     ]
 },
-  "bbox": [-80.207879,26.253596,-80.207879,26.253596],
-  "geometry": {"coordinates":[-80.207879,26.253596],"type":"Point"}
+  "bbox": [
+    -80.207879,
+    26.253596,
+    -80.207879,
+    26.253596
+],
+  "geometry": {"coordinates":[-80.20787900000001,26.253596],"type":"Point"}
 }

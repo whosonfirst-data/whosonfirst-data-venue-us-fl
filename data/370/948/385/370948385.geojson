@@ -2,13 +2,14 @@
   "id": 370948385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.348188,29.676584,-82.348188,29.676584",
     "geom:latitude":29.676584,
     "geom:longitude":-82.348188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 NW 23 Blvd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370948385,
-    "wof:lastmodified":1449031780,
+    "wof:lastmodified":1466448022,
     "wof:name":"Country Manor Apartments",
     "wof:parent_id":85877609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.348188,29.676584,-82.348188,29.676584],
-  "geometry": {"coordinates":[-82.348188,29.676584],"type":"Point"}
+  "bbox": [
+    -82.348188,
+    29.676584,
+    -82.348188,
+    29.676584
+],
+  "geometry": {"coordinates":[-82.34818799999999,29.676584],"type":"Point"}
 }

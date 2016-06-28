@@ -2,13 +2,14 @@
   "id": 185961881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.822265,28.056482,-81.822265,28.056482",
     "geom:latitude":28.056482,
     "geom:longitude":-81.822265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 US Hwy 92",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185961881,
-    "wof:lastmodified":1449008159,
+    "wof:lastmodified":1466430639,
     "wof:name":"Custom Monuments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-81.822265,28.056482,-81.822265,28.056482],
+  "bbox": [
+    -81.822265,
+    28.056482,
+    -81.822265,
+    28.056482
+],
   "geometry": {"coordinates":[-81.822265,28.056482],"type":"Point"}
 }

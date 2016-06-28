@@ -2,13 +2,14 @@
   "id": 386928463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.28243,25.923154,-80.28243,25.923154",
     "geom:latitude":25.923154,
     "geom:longitude":-80.28243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 NW 165th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386928463,
-    "wof:lastmodified":1449028907,
+    "wof:lastmodified":1466438361,
     "wof:name":"South East Trading",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.28243,25.923154,-80.28243,25.923154],
-  "geometry": {"coordinates":[-80.28243,25.923154],"type":"Point"}
+  "bbox": [
+    -80.28243,
+    25.923154,
+    -80.28243,
+    25.923154
+],
+  "geometry": {"coordinates":[-80.28243000000001,25.923154],"type":"Point"}
 }

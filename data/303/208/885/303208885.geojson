@@ -2,13 +2,14 @@
   "id": 303208885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.469226,27.338462,-82.469226,27.338462",
     "geom:latitude":27.338462,
     "geom:longitude":-82.469226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Avant Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303208885,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466434141,
     "wof:name":"ACP Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.469226,27.338462,-82.469226,27.338462],
-  "geometry": {"coordinates":[-82.469226,27.338462],"type":"Point"}
+  "bbox": [
+    -82.469226,
+    27.338462,
+    -82.469226,
+    27.338462
+],
+  "geometry": {"coordinates":[-82.46922600000001,27.338462],"type":"Point"}
 }

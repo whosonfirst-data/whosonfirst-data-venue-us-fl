@@ -2,13 +2,14 @@
   "id": 387145129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.471764,30.511844,-86.471764,30.511844",
     "geom:latitude":30.511844,
     "geom:longitude":-86.471764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Chip Ln",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387145129,
-    "wof:lastmodified":1449057262,
+    "wof:lastmodified":1466440940,
     "wof:name":"Spicy Squirrel",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-86.471764,30.511844,-86.471764,30.511844],
-  "geometry": {"coordinates":[-86.471764,30.511844],"type":"Point"}
+  "bbox": [
+    -86.471764,
+    30.511844,
+    -86.471764,
+    30.511844
+],
+  "geometry": {"coordinates":[-86.47176399999999,30.511844],"type":"Point"}
 }

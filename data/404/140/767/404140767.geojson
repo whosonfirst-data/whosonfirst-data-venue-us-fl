@@ -2,13 +2,14 @@
   "id": 404140767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256965,25.720249,-80.256965,25.720249",
     "geom:latitude":25.720249,
     "geom:longitude":-80.256965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3971 Poinciana Closed Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404140767,
-    "wof:lastmodified":1449039184,
+    "wof:lastmodified":1466442425,
     "wof:name":"American Medical Billing",
     "wof:parent_id":85889185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.256965,25.720249,-80.256965,25.720249],
-  "geometry": {"coordinates":[-80.256965,25.720249],"type":"Point"}
+  "bbox": [
+    -80.256965,
+    25.720249,
+    -80.256965,
+    25.720249
+],
+  "geometry": {"coordinates":[-80.25696499999999,25.720249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186080063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320794,25.608522,-80.320794,25.608522",
     "geom:latitude":25.608522,
     "geom:longitude":-80.320794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17454 SW 79th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186080063,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1466445069,
     "wof:name":"Estime Inc",
     "wof:parent_id":85868533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.320794,25.608522,-80.320794,25.608522],
-  "geometry": {"coordinates":[-80.320794,25.608522],"type":"Point"}
+  "bbox": [
+    -80.320794,
+    25.608522,
+    -80.320794,
+    25.608522
+],
+  "geometry": {"coordinates":[-80.32079400000001,25.608522],"type":"Point"}
 }

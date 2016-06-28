@@ -2,13 +2,14 @@
   "id": 336675889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.630684,27.773648,-82.630684,27.773648",
     "geom:latitude":27.773648,
     "geom:longitude":-82.630684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 2nd Ave NE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336675889,
-    "wof:lastmodified":1448997502,
+    "wof:lastmodified":1466436291,
     "wof:name":"Whimsical Wheels Inc",
     "wof:parent_id":85880555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-82.630684,27.773648,-82.630684,27.773648],
+  "bbox": [
+    -82.630684,
+    27.773648,
+    -82.630684,
+    27.773648
+],
   "geometry": {"coordinates":[-82.630684,27.773648],"type":"Point"}
 }

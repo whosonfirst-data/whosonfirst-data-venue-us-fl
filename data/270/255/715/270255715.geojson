@@ -2,13 +2,14 @@
   "id": 270255715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.472626,27.940972,-82.472626,27.940972",
     "geom:latitude":27.940972,
     "geom:longitude":-82.472626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S Willow Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270255715,
-    "wof:lastmodified":1449009741,
+    "wof:lastmodified":1466433831,
     "wof:name":"Willow Law Firm",
     "wof:parent_id":85889805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.472626,27.940972,-82.472626,27.940972],
-  "geometry": {"coordinates":[-82.472626,27.940972],"type":"Point"}
+  "bbox": [
+    -82.472626,
+    27.940972,
+    -82.472626,
+    27.940972
+],
+  "geometry": {"coordinates":[-82.47262600000001,27.940972],"type":"Point"}
 }

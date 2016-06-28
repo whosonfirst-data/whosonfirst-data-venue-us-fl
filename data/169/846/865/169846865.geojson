@@ -2,13 +2,14 @@
   "id": 169846865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.122014,26.275203,-80.122014,26.275203",
     "geom:latitude":26.275203,
     "geom:longitude":-80.122014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 W Sample Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169846865,
-    "wof:lastmodified":1449035218,
+    "wof:lastmodified":1466429530,
     "wof:name":"Rand Eye Institute",
     "wof:parent_id":85865207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.122014,26.275203,-80.122014,26.275203],
-  "geometry": {"coordinates":[-80.122014,26.275203],"type":"Point"}
+  "bbox": [
+    -80.122014,
+    26.275203,
+    -80.122014,
+    26.275203
+],
+  "geometry": {"coordinates":[-80.12201399999999,26.275203],"type":"Point"}
 }

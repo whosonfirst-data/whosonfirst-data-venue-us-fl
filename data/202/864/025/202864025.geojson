@@ -2,13 +2,14 @@
   "id": 202864025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.306065,28.560446,-81.306065,28.560446",
     "geom:latitude":28.560446,
     "geom:longitude":-81.306065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6006 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202864025,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466433112,
     "wof:name":"SCI-FI City",
     "wof:parent_id":85879457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "board"
     ]
 },
-  "bbox": [-81.306065,28.560446,-81.306065,28.560446],
+  "bbox": [
+    -81.306065,
+    28.560446,
+    -81.306065,
+    28.560446
+],
   "geometry": {"coordinates":[-81.306065,28.560446],"type":"Point"}
 }

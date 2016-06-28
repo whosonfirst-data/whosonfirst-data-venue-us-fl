@@ -2,13 +2,14 @@
   "id": 386938175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.17768,25.995869,-80.17768,25.995869",
     "geom:latitude":25.995869,
     "geom:longitude":-80.17768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3929 Pembroke Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386938175,
-    "wof:lastmodified":1449028872,
+    "wof:lastmodified":1466438515,
     "wof:name":"Miami Herald",
     "wof:parent_id":85868423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-80.17768,25.995869,-80.17768,25.995869],
+  "bbox": [
+    -80.17768,
+    25.995869,
+    -80.17768,
+    25.995869
+],
   "geometry": {"coordinates":[-80.17768,25.995869],"type":"Point"}
 }

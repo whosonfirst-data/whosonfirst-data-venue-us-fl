@@ -2,13 +2,14 @@
   "id": 219863543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.268429,28.200872,-81.268429,28.200872",
     "geom:latitude":28.200872,
     "geom:longitude":-81.268429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Henry J Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219863543,
-    "wof:lastmodified":1449072825,
+    "wof:lastmodified":1466436326,
     "wof:name":"White Horse Express",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.268429,28.200872,-81.268429,28.200872],
+  "bbox": [
+    -81.268429,
+    28.200872,
+    -81.268429,
+    28.200872
+],
   "geometry": {"coordinates":[-81.268429,28.200872],"type":"Point"}
 }

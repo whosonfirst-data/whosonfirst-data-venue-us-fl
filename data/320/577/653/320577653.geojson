@@ -2,13 +2,14 @@
   "id": 320577653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.078415,26.318291,-80.078415,26.318291",
     "geom:latitude":26.318291,
     "geom:longitude":-80.078415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 NE 4th St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320577653,
-    "wof:lastmodified":1449015071,
+    "wof:lastmodified":1466443408,
     "wof:name":"Grimes Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.078415,26.318291,-80.078415,26.318291],
-  "geometry": {"coordinates":[-80.078415,26.318291],"type":"Point"}
+  "bbox": [
+    -80.078415,
+    26.318291,
+    -80.078415,
+    26.318291
+],
+  "geometry": {"coordinates":[-80.07841500000001,26.318291],"type":"Point"}
 }

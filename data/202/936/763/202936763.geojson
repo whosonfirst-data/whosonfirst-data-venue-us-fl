@@ -2,13 +2,14 @@
   "id": 202936763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.94251,26.562585,-81.94251,26.562585",
     "geom:latitude":26.562585,
     "geom:longitude":-81.94251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 E Cape Coral Pkwy",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202936763,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466434091,
     "wof:name":"H Bruce Basiliere",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.94251,26.562585,-81.94251,26.562585],
+  "bbox": [
+    -81.94251,
+    26.562585,
+    -81.94251,
+    26.562585
+],
   "geometry": {"coordinates":[-81.94251,26.562585],"type":"Point"}
 }

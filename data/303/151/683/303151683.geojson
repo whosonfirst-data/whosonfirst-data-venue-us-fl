@@ -2,13 +2,14 @@
   "id": 303151683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.823641,26.272322,-81.823641,26.272322",
     "geom:latitude":26.272322,
     "geom:longitude":-81.823641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Bluebill Ave",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303151683,
-    "wof:lastmodified":1448998142,
+    "wof:lastmodified":1466433141,
     "wof:name":"Signature Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.823641,26.272322,-81.823641,26.272322],
-  "geometry": {"coordinates":[-81.823641,26.272322],"type":"Point"}
+  "bbox": [
+    -81.823641,
+    26.272322,
+    -81.823641,
+    26.272322
+],
+  "geometry": {"coordinates":[-81.82364099999999,26.272322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186022907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.16009,26.504765,-80.16009,26.504765",
     "geom:latitude":26.504765,
     "geom:longitude":-80.16009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7276 Whitefield",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186022907,
-    "wof:lastmodified":1449051283,
+    "wof:lastmodified":1466442379,
     "wof:name":"Trans Continental Traffic Svc",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auditing"
     ]
 },
-  "bbox": [-80.16009,26.504765,-80.16009,26.504765],
+  "bbox": [
+    -80.16009,
+    26.504765,
+    -80.16009,
+    26.504765
+],
   "geometry": {"coordinates":[-80.16009,26.504765],"type":"Point"}
 }

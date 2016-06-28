@@ -2,13 +2,14 @@
   "id": 336616293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.040458,26.440051,-82.040458,26.440051",
     "geom:latitude":26.440051,
     "geom:longitude":-82.040458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 E Gulf Dr",
     "sg:city":"Sanibel",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336616293,
-    "wof:lastmodified":1448997719,
+    "wof:lastmodified":1466435268,
     "wof:name":"Sanibel Inn",
     "wof:parent_id":85843293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hotel"
     ]
 },
-  "bbox": [-82.040458,26.440051,-82.040458,26.440051],
+  "bbox": [
+    -82.040458,
+    26.440051,
+    -82.040458,
+    26.440051
+],
   "geometry": {"coordinates":[-82.040458,26.440051],"type":"Point"}
 }

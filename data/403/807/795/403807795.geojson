@@ -2,13 +2,14 @@
   "id": 403807795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.410621,25.133415,-80.410621,25.133415",
     "geom:latitude":25.133415,
     "geom:longitude":-80.410621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Crane St",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403807795,
-    "wof:lastmodified":1449054983,
+    "wof:lastmodified":1466441252,
     "wof:name":"Bill Gustafson",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.410621,25.133415,-80.410621,25.133415],
-  "geometry": {"coordinates":[-80.410621,25.133415],"type":"Point"}
+  "bbox": [
+    -80.410621,
+    25.133415,
+    -80.410621,
+    25.133415
+],
+  "geometry": {"coordinates":[-80.41062100000001,25.133415],"type":"Point"}
 }

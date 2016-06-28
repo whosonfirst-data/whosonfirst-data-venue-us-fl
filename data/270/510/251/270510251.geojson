@@ -2,13 +2,14 @@
   "id": 270510251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.225108,30.471415,-87.225108,30.471415",
     "geom:latitude":30.471415,
     "geom:longitude":-87.225108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5007 N Davis Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":270510251,
-    "wof:lastmodified":1449010103,
+    "wof:lastmodified":1466438201,
     "wof:name":"Beauty Alliance",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "perfume"
     ]
 },
-  "bbox": [-87.225108,30.471415,-87.225108,30.471415],
-  "geometry": {"coordinates":[-87.225108,30.471415],"type":"Point"}
+  "bbox": [
+    -87.225108,
+    30.471415,
+    -87.225108,
+    30.471415
+],
+  "geometry": {"coordinates":[-87.22510800000001,30.471415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270184193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.161588,25.700339,-80.161588,25.700339",
     "geom:latitude":25.700339,
     "geom:longitude":-80.161588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Crandon Blvd",
     "sg:city":"Key Biscayne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270184193,
-    "wof:lastmodified":1449009049,
+    "wof:lastmodified":1466432612,
     "wof:name":"Capavesi Jewelry",
     "wof:parent_id":85888959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.161588,25.700339,-80.161588,25.700339],
-  "geometry": {"coordinates":[-80.161588,25.700339],"type":"Point"}
+  "bbox": [
+    -80.161588,
+    25.700339,
+    -80.161588,
+    25.700339
+],
+  "geometry": {"coordinates":[-80.16158799999999,25.700339],"type":"Point"}
 }

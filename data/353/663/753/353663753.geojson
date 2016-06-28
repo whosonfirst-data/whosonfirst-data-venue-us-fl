@@ -2,13 +2,14 @@
   "id": 353663753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.349218,26.001103,-80.349218,26.001103",
     "geom:latitude":26.001103,
     "geom:longitude":-80.349218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15200 Laurel Ln",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353663753,
-    "wof:lastmodified":1449020118,
+    "wof:lastmodified":1466438793,
     "wof:name":"Sterling Transportation Svc",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-80.349218,26.001103,-80.349218,26.001103],
-  "geometry": {"coordinates":[-80.349218,26.001103],"type":"Point"}
+  "bbox": [
+    -80.349218,
+    26.001103,
+    -80.349218,
+    26.001103
+],
+  "geometry": {"coordinates":[-80.34921799999999,26.001103],"type":"Point"}
 }

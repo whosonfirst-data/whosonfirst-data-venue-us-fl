@@ -2,13 +2,14 @@
   "id": 202501783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.258007,28.634996,-81.258007,28.634996",
     "geom:latitude":28.634996,
     "geom:longitude":-81.258007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Brooks Ln",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202501783,
-    "wof:lastmodified":1449062668,
+    "wof:lastmodified":1466446190,
     "wof:name":"Tuscawilla Equestrian Farms",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.258007,28.634996,-81.258007,28.634996],
-  "geometry": {"coordinates":[-81.258007,28.634996],"type":"Point"}
+  "bbox": [
+    -81.258007,
+    28.634996,
+    -81.258007,
+    28.634996
+],
+  "geometry": {"coordinates":[-81.25800700000001,28.634996],"type":"Point"}
 }

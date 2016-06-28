@@ -2,13 +2,14 @@
   "id": 220005763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.324046,28.628868,-81.324046,28.628868",
     "geom:latitude":28.628868,
     "geom:longitude":-81.324046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Lake Howell Rd",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220005763,
-    "wof:lastmodified":1449074818,
+    "wof:lastmodified":1466443393,
     "wof:name":"M & M Mortgages Inc",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-81.324046,28.628868,-81.324046,28.628868],
+  "bbox": [
+    -81.324046,
+    28.628868,
+    -81.324046,
+    28.628868
+],
   "geometry": {"coordinates":[-81.324046,28.628868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185880279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.74111,30.266471,-81.74111,30.266471",
     "geom:latitude":30.266471,
     "geom:longitude":-81.74111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4112 Rendale Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185880279,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1466429783,
     "wof:name":"Jeffs Paint & Trim",
     "wof:parent_id":85829203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.74111,30.266471,-81.74111,30.266471],
-  "geometry": {"coordinates":[-81.74111,30.266471],"type":"Point"}
+  "bbox": [
+    -81.74111,
+    30.266471,
+    -81.74111,
+    30.266471
+],
+  "geometry": {"coordinates":[-81.74111000000001,30.266471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403820815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.12907,29.47964,-81.12907,29.47964",
     "geom:latitude":29.47964,
     "geom:longitude":-81.12907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Daytona Ave",
     "sg:city":"Flagler Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403820815,
-    "wof:lastmodified":1449055334,
+    "wof:lastmodified":1466441460,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "us"
     ]
 },
-  "bbox": [-81.12907,29.47964,-81.12907,29.47964],
+  "bbox": [
+    -81.12907,
+    29.47964,
+    -81.12907,
+    29.47964
+],
   "geometry": {"coordinates":[-81.12907,29.47964],"type":"Point"}
 }

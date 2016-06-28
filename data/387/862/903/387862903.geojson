@@ -2,13 +2,14 @@
   "id": 387862903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124048,25.889536,-80.124048,25.889536",
     "geom:latitude":25.889536,
     "geom:longitude":-80.124048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9940 Collins Ave",
     "sg:city":"Bal Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387862903,
-    "wof:lastmodified":1449060006,
+    "wof:lastmodified":1466449316,
     "wof:name":"Beach Club Apartments",
     "wof:parent_id":85804283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.124048,25.889536,-80.124048,25.889536],
+  "bbox": [
+    -80.124048,
+    25.889536,
+    -80.124048,
+    25.889536
+],
   "geometry": {"coordinates":[-80.124048,25.889536],"type":"Point"}
 }

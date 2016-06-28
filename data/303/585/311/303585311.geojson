@@ -2,13 +2,14 @@
   "id": 303585311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24511,26.761749,-80.24511,26.761749",
     "geom:latitude":26.761749,
     "geom:longitude":-80.24511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12859 57th Rd N",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303585311,
-    "wof:lastmodified":1448999745,
+    "wof:lastmodified":1466440614,
     "wof:name":"Kyron Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.24511,26.761749,-80.24511,26.761749],
+  "bbox": [
+    -80.24511,
+    26.761749,
+    -80.24511,
+    26.761749
+],
   "geometry": {"coordinates":[-80.24511,26.761749],"type":"Point"}
 }

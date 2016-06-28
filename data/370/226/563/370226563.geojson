@@ -2,13 +2,14 @@
   "id": 370226563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.571275,28.027146,-82.571275,28.027146",
     "geom:latitude":28.027146,
     "geom:longitude":-82.571275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 Country Square Ct",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370226563,
-    "wof:lastmodified":1449031543,
+    "wof:lastmodified":1466437636,
     "wof:name":"Country Square Apartments I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.571275,28.027146,-82.571275,28.027146],
+  "bbox": [
+    -82.571275,
+    28.027146,
+    -82.571275,
+    28.027146
+],
   "geometry": {"coordinates":[-82.571275,28.027146],"type":"Point"}
 }

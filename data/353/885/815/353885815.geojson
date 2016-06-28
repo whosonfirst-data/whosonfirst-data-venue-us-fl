@@ -2,13 +2,14 @@
   "id": 353885815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.54479,27.34599,-82.54479,27.34599",
     "geom:latitude":27.34599,
     "geom:longitude":-82.54479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Cocoanut Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353885815,
-    "wof:lastmodified":1449019614,
+    "wof:lastmodified":1466442251,
     "wof:name":"Lacocoanut Apts",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.54479,27.34599,-82.54479,27.34599],
-  "geometry": {"coordinates":[-82.54479,27.34599],"type":"Point"}
+  "bbox": [
+    -82.54479,
+    27.34599,
+    -82.54479,
+    27.34599
+],
+  "geometry": {"coordinates":[-82.54479000000001,27.34599],"type":"Point"}
 }

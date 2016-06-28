@@ -2,13 +2,14 @@
   "id": 220015005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.507526,28.470536,-81.507526,28.470536",
     "geom:latitude":28.470536,
     "geom:longitude":-81.507526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Brookline Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220015005,
-    "wof:lastmodified":1449074232,
+    "wof:lastmodified":1466446337,
     "wof:name":"Bay Hill Group Inc",
     "wof:parent_id":85889409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.507526,28.470536,-81.507526,28.470536],
+  "bbox": [
+    -81.507526,
+    28.470536,
+    -81.507526,
+    28.470536
+],
   "geometry": {"coordinates":[-81.507526,28.470536],"type":"Point"}
 }

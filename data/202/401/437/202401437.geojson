@@ -2,13 +2,14 @@
   "id": 202401437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325752,25.914384,-80.325752,25.914384",
     "geom:latitude":25.914384,
     "geom:longitude":-80.325752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15440 NW 77th Ct",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202401437,
-    "wof:lastmodified":1449062285,
+    "wof:lastmodified":1466443045,
     "wof:name":"House of Sun Inc",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.325752,25.914384,-80.325752,25.914384],
-  "geometry": {"coordinates":[-80.325752,25.914384],"type":"Point"}
+  "bbox": [
+    -80.325752,
+    25.914384,
+    -80.325752,
+    25.914384
+],
+  "geometry": {"coordinates":[-80.32575199999999,25.914384],"type":"Point"}
 }

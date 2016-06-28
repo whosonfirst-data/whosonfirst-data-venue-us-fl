@@ -2,13 +2,14 @@
   "id": 185960173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057713,26.527034,-80.057713,26.527034",
     "geom:latitude":26.527034,
     "geom:longitude":-80.057713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 E Ocean Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185960173,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466430624,
     "wof:name":"John Hart Adams",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.057713,26.527034,-80.057713,26.527034],
-  "geometry": {"coordinates":[-80.057713,26.527034],"type":"Point"}
+  "bbox": [
+    -80.057713,
+    26.527034,
+    -80.057713,
+    26.527034
+],
+  "geometry": {"coordinates":[-80.05771300000001,26.527034],"type":"Point"}
 }

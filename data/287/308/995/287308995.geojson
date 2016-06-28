@@ -2,13 +2,14 @@
   "id": 287308995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621289,28.076575,-80.621289,28.076575",
     "geom:latitude":28.076575,
     "geom:longitude":-80.621289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Melbourne Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287308995,
-    "wof:lastmodified":1449001608,
+    "wof:lastmodified":1466435228,
     "wof:name":"Alpha Medical Center",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.621289,28.076575,-80.621289,28.076575],
+  "bbox": [
+    -80.621289,
+    28.076575,
+    -80.621289,
+    28.076575
+],
   "geometry": {"coordinates":[-80.621289,28.076575],"type":"Point"}
 }

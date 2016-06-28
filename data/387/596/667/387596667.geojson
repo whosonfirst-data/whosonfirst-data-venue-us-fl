@@ -2,13 +2,14 @@
   "id": 387596667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237485,26.245089,-80.237485,26.245089",
     "geom:latitude":26.245089,
     "geom:longitude":-80.237485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 NW 84th Dr",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387596667,
-    "wof:lastmodified":1449058057,
+    "wof:lastmodified":1466447408,
     "wof:name":"S & W Computer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-80.237485,26.245089,-80.237485,26.245089],
-  "geometry": {"coordinates":[-80.237485,26.245089],"type":"Point"}
+  "bbox": [
+    -80.237485,
+    26.245089,
+    -80.237485,
+    26.245089
+],
+  "geometry": {"coordinates":[-80.23748500000001,26.245089],"type":"Point"}
 }

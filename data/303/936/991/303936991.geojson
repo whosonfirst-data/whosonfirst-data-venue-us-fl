@@ -2,13 +2,14 @@
   "id": 303936991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.663361,30.310597,-81.663361,30.310597",
     "geom:latitude":30.310597,
     "geom:longitude":-81.663361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 Lebaron Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303936991,
-    "wof:lastmodified":1448998930,
+    "wof:lastmodified":1466446542,
     "wof:name":"W D Surgical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.663361,30.310597,-81.663361,30.310597],
-  "geometry": {"coordinates":[-81.663361,30.310597],"type":"Point"}
+  "bbox": [
+    -81.663361,
+    30.310597,
+    -81.663361,
+    30.310597
+],
+  "geometry": {"coordinates":[-81.66336099999999,30.310597],"type":"Point"}
 }

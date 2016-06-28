@@ -2,13 +2,14 @@
   "id": 269606695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6576,30.376925,-81.6576,30.376925",
     "geom:latitude":30.376925,
     "geom:longitude":-81.6576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Chestnut Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269606695,
-    "wof:lastmodified":1449036513,
+    "wof:lastmodified":1466430687,
     "wof:name":"Sentry Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.6576,30.376925,-81.6576,30.376925],
+  "bbox": [
+    -81.6576,
+    30.376925,
+    -81.6576,
+    30.376925
+],
   "geometry": {"coordinates":[-81.6576,30.376925],"type":"Point"}
 }

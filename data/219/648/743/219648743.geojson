@@ -2,13 +2,14 @@
   "id": 219648743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.457552,29.684317,-82.457552,29.684317",
     "geom:latitude":29.684317,
     "geom:longitude":-82.457552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10937 NW 33 Pl",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219648743,
-    "wof:lastmodified":1449071371,
+    "wof:lastmodified":1466433424,
     "wof:name":"Medical Billing Mgt Gainesvill",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.457552,29.684317,-82.457552,29.684317],
-  "geometry": {"coordinates":[-82.457552,29.684317],"type":"Point"}
+  "bbox": [
+    -82.457552,
+    29.684317,
+    -82.457552,
+    29.684317
+],
+  "geometry": {"coordinates":[-82.45755200000001,29.684317],"type":"Point"}
 }

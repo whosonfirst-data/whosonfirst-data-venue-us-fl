@@ -2,13 +2,14 @@
   "id": 303365253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.870357,27.223584,-81.870357,27.223584",
     "geom:latitude":27.223584,
     "geom:longitude":-81.870357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W Gibson St",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303365253,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1466436825,
     "wof:name":"Dave's Locksmith Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.870357,27.223584,-81.870357,27.223584],
+  "bbox": [
+    -81.870357,
+    27.223584,
+    -81.870357,
+    27.223584
+],
   "geometry": {"coordinates":[-81.870357,27.223584],"type":"Point"}
 }

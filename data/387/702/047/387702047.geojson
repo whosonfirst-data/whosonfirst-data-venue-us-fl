@@ -2,13 +2,14 @@
   "id": 387702047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.799219,26.167536,-81.799219,26.167536",
     "geom:latitude":26.167536,
     "geom:longitude":-81.799219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387702047,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1466448164,
     "wof:name":"Alteration Boutique",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-81.799219,26.167536,-81.799219,26.167536],
-  "geometry": {"coordinates":[-81.799219,26.167536],"type":"Point"}
+  "bbox": [
+    -81.799219,
+    26.167536,
+    -81.799219,
+    26.167536
+],
+  "geometry": {"coordinates":[-81.79921899999999,26.167536],"type":"Point"}
 }

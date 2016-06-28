@@ -2,13 +2,14 @@
   "id": 253208075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280791,30.450991,-84.280791,30.450991",
     "geom:latitude":30.450991,
     "geom:longitude":-84.280791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 N Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253208075,
-    "wof:lastmodified":1449063168,
+    "wof:lastmodified":1466430822,
     "wof:name":"Lester & Co Fine Jewelers",
     "wof:parent_id":85881343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-84.280791,30.450991,-84.280791,30.450991],
-  "geometry": {"coordinates":[-84.280791,30.450991],"type":"Point"}
+  "bbox": [
+    -84.280791,
+    30.450991,
+    -84.280791,
+    30.450991
+],
+  "geometry": {"coordinates":[-84.28079099999999,30.450991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219499555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261148,25.726836,-80.261148,25.726836",
     "geom:latitude":25.726836,
     "geom:longitude":-80.261148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Dixie Hwy",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219499555,
-    "wof:lastmodified":1449071065,
+    "wof:lastmodified":1466431515,
     "wof:name":"Eurospeed",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.261148,25.726836,-80.261148,25.726836],
-  "geometry": {"coordinates":[-80.261148,25.726836],"type":"Point"}
+  "bbox": [
+    -80.261148,
+    25.726836,
+    -80.261148,
+    25.726836
+],
+  "geometry": {"coordinates":[-80.26114800000001,25.726836],"type":"Point"}
 }

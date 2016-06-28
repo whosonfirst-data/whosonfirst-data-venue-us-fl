@@ -2,13 +2,14 @@
   "id": 353944013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.347738,29.65349,-82.347738,29.65349",
     "geom:latitude":29.65349,
     "geom:longitude":-82.347738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 NW 19 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353944013,
-    "wof:lastmodified":1449019540,
+    "wof:lastmodified":1466443132,
     "wof:name":"Looking Glass Apt",
     "wof:parent_id":85826743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-82.347738,29.65349,-82.347738,29.65349],
-  "geometry": {"coordinates":[-82.347738,29.65349],"type":"Point"}
+  "bbox": [
+    -82.347738,
+    29.65349,
+    -82.347738,
+    29.65349
+],
+  "geometry": {"coordinates":[-82.34773800000001,29.65349],"type":"Point"}
 }

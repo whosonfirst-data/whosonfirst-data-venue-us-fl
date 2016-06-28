@@ -2,13 +2,14 @@
   "id": 202702955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.293018,30.760989,-86.293018,30.760989",
     "geom:latitude":30.760989,
     "geom:longitude":-86.293018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 White Rd",
     "sg:city":"Defuniak Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202702955,
-    "wof:lastmodified":1449061385,
+    "wof:lastmodified":1466431022,
     "wof:name":"De Funiak Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.293018,30.760989,-86.293018,30.760989],
+  "bbox": [
+    -86.293018,
+    30.760989,
+    -86.293018,
+    30.760989
+],
   "geometry": {"coordinates":[-86.293018,30.760989],"type":"Point"}
 }

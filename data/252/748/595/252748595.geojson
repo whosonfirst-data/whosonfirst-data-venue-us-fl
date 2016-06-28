@@ -2,13 +2,14 @@
   "id": 252748595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.200375,25.834811,-80.200375,25.834811",
     "geom:latitude":25.834811,
     "geom:longitude":-80.200375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6445 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252748595,
-    "wof:lastmodified":1449006227,
+    "wof:lastmodified":1466429005,
     "wof:name":"Paul Building",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.200375,25.834811,-80.200375,25.834811],
-  "geometry": {"coordinates":[-80.200375,25.834811],"type":"Point"}
+  "bbox": [
+    -80.200375,
+    25.834811,
+    -80.200375,
+    25.834811
+],
+  "geometry": {"coordinates":[-80.20037499999999,25.834811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353802675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.277127,30.441884,-84.277127,30.441884",
     "geom:latitude":30.441884,
     "geom:longitude":-84.277127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 E Park Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353802675,
-    "wof:lastmodified":1449020351,
+    "wof:lastmodified":1466440994,
     "wof:name":"Smith & Ballard Inc",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobbyist"
     ]
 },
-  "bbox": [-84.277127,30.441884,-84.277127,30.441884],
-  "geometry": {"coordinates":[-84.277127,30.441884],"type":"Point"}
+  "bbox": [
+    -84.277127,
+    30.441884,
+    -84.277127,
+    30.441884
+],
+  "geometry": {"coordinates":[-84.27712699999999,30.441884],"type":"Point"}
 }

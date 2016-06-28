@@ -2,13 +2,14 @@
   "id": 253530651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227021,25.803632,-80.227021,25.803632",
     "geom:latitude":25.803632,
     "geom:longitude":-80.227021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 NW 18th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253530651,
-    "wof:lastmodified":1449064400,
+    "wof:lastmodified":1466436150,
     "wof:name":"All City Fire Equipment Inc",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fire"
     ]
 },
-  "bbox": [-80.227021,25.803632,-80.227021,25.803632],
-  "geometry": {"coordinates":[-80.227021,25.803632],"type":"Point"}
+  "bbox": [
+    -80.227021,
+    25.803632,
+    -80.227021,
+    25.803632
+],
+  "geometry": {"coordinates":[-80.22702099999999,25.803632],"type":"Point"}
 }

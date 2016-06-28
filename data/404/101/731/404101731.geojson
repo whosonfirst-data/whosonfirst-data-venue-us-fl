@@ -2,13 +2,14 @@
   "id": 404101731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.369718,29.675788,-82.369718,29.675788",
     "geom:latitude":29.675788,
     "geom:longitude":-82.369718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 NW 32 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404101731,
-    "wof:lastmodified":1449039767,
+    "wof:lastmodified":1466441808,
     "wof:name":"Horizon Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-82.369718,29.675788,-82.369718,29.675788],
-  "geometry": {"coordinates":[-82.369718,29.675788],"type":"Point"}
+  "bbox": [
+    -82.369718,
+    29.675788,
+    -82.369718,
+    29.675788
+],
+  "geometry": {"coordinates":[-82.36971800000001,29.675788],"type":"Point"}
 }

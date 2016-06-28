@@ -2,13 +2,14 @@
   "id": 336959861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352081,25.613682,-80.352081,25.613682",
     "geom:latitude":25.613682,
     "geom:longitude":-80.352081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9920 SW 168th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336959861,
-    "wof:lastmodified":1448997912,
+    "wof:lastmodified":1466441179,
     "wof:name":"Carribean Cleaners",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.352081,25.613682,-80.352081,25.613682],
+  "bbox": [
+    -80.352081,
+    25.613682,
+    -80.352081,
+    25.613682
+],
   "geometry": {"coordinates":[-80.352081,25.613682],"type":"Point"}
 }

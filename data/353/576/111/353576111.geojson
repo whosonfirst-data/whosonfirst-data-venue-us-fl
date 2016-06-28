@@ -2,13 +2,14 @@
   "id": 353576111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.772219,27.772078,-82.772219,27.772078",
     "geom:latitude":27.772078,
     "geom:longitude":-82.772219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10810 Gulf Blvd",
     "sg:city":"Treasure Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353576111,
-    "wof:lastmodified":1449020238,
+    "wof:lastmodified":1466437411,
     "wof:name":"Fargo Motel",
     "wof:parent_id":85806545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.772219,27.772078,-82.772219,27.772078],
-  "geometry": {"coordinates":[-82.772219,27.772078],"type":"Point"}
+  "bbox": [
+    -82.772219,
+    27.772078,
+    -82.772219,
+    27.772078
+],
+  "geometry": {"coordinates":[-82.77221900000001,27.772078],"type":"Point"}
 }

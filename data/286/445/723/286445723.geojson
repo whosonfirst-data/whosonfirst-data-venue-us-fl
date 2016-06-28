@@ -2,13 +2,14 @@
   "id": 286445723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.560094,30.783206,-86.560094,30.783206",
     "geom:latitude":30.783206,
     "geom:longitude":-86.560094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 N Ferdon Blvd",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286445723,
-    "wof:lastmodified":1449015564,
+    "wof:lastmodified":1466432834,
     "wof:name":"Land's Outdoor",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.560094,30.783206,-86.560094,30.783206],
-  "geometry": {"coordinates":[-86.560094,30.783206],"type":"Point"}
+  "bbox": [
+    -86.560094,
+    30.783206,
+    -86.560094,
+    30.783206
+],
+  "geometry": {"coordinates":[-86.56009400000001,30.783206],"type":"Point"}
 }

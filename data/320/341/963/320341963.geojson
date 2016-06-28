@@ -2,13 +2,14 @@
   "id": 320341963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255164,27.121509,-80.255164,27.121509",
     "geom:latitude":27.121509,
     "geom:longitude":-80.255164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6775 SW Gaines Ave",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320341963,
-    "wof:lastmodified":1449014800,
+    "wof:lastmodified":1466439245,
     "wof:name":"Winner's Circle",
     "wof:parent_id":85889617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.255164,27.121509,-80.255164,27.121509],
-  "geometry": {"coordinates":[-80.255164,27.121509],"type":"Point"}
+  "bbox": [
+    -80.255164,
+    27.121509,
+    -80.255164,
+    27.121509
+],
+  "geometry": {"coordinates":[-80.25516399999999,27.121509],"type":"Point"}
 }

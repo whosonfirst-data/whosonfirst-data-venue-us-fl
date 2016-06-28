@@ -2,13 +2,14 @@
   "id": 320182115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.730775,27.770016,-82.730775,27.770016",
     "geom:latitude":27.770016,
     "geom:longitude":-82.730775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6709 1st Ave S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320182115,
-    "wof:lastmodified":1449013620,
+    "wof:lastmodified":1466436509,
     "wof:name":"Brooks Hearing Aids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "impaired"
     ]
 },
-  "bbox": [-82.730775,27.770016,-82.730775,27.770016],
-  "geometry": {"coordinates":[-82.730775,27.770016],"type":"Point"}
+  "bbox": [
+    -82.730775,
+    27.770016,
+    -82.730775,
+    27.770016
+],
+  "geometry": {"coordinates":[-82.73077499999999,27.770016],"type":"Point"}
 }

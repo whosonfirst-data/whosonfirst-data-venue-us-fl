@@ -2,13 +2,14 @@
   "id": 253066523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.161538,25.916207,-80.161538,25.916207",
     "geom:latitude":25.916207,
     "geom:longitude":-80.161538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 NE 153rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253066523,
-    "wof:lastmodified":1449063672,
+    "wof:lastmodified":1466429412,
     "wof:name":"Performance Boats Inc",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.161538,25.916207,-80.161538,25.916207],
-  "geometry": {"coordinates":[-80.161538,25.916207],"type":"Point"}
+  "bbox": [
+    -80.161538,
+    25.916207,
+    -80.161538,
+    25.916207
+],
+  "geometry": {"coordinates":[-80.16153799999999,25.916207],"type":"Point"}
 }

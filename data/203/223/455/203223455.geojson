@@ -2,13 +2,14 @@
   "id": 203223455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090437,26.529131,-80.090437,26.529131",
     "geom:latitude":26.529131,
     "geom:longitude":-80.090437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 N Congress Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203223455,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466429192,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85829789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.090437,26.529131,-80.090437,26.529131],
-  "geometry": {"coordinates":[-80.090437,26.529131],"type":"Point"}
+  "bbox": [
+    -80.090437,
+    26.529131,
+    -80.090437,
+    26.529131
+],
+  "geometry": {"coordinates":[-80.09043699999999,26.529131],"type":"Point"}
 }

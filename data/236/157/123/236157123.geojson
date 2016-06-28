@@ -2,13 +2,14 @@
   "id": 236157123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603186,30.325692,-81.603186,30.325692",
     "geom:latitude":30.325692,
     "geom:longitude":-81.603186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5626 Tanglewood Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236157123,
-    "wof:lastmodified":1449004681,
+    "wof:lastmodified":1466430613,
     "wof:name":"B G Ortho Lab",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.603186,30.325692,-81.603186,30.325692],
-  "geometry": {"coordinates":[-81.603186,30.325692],"type":"Point"}
+  "bbox": [
+    -81.603186,
+    30.325692,
+    -81.603186,
+    30.325692
+],
+  "geometry": {"coordinates":[-81.60318599999999,30.325692],"type":"Point"}
 }

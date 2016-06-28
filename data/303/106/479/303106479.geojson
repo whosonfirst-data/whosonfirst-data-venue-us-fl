@@ -2,13 +2,14 @@
   "id": 303106479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.037849,27.030098,-82.037849,27.030098",
     "geom:latitude":27.030098,
     "geom:longitude":-82.037849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25969 Aysen Dr",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303106479,
-    "wof:lastmodified":1448998080,
+    "wof:lastmodified":1466432333,
     "wof:name":"Supervisor Of Elections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.037849,27.030098,-82.037849,27.030098],
-  "geometry": {"coordinates":[-82.037849,27.030098],"type":"Point"}
+  "bbox": [
+    -82.037849,
+    27.030098,
+    -82.037849,
+    27.030098
+],
+  "geometry": {"coordinates":[-82.03784899999999,27.030098],"type":"Point"}
 }

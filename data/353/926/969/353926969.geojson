@@ -2,13 +2,14 @@
   "id": 353926969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.668343,29.974994,-81.668343,29.974994",
     "geom:latitude":29.974994,
     "geom:longitude":-81.668343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1768 Wildwood Rd",
     "sg:city":"Green Cove Spgs",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353926969,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1466442881,
     "wof:name":"TRW Automotive",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.668343,29.974994,-81.668343,29.974994],
-  "geometry": {"coordinates":[-81.668343,29.974994],"type":"Point"}
+  "bbox": [
+    -81.668343,
+    29.974994,
+    -81.668343,
+    29.974994
+],
+  "geometry": {"coordinates":[-81.66834299999999,29.974994],"type":"Point"}
 }

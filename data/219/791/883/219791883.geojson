@@ -2,13 +2,14 @@
   "id": 219791883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.785146,26.215211,-81.785146,26.215211",
     "geom:latitude":26.215211,
     "geom:longitude":-81.785146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 Jaeger Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219791883,
-    "wof:lastmodified":1449073116,
+    "wof:lastmodified":1466435330,
     "wof:name":"Geary Design",
     "wof:parent_id":85889219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "household"
     ]
 },
-  "bbox": [-81.785146,26.215211,-81.785146,26.215211],
+  "bbox": [
+    -81.785146,
+    26.215211,
+    -81.785146,
+    26.215211
+],
   "geometry": {"coordinates":[-81.785146,26.215211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203416361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.397152,28.521929,-81.397152,28.521929",
     "geom:latitude":28.521929,
     "geom:longitude":-81.397152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203416361,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466431654,
     "wof:name":"Happy Limousine",
     "wof:parent_id":85865203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-81.397152,28.521929,-81.397152,28.521929],
-  "geometry": {"coordinates":[-81.397152,28.521929],"type":"Point"}
+  "bbox": [
+    -81.397152,
+    28.521929,
+    -81.397152,
+    28.521929
+],
+  "geometry": {"coordinates":[-81.39715200000001,28.521929],"type":"Point"}
 }

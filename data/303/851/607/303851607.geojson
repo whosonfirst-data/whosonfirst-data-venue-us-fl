@@ -2,13 +2,14 @@
   "id": 303851607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15457,26.23487,-80.15457,26.23487",
     "geom:latitude":26.23487,
     "geom:longitude":-80.15457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 NW 4th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303851607,
-    "wof:lastmodified":1448999727,
+    "wof:lastmodified":1466445193,
     "wof:name":"3 Way Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.15457,26.23487,-80.15457,26.23487],
-  "geometry": {"coordinates":[-80.15457,26.23487],"type":"Point"}
+  "bbox": [
+    -80.15457,
+    26.23487,
+    -80.15457,
+    26.23487
+],
+  "geometry": {"coordinates":[-80.15457000000001,26.23487],"type":"Point"}
 }

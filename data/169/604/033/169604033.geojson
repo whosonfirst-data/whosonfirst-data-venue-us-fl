@@ -2,13 +2,14 @@
   "id": 169604033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205454,26.231241,-80.205454,26.231241",
     "geom:latitude":26.231241,
     "geom:longitude":-80.205454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5979 NW 1st St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169604033,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1466438231,
     "wof:name":"South Florida Vanpools",
     "wof:parent_id":85818423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.205454,26.231241,-80.205454,26.231241],
+  "bbox": [
+    -80.205454,
+    26.231241,
+    -80.205454,
+    26.231241
+],
   "geometry": {"coordinates":[-80.205454,26.231241],"type":"Point"}
 }

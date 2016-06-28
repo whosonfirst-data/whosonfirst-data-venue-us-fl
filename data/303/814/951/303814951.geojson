@@ -2,13 +2,14 @@
   "id": 303814951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13431,26.119208,-80.13431,26.119208",
     "geom:latitude":26.119208,
     "geom:longitude":-80.13431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 E Las Olas Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303814951,
-    "wof:lastmodified":1448998563,
+    "wof:lastmodified":1466444564,
     "wof:name":"Modario",
     "wof:parent_id":85877491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.13431,26.119208,-80.13431,26.119208],
+  "bbox": [
+    -80.13431,
+    26.119208,
+    -80.13431,
+    26.119208
+],
   "geometry": {"coordinates":[-80.13431,26.119208],"type":"Point"}
 }

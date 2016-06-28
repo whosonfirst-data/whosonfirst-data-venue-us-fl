@@ -2,13 +2,14 @@
   "id": 202805143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35221,27.32566,-80.35221,27.32566",
     "geom:latitude":27.32566,
     "geom:longitude":-80.35221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 NW Floresta Dr",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202805143,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466432322,
     "wof:name":"Northport Middle School",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.35221,27.32566,-80.35221,27.32566],
+  "bbox": [
+    -80.35221,
+    27.32566,
+    -80.35221,
+    27.32566
+],
   "geometry": {"coordinates":[-80.35221,27.32566],"type":"Point"}
 }

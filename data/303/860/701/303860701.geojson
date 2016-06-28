@@ -2,13 +2,14 @@
   "id": 303860701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.236814,30.320158,-84.236814,30.320158",
     "geom:latitude":30.320158,
     "geom:longitude":-84.236814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8680 Taff Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303860701,
-    "wof:lastmodified":1448999210,
+    "wof:lastmodified":1466445355,
     "wof:name":"North Florida Property Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-84.236814,30.320158,-84.236814,30.320158],
+  "bbox": [
+    -84.236814,
+    30.320158,
+    -84.236814,
+    30.320158
+],
   "geometry": {"coordinates":[-84.236814,30.320158],"type":"Point"}
 }

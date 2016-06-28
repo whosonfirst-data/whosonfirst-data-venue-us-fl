@@ -2,13 +2,14 @@
   "id": 202902771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.998042,29.164451,-80.998042,29.164451",
     "geom:latitude":29.164451,
     "geom:longitude":-80.998042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Ridgewood Ave",
     "sg:city":"South Daytona",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202902771,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466433639,
     "wof:name":"US Post Office",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.998042,29.164451,-80.998042,29.164451],
+  "bbox": [
+    -80.998042,
+    29.164451,
+    -80.998042,
+    29.164451
+],
   "geometry": {"coordinates":[-80.998042,29.164451],"type":"Point"}
 }

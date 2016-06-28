@@ -2,13 +2,14 @@
   "id": 303764035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.578942,30.311238,-81.578942,30.311238",
     "geom:latitude":30.311238,
     "geom:longitude":-81.578942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 S Arlington Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303764035,
-    "wof:lastmodified":1449000450,
+    "wof:lastmodified":1466443700,
     "wof:name":"Band Box Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.578942,30.311238,-81.578942,30.311238],
+  "bbox": [
+    -81.578942,
+    30.311238,
+    -81.578942,
+    30.311238
+],
   "geometry": {"coordinates":[-81.578942,30.311238],"type":"Point"}
 }

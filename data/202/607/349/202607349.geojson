@@ -2,13 +2,14 @@
   "id": 202607349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.643167,28.078629,-80.643167,28.078629",
     "geom:latitude":28.078629,
     "geom:longitude":-80.643167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Park Hill Blvd",
     "sg:city":"West Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202607349,
-    "wof:lastmodified":1449060439,
+    "wof:lastmodified":1466429769,
     "wof:name":"William P Diehl Landscaping",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.643167,28.078629,-80.643167,28.078629],
-  "geometry": {"coordinates":[-80.643167,28.078629],"type":"Point"}
+  "bbox": [
+    -80.643167,
+    28.078629,
+    -80.643167,
+    28.078629
+],
+  "geometry": {"coordinates":[-80.64316700000001,28.078629],"type":"Point"}
 }

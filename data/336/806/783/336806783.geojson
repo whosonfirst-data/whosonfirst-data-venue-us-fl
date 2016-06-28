@@ -2,13 +2,14 @@
   "id": 336806783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.192427,30.495094,-87.192427,30.495094",
     "geom:latitude":30.495094,
     "geom:longitude":-87.192427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2629 Creighton Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336806783,
-    "wof:lastmodified":1448996915,
+    "wof:lastmodified":1466438566,
     "wof:name":"SEA Mission",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mission"
     ]
 },
-  "bbox": [-87.192427,30.495094,-87.192427,30.495094],
+  "bbox": [
+    -87.192427,
+    30.495094,
+    -87.192427,
+    30.495094
+],
   "geometry": {"coordinates":[-87.192427,30.495094],"type":"Point"}
 }

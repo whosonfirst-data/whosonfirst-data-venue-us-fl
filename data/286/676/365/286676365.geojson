@@ -2,13 +2,14 @@
   "id": 286676365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.611849,30.295469,-81.611849,30.295469",
     "geom:latitude":30.295469,
     "geom:longitude":-81.611849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286676365,
-    "wof:lastmodified":1449017073,
+    "wof:lastmodified":1466436916,
     "wof:name":"Apartment Fire Extinguisher",
     "wof:parent_id":85868537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-81.611849,30.295469,-81.611849,30.295469],
-  "geometry": {"coordinates":[-81.611849,30.295469],"type":"Point"}
+  "bbox": [
+    -81.611849,
+    30.295469,
+    -81.611849,
+    30.295469
+],
+  "geometry": {"coordinates":[-81.61184900000001,30.295469],"type":"Point"}
 }

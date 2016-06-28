@@ -2,13 +2,14 @@
   "id": 303096217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40193,28.003414,-82.40193,28.003414",
     "geom:latitude":28.003414,
     "geom:longitude":-82.40193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 N 50th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303096217,
-    "wof:lastmodified":1448998908,
+    "wof:lastmodified":1466432152,
     "wof:name":"Larkin Contracting Inc",
     "wof:parent_id":85889703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.40193,28.003414,-82.40193,28.003414],
-  "geometry": {"coordinates":[-82.40193,28.003414],"type":"Point"}
+  "bbox": [
+    -82.40193,
+    28.003414,
+    -82.40193,
+    28.003414
+],
+  "geometry": {"coordinates":[-82.40192999999999,28.003414],"type":"Point"}
 }

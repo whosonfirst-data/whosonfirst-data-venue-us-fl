@@ -2,13 +2,14 @@
   "id": 236596861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649105,30.363339,-81.649105,30.363339",
     "geom:latitude":30.363339,
     "geom:longitude":-81.649105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 N Liberty St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236596861,
-    "wof:lastmodified":1449003324,
+    "wof:lastmodified":1466436853,
     "wof:name":"Poor Mans Thrift Store",
     "wof:parent_id":85807217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.649105,30.363339,-81.649105,30.363339],
-  "geometry": {"coordinates":[-81.649105,30.363339],"type":"Point"}
+  "bbox": [
+    -81.649105,
+    30.363339,
+    -81.649105,
+    30.363339
+],
+  "geometry": {"coordinates":[-81.64910500000001,30.363339],"type":"Point"}
 }

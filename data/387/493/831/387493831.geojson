@@ -2,13 +2,14 @@
   "id": 387493831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.473728,27.305606,-82.473728,27.305606",
     "geom:latitude":27.305606,
     "geom:longitude":-82.473728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 Vesper Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387493831,
-    "wof:lastmodified":1449057304,
+    "wof:lastmodified":1466446270,
     "wof:name":"Pedrero Painting Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.473728,27.305606,-82.473728,27.305606],
-  "geometry": {"coordinates":[-82.473728,27.305606],"type":"Point"}
+  "bbox": [
+    -82.473728,
+    27.305606,
+    -82.473728,
+    27.305606
+],
+  "geometry": {"coordinates":[-82.47372799999999,27.305606],"type":"Point"}
 }

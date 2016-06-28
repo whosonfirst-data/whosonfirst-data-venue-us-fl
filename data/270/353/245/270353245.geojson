@@ -2,13 +2,14 @@
   "id": 270353245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.326231,28.625061,-81.326231,28.625061",
     "geom:latitude":28.625061,
     "geom:longitude":-81.326231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Howell Branch Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270353245,
-    "wof:lastmodified":1449009305,
+    "wof:lastmodified":1466435508,
     "wof:name":"Examination Management Svc",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paramedic"
     ]
 },
-  "bbox": [-81.326231,28.625061,-81.326231,28.625061],
-  "geometry": {"coordinates":[-81.326231,28.625061],"type":"Point"}
+  "bbox": [
+    -81.326231,
+    28.625061,
+    -81.326231,
+    28.625061
+],
+  "geometry": {"coordinates":[-81.32623100000001,28.625061],"type":"Point"}
 }

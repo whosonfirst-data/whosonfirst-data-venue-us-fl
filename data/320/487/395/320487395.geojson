@@ -2,13 +2,14 @@
   "id": 320487395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24121,26.124306,-80.24121,26.124306",
     "geom:latitude":26.124306,
     "geom:longitude":-80.24121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 NW 70th Ave",
     "sg:city":"Plantation",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320487395,
-    "wof:lastmodified":1449012496,
+    "wof:lastmodified":1466441802,
     "wof:name":"Berger & Miller",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.24121,26.124306,-80.24121,26.124306],
+  "bbox": [
+    -80.24121,
+    26.124306,
+    -80.24121,
+    26.124306
+],
   "geometry": {"coordinates":[-80.24121,26.124306],"type":"Point"}
 }

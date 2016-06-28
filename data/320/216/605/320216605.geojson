@@ -2,13 +2,14 @@
   "id": 320216605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.229825,28.889661,-81.229825,28.889661",
     "geom:latitude":28.889661,
     "geom:longitude":-81.229825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"981 Shorecrest Ave",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320216605,
-    "wof:lastmodified":1449014536,
+    "wof:lastmodified":1466437086,
     "wof:name":"Paul's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.229825,28.889661,-81.229825,28.889661],
-  "geometry": {"coordinates":[-81.229825,28.889661],"type":"Point"}
+  "bbox": [
+    -81.229825,
+    28.889661,
+    -81.229825,
+    28.889661
+],
+  "geometry": {"coordinates":[-81.22982500000001,28.889661],"type":"Point"}
 }

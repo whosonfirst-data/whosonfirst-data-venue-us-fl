@@ -2,13 +2,14 @@
   "id": 303270389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.467918,28.418518,-81.467918,28.418518",
     "geom:latitude":28.418518,
     "geom:longitude":-81.467918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6263 Westwood Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303270389,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466435212,
     "wof:name":"Wynfield Inn - Westwood",
     "wof:parent_id":85889427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-81.467918,28.418518,-81.467918,28.418518],
+  "bbox": [
+    -81.467918,
+    28.418518,
+    -81.467918,
+    28.418518
+],
   "geometry": {"coordinates":[-81.467918,28.418518],"type":"Point"}
 }

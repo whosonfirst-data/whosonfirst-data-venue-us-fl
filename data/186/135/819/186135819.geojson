@@ -2,13 +2,14 @@
   "id": 186135819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299372,25.912458,-80.299372,25.912458",
     "geom:latitude":25.912458,
     "geom:longitude":-80.299372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6175 NW 153rd St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186135819,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466446175,
     "wof:name":"Medical Health Providers",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.299372,25.912458,-80.299372,25.912458],
-  "geometry": {"coordinates":[-80.299372,25.912458],"type":"Point"}
+  "bbox": [
+    -80.299372,
+    25.912458,
+    -80.299372,
+    25.912458
+],
+  "geometry": {"coordinates":[-80.29937200000001,25.912458],"type":"Point"}
 }

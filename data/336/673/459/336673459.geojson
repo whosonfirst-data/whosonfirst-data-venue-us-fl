@@ -2,13 +2,14 @@
   "id": 336673459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.545207,27.338778,-82.545207,27.338778",
     "geom:latitude":27.338778,
     "geom:longitude":-82.545207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336673459,
-    "wof:lastmodified":1448997369,
+    "wof:lastmodified":1466436247,
     "wof:name":"Harris Law Group",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.545207,27.338778,-82.545207,27.338778],
+  "bbox": [
+    -82.545207,
+    27.338778,
+    -82.545207,
+    27.338778
+],
   "geometry": {"coordinates":[-82.545207,27.338778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269768181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605067,30.27564,-81.605067,30.27564",
     "geom:latitude":30.27564,
     "geom:longitude":-81.605067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5855 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":269768181,
-    "wof:lastmodified":1449037075,
+    "wof:lastmodified":1466433543,
     "wof:name":"Jagged Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.605067,30.27564,-81.605067,30.27564],
-  "geometry": {"coordinates":[-81.605067,30.27564],"type":"Point"}
+  "bbox": [
+    -81.605067,
+    30.27564,
+    -81.605067,
+    30.27564
+],
+  "geometry": {"coordinates":[-81.60506700000001,30.27564],"type":"Point"}
 }

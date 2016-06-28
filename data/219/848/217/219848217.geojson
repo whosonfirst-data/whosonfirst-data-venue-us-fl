@@ -2,13 +2,14 @@
   "id": 219848217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.778259,30.248115,-81.778259,30.248115",
     "geom:latitude":30.248115,
     "geom:longitude":-81.778259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 103rd St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219848217,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466436116,
     "wof:name":"Visions Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.778259,30.248115,-81.778259,30.248115],
-  "geometry": {"coordinates":[-81.778259,30.248115],"type":"Point"}
+  "bbox": [
+    -81.778259,
+    30.248115,
+    -81.778259,
+    30.248115
+],
+  "geometry": {"coordinates":[-81.77825900000001,30.248115],"type":"Point"}
 }

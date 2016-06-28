@@ -2,13 +2,14 @@
   "id": 219960183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653242,28.491195,-82.653242,28.491195",
     "geom:latitude":28.491195,
     "geom:longitude":-82.653242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4304 Carlos Ct",
     "sg:city":"Hernando Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219960183,
-    "wof:lastmodified":1449072939,
+    "wof:lastmodified":1466437663,
     "wof:name":"Suncoast Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automation"
     ]
 },
-  "bbox": [-82.653242,28.491195,-82.653242,28.491195],
-  "geometry": {"coordinates":[-82.653242,28.491195],"type":"Point"}
+  "bbox": [
+    -82.653242,
+    28.491195,
+    -82.653242,
+    28.491195
+],
+  "geometry": {"coordinates":[-82.65324200000001,28.491195],"type":"Point"}
 }

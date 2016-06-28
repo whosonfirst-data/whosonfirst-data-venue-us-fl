@@ -2,13 +2,14 @@
   "id": 202669161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.444066,28.416322,-81.444066,28.416322",
     "geom:latitude":28.416322,
     "geom:longitude":-81.444066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5237 Gateway Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202669161,
-    "wof:lastmodified":1449060397,
+    "wof:lastmodified":1466430586,
     "wof:name":"Timeshares By Resale Inc",
     "wof:parent_id":85889377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "plan"
     ]
 },
-  "bbox": [-81.444066,28.416322,-81.444066,28.416322],
-  "geometry": {"coordinates":[-81.444066,28.416322],"type":"Point"}
+  "bbox": [
+    -81.444066,
+    28.416322,
+    -81.444066,
+    28.416322
+],
+  "geometry": {"coordinates":[-81.44406600000001,28.416322],"type":"Point"}
 }

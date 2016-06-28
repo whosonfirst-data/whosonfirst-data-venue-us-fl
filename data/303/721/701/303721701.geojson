@@ -2,13 +2,14 @@
   "id": 303721701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.267789,26.149987,-80.267789,26.149987",
     "geom:latitude":26.149987,
     "geom:longitude":-80.267789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 N Pine Island Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303721701,
-    "wof:lastmodified":1449000560,
+    "wof:lastmodified":1466442989,
     "wof:name":"Bankatlantic Branch 1009",
     "wof:parent_id":85896113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.267789,26.149987,-80.267789,26.149987],
-  "geometry": {"coordinates":[-80.267789,26.149987],"type":"Point"}
+  "bbox": [
+    -80.267789,
+    26.149987,
+    -80.267789,
+    26.149987
+],
+  "geometry": {"coordinates":[-80.26778899999999,26.149987],"type":"Point"}
 }

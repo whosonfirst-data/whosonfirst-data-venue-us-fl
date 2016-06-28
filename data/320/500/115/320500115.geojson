@@ -2,13 +2,14 @@
   "id": 320500115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.371855,28.480175,-81.371855,28.480175",
     "geom:latitude":28.480175,
     "geom:longitude":-81.371855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320500115,
-    "wof:lastmodified":1449012191,
+    "wof:lastmodified":1466442028,
     "wof:name":"Central Florida Educators CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.371855,28.480175,-81.371855,28.480175],
+  "bbox": [
+    -81.371855,
+    28.480175,
+    -81.371855,
+    28.480175
+],
   "geometry": {"coordinates":[-81.371855,28.480175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403705193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617083,28.17513,-81.617083,28.17513",
     "geom:latitude":28.17513,
     "geom:longitude":-81.617083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Ashton Dr",
     "sg:city":"Davenport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403705193,
-    "wof:lastmodified":1449055971,
+    "wof:lastmodified":1466439622,
     "wof:name":"Quality Systems",
     "wof:parent_id":85888731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.617083,28.17513,-81.617083,28.17513],
-  "geometry": {"coordinates":[-81.617083,28.17513],"type":"Point"}
+  "bbox": [
+    -81.617083,
+    28.17513,
+    -81.617083,
+    28.17513
+],
+  "geometry": {"coordinates":[-81.61708299999999,28.17513],"type":"Point"}
 }

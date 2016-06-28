@@ -2,13 +2,14 @@
   "id": 269775609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.463923,27.941677,-82.463923,27.941677",
     "geom:latitude":27.941677,
     "geom:longitude":-82.463923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Platt St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269775609,
-    "wof:lastmodified":1449038065,
+    "wof:lastmodified":1466433682,
     "wof:name":"Netlink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-82.463923,27.941677,-82.463923,27.941677],
-  "geometry": {"coordinates":[-82.463923,27.941677],"type":"Point"}
+  "bbox": [
+    -82.463923,
+    27.941677,
+    -82.463923,
+    27.941677
+],
+  "geometry": {"coordinates":[-82.46392299999999,27.941677],"type":"Point"}
 }

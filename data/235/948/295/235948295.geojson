@@ -2,13 +2,14 @@
   "id": 235948295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.25678,30.4227,-87.25678,30.4227",
     "geom:latitude":30.4227,
     "geom:longitude":-87.25678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Mobile Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235948295,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466428642,
     "wof:name":"My Tan Supermarket",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oriental"
     ]
 },
-  "bbox": [-87.25678,30.4227,-87.25678,30.4227],
-  "geometry": {"coordinates":[-87.25678,30.4227],"type":"Point"}
+  "bbox": [
+    -87.25678,
+    30.4227,
+    -87.25678,
+    30.4227
+],
+  "geometry": {"coordinates":[-87.25678000000001,30.4227],"type":"Point"}
 }

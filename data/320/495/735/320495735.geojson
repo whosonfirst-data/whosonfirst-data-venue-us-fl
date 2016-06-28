@@ -2,13 +2,14 @@
   "id": 320495735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490733,27.295798,-82.490733,27.295798",
     "geom:latitude":27.295798,
     "geom:longitude":-82.490733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 Crabtree Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320495735,
-    "wof:lastmodified":1449012903,
+    "wof:lastmodified":1466441954,
     "wof:name":"Gecko Web Design",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-82.490733,27.295798,-82.490733,27.295798],
-  "geometry": {"coordinates":[-82.490733,27.295798],"type":"Point"}
+  "bbox": [
+    -82.490733,
+    27.295798,
+    -82.490733,
+    27.295798
+],
+  "geometry": {"coordinates":[-82.49073300000001,27.295798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303303031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.529213,30.275189,-81.529213,30.275189",
     "geom:latitude":30.275189,
     "geom:longitude":-81.529213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11265 Alumni Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303303031,
-    "wof:lastmodified":1448998141,
+    "wof:lastmodified":1466435762,
     "wof:name":"Wilshire Mortgage Co",
     "wof:parent_id":85866895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.529213,30.275189,-81.529213,30.275189],
+  "bbox": [
+    -81.529213,
+    30.275189,
+    -81.529213,
+    30.275189
+],
   "geometry": {"coordinates":[-81.529213,30.275189],"type":"Point"}
 }

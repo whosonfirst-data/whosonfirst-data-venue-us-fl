@@ -2,13 +2,14 @@
   "id": 320408633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.159754,25.967338,-80.159754,25.967338",
     "geom:latitude":25.967338,
     "geom:longitude":-80.159754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 NE 208th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320408633,
-    "wof:lastmodified":1449011710,
+    "wof:lastmodified":1466440392,
     "wof:name":"Connie Fields Interior",
     "wof:parent_id":85825175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.159754,25.967338,-80.159754,25.967338],
-  "geometry": {"coordinates":[-80.159754,25.967338],"type":"Point"}
+  "bbox": [
+    -80.159754,
+    25.967338,
+    -80.159754,
+    25.967338
+],
+  "geometry": {"coordinates":[-80.15975400000001,25.967338],"type":"Point"}
 }

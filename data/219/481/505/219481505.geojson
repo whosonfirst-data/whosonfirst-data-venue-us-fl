@@ -2,13 +2,14 @@
   "id": 219481505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.851711,30.061946,-81.851711,30.061946",
     "geom:latitude":30.061946,
     "geom:longitude":-81.851711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3144 Ravines Rd",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219481505,
-    "wof:lastmodified":1449073465,
+    "wof:lastmodified":1466431282,
     "wof:name":"N & N Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.851711,30.061946,-81.851711,30.061946],
-  "geometry": {"coordinates":[-81.851711,30.061946],"type":"Point"}
+  "bbox": [
+    -81.851711,
+    30.061946,
+    -81.851711,
+    30.061946
+],
+  "geometry": {"coordinates":[-81.85171099999999,30.061946],"type":"Point"}
 }

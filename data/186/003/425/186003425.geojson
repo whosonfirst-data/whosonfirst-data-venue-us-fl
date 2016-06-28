@@ -2,13 +2,14 @@
   "id": 186003425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731243,30.358135,-81.731243,30.358135",
     "geom:latitude":30.358135,
     "geom:longitude":-81.731243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 Edgewood Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186003425,
-    "wof:lastmodified":1449052817,
+    "wof:lastmodified":1466429789,
     "wof:name":"All Time Towing & Repair",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.731243,30.358135,-81.731243,30.358135],
-  "geometry": {"coordinates":[-81.731243,30.358135],"type":"Point"}
+  "bbox": [
+    -81.731243,
+    30.358135,
+    -81.731243,
+    30.358135
+],
+  "geometry": {"coordinates":[-81.73124300000001,30.358135],"type":"Point"}
 }

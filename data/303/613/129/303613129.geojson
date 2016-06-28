@@ -2,13 +2,14 @@
   "id": 303613129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.323782,30.373829,-87.323782,30.373829",
     "geom:latitude":30.373829,
     "geom:longitude":-87.323782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 Gulf Beach Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303613129,
-    "wof:lastmodified":1448999259,
+    "wof:lastmodified":1466441077,
     "wof:name":"Rocky's Bar",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-87.323782,30.373829,-87.323782,30.373829],
-  "geometry": {"coordinates":[-87.323782,30.373829],"type":"Point"}
+  "bbox": [
+    -87.323782,
+    30.373829,
+    -87.323782,
+    30.373829
+],
+  "geometry": {"coordinates":[-87.32378199999999,30.373829],"type":"Point"}
 }

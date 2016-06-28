@@ -2,13 +2,14 @@
   "id": 353909705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.018104,29.233523,-81.018104,29.233523",
     "geom:latitude":29.233523,
     "geom:longitude":-81.018104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Seabreeze Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353909705,
-    "wof:lastmodified":1449020173,
+    "wof:lastmodified":1466442619,
     "wof:name":"Universal Map",
     "wof:parent_id":85847529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.018104,29.233523,-81.018104,29.233523],
-  "geometry": {"coordinates":[-81.018104,29.233523],"type":"Point"}
+  "bbox": [
+    -81.018104,
+    29.233523,
+    -81.018104,
+    29.233523
+],
+  "geometry": {"coordinates":[-81.01810399999999,29.233523],"type":"Point"}
 }

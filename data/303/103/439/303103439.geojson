@@ -2,13 +2,14 @@
   "id": 303103439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.506196,27.600165,-81.506196,27.600165",
     "geom:latitude":27.600165,
     "geom:longitude":-81.506196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 N Central Ave",
     "sg:city":"Avon Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303103439,
-    "wof:lastmodified":1448999646,
+    "wof:lastmodified":1466432276,
     "wof:name":"Buttercrust Bakeries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-81.506196,27.600165,-81.506196,27.600165],
+  "bbox": [
+    -81.506196,
+    27.600165,
+    -81.506196,
+    27.600165
+],
   "geometry": {"coordinates":[-81.506196,27.600165],"type":"Point"}
 }

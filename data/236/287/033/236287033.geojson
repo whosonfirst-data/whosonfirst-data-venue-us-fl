@@ -2,13 +2,14 @@
   "id": 236287033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.471593,30.270031,-81.471593,30.270031",
     "geom:latitude":30.270031,
     "geom:longitude":-81.471593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13094 Harborton Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236287033,
-    "wof:lastmodified":1449001826,
+    "wof:lastmodified":1466432484,
     "wof:name":"Custom Surrounding Inc",
     "wof:parent_id":85847107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.471593,30.270031,-81.471593,30.270031],
+  "bbox": [
+    -81.471593,
+    30.270031,
+    -81.471593,
+    30.270031
+],
   "geometry": {"coordinates":[-81.471593,30.270031],"type":"Point"}
 }

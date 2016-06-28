@@ -2,13 +2,14 @@
   "id": 354185453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335973,25.77269,-80.335973,25.77269",
     "geom:latitude":25.77269,
     "geom:longitude":-80.335973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8661 NW 4th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354185453,
-    "wof:lastmodified":1449066216,
+    "wof:lastmodified":1466438939,
     "wof:name":"Mark Fatow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.335973,25.77269,-80.335973,25.77269],
+  "bbox": [
+    -80.335973,
+    25.77269,
+    -80.335973,
+    25.77269
+],
   "geometry": {"coordinates":[-80.335973,25.77269],"type":"Point"}
 }

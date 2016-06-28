@@ -2,13 +2,14 @@
   "id": 354414277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.23346,30.491181,-87.23346,30.491181",
     "geom:latitude":30.491181,
     "geom:longitude":-87.23346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Shiloh Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354414277,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1466442427,
     "wof:name":"KIRK Onderdonk Contractor",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.23346,30.491181,-87.23346,30.491181],
-  "geometry": {"coordinates":[-87.23346,30.491181],"type":"Point"}
+  "bbox": [
+    -87.23346,
+    30.491181,
+    -87.23346,
+    30.491181
+],
+  "geometry": {"coordinates":[-87.23345999999999,30.491181],"type":"Point"}
 }

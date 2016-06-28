@@ -2,13 +2,14 @@
   "id": 202756551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.011636,29.731445,-85.011636,29.731445",
     "geom:latitude":29.731445,
     "geom:longitude":-85.011636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Bluff Rd",
     "sg:city":"Apalachicola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202756551,
-    "wof:lastmodified":1449061637,
+    "wof:lastmodified":1466431709,
     "wof:name":"Bluff Road Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-85.011636,29.731445,-85.011636,29.731445],
+  "bbox": [
+    -85.011636,
+    29.731445,
+    -85.011636,
+    29.731445
+],
   "geometry": {"coordinates":[-85.011636,29.731445],"type":"Point"}
 }

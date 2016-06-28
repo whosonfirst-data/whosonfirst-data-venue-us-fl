@@ -2,13 +2,14 @@
   "id": 303192969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.382567,25.161441,-80.382567,25.161441",
     "geom:latitude":25.161441,
     "geom:longitude":-80.382567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105700 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303192969,
-    "wof:lastmodified":1448999848,
+    "wof:lastmodified":1466433872,
     "wof:name":"K & W Self Storage",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-80.382567,25.161441,-80.382567,25.161441],
-  "geometry": {"coordinates":[-80.382567,25.161441],"type":"Point"}
+  "bbox": [
+    -80.382567,
+    25.161441,
+    -80.382567,
+    25.161441
+],
+  "geometry": {"coordinates":[-80.38256699999999,25.161441],"type":"Point"}
 }

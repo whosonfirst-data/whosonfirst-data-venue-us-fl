@@ -2,13 +2,14 @@
   "id": 387666353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.669909,30.429904,-81.669909,30.429904",
     "geom:latitude":30.429904,
     "geom:longitude":-81.669909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Dunn Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387666353,
-    "wof:lastmodified":1449057493,
+    "wof:lastmodified":1466448007,
     "wof:name":"Giant Jacksonville",
     "wof:parent_id":85838407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.669909,30.429904,-81.669909,30.429904],
+  "bbox": [
+    -81.669909,
+    30.429904,
+    -81.669909,
+    30.429904
+],
   "geometry": {"coordinates":[-81.669909,30.429904],"type":"Point"}
 }

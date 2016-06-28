@@ -2,13 +2,14 @@
   "id": 286584217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.34059,26.967482,-82.34059,26.967482",
     "geom:latitude":26.967482,
     "geom:longitude":-82.34059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 N Oxford Dr",
     "sg:city":"Englewood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286584217,
-    "wof:lastmodified":1449015496,
+    "wof:lastmodified":1466435263,
     "wof:name":"SOS Septic Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "septic"
     ]
 },
-  "bbox": [-82.34059,26.967482,-82.34059,26.967482],
-  "geometry": {"coordinates":[-82.34059,26.967482],"type":"Point"}
+  "bbox": [
+    -82.34059,
+    26.967482,
+    -82.34059,
+    26.967482
+],
+  "geometry": {"coordinates":[-82.34059000000001,26.967482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370335961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184223,25.839697,-80.184223,25.839697",
     "geom:latitude":25.839697,
     "geom:longitude":-80.184223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7015 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370335961,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1466439307,
     "wof:name":"Chez Rosie Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.184223,25.839697,-80.184223,25.839697],
+  "bbox": [
+    -80.184223,
+    25.839697,
+    -80.184223,
+    25.839697
+],
   "geometry": {"coordinates":[-80.184223,25.839697],"type":"Point"}
 }

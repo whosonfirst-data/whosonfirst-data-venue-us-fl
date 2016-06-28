@@ -2,13 +2,14 @@
   "id": 203075719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.207948,30.426859,-87.207948,30.426859",
     "geom:latitude":30.426859,
     "geom:longitude":-87.207948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N 9th Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203075719,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1466444562,
     "wof:name":"Mail Depot Too",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "receiving"
     ]
 },
-  "bbox": [-87.207948,30.426859,-87.207948,30.426859],
+  "bbox": [
+    -87.207948,
+    30.426859,
+    -87.207948,
+    30.426859
+],
   "geometry": {"coordinates":[-87.207948,30.426859],"type":"Point"}
 }

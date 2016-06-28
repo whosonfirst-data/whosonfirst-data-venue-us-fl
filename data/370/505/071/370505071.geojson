@@ -2,13 +2,14 @@
   "id": 370505071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.218475,26.347673,-80.218475,26.347673",
     "geom:latitude":26.347673,
     "geom:longitude":-80.218475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 Ataman St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370505071,
-    "wof:lastmodified":1449031906,
+    "wof:lastmodified":1466441919,
     "wof:name":"Swiss Vending",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.218475,26.347673,-80.218475,26.347673],
+  "bbox": [
+    -80.218475,
+    26.347673,
+    -80.218475,
+    26.347673
+],
   "geometry": {"coordinates":[-80.218475,26.347673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370200165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210793,25.889446,-80.210793,25.889446",
     "geom:latitude":25.889446,
     "geom:longitude":-80.210793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12565 NW 7th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370200165,
-    "wof:lastmodified":1449030439,
+    "wof:lastmodified":1466437228,
     "wof:name":"Bob Hewes Boats",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.210793,25.889446,-80.210793,25.889446],
+  "bbox": [
+    -80.210793,
+    25.889446,
+    -80.210793,
+    25.889446
+],
   "geometry": {"coordinates":[-80.210793,25.889446],"type":"Point"}
 }

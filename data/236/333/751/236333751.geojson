@@ -2,13 +2,14 @@
   "id": 236333751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49357,25.462347,-80.49357,25.462347",
     "geom:latitude":25.462347,
     "geom:longitude":-80.49357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 NW Redland Rd",
     "sg:city":"Florida City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236333751,
-    "wof:lastmodified":1449004974,
+    "wof:lastmodified":1466433136,
     "wof:name":"Sweet Vine Inc",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-80.49357,25.462347,-80.49357,25.462347],
-  "geometry": {"coordinates":[-80.49357,25.462347],"type":"Point"}
+  "bbox": [
+    -80.49357,
+    25.462347,
+    -80.49357,
+    25.462347
+],
+  "geometry": {"coordinates":[-80.49357000000001,25.462347],"type":"Point"}
 }

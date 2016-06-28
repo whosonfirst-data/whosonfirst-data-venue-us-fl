@@ -2,13 +2,14 @@
   "id": 387263671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.373844,26.098316,-80.373844,26.098316",
     "geom:latitude":26.098316,
     "geom:longitude":-80.373844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 Eastlake Way",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387263671,
-    "wof:lastmodified":1449059807,
+    "wof:lastmodified":1466442768,
     "wof:name":"West Skeeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.373844,26.098316,-80.373844,26.098316],
-  "geometry": {"coordinates":[-80.373844,26.098316],"type":"Point"}
+  "bbox": [
+    -80.373844,
+    26.098316,
+    -80.373844,
+    26.098316
+],
+  "geometry": {"coordinates":[-80.37384400000001,26.098316],"type":"Point"}
 }

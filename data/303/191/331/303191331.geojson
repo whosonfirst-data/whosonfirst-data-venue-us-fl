@@ -2,13 +2,14 @@
   "id": 303191331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627429,27.497766,-82.627429,27.497766",
     "geom:latitude":27.497766,
     "geom:longitude":-82.627429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6417 3rd Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303191331,
-    "wof:lastmodified":1448999601,
+    "wof:lastmodified":1466433841,
     "wof:name":"Manatee Obstetrics & Gyn",
     "wof:parent_id":85888577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.627429,27.497766,-82.627429,27.497766],
-  "geometry": {"coordinates":[-82.627429,27.497766],"type":"Point"}
+  "bbox": [
+    -82.627429,
+    27.497766,
+    -82.627429,
+    27.497766
+],
+  "geometry": {"coordinates":[-82.62742900000001,27.497766],"type":"Point"}
 }

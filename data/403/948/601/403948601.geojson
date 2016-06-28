@@ -2,13 +2,14 @@
   "id": 403948601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.514018,27.315524,-82.514018,27.315524",
     "geom:latitude":27.315524,
     "geom:longitude":-82.514018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2894 Hyde Park St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403948601,
-    "wof:lastmodified":1449055684,
+    "wof:lastmodified":1466443500,
     "wof:name":"South Shore Community Church",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.514018,27.315524,-82.514018,27.315524],
-  "geometry": {"coordinates":[-82.514018,27.315524],"type":"Point"}
+  "bbox": [
+    -82.514018,
+    27.315524,
+    -82.514018,
+    27.315524
+],
+  "geometry": {"coordinates":[-82.51401799999999,27.315524],"type":"Point"}
 }

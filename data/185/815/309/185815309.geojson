@@ -2,13 +2,14 @@
   "id": 185815309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.470525,28.622476,-81.470525,28.622476",
     "geom:latitude":28.622476,
     "geom:longitude":-81.470525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6498 Royal Tern St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185815309,
-    "wof:lastmodified":1449007403,
+    "wof:lastmodified":1466429152,
     "wof:name":"Kemps House of Golden Eagles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.470525,28.622476,-81.470525,28.622476],
-  "geometry": {"coordinates":[-81.470525,28.622476],"type":"Point"}
+  "bbox": [
+    -81.470525,
+    28.622476,
+    -81.470525,
+    28.622476
+],
+  "geometry": {"coordinates":[-81.47052499999999,28.622476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252909273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.703029,30.249325,-81.703029,30.249325",
     "geom:latitude":30.249325,
     "geom:longitude":-81.703029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4609 Sussex Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252909273,
-    "wof:lastmodified":1449006228,
+    "wof:lastmodified":1466431338,
     "wof:name":"Sports Car Club Of America",
     "wof:parent_id":85853563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.703029,30.249325,-81.703029,30.249325],
+  "bbox": [
+    -81.703029,
+    30.249325,
+    -81.703029,
+    30.249325
+],
   "geometry": {"coordinates":[-81.703029,30.249325],"type":"Point"}
 }

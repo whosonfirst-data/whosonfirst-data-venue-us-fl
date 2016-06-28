@@ -2,13 +2,14 @@
   "id": 320549843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.287151,26.13827,-80.287151,26.13827",
     "geom:latitude":26.13827,
     "geom:longitude":-80.287151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"965 N Nob Hill Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320549843,
-    "wof:lastmodified":1449012284,
+    "wof:lastmodified":1466442904,
     "wof:name":"Broward Pools",
     "wof:parent_id":85896113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.287151,26.13827,-80.287151,26.13827],
-  "geometry": {"coordinates":[-80.287151,26.13827],"type":"Point"}
+  "bbox": [
+    -80.287151,
+    26.13827,
+    -80.287151,
+    26.13827
+],
+  "geometry": {"coordinates":[-80.28715099999999,26.13827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303187371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.39664,28.481303,-81.39664,28.481303",
     "geom:latitude":28.481303,
     "geom:longitude":-81.39664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303187371,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466433767,
     "wof:name":"JRC Transmission Svc",
     "wof:parent_id":85879507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.39664,28.481303,-81.39664,28.481303],
+  "bbox": [
+    -81.39664,
+    28.481303,
+    -81.39664,
+    28.481303
+],
   "geometry": {"coordinates":[-81.39664,28.481303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336788923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.843533,27.910463,-81.843533,27.910463",
     "geom:latitude":27.910463,
     "geom:longitude":-81.843533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 N Broadway Ave",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336788923,
-    "wof:lastmodified":1448997510,
+    "wof:lastmodified":1466438259,
     "wof:name":"Qualimed Respiratory Mobility",
     "wof:parent_id":85888549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.843533,27.910463,-81.843533,27.910463],
-  "geometry": {"coordinates":[-81.843533,27.910463],"type":"Point"}
+  "bbox": [
+    -81.843533,
+    27.910463,
+    -81.843533,
+    27.910463
+],
+  "geometry": {"coordinates":[-81.84353299999999,27.910463],"type":"Point"}
 }

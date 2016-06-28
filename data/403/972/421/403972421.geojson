@@ -2,13 +2,14 @@
   "id": 403972421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.85283,26.562909,-81.85283,26.562909",
     "geom:latitude":26.562909,
     "geom:longitude":-81.85283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12541 Metro Pkwy",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403972421,
-    "wof:lastmodified":1449055309,
+    "wof:lastmodified":1466443878,
     "wof:name":"United Transmission Svc",
     "wof:parent_id":85888789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.85283,26.562909,-81.85283,26.562909],
+  "bbox": [
+    -81.85283,
+    26.562909,
+    -81.85283,
+    26.562909
+],
   "geometry": {"coordinates":[-81.85283,26.562909],"type":"Point"}
 }

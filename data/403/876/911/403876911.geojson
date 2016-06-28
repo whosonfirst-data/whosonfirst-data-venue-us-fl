@@ -2,13 +2,14 @@
   "id": 403876911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.531861,27.36719,-82.531861,27.36719",
     "geom:latitude":27.36719,
     "geom:longitude":-82.531861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 Myrtle St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":403876911,
-    "wof:lastmodified":1449054906,
+    "wof:lastmodified":1466442363,
     "wof:name":"Bucko's Inc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.531861,27.36719,-82.531861,27.36719],
-  "geometry": {"coordinates":[-82.531861,27.36719],"type":"Point"}
+  "bbox": [
+    -82.531861,
+    27.36719,
+    -82.531861,
+    27.36719
+],
+  "geometry": {"coordinates":[-82.53186100000001,27.36719],"type":"Point"}
 }

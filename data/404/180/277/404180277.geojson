@@ -2,13 +2,14 @@
   "id": 404180277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523783,28.021079,-82.523783,28.021079",
     "geom:latitude":28.021079,
     "geom:longitude":-82.523783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7930 Woodland Center Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404180277,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1466443039,
     "wof:name":"Micropolyx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tubing"
     ]
 },
-  "bbox": [-82.523783,28.021079,-82.523783,28.021079],
-  "geometry": {"coordinates":[-82.523783,28.021079],"type":"Point"}
+  "bbox": [
+    -82.523783,
+    28.021079,
+    -82.523783,
+    28.021079
+],
+  "geometry": {"coordinates":[-82.52378299999999,28.021079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403868131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.756003,27.810565,-82.756003,27.810565",
     "geom:latitude":27.810565,
     "geom:longitude":-82.756003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8424 Bay Pines Blvd",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403868131,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1466442230,
     "wof:name":"Sea Horse Mobile Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-82.756003,27.810565,-82.756003,27.810565],
-  "geometry": {"coordinates":[-82.756003,27.810565],"type":"Point"}
+  "bbox": [
+    -82.756003,
+    27.810565,
+    -82.756003,
+    27.810565
+],
+  "geometry": {"coordinates":[-82.75600300000001,27.810565],"type":"Point"}
 }

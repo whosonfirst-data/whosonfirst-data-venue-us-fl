@@ -2,13 +2,14 @@
   "id": 169614651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.469576,27.941809,-82.469576,27.941809",
     "geom:latitude":27.941809,
     "geom:longitude":-82.469576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 W Platt St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169614651,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466442333,
     "wof:name":"Property Tax Control Southwest",
     "wof:parent_id":85889805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tax"
     ]
 },
-  "bbox": [-82.469576,27.941809,-82.469576,27.941809],
+  "bbox": [
+    -82.469576,
+    27.941809,
+    -82.469576,
+    27.941809
+],
   "geometry": {"coordinates":[-82.469576,27.941809],"type":"Point"}
 }

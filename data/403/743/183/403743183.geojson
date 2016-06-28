@@ -2,13 +2,14 @@
   "id": 403743183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.389906,27.255481,-80.389906,27.255481",
     "geom:latitude":27.255481,
     "geom:longitude":-80.389906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2981 SW Savona Blvd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403743183,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1466440221,
     "wof:name":"Advanced Design & Building",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.389906,27.255481,-80.389906,27.255481],
+  "bbox": [
+    -80.389906,
+    27.255481,
+    -80.389906,
+    27.255481
+],
   "geometry": {"coordinates":[-80.389906,27.255481],"type":"Point"}
 }

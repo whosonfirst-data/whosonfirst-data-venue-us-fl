@@ -2,13 +2,14 @@
   "id": 219854963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.873275,26.632853,-81.873275,26.632853",
     "geom:latitude":26.632853,
     "geom:longitude":-81.873275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Cortez Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219854963,
-    "wof:lastmodified":1449073785,
+    "wof:lastmodified":1466436203,
     "wof:name":"U-Turn Laundromat",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.873275,26.632853,-81.873275,26.632853],
-  "geometry": {"coordinates":[-81.873275,26.632853],"type":"Point"}
+  "bbox": [
+    -81.873275,
+    26.632853,
+    -81.873275,
+    26.632853
+],
+  "geometry": {"coordinates":[-81.87327500000001,26.632853],"type":"Point"}
 }

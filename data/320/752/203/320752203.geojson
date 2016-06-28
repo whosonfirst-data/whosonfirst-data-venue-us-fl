@@ -2,13 +2,14 @@
   "id": 320752203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.69513,27.829798,-82.69513,27.829798",
     "geom:latitude":27.829798,
     "geom:longitude":-82.69513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 63rd Cir N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320752203,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1466446344,
     "wof:name":"Top End Wheelchair Sports",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.69513,27.829798,-82.69513,27.829798],
-  "geometry": {"coordinates":[-82.69513,27.829798],"type":"Point"}
+  "bbox": [
+    -82.69513,
+    27.829798,
+    -82.69513,
+    27.829798
+],
+  "geometry": {"coordinates":[-82.69513000000001,27.829798],"type":"Point"}
 }

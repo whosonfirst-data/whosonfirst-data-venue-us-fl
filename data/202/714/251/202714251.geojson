@@ -2,13 +2,14 @@
   "id": 202714251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.626726,28.068174,-80.626726,28.068174",
     "geom:latitude":28.068174,
     "geom:longitude":-80.626726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Hailwood Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202714251,
-    "wof:lastmodified":1449061369,
+    "wof:lastmodified":1466431166,
     "wof:name":"Medpro Medical Billing Svc Inc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.626726,28.068174,-80.626726,28.068174],
-  "geometry": {"coordinates":[-80.626726,28.068174],"type":"Point"}
+  "bbox": [
+    -80.626726,
+    28.068174,
+    -80.626726,
+    28.068174
+],
+  "geometry": {"coordinates":[-80.62672600000001,28.068174],"type":"Point"}
 }

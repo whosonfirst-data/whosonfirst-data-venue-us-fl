@@ -2,13 +2,14 @@
   "id": 202626647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.689371,28.810395,-81.689371,28.810395",
     "geom:latitude":28.810395,
     "geom:longitude":-81.689371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Baywood Blvd",
     "sg:city":"Mount Dora",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202626647,
-    "wof:lastmodified":1449062647,
+    "wof:lastmodified":1466430038,
     "wof:name":"Thomas A Rivelli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.689371,28.810395,-81.689371,28.810395],
-  "geometry": {"coordinates":[-81.689371,28.810395],"type":"Point"}
+  "bbox": [
+    -81.689371,
+    28.810395,
+    -81.689371,
+    28.810395
+],
+  "geometry": {"coordinates":[-81.68937099999999,28.810395],"type":"Point"}
 }

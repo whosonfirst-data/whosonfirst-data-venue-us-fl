@@ -2,13 +2,14 @@
   "id": 354302727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08571,26.259798,-80.08571,26.259798",
     "geom:latitude":26.259798,
     "geom:longitude":-80.08571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 N Ocean Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302727,
-    "wof:lastmodified":1449066482,
+    "wof:lastmodified":1466440744,
     "wof:name":"A1A Cleaners",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.08571,26.259798,-80.08571,26.259798],
-  "geometry": {"coordinates":[-80.08571,26.259798],"type":"Point"}
+  "bbox": [
+    -80.08571,
+    26.259798,
+    -80.08571,
+    26.259798
+],
+  "geometry": {"coordinates":[-80.08571000000001,26.259798],"type":"Point"}
 }

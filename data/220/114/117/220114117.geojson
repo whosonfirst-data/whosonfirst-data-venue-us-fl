@@ -2,13 +2,14 @@
   "id": 220114117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247279,26.693046,-80.247279,26.693046",
     "geom:latitude":26.693046,
     "geom:longitude":-80.247279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12914 Raymond Dr",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220114117,
-    "wof:lastmodified":1449074376,
+    "wof:lastmodified":1466428408,
     "wof:name":"Florida On Location",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.247279,26.693046,-80.247279,26.693046],
-  "geometry": {"coordinates":[-80.247279,26.693046],"type":"Point"}
+  "bbox": [
+    -80.247279,
+    26.693046,
+    -80.247279,
+    26.693046
+],
+  "geometry": {"coordinates":[-80.24727900000001,26.693046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303139331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605759,30.27495,-81.605759,30.27495",
     "geom:latitude":30.27495,
     "geom:longitude":-81.605759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5851 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303139331,
-    "wof:lastmodified":1448998351,
+    "wof:lastmodified":1466432921,
     "wof:name":"Jamdown Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-81.605759,30.27495,-81.605759,30.27495],
-  "geometry": {"coordinates":[-81.605759,30.27495],"type":"Point"}
+  "bbox": [
+    -81.605759,
+    30.27495,
+    -81.605759,
+    30.27495
+],
+  "geometry": {"coordinates":[-81.60575900000001,30.27495],"type":"Point"}
 }

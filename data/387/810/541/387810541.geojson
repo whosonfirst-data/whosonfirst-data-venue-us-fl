@@ -2,13 +2,14 @@
   "id": 387810541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.079148,29.192407,-81.079148,29.192407",
     "geom:latitude":29.192407,
     "geom:longitude":-81.079148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Fentress Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387810541,
-    "wof:lastmodified":1449057203,
+    "wof:lastmodified":1466449027,
     "wof:name":"Read's Moving Systems Daytona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.079148,29.192407,-81.079148,29.192407],
+  "bbox": [
+    -81.079148,
+    29.192407,
+    -81.079148,
+    29.192407
+],
   "geometry": {"coordinates":[-81.079148,29.192407],"type":"Point"}
 }

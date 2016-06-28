@@ -2,13 +2,14 @@
   "id": 202411473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.704862,27.715183,-82.704862,27.715183",
     "geom:latitude":27.715183,
     "geom:longitude":-82.704862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Brittany Dr S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202411473,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466443680,
     "wof:name":"ADC Dommel Us Inc",
     "wof:parent_id":85880563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile"
     ]
 },
-  "bbox": [-82.704862,27.715183,-82.704862,27.715183],
-  "geometry": {"coordinates":[-82.704862,27.715183],"type":"Point"}
+  "bbox": [
+    -82.704862,
+    27.715183,
+    -82.704862,
+    27.715183
+],
+  "geometry": {"coordinates":[-82.70486200000001,27.715183],"type":"Point"}
 }

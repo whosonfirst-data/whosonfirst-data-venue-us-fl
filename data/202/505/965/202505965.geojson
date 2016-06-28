@@ -2,13 +2,14 @@
   "id": 202505965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.560888,30.28661,-81.560888,30.28661",
     "geom:latitude":30.28661,
     "geom:longitude":-81.560888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8720 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202505965,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466428433,
     "wof:name":"Perfect Fit Pro Shop",
     "wof:parent_id":85828301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-81.560888,30.28661,-81.560888,30.28661],
-  "geometry": {"coordinates":[-81.560888,30.28661],"type":"Point"}
+  "bbox": [
+    -81.560888,
+    30.28661,
+    -81.560888,
+    30.28661
+],
+  "geometry": {"coordinates":[-81.56088800000001,30.28661],"type":"Point"}
 }

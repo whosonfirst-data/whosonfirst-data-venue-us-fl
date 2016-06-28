@@ -2,13 +2,14 @@
   "id": 185601271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64463,26.207811,-81.64463,26.207811",
     "geom:latitude":26.207811,
     "geom:longitude":-81.64463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 19th St SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185601271,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1466428441,
     "wof:name":"Circle C Of Capri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.64463,26.207811,-81.64463,26.207811],
-  "geometry": {"coordinates":[-81.64463,26.207811],"type":"Point"}
+  "bbox": [
+    -81.64463,
+    26.207811,
+    -81.64463,
+    26.207811
+],
+  "geometry": {"coordinates":[-81.64463000000001,26.207811],"type":"Point"}
 }

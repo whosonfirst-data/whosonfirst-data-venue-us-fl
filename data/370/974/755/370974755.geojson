@@ -2,13 +2,14 @@
   "id": 370974755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.590449,28.490997,-82.590449,28.490997",
     "geom:latitude":28.490997,
     "geom:longitude":-82.590449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7235 Forest Oaks Blvd",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370974755,
-    "wof:lastmodified":1449032027,
+    "wof:lastmodified":1466447981,
     "wof:name":"Forest Oaks Eye Ctr",
     "wof:parent_id":85854973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.590449,28.490997,-82.590449,28.490997],
-  "geometry": {"coordinates":[-82.590449,28.490997],"type":"Point"}
+  "bbox": [
+    -82.590449,
+    28.490997,
+    -82.590449,
+    28.490997
+],
+  "geometry": {"coordinates":[-82.59044900000001,28.490997],"type":"Point"}
 }

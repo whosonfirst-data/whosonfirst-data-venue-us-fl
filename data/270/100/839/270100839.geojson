@@ -2,13 +2,14 @@
   "id": 270100839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.67982,28.577881,-81.67982,28.577881",
     "geom:latitude":28.577881,
     "geom:longitude":-81.67982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15522 Co Rd 455",
     "sg:city":"Montverde",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270100839,
-    "wof:lastmodified":1449010456,
+    "wof:lastmodified":1466431165,
     "wof:name":"Jedrow Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.67982,28.577881,-81.67982,28.577881],
-  "geometry": {"coordinates":[-81.67982,28.577881],"type":"Point"}
+  "bbox": [
+    -81.67982,
+    28.577881,
+    -81.67982,
+    28.577881
+],
+  "geometry": {"coordinates":[-81.67982000000001,28.577881],"type":"Point"}
 }

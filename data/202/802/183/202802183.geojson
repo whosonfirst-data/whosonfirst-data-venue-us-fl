@@ -2,13 +2,14 @@
   "id": 202802183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709595,28.46136,-80.709595,28.46136",
     "geom:latitude":28.46136,
     "geom:longitude":-80.709595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 N Courtenay Pkwy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202802183,
-    "wof:lastmodified":1449062192,
+    "wof:lastmodified":1466432287,
     "wof:name":"Crisafulli Site Developer",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leveling"
     ]
 },
-  "bbox": [-80.709595,28.46136,-80.709595,28.46136],
-  "geometry": {"coordinates":[-80.709595,28.46136],"type":"Point"}
+  "bbox": [
+    -80.709595,
+    28.46136,
+    -80.709595,
+    28.46136
+],
+  "geometry": {"coordinates":[-80.70959499999999,28.46136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286700729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.138055,29.718835,-82.138055,29.718835",
     "geom:latitude":29.718835,
     "geom:longitude":-82.138055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17107 NE 71 Pl",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286700729,
-    "wof:lastmodified":1449017841,
+    "wof:lastmodified":1466437348,
     "wof:name":"Florida Lawns Inc",
     "wof:parent_id":85812211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-82.138055,29.718835,-82.138055,29.718835],
-  "geometry": {"coordinates":[-82.138055,29.718835],"type":"Point"}
+  "bbox": [
+    -82.138055,
+    29.718835,
+    -82.138055,
+    29.718835
+],
+  "geometry": {"coordinates":[-82.13805499999999,29.718835],"type":"Point"}
 }

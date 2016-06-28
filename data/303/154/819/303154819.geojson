@@ -2,13 +2,14 @@
   "id": 303154819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.860447,29.750348,-82.860447,29.750348",
     "geom:latitude":29.750348,
     "geom:longitude":-82.860447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S Main St",
     "sg:city":"Bell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303154819,
-    "wof:lastmodified":1449000599,
+    "wof:lastmodified":1466433197,
     "wof:name":"Magic Mirror Beauty Salon",
     "wof:parent_id":85889847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.860447,29.750348,-82.860447,29.750348],
-  "geometry": {"coordinates":[-82.860447,29.750348],"type":"Point"}
+  "bbox": [
+    -82.860447,
+    29.750348,
+    -82.860447,
+    29.750348
+],
+  "geometry": {"coordinates":[-82.86044699999999,29.750348],"type":"Point"}
 }

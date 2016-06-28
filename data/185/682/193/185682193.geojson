@@ -2,13 +2,14 @@
   "id": 185682193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39681,28.003333,-82.39681,28.003333",
     "geom:latitude":28.003333,
     "geom:longitude":-82.39681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 E Hanna Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185682193,
-    "wof:lastmodified":1449006892,
+    "wof:lastmodified":1466445180,
     "wof:name":"Hillsboro Gas Company",
     "wof:parent_id":85889703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bottled"
     ]
 },
-  "bbox": [-82.39681,28.003333,-82.39681,28.003333],
+  "bbox": [
+    -82.39681,
+    28.003333,
+    -82.39681,
+    28.003333
+],
   "geometry": {"coordinates":[-82.39681,28.003333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336717805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.687248,26.201435,-81.687248,26.201435",
     "geom:latitude":26.201435,
     "geom:longitude":-81.687248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 15th Ave SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336717805,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466437014,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.687248,26.201435,-81.687248,26.201435],
+  "bbox": [
+    -81.687248,
+    26.201435,
+    -81.687248,
+    26.201435
+],
   "geometry": {"coordinates":[-81.687248,26.201435],"type":"Point"}
 }

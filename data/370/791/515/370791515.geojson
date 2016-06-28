@@ -2,13 +2,14 @@
   "id": 370791515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.461002,30.277982,-81.461002,30.277982",
     "geom:latitude":30.277982,
     "geom:longitude":-81.461002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3631 Hodges Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370791515,
-    "wof:lastmodified":1449031695,
+    "wof:lastmodified":1466446295,
     "wof:name":"Case Management",
     "wof:parent_id":85847107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-81.461002,30.277982,-81.461002,30.277982],
-  "geometry": {"coordinates":[-81.461002,30.277982],"type":"Point"}
+  "bbox": [
+    -81.461002,
+    30.277982,
+    -81.461002,
+    30.277982
+],
+  "geometry": {"coordinates":[-81.46100199999999,30.277982],"type":"Point"}
 }

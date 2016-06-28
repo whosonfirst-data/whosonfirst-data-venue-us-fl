@@ -2,13 +2,14 @@
   "id": 370754303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.619662,28.085117,-80.619662,28.085117",
     "geom:latitude":28.085117,
     "geom:longitude":-80.619662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Hibiscus Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370754303,
-    "wof:lastmodified":1449031290,
+    "wof:lastmodified":1466445744,
     "wof:name":"University Of Florida Surgeons",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.619662,28.085117,-80.619662,28.085117],
-  "geometry": {"coordinates":[-80.619662,28.085117],"type":"Point"}
+  "bbox": [
+    -80.619662,
+    28.085117,
+    -80.619662,
+    28.085117
+],
+  "geometry": {"coordinates":[-80.61966200000001,28.085117],"type":"Point"}
 }

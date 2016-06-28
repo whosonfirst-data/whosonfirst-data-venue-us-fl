@@ -2,13 +2,14 @@
   "id": 253740947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64812,28.123235,-81.64812,28.123235",
     "geom:latitude":28.123235,
     "geom:longitude":-81.64812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Kentucky St",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253740947,
-    "wof:lastmodified":1449064157,
+    "wof:lastmodified":1466439907,
     "wof:name":"Charles C Larson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.64812,28.123235,-81.64812,28.123235],
-  "geometry": {"coordinates":[-81.64812,28.123235],"type":"Point"}
+  "bbox": [
+    -81.64812,
+    28.123235,
+    -81.64812,
+    28.123235
+],
+  "geometry": {"coordinates":[-81.64812000000001,28.123235],"type":"Point"}
 }

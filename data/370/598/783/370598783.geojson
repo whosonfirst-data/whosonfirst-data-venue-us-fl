@@ -2,13 +2,14 @@
   "id": 370598783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.520153,27.928415,-82.520153,27.928415",
     "geom:latitude":27.928415,
     "geom:longitude":-82.520153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 W Estrella St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370598783,
-    "wof:lastmodified":1449029255,
+    "wof:lastmodified":1466443357,
     "wof:name":"Cruttenden A L and Lenore",
     "wof:parent_id":85873211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-82.520153,27.928415,-82.520153,27.928415],
-  "geometry": {"coordinates":[-82.520153,27.928415],"type":"Point"}
+  "bbox": [
+    -82.520153,
+    27.928415,
+    -82.520153,
+    27.928415
+],
+  "geometry": {"coordinates":[-82.52015299999999,27.928415],"type":"Point"}
 }

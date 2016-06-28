@@ -2,13 +2,14 @@
   "id": 404131421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103487,26.131251,-80.103487,26.131251",
     "geom:latitude":26.131251,
     "geom:longitude":-80.103487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 Terramar St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404131421,
-    "wof:lastmodified":1449039380,
+    "wof:lastmodified":1466442277,
     "wof:name":"Tarrymore Apartments",
     "wof:parent_id":85881955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.103487,26.131251,-80.103487,26.131251],
+  "bbox": [
+    -80.103487,
+    26.131251,
+    -80.103487,
+    26.131251
+],
   "geometry": {"coordinates":[-80.103487,26.131251],"type":"Point"}
 }

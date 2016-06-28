@@ -2,13 +2,14 @@
   "id": 387412757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.336448,29.8705,-81.336448,29.8705",
     "geom:latitude":29.8705,
     "geom:longitude":-81.336448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Whispering Cir",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387412757,
-    "wof:lastmodified":1449056876,
+    "wof:lastmodified":1466445036,
     "wof:name":"Whispering Pines",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.336448,29.8705,-81.336448,29.8705],
+  "bbox": [
+    -81.336448,
+    29.8705,
+    -81.336448,
+    29.8705
+],
   "geometry": {"coordinates":[-81.336448,29.8705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236095169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.480783,28.482812,-81.480783,28.482812",
     "geom:latitude":28.482812,
     "geom:longitude":-81.480783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7202 Glasgow Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236095169,
-    "wof:lastmodified":1449003310,
+    "wof:lastmodified":1466429717,
     "wof:name":"Brown Bag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-81.480783,28.482812,-81.480783,28.482812],
+  "bbox": [
+    -81.480783,
+    28.482812,
+    -81.480783,
+    28.482812
+],
   "geometry": {"coordinates":[-81.480783,28.482812],"type":"Point"}
 }

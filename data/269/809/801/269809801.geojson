@@ -2,13 +2,14 @@
   "id": 269809801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.579529,28.84358,-82.579529,28.84358",
     "geom:latitude":28.84358,
     "geom:longitude":-82.579529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 S Suncoast Blvd",
     "sg:city":"Homosassa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269809801,
-    "wof:lastmodified":1449038414,
+    "wof:lastmodified":1466434277,
     "wof:name":"Shed Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.579529,28.84358,-82.579529,28.84358],
-  "geometry": {"coordinates":[-82.579529,28.84358],"type":"Point"}
+  "bbox": [
+    -82.579529,
+    28.84358,
+    -82.579529,
+    28.84358
+],
+  "geometry": {"coordinates":[-82.57952899999999,28.84358],"type":"Point"}
 }

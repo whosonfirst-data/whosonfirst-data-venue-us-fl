@@ -2,13 +2,14 @@
   "id": 219912887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.785241,27.760362,-81.785241,27.760362",
     "geom:latitude":27.760362,
     "geom:longitude":-81.785241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Wanamaker Ave",
     "sg:city":"Fort Meade",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219912887,
-    "wof:lastmodified":1449072128,
+    "wof:lastmodified":1466436995,
     "wof:name":"Northside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.785241,27.760362,-81.785241,27.760362],
+  "bbox": [
+    -81.785241,
+    27.760362,
+    -81.785241,
+    27.760362
+],
   "geometry": {"coordinates":[-81.785241,27.760362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186642061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329059,25.802188,-80.329059,25.802188",
     "geom:latitude":25.802188,
     "geom:longitude":-80.329059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 NW 82nd Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186642061,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466434725,
     "wof:name":"Med More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-80.329059,25.802188,-80.329059,25.802188],
+  "bbox": [
+    -80.329059,
+    25.802188,
+    -80.329059,
+    25.802188
+],
   "geometry": {"coordinates":[-80.329059,25.802188],"type":"Point"}
 }

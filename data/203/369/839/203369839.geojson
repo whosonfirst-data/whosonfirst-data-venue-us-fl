@@ -2,13 +2,14 @@
   "id": 203369839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.103325,29.203079,-82.103325,29.203079",
     "geom:latitude":29.203079,
     "geom:longitude":-82.103325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 NE 25th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203369839,
-    "wof:lastmodified":1449026778,
+    "wof:lastmodified":1466431032,
     "wof:name":"West Central Florida Oil",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.103325,29.203079,-82.103325,29.203079],
+  "bbox": [
+    -82.103325,
+    29.203079,
+    -82.103325,
+    29.203079
+],
   "geometry": {"coordinates":[-82.103325,29.203079],"type":"Point"}
 }

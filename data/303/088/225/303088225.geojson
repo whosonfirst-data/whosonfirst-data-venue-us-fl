@@ -2,13 +2,14 @@
   "id": 303088225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.323107,29.650288,-82.323107,29.650288",
     "geom:latitude":29.650288,
     "geom:longitude":-82.323107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 SE 2 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303088225,
-    "wof:lastmodified":1449000022,
+    "wof:lastmodified":1466432011,
     "wof:name":"That Burrito & Smoothie Place",
     "wof:parent_id":85877647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.323107,29.650288,-82.323107,29.650288],
-  "geometry": {"coordinates":[-82.323107,29.650288],"type":"Point"}
+  "bbox": [
+    -82.323107,
+    29.650288,
+    -82.323107,
+    29.650288
+],
+  "geometry": {"coordinates":[-82.32310699999999,29.650288],"type":"Point"}
 }

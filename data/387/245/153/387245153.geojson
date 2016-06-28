@@ -2,13 +2,14 @@
   "id": 387245153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.629405,30.189395,-82.629405,30.189395",
     "geom:latitude":30.189395,
     "geom:longitude":-82.629405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 E Duval St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387245153,
-    "wof:lastmodified":1449059794,
+    "wof:lastmodified":1466442474,
     "wof:name":"Fleming Air & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.629405,30.189395,-82.629405,30.189395],
-  "geometry": {"coordinates":[-82.629405,30.189395],"type":"Point"}
+  "bbox": [
+    -82.629405,
+    30.189395,
+    -82.629405,
+    30.189395
+],
+  "geometry": {"coordinates":[-82.62940500000001,30.189395],"type":"Point"}
 }

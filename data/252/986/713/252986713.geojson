@@ -2,13 +2,14 @@
   "id": 252986713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.354593,27.298534,-81.354593,27.298534",
     "geom:latitude":27.298534,
     "geom:longitude":-81.354593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Co Rd 621",
     "sg:city":"Lake Placid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252986713,
-    "wof:lastmodified":1449006296,
+    "wof:lastmodified":1466432452,
     "wof:name":"USA Grocers Foodstores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.354593,27.298534,-81.354593,27.298534],
-  "geometry": {"coordinates":[-81.354593,27.298534],"type":"Point"}
+  "bbox": [
+    -81.354593,
+    27.298534,
+    -81.354593,
+    27.298534
+],
+  "geometry": {"coordinates":[-81.35459299999999,27.298534],"type":"Point"}
 }

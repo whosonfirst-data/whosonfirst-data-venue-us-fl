@@ -2,13 +2,14 @@
   "id": 270199067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.766562,26.139476,-81.766562,26.139476",
     "geom:latitude":26.139476,
     "geom:longitude":-81.766562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Airport Pulling Rd S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270199067,
-    "wof:lastmodified":1449008894,
+    "wof:lastmodified":1466432877,
     "wof:name":"Scott Paint Co Inc",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-81.766562,26.139476,-81.766562,26.139476],
-  "geometry": {"coordinates":[-81.766562,26.139476],"type":"Point"}
+  "bbox": [
+    -81.766562,
+    26.139476,
+    -81.766562,
+    26.139476
+],
+  "geometry": {"coordinates":[-81.76656199999999,26.139476],"type":"Point"}
 }

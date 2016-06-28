@@ -2,13 +2,14 @@
   "id": 303809023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.483753,28.315916,-81.483753,28.315916",
     "geom:latitude":28.315916,
     "geom:longitude":-81.483753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2329 Rochelle Ave",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303809023,
-    "wof:lastmodified":1449000122,
+    "wof:lastmodified":1466444463,
     "wof:name":"BMA Home Improvement",
     "wof:parent_id":85878537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.483753,28.315916,-81.483753,28.315916],
-  "geometry": {"coordinates":[-81.483753,28.315916],"type":"Point"}
+  "bbox": [
+    -81.483753,
+    28.315916,
+    -81.483753,
+    28.315916
+],
+  "geometry": {"coordinates":[-81.48375299999999,28.315916],"type":"Point"}
 }

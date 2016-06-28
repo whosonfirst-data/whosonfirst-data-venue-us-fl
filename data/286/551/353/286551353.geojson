@@ -2,13 +2,14 @@
   "id": 286551353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801505,26.128015,-81.801505,26.128015",
     "geom:latitude":26.128015,
     "geom:longitude":-81.801505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 3rd St S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286551353,
-    "wof:lastmodified":1449015754,
+    "wof:lastmodified":1466434677,
     "wof:name":"USA Terramar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-81.801505,26.128015,-81.801505,26.128015],
-  "geometry": {"coordinates":[-81.801505,26.128015],"type":"Point"}
+  "bbox": [
+    -81.801505,
+    26.128015,
+    -81.801505,
+    26.128015
+],
+  "geometry": {"coordinates":[-81.80150500000001,26.128015],"type":"Point"}
 }

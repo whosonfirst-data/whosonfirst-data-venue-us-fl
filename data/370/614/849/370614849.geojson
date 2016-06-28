@@ -2,13 +2,14 @@
   "id": 370614849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.908825,28.955728,-80.908825,28.955728",
     "geom:latitude":28.955728,
     "geom:longitude":-80.908825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Travelers Palm Dr",
     "sg:city":"Edgewater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370614849,
-    "wof:lastmodified":1449032573,
+    "wof:lastmodified":1466443603,
     "wof:name":"Stotts Relocation",
     "wof:parent_id":85896105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.908825,28.955728,-80.908825,28.955728],
-  "geometry": {"coordinates":[-80.908825,28.955728],"type":"Point"}
+  "bbox": [
+    -80.908825,
+    28.955728,
+    -80.908825,
+    28.955728
+],
+  "geometry": {"coordinates":[-80.90882499999999,28.955728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354302605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.527552,30.281212,-81.527552,30.281212",
     "geom:latitude":30.281212,
     "geom:longitude":-81.527552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11222 St Johns Industrial Pkwy N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302605,
-    "wof:lastmodified":1449066483,
+    "wof:lastmodified":1466440741,
     "wof:name":"Daisy Medical",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.527552,30.281212,-81.527552,30.281212],
+  "bbox": [
+    -81.527552,
+    30.281212,
+    -81.527552,
+    30.281212
+],
   "geometry": {"coordinates":[-81.527552,30.281212],"type":"Point"}
 }

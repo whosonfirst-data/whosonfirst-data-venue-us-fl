@@ -2,13 +2,14 @@
   "id": 370662025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.347001,29.715613,-82.347001,29.715613",
     "geom:latitude":29.715613,
     "geom:longitude":-82.347001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6516 NW 18 Dr",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370662025,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1466444318,
     "wof:name":"Cintas Corp",
     "wof:parent_id":85877601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.347001,29.715613,-82.347001,29.715613],
-  "geometry": {"coordinates":[-82.347001,29.715613],"type":"Point"}
+  "bbox": [
+    -82.347001,
+    29.715613,
+    -82.347001,
+    29.715613
+],
+  "geometry": {"coordinates":[-82.34700100000001,29.715613],"type":"Point"}
 }

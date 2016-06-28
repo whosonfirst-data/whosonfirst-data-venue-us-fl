@@ -2,13 +2,14 @@
   "id": 353735291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.145107,28.027622,-82.145107,28.027622",
     "geom:latitude":28.027622,
     "geom:longitude":-82.145107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Goldfinch Dr",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353735291,
-    "wof:lastmodified":1449020711,
+    "wof:lastmodified":1466439935,
     "wof:name":"Townsgate Apartments",
     "wof:parent_id":85889471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.145107,28.027622,-82.145107,28.027622],
+  "bbox": [
+    -82.145107,
+    28.027622,
+    -82.145107,
+    28.027622
+],
   "geometry": {"coordinates":[-82.145107,28.027622],"type":"Point"}
 }

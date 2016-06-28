@@ -2,13 +2,14 @@
   "id": 253062179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.50507,28.013198,-82.50507,28.013198",
     "geom:latitude":28.013198,
     "geom:longitude":-82.50507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253062179,
-    "wof:lastmodified":1449065578,
+    "wof:lastmodified":1466429346,
     "wof:name":"TTLC Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-82.50507,28.013198,-82.50507,28.013198],
+  "bbox": [
+    -82.50507,
+    28.013198,
+    -82.50507,
+    28.013198
+],
   "geometry": {"coordinates":[-82.50507,28.013198],"type":"Point"}
 }

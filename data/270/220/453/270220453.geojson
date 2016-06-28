@@ -2,13 +2,14 @@
   "id": 270220453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607582,30.183591,-81.607582,30.183591",
     "geom:latitude":30.183591,
     "geom:longitude":-81.607582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10688 Old Saint Augustine Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270220453,
-    "wof:lastmodified":1449011040,
+    "wof:lastmodified":1466433238,
     "wof:name":"Watershed Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.607582,30.183591,-81.607582,30.183591],
-  "geometry": {"coordinates":[-81.607582,30.183591],"type":"Point"}
+  "bbox": [
+    -81.607582,
+    30.183591,
+    -81.607582,
+    30.183591
+],
+  "geometry": {"coordinates":[-81.60758199999999,30.183591],"type":"Point"}
 }

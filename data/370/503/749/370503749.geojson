@@ -2,13 +2,14 @@
   "id": 370503749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.093759,29.19318,-82.093759,29.19318",
     "geom:latitude":29.19318,
     "geom:longitude":-82.093759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 E Silver Springs Blvd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370503749,
-    "wof:lastmodified":1449032479,
+    "wof:lastmodified":1466441897,
     "wof:name":"Reesers Nutrition Center",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.093759,29.19318,-82.093759,29.19318],
-  "geometry": {"coordinates":[-82.093759,29.19318],"type":"Point"}
+  "bbox": [
+    -82.093759,
+    29.19318,
+    -82.093759,
+    29.19318
+],
+  "geometry": {"coordinates":[-82.09375900000001,29.19318],"type":"Point"}
 }

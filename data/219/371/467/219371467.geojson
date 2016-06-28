@@ -2,13 +2,14 @@
   "id": 219371467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.602212,28.207037,-80.602212,28.207037",
     "geom:latitude":28.207037,
     "geom:longitude":-80.602212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Seagull Dr",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219371467,
-    "wof:lastmodified":1449073151,
+    "wof:lastmodified":1466429743,
     "wof:name":"White House Inspections",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.602212,28.207037,-80.602212,28.207037],
-  "geometry": {"coordinates":[-80.602212,28.207037],"type":"Point"}
+  "bbox": [
+    -80.602212,
+    28.207037,
+    -80.602212,
+    28.207037
+],
+  "geometry": {"coordinates":[-80.60221199999999,28.207037],"type":"Point"}
 }

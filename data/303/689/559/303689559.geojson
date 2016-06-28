@@ -2,13 +2,14 @@
   "id": 303689559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322403,28.509304,-81.322403,28.509304",
     "geom:latitude":28.509304,
     "geom:longitude":-81.322403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Windywood Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303689559,
-    "wof:lastmodified":1449000152,
+    "wof:lastmodified":1466442429,
     "wof:name":"Le Holiday Traveler",
     "wof:parent_id":85879423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-81.322403,28.509304,-81.322403,28.509304],
-  "geometry": {"coordinates":[-81.322403,28.509304],"type":"Point"}
+  "bbox": [
+    -81.322403,
+    28.509304,
+    -81.322403,
+    28.509304
+],
+  "geometry": {"coordinates":[-81.32240299999999,28.509304],"type":"Point"}
 }

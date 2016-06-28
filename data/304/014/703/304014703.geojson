@@ -2,13 +2,14 @@
   "id": 304014703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.957168,30.518523,-82.957168,30.518523",
     "geom:latitude":30.518523,
     "geom:longitude":-82.957168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Hatley St",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304014703,
-    "wof:lastmodified":1449043849,
+    "wof:lastmodified":1466432059,
     "wof:name":"USA Golf Flags",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-82.957168,30.518523,-82.957168,30.518523],
+  "bbox": [
+    -82.957168,
+    30.518523,
+    -82.957168,
+    30.518523
+],
   "geometry": {"coordinates":[-82.957168,30.518523],"type":"Point"}
 }

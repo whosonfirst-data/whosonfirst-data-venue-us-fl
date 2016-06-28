@@ -2,13 +2,14 @@
   "id": 252879911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482064,27.374933,-82.482064,27.374933",
     "geom:latitude":27.374933,
     "geom:longitude":-82.482064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4756 San Jose Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252879911,
-    "wof:lastmodified":1449005421,
+    "wof:lastmodified":1466430901,
     "wof:name":"City Wide Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.482064,27.374933,-82.482064,27.374933],
-  "geometry": {"coordinates":[-82.482064,27.374933],"type":"Point"}
+  "bbox": [
+    -82.482064,
+    27.374933,
+    -82.482064,
+    27.374933
+],
+  "geometry": {"coordinates":[-82.48206399999999,27.374933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336865585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.727584,27.849002,-81.727584,27.849002",
     "geom:latitude":27.849002,
     "geom:longitude":-81.727584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4575 Barush Rd",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336865585,
-    "wof:lastmodified":1448997760,
+    "wof:lastmodified":1466439613,
     "wof:name":"Fussell Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.727584,27.849002,-81.727584,27.849002],
-  "geometry": {"coordinates":[-81.727584,27.849002],"type":"Point"}
+  "bbox": [
+    -81.727584,
+    27.849002,
+    -81.727584,
+    27.849002
+],
+  "geometry": {"coordinates":[-81.72758399999999,27.849002],"type":"Point"}
 }

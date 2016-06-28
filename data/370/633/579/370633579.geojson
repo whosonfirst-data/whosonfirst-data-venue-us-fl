@@ -2,13 +2,14 @@
   "id": 370633579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.943725,26.569163,-81.943725,26.569163",
     "geom:latitude":26.569163,
     "geom:longitude":-81.943725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4523 del Prado Blvd S",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370633579,
-    "wof:lastmodified":1449032439,
+    "wof:lastmodified":1466443890,
     "wof:name":"Treasure Hut",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.943725,26.569163,-81.943725,26.569163],
+  "bbox": [
+    -81.943725,
+    26.569163,
+    -81.943725,
+    26.569163
+],
   "geometry": {"coordinates":[-81.943725,26.569163],"type":"Point"}
 }

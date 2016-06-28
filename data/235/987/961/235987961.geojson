@@ -2,13 +2,14 @@
   "id": 235987961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258243,26.259145,-80.258243,26.259145",
     "geom:latitude":26.259145,
     "geom:longitude":-80.258243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9996 Royal Palm Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235987961,
-    "wof:lastmodified":1449008435,
+    "wof:lastmodified":1466429213,
     "wof:name":"S & G Imports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.258243,26.259145,-80.258243,26.259145],
-  "geometry": {"coordinates":[-80.258243,26.259145],"type":"Point"}
+  "bbox": [
+    -80.258243,
+    26.259145,
+    -80.258243,
+    26.259145
+],
+  "geometry": {"coordinates":[-80.25824299999999,26.259145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303701137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.231598,30.411355,-87.231598,30.411355",
     "geom:latitude":30.411355,
     "geom:longitude":-87.231598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 W Garden St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303701137,
-    "wof:lastmodified":1449000054,
+    "wof:lastmodified":1466442640,
     "wof:name":"West Garden Acupuncture",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-87.231598,30.411355,-87.231598,30.411355],
-  "geometry": {"coordinates":[-87.231598,30.411355],"type":"Point"}
+  "bbox": [
+    -87.231598,
+    30.411355,
+    -87.231598,
+    30.411355
+],
+  "geometry": {"coordinates":[-87.23159800000001,30.411355],"type":"Point"}
 }

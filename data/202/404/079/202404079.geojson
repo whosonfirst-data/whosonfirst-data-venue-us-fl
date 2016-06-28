@@ -2,13 +2,14 @@
   "id": 202404079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143561,26.926539,-80.143561,26.926539",
     "geom:latitude":26.926539,
     "geom:longitude":-80.143561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 Jupiter Park Dr",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202404079,
-    "wof:lastmodified":1449061773,
+    "wof:lastmodified":1466446319,
     "wof:name":"Gaudet Associates Inc",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "consulting"
     ]
 },
-  "bbox": [-80.143561,26.926539,-80.143561,26.926539],
-  "geometry": {"coordinates":[-80.143561,26.926539],"type":"Point"}
+  "bbox": [
+    -80.143561,
+    26.926539,
+    -80.143561,
+    26.926539
+],
+  "geometry": {"coordinates":[-80.14356100000001,26.926539],"type":"Point"}
 }

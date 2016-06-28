@@ -2,13 +2,14 @@
   "id": 353781393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.364671,27.924223,-82.364671,27.924223",
     "geom:latitude":27.924223,
     "geom:longitude":-82.364671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 S 82nd St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353781393,
-    "wof:lastmodified":1449018729,
+    "wof:lastmodified":1466440642,
     "wof:name":"Technical Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hydraulic"
     ]
 },
-  "bbox": [-82.364671,27.924223,-82.364671,27.924223],
+  "bbox": [
+    -82.364671,
+    27.924223,
+    -82.364671,
+    27.924223
+],
   "geometry": {"coordinates":[-82.364671,27.924223],"type":"Point"}
 }

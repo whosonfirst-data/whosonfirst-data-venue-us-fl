@@ -2,13 +2,14 @@
   "id": 303417745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223435,25.774826,-80.223435,25.774826",
     "geom:latitude":25.774826,
     "geom:longitude":-80.223435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 NW 17th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303417745,
-    "wof:lastmodified":1448999121,
+    "wof:lastmodified":1466437729,
     "wof:name":"Assisted Living Retirement Hms",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-80.223435,25.774826,-80.223435,25.774826],
-  "geometry": {"coordinates":[-80.223435,25.774826],"type":"Point"}
+  "bbox": [
+    -80.223435,
+    25.774826,
+    -80.223435,
+    25.774826
+],
+  "geometry": {"coordinates":[-80.22343499999999,25.774826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219644175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.72768,30.247467,-81.72768,30.247467",
     "geom:latitude":30.247467,
     "geom:longitude":-81.72768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Timuquana Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219644175,
-    "wof:lastmodified":1449072400,
+    "wof:lastmodified":1466433364,
     "wof:name":"Timuquana Medical Clinic",
     "wof:parent_id":85870739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.72768,30.247467,-81.72768,30.247467],
-  "geometry": {"coordinates":[-81.72768,30.247467],"type":"Point"}
+  "bbox": [
+    -81.72768,
+    30.247467,
+    -81.72768,
+    30.247467
+],
+  "geometry": {"coordinates":[-81.72768000000001,30.247467],"type":"Point"}
 }

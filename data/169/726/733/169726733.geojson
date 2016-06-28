@@ -2,13 +2,14 @@
   "id": 169726733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559116,27.462306,-82.559116,27.462306",
     "geom:latitude":27.462306,
     "geom:longitude":-82.559116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 44th Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169726733,
-    "wof:lastmodified":1449034953,
+    "wof:lastmodified":1466445943,
     "wof:name":"Distillery",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.559116,27.462306,-82.559116,27.462306],
+  "bbox": [
+    -82.559116,
+    27.462306,
+    -82.559116,
+    27.462306
+],
   "geometry": {"coordinates":[-82.559116,27.462306],"type":"Point"}
 }

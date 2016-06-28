@@ -2,13 +2,14 @@
   "id": 370620023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26802,26.259849,-80.26802,26.259849",
     "geom:latitude":26.259849,
     "geom:longitude":-80.26802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 NW 107th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370620023,
-    "wof:lastmodified":1449032187,
+    "wof:lastmodified":1466443684,
     "wof:name":"American Chamber-Commerce Sp",
     "wof:parent_id":85876895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-80.26802,26.259849,-80.26802,26.259849],
-  "geometry": {"coordinates":[-80.26802,26.259849],"type":"Point"}
+  "bbox": [
+    -80.26802,
+    26.259849,
+    -80.26802,
+    26.259849
+],
+  "geometry": {"coordinates":[-80.26802000000001,26.259849],"type":"Point"}
 }

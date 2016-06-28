@@ -2,13 +2,14 @@
   "id": 186613987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.582754,30.157605,-85.582754,30.157605",
     "geom:latitude":30.157605,
     "geom:longitude":-85.582754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N Kimbrel Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186613987,
-    "wof:lastmodified":1449051627,
+    "wof:lastmodified":1466434358,
     "wof:name":"AAA Taxi",
     "wof:parent_id":85839285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-85.582754,30.157605,-85.582754,30.157605],
-  "geometry": {"coordinates":[-85.582754,30.157605],"type":"Point"}
+  "bbox": [
+    -85.582754,
+    30.157605,
+    -85.582754,
+    30.157605
+],
+  "geometry": {"coordinates":[-85.58275399999999,30.157605],"type":"Point"}
 }

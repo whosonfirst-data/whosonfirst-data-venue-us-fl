@@ -2,13 +2,14 @@
   "id": 270156649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.76587,30.159915,-85.76587,30.159915",
     "geom:latitude":30.159915,
     "geom:longitude":-85.76587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7205 Lagoon Dr",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270156649,
-    "wof:lastmodified":1449009117,
+    "wof:lastmodified":1466432125,
     "wof:name":"Bc Inspections",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.76587,30.159915,-85.76587,30.159915],
-  "geometry": {"coordinates":[-85.76587,30.159915],"type":"Point"}
+  "bbox": [
+    -85.76587,
+    30.159915,
+    -85.76587,
+    30.159915
+],
+  "geometry": {"coordinates":[-85.76587000000001,30.159915],"type":"Point"}
 }

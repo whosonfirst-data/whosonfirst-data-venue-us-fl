@@ -2,13 +2,14 @@
   "id": 185854331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259012,25.7619,-80.259012,25.7619",
     "geom:latitude":25.7619,
     "geom:longitude":-80.259012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1077 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185854331,
-    "wof:lastmodified":1449008131,
+    "wof:lastmodified":1466429533,
     "wof:name":"Consulado Del Uruguay",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consulate"
     ]
 },
-  "bbox": [-80.259012,25.7619,-80.259012,25.7619],
+  "bbox": [
+    -80.259012,
+    25.7619,
+    -80.259012,
+    25.7619
+],
   "geometry": {"coordinates":[-80.259012,25.7619],"type":"Point"}
 }

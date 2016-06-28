@@ -2,13 +2,14 @@
   "id": 304084371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386355,28.054415,-82.386355,28.054415",
     "geom:latitude":28.054415,
     "geom:longitude":-82.386355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11500 Summit West Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304084371,
-    "wof:lastmodified":1449043619,
+    "wof:lastmodified":1466433298,
     "wof:name":"Precision Cartridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.386355,28.054415,-82.386355,28.054415],
-  "geometry": {"coordinates":[-82.386355,28.054415],"type":"Point"}
+  "bbox": [
+    -82.386355,
+    28.054415,
+    -82.386355,
+    28.054415
+],
+  "geometry": {"coordinates":[-82.38635499999999,28.054415],"type":"Point"}
 }

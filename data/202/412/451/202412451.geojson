@@ -2,13 +2,14 @@
   "id": 202412451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179255,26.31951,-80.179255,26.31951",
     "geom:latitude":26.31951,
     "geom:longitude":-80.179255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3971 Crescent Creek Pl",
     "sg:city":"Coconut Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202412451,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466443732,
     "wof:name":"Viking Transportation",
     "wof:parent_id":85896209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.179255,26.31951,-80.179255,26.31951],
+  "bbox": [
+    -80.179255,
+    26.31951,
+    -80.179255,
+    26.31951
+],
   "geometry": {"coordinates":[-80.179255,26.31951],"type":"Point"}
 }

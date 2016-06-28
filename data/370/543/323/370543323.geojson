@@ -2,13 +2,14 @@
   "id": 370543323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.517249,30.304345,-81.517249,30.304345",
     "geom:latitude":30.304345,
     "geom:longitude":-81.517249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2457 Wattletree Rd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370543323,
-    "wof:lastmodified":1449029752,
+    "wof:lastmodified":1466442502,
     "wof:name":"Yardley Mobile Welding",
     "wof:parent_id":85846989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.517249,30.304345,-81.517249,30.304345],
-  "geometry": {"coordinates":[-81.517249,30.304345],"type":"Point"}
+  "bbox": [
+    -81.517249,
+    30.304345,
+    -81.517249,
+    30.304345
+],
+  "geometry": {"coordinates":[-81.51724900000001,30.304345],"type":"Point"}
 }

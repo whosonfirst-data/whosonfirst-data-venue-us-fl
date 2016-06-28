@@ -2,13 +2,14 @@
   "id": 320265077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.333908,28.636008,-81.333908,28.636008",
     "geom:latitude":28.636008,
     "geom:longitude":-81.333908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Chippewa Trl",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320265077,
-    "wof:lastmodified":1449012546,
+    "wof:lastmodified":1466437926,
     "wof:name":"NC Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothes"
     ]
 },
-  "bbox": [-81.333908,28.636008,-81.333908,28.636008],
-  "geometry": {"coordinates":[-81.333908,28.636008],"type":"Point"}
+  "bbox": [
+    -81.333908,
+    28.636008,
+    -81.333908,
+    28.636008
+],
+  "geometry": {"coordinates":[-81.33390799999999,28.636008],"type":"Point"}
 }

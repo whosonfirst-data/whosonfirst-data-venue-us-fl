@@ -2,13 +2,14 @@
   "id": 169637925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.128499,29.200244,-82.128499,29.200244",
     "geom:latitude":29.200244,
     "geom:longitude":-82.128499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 NE 9th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637925,
-    "wof:lastmodified":1449032686,
+    "wof:lastmodified":1466444422,
     "wof:name":"Us Exports",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-82.128499,29.200244,-82.128499,29.200244],
-  "geometry": {"coordinates":[-82.128499,29.200244],"type":"Point"}
+  "bbox": [
+    -82.128499,
+    29.200244,
+    -82.128499,
+    29.200244
+],
+  "geometry": {"coordinates":[-82.12849900000001,29.200244],"type":"Point"}
 }

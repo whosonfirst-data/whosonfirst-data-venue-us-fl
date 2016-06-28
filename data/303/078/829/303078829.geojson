@@ -2,13 +2,14 @@
   "id": 303078829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.655096,28.146867,-80.655096,28.146867",
     "geom:latitude":28.146867,
     "geom:longitude":-80.655096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Croton Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303078829,
-    "wof:lastmodified":1449000183,
+    "wof:lastmodified":1466431830,
     "wof:name":"A Custom Clean",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.655096,28.146867,-80.655096,28.146867],
+  "bbox": [
+    -80.655096,
+    28.146867,
+    -80.655096,
+    28.146867
+],
   "geometry": {"coordinates":[-80.655096,28.146867],"type":"Point"}
 }

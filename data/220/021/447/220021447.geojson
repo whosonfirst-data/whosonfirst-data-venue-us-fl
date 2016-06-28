@@ -2,13 +2,14 @@
   "id": 220021447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.431536,28.666826,-81.431536,28.666826",
     "geom:latitude":28.666826,
     "geom:longitude":-81.431536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 W State Rd 436",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021447,
-    "wof:lastmodified":1449074556,
+    "wof:lastmodified":1466444092,
     "wof:name":"Mexico Grill",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.431536,28.666826,-81.431536,28.666826],
-  "geometry": {"coordinates":[-81.431536,28.666826],"type":"Point"}
+  "bbox": [
+    -81.431536,
+    28.666826,
+    -81.431536,
+    28.666826
+],
+  "geometry": {"coordinates":[-81.43153599999999,28.666826],"type":"Point"}
 }

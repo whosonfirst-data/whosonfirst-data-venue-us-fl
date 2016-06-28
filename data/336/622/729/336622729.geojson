@@ -2,13 +2,14 @@
   "id": 336622729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.213585,30.404752,-87.213585,30.404752",
     "geom:latitude":30.404752,
     "geom:longitude":-87.213585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 S Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336622729,
-    "wof:lastmodified":1448997835,
+    "wof:lastmodified":1466435380,
     "wof:name":"Emcare Physicians Svc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.213585,30.404752,-87.213585,30.404752],
-  "geometry": {"coordinates":[-87.213585,30.404752],"type":"Point"}
+  "bbox": [
+    -87.213585,
+    30.404752,
+    -87.213585,
+    30.404752
+],
+  "geometry": {"coordinates":[-87.21358499999999,30.404752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270332717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.068478,24.718124,-81.068478,24.718124",
     "geom:latitude":24.718124,
     "geom:longitude":-81.068478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6363 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270332717,
-    "wof:lastmodified":1449010004,
+    "wof:lastmodified":1466435161,
     "wof:name":"Free Press",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-81.068478,24.718124,-81.068478,24.718124],
+  "bbox": [
+    -81.068478,
+    24.718124,
+    -81.068478,
+    24.718124
+],
   "geometry": {"coordinates":[-81.068478,24.718124],"type":"Point"}
 }

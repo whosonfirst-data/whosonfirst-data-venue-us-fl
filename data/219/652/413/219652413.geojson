@@ -2,13 +2,14 @@
   "id": 219652413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141556,25.951563,-80.141556,25.951563",
     "geom:latitude":25.951563,
     "geom:longitude":-80.141556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3060 NE 190th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219652413,
-    "wof:lastmodified":1449072659,
+    "wof:lastmodified":1466433469,
     "wof:name":"Julian Gonzalez Boat Rstrtn",
     "wof:parent_id":85896147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.141556,25.951563,-80.141556,25.951563],
-  "geometry": {"coordinates":[-80.141556,25.951563],"type":"Point"}
+  "bbox": [
+    -80.141556,
+    25.951563,
+    -80.141556,
+    25.951563
+],
+  "geometry": {"coordinates":[-80.14155599999999,25.951563],"type":"Point"}
 }

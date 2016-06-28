@@ -2,13 +2,14 @@
   "id": 185908663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.439225,27.956687,-82.439225,27.956687",
     "geom:latitude":27.956687,
     "geom:longitude":-82.439225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 2nd Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185908663,
-    "wof:lastmodified":1449007519,
+    "wof:lastmodified":1466430012,
     "wof:name":"Fabricated Products of Tampa",
     "wof:parent_id":85873225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-82.439225,27.956687,-82.439225,27.956687],
-  "geometry": {"coordinates":[-82.439225,27.956687],"type":"Point"}
+  "bbox": [
+    -82.439225,
+    27.956687,
+    -82.439225,
+    27.956687
+],
+  "geometry": {"coordinates":[-82.43922499999999,27.956687],"type":"Point"}
 }

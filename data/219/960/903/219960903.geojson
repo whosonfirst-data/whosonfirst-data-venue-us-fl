@@ -2,13 +2,14 @@
   "id": 219960903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445447,27.332373,-82.445447,27.332373",
     "geom:latitude":27.332373,
     "geom:longitude":-82.445447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Interstate Ct",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219960903,
-    "wof:lastmodified":1449072934,
+    "wof:lastmodified":1466437673,
     "wof:name":"Canvas Boy",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canvas"
     ]
 },
-  "bbox": [-82.445447,27.332373,-82.445447,27.332373],
+  "bbox": [
+    -82.445447,
+    27.332373,
+    -82.445447,
+    27.332373
+],
   "geometry": {"coordinates":[-82.445447,27.332373],"type":"Point"}
 }

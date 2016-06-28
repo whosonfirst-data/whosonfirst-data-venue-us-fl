@@ -2,13 +2,14 @@
   "id": 387587211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317251,25.816248,-80.317251,25.816248",
     "geom:latitude":25.816248,
     "geom:longitude":-80.317251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7313 NW 46th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387587211,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1466447132,
     "wof:name":"Hi Tech Welding",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.317251,25.816248,-80.317251,25.816248],
+  "bbox": [
+    -80.317251,
+    25.816248,
+    -80.317251,
+    25.816248
+],
   "geometry": {"coordinates":[-80.317251,25.816248],"type":"Point"}
 }

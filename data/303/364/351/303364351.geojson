@@ -2,13 +2,14 @@
   "id": 303364351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.638063,28.079491,-80.638063,28.079491",
     "geom:latitude":28.079491,
     "geom:longitude":-80.638063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Dairy Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303364351,
-    "wof:lastmodified":1448999496,
+    "wof:lastmodified":1466436813,
     "wof:name":"Ranger American",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-80.638063,28.079491,-80.638063,28.079491],
+  "bbox": [
+    -80.638063,
+    28.079491,
+    -80.638063,
+    28.079491
+],
   "geometry": {"coordinates":[-80.638063,28.079491],"type":"Point"}
 }

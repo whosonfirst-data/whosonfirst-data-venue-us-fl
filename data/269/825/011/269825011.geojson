@@ -2,13 +2,14 @@
   "id": 269825011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.51296,30.376812,-81.51296,30.376812",
     "geom:latitude":30.376812,
     "geom:longitude":-81.51296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11267 Portside Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269825011,
-    "wof:lastmodified":1449036223,
+    "wof:lastmodified":1466434540,
     "wof:name":"Primary Consulting Team I",
     "wof:parent_id":85805021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.51296,30.376812,-81.51296,30.376812],
-  "geometry": {"coordinates":[-81.51296,30.376812],"type":"Point"}
+  "bbox": [
+    -81.51296,
+    30.376812,
+    -81.51296,
+    30.376812
+],
+  "geometry": {"coordinates":[-81.51296000000001,30.376812],"type":"Point"}
 }

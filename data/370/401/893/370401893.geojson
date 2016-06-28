@@ -2,13 +2,14 @@
   "id": 370401893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.41325,26.421268,-81.41325,26.421268",
     "geom:latitude":26.421268,
     "geom:longitude":-81.41325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 9th St E",
     "sg:city":"Immokalee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370401893,
-    "wof:lastmodified":1449031969,
+    "wof:lastmodified":1466440329,
     "wof:name":"Salazar Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.41325,26.421268,-81.41325,26.421268],
-  "geometry": {"coordinates":[-81.41325,26.421268],"type":"Point"}
+  "bbox": [
+    -81.41325,
+    26.421268,
+    -81.41325,
+    26.421268
+],
+  "geometry": {"coordinates":[-81.41325000000001,26.421268],"type":"Point"}
 }

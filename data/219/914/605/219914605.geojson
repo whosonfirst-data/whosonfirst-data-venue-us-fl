@@ -2,13 +2,14 @@
   "id": 219914605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.416158,28.572828,-81.416158,28.572828",
     "geom:latitude":28.572828,
     "geom:longitude":-81.416158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 N John Young Pkwy",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219914605,
-    "wof:lastmodified":1449071735,
+    "wof:lastmodified":1466437016,
     "wof:name":"Ford Authorized Truck Rental",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-81.416158,28.572828,-81.416158,28.572828],
+  "bbox": [
+    -81.416158,
+    28.572828,
+    -81.416158,
+    28.572828
+],
   "geometry": {"coordinates":[-81.416158,28.572828],"type":"Point"}
 }

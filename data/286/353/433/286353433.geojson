@@ -2,13 +2,14 @@
   "id": 286353433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383231,25.655677,-80.383231,25.655677",
     "geom:latitude":25.655677,
     "geom:longitude":-80.383231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12033 SW 117th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286353433,
-    "wof:lastmodified":1449016038,
+    "wof:lastmodified":1466431247,
     "wof:name":"South Florida Medical Inst",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.383231,25.655677,-80.383231,25.655677],
-  "geometry": {"coordinates":[-80.383231,25.655677],"type":"Point"}
+  "bbox": [
+    -80.383231,
+    25.655677,
+    -80.383231,
+    25.655677
+],
+  "geometry": {"coordinates":[-80.38323099999999,25.655677],"type":"Point"}
 }

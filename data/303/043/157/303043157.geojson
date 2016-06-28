@@ -2,13 +2,14 @@
   "id": 303043157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.628499,30.181379,-85.628499,30.181379",
     "geom:latitude":30.181379,
     "geom:longitude":-85.628499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 Cedar Ln",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303043157,
-    "wof:lastmodified":1448999945,
+    "wof:lastmodified":1466431193,
     "wof:name":"Ken's Auto Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-85.628499,30.181379,-85.628499,30.181379],
-  "geometry": {"coordinates":[-85.628499,30.181379],"type":"Point"}
+  "bbox": [
+    -85.628499,
+    30.181379,
+    -85.628499,
+    30.181379
+],
+  "geometry": {"coordinates":[-85.62849900000001,30.181379],"type":"Point"}
 }

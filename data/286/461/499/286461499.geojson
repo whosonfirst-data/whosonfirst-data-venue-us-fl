@@ -2,13 +2,14 @@
   "id": 286461499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144495,26.303736,-80.144495,26.303736",
     "geom:latitude":26.303736,
     "geom:longitude":-80.144495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 SW 30th Ave",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286461499,
-    "wof:lastmodified":1449016286,
+    "wof:lastmodified":1466433100,
     "wof:name":"Atlantic Montana Corporation",
     "wof:parent_id":85806695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.144495,26.303736,-80.144495,26.303736],
-  "geometry": {"coordinates":[-80.144495,26.303736],"type":"Point"}
+  "bbox": [
+    -80.144495,
+    26.303736,
+    -80.144495,
+    26.303736
+],
+  "geometry": {"coordinates":[-80.14449500000001,26.303736],"type":"Point"}
 }

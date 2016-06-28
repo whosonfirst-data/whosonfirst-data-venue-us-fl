@@ -2,13 +2,14 @@
   "id": 169812669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742978,30.247012,-81.742978,30.247012",
     "geom:latitude":30.247012,
     "geom:longitude":-81.742978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5587 Blanding Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169812669,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466429159,
     "wof:name":"Video Empire",
     "wof:parent_id":85809975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-81.742978,30.247012,-81.742978,30.247012],
-  "geometry": {"coordinates":[-81.742978,30.247012],"type":"Point"}
+  "bbox": [
+    -81.742978,
+    30.247012,
+    -81.742978,
+    30.247012
+],
+  "geometry": {"coordinates":[-81.74297799999999,30.247012],"type":"Point"}
 }

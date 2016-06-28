@@ -2,13 +2,14 @@
   "id": 286884179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080815,26.378992,-80.080815,26.378992",
     "geom:latitude":26.378992,
     "geom:longitude":-80.080815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 NE 31st St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286884179,
-    "wof:lastmodified":1449017560,
+    "wof:lastmodified":1466440618,
     "wof:name":"Pete Brewing",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-80.080815,26.378992,-80.080815,26.378992],
+  "bbox": [
+    -80.080815,
+    26.378992,
+    -80.080815,
+    26.378992
+],
   "geometry": {"coordinates":[-80.080815,26.378992],"type":"Point"}
 }

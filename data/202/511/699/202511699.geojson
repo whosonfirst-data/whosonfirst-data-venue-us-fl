@@ -2,13 +2,14 @@
   "id": 202511699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.785818,30.32396,-81.785818,30.32396",
     "geom:latitude":30.32396,
     "geom:longitude":-81.785818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Jackson Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202511699,
-    "wof:lastmodified":1449061291,
+    "wof:lastmodified":1466428501,
     "wof:name":"Leroy D Clemons Community Ctr",
     "wof:parent_id":85870749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.785818,30.32396,-81.785818,30.32396],
-  "geometry": {"coordinates":[-81.785818,30.32396],"type":"Point"}
+  "bbox": [
+    -81.785818,
+    30.32396,
+    -81.785818,
+    30.32396
+],
+  "geometry": {"coordinates":[-81.78581800000001,30.32396],"type":"Point"}
 }

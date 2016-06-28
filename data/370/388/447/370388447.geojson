@@ -2,13 +2,14 @@
   "id": 370388447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.571221,30.327145,-81.571221,30.327145",
     "geom:latitude":30.327145,
     "geom:longitude":-81.571221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8050 Arlington Expy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370388447,
-    "wof:lastmodified":1449029195,
+    "wof:lastmodified":1466440128,
     "wof:name":"Wynter Green At Arlington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.571221,30.327145,-81.571221,30.327145],
-  "geometry": {"coordinates":[-81.571221,30.327145],"type":"Point"}
+  "bbox": [
+    -81.571221,
+    30.327145,
+    -81.571221,
+    30.327145
+],
+  "geometry": {"coordinates":[-81.57122099999999,30.327145],"type":"Point"}
 }

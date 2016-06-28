@@ -2,13 +2,14 @@
   "id": 253567389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378016,28.579524,-81.378016,28.579524",
     "geom:latitude":28.579524,
     "geom:longitude":-81.378016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E Steele St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253567389,
-    "wof:lastmodified":1449065830,
+    "wof:lastmodified":1466436826,
     "wof:name":"Healthcare Edi Services USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interchange"
     ]
 },
-  "bbox": [-81.378016,28.579524,-81.378016,28.579524],
+  "bbox": [
+    -81.378016,
+    28.579524,
+    -81.378016,
+    28.579524
+],
   "geometry": {"coordinates":[-81.378016,28.579524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220007013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.236128,28.322044,-81.236128,28.322044",
     "geom:latitude":28.322044,
     "geom:longitude":-81.236128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5071 Mapletree Ln",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220007013,
-    "wof:lastmodified":1449074720,
+    "wof:lastmodified":1466446328,
     "wof:name":"G&D Metal Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.236128,28.322044,-81.236128,28.322044],
-  "geometry": {"coordinates":[-81.236128,28.322044],"type":"Point"}
+  "bbox": [
+    -81.236128,
+    28.322044,
+    -81.236128,
+    28.322044
+],
+  "geometry": {"coordinates":[-81.23612799999999,28.322044],"type":"Point"}
 }

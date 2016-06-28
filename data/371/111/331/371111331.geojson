@@ -2,13 +2,14 @@
   "id": 371111331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.007028,28.981113,-82.007028,28.981113",
     "geom:latitude":28.981113,
     "geom:longitude":-82.007028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8740 SE 165th Mulberry Ln",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371111331,
-    "wof:lastmodified":1449050170,
+    "wof:lastmodified":1466439260,
     "wof:name":"Sumter Marion Insurance North",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.007028,28.981113,-82.007028,28.981113],
-  "geometry": {"coordinates":[-82.007028,28.981113],"type":"Point"}
+  "bbox": [
+    -82.007028,
+    28.981113,
+    -82.007028,
+    28.981113
+],
+  "geometry": {"coordinates":[-82.00702800000001,28.981113],"type":"Point"}
 }

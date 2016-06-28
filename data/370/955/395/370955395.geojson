@@ -2,13 +2,14 @@
   "id": 370955395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.048342,29.254166,-81.048342,29.254166",
     "geom:latitude":29.254166,
     "geom:longitude":-81.048342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 State Ave",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370955395,
-    "wof:lastmodified":1449031432,
+    "wof:lastmodified":1466448120,
     "wof:name":"Riviera Plaza",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-81.048342,29.254166,-81.048342,29.254166],
-  "geometry": {"coordinates":[-81.048342,29.254166],"type":"Point"}
+  "bbox": [
+    -81.048342,
+    29.254166,
+    -81.048342,
+    29.254166
+],
+  "geometry": {"coordinates":[-81.04834200000001,29.254166],"type":"Point"}
 }

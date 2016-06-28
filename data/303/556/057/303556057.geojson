@@ -2,13 +2,14 @@
   "id": 303556057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.463575,30.655168,-81.463575,30.655168",
     "geom:latitude":30.655168,
     "geom:longitude":-81.463575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 S 5th St",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303556057,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1466440114,
     "wof:name":"Fernandina Beach Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-81.463575,30.655168,-81.463575,30.655168],
-  "geometry": {"coordinates":[-81.463575,30.655168],"type":"Point"}
+  "bbox": [
+    -81.463575,
+    30.655168,
+    -81.463575,
+    30.655168
+],
+  "geometry": {"coordinates":[-81.46357500000001,30.655168],"type":"Point"}
 }

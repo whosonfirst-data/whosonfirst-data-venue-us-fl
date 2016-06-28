@@ -2,13 +2,14 @@
   "id": 370733691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430803,28.618096,-81.430803,28.618096",
     "geom:latitude":28.618096,
     "geom:longitude":-81.430803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Edgewater Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370733691,
-    "wof:lastmodified":1449029564,
+    "wof:lastmodified":1466445413,
     "wof:name":"TFSI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.430803,28.618096,-81.430803,28.618096],
+  "bbox": [
+    -81.430803,
+    28.618096,
+    -81.430803,
+    28.618096
+],
   "geometry": {"coordinates":[-81.430803,28.618096],"type":"Point"}
 }

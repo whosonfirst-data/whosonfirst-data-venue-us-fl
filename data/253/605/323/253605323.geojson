@@ -2,13 +2,14 @@
   "id": 253605323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.497453,27.942354,-82.497453,27.942354",
     "geom:latitude":27.942354,
     "geom:longitude":-82.497453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3242 Henderson Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253605323,
-    "wof:lastmodified":1449064254,
+    "wof:lastmodified":1466437507,
     "wof:name":"Mills & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.497453,27.942354,-82.497453,27.942354],
-  "geometry": {"coordinates":[-82.497453,27.942354],"type":"Point"}
+  "bbox": [
+    -82.497453,
+    27.942354,
+    -82.497453,
+    27.942354
+],
+  "geometry": {"coordinates":[-82.49745299999999,27.942354],"type":"Point"}
 }

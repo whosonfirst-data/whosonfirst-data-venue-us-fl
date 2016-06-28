@@ -2,13 +2,14 @@
   "id": 403738405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.86099,28.806665,-81.86099,28.806665",
     "geom:latitude":28.806665,
     "geom:longitude":-81.86099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 E Dixie Ave",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403738405,
-    "wof:lastmodified":1449055585,
+    "wof:lastmodified":1466440145,
     "wof:name":"EBJ Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.86099,28.806665,-81.86099,28.806665],
+  "bbox": [
+    -81.86099,
+    28.806665,
+    -81.86099,
+    28.806665
+],
   "geometry": {"coordinates":[-81.86099,28.806665],"type":"Point"}
 }

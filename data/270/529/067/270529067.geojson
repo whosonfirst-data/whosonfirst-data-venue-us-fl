@@ -2,13 +2,14 @@
   "id": 270529067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.004287,29.151063,-81.004287,29.151063",
     "geom:latitude":29.151063,
     "geom:longitude":-81.004287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Spinnaker Cir",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270529067,
-    "wof:lastmodified":1449009703,
+    "wof:lastmodified":1466438518,
     "wof:name":"Atlantic Freight of Savannah",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.004287,29.151063,-81.004287,29.151063],
-  "geometry": {"coordinates":[-81.004287,29.151063],"type":"Point"}
+  "bbox": [
+    -81.004287,
+    29.151063,
+    -81.004287,
+    29.151063
+],
+  "geometry": {"coordinates":[-81.00428700000001,29.151063],"type":"Point"}
 }

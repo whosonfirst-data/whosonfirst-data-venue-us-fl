@@ -2,13 +2,14 @@
   "id": 354110579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.659978,30.328193,-81.659978,30.328193",
     "geom:latitude":30.328193,
     "geom:longitude":-81.659978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W Adams St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354110579,
-    "wof:lastmodified":1449066474,
+    "wof:lastmodified":1466437790,
     "wof:name":"Pizza Italiano",
     "wof:parent_id":85888913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.659978,30.328193,-81.659978,30.328193],
+  "bbox": [
+    -81.659978,
+    30.328193,
+    -81.659978,
+    30.328193
+],
   "geometry": {"coordinates":[-81.659978,30.328193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286773045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.810093,30.605849,-84.810093,30.605849",
     "geom:latitude":30.605849,
     "geom:longitude":-84.810093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Flat Creek Rd",
     "sg:city":"Chattahoochee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286773045,
-    "wof:lastmodified":1449015546,
+    "wof:lastmodified":1466438646,
     "wof:name":"KOA Of Chattahoochee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.810093,30.605849,-84.810093,30.605849],
-  "geometry": {"coordinates":[-84.810093,30.605849],"type":"Point"}
+  "bbox": [
+    -84.810093,
+    30.605849,
+    -84.810093,
+    30.605849
+],
+  "geometry": {"coordinates":[-84.81009299999999,30.605849],"type":"Point"}
 }

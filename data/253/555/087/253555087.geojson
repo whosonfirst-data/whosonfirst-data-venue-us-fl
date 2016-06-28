@@ -2,13 +2,14 @@
   "id": 253555087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.697505,30.306747,-81.697505,30.306747",
     "geom:latitude":30.306747,
     "geom:longitude":-81.697505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Mallory St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253555087,
-    "wof:lastmodified":1449065353,
+    "wof:lastmodified":1466436599,
     "wof:name":"Structural Design Lab Inc",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.697505,30.306747,-81.697505,30.306747],
-  "geometry": {"coordinates":[-81.697505,30.306747],"type":"Point"}
+  "bbox": [
+    -81.697505,
+    30.306747,
+    -81.697505,
+    30.306747
+],
+  "geometry": {"coordinates":[-81.69750500000001,30.306747],"type":"Point"}
 }

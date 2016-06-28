@@ -2,13 +2,14 @@
   "id": 186562739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247729,26.67272,-80.247729,26.67272",
     "geom:latitude":26.67272,
     "geom:longitude":-80.247729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12771 Forest Hill Blvd",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186562739,
-    "wof:lastmodified":1449051795,
+    "wof:lastmodified":1466433640,
     "wof:name":"Backstreet's Neighborhood Bar",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.247729,26.67272,-80.247729,26.67272],
-  "geometry": {"coordinates":[-80.247729,26.67272],"type":"Point"}
+  "bbox": [
+    -80.247729,
+    26.67272,
+    -80.247729,
+    26.67272
+],
+  "geometry": {"coordinates":[-80.24772900000001,26.67272],"type":"Point"}
 }

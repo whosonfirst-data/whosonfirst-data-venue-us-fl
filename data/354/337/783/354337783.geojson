@@ -2,13 +2,14 @@
   "id": 354337783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.195292,28.221256,-82.195292,28.221256",
     "geom:latitude":28.221256,
     "geom:longitude":-82.195292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37502 Marcliff Ter",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354337783,
-    "wof:lastmodified":1449066718,
+    "wof:lastmodified":1466441286,
     "wof:name":"Kemple Water Company",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-82.195292,28.221256,-82.195292,28.221256],
-  "geometry": {"coordinates":[-82.195292,28.221256],"type":"Point"}
+  "bbox": [
+    -82.195292,
+    28.221256,
+    -82.195292,
+    28.221256
+],
+  "geometry": {"coordinates":[-82.19529199999999,28.221256],"type":"Point"}
 }

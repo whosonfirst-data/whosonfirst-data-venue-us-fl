@@ -2,13 +2,14 @@
   "id": 336756365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236314,25.884314,-80.236314,25.884314",
     "geom:latitude":25.884314,
     "geom:longitude":-80.236314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12123 NW 22nd Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336756365,
-    "wof:lastmodified":1448997585,
+    "wof:lastmodified":1466437679,
     "wof:name":"John B Austin",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.236314,25.884314,-80.236314,25.884314],
-  "geometry": {"coordinates":[-80.236314,25.884314],"type":"Point"}
+  "bbox": [
+    -80.236314,
+    25.884314,
+    -80.236314,
+    25.884314
+],
+  "geometry": {"coordinates":[-80.23631399999999,25.884314],"type":"Point"}
 }

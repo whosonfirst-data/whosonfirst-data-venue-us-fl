@@ -2,13 +2,14 @@
   "id": 387311835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.852871,26.553563,-81.852871,26.553563",
     "geom:latitude":26.553563,
     "geom:longitude":-81.852871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13350 Metro Pkwy",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387311835,
-    "wof:lastmodified":1449056994,
+    "wof:lastmodified":1466443511,
     "wof:name":"Public Financial Advisory",
     "wof:parent_id":85888789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-81.852871,26.553563,-81.852871,26.553563],
-  "geometry": {"coordinates":[-81.852871,26.553563],"type":"Point"}
+  "bbox": [
+    -81.852871,
+    26.553563,
+    -81.852871,
+    26.553563
+],
+  "geometry": {"coordinates":[-81.85287099999999,26.553563],"type":"Point"}
 }

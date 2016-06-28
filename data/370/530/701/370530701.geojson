@@ -2,13 +2,14 @@
   "id": 370530701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26018,25.825581,-80.26018,25.825581",
     "geom:latitude":25.825581,
     "geom:longitude":-80.26018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 E 10th Ct",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370530701,
-    "wof:lastmodified":1449030879,
+    "wof:lastmodified":1466442306,
     "wof:name":"International Decorations",
     "wof:parent_id":85856921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-80.26018,25.825581,-80.26018,25.825581],
-  "geometry": {"coordinates":[-80.26018,25.825581],"type":"Point"}
+  "bbox": [
+    -80.26018,
+    25.825581,
+    -80.26018,
+    25.825581
+],
+  "geometry": {"coordinates":[-80.26018000000001,25.825581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303248919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.42876,28.05441,-82.42876,28.05441",
     "geom:latitude":28.05441,
     "geom:longitude":-82.42876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 E Fowler Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303248919,
-    "wof:lastmodified":1448999463,
+    "wof:lastmodified":1466434831,
     "wof:name":"Princeton Review",
     "wof:parent_id":85873263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-82.42876,28.05441,-82.42876,28.05441],
+  "bbox": [
+    -82.42876,
+    28.05441,
+    -82.42876,
+    28.05441
+],
   "geometry": {"coordinates":[-82.42876,28.05441],"type":"Point"}
 }

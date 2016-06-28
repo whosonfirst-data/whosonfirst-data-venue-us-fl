@@ -2,13 +2,14 @@
   "id": 185977627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199114,25.768249,-80.199114,25.768249",
     "geom:latitude":25.768249,
     "geom:longitude":-80.199114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 SW 3rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185977627,
-    "wof:lastmodified":1449008264,
+    "wof:lastmodified":1466430817,
     "wof:name":"Hartman Yacht",
     "wof:parent_id":85896179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.199114,25.768249,-80.199114,25.768249],
-  "geometry": {"coordinates":[-80.199114,25.768249],"type":"Point"}
+  "bbox": [
+    -80.199114,
+    25.768249,
+    -80.199114,
+    25.768249
+],
+  "geometry": {"coordinates":[-80.19911399999999,25.768249],"type":"Point"}
 }

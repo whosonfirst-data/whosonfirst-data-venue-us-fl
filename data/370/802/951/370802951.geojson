@@ -2,13 +2,14 @@
   "id": 370802951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.220926,28.665165,-81.220926,28.665165",
     "geom:latitude":28.665165,
     "geom:longitude":-81.220926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 S Pine Ave",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370802951,
-    "wof:lastmodified":1449031838,
+    "wof:lastmodified":1466446407,
     "wof:name":"Robert Pangle's PVC Instltn",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-81.220926,28.665165,-81.220926,28.665165],
-  "geometry": {"coordinates":[-81.220926,28.665165],"type":"Point"}
+  "bbox": [
+    -81.220926,
+    28.665165,
+    -81.220926,
+    28.665165
+],
+  "geometry": {"coordinates":[-81.22092600000001,28.665165],"type":"Point"}
 }

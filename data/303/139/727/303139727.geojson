@@ -2,13 +2,14 @@
   "id": 303139727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.104379,29.43106,-81.104379,29.43106",
     "geom:latitude":29.43106,
     "geom:longitude":-81.104379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 S Oceanshore Blvd",
     "sg:city":"Flagler Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303139727,
-    "wof:lastmodified":1448998350,
+    "wof:lastmodified":1466432928,
     "wof:name":"Ocean Beach Condominium Club 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.104379,29.43106,-81.104379,29.43106],
-  "geometry": {"coordinates":[-81.104379,29.43106],"type":"Point"}
+  "bbox": [
+    -81.104379,
+    29.43106,
+    -81.104379,
+    29.43106
+],
+  "geometry": {"coordinates":[-81.10437899999999,29.43106],"type":"Point"}
 }

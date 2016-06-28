@@ -2,13 +2,14 @@
   "id": 269693857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.168377,26.319286,-80.168377,26.319286",
     "geom:latitude":26.319286,
     "geom:longitude":-80.168377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4757 NW 1st Pl",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269693857,
-    "wof:lastmodified":1449036276,
+    "wof:lastmodified":1466432236,
     "wof:name":"George Mitchell Agent",
     "wof:parent_id":85896209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.168377,26.319286,-80.168377,26.319286],
-  "geometry": {"coordinates":[-80.168377,26.319286],"type":"Point"}
+  "bbox": [
+    -80.168377,
+    26.319286,
+    -80.168377,
+    26.319286
+],
+  "geometry": {"coordinates":[-80.16837700000001,26.319286],"type":"Point"}
 }

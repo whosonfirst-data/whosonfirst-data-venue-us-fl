@@ -2,13 +2,14 @@
   "id": 354314731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692012,28.346712,-80.692012,28.346712",
     "geom:latitude":28.346712,
     "geom:longitude":-80.692012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Plumosa St",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354314731,
-    "wof:lastmodified":1449067607,
+    "wof:lastmodified":1466440928,
     "wof:name":"Williams Engineering",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.692012,28.346712,-80.692012,28.346712],
-  "geometry": {"coordinates":[-80.692012,28.346712],"type":"Point"}
+  "bbox": [
+    -80.692012,
+    28.346712,
+    -80.692012,
+    28.346712
+],
+  "geometry": {"coordinates":[-80.69201200000001,28.346712],"type":"Point"}
 }

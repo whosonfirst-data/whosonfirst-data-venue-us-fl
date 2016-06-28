@@ -2,13 +2,14 @@
   "id": 202417507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209353,25.772682,-80.209353,25.772682",
     "geom:latitude":25.772682,
     "geom:longitude":-80.209353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 SW 1st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202417507,
-    "wof:lastmodified":1449061150,
+    "wof:lastmodified":1466443978,
     "wof:name":"Mc Allister Florist",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.209353,25.772682,-80.209353,25.772682],
-  "geometry": {"coordinates":[-80.209353,25.772682],"type":"Point"}
+  "bbox": [
+    -80.209353,
+    25.772682,
+    -80.209353,
+    25.772682
+],
+  "geometry": {"coordinates":[-80.20935299999999,25.772682],"type":"Point"}
 }

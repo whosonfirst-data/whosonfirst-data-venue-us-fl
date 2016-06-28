@@ -2,13 +2,14 @@
   "id": 387360465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474107,27.823508,-80.474107,27.823508",
     "geom:latitude":27.823508,
     "geom:longitude":-80.474107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 US Hwy 1",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387360465,
-    "wof:lastmodified":1449059040,
+    "wof:lastmodified":1466444243,
     "wof:name":"Clark Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-80.474107,27.823508,-80.474107,27.823508],
+  "bbox": [
+    -80.474107,
+    27.823508,
+    -80.474107,
+    27.823508
+],
   "geometry": {"coordinates":[-80.474107,27.823508],"type":"Point"}
 }

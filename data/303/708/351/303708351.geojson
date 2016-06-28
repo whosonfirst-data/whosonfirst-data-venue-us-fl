@@ -2,13 +2,14 @@
   "id": 303708351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.356661,28.697886,-81.356661,28.697886",
     "geom:latitude":28.697886,
     "geom:longitude":-81.356661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 W State Rd 434",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303708351,
-    "wof:lastmodified":1448998504,
+    "wof:lastmodified":1466442767,
     "wof:name":"Central Florida Kidney Ctr",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.356661,28.697886,-81.356661,28.697886],
+  "bbox": [
+    -81.356661,
+    28.697886,
+    -81.356661,
+    28.697886
+],
   "geometry": {"coordinates":[-81.356661,28.697886],"type":"Point"}
 }

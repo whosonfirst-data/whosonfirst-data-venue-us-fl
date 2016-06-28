@@ -2,13 +2,14 @@
   "id": 270098045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172969,26.180346,-80.172969,26.180346",
     "geom:latitude":26.180346,
     "geom:longitude":-80.172969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Lake Emerald Dr",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270098045,
-    "wof:lastmodified":1449010838,
+    "wof:lastmodified":1466431116,
     "wof:name":"America Parking Svc",
     "wof:parent_id":85846325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attendant"
     ]
 },
-  "bbox": [-80.172969,26.180346,-80.172969,26.180346],
-  "geometry": {"coordinates":[-80.172969,26.180346],"type":"Point"}
+  "bbox": [
+    -80.172969,
+    26.180346,
+    -80.172969,
+    26.180346
+],
+  "geometry": {"coordinates":[-80.17296899999999,26.180346],"type":"Point"}
 }

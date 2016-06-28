@@ -2,13 +2,14 @@
   "id": 186529235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351131,28.553277,-81.351131,28.553277",
     "geom:latitude":28.553277,
     "geom:longitude":-81.351131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186529235,
-    "wof:lastmodified":1449051546,
+    "wof:lastmodified":1466433181,
     "wof:name":"Mattress Doctor",
     "wof:parent_id":85879441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-81.351131,28.553277,-81.351131,28.553277],
+  "bbox": [
+    -81.351131,
+    28.553277,
+    -81.351131,
+    28.553277
+],
   "geometry": {"coordinates":[-81.351131,28.553277],"type":"Point"}
 }

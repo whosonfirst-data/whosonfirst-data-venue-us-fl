@@ -2,13 +2,14 @@
   "id": 236329457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705487,28.401455,-80.705487,28.401455",
     "geom:latitude":28.401455,
     "geom:longitude":-80.705487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 N Courtenay Pkwy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236329457,
-    "wof:lastmodified":1449002381,
+    "wof:lastmodified":1466433078,
     "wof:name":"Personal Hearing Systems",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hearing"
     ]
 },
-  "bbox": [-80.705487,28.401455,-80.705487,28.401455],
-  "geometry": {"coordinates":[-80.705487,28.401455],"type":"Point"}
+  "bbox": [
+    -80.705487,
+    28.401455,
+    -80.705487,
+    28.401455
+],
+  "geometry": {"coordinates":[-80.70548700000001,28.401455],"type":"Point"}
 }

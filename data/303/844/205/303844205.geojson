@@ -2,13 +2,14 @@
   "id": 303844205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.601543,28.539965,-81.601543,28.539965",
     "geom:latitude":28.539965,
     "geom:longitude":-81.601543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14635 Siplin Rd",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303844205,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1466445058,
     "wof:name":"Alfredo Gomez",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.601543,28.539965,-81.601543,28.539965],
-  "geometry": {"coordinates":[-81.601543,28.539965],"type":"Point"}
+  "bbox": [
+    -81.601543,
+    28.539965,
+    -81.601543,
+    28.539965
+],
+  "geometry": {"coordinates":[-81.60154300000001,28.539965],"type":"Point"}
 }

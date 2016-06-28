@@ -2,13 +2,14 @@
   "id": 253423509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068131,26.420171,-80.068131,26.420171",
     "geom:latitude":26.420171,
     "geom:longitude":-80.068131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 NE 79th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253423509,
-    "wof:lastmodified":1449063303,
+    "wof:lastmodified":1466434264,
     "wof:name":"William D Williams MD",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.068131,26.420171,-80.068131,26.420171],
-  "geometry": {"coordinates":[-80.068131,26.420171],"type":"Point"}
+  "bbox": [
+    -80.068131,
+    26.420171,
+    -80.068131,
+    26.420171
+],
+  "geometry": {"coordinates":[-80.06813099999999,26.420171],"type":"Point"}
 }

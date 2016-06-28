@@ -2,13 +2,14 @@
   "id": 386943383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.977269,26.841521,-81.977269,26.841521",
     "geom:latitude":26.841521,
     "geom:longitude":-81.977269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12657 Tamiami Trl",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386943383,
-    "wof:lastmodified":1449028694,
+    "wof:lastmodified":1466438602,
     "wof:name":"Camper & Boat Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.977269,26.841521,-81.977269,26.841521],
-  "geometry": {"coordinates":[-81.977269,26.841521],"type":"Point"}
+  "bbox": [
+    -81.977269,
+    26.841521,
+    -81.977269,
+    26.841521
+],
+  "geometry": {"coordinates":[-81.97726900000001,26.841521],"type":"Point"}
 }

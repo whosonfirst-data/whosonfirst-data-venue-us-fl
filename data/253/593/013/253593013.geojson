@@ -2,13 +2,14 @@
   "id": 253593013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547976,28.560299,-82.547976,28.560299",
     "geom:latitude":28.560299,
     "geom:longitude":-82.547976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10405 Palmwood Pl",
     "sg:city":"Weeki Wachee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253593013,
-    "wof:lastmodified":1449064799,
+    "wof:lastmodified":1466437293,
     "wof:name":"Termasect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.547976,28.560299,-82.547976,28.560299],
-  "geometry": {"coordinates":[-82.547976,28.560299],"type":"Point"}
+  "bbox": [
+    -82.547976,
+    28.560299,
+    -82.547976,
+    28.560299
+],
+  "geometry": {"coordinates":[-82.54797600000001,28.560299],"type":"Point"}
 }

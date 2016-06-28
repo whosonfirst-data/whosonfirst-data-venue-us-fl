@@ -2,13 +2,14 @@
   "id": 370805579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.365473,25.704423,-80.365473,25.704423",
     "geom:latitude":25.704423,
     "geom:longitude":-80.365473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6829 SW 106th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370805579,
-    "wof:lastmodified":1449030226,
+    "wof:lastmodified":1466446601,
     "wof:name":"Active Team Svc Of Dade",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.365473,25.704423,-80.365473,25.704423],
-  "geometry": {"coordinates":[-80.365473,25.704423],"type":"Point"}
+  "bbox": [
+    -80.365473,
+    25.704423,
+    -80.365473,
+    25.704423
+],
+  "geometry": {"coordinates":[-80.36547299999999,25.704423],"type":"Point"}
 }

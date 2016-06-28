@@ -2,13 +2,14 @@
   "id": 252874517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055495,26.779693,-80.055495,26.779693",
     "geom:latitude":26.779693,
     "geom:longitude":-80.055495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 W 21st St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252874517,
-    "wof:lastmodified":1449006441,
+    "wof:lastmodified":1466430827,
     "wof:name":"Palm Beach Gazette",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-80.055495,26.779693,-80.055495,26.779693],
-  "geometry": {"coordinates":[-80.055495,26.779693],"type":"Point"}
+  "bbox": [
+    -80.055495,
+    26.779693,
+    -80.055495,
+    26.779693
+],
+  "geometry": {"coordinates":[-80.05549499999999,26.779693],"type":"Point"}
 }

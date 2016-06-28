@@ -2,13 +2,14 @@
   "id": 370979315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.345115,30.455004,-84.345115,30.455004",
     "geom:latitude":30.455004,
     "geom:longitude":-84.345115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1353 Blountstown Hwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370979315,
-    "wof:lastmodified":1449031475,
+    "wof:lastmodified":1466448042,
     "wof:name":"Pioneer Metal Of Tallahassee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.345115,30.455004,-84.345115,30.455004],
-  "geometry": {"coordinates":[-84.345115,30.455004],"type":"Point"}
+  "bbox": [
+    -84.345115,
+    30.455004,
+    -84.345115,
+    30.455004
+],
+  "geometry": {"coordinates":[-84.34511500000001,30.455004],"type":"Point"}
 }

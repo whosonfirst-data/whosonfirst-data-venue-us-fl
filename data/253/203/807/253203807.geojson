@@ -2,13 +2,14 @@
   "id": 253203807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.313148,29.892149,-81.313148,29.892149",
     "geom:latitude":29.892149,
     "geom:longitude":-81.313148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 King St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253203807,
-    "wof:lastmodified":1449064140,
+    "wof:lastmodified":1466430759,
     "wof:name":"Del Sol",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-81.313148,29.892149,-81.313148,29.892149],
+  "bbox": [
+    -81.313148,
+    29.892149,
+    -81.313148,
+    29.892149
+],
   "geometry": {"coordinates":[-81.313148,29.892149],"type":"Point"}
 }

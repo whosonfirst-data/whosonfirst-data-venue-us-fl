@@ -2,13 +2,14 @@
   "id": 269987471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141061,25.787835,-80.141061,25.787835",
     "geom:latitude":25.787835,
     "geom:longitude":-80.141061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Alton Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":269987471,
-    "wof:lastmodified":1449037468,
+    "wof:lastmodified":1466437305,
     "wof:name":"American Food & Beverage Inc",
     "wof:parent_id":85882053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "brokerage"
     ]
 },
-  "bbox": [-80.141061,25.787835,-80.141061,25.787835],
-  "geometry": {"coordinates":[-80.141061,25.787835],"type":"Point"}
+  "bbox": [
+    -80.141061,
+    25.787835,
+    -80.141061,
+    25.787835
+],
+  "geometry": {"coordinates":[-80.14106099999999,25.787835],"type":"Point"}
 }

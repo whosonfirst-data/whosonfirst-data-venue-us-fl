@@ -2,13 +2,14 @@
   "id": 270326769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530454,27.351006,-82.530454,27.351006",
     "geom:latitude":27.351006,
     "geom:longitude":-82.530454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 N Washington Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270326769,
-    "wof:lastmodified":1449009685,
+    "wof:lastmodified":1466435049,
     "wof:name":"Subway",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.530454,27.351006,-82.530454,27.351006],
-  "geometry": {"coordinates":[-82.530454,27.351006],"type":"Point"}
+  "bbox": [
+    -82.530454,
+    27.351006,
+    -82.530454,
+    27.351006
+],
+  "geometry": {"coordinates":[-82.53045400000001,27.351006],"type":"Point"}
 }

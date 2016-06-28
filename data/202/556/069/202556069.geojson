@@ -2,13 +2,14 @@
   "id": 202556069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.283651,26.131518,-80.283651,26.131518",
     "geom:latitude":26.131518,
     "geom:longitude":-80.283651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 NW 100th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202556069,
-    "wof:lastmodified":1449060746,
+    "wof:lastmodified":1466429095,
     "wof:name":"Herman Heinlein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.283651,26.131518,-80.283651,26.131518],
-  "geometry": {"coordinates":[-80.283651,26.131518],"type":"Point"}
+  "bbox": [
+    -80.283651,
+    26.131518,
+    -80.283651,
+    26.131518
+],
+  "geometry": {"coordinates":[-80.28365100000001,26.131518],"type":"Point"}
 }

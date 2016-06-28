@@ -2,13 +2,14 @@
   "id": 387622875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.224263,27.13101,-80.224263,27.13101",
     "geom:latitude":27.13101,
     "geom:longitude":-80.224263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 SE Tower Dr",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387622875,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1466447580,
     "wof:name":"Martin Emergency Operations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.224263,27.13101,-80.224263,27.13101],
-  "geometry": {"coordinates":[-80.224263,27.13101],"type":"Point"}
+  "bbox": [
+    -80.224263,
+    27.13101,
+    -80.224263,
+    27.13101
+],
+  "geometry": {"coordinates":[-80.22426299999999,27.13101],"type":"Point"}
 }

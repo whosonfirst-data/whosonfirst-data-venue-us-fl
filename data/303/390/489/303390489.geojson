@@ -2,13 +2,14 @@
   "id": 303390489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148795,26.260378,-80.148795,26.260378",
     "geom:latitude":26.260378,
     "geom:longitude":-80.148795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 W Copans Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303390489,
-    "wof:lastmodified":1449000591,
+    "wof:lastmodified":1466437259,
     "wof:name":"West Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.148795,26.260378,-80.148795,26.260378],
-  "geometry": {"coordinates":[-80.148795,26.260378],"type":"Point"}
+  "bbox": [
+    -80.148795,
+    26.260378,
+    -80.148795,
+    26.260378
+],
+  "geometry": {"coordinates":[-80.14879500000001,26.260378],"type":"Point"}
 }

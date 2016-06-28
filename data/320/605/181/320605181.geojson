@@ -2,13 +2,14 @@
   "id": 320605181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.664408,30.602685,-84.664408,30.602685",
     "geom:latitude":30.602685,
     "geom:longitude":-84.664408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Hester Ln",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320605181,
-    "wof:lastmodified":1449013080,
+    "wof:lastmodified":1466443881,
     "wof:name":"Greater Open Doors Chruch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.664408,30.602685,-84.664408,30.602685],
-  "geometry": {"coordinates":[-84.664408,30.602685],"type":"Point"}
+  "bbox": [
+    -84.664408,
+    30.602685,
+    -84.664408,
+    30.602685
+],
+  "geometry": {"coordinates":[-84.66440799999999,30.602685],"type":"Point"}
 }

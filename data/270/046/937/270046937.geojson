@@ -2,13 +2,14 @@
   "id": 270046937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.526641,27.909056,-82.526641,27.909056",
     "geom:latitude":27.909056,
     "geom:longitude":-82.526641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3634 S West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270046937,
-    "wof:lastmodified":1449009997,
+    "wof:lastmodified":1466430261,
     "wof:name":"Southeast Data Svc Inc",
     "wof:parent_id":85873253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-82.526641,27.909056,-82.526641,27.909056],
+  "bbox": [
+    -82.526641,
+    27.909056,
+    -82.526641,
+    27.909056
+],
   "geometry": {"coordinates":[-82.526641,27.909056],"type":"Point"}
 }

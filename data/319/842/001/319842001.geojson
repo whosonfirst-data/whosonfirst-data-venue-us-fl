@@ -2,13 +2,14 @@
   "id": 319842001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.167225,30.482151,-87.167225,30.482151",
     "geom:latitude":30.482151,
     "geom:longitude":-87.167225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4344 Langley Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319842001,
-    "wof:lastmodified":1449024157,
+    "wof:lastmodified":1466433174,
     "wof:name":"Bay Oaks Apartments",
     "wof:parent_id":85806575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.167225,30.482151,-87.167225,30.482151],
+  "bbox": [
+    -87.167225,
+    30.482151,
+    -87.167225,
+    30.482151
+],
   "geometry": {"coordinates":[-87.167225,30.482151],"type":"Point"}
 }

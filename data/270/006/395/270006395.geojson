@@ -2,13 +2,14 @@
   "id": 270006395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695208,30.43884,-81.695208,30.43884",
     "geom:latitude":30.43884,
     "geom:longitude":-81.695208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 Dunn Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270006395,
-    "wof:lastmodified":1449010586,
+    "wof:lastmodified":1466429561,
     "wof:name":"Tiki Graphics",
     "wof:parent_id":85821005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.695208,30.43884,-81.695208,30.43884],
-  "geometry": {"coordinates":[-81.695208,30.43884],"type":"Point"}
+  "bbox": [
+    -81.695208,
+    30.43884,
+    -81.695208,
+    30.43884
+],
+  "geometry": {"coordinates":[-81.69520799999999,30.43884],"type":"Point"}
 }

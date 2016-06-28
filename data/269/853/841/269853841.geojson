@@ -2,13 +2,14 @@
   "id": 269853841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.32145,25.594131,-80.32145,25.594131",
     "geom:latitude":25.594131,
     "geom:longitude":-80.32145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7984 SW 187th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269853841,
-    "wof:lastmodified":1449037110,
+    "wof:lastmodified":1466435035,
     "wof:name":"Certified Management Svc Inc",
     "wof:parent_id":85868533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-80.32145,25.594131,-80.32145,25.594131],
+  "bbox": [
+    -80.32145,
+    25.594131,
+    -80.32145,
+    25.594131
+],
   "geometry": {"coordinates":[-80.32145,25.594131],"type":"Point"}
 }

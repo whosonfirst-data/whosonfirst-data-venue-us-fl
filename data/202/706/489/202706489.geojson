@@ -2,13 +2,14 @@
   "id": 202706489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.416398,26.108569,-80.416398,26.108569",
     "geom:latitude":26.108569,
     "geom:longitude":-80.416398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 Conservation Dr",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202706489,
-    "wof:lastmodified":1449060292,
+    "wof:lastmodified":1466431067,
     "wof:name":"Shining Moon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.416398,26.108569,-80.416398,26.108569],
+  "bbox": [
+    -80.416398,
+    26.108569,
+    -80.416398,
+    26.108569
+],
   "geometry": {"coordinates":[-80.416398,26.108569],"type":"Point"}
 }

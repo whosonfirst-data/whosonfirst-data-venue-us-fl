@@ -2,13 +2,14 @@
   "id": 220129537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075244,26.325756,-80.075244,26.325756",
     "geom:latitude":26.325756,
     "geom:longitude":-80.075244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 S Ocean Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220129537,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466428633,
     "wof:name":"David Brack",
     "wof:parent_id":85830923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-80.075244,26.325756,-80.075244,26.325756],
+  "bbox": [
+    -80.075244,
+    26.325756,
+    -80.075244,
+    26.325756
+],
   "geometry": {"coordinates":[-80.075244,26.325756],"type":"Point"}
 }

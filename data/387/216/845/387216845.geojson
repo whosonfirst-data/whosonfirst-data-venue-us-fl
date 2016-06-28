@@ -2,13 +2,14 @@
   "id": 387216845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.802679,28.584165,-80.802679,28.584165",
     "geom:latitude":28.584165,
     "geom:longitude":-80.802679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Harrison St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387216845,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1466442059,
     "wof:name":"Garrison Construction",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.802679,28.584165,-80.802679,28.584165],
+  "bbox": [
+    -80.802679,
+    28.584165,
+    -80.802679,
+    28.584165
+],
   "geometry": {"coordinates":[-80.802679,28.584165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303125793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.215544,30.424652,-87.215544,30.424652",
     "geom:latitude":30.424652,
     "geom:longitude":-87.215544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Gonzalez St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303125793,
-    "wof:lastmodified":1449000480,
+    "wof:lastmodified":1466432681,
     "wof:name":"Mailing USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "direct"
     ]
 },
-  "bbox": [-87.215544,30.424652,-87.215544,30.424652],
-  "geometry": {"coordinates":[-87.215544,30.424652],"type":"Point"}
+  "bbox": [
+    -87.215544,
+    30.424652,
+    -87.215544,
+    30.424652
+],
+  "geometry": {"coordinates":[-87.21554399999999,30.424652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220000063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19088,26.332772,-80.19088,26.332772",
     "geom:latitude":26.332772,
     "geom:longitude":-80.19088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23097 SW 59th Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220000063,
-    "wof:lastmodified":1449074164,
+    "wof:lastmodified":1466442855,
     "wof:name":"Neverett Auctioneer",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.19088,26.332772,-80.19088,26.332772],
-  "geometry": {"coordinates":[-80.19088,26.332772],"type":"Point"}
+  "bbox": [
+    -80.19088,
+    26.332772,
+    -80.19088,
+    26.332772
+],
+  "geometry": {"coordinates":[-80.19088000000001,26.332772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186402221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390651,28.046446,-82.390651,28.046446",
     "geom:latitude":28.046446,
     "geom:longitude":-82.390651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Hibiscus Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186402221,
-    "wof:lastmodified":1449051244,
+    "wof:lastmodified":1466431538,
     "wof:name":"Arrow Medical Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.390651,28.046446,-82.390651,28.046446],
-  "geometry": {"coordinates":[-82.390651,28.046446],"type":"Point"}
+  "bbox": [
+    -82.390651,
+    28.046446,
+    -82.390651,
+    28.046446
+],
+  "geometry": {"coordinates":[-82.39065100000001,28.046446],"type":"Point"}
 }

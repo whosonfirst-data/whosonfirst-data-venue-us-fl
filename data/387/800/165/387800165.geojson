@@ -2,13 +2,14 @@
   "id": 387800165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.703814,27.748285,-82.703814,27.748285",
     "geom:latitude":27.748285,
     "geom:longitude":-82.703814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 Gulfport Blvd S",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387800165,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1466448867,
     "wof:name":"Speedtran Convenience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.703814,27.748285,-82.703814,27.748285],
-  "geometry": {"coordinates":[-82.703814,27.748285],"type":"Point"}
+  "bbox": [
+    -82.703814,
+    27.748285,
+    -82.703814,
+    27.748285
+],
+  "geometry": {"coordinates":[-82.70381399999999,27.748285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253524359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.827739,27.971894,-82.827739,27.971894",
     "geom:latitude":27.971894,
     "geom:longitude":-82.827739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 S Hamden Dr",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253524359,
-    "wof:lastmodified":1449062796,
+    "wof:lastmodified":1466436038,
     "wof:name":"New Yorker Motel",
     "wof:parent_id":85888685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.827739,27.971894,-82.827739,27.971894],
-  "geometry": {"coordinates":[-82.827739,27.971894],"type":"Point"}
+  "bbox": [
+    -82.827739,
+    27.971894,
+    -82.827739,
+    27.971894
+],
+  "geometry": {"coordinates":[-82.82773899999999,27.971894],"type":"Point"}
 }

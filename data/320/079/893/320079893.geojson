@@ -2,13 +2,14 @@
   "id": 320079893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585754,30.395649,-86.585754,30.395649",
     "geom:latitude":30.395649,
     "geom:longitude":-86.585754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Miracle Strip Pkwy",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320079893,
-    "wof:lastmodified":1449014353,
+    "wof:lastmodified":1466434753,
     "wof:name":"Island Golf Ctr",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-86.585754,30.395649,-86.585754,30.395649],
-  "geometry": {"coordinates":[-86.585754,30.395649],"type":"Point"}
+  "bbox": [
+    -86.585754,
+    30.395649,
+    -86.585754,
+    30.395649
+],
+  "geometry": {"coordinates":[-86.58575399999999,30.395649],"type":"Point"}
 }

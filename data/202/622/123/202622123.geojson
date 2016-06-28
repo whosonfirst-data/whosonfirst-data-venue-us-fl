@@ -2,13 +2,14 @@
   "id": 202622123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.397354,28.922517,-82.397354,28.922517",
     "geom:latitude":28.922517,
     "geom:longitude":-82.397354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 E Maryann Ln",
     "sg:city":"Hernando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202622123,
-    "wof:lastmodified":1449062206,
+    "wof:lastmodified":1466429970,
     "wof:name":"Steve Rogers Residential Contg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.397354,28.922517,-82.397354,28.922517],
-  "geometry": {"coordinates":[-82.397354,28.922517],"type":"Point"}
+  "bbox": [
+    -82.397354,
+    28.922517,
+    -82.397354,
+    28.922517
+],
+  "geometry": {"coordinates":[-82.39735400000001,28.922517],"type":"Point"}
 }

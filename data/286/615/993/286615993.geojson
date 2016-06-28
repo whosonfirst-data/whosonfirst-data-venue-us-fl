@@ -2,13 +2,14 @@
   "id": 286615993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.981462,30.302351,-82.981462,30.302351",
     "geom:latitude":30.302351,
     "geom:longitude":-82.981462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Ohio Ave N",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286615993,
-    "wof:lastmodified":1449016109,
+    "wof:lastmodified":1466435823,
     "wof:name":"KFC",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.981462,30.302351,-82.981462,30.302351],
-  "geometry": {"coordinates":[-82.981462,30.302351],"type":"Point"}
+  "bbox": [
+    -82.981462,
+    30.302351,
+    -82.981462,
+    30.302351
+],
+  "geometry": {"coordinates":[-82.98146199999999,30.302351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404204219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.749632,30.144302,-85.749632,30.144302",
     "geom:latitude":30.144302,
     "geom:longitude":-85.749632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 Thomas Dr",
     "sg:city":"Panama City Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404204219,
-    "wof:lastmodified":1449040351,
+    "wof:lastmodified":1466443403,
     "wof:name":"Panama Beach Svc",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-85.749632,30.144302,-85.749632,30.144302],
-  "geometry": {"coordinates":[-85.749632,30.144302],"type":"Point"}
+  "bbox": [
+    -85.749632,
+    30.144302,
+    -85.749632,
+    30.144302
+],
+  "geometry": {"coordinates":[-85.74963200000001,30.144302],"type":"Point"}
 }

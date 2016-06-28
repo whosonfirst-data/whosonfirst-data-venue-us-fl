@@ -2,13 +2,14 @@
   "id": 203212595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.802311,28.557572,-80.802311,28.557572",
     "geom:latitude":28.557572,
     "geom:longitude":-80.802311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Cheney Hwy",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203212595,
-    "wof:lastmodified":1449026206,
+    "wof:lastmodified":1466429060,
     "wof:name":"Hunt & Restina CPA",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-80.802311,28.557572,-80.802311,28.557572],
+  "bbox": [
+    -80.802311,
+    28.557572,
+    -80.802311,
+    28.557572
+],
   "geometry": {"coordinates":[-80.802311,28.557572],"type":"Point"}
 }

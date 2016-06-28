@@ -2,13 +2,14 @@
   "id": 202408589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063627,26.675871,-80.063627,26.675871",
     "geom:latitude":26.675871,
     "geom:longitude":-80.063627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Southern Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202408589,
-    "wof:lastmodified":1449060414,
+    "wof:lastmodified":1466443468,
     "wof:name":"City W Palm Parks & Recreation",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-80.063627,26.675871,-80.063627,26.675871],
+  "bbox": [
+    -80.063627,
+    26.675871,
+    -80.063627,
+    26.675871
+],
   "geometry": {"coordinates":[-80.063627,26.675871],"type":"Point"}
 }

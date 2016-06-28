@@ -2,13 +2,14 @@
   "id": 371123787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.201924,30.5108,-87.201924,30.5108",
     "geom:latitude":30.5108,
     "geom:longitude":-87.201924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 Blue Star Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371123787,
-    "wof:lastmodified":1449049314,
+    "wof:lastmodified":1466439449,
     "wof:name":"Gean's Air Conditioning",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.201924,30.5108,-87.201924,30.5108],
-  "geometry": {"coordinates":[-87.201924,30.5108],"type":"Point"}
+  "bbox": [
+    -87.201924,
+    30.5108,
+    -87.201924,
+    30.5108
+],
+  "geometry": {"coordinates":[-87.20192400000001,30.5108],"type":"Point"}
 }

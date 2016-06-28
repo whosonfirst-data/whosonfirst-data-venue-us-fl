@@ -2,13 +2,14 @@
   "id": 320390907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45712,28.028889,-82.45712,28.028889",
     "geom:latitude":28.028889,
     "geom:longitude":-82.45712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8617 Dixon Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320390907,
-    "wof:lastmodified":1449015007,
+    "wof:lastmodified":1466440077,
     "wof:name":"J F Medical Claim Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-82.45712,28.028889,-82.45712,28.028889],
+  "bbox": [
+    -82.45712,
+    28.028889,
+    -82.45712,
+    28.028889
+],
   "geometry": {"coordinates":[-82.45712,28.028889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236465085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133271,25.778167,-80.133271,25.778167",
     "geom:latitude":25.778167,
     "geom:longitude":-80.133271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236465085,
-    "wof:lastmodified":1449003948,
+    "wof:lastmodified":1466434977,
     "wof:name":"Washington Fashion Inc",
     "wof:parent_id":85865233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.133271,25.778167,-80.133271,25.778167],
-  "geometry": {"coordinates":[-80.133271,25.778167],"type":"Point"}
+  "bbox": [
+    -80.133271,
+    25.778167,
+    -80.133271,
+    25.778167
+],
+  "geometry": {"coordinates":[-80.13327099999999,25.778167],"type":"Point"}
 }

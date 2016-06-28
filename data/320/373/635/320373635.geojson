@@ -2,13 +2,14 @@
   "id": 320373635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.765456,28.07905,-82.765456,28.07905",
     "geom:latitude":28.07905,
     "geom:longitude":-82.765456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Nebraska Ave",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320373635,
-    "wof:lastmodified":1449013192,
+    "wof:lastmodified":1466439790,
     "wof:name":"Greater Palm Harbor Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-82.765456,28.07905,-82.765456,28.07905],
+  "bbox": [
+    -82.765456,
+    28.07905,
+    -82.765456,
+    28.07905
+],
   "geometry": {"coordinates":[-82.765456,28.07905],"type":"Point"}
 }

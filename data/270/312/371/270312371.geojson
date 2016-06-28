@@ -2,13 +2,14 @@
   "id": 270312371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15231,26.300109,-80.15231,26.300109",
     "geom:latitude":26.300109,
     "geom:longitude":-80.15231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 S Powerline Rd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":270312371,
-    "wof:lastmodified":1449009874,
+    "wof:lastmodified":1466434804,
     "wof:name":"Slate's World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-80.15231,26.300109,-80.15231,26.300109],
+  "bbox": [
+    -80.15231,
+    26.300109,
+    -80.15231,
+    26.300109
+],
   "geometry": {"coordinates":[-80.15231,26.300109],"type":"Point"}
 }

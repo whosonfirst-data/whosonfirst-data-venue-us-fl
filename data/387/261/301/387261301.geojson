@@ -2,13 +2,14 @@
   "id": 387261301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453629,28.355428,-81.453629,28.355428",
     "geom:latitude":28.355428,
     "geom:longitude":-81.453629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14322 Laurelton Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387261301,
-    "wof:lastmodified":1449056179,
+    "wof:lastmodified":1466442733,
     "wof:name":"Access Trans and Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "limousine"
     ]
 },
-  "bbox": [-81.453629,28.355428,-81.453629,28.355428],
-  "geometry": {"coordinates":[-81.453629,28.355428],"type":"Point"}
+  "bbox": [
+    -81.453629,
+    28.355428,
+    -81.453629,
+    28.355428
+],
+  "geometry": {"coordinates":[-81.45362900000001,28.355428],"type":"Point"}
 }

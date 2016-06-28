@@ -2,13 +2,14 @@
   "id": 353670049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153292,26.112779,-80.153292,26.112779",
     "geom:latitude":26.112779,
     "geom:longitude":-80.153292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 SW 9th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353670049,
-    "wof:lastmodified":1449018635,
+    "wof:lastmodified":1466438897,
     "wof:name":"M Trigg",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-80.153292,26.112779,-80.153292,26.112779],
-  "geometry": {"coordinates":[-80.153292,26.112779],"type":"Point"}
+  "bbox": [
+    -80.153292,
+    26.112779,
+    -80.153292,
+    26.112779
+],
+  "geometry": {"coordinates":[-80.15329199999999,26.112779],"type":"Point"}
 }

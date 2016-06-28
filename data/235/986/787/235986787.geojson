@@ -2,13 +2,14 @@
   "id": 235986787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251792,26.265569,-80.251792,26.265569",
     "geom:latitude":26.265569,
     "geom:longitude":-80.251792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3124 NW 94th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235986787,
-    "wof:lastmodified":1449008533,
+    "wof:lastmodified":1466429197,
     "wof:name":"Josephine Laguna",
     "wof:parent_id":85876881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.251792,26.265569,-80.251792,26.265569],
-  "geometry": {"coordinates":[-80.251792,26.265569],"type":"Point"}
+  "bbox": [
+    -80.251792,
+    26.265569,
+    -80.251792,
+    26.265569
+],
+  "geometry": {"coordinates":[-80.25179199999999,26.265569],"type":"Point"}
 }

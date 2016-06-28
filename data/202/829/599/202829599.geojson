@@ -2,13 +2,14 @@
   "id": 202829599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.799585,26.172245,-81.799585,26.172245",
     "geom:latitude":26.172245,
     "geom:longitude":-81.799585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2162 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202829599,
-    "wof:lastmodified":1449062479,
+    "wof:lastmodified":1466432643,
     "wof:name":"C K Koehler Inc",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-81.799585,26.172245,-81.799585,26.172245],
-  "geometry": {"coordinates":[-81.799585,26.172245],"type":"Point"}
+  "bbox": [
+    -81.799585,
+    26.172245,
+    -81.799585,
+    26.172245
+],
+  "geometry": {"coordinates":[-81.79958499999999,26.172245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320584319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.701456,24.873508,-80.701456,24.873508",
     "geom:latitude":24.873508,
     "geom:longitude":-80.701456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Cortez Dr",
     "sg:city":"Islamorada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320584319,
-    "wof:lastmodified":1449011651,
+    "wof:lastmodified":1466443516,
     "wof:name":"Islamorada South Condominium",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.701456,24.873508,-80.701456,24.873508],
-  "geometry": {"coordinates":[-80.701456,24.873508],"type":"Point"}
+  "bbox": [
+    -80.701456,
+    24.873508,
+    -80.701456,
+    24.873508
+],
+  "geometry": {"coordinates":[-80.70145599999999,24.873508],"type":"Point"}
 }

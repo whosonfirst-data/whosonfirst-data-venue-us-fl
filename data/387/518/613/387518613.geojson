@@ -2,13 +2,14 @@
   "id": 387518613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.123613,29.189698,-82.123613,29.189698",
     "geom:latitude":29.189698,
     "geom:longitude":-82.123613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 NE 3rd St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387518613,
-    "wof:lastmodified":1449058255,
+    "wof:lastmodified":1466446500,
     "wof:name":"Ocala Parks & Recreation Dept",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.123613,29.189698,-82.123613,29.189698],
-  "geometry": {"coordinates":[-82.123613,29.189698],"type":"Point"}
+  "bbox": [
+    -82.123613,
+    29.189698,
+    -82.123613,
+    29.189698
+],
+  "geometry": {"coordinates":[-82.12361300000001,29.189698],"type":"Point"}
 }

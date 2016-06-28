@@ -2,13 +2,14 @@
   "id": 353548109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.448546,28.687092,-81.448546,28.687092",
     "geom:latitude":28.687092,
     "geom:longitude":-81.448546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 E Wekiva Trl",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353548109,
-    "wof:lastmodified":1449020007,
+    "wof:lastmodified":1466436915,
     "wof:name":"Wekiva Elementary School",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.448546,28.687092,-81.448546,28.687092],
-  "geometry": {"coordinates":[-81.448546,28.687092],"type":"Point"}
+  "bbox": [
+    -81.448546,
+    28.687092,
+    -81.448546,
+    28.687092
+],
+  "geometry": {"coordinates":[-81.44854599999999,28.687092],"type":"Point"}
 }

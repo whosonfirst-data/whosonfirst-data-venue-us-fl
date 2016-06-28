@@ -2,13 +2,14 @@
   "id": 336717287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.692608,30.311258,-81.692608,30.311258",
     "geom:latitude":30.311258,
     "geom:longitude":-81.692608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":336717287,
-    "wof:lastmodified":1448996939,
+    "wof:lastmodified":1466437006,
     "wof:name":"St Pauls School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.692608,30.311258,-81.692608,30.311258],
-  "geometry": {"coordinates":[-81.692608,30.311258],"type":"Point"}
+  "bbox": [
+    -81.692608,
+    30.311258,
+    -81.692608,
+    30.311258
+],
+  "geometry": {"coordinates":[-81.69260800000001,30.311258],"type":"Point"}
 }

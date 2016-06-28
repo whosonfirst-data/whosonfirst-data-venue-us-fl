@@ -2,13 +2,14 @@
   "id": 320289639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134954,25.77143,-80.134954,25.77143",
     "geom:latitude":25.77143,
     "geom:longitude":-80.134954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320289639,
-    "wof:lastmodified":1449014357,
+    "wof:lastmodified":1466438338,
     "wof:name":"Odyssey House",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-80.134954,25.77143,-80.134954,25.77143],
-  "geometry": {"coordinates":[-80.134954,25.77143],"type":"Point"}
+  "bbox": [
+    -80.134954,
+    25.77143,
+    -80.134954,
+    25.77143
+],
+  "geometry": {"coordinates":[-80.13495399999999,25.77143],"type":"Point"}
 }

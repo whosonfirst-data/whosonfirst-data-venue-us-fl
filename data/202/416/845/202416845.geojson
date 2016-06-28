@@ -2,13 +2,14 @@
   "id": 202416845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207332,25.818945,-80.207332,25.818945",
     "geom:latitude":25.818945,
     "geom:longitude":-80.207332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 NW 47th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202416845,
-    "wof:lastmodified":1449061266,
+    "wof:lastmodified":1466443941,
     "wof:name":"J & C Ventura Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.207332,25.818945,-80.207332,25.818945],
-  "geometry": {"coordinates":[-80.207332,25.818945],"type":"Point"}
+  "bbox": [
+    -80.207332,
+    25.818945,
+    -80.207332,
+    25.818945
+],
+  "geometry": {"coordinates":[-80.20733199999999,25.818945],"type":"Point"}
 }

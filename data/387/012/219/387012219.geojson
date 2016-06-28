@@ -2,13 +2,14 @@
   "id": 387012219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26999,25.978432,-80.26999,25.978432",
     "geom:latitude":25.978432,
     "geom:longitude":-80.26999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9450 S Meadows Cir",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387012219,
-    "wof:lastmodified":1449059534,
+    "wof:lastmodified":1466438903,
     "wof:name":"Performance Man Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.26999,25.978432,-80.26999,25.978432],
-  "geometry": {"coordinates":[-80.26999,25.978432],"type":"Point"}
+  "bbox": [
+    -80.26999,
+    25.978432,
+    -80.26999,
+    25.978432
+],
+  "geometry": {"coordinates":[-80.26999000000001,25.978432],"type":"Point"}
 }

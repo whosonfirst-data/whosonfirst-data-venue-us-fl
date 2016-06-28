@@ -2,13 +2,14 @@
   "id": 336782661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.358978,25.639327,-80.358978,25.639327",
     "geom:latitude":25.639327,
     "geom:longitude":-80.358978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10220 SW 140th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336782661,
-    "wof:lastmodified":1448996915,
+    "wof:lastmodified":1466438151,
     "wof:name":"Robert J Molko",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.358978,25.639327,-80.358978,25.639327],
-  "geometry": {"coordinates":[-80.358978,25.639327],"type":"Point"}
+  "bbox": [
+    -80.358978,
+    25.639327,
+    -80.358978,
+    25.639327
+],
+  "geometry": {"coordinates":[-80.35897799999999,25.639327],"type":"Point"}
 }

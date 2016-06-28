@@ -2,13 +2,14 @@
   "id": 202796733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.006887,29.158224,-81.006887,29.158224",
     "geom:latitude":29.158224,
     "geom:longitude":-81.006887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2976 Lantern Dr",
     "sg:city":"South Daytona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202796733,
-    "wof:lastmodified":1449061319,
+    "wof:lastmodified":1466432215,
     "wof:name":"San Jose Mission",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.006887,29.158224,-81.006887,29.158224],
-  "geometry": {"coordinates":[-81.006887,29.158224],"type":"Point"}
+  "bbox": [
+    -81.006887,
+    29.158224,
+    -81.006887,
+    29.158224
+],
+  "geometry": {"coordinates":[-81.00688700000001,29.158224],"type":"Point"}
 }

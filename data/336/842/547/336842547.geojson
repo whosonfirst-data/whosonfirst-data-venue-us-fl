@@ -2,13 +2,14 @@
   "id": 336842547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524864,27.342986,-82.524864,27.342986",
     "geom:latitude":27.342986,
     "geom:longitude":-82.524864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 8th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336842547,
-    "wof:lastmodified":1448997006,
+    "wof:lastmodified":1466439199,
     "wof:name":"Sterling Manufacturing",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-82.524864,27.342986,-82.524864,27.342986],
-  "geometry": {"coordinates":[-82.524864,27.342986],"type":"Point"}
+  "bbox": [
+    -82.524864,
+    27.342986,
+    -82.524864,
+    27.342986
+],
+  "geometry": {"coordinates":[-82.52486399999999,27.342986],"type":"Point"}
 }

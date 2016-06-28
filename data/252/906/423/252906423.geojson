@@ -2,13 +2,14 @@
   "id": 252906423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.753001,30.248297,-81.753001,30.248297",
     "geom:latitude":30.248297,
     "geom:longitude":-81.753001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6706 103rd St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252906423,
-    "wof:lastmodified":1449005812,
+    "wof:lastmodified":1466431294,
     "wof:name":"Merita Bakery Outlet Store",
     "wof:parent_id":85809975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-81.753001,30.248297,-81.753001,30.248297],
+  "bbox": [
+    -81.753001,
+    30.248297,
+    -81.753001,
+    30.248297
+],
   "geometry": {"coordinates":[-81.753001,30.248297],"type":"Point"}
 }

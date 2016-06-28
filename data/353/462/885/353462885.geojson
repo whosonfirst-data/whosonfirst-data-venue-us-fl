@@ -2,13 +2,14 @@
   "id": 353462885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199741,25.840967,-80.199741,25.840967",
     "geom:latitude":25.840967,
     "geom:longitude":-80.199741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7225 NW 1st Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353462885,
-    "wof:lastmodified":1449020680,
+    "wof:lastmodified":1466435773,
     "wof:name":"Daily Bread Bakery",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.199741,25.840967,-80.199741,25.840967],
+  "bbox": [
+    -80.199741,
+    25.840967,
+    -80.199741,
+    25.840967
+],
   "geometry": {"coordinates":[-80.199741,25.840967],"type":"Point"}
 }

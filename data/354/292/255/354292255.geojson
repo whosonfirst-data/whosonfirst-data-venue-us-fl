@@ -2,13 +2,14 @@
   "id": 354292255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.612541,30.448583,-86.612541,30.448583",
     "geom:latitude":30.448583,
     "geom:longitude":-86.612541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354292255,
-    "wof:lastmodified":1449066070,
+    "wof:lastmodified":1466440575,
     "wof:name":"First City Bank",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.612541,30.448583,-86.612541,30.448583],
-  "geometry": {"coordinates":[-86.612541,30.448583],"type":"Point"}
+  "bbox": [
+    -86.612541,
+    30.448583,
+    -86.612541,
+    30.448583
+],
+  "geometry": {"coordinates":[-86.61254099999999,30.448583],"type":"Point"}
 }

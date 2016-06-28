@@ -2,13 +2,14 @@
   "id": 236615605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.395548,27.963343,-82.395548,27.963343",
     "geom:latitude":27.963343,
     "geom:longitude":-82.395548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5223 E Broadway Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236615605,
-    "wof:lastmodified":1449002535,
+    "wof:lastmodified":1466437126,
     "wof:name":"Truck Parts of Tampa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-82.395548,27.963343,-82.395548,27.963343],
-  "geometry": {"coordinates":[-82.395548,27.963343],"type":"Point"}
+  "bbox": [
+    -82.395548,
+    27.963343,
+    -82.395548,
+    27.963343
+],
+  "geometry": {"coordinates":[-82.39554800000001,27.963343],"type":"Point"}
 }

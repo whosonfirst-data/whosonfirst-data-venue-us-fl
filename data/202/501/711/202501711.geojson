@@ -2,13 +2,14 @@
   "id": 202501711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.43943,27.609969,-80.43943,27.609969",
     "geom:latitude":27.609969,
     "geom:longitude":-80.43943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5481 4th Pl",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202501711,
-    "wof:lastmodified":1449062672,
+    "wof:lastmodified":1466446190,
     "wof:name":"Service One Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.43943,27.609969,-80.43943,27.609969],
+  "bbox": [
+    -80.43943,
+    27.609969,
+    -80.43943,
+    27.609969
+],
   "geometry": {"coordinates":[-80.43943,27.609969],"type":"Point"}
 }

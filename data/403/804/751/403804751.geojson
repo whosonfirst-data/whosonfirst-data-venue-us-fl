@@ -2,13 +2,14 @@
   "id": 403804751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323288,25.831594,-80.323288,25.831594",
     "geom:latitude":25.831594,
     "geom:longitude":-80.323288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7772 NW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403804751,
-    "wof:lastmodified":1449055534,
+    "wof:lastmodified":1466441197,
     "wof:name":"South-Green Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.323288,25.831594,-80.323288,25.831594],
-  "geometry": {"coordinates":[-80.323288,25.831594],"type":"Point"}
+  "bbox": [
+    -80.323288,
+    25.831594,
+    -80.323288,
+    25.831594
+],
+  "geometry": {"coordinates":[-80.32328800000001,25.831594],"type":"Point"}
 }

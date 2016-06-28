@@ -2,13 +2,14 @@
   "id": 403812301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583501,27.89311,-81.583501,27.89311",
     "geom:latitude":27.89311,
     "geom:longitude":-81.583501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S 4th St",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403812301,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1466441321,
     "wof:name":"Lake Wales Garden Apartments",
     "wof:parent_id":85889009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.583501,27.89311,-81.583501,27.89311],
+  "bbox": [
+    -81.583501,
+    27.89311,
+    -81.583501,
+    27.89311
+],
   "geometry": {"coordinates":[-81.583501,27.89311],"type":"Point"}
 }

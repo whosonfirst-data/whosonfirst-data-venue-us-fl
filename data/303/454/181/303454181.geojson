@@ -2,13 +2,14 @@
   "id": 303454181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056069,26.752882,-80.056069,26.752882",
     "geom:latitude":26.752882,
     "geom:longitude":-80.056069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 Broadway",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303454181,
-    "wof:lastmodified":1449000334,
+    "wof:lastmodified":1466438369,
     "wof:name":"Mir Jean Restaurant",
     "wof:parent_id":85881805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.056069,26.752882,-80.056069,26.752882],
-  "geometry": {"coordinates":[-80.056069,26.752882],"type":"Point"}
+  "bbox": [
+    -80.056069,
+    26.752882,
+    -80.056069,
+    26.752882
+],
+  "geometry": {"coordinates":[-80.05606899999999,26.752882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320502723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.752125,30.335038,-81.752125,30.335038",
     "geom:latitude":30.335038,
     "geom:longitude":-81.752125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 Lane Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320502723,
-    "wof:lastmodified":1449012965,
+    "wof:lastmodified":1466442069,
     "wof:name":"Advanced Driver Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-81.752125,30.335038,-81.752125,30.335038],
-  "geometry": {"coordinates":[-81.752125,30.335038],"type":"Point"}
+  "bbox": [
+    -81.752125,
+    30.335038,
+    -81.752125,
+    30.335038
+],
+  "geometry": {"coordinates":[-81.75212500000001,30.335038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269899099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.273352,30.520905,-87.273352,30.520905",
     "geom:latitude":30.520905,
     "geom:longitude":-87.273352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8514 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269899099,
-    "wof:lastmodified":1449038836,
+    "wof:lastmodified":1466435802,
     "wof:name":"Pensacola Pools Inc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-87.273352,30.520905,-87.273352,30.520905],
+  "bbox": [
+    -87.273352,
+    30.520905,
+    -87.273352,
+    30.520905
+],
   "geometry": {"coordinates":[-87.273352,30.520905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202858595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.37287,25.604724,-80.37287,25.604724",
     "geom:latitude":25.604724,
     "geom:longitude":-80.37287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11075 SW 177th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202858595,
-    "wof:lastmodified":1449060368,
+    "wof:lastmodified":1466433037,
     "wof:name":"Dr Unix Software",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.37287,25.604724,-80.37287,25.604724],
-  "geometry": {"coordinates":[-80.37287,25.604724],"type":"Point"}
+  "bbox": [
+    -80.37287,
+    25.604724,
+    -80.37287,
+    25.604724
+],
+  "geometry": {"coordinates":[-80.37287000000001,25.604724],"type":"Point"}
 }

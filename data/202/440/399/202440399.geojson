@@ -2,13 +2,14 @@
   "id": 202440399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.316065,29.884172,-81.316065,29.884172",
     "geom:latitude":29.884172,
     "geom:longitude":-81.316065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Riberia St",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202440399,
-    "wof:lastmodified":1449060999,
+    "wof:lastmodified":1466444593,
     "wof:name":"Thorpe Forms",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-81.316065,29.884172,-81.316065,29.884172],
-  "geometry": {"coordinates":[-81.316065,29.884172],"type":"Point"}
+  "bbox": [
+    -81.316065,
+    29.884172,
+    -81.316065,
+    29.884172
+],
+  "geometry": {"coordinates":[-81.31606499999999,29.884172],"type":"Point"}
 }

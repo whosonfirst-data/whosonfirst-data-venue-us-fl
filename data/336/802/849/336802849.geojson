@@ -2,13 +2,14 @@
   "id": 336802849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300333,29.680502,-82.300333,29.680502",
     "geom:latitude":29.680502,
     "geom:longitude":-82.300333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 NE 18th Dr",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336802849,
-    "wof:lastmodified":1448997829,
+    "wof:lastmodified":1466438500,
     "wof:name":"Ikes Lawn Care",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.300333,29.680502,-82.300333,29.680502],
-  "geometry": {"coordinates":[-82.300333,29.680502],"type":"Point"}
+  "bbox": [
+    -82.300333,
+    29.680502,
+    -82.300333,
+    29.680502
+],
+  "geometry": {"coordinates":[-82.30033299999999,29.680502],"type":"Point"}
 }

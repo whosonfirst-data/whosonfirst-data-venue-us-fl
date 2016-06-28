@@ -2,13 +2,14 @@
   "id": 253323661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.95135,28.945787,-81.95135,28.945787",
     "geom:latitude":28.945787,
     "geom:longitude":-81.95135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Ave Central",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253323661,
-    "wof:lastmodified":1449063073,
+    "wof:lastmodified":1466432580,
     "wof:name":"Representative Hugh Gibson",
     "wof:parent_id":85888961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-81.95135,28.945787,-81.95135,28.945787],
-  "geometry": {"coordinates":[-81.95135,28.945787],"type":"Point"}
+  "bbox": [
+    -81.95135,
+    28.945787,
+    -81.95135,
+    28.945787
+],
+  "geometry": {"coordinates":[-81.95135000000001,28.945787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185755901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.621012,28.06899,-82.621012,28.06899",
     "geom:latitude":28.06899,
     "geom:longitude":-82.621012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11338 Minaret Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185755901,
-    "wof:lastmodified":1449007064,
+    "wof:lastmodified":1466428544,
     "wof:name":"Landmark Realty Group",
     "wof:parent_id":85889803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.621012,28.06899,-82.621012,28.06899],
-  "geometry": {"coordinates":[-82.621012,28.06899],"type":"Point"}
+  "bbox": [
+    -82.621012,
+    28.06899,
+    -82.621012,
+    28.06899
+],
+  "geometry": {"coordinates":[-82.62101199999999,28.06899],"type":"Point"}
 }

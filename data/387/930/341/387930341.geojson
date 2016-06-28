@@ -2,13 +2,14 @@
   "id": 387930341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.349545,28.640529,-81.349545,28.640529",
     "geom:latitude":28.640529,
     "geom:longitude":-81.349545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cedarwood Dr",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387930341,
-    "wof:lastmodified":1449057317,
+    "wof:lastmodified":1466449718,
     "wof:name":"Jett Financial Svc",
     "wof:parent_id":85866887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.349545,28.640529,-81.349545,28.640529],
-  "geometry": {"coordinates":[-81.349545,28.640529],"type":"Point"}
+  "bbox": [
+    -81.349545,
+    28.640529,
+    -81.349545,
+    28.640529
+],
+  "geometry": {"coordinates":[-81.34954500000001,28.640529],"type":"Point"}
 }

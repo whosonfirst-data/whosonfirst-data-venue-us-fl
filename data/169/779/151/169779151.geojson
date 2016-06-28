@@ -2,13 +2,14 @@
   "id": 169779151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.699242,28.360678,-82.699242,28.360678",
     "geom:latitude":28.360678,
     "geom:longitude":-82.699242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6345 Clark St",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169779151,
-    "wof:lastmodified":1449033196,
+    "wof:lastmodified":1466428780,
     "wof:name":"Hudson Beach Park",
     "wof:parent_id":85888903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-82.699242,28.360678,-82.699242,28.360678],
+  "bbox": [
+    -82.699242,
+    28.360678,
+    -82.699242,
+    28.360678
+],
   "geometry": {"coordinates":[-82.699242,28.360678],"type":"Point"}
 }

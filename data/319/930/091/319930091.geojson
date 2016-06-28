@@ -2,13 +2,14 @@
   "id": 319930091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.60483,30.326161,-81.60483,30.326161",
     "geom:latitude":30.326161,
     "geom:longitude":-81.60483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 University Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319930091,
-    "wof:lastmodified":1449024320,
+    "wof:lastmodified":1466434778,
     "wof:name":"Michael J Thomasino DDS",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.60483,30.326161,-81.60483,30.326161],
-  "geometry": {"coordinates":[-81.60483,30.326161],"type":"Point"}
+  "bbox": [
+    -81.60483,
+    30.326161,
+    -81.60483,
+    30.326161
+],
+  "geometry": {"coordinates":[-81.60483000000001,30.326161],"type":"Point"}
 }

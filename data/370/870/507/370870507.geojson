@@ -2,13 +2,14 @@
   "id": 370870507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.425011,27.075727,-82.425011,27.075727",
     "geom:latitude":27.075727,
     "geom:longitude":-82.425011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1649 US Hwy 41 S Byp",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370870507,
-    "wof:lastmodified":1449029989,
+    "wof:lastmodified":1466447295,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tape"
     ]
 },
-  "bbox": [-82.425011,27.075727,-82.425011,27.075727],
+  "bbox": [
+    -82.425011,
+    27.075727,
+    -82.425011,
+    27.075727
+],
   "geometry": {"coordinates":[-82.425011,27.075727],"type":"Point"}
 }

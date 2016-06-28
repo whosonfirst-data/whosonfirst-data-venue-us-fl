@@ -2,13 +2,14 @@
   "id": 203127967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517845,27.86454,-82.517845,27.86454",
     "geom:latitude":27.86454,
     "geom:longitude":-82.517845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 N Boundary Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203127967,
-    "wof:lastmodified":1449026709,
+    "wof:lastmodified":1466445740,
     "wof:name":"Main Exchange Barber Shop",
     "wof:parent_id":85842845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.517845,27.86454,-82.517845,27.86454],
-  "geometry": {"coordinates":[-82.517845,27.86454],"type":"Point"}
+  "bbox": [
+    -82.517845,
+    27.86454,
+    -82.517845,
+    27.86454
+],
+  "geometry": {"coordinates":[-82.51784499999999,27.86454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202635635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.660361,30.158821,-85.660361,30.158821",
     "geom:latitude":30.158821,
     "geom:longitude":-85.660361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Harrison Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202635635,
-    "wof:lastmodified":1449061219,
+    "wof:lastmodified":1466430157,
     "wof:name":"Estate Treasures",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.660361,30.158821,-85.660361,30.158821],
-  "geometry": {"coordinates":[-85.660361,30.158821],"type":"Point"}
+  "bbox": [
+    -85.660361,
+    30.158821,
+    -85.660361,
+    30.158821
+],
+  "geometry": {"coordinates":[-85.66036099999999,30.158821],"type":"Point"}
 }

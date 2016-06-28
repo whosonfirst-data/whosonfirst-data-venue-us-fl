@@ -2,13 +2,14 @@
   "id": 235931569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.385387,28.602666,-81.385387,28.602666",
     "geom:latitude":28.602666,
     "geom:longitude":-81.385387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Wymore Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235931569,
-    "wof:lastmodified":1449008588,
+    "wof:lastmodified":1466428404,
     "wof:name":"South Eastern Realty",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.385387,28.602666,-81.385387,28.602666],
-  "geometry": {"coordinates":[-81.385387,28.602666],"type":"Point"}
+  "bbox": [
+    -81.385387,
+    28.602666,
+    -81.385387,
+    28.602666
+],
+  "geometry": {"coordinates":[-81.38538699999999,28.602666],"type":"Point"}
 }

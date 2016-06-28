@@ -2,13 +2,14 @@
   "id": 319986879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.346651,26.040781,-80.346651,26.040781",
     "geom:latitude":26.040781,
     "geom:longitude":-80.346651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14901 Featherstone Way",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319986879,
-    "wof:lastmodified":1449024731,
+    "wof:lastmodified":1466435768,
     "wof:name":"Manageit Group Inc",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.346651,26.040781,-80.346651,26.040781],
-  "geometry": {"coordinates":[-80.346651,26.040781],"type":"Point"}
+  "bbox": [
+    -80.346651,
+    26.040781,
+    -80.346651,
+    26.040781
+],
+  "geometry": {"coordinates":[-80.34665099999999,26.040781],"type":"Point"}
 }

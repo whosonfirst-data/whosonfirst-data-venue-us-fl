@@ -2,13 +2,14 @@
   "id": 387444471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475862,28.058293,-82.475862,28.058293",
     "geom:latitude":28.058293,
     "geom:longitude":-82.475862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12012 N Rome Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387444471,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1466445511,
     "wof:name":"Lake Carroll Baptist Church",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.475862,28.058293,-82.475862,28.058293],
-  "geometry": {"coordinates":[-82.475862,28.058293],"type":"Point"}
+  "bbox": [
+    -82.475862,
+    28.058293,
+    -82.475862,
+    28.058293
+],
+  "geometry": {"coordinates":[-82.47586200000001,28.058293],"type":"Point"}
 }

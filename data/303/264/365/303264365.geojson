@@ -2,13 +2,14 @@
   "id": 303264365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504701,27.337576,-82.504701,27.337576",
     "geom:latitude":27.337576,
     "geom:longitude":-82.504701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3277 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303264365,
-    "wof:lastmodified":1448999707,
+    "wof:lastmodified":1466435104,
     "wof:name":"Center For Growth & Dev",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapist"
     ]
 },
-  "bbox": [-82.504701,27.337576,-82.504701,27.337576],
+  "bbox": [
+    -82.504701,
+    27.337576,
+    -82.504701,
+    27.337576
+],
   "geometry": {"coordinates":[-82.504701,27.337576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370419749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.746558,30.266918,-81.746558,30.266918",
     "geom:latitude":30.266918,
     "geom:longitude":-81.746558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 Colebrook Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370419749,
-    "wof:lastmodified":1449032405,
+    "wof:lastmodified":1466440604,
     "wof:name":"Magee Tile Svc Inc",
     "wof:parent_id":85829203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.746558,30.266918,-81.746558,30.266918],
-  "geometry": {"coordinates":[-81.746558,30.266918],"type":"Point"}
+  "bbox": [
+    -81.746558,
+    30.266918,
+    -81.746558,
+    30.266918
+],
+  "geometry": {"coordinates":[-81.74655799999999,30.266918],"type":"Point"}
 }

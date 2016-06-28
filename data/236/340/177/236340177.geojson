@@ -2,13 +2,14 @@
   "id": 236340177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.982605,30.301008,-81.982605,30.301008",
     "geom:latitude":30.301008,
     "geom:longitude":-81.982605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Lima St S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236340177,
-    "wof:lastmodified":1449004344,
+    "wof:lastmodified":1466433219,
     "wof:name":"Country Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-81.982605,30.301008,-81.982605,30.301008],
-  "geometry": {"coordinates":[-81.982605,30.301008],"type":"Point"}
+  "bbox": [
+    -81.982605,
+    30.301008,
+    -81.982605,
+    30.301008
+],
+  "geometry": {"coordinates":[-81.98260500000001,30.301008],"type":"Point"}
 }

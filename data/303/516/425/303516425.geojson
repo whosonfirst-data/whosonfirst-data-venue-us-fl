@@ -2,13 +2,14 @@
   "id": 303516425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.300362,29.804309,-85.300362,29.804309",
     "geom:latitude":29.804309,
     "geom:longitude":-85.300362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Monument Ave",
     "sg:city":"Port St Joe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303516425,
-    "wof:lastmodified":1448998582,
+    "wof:lastmodified":1466439445,
     "wof:name":"Computer & Network Solutions",
     "wof:parent_id":85896229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-85.300362,29.804309,-85.300362,29.804309],
-  "geometry": {"coordinates":[-85.300362,29.804309],"type":"Point"}
+  "bbox": [
+    -85.300362,
+    29.804309,
+    -85.300362,
+    29.804309
+],
+  "geometry": {"coordinates":[-85.30036200000001,29.804309],"type":"Point"}
 }

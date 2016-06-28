@@ -2,13 +2,14 @@
   "id": 303363197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339547,25.604307,-80.339547,25.604307",
     "geom:latitude":25.604307,
     "geom:longitude":-80.339547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9110 SW 178th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303363197,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466436791,
     "wof:name":"Richard Vila",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.339547,25.604307,-80.339547,25.604307],
+  "bbox": [
+    -80.339547,
+    25.604307,
+    -80.339547,
+    25.604307
+],
   "geometry": {"coordinates":[-80.339547,25.604307],"type":"Point"}
 }

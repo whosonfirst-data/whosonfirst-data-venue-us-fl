@@ -2,13 +2,14 @@
   "id": 403855745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.212546,26.05897,-80.212546,26.05897",
     "geom:latitude":26.05897,
     "geom:longitude":-80.212546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 SW 51st St",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403855745,
-    "wof:lastmodified":1449055595,
+    "wof:lastmodified":1466442045,
     "wof:name":"Street Church Ministries",
     "wof:parent_id":85842191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.212546,26.05897,-80.212546,26.05897],
+  "bbox": [
+    -80.212546,
+    26.05897,
+    -80.212546,
+    26.05897
+],
   "geometry": {"coordinates":[-80.212546,26.05897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303230353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546856,27.350102,-82.546856,27.350102",
     "geom:latitude":27.350102,
     "geom:longitude":-82.546856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 N Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303230353,
-    "wof:lastmodified":1448999933,
+    "wof:lastmodified":1466434511,
     "wof:name":"Avenue Art Shop Inc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.546856,27.350102,-82.546856,27.350102],
-  "geometry": {"coordinates":[-82.546856,27.350102],"type":"Point"}
+  "bbox": [
+    -82.546856,
+    27.350102,
+    -82.546856,
+    27.350102
+],
+  "geometry": {"coordinates":[-82.54685600000001,27.350102],"type":"Point"}
 }

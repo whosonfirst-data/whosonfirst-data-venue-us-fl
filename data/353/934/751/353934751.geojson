@@ -2,13 +2,14 @@
   "id": 353934751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355027,25.764208,-80.355027,25.764208",
     "geom:latitude":25.764208,
     "geom:longitude":-80.355027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9711 SW 5th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353934751,
-    "wof:lastmodified":1449018370,
+    "wof:lastmodified":1466442996,
     "wof:name":"Alicia Villa",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.355027,25.764208,-80.355027,25.764208],
-  "geometry": {"coordinates":[-80.355027,25.764208],"type":"Point"}
+  "bbox": [
+    -80.355027,
+    25.764208,
+    -80.355027,
+    25.764208
+],
+  "geometry": {"coordinates":[-80.35502700000001,25.764208],"type":"Point"}
 }

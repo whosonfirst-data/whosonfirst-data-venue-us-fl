@@ -2,13 +2,14 @@
   "id": 303179281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055109,26.766,-80.055109,26.766",
     "geom:latitude":26.766,
     "geom:longitude":-80.055109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Broadway",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303179281,
-    "wof:lastmodified":1449000318,
+    "wof:lastmodified":1466433633,
     "wof:name":"FPL",
     "wof:parent_id":85881805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.055109,26.766,-80.055109,26.766],
+  "bbox": [
+    -80.055109,
+    26.766,
+    -80.055109,
+    26.766
+],
   "geometry": {"coordinates":[-80.055109,26.766],"type":"Point"}
 }

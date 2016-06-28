@@ -2,13 +2,14 @@
   "id": 303575611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.209663,28.611783,-81.209663,28.611783",
     "geom:latitude":28.611783,
     "geom:longitude":-81.209663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12101 Knights Krossing Cir",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303575611,
-    "wof:lastmodified":1448998822,
+    "wof:lastmodified":1466440447,
     "wof:name":"Knights Crossings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.209663,28.611783,-81.209663,28.611783],
-  "geometry": {"coordinates":[-81.209663,28.611783],"type":"Point"}
+  "bbox": [
+    -81.209663,
+    28.611783,
+    -81.209663,
+    28.611783
+],
+  "geometry": {"coordinates":[-81.20966300000001,28.611783],"type":"Point"}
 }

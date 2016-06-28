@@ -2,13 +2,14 @@
   "id": 303111503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649007,30.306522,-81.649007,30.306522",
     "geom:latitude":30.306522,
     "geom:longitude":-81.649007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Perry Pl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303111503,
-    "wof:lastmodified":1449000649,
+    "wof:lastmodified":1466432424,
     "wof:name":"Active Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-81.649007,30.306522,-81.649007,30.306522],
+  "bbox": [
+    -81.649007,
+    30.306522,
+    -81.649007,
+    30.306522
+],
   "geometry": {"coordinates":[-81.649007,30.306522],"type":"Point"}
 }

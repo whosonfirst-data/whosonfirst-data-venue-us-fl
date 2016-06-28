@@ -2,13 +2,14 @@
   "id": 320235259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103462,26.77389,-80.103462,26.77389",
     "geom:latitude":26.77389,
     "geom:longitude":-80.103462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6667 42nd Ter N",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320235259,
-    "wof:lastmodified":1449011899,
+    "wof:lastmodified":1466437409,
     "wof:name":"Pompanette Kitchens",
     "wof:parent_id":85889897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-80.103462,26.77389,-80.103462,26.77389],
-  "geometry": {"coordinates":[-80.103462,26.77389],"type":"Point"}
+  "bbox": [
+    -80.103462,
+    26.77389,
+    -80.103462,
+    26.77389
+],
+  "geometry": {"coordinates":[-80.10346199999999,26.77389],"type":"Point"}
 }

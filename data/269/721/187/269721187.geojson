@@ -2,13 +2,14 @@
   "id": 269721187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.367495,28.593032,-81.367495,28.593032",
     "geom:latitude":28.593032,
     "geom:longitude":-81.367495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 W Fairbanks Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269721187,
-    "wof:lastmodified":1449038959,
+    "wof:lastmodified":1466432708,
     "wof:name":"International Quicksigns Inc",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "transportation"
     ]
 },
-  "bbox": [-81.367495,28.593032,-81.367495,28.593032],
-  "geometry": {"coordinates":[-81.367495,28.593032],"type":"Point"}
+  "bbox": [
+    -81.367495,
+    28.593032,
+    -81.367495,
+    28.593032
+],
+  "geometry": {"coordinates":[-81.36749500000001,28.593032],"type":"Point"}
 }

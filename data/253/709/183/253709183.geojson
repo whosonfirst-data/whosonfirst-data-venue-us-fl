@@ -2,13 +2,14 @@
   "id": 253709183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225971,25.748317,-80.225971,25.748317",
     "geom:latitude":25.748317,
     "geom:longitude":-80.225971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 SW 23rd Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253709183,
-    "wof:lastmodified":1449063405,
+    "wof:lastmodified":1466439337,
     "wof:name":"EAL Appraisals",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.225971,25.748317,-80.225971,25.748317],
+  "bbox": [
+    -80.225971,
+    25.748317,
+    -80.225971,
+    25.748317
+],
   "geometry": {"coordinates":[-80.225971,25.748317],"type":"Point"}
 }

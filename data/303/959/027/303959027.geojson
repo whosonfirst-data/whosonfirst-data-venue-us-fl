@@ -2,13 +2,14 @@
   "id": 303959027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599703,30.312439,-81.599703,30.312439",
     "geom:latitude":30.312439,
     "geom:longitude":-81.599703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1746 University Blvd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303959027,
-    "wof:lastmodified":1449000323,
+    "wof:lastmodified":1466446819,
     "wof:name":"Steven J Underkofler DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.599703,30.312439,-81.599703,30.312439],
-  "geometry": {"coordinates":[-81.599703,30.312439],"type":"Point"}
+  "bbox": [
+    -81.599703,
+    30.312439,
+    -81.599703,
+    30.312439
+],
+  "geometry": {"coordinates":[-81.59970300000001,30.312439],"type":"Point"}
 }

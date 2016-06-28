@@ -2,13 +2,14 @@
   "id": 319956467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.810963,27.548976,-81.810963,27.548976",
     "geom:latitude":27.548976,
     "geom:longitude":-81.810963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Palmetto St",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319956467,
-    "wof:lastmodified":1449024228,
+    "wof:lastmodified":1466435234,
     "wof:name":"Central Florida Health Care",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.810963,27.548976,-81.810963,27.548976],
+  "bbox": [
+    -81.810963,
+    27.548976,
+    -81.810963,
+    27.548976
+],
   "geometry": {"coordinates":[-81.810963,27.548976],"type":"Point"}
 }

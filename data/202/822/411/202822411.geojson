@@ -2,13 +2,14 @@
   "id": 202822411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.456842,30.273452,-81.456842,30.273452",
     "geom:latitude":30.273452,
     "geom:longitude":-81.456842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13758 Danforth Dr S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202822411,
-    "wof:lastmodified":1449062558,
+    "wof:lastmodified":1466432547,
     "wof:name":"Puzzle Code Inc",
     "wof:parent_id":85847107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.456842,30.273452,-81.456842,30.273452],
-  "geometry": {"coordinates":[-81.456842,30.273452],"type":"Point"}
+  "bbox": [
+    -81.456842,
+    30.273452,
+    -81.456842,
+    30.273452
+],
+  "geometry": {"coordinates":[-81.45684199999999,30.273452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387944927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599572,30.354106,-81.599572,30.354106",
     "geom:latitude":30.354106,
     "geom:longitude":-81.599572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2938 Justina Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387944927,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1466449928,
     "wof:name":"My Barber Shop",
     "wof:parent_id":85870691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.599572,30.354106,-81.599572,30.354106],
-  "geometry": {"coordinates":[-81.599572,30.354106],"type":"Point"}
+  "bbox": [
+    -81.599572,
+    30.354106,
+    -81.599572,
+    30.354106
+],
+  "geometry": {"coordinates":[-81.59957199999999,30.354106],"type":"Point"}
 }

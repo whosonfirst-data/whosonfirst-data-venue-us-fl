@@ -2,13 +2,14 @@
   "id": 287041321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.591203,30.258312,-81.591203,30.258312",
     "geom:latitude":30.258312,
     "geom:longitude":-81.591203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Southpoint Pkwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287041321,
-    "wof:lastmodified":1449000980,
+    "wof:lastmodified":1466430525,
     "wof:name":"Universal Healthcare Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.591203,30.258312,-81.591203,30.258312],
-  "geometry": {"coordinates":[-81.591203,30.258312],"type":"Point"}
+  "bbox": [
+    -81.591203,
+    30.258312,
+    -81.591203,
+    30.258312
+],
+  "geometry": {"coordinates":[-81.59120299999999,30.258312],"type":"Point"}
 }

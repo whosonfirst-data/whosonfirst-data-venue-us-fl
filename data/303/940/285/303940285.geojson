@@ -2,13 +2,14 @@
   "id": 303940285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.244684,30.493981,-84.244684,30.493981",
     "geom:latitude":30.493981,
     "geom:longitude":-84.244684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3255 Capital Cir NE",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303940285,
-    "wof:lastmodified":1448998706,
+    "wof:lastmodified":1466446939,
     "wof:name":"Capitol Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-84.244684,30.493981,-84.244684,30.493981],
-  "geometry": {"coordinates":[-84.244684,30.493981],"type":"Point"}
+  "bbox": [
+    -84.244684,
+    30.493981,
+    -84.244684,
+    30.493981
+],
+  "geometry": {"coordinates":[-84.24468400000001,30.493981],"type":"Point"}
 }

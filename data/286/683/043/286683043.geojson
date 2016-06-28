@@ -2,13 +2,14 @@
   "id": 286683043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.336903,28.833849,-81.336903,28.833849",
     "geom:latitude":28.833849,
     "geom:longitude":-81.336903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4980 Nebraska Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286683043,
-    "wof:lastmodified":1449016264,
+    "wof:lastmodified":1466437035,
     "wof:name":"Interiors By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.336903,28.833849,-81.336903,28.833849],
-  "geometry": {"coordinates":[-81.336903,28.833849],"type":"Point"}
+  "bbox": [
+    -81.336903,
+    28.833849,
+    -81.336903,
+    28.833849
+],
+  "geometry": {"coordinates":[-81.33690300000001,28.833849],"type":"Point"}
 }

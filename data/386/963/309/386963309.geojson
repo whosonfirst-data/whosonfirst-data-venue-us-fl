@@ -2,13 +2,14 @@
   "id": 386963309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.448517,27.084387,-82.448517,27.084387",
     "geom:latitude":27.084387,
     "geom:longitude":-82.448517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Cincy St",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386963309,
-    "wof:lastmodified":1449028659,
+    "wof:lastmodified":1466438915,
     "wof:name":"Tile On Isle",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.448517,27.084387,-82.448517,27.084387],
+  "bbox": [
+    -82.448517,
+    27.084387,
+    -82.448517,
+    27.084387
+],
   "geometry": {"coordinates":[-82.448517,27.084387],"type":"Point"}
 }

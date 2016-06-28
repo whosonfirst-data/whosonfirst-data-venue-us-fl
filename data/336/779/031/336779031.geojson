@@ -2,13 +2,14 @@
   "id": 336779031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.335844,28.721859,-81.335844,28.721859",
     "geom:latitude":28.721859,
     "geom:longitude":-81.335844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 N Ronald Reagan Blvd",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336779031,
-    "wof:lastmodified":1448997105,
+    "wof:lastmodified":1466438086,
     "wof:name":"Suny Interior",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-81.335844,28.721859,-81.335844,28.721859],
-  "geometry": {"coordinates":[-81.335844,28.721859],"type":"Point"}
+  "bbox": [
+    -81.335844,
+    28.721859,
+    -81.335844,
+    28.721859
+],
+  "geometry": {"coordinates":[-81.33584399999999,28.721859],"type":"Point"}
 }

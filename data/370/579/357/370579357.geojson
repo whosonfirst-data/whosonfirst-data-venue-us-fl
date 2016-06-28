@@ -2,13 +2,14 @@
   "id": 370579357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.055996,29.286561,-81.055996,29.286561",
     "geom:latitude":29.286561,
     "geom:longitude":-81.055996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 N Beach St",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370579357,
-    "wof:lastmodified":1449030175,
+    "wof:lastmodified":1466443064,
     "wof:name":"Ormond Beach Union Church",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.055996,29.286561,-81.055996,29.286561],
-  "geometry": {"coordinates":[-81.055996,29.286561],"type":"Point"}
+  "bbox": [
+    -81.055996,
+    29.286561,
+    -81.055996,
+    29.286561
+],
+  "geometry": {"coordinates":[-81.05599599999999,29.286561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353774083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.550627,28.573887,-81.550627,28.573887",
     "geom:latitude":28.573887,
     "geom:longitude":-81.550627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Ocoee Apopka Rd",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353774083,
-    "wof:lastmodified":1449019260,
+    "wof:lastmodified":1466440528,
     "wof:name":"Florida Solar Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tinting"
     ]
 },
-  "bbox": [-81.550627,28.573887,-81.550627,28.573887],
-  "geometry": {"coordinates":[-81.550627,28.573887],"type":"Point"}
+  "bbox": [
+    -81.550627,
+    28.573887,
+    -81.550627,
+    28.573887
+],
+  "geometry": {"coordinates":[-81.55062700000001,28.573887],"type":"Point"}
 }

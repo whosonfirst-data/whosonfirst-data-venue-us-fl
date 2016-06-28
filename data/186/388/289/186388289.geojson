@@ -2,13 +2,14 @@
   "id": 186388289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.548668,30.286569,-81.548668,30.286569",
     "geom:latitude":30.286569,
     "geom:longitude":-81.548668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9944 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186388289,
-    "wof:lastmodified":1449050375,
+    "wof:lastmodified":1466431369,
     "wof:name":"Atlas Imports",
     "wof:parent_id":85804135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.548668,30.286569,-81.548668,30.286569],
-  "geometry": {"coordinates":[-81.548668,30.286569],"type":"Point"}
+  "bbox": [
+    -81.548668,
+    30.286569,
+    -81.548668,
+    30.286569
+],
+  "geometry": {"coordinates":[-81.54866800000001,30.286569],"type":"Point"}
 }

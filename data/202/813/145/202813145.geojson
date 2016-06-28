@@ -2,13 +2,14 @@
   "id": 202813145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459801,28.090273,-82.459801,28.090273",
     "geom:latitude":28.090273,
     "geom:longitude":-82.459801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15511 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202813145,
-    "wof:lastmodified":1449060768,
+    "wof:lastmodified":1466432420,
     "wof:name":"Professional Associates",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.459801,28.090273,-82.459801,28.090273],
+  "bbox": [
+    -82.459801,
+    28.090273,
+    -82.459801,
+    28.090273
+],
   "geometry": {"coordinates":[-82.459801,28.090273],"type":"Point"}
 }

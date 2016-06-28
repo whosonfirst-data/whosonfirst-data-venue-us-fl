@@ -2,13 +2,14 @@
   "id": 186643925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.428651,28.702239,-81.428651,28.702239",
     "geom:latitude":28.702239,
     "geom:longitude":-81.428651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Valley Dr",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186643925,
-    "wof:lastmodified":1449052662,
+    "wof:lastmodified":1466434749,
     "wof:name":"Command Group Investigations",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.428651,28.702239,-81.428651,28.702239],
+  "bbox": [
+    -81.428651,
+    28.702239,
+    -81.428651,
+    28.702239
+],
   "geometry": {"coordinates":[-81.428651,28.702239],"type":"Point"}
 }

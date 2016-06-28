@@ -2,13 +2,14 @@
   "id": 252809837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259582,25.771756,-80.259582,25.771756",
     "geom:latitude":25.771756,
     "geom:longitude":-80.259582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252809837,
-    "wof:lastmodified":1449006312,
+    "wof:lastmodified":1466429904,
     "wof:name":"Miami Mental Health Center",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-80.259582,25.771756,-80.259582,25.771756],
-  "geometry": {"coordinates":[-80.259582,25.771756],"type":"Point"}
+  "bbox": [
+    -80.259582,
+    25.771756,
+    -80.259582,
+    25.771756
+],
+  "geometry": {"coordinates":[-80.25958199999999,25.771756],"type":"Point"}
 }

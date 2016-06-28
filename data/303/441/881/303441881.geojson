@@ -2,13 +2,14 @@
   "id": 303441881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.691745,28.331318,-82.691745,28.331318",
     "geom:latitude":28.331318,
     "geom:longitude":-82.691745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7463 State Rd 52",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303441881,
-    "wof:lastmodified":1448998306,
+    "wof:lastmodified":1466438145,
     "wof:name":"Hernando Pasco Oncology",
     "wof:parent_id":85888903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.691745,28.331318,-82.691745,28.331318],
+  "bbox": [
+    -82.691745,
+    28.331318,
+    -82.691745,
+    28.331318
+],
   "geometry": {"coordinates":[-82.691745,28.331318],"type":"Point"}
 }

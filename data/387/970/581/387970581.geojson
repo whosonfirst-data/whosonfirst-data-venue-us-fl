@@ -2,13 +2,14 @@
   "id": 387970581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299561,27.30302,-80.299561,27.30302",
     "geom:latitude":27.30302,
     "geom:longitude":-80.299561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 SE Industrial Blvd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387970581,
-    "wof:lastmodified":1449059854,
+    "wof:lastmodified":1466450088,
     "wof:name":"Treasure Coast Oxygen Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oxygen"
     ]
 },
-  "bbox": [-80.299561,27.30302,-80.299561,27.30302],
+  "bbox": [
+    -80.299561,
+    27.30302,
+    -80.299561,
+    27.30302
+],
   "geometry": {"coordinates":[-80.299561,27.30302],"type":"Point"}
 }

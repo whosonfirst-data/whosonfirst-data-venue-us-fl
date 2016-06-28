@@ -2,13 +2,14 @@
   "id": 220080867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.726663,30.243631,-81.726663,30.243631",
     "geom:latitude":30.243631,
     "geom:longitude":-81.726663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5654 Bennington Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220080867,
-    "wof:lastmodified":1449074853,
+    "wof:lastmodified":1466445380,
     "wof:name":"NSL",
     "wof:parent_id":85853567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.726663,30.243631,-81.726663,30.243631],
+  "bbox": [
+    -81.726663,
+    30.243631,
+    -81.726663,
+    30.243631
+],
   "geometry": {"coordinates":[-81.726663,30.243631],"type":"Point"}
 }

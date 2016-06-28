@@ -2,13 +2,14 @@
   "id": 386979829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120201,26.161097,-80.120201,26.161097",
     "geom:latitude":26.161097,
     "geom:longitude":-80.120201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 Coral Gardens Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386979829,
-    "wof:lastmodified":1449028850,
+    "wof:lastmodified":1466439185,
     "wof:name":"Eileen Zigarelli",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.120201,26.161097,-80.120201,26.161097],
-  "geometry": {"coordinates":[-80.120201,26.161097],"type":"Point"}
+  "bbox": [
+    -80.120201,
+    26.161097,
+    -80.120201,
+    26.161097
+],
+  "geometry": {"coordinates":[-80.12020099999999,26.161097],"type":"Point"}
 }

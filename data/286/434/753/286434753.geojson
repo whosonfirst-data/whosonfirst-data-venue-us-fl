@@ -2,13 +2,14 @@
   "id": 286434753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490468,27.919338,-82.490468,27.919338",
     "geom:latitude":27.919338,
     "geom:longitude":-82.490468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 W Bay To Bay Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286434753,
-    "wof:lastmodified":1449015811,
+    "wof:lastmodified":1466432649,
     "wof:name":"Telecommunication Systems Inc",
     "wof:parent_id":85840309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "integration"
     ]
 },
-  "bbox": [-82.490468,27.919338,-82.490468,27.919338],
-  "geometry": {"coordinates":[-82.490468,27.919338],"type":"Point"}
+  "bbox": [
+    -82.490468,
+    27.919338,
+    -82.490468,
+    27.919338
+],
+  "geometry": {"coordinates":[-82.49046800000001,27.919338],"type":"Point"}
 }

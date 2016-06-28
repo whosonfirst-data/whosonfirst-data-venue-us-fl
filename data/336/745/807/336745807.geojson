@@ -2,13 +2,14 @@
   "id": 336745807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315036,25.730867,-80.315036,25.730867",
     "geom:latitude":25.730867,
     "geom:longitude":-80.315036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4432 SW 74th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336745807,
-    "wof:lastmodified":1448997955,
+    "wof:lastmodified":1466437495,
     "wof:name":"Anamed Corp",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.315036,25.730867,-80.315036,25.730867],
-  "geometry": {"coordinates":[-80.315036,25.730867],"type":"Point"}
+  "bbox": [
+    -80.315036,
+    25.730867,
+    -80.315036,
+    25.730867
+],
+  "geometry": {"coordinates":[-80.31503600000001,25.730867],"type":"Point"}
 }

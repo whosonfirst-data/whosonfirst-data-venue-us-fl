@@ -2,13 +2,14 @@
   "id": 303865991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540326,28.807462,-81.540326,28.807462",
     "geom:latitude":28.807462,
     "geom:longitude":-81.540326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25130 Family Ct",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303865991,
-    "wof:lastmodified":1448999964,
+    "wof:lastmodified":1466445448,
     "wof:name":"Bertha's Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.540326,28.807462,-81.540326,28.807462],
-  "geometry": {"coordinates":[-81.540326,28.807462],"type":"Point"}
+  "bbox": [
+    -81.540326,
+    28.807462,
+    -81.540326,
+    28.807462
+],
+  "geometry": {"coordinates":[-81.54032599999999,28.807462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303655009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.112988,28.014084,-82.112988,28.014084",
     "geom:latitude":28.014084,
     "geom:longitude":-82.112988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 E Laura St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303655009,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1466441792,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85889461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.112988,28.014084,-82.112988,28.014084],
+  "bbox": [
+    -82.112988,
+    28.014084,
+    -82.112988,
+    28.014084
+],
   "geometry": {"coordinates":[-82.112988,28.014084],"type":"Point"}
 }

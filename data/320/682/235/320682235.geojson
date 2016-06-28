@@ -2,13 +2,14 @@
   "id": 320682235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294587,29.681295,-82.294587,29.681295",
     "geom:latitude":29.681295,
     "geom:longitude":-82.294587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 NE 31 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320682235,
-    "wof:lastmodified":1449011910,
+    "wof:lastmodified":1466445180,
     "wof:name":"Mc David Typewriter Co",
     "wof:parent_id":85877599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typewriter"
     ]
 },
-  "bbox": [-82.294587,29.681295,-82.294587,29.681295],
-  "geometry": {"coordinates":[-82.294587,29.681295],"type":"Point"}
+  "bbox": [
+    -82.294587,
+    29.681295,
+    -82.294587,
+    29.681295
+],
+  "geometry": {"coordinates":[-82.29458700000001,29.681295],"type":"Point"}
 }

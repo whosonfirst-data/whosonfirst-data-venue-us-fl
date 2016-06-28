@@ -2,13 +2,14 @@
   "id": 219348903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.963653,27.969629,-81.963653,27.969629",
     "geom:latitude":27.969629,
     "geom:longitude":-81.963653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5369 S Florida Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219348903,
-    "wof:lastmodified":1449070524,
+    "wof:lastmodified":1466429439,
     "wof:name":"Harris & Harris",
     "wof:parent_id":85889027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-81.963653,27.969629,-81.963653,27.969629],
-  "geometry": {"coordinates":[-81.963653,27.969629],"type":"Point"}
+  "bbox": [
+    -81.963653,
+    27.969629,
+    -81.963653,
+    27.969629
+],
+  "geometry": {"coordinates":[-81.96365299999999,27.969629],"type":"Point"}
 }

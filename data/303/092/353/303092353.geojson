@@ -2,13 +2,14 @@
   "id": 303092353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256913,25.771881,-80.256913,25.771881",
     "geom:latitude":25.771881,
     "geom:longitude":-80.256913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 W Flagler St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303092353,
-    "wof:lastmodified":1449000105,
+    "wof:lastmodified":1466432083,
     "wof:name":"King Dollar",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.256913,25.771881,-80.256913,25.771881],
+  "bbox": [
+    -80.256913,
+    25.771881,
+    -80.256913,
+    25.771881
+],
   "geometry": {"coordinates":[-80.256913,25.771881],"type":"Point"}
 }

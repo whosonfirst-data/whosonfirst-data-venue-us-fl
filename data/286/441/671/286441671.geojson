@@ -2,13 +2,14 @@
   "id": 286441671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.139468,26.142256,-80.139468,26.142256",
     "geom:latitude":26.142256,
     "geom:longitude":-80.139468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 NE 13th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286441671,
-    "wof:lastmodified":1449015403,
+    "wof:lastmodified":1466432766,
     "wof:name":"Studio 524",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-80.139468,26.142256,-80.139468,26.142256],
-  "geometry": {"coordinates":[-80.139468,26.142256],"type":"Point"}
+  "bbox": [
+    -80.139468,
+    26.142256,
+    -80.139468,
+    26.142256
+],
+  "geometry": {"coordinates":[-80.13946799999999,26.142256],"type":"Point"}
 }

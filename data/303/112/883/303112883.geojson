@@ -2,13 +2,14 @@
   "id": 303112883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.995782,28.815587,-81.995782,28.815587",
     "geom:latitude":28.815587,
     "geom:longitude":-81.995782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 W Quail Run",
     "sg:city":"Wildwood",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303112883,
-    "wof:lastmodified":1448999247,
+    "wof:lastmodified":1466432451,
     "wof:name":"HERB-T.Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seminar"
     ]
 },
-  "bbox": [-81.995782,28.815587,-81.995782,28.815587],
-  "geometry": {"coordinates":[-81.995782,28.815587],"type":"Point"}
+  "bbox": [
+    -81.995782,
+    28.815587,
+    -81.995782,
+    28.815587
+],
+  "geometry": {"coordinates":[-81.99578200000001,28.815587],"type":"Point"}
 }

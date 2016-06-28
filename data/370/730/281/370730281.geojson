@@ -2,13 +2,14 @@
   "id": 370730281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.246495,30.503023,-84.246495,30.503023",
     "geom:latitude":30.503023,
     "geom:longitude":-84.246495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Halstead Blvd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370730281,
-    "wof:lastmodified":1449031923,
+    "wof:lastmodified":1466445358,
     "wof:name":"Floridas News Channel LLC",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "network"
     ]
 },
-  "bbox": [-84.246495,30.503023,-84.246495,30.503023],
+  "bbox": [
+    -84.246495,
+    30.503023,
+    -84.246495,
+    30.503023
+],
   "geometry": {"coordinates":[-84.246495,30.503023],"type":"Point"}
 }

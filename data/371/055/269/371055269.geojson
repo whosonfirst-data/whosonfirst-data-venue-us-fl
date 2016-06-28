@@ -2,13 +2,14 @@
   "id": 371055269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.739516,30.198859,-81.739516,30.198859",
     "geom:latitude":30.198859,
     "geom:longitude":-81.739516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8102 Blanding Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371055269,
-    "wof:lastmodified":1449049270,
+    "wof:lastmodified":1466438421,
     "wof:name":"Baptist St Vincents",
     "wof:parent_id":85870745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.739516,30.198859,-81.739516,30.198859],
-  "geometry": {"coordinates":[-81.739516,30.198859],"type":"Point"}
+  "bbox": [
+    -81.739516,
+    30.198859,
+    -81.739516,
+    30.198859
+],
+  "geometry": {"coordinates":[-81.73951599999999,30.198859],"type":"Point"}
 }

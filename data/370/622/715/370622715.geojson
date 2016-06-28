@@ -2,13 +2,14 @@
   "id": 370622715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.456552,29.049552,-82.456552,29.049552",
     "geom:latitude":29.049552,
     "geom:longitude":-82.456552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20217 E Pennsylvania Ave",
     "sg:city":"Dunnellon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370622715,
-    "wof:lastmodified":1449031858,
+    "wof:lastmodified":1466443728,
     "wof:name":"Dunellon Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-82.456552,29.049552,-82.456552,29.049552],
+  "bbox": [
+    -82.456552,
+    29.049552,
+    -82.456552,
+    29.049552
+],
   "geometry": {"coordinates":[-82.456552,29.049552],"type":"Point"}
 }

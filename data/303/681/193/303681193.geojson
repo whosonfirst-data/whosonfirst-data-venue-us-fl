@@ -2,13 +2,14 @@
   "id": 303681193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455249,28.230784,-81.455249,28.230784",
     "geom:latitude":28.230784,
     "geom:longitude":-81.455249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2458 Huron Cir",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303681193,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1466442278,
     "wof:name":"Glacier Blue",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "filter"
     ]
 },
-  "bbox": [-81.455249,28.230784,-81.455249,28.230784],
-  "geometry": {"coordinates":[-81.455249,28.230784],"type":"Point"}
+  "bbox": [
+    -81.455249,
+    28.230784,
+    -81.455249,
+    28.230784
+],
+  "geometry": {"coordinates":[-81.45524899999999,28.230784],"type":"Point"}
 }

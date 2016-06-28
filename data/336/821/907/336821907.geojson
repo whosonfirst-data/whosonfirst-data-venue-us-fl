@@ -2,13 +2,14 @@
   "id": 336821907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524116,27.948554,-82.524116,27.948554",
     "geom:latitude":27.948554,
     "geom:longitude":-82.524116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336821907,
-    "wof:lastmodified":1448997533,
+    "wof:lastmodified":1466438826,
     "wof:name":"Randstad",
     "wof:parent_id":85873267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.524116,27.948554,-82.524116,27.948554],
-  "geometry": {"coordinates":[-82.524116,27.948554],"type":"Point"}
+  "bbox": [
+    -82.524116,
+    27.948554,
+    -82.524116,
+    27.948554
+],
+  "geometry": {"coordinates":[-82.52411600000001,27.948554],"type":"Point"}
 }

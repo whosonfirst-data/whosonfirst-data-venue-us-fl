@@ -2,13 +2,14 @@
   "id": 186371593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080055,26.781206,-80.080055,26.781206",
     "geom:latitude":26.781206,
     "geom:longitude":-80.080055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 W Blue Heron Blvd",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186371593,
-    "wof:lastmodified":1449052403,
+    "wof:lastmodified":1466431167,
     "wof:name":"Blue Heron Apartments",
     "wof:parent_id":85889897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.080055,26.781206,-80.080055,26.781206],
+  "bbox": [
+    -80.080055,
+    26.781206,
+    -80.080055,
+    26.781206
+],
   "geometry": {"coordinates":[-80.080055,26.781206],"type":"Point"}
 }

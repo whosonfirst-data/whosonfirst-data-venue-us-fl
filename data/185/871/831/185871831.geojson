@@ -2,13 +2,14 @@
   "id": 185871831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08052,26.805784,-80.08052,26.805784",
     "geom:latitude":26.805784,
     "geom:longitude":-80.08052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 N Killian Dr",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185871831,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466429703,
     "wof:name":"Summit Dynamics LLC",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.08052,26.805784,-80.08052,26.805784],
-  "geometry": {"coordinates":[-80.08052,26.805784],"type":"Point"}
+  "bbox": [
+    -80.08052,
+    26.805784,
+    -80.08052,
+    26.805784
+],
+  "geometry": {"coordinates":[-80.08052000000001,26.805784],"type":"Point"}
 }

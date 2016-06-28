@@ -2,13 +2,14 @@
   "id": 320614111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.710749,28.266086,-82.710749,28.266086",
     "geom:latitude":28.266086,
     "geom:longitude":-82.710749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6231 Bandura Ave",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320614111,
-    "wof:lastmodified":1449015063,
+    "wof:lastmodified":1466444037,
     "wof:name":"Greater New Port Rchey Main St",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.710749,28.266086,-82.710749,28.266086],
-  "geometry": {"coordinates":[-82.710749,28.266086],"type":"Point"}
+  "bbox": [
+    -82.710749,
+    28.266086,
+    -82.710749,
+    28.266086
+],
+  "geometry": {"coordinates":[-82.71074900000001,28.266086],"type":"Point"}
 }

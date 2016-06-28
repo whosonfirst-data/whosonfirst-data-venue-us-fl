@@ -2,13 +2,14 @@
   "id": 253604633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.259353,30.503697,-84.259353,30.503697",
     "geom:latitude":30.503697,
     "geom:longitude":-84.259353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 Timberlane Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253604633,
-    "wof:lastmodified":1449065435,
+    "wof:lastmodified":1466437495,
     "wof:name":"P I A of Florida Inc",
     "wof:parent_id":85889649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "provides"
     ]
 },
-  "bbox": [-84.259353,30.503697,-84.259353,30.503697],
+  "bbox": [
+    -84.259353,
+    30.503697,
+    -84.259353,
+    30.503697
+],
   "geometry": {"coordinates":[-84.259353,30.503697],"type":"Point"}
 }

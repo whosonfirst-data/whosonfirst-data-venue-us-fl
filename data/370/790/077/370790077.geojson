@@ -2,13 +2,14 @@
   "id": 370790077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.491915,25.486179,-80.491915,25.486179",
     "geom:latitude":25.486179,
     "geom:longitude":-80.491915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 NW 12th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370790077,
-    "wof:lastmodified":1449031692,
+    "wof:lastmodified":1466446275,
     "wof:name":"JLW Technical Communications",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.491915,25.486179,-80.491915,25.486179],
-  "geometry": {"coordinates":[-80.491915,25.486179],"type":"Point"}
+  "bbox": [
+    -80.491915,
+    25.486179,
+    -80.491915,
+    25.486179
+],
+  "geometry": {"coordinates":[-80.49191500000001,25.486179],"type":"Point"}
 }

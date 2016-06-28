@@ -2,13 +2,14 @@
   "id": 320038365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.794142,26.146848,-81.794142,26.146848",
     "geom:latitude":26.146848,
     "geom:longitude":-81.794142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 10th St S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320038365,
-    "wof:lastmodified":1449013656,
+    "wof:lastmodified":1466434046,
     "wof:name":"A Consignment Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-81.794142,26.146848,-81.794142,26.146848],
-  "geometry": {"coordinates":[-81.794142,26.146848],"type":"Point"}
+  "bbox": [
+    -81.794142,
+    26.146848,
+    -81.794142,
+    26.146848
+],
+  "geometry": {"coordinates":[-81.79414199999999,26.146848],"type":"Point"}
 }

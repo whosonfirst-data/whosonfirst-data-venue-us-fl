@@ -2,13 +2,14 @@
   "id": 370395379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.465729,30.515773,-86.465729,30.515773",
     "geom:latitude":30.515773,
     "geom:longitude":-86.465729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370395379,
-    "wof:lastmodified":1449031971,
+    "wof:lastmodified":1466440230,
     "wof:name":"Chamber of Commerece Niceville",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.465729,30.515773,-86.465729,30.515773],
+  "bbox": [
+    -86.465729,
+    30.515773,
+    -86.465729,
+    30.515773
+],
   "geometry": {"coordinates":[-86.465729,30.515773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203310961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527003,27.952315,-82.527003,27.952315",
     "geom:latitude":27.952315,
     "geom:longitude":-82.527003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 W Cypress St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203310961,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466430302,
     "wof:name":"Childrens Cancer Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "organization"
     ]
 },
-  "bbox": [-82.527003,27.952315,-82.527003,27.952315],
-  "geometry": {"coordinates":[-82.527003,27.952315],"type":"Point"}
+  "bbox": [
+    -82.527003,
+    27.952315,
+    -82.527003,
+    27.952315
+],
+  "geometry": {"coordinates":[-82.52700299999999,27.952315],"type":"Point"}
 }

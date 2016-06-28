@@ -2,13 +2,14 @@
   "id": 202654561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085287,26.502323,-80.085287,26.502323",
     "geom:latitude":26.502323,
     "geom:longitude":-80.085287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 SW 26th Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202654561,
-    "wof:lastmodified":1449060962,
+    "wof:lastmodified":1466430402,
     "wof:name":"Modern Plumbing",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.085287,26.502323,-80.085287,26.502323],
-  "geometry": {"coordinates":[-80.085287,26.502323],"type":"Point"}
+  "bbox": [
+    -80.085287,
+    26.502323,
+    -80.085287,
+    26.502323
+],
+  "geometry": {"coordinates":[-80.08528699999999,26.502323],"type":"Point"}
 }

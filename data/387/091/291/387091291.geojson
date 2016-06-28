@@ -2,13 +2,14 @@
   "id": 387091291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.249809,30.479537,-87.249809,30.479537",
     "geom:latitude":30.479537,
     "geom:longitude":-87.249809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Industrial Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387091291,
-    "wof:lastmodified":1449056487,
+    "wof:lastmodified":1466440102,
     "wof:name":"Car City Engine and Machine",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-87.249809,30.479537,-87.249809,30.479537],
+  "bbox": [
+    -87.249809,
+    30.479537,
+    -87.249809,
+    30.479537
+],
   "geometry": {"coordinates":[-87.249809,30.479537],"type":"Point"}
 }

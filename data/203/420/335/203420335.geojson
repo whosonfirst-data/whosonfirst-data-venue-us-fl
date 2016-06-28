@@ -2,13 +2,14 @@
   "id": 203420335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.474831,30.533766,-84.474831,30.533766",
     "geom:latitude":30.533766,
     "geom:longitude":-84.474831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28670 Blue Star Hwy",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203420335,
-    "wof:lastmodified":1449025825,
+    "wof:lastmodified":1466431702,
     "wof:name":"Nicoles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.474831,30.533766,-84.474831,30.533766],
-  "geometry": {"coordinates":[-84.474831,30.533766],"type":"Point"}
+  "bbox": [
+    -84.474831,
+    30.533766,
+    -84.474831,
+    30.533766
+],
+  "geometry": {"coordinates":[-84.47483099999999,30.533766],"type":"Point"}
 }

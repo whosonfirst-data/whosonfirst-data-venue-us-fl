@@ -2,13 +2,14 @@
   "id": 370376311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24011,25.757651,-80.24011,25.757651",
     "geom:latitude":25.757651,
     "geom:longitude":-80.24011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 SW 16th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370376311,
-    "wof:lastmodified":1449030258,
+    "wof:lastmodified":1466439943,
     "wof:name":"Post 1608",
     "wof:parent_id":85896155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.24011,25.757651,-80.24011,25.757651],
+  "bbox": [
+    -80.24011,
+    25.757651,
+    -80.24011,
+    25.757651
+],
   "geometry": {"coordinates":[-80.24011,25.757651],"type":"Point"}
 }

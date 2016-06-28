@@ -2,13 +2,14 @@
   "id": 252767271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125793,26.171573,-80.125793,26.171573",
     "geom:latitude":26.171573,
     "geom:longitude":-80.125793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1657 NE 35th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252767271,
-    "wof:lastmodified":1449005734,
+    "wof:lastmodified":1466429280,
     "wof:name":"Protection Networks",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-80.125793,26.171573,-80.125793,26.171573],
+  "bbox": [
+    -80.125793,
+    26.171573,
+    -80.125793,
+    26.171573
+],
   "geometry": {"coordinates":[-80.125793,26.171573],"type":"Point"}
 }

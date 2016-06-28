@@ -2,13 +2,14 @@
   "id": 303221733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.054378,26.690316,-80.054378,26.690316",
     "geom:latitude":26.690316,
     "geom:longitude":-80.054378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 S Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303221733,
-    "wof:lastmodified":1448999193,
+    "wof:lastmodified":1466434368,
     "wof:name":"West Palm Beach Exxon",
     "wof:parent_id":85881793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-80.054378,26.690316,-80.054378,26.690316],
+  "bbox": [
+    -80.054378,
+    26.690316,
+    -80.054378,
+    26.690316
+],
   "geometry": {"coordinates":[-80.054378,26.690316],"type":"Point"}
 }

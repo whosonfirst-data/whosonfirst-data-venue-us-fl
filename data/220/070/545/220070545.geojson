@@ -2,13 +2,14 @@
   "id": 220070545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.851352,26.572756,-81.851352,26.572756",
     "geom:latitude":26.572756,
     "geom:longitude":-81.851352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6240 Arc Way",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220070545,
-    "wof:lastmodified":1449074411,
+    "wof:lastmodified":1466445233,
     "wof:name":"Broward Factory Service",
     "wof:parent_id":85888789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-81.851352,26.572756,-81.851352,26.572756],
-  "geometry": {"coordinates":[-81.851352,26.572756],"type":"Point"}
+  "bbox": [
+    -81.851352,
+    26.572756,
+    -81.851352,
+    26.572756
+],
+  "geometry": {"coordinates":[-81.85135200000001,26.572756],"type":"Point"}
 }

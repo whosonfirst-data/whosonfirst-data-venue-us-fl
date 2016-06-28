@@ -2,13 +2,14 @@
   "id": 387716441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401898,28.065379,-82.401898,28.065379",
     "geom:latitude":28.065379,
     "geom:longitude":-82.401898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13005 N 50th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387716441,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466448459,
     "wof:name":"USF Campus Ministry",
     "wof:parent_id":85889785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.401898,28.065379,-82.401898,28.065379],
+  "bbox": [
+    -82.401898,
+    28.065379,
+    -82.401898,
+    28.065379
+],
   "geometry": {"coordinates":[-82.401898,28.065379],"type":"Point"}
 }

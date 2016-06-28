@@ -2,13 +2,14 @@
   "id": 336918517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.688308,28.158131,-80.688308,28.158131",
     "geom:latitude":28.158131,
     "geom:longitude":-80.688308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Turtle Mound Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336918517,
-    "wof:lastmodified":1448997656,
+    "wof:lastmodified":1466440489,
     "wof:name":"El Rancho De Pasos",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.688308,28.158131,-80.688308,28.158131],
-  "geometry": {"coordinates":[-80.688308,28.158131],"type":"Point"}
+  "bbox": [
+    -80.688308,
+    28.158131,
+    -80.688308,
+    28.158131
+],
+  "geometry": {"coordinates":[-80.68830800000001,28.158131],"type":"Point"}
 }

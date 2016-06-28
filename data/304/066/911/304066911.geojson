@@ -2,13 +2,14 @@
   "id": 304066911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131847,25.88957,-80.131847,25.88957",
     "geom:latitude":25.88957,
     "geom:longitude":-80.131847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 99th St",
     "sg:city":"Bay Harbor Isles",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304066911,
-    "wof:lastmodified":1449043729,
+    "wof:lastmodified":1466432988,
     "wof:name":"Club Of Bay Harbor",
     "wof:parent_id":85804795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.131847,25.88957,-80.131847,25.88957],
-  "geometry": {"coordinates":[-80.131847,25.88957],"type":"Point"}
+  "bbox": [
+    -80.131847,
+    25.88957,
+    -80.131847,
+    25.88957
+],
+  "geometry": {"coordinates":[-80.13184699999999,25.88957],"type":"Point"}
 }

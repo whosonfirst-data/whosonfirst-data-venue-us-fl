@@ -2,13 +2,14 @@
   "id": 220000447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.416432,28.279496,-81.416432,28.279496",
     "geom:latitude":28.279496,
     "geom:longitude":-81.416432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 S John Young Pkwy",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220000447,
-    "wof:lastmodified":1449074168,
+    "wof:lastmodified":1466442860,
     "wof:name":"Crossroads Realty",
     "wof:parent_id":85878515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.416432,28.279496,-81.416432,28.279496],
+  "bbox": [
+    -81.416432,
+    28.279496,
+    -81.416432,
+    28.279496
+],
   "geometry": {"coordinates":[-81.416432,28.279496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387804115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476486,29.627816,-82.476486,29.627816",
     "geom:latitude":29.627816,
     "geom:longitude":-82.476486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 SW 125th St",
     "sg:city":"Archer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387804115,
-    "wof:lastmodified":1449058759,
+    "wof:lastmodified":1466448981,
     "wof:name":"Classic Cleaning Svc",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.476486,29.627816,-82.476486,29.627816],
-  "geometry": {"coordinates":[-82.476486,29.627816],"type":"Point"}
+  "bbox": [
+    -82.476486,
+    29.627816,
+    -82.476486,
+    29.627816
+],
+  "geometry": {"coordinates":[-82.47648599999999,29.627816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370445789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313116,25.80117,-80.313116,25.80117",
     "geom:latitude":25.80117,
     "geom:longitude":-80.313116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2872 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370445789,
-    "wof:lastmodified":1449029547,
+    "wof:lastmodified":1466441021,
     "wof:name":"Tahu Inc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.313116,25.80117,-80.313116,25.80117],
-  "geometry": {"coordinates":[-80.313116,25.80117],"type":"Point"}
+  "bbox": [
+    -80.313116,
+    25.80117,
+    -80.313116,
+    25.80117
+],
+  "geometry": {"coordinates":[-80.31311599999999,25.80117],"type":"Point"}
 }

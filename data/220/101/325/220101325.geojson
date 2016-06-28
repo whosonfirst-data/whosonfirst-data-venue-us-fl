@@ -2,13 +2,14 @@
   "id": 220101325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.197917,28.365584,-82.197917,28.365584",
     "geom:latitude":28.365584,
     "geom:longitude":-82.197917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37401 Magnolia Ave",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220101325,
-    "wof:lastmodified":1449074463,
+    "wof:lastmodified":1466445902,
     "wof:name":"Matthew Howell's Lawn Care",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.197917,28.365584,-82.197917,28.365584],
+  "bbox": [
+    -82.197917,
+    28.365584,
+    -82.197917,
+    28.365584
+],
   "geometry": {"coordinates":[-82.197917,28.365584],"type":"Point"}
 }

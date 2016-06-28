@@ -2,13 +2,14 @@
   "id": 303981463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.628564,27.782199,-82.628564,27.782199",
     "geom:latitude":27.782199,
     "geom:longitude":-82.628564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Beach Dr NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303981463,
-    "wof:lastmodified":1449000611,
+    "wof:lastmodified":1466447276,
     "wof:name":"Site Assessment Engineering",
     "wof:parent_id":85881947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-82.628564,27.782199,-82.628564,27.782199],
+  "bbox": [
+    -82.628564,
+    27.782199,
+    -82.628564,
+    27.782199
+],
   "geometry": {"coordinates":[-82.628564,27.782199],"type":"Point"}
 }

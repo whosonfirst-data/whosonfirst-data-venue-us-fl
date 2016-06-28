@@ -2,13 +2,14 @@
   "id": 387503547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455239,27.314952,-82.455239,27.314952",
     "geom:latitude":27.314952,
     "geom:longitude":-82.455239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Old Pine Way",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387503547,
-    "wof:lastmodified":1449059930,
+    "wof:lastmodified":1466446378,
     "wof:name":"Trans Med",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.455239,27.314952,-82.455239,27.314952],
-  "geometry": {"coordinates":[-82.455239,27.314952],"type":"Point"}
+  "bbox": [
+    -82.455239,
+    27.314952,
+    -82.455239,
+    27.314952
+],
+  "geometry": {"coordinates":[-82.45523900000001,27.314952],"type":"Point"}
 }

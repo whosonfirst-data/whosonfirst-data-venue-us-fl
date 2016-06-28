@@ -2,13 +2,14 @@
   "id": 185725869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24205,25.807241,-80.24205,25.807241",
     "geom:latitude":25.807241,
     "geom:longitude":-80.24205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 NW 34th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185725869,
-    "wof:lastmodified":1449007008,
+    "wof:lastmodified":1466445933,
     "wof:name":"Golden Pig Inc",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pork"
     ]
 },
-  "bbox": [-80.24205,25.807241,-80.24205,25.807241],
-  "geometry": {"coordinates":[-80.24205,25.807241],"type":"Point"}
+  "bbox": [
+    -80.24205,
+    25.807241,
+    -80.24205,
+    25.807241
+],
+  "geometry": {"coordinates":[-80.24205000000001,25.807241],"type":"Point"}
 }

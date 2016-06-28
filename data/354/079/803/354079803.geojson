@@ -2,13 +2,14 @@
   "id": 354079803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79506,26.176018,-81.79506,26.176018",
     "geom:latitude":26.176018,
     "geom:longitude":-81.79506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Diana Ave",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354079803,
-    "wof:lastmodified":1449067368,
+    "wof:lastmodified":1466437309,
     "wof:name":"Anchor Aluminum Inc",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminum"
     ]
 },
-  "bbox": [-81.79506,26.176018,-81.79506,26.176018],
-  "geometry": {"coordinates":[-81.79506,26.176018],"type":"Point"}
+  "bbox": [
+    -81.79506,
+    26.176018,
+    -81.79506,
+    26.176018
+],
+  "geometry": {"coordinates":[-81.79506000000001,26.176018],"type":"Point"}
 }

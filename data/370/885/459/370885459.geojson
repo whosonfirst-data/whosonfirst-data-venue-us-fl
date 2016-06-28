@@ -2,13 +2,14 @@
   "id": 370885459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587151,30.183235,-81.587151,30.183235",
     "geom:latitude":30.183235,
     "geom:longitude":-81.587151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Pinewood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370885459,
-    "wof:lastmodified":1449030873,
+    "wof:lastmodified":1466447210,
     "wof:name":"Baptist Church",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ministry"
     ]
 },
-  "bbox": [-81.587151,30.183235,-81.587151,30.183235],
-  "geometry": {"coordinates":[-81.587151,30.183235],"type":"Point"}
+  "bbox": [
+    -81.587151,
+    30.183235,
+    -81.587151,
+    30.183235
+],
+  "geometry": {"coordinates":[-81.58715100000001,30.183235],"type":"Point"}
 }

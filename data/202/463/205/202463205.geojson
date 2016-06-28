@@ -2,13 +2,14 @@
   "id": 202463205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424328,27.507702,-81.424328,27.507702",
     "geom:latitude":27.507702,
     "geom:longitude":-81.424328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Cemetery Rd",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202463205,
-    "wof:lastmodified":1449061854,
+    "wof:lastmodified":1466445216,
     "wof:name":"Sebring Sewer Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.424328,27.507702,-81.424328,27.507702],
+  "bbox": [
+    -81.424328,
+    27.507702,
+    -81.424328,
+    27.507702
+],
   "geometry": {"coordinates":[-81.424328,27.507702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186010577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.570512,30.26957,-81.570512,30.26957",
     "geom:latitude":30.26957,
     "geom:longitude":-81.570512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9727 Touchton Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186010577,
-    "wof:lastmodified":1449052041,
+    "wof:lastmodified":1466436068,
     "wof:name":"Florida Chambers Co Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.570512,30.26957,-81.570512,30.26957],
-  "geometry": {"coordinates":[-81.570512,30.26957],"type":"Point"}
+  "bbox": [
+    -81.570512,
+    30.26957,
+    -81.570512,
+    30.26957
+],
+  "geometry": {"coordinates":[-81.57051199999999,30.26957],"type":"Point"}
 }

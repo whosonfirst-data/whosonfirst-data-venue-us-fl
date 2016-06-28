@@ -2,13 +2,14 @@
   "id": 303946177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.402544,25.997562,-80.402544,25.997562",
     "geom:latitude":25.997562,
     "geom:longitude":-80.402544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 SW 191st Ave",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303946177,
-    "wof:lastmodified":1449000274,
+    "wof:lastmodified":1466446658,
     "wof:name":"Carnival Cruise Line",
     "wof:parent_id":85879801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.402544,25.997562,-80.402544,25.997562],
-  "geometry": {"coordinates":[-80.402544,25.997562],"type":"Point"}
+  "bbox": [
+    -80.402544,
+    25.997562,
+    -80.402544,
+    25.997562
+],
+  "geometry": {"coordinates":[-80.40254400000001,25.997562],"type":"Point"}
 }

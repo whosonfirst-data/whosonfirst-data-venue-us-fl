@@ -2,13 +2,14 @@
   "id": 286545099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.753493,30.18824,-85.753493,30.18824",
     "geom:latitude":30.18824,
     "geom:longitude":-85.753493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6703 W Hwy 98",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286545099,
-    "wof:lastmodified":1449015878,
+    "wof:lastmodified":1466434560,
     "wof:name":"Coastal System Stn Envmtl Dept",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental"
     ]
 },
-  "bbox": [-85.753493,30.18824,-85.753493,30.18824],
-  "geometry": {"coordinates":[-85.753493,30.18824],"type":"Point"}
+  "bbox": [
+    -85.753493,
+    30.18824,
+    -85.753493,
+    30.18824
+],
+  "geometry": {"coordinates":[-85.75349300000001,30.18824],"type":"Point"}
 }

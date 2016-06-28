@@ -2,13 +2,14 @@
   "id": 219777505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.091405,26.278991,-80.091405,26.278991",
     "geom:latitude":26.278991,
     "geom:longitude":-80.091405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3841 NE 23rd Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219777505,
-    "wof:lastmodified":1449072241,
+    "wof:lastmodified":1466435132,
     "wof:name":"Gamper Marine Inc",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-80.091405,26.278991,-80.091405,26.278991],
-  "geometry": {"coordinates":[-80.091405,26.278991],"type":"Point"}
+  "bbox": [
+    -80.091405,
+    26.278991,
+    -80.091405,
+    26.278991
+],
+  "geometry": {"coordinates":[-80.09140499999999,26.278991],"type":"Point"}
 }

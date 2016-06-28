@@ -2,13 +2,14 @@
   "id": 387575763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.319865,29.677001,-82.319865,29.677001",
     "geom:latitude":29.677001,
     "geom:longitude":-82.319865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Main St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387575763,
-    "wof:lastmodified":1449057204,
+    "wof:lastmodified":1466447011,
     "wof:name":"Main Street Chevrolet",
     "wof:parent_id":85877603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.319865,29.677001,-82.319865,29.677001],
-  "geometry": {"coordinates":[-82.319865,29.677001],"type":"Point"}
+  "bbox": [
+    -82.319865,
+    29.677001,
+    -82.319865,
+    29.677001
+],
+  "geometry": {"coordinates":[-82.31986499999999,29.677001],"type":"Point"}
 }

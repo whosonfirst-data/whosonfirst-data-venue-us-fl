@@ -2,13 +2,14 @@
   "id": 202804001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.589369,30.530515,-84.589369,30.530515",
     "geom:latitude":30.530515,
     "geom:longitude":-84.589369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Shiloh Rd",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202804001,
-    "wof:lastmodified":1449061858,
+    "wof:lastmodified":1466432310,
     "wof:name":"North Florida Vault Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "block"
     ]
 },
-  "bbox": [-84.589369,30.530515,-84.589369,30.530515],
+  "bbox": [
+    -84.589369,
+    30.530515,
+    -84.589369,
+    30.530515
+],
   "geometry": {"coordinates":[-84.589369,30.530515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354101231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134695,26.707304,-80.134695,26.707304",
     "geom:latitude":26.707304,
     "geom:longitude":-80.134695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Okeechobee Rd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354101231,
-    "wof:lastmodified":1449066835,
+    "wof:lastmodified":1466437647,
     "wof:name":"Global Financial Advisory",
     "wof:parent_id":85881813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-80.134695,26.707304,-80.134695,26.707304],
-  "geometry": {"coordinates":[-80.134695,26.707304],"type":"Point"}
+  "bbox": [
+    -80.134695,
+    26.707304,
+    -80.134695,
+    26.707304
+],
+  "geometry": {"coordinates":[-80.13469499999999,26.707304],"type":"Point"}
 }

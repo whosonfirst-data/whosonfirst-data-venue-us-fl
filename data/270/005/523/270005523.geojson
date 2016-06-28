@@ -2,13 +2,14 @@
   "id": 270005523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.531057,27.34308,-82.531057,27.34308",
     "geom:latitude":27.34308,
     "geom:longitude":-82.531057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 N Washington Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270005523,
-    "wof:lastmodified":1449010901,
+    "wof:lastmodified":1466429547,
     "wof:name":"Scott Foeller",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.531057,27.34308,-82.531057,27.34308],
+  "bbox": [
+    -82.531057,
+    27.34308,
+    -82.531057,
+    27.34308
+],
   "geometry": {"coordinates":[-82.531057,27.34308],"type":"Point"}
 }

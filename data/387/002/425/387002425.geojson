@@ -2,13 +2,14 @@
   "id": 387002425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.270102,30.456347,-84.270102,30.456347",
     "geom:latitude":30.456347,
     "geom:longitude":-84.270102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 E 6th Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387002425,
-    "wof:lastmodified":1449059233,
+    "wof:lastmodified":1466438756,
     "wof:name":"R Vincent Russo",
     "wof:parent_id":85881343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-84.270102,30.456347,-84.270102,30.456347],
-  "geometry": {"coordinates":[-84.270102,30.456347],"type":"Point"}
+  "bbox": [
+    -84.270102,
+    30.456347,
+    -84.270102,
+    30.456347
+],
+  "geometry": {"coordinates":[-84.27010199999999,30.456347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236310853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.533474,28.025561,-82.533474,28.025561",
     "geom:latitude":28.025561,
     "geom:longitude":-82.533474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 W Waters Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236310853,
-    "wof:lastmodified":1449003724,
+    "wof:lastmodified":1466432815,
     "wof:name":"Fedex Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-82.533474,28.025561,-82.533474,28.025561],
+  "bbox": [
+    -82.533474,
+    28.025561,
+    -82.533474,
+    28.025561
+],
   "geometry": {"coordinates":[-82.533474,28.025561],"type":"Point"}
 }

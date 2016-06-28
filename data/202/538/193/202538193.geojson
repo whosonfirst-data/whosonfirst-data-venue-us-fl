@@ -2,13 +2,14 @@
   "id": 202538193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.477106,28.332605,-81.477106,28.332605",
     "geom:latitude":28.332605,
     "geom:longitude":-81.477106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4840 W Irlo Bronson Memorial Hwy",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202538193,
-    "wof:lastmodified":1449060420,
+    "wof:lastmodified":1466428857,
     "wof:name":"Lakeview Motel",
     "wof:parent_id":85889337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.477106,28.332605,-81.477106,28.332605],
-  "geometry": {"coordinates":[-81.477106,28.332605],"type":"Point"}
+  "bbox": [
+    -81.477106,
+    28.332605,
+    -81.477106,
+    28.332605
+],
+  "geometry": {"coordinates":[-81.47710600000001,28.332605],"type":"Point"}
 }

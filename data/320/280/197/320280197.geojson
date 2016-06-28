@@ -2,13 +2,14 @@
   "id": 320280197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735085,26.232069,-81.735085,26.232069",
     "geom:latitude":26.232069,
     "geom:longitude":-81.735085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 el Camino Real",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320280197,
-    "wof:lastmodified":1449013101,
+    "wof:lastmodified":1466438187,
     "wof:name":"Premier Builders",
     "wof:parent_id":85889243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.735085,26.232069,-81.735085,26.232069],
+  "bbox": [
+    -81.735085,
+    26.232069,
+    -81.735085,
+    26.232069
+],
   "geometry": {"coordinates":[-81.735085,26.232069],"type":"Point"}
 }

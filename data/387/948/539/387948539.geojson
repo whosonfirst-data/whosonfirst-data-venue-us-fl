@@ -2,13 +2,14 @@
   "id": 387948539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.445772,25.550834,-80.445772,25.550834",
     "geom:latitude":25.550834,
     "geom:longitude":-80.445772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15730 SW 232nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387948539,
-    "wof:lastmodified":1449059127,
+    "wof:lastmodified":1466449940,
     "wof:name":"Anderson's Corner",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-80.445772,25.550834,-80.445772,25.550834],
-  "geometry": {"coordinates":[-80.445772,25.550834],"type":"Point"}
+  "bbox": [
+    -80.445772,
+    25.550834,
+    -80.445772,
+    25.550834
+],
+  "geometry": {"coordinates":[-80.44577200000001,25.550834],"type":"Point"}
 }

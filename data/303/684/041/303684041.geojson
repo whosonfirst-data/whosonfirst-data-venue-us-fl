@@ -2,13 +2,14 @@
   "id": 303684041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.438425,28.664049,-81.438425,28.664049",
     "geom:latitude":28.664049,
     "geom:longitude":-81.438425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Paces Cir",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303684041,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466442329,
     "wof:name":"Bell Consultants",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.438425,28.664049,-81.438425,28.664049],
+  "bbox": [
+    -81.438425,
+    28.664049,
+    -81.438425,
+    28.664049
+],
   "geometry": {"coordinates":[-81.438425,28.664049],"type":"Point"}
 }

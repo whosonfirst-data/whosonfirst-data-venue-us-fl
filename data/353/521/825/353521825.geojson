@@ -2,13 +2,14 @@
   "id": 353521825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.623416,27.512124,-82.623416,27.512124",
     "geom:latitude":27.512124,
     "geom:longitude":-82.623416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 62nd St NW",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353521825,
-    "wof:lastmodified":1449020658,
+    "wof:lastmodified":1466436499,
     "wof:name":"Bobs Lawn Care of Manatee",
     "wof:parent_id":85888577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.623416,27.512124,-82.623416,27.512124],
-  "geometry": {"coordinates":[-82.623416,27.512124],"type":"Point"}
+  "bbox": [
+    -82.623416,
+    27.512124,
+    -82.623416,
+    27.512124
+],
+  "geometry": {"coordinates":[-82.62341600000001,27.512124],"type":"Point"}
 }

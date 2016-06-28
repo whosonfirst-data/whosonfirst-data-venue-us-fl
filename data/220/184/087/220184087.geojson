@@ -2,13 +2,14 @@
   "id": 220184087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534906,27.323845,-82.534906,27.323845",
     "geom:latitude":27.323845,
     "geom:longitude":-82.534906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 Irving St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220184087,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466429353,
     "wof:name":"Waffle Shop of Sarasota Inc",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.534906,27.323845,-82.534906,27.323845],
-  "geometry": {"coordinates":[-82.534906,27.323845],"type":"Point"}
+  "bbox": [
+    -82.534906,
+    27.323845,
+    -82.534906,
+    27.323845
+],
+  "geometry": {"coordinates":[-82.53490600000001,27.323845],"type":"Point"}
 }

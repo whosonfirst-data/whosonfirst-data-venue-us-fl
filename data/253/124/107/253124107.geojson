@@ -2,13 +2,14 @@
   "id": 253124107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509983,27.501558,-82.509983,27.501558",
     "geom:latitude":27.501558,
     "geom:longitude":-82.509983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 1st Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253124107,
-    "wof:lastmodified":1449065564,
+    "wof:lastmodified":1466430218,
     "wof:name":"Mike Foy Stucco Inc",
     "wof:parent_id":85888761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.509983,27.501558,-82.509983,27.501558],
-  "geometry": {"coordinates":[-82.509983,27.501558],"type":"Point"}
+  "bbox": [
+    -82.509983,
+    27.501558,
+    -82.509983,
+    27.501558
+],
+  "geometry": {"coordinates":[-82.50998300000001,27.501558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303530765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2269,25.743977,-80.2269,25.743977",
     "geom:latitude":25.743977,
     "geom:longitude":-80.2269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303530765,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466439687,
     "wof:name":"Motion Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tv"
     ]
 },
-  "bbox": [-80.2269,25.743977,-80.2269,25.743977],
+  "bbox": [
+    -80.2269,
+    25.743977,
+    -80.2269,
+    25.743977
+],
   "geometry": {"coordinates":[-80.2269,25.743977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353849699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.810707,27.543063,-81.810707,27.543063",
     "geom:latitude":27.543063,
     "geom:longitude":-81.810707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S 6th Ave",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353849699,
-    "wof:lastmodified":1449018720,
+    "wof:lastmodified":1466441700,
     "wof:name":"Sevigny & Timmerman",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.810707,27.543063,-81.810707,27.543063],
-  "geometry": {"coordinates":[-81.810707,27.543063],"type":"Point"}
+  "bbox": [
+    -81.810707,
+    27.543063,
+    -81.810707,
+    27.543063
+],
+  "geometry": {"coordinates":[-81.81070699999999,27.543063],"type":"Point"}
 }

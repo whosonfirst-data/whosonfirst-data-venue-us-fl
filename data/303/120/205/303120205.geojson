@@ -2,13 +2,14 @@
   "id": 303120205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.331965,29.011729,-81.331965,29.011729",
     "geom:latitude":29.011729,
     "geom:longitude":-81.331965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Woodward Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303120205,
-    "wof:lastmodified":1449000211,
+    "wof:lastmodified":1466432586,
     "wof:name":"Woodward Ave Elementary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.331965,29.011729,-81.331965,29.011729],
+  "bbox": [
+    -81.331965,
+    29.011729,
+    -81.331965,
+    29.011729
+],
   "geometry": {"coordinates":[-81.331965,29.011729],"type":"Point"}
 }

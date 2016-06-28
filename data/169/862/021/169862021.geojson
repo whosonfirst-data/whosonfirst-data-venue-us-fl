@@ -2,13 +2,14 @@
   "id": 169862021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.187926,28.334599,-82.187926,28.334599",
     "geom:latitude":28.334599,
     "geom:longitude":-82.187926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37905 Wdcf Dr",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169862021,
-    "wof:lastmodified":1449036046,
+    "wof:lastmodified":1466429681,
     "wof:name":"WDCF",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-82.187926,28.334599,-82.187926,28.334599],
+  "bbox": [
+    -82.187926,
+    28.334599,
+    -82.187926,
+    28.334599
+],
   "geometry": {"coordinates":[-82.187926,28.334599],"type":"Point"}
 }

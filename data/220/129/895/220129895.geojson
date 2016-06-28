@@ -2,13 +2,14 @@
   "id": 220129895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135995,26.181487,-80.135995,26.181487",
     "geom:latitude":26.181487,
     "geom:longitude":-80.135995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 NE 44th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220129895,
-    "wof:lastmodified":1449074686,
+    "wof:lastmodified":1466428638,
     "wof:name":"Prospect Plastics Inc",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.135995,26.181487,-80.135995,26.181487],
-  "geometry": {"coordinates":[-80.135995,26.181487],"type":"Point"}
+  "bbox": [
+    -80.135995,
+    26.181487,
+    -80.135995,
+    26.181487
+],
+  "geometry": {"coordinates":[-80.13599499999999,26.181487],"type":"Point"}
 }

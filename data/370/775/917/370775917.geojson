@@ -2,13 +2,14 @@
   "id": 370775917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.408096,28.604555,-81.408096,28.604555",
     "geom:latitude":28.604555,
     "geom:longitude":-81.408096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5017 Edgewater Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370775917,
-    "wof:lastmodified":1449031599,
+    "wof:lastmodified":1466446089,
     "wof:name":"Hurricane Moving & Transfer",
     "wof:parent_id":85879475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-81.408096,28.604555,-81.408096,28.604555],
+  "bbox": [
+    -81.408096,
+    28.604555,
+    -81.408096,
+    28.604555
+],
   "geometry": {"coordinates":[-81.408096,28.604555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303446469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.38881,27.079349,-82.38881,27.079349",
     "geom:latitude":27.079349,
     "geom:longitude":-82.38881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Jacaranda Blvd",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303446469,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466438224,
     "wof:name":"Venice Pines Travel",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-82.38881,27.079349,-82.38881,27.079349],
-  "geometry": {"coordinates":[-82.38881,27.079349],"type":"Point"}
+  "bbox": [
+    -82.38881,
+    27.079349,
+    -82.38881,
+    27.079349
+],
+  "geometry": {"coordinates":[-82.38881000000001,27.079349],"type":"Point"}
 }

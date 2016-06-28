@@ -2,13 +2,14 @@
   "id": 370857041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.783274,26.347512,-81.783274,26.347512",
     "geom:latitude":26.347512,
     "geom:longitude":-81.783274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26876 Pine Ave",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370857041,
-    "wof:lastmodified":1449031270,
+    "wof:lastmodified":1466446894,
     "wof:name":"Bonita Springs Public Library",
     "wof:parent_id":85888567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.783274,26.347512,-81.783274,26.347512],
-  "geometry": {"coordinates":[-81.783274,26.347512],"type":"Point"}
+  "bbox": [
+    -81.783274,
+    26.347512,
+    -81.783274,
+    26.347512
+],
+  "geometry": {"coordinates":[-81.78327400000001,26.347512],"type":"Point"}
 }

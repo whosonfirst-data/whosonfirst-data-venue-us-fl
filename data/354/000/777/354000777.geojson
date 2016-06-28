@@ -2,13 +2,14 @@
   "id": 354000777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.212854,28.682079,-81.212854,28.682079",
     "geom:latitude":28.682079,
     "geom:longitude":-81.212854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 N Lake Jessup Ave",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354000777,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466446475,
     "wof:name":"4 X 4 Reconstruction",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.212854,28.682079,-81.212854,28.682079],
-  "geometry": {"coordinates":[-81.212854,28.682079],"type":"Point"}
+  "bbox": [
+    -81.212854,
+    28.682079,
+    -81.212854,
+    28.682079
+],
+  "geometry": {"coordinates":[-81.21285399999999,28.682079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320580859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.569862,30.715346,-86.569862,30.715346",
     "geom:latitude":30.715346,
     "geom:longitude":-86.569862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 S Ferdon Blvd",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320580859,
-    "wof:lastmodified":1449013788,
+    "wof:lastmodified":1466443459,
     "wof:name":"Lewis Crane & Hoist",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-86.569862,30.715346,-86.569862,30.715346],
+  "bbox": [
+    -86.569862,
+    30.715346,
+    -86.569862,
+    30.715346
+],
   "geometry": {"coordinates":[-86.569862,30.715346],"type":"Point"}
 }

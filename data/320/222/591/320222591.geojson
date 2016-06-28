@@ -2,13 +2,14 @@
   "id": 320222591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.419248,29.663477,-82.419248,29.663477",
     "geom:latitude":29.663477,
     "geom:longitude":-82.419248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 NW 11th Pl",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320222591,
-    "wof:lastmodified":1449013771,
+    "wof:lastmodified":1466437189,
     "wof:name":"Community Cancer Ctr",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.419248,29.663477,-82.419248,29.663477],
+  "bbox": [
+    -82.419248,
+    29.663477,
+    -82.419248,
+    29.663477
+],
   "geometry": {"coordinates":[-82.419248,29.663477],"type":"Point"}
 }

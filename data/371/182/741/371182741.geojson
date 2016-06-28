@@ -2,13 +2,14 @@
   "id": 371182741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447369,29.689017,-82.447369,29.689017",
     "geom:latitude":29.689017,
     "geom:longitude":-82.447369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 NW 39th Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371182741,
-    "wof:lastmodified":1449049716,
+    "wof:lastmodified":1466440352,
     "wof:name":"Stop N Go",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.447369,29.689017,-82.447369,29.689017],
-  "geometry": {"coordinates":[-82.447369,29.689017],"type":"Point"}
+  "bbox": [
+    -82.447369,
+    29.689017,
+    -82.447369,
+    29.689017
+],
+  "geometry": {"coordinates":[-82.44736899999999,29.689017],"type":"Point"}
 }

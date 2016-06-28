@@ -2,13 +2,14 @@
   "id": 286557117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459472,28.082064,-82.459472,28.082064",
     "geom:latitude":28.082064,
     "geom:longitude":-82.459472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14701 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286557117,
-    "wof:lastmodified":1449017286,
+    "wof:lastmodified":1466434783,
     "wof:name":"University Medical Care",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.459472,28.082064,-82.459472,28.082064],
-  "geometry": {"coordinates":[-82.459472,28.082064],"type":"Point"}
+  "bbox": [
+    -82.459472,
+    28.082064,
+    -82.459472,
+    28.082064
+],
+  "geometry": {"coordinates":[-82.45947200000001,28.082064],"type":"Point"}
 }

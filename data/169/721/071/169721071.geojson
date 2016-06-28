@@ -2,13 +2,14 @@
   "id": 169721071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.499705,27.527325,-81.499705,27.527325",
     "geom:latitude":27.527325,
     "geom:longitude":-81.499705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6229 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169721071,
-    "wof:lastmodified":1449035959,
+    "wof:lastmodified":1466445868,
     "wof:name":"A J Petroleum LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.499705,27.527325,-81.499705,27.527325],
-  "geometry": {"coordinates":[-81.499705,27.527325],"type":"Point"}
+  "bbox": [
+    -81.499705,
+    27.527325,
+    -81.499705,
+    27.527325
+],
+  "geometry": {"coordinates":[-81.49970500000001,27.527325],"type":"Point"}
 }

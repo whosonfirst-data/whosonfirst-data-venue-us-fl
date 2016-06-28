@@ -2,13 +2,14 @@
   "id": 320607185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339247,29.650283,-82.339247,29.650283",
     "geom:latitude":29.650283,
     "geom:longitude":-82.339247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 SW 13th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320607185,
-    "wof:lastmodified":1449011746,
+    "wof:lastmodified":1466443914,
     "wof:name":"Fisher Scientific",
     "wof:parent_id":85877659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.339247,29.650283,-82.339247,29.650283],
+  "bbox": [
+    -82.339247,
+    29.650283,
+    -82.339247,
+    29.650283
+],
   "geometry": {"coordinates":[-82.339247,29.650283],"type":"Point"}
 }

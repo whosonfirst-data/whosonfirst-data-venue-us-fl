@@ -2,13 +2,14 @@
   "id": 387024689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.635337,28.078771,-80.635337,28.078771",
     "geom:latitude":28.078771,
     "geom:longitude":-80.635337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W New Haven Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387024689,
-    "wof:lastmodified":1449057927,
+    "wof:lastmodified":1466439089,
     "wof:name":"Pineda Sales",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.635337,28.078771,-80.635337,28.078771],
-  "geometry": {"coordinates":[-80.635337,28.078771],"type":"Point"}
+  "bbox": [
+    -80.635337,
+    28.078771,
+    -80.635337,
+    28.078771
+],
+  "geometry": {"coordinates":[-80.63533700000001,28.078771],"type":"Point"}
 }

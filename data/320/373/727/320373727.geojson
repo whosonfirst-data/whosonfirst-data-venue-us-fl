@@ -2,13 +2,14 @@
   "id": 320373727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.429578,28.65014,-81.429578,28.65014",
     "geom:latitude":28.65014,
     "geom:longitude":-81.429578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Oak Hollow Way",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320373727,
-    "wof:lastmodified":1449013189,
+    "wof:lastmodified":1466439793,
     "wof:name":"Joe Kramer Inc",
     "wof:parent_id":85845031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.429578,28.65014,-81.429578,28.65014],
-  "geometry": {"coordinates":[-81.429578,28.65014],"type":"Point"}
+  "bbox": [
+    -81.429578,
+    28.65014,
+    -81.429578,
+    28.65014
+],
+  "geometry": {"coordinates":[-81.42957800000001,28.65014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269815001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.157611,29.186311,-82.157611,29.186311",
     "geom:latitude":29.186311,
     "geom:longitude":-82.157611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1943 W Silver Springs Blvd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269815001,
-    "wof:lastmodified":1449037308,
+    "wof:lastmodified":1466434370,
     "wof:name":"Big Apple",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.157611,29.186311,-82.157611,29.186311],
+  "bbox": [
+    -82.157611,
+    29.186311,
+    -82.157611,
+    29.186311
+],
   "geometry": {"coordinates":[-82.157611,29.186311],"type":"Point"}
 }

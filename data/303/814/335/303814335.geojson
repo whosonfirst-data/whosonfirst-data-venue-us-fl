@@ -2,13 +2,14 @@
   "id": 303814335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.392761,30.294783,-81.392761,30.294783",
     "geom:latitude":30.294783,
     "geom:longitude":-81.392761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 6th Ave N",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303814335,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466444552,
     "wof:name":"Daryl Singleton Remax Spec",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.392761,30.294783,-81.392761,30.294783],
-  "geometry": {"coordinates":[-81.392761,30.294783],"type":"Point"}
+  "bbox": [
+    -81.392761,
+    30.294783,
+    -81.392761,
+    30.294783
+],
+  "geometry": {"coordinates":[-81.39276099999999,30.294783],"type":"Point"}
 }

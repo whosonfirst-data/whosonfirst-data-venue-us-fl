@@ -2,13 +2,14 @@
   "id": 253527341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329461,25.904117,-80.329461,25.904117",
     "geom:latitude":25.904117,
     "geom:longitude":-80.329461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14382 Commerce Way",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253527341,
-    "wof:lastmodified":1449065155,
+    "wof:lastmodified":1466436097,
     "wof:name":"H & F Acquisition",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "acquisition"
     ]
 },
-  "bbox": [-80.329461,25.904117,-80.329461,25.904117],
-  "geometry": {"coordinates":[-80.329461,25.904117],"type":"Point"}
+  "bbox": [
+    -80.329461,
+    25.904117,
+    -80.329461,
+    25.904117
+],
+  "geometry": {"coordinates":[-80.32946099999999,25.904117],"type":"Point"}
 }

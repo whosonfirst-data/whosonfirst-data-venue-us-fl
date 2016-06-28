@@ -2,13 +2,14 @@
   "id": 336598925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129961,26.333679,-80.129961,26.333679",
     "geom:latitude":26.333679,
     "geom:longitude":-80.129961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23126 Post Gardens Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336598925,
-    "wof:lastmodified":1448996967,
+    "wof:lastmodified":1466434959,
     "wof:name":"Gardens On The Fairway",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.129961,26.333679,-80.129961,26.333679],
-  "geometry": {"coordinates":[-80.129961,26.333679],"type":"Point"}
+  "bbox": [
+    -80.129961,
+    26.333679,
+    -80.129961,
+    26.333679
+],
+  "geometry": {"coordinates":[-80.12996099999999,26.333679],"type":"Point"}
 }

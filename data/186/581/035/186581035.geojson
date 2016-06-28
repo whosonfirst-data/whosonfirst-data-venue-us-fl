@@ -2,13 +2,14 @@
   "id": 186581035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47386,27.93619,-82.47386,27.93619",
     "geom:latitude":27.93619,
     "geom:longitude":-82.47386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 S Orleans Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186581035,
-    "wof:lastmodified":1449050972,
+    "wof:lastmodified":1466433895,
     "wof:name":"South Orleans Apartments",
     "wof:parent_id":85873223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.47386,27.93619,-82.47386,27.93619],
+  "bbox": [
+    -82.47386,
+    27.93619,
+    -82.47386,
+    27.93619
+],
   "geometry": {"coordinates":[-82.47386,27.93619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270436033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.652718,30.332352,-81.652718,30.332352",
     "geom:latitude":30.332352,
     "geom:longitude":-81.652718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 E State St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270436033,
-    "wof:lastmodified":1449010859,
+    "wof:lastmodified":1466436911,
     "wof:name":"Kings Bay Properties Ltd",
     "wof:parent_id":85866891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.652718,30.332352,-81.652718,30.332352],
-  "geometry": {"coordinates":[-81.652718,30.332352],"type":"Point"}
+  "bbox": [
+    -81.652718,
+    30.332352,
+    -81.652718,
+    30.332352
+],
+  "geometry": {"coordinates":[-81.65271799999999,30.332352],"type":"Point"}
 }

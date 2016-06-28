@@ -2,13 +2,14 @@
   "id": 370379261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.673926,30.361557,-81.673926,30.361557",
     "geom:latitude":30.361557,
     "geom:longitude":-81.673926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 W 28th St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370379261,
-    "wof:lastmodified":1449031040,
+    "wof:lastmodified":1466439988,
     "wof:name":"Mays Moving Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-81.673926,30.361557,-81.673926,30.361557],
-  "geometry": {"coordinates":[-81.673926,30.361557],"type":"Point"}
+  "bbox": [
+    -81.673926,
+    30.361557,
+    -81.673926,
+    30.361557
+],
+  "geometry": {"coordinates":[-81.67392599999999,30.361557],"type":"Point"}
 }

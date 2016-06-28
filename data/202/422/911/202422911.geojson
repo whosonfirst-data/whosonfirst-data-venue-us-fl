@@ -2,13 +2,14 @@
   "id": 202422911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584685,30.440901,-86.584685,30.440901",
     "geom:latitude":30.440901,
     "geom:longitude":-86.584685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Shalimar Dr",
     "sg:city":"Shalimar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202422911,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466444103,
     "wof:name":"Old Town Gallery",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leaded"
     ]
 },
-  "bbox": [-86.584685,30.440901,-86.584685,30.440901],
-  "geometry": {"coordinates":[-86.584685,30.440901],"type":"Point"}
+  "bbox": [
+    -86.584685,
+    30.440901,
+    -86.584685,
+    30.440901
+],
+  "geometry": {"coordinates":[-86.58468499999999,30.440901],"type":"Point"}
 }

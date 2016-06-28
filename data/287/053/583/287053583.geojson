@@ -2,13 +2,14 @@
   "id": 287053583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351791,28.539364,-81.351791,28.539364",
     "geom:latitude":28.539364,
     "geom:longitude":-81.351791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 S Bumby Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287053583,
-    "wof:lastmodified":1449000832,
+    "wof:lastmodified":1466430743,
     "wof:name":"Southern Nights",
     "wof:parent_id":85879447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lounge"
     ]
 },
-  "bbox": [-81.351791,28.539364,-81.351791,28.539364],
-  "geometry": {"coordinates":[-81.351791,28.539364],"type":"Point"}
+  "bbox": [
+    -81.351791,
+    28.539364,
+    -81.351791,
+    28.539364
+],
+  "geometry": {"coordinates":[-81.35179100000001,28.539364],"type":"Point"}
 }

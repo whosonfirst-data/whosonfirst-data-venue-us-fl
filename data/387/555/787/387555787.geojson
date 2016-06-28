@@ -2,13 +2,14 @@
   "id": 387555787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173003,26.231552,-80.173003,26.231552",
     "geom:latitude":26.231552,
     "geom:longitude":-80.173003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 W Atlantic Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387555787,
-    "wof:lastmodified":1449059382,
+    "wof:lastmodified":1466447053,
     "wof:name":"Aimco",
     "wof:parent_id":85896217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.173003,26.231552,-80.173003,26.231552],
-  "geometry": {"coordinates":[-80.173003,26.231552],"type":"Point"}
+  "bbox": [
+    -80.173003,
+    26.231552,
+    -80.173003,
+    26.231552
+],
+  "geometry": {"coordinates":[-80.17300299999999,26.231552],"type":"Point"}
 }

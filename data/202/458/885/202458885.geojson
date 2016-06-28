@@ -2,13 +2,14 @@
   "id": 202458885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314941,25.727685,-80.314941,25.727685",
     "geom:latitude":25.727685,
     "geom:longitude":-80.314941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 SW 74th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202458885,
-    "wof:lastmodified":1449061903,
+    "wof:lastmodified":1466445046,
     "wof:name":"Capital America Inc",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.314941,25.727685,-80.314941,25.727685],
+  "bbox": [
+    -80.314941,
+    25.727685,
+    -80.314941,
+    25.727685
+],
   "geometry": {"coordinates":[-80.314941,25.727685],"type":"Point"}
 }

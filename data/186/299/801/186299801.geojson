@@ -2,13 +2,14 @@
   "id": 186299801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.439276,28.49023,-81.439276,28.49023",
     "geom:latitude":28.49023,
     "geom:longitude":-81.439276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Walden Cir",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186299801,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466430302,
     "wof:name":"Oak Grove Apartments",
     "wof:parent_id":85879453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.439276,28.49023,-81.439276,28.49023],
-  "geometry": {"coordinates":[-81.439276,28.49023],"type":"Point"}
+  "bbox": [
+    -81.439276,
+    28.49023,
+    -81.439276,
+    28.49023
+],
+  "geometry": {"coordinates":[-81.43927600000001,28.49023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387030815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605472,30.179031,-81.605472,30.179031",
     "geom:latitude":30.179031,
     "geom:longitude":-81.605472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10875 Old Saint Augustine Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387030815,
-    "wof:lastmodified":1449057496,
+    "wof:lastmodified":1466439181,
     "wof:name":"Sterling House of Jacksonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.605472,30.179031,-81.605472,30.179031],
-  "geometry": {"coordinates":[-81.605472,30.179031],"type":"Point"}
+  "bbox": [
+    -81.605472,
+    30.179031,
+    -81.605472,
+    30.179031
+],
+  "geometry": {"coordinates":[-81.60547200000001,30.179031],"type":"Point"}
 }

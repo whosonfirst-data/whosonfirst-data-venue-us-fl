@@ -2,13 +2,14 @@
   "id": 303386423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226305,28.643391,-81.226305,28.643391",
     "geom:latitude":28.643391,
     "geom:longitude":-81.226305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2039 Notwen Ln",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303386423,
-    "wof:lastmodified":1448999405,
+    "wof:lastmodified":1466437189,
     "wof:name":"Majestic Building & Dev",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.226305,28.643391,-81.226305,28.643391],
+  "bbox": [
+    -81.226305,
+    28.643391,
+    -81.226305,
+    28.643391
+],
   "geometry": {"coordinates":[-81.226305,28.643391],"type":"Point"}
 }

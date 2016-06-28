@@ -2,13 +2,14 @@
   "id": 169678073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324924,29.649125,-82.324924,29.649125",
     "geom:latitude":29.649125,
     "geom:longitude":-82.324924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 S Main St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169678073,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466445226,
     "wof:name":"Florida Digital Turnpike",
     "wof:parent_id":85877641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "communications"
     ]
 },
-  "bbox": [-82.324924,29.649125,-82.324924,29.649125],
+  "bbox": [
+    -82.324924,
+    29.649125,
+    -82.324924,
+    29.649125
+],
   "geometry": {"coordinates":[-82.324924,29.649125],"type":"Point"}
 }

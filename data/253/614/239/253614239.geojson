@@ -2,13 +2,14 @@
   "id": 253614239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.698824,30.445304,-81.698824,30.445304",
     "geom:latitude":30.445304,
     "geom:longitude":-81.698824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3023 Harbison St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253614239,
-    "wof:lastmodified":1449065877,
+    "wof:lastmodified":1466437669,
     "wof:name":"Your Tile Company",
     "wof:parent_id":85821005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.698824,30.445304,-81.698824,30.445304],
+  "bbox": [
+    -81.698824,
+    30.445304,
+    -81.698824,
+    30.445304
+],
   "geometry": {"coordinates":[-81.698824,30.445304],"type":"Point"}
 }

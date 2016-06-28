@@ -2,13 +2,14 @@
   "id": 185618793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.181366,26.18039,-80.181366,26.18039",
     "geom:latitude":26.18039,
     "geom:longitude":-80.181366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 NW 44th St",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185618793,
-    "wof:lastmodified":1449007608,
+    "wof:lastmodified":1466443628,
     "wof:name":"Bridgewater Place",
     "wof:parent_id":85846325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.181366,26.18039,-80.181366,26.18039],
+  "bbox": [
+    -80.181366,
+    26.18039,
+    -80.181366,
+    26.18039
+],
   "geometry": {"coordinates":[-80.181366,26.18039],"type":"Point"}
 }

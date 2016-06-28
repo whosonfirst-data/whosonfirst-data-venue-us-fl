@@ -2,13 +2,14 @@
   "id": 269506283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.62489,30.09681,-81.62489,30.09681",
     "geom:latitude":30.09681,
     "geom:longitude":-81.62489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Pitch Pine Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269506283,
-    "wof:lastmodified":1449036195,
+    "wof:lastmodified":1466428880,
     "wof:name":"Owens & Owens & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.62489,30.09681,-81.62489,30.09681],
-  "geometry": {"coordinates":[-81.62489,30.09681],"type":"Point"}
+  "bbox": [
+    -81.62489,
+    30.09681,
+    -81.62489,
+    30.09681
+],
+  "geometry": {"coordinates":[-81.62488999999999,30.09681],"type":"Point"}
 }

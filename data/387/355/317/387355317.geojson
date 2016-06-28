@@ -2,13 +2,14 @@
   "id": 387355317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534225,27.250349,-82.534225,27.250349",
     "geom:latitude":27.250349,
     "geom:longitude":-82.534225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6625 Midnight Pass Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387355317,
-    "wof:lastmodified":1449057160,
+    "wof:lastmodified":1466444165,
     "wof:name":"Key Casuals",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.534225,27.250349,-82.534225,27.250349],
-  "geometry": {"coordinates":[-82.534225,27.250349],"type":"Point"}
+  "bbox": [
+    -82.534225,
+    27.250349,
+    -82.534225,
+    27.250349
+],
+  "geometry": {"coordinates":[-82.53422500000001,27.250349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203012923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.618321,29.856083,-81.618321,29.856083",
     "geom:latitude":29.856083,
     "geom:longitude":-81.618321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6044 Co Rd 209 S",
     "sg:city":"Green Cove Spgs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203012923,
-    "wof:lastmodified":1449026679,
+    "wof:lastmodified":1466436035,
     "wof:name":"Bramlitt's Pump Svc",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.618321,29.856083,-81.618321,29.856083],
-  "geometry": {"coordinates":[-81.618321,29.856083],"type":"Point"}
+  "bbox": [
+    -81.618321,
+    29.856083,
+    -81.618321,
+    29.856083
+],
+  "geometry": {"coordinates":[-81.61832099999999,29.856083],"type":"Point"}
 }

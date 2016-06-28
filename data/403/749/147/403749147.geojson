@@ -2,13 +2,14 @@
   "id": 403749147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.532313,27.953319,-82.532313,27.953319",
     "geom:latitude":27.953319,
     "geom:longitude":-82.532313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 W Grace St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403749147,
-    "wof:lastmodified":1449055026,
+    "wof:lastmodified":1466440309,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-82.532313,27.953319,-82.532313,27.953319],
+  "bbox": [
+    -82.532313,
+    27.953319,
+    -82.532313,
+    27.953319
+],
   "geometry": {"coordinates":[-82.532313,27.953319],"type":"Point"}
 }

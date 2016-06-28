@@ -2,13 +2,14 @@
   "id": 387752537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.727668,30.324423,-81.727668,30.324423",
     "geom:latitude":30.324423,
     "geom:longitude":-81.727668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 Dignan St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387752537,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1466448714,
     "wof:name":"Pumpco",
     "wof:parent_id":85817537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-81.727668,30.324423,-81.727668,30.324423],
-  "geometry": {"coordinates":[-81.727668,30.324423],"type":"Point"}
+  "bbox": [
+    -81.727668,
+    30.324423,
+    -81.727668,
+    30.324423
+],
+  "geometry": {"coordinates":[-81.72766799999999,30.324423],"type":"Point"}
 }

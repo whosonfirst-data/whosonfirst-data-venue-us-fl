@@ -2,13 +2,14 @@
   "id": 270405149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096347,26.790521,-80.096347,26.790521",
     "geom:latitude":26.790521,
     "geom:longitude":-80.096347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3892 Prospect Ave",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270405149,
-    "wof:lastmodified":1449010883,
+    "wof:lastmodified":1466436390,
     "wof:name":"Action Courier",
     "wof:parent_id":85889897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.096347,26.790521,-80.096347,26.790521],
-  "geometry": {"coordinates":[-80.096347,26.790521],"type":"Point"}
+  "bbox": [
+    -80.096347,
+    26.790521,
+    -80.096347,
+    26.790521
+],
+  "geometry": {"coordinates":[-80.09634699999999,26.790521],"type":"Point"}
 }

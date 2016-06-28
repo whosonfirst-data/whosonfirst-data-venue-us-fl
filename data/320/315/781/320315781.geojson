@@ -2,13 +2,14 @@
   "id": 320315781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.543568,27.335324,-82.543568,27.335324",
     "geom:latitude":27.335324,
     "geom:longitude":-82.543568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Palm Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320315781,
-    "wof:lastmodified":1449014765,
+    "wof:lastmodified":1466438790,
     "wof:name":"Galleria Silecchia",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.543568,27.335324,-82.543568,27.335324],
-  "geometry": {"coordinates":[-82.543568,27.335324],"type":"Point"}
+  "bbox": [
+    -82.543568,
+    27.335324,
+    -82.543568,
+    27.335324
+],
+  "geometry": {"coordinates":[-82.54356799999999,27.335324],"type":"Point"}
 }

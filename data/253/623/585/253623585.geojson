@@ -2,13 +2,14 @@
   "id": 253623585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241855,26.741948,-80.241855,26.741948",
     "geom:latitude":26.741948,
     "geom:longitude":-80.241855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 126th Dr N",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253623585,
-    "wof:lastmodified":1449064913,
+    "wof:lastmodified":1466437836,
     "wof:name":"Bill Combass",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.241855,26.741948,-80.241855,26.741948],
+  "bbox": [
+    -80.241855,
+    26.741948,
+    -80.241855,
+    26.741948
+],
   "geometry": {"coordinates":[-80.241855,26.741948],"type":"Point"}
 }

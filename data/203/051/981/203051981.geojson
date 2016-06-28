@@ -2,13 +2,14 @@
   "id": 203051981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.74442,27.764228,-82.74442,27.764228",
     "geom:latitude":27.764228,
     "geom:longitude":-82.74442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7892 4th Ave S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203051981,
-    "wof:lastmodified":1449026118,
+    "wof:lastmodified":1466444167,
     "wof:name":"Bermuda Poly Rail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.74442,27.764228,-82.74442,27.764228],
-  "geometry": {"coordinates":[-82.74442,27.764228],"type":"Point"}
+  "bbox": [
+    -82.74442,
+    27.764228,
+    -82.74442,
+    27.764228
+],
+  "geometry": {"coordinates":[-82.74442000000001,27.764228],"type":"Point"}
 }

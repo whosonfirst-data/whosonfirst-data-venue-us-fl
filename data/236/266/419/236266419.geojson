@@ -2,13 +2,14 @@
   "id": 236266419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.654639,30.340094,-81.654639,30.340094",
     "geom:latitude":30.340094,
     "geom:longitude":-81.654639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236266419,
-    "wof:lastmodified":1449001756,
+    "wof:lastmodified":1466432183,
     "wof:name":"Jacksonville Printing",
     "wof:parent_id":85888929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.654639,30.340094,-81.654639,30.340094],
+  "bbox": [
+    -81.654639,
+    30.340094,
+    -81.654639,
+    30.340094
+],
   "geometry": {"coordinates":[-81.654639,30.340094],"type":"Point"}
 }

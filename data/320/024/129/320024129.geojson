@@ -2,13 +2,14 @@
   "id": 320024129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.136063,29.194405,-82.136063,29.194405",
     "geom:latitude":29.194405,
     "geom:longitude":-82.136063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 NE 8th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320024129,
-    "wof:lastmodified":1449013049,
+    "wof:lastmodified":1466433813,
     "wof:name":"Central Florida Appraisal Svc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-82.136063,29.194405,-82.136063,29.194405],
-  "geometry": {"coordinates":[-82.136063,29.194405],"type":"Point"}
+  "bbox": [
+    -82.136063,
+    29.194405,
+    -82.136063,
+    29.194405
+],
+  "geometry": {"coordinates":[-82.13606299999999,29.194405],"type":"Point"}
 }

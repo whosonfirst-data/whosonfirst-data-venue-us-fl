@@ -2,13 +2,14 @@
   "id": 303101099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.288038,30.419601,-87.288038,30.419601",
     "geom:latitude":30.419601,
     "geom:longitude":-87.288038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 de Luna Dr",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303101099,
-    "wof:lastmodified":1448999407,
+    "wof:lastmodified":1466432236,
     "wof:name":"Tiki House",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-87.288038,30.419601,-87.288038,30.419601],
+  "bbox": [
+    -87.288038,
+    30.419601,
+    -87.288038,
+    30.419601
+],
   "geometry": {"coordinates":[-87.288038,30.419601],"type":"Point"}
 }

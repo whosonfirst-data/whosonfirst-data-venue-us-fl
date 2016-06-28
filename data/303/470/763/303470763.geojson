@@ -2,13 +2,14 @@
   "id": 303470763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396524,28.531198,-81.396524,28.531198",
     "geom:latitude":28.531198,
     "geom:longitude":-81.396524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 W Gore St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303470763,
-    "wof:lastmodified":1448998704,
+    "wof:lastmodified":1466438661,
     "wof:name":"Atlantic Automotive Warehouse",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [-81.396524,28.531198,-81.396524,28.531198],
+  "bbox": [
+    -81.396524,
+    28.531198,
+    -81.396524,
+    28.531198
+],
   "geometry": {"coordinates":[-81.396524,28.531198],"type":"Point"}
 }

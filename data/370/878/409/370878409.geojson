@@ -2,13 +2,14 @@
   "id": 370878409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.607558,30.330838,-81.607558,30.330838",
     "geom:latitude":30.330838,
     "geom:longitude":-81.607558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 Cresta Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370878409,
-    "wof:lastmodified":1449030849,
+    "wof:lastmodified":1466447143,
     "wof:name":"S & C Trucking",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.607558,30.330838,-81.607558,30.330838],
+  "bbox": [
+    -81.607558,
+    30.330838,
+    -81.607558,
+    30.330838
+],
   "geometry": {"coordinates":[-81.607558,30.330838],"type":"Point"}
 }

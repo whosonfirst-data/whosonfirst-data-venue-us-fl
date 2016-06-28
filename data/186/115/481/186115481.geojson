@@ -2,13 +2,14 @@
   "id": 186115481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.322403,29.651961,-82.322403,29.651961",
     "geom:latitude":29.651961,
     "geom:longitude":-82.322403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186115481,
-    "wof:lastmodified":1449050232,
+    "wof:lastmodified":1466445887,
     "wof:name":"GATOR.NET",
     "wof:parent_id":85877647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-82.322403,29.651961,-82.322403,29.651961],
-  "geometry": {"coordinates":[-82.322403,29.651961],"type":"Point"}
+  "bbox": [
+    -82.322403,
+    29.651961,
+    -82.322403,
+    29.651961
+],
+  "geometry": {"coordinates":[-82.32240299999999,29.651961],"type":"Point"}
 }

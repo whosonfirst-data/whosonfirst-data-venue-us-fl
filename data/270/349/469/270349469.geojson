@@ -2,13 +2,14 @@
   "id": 270349469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165444,26.472891,-80.165444,26.472891",
     "geom:latitude":26.472891,
     "geom:longitude":-80.165444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7632 Charing Cross Ln",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270349469,
-    "wof:lastmodified":1449009570,
+    "wof:lastmodified":1466435445,
     "wof:name":"J Hartshorn Svc",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.165444,26.472891,-80.165444,26.472891],
-  "geometry": {"coordinates":[-80.165444,26.472891],"type":"Point"}
+  "bbox": [
+    -80.165444,
+    26.472891,
+    -80.165444,
+    26.472891
+],
+  "geometry": {"coordinates":[-80.16544399999999,26.472891],"type":"Point"}
 }

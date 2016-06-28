@@ -2,13 +2,14 @@
   "id": 303513601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374679,30.196549,-81.374679,30.196549",
     "geom:latitude":30.196549,
     "geom:longitude":-81.374679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Osprey Pt",
     "sg:city":"Ponte Vedra Bch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303513601,
-    "wof:lastmodified":1448999737,
+    "wof:lastmodified":1466439393,
     "wof:name":"John A Hammack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.374679,30.196549,-81.374679,30.196549],
+  "bbox": [
+    -81.374679,
+    30.196549,
+    -81.374679,
+    30.196549
+],
   "geometry": {"coordinates":[-81.374679,30.196549],"type":"Point"}
 }

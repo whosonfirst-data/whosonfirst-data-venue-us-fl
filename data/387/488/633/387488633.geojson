@@ -2,13 +2,14 @@
   "id": 387488633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109983,26.200225,-80.109983,26.200225",
     "geom:latitude":26.200225,
     "geom:longitude":-80.109983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387488633,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1466446196,
     "wof:name":"Dupont Rentals",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.109983,26.200225,-80.109983,26.200225],
+  "bbox": [
+    -80.109983,
+    26.200225,
+    -80.109983,
+    26.200225
+],
   "geometry": {"coordinates":[-80.109983,26.200225],"type":"Point"}
 }

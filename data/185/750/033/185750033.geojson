@@ -2,13 +2,14 @@
   "id": 185750033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.887269,26.664151,-81.887269,26.664151",
     "geom:latitude":26.664151,
     "geom:longitude":-81.887269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13971 Cleveland Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185750033,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466428487,
     "wof:name":"Piirainen & Muehl",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.887269,26.664151,-81.887269,26.664151],
+  "bbox": [
+    -81.887269,
+    26.664151,
+    -81.887269,
+    26.664151
+],
   "geometry": {"coordinates":[-81.887269,26.664151],"type":"Point"}
 }

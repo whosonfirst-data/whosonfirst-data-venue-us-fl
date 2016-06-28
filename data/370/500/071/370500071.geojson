@@ -2,13 +2,14 @@
   "id": 370500071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524099,27.963075,-82.524099,27.963075",
     "geom:latitude":27.963075,
     "geom:longitude":-82.524099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 N West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370500071,
-    "wof:lastmodified":1449029943,
+    "wof:lastmodified":1466441842,
     "wof:name":"Ever Shred",
     "wof:parent_id":85889687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-82.524099,27.963075,-82.524099,27.963075],
-  "geometry": {"coordinates":[-82.524099,27.963075],"type":"Point"}
+  "bbox": [
+    -82.524099,
+    27.963075,
+    -82.524099,
+    27.963075
+],
+  "geometry": {"coordinates":[-82.52409900000001,27.963075],"type":"Point"}
 }

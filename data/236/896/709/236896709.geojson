@@ -2,13 +2,14 @@
   "id": 236896709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.359301,28.560399,-81.359301,28.560399",
     "geom:latitude":28.560399,
     "geom:longitude":-81.359301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Oregon St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236896709,
-    "wof:lastmodified":1449002726,
+    "wof:lastmodified":1466441188,
     "wof:name":"Design Support Services Inc",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.359301,28.560399,-81.359301,28.560399],
+  "bbox": [
+    -81.359301,
+    28.560399,
+    -81.359301,
+    28.560399
+],
   "geometry": {"coordinates":[-81.359301,28.560399],"type":"Point"}
 }

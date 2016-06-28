@@ -2,13 +2,14 @@
   "id": 270294249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.40569,27.030196,-82.40569,27.030196",
     "geom:latitude":27.030196,
     "geom:longitude":-82.40569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Brown Rd",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270294249,
-    "wof:lastmodified":1449010392,
+    "wof:lastmodified":1466434488,
     "wof:name":"Bill Adkins Drilling Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-82.40569,27.030196,-82.40569,27.030196],
-  "geometry": {"coordinates":[-82.40569,27.030196],"type":"Point"}
+  "bbox": [
+    -82.40569,
+    27.030196,
+    -82.40569,
+    27.030196
+],
+  "geometry": {"coordinates":[-82.40569000000001,27.030196],"type":"Point"}
 }

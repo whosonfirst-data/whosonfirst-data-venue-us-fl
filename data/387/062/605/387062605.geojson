@@ -2,13 +2,14 @@
   "id": 387062605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138522,26.390446,-80.138522,26.390446",
     "geom:latitude":26.390446,
     "geom:longitude":-80.138522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 NW 25th Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387062605,
-    "wof:lastmodified":1449059647,
+    "wof:lastmodified":1466439670,
     "wof:name":"Consumer Safety Assoc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-80.138522,26.390446,-80.138522,26.390446],
-  "geometry": {"coordinates":[-80.138522,26.390446],"type":"Point"}
+  "bbox": [
+    -80.138522,
+    26.390446,
+    -80.138522,
+    26.390446
+],
+  "geometry": {"coordinates":[-80.13852199999999,26.390446],"type":"Point"}
 }

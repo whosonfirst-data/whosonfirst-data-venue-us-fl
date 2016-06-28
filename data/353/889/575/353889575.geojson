@@ -2,13 +2,14 @@
   "id": 353889575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104564,26.363947,-80.104564,26.363947",
     "geom:latitude":26.363947,
     "geom:longitude":-80.104564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1599 NW 9th Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353889575,
-    "wof:lastmodified":1449018207,
+    "wof:lastmodified":1466442313,
     "wof:name":"Boca Nuclear Medicine",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.104564,26.363947,-80.104564,26.363947],
+  "bbox": [
+    -80.104564,
+    26.363947,
+    -80.104564,
+    26.363947
+],
   "geometry": {"coordinates":[-80.104564,26.363947],"type":"Point"}
 }

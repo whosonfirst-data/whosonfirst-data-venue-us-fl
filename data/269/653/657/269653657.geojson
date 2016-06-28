@@ -2,13 +2,14 @@
   "id": 269653657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083531,26.39278,-80.083531,26.39278",
     "geom:latitude":26.39278,
     "geom:longitude":-80.083531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 NW Boca Raton Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269653657,
-    "wof:lastmodified":1449036321,
+    "wof:lastmodified":1466431552,
     "wof:name":"Envirodyne Inc",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.083531,26.39278,-80.083531,26.39278],
-  "geometry": {"coordinates":[-80.083531,26.39278],"type":"Point"}
+  "bbox": [
+    -80.083531,
+    26.39278,
+    -80.083531,
+    26.39278
+],
+  "geometry": {"coordinates":[-80.08353099999999,26.39278],"type":"Point"}
 }

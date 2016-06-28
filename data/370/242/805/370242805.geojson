@@ -2,13 +2,14 @@
   "id": 370242805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505662,27.939526,-82.505662,27.939526",
     "geom:latitude":27.939526,
     "geom:longitude":-82.505662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 S Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370242805,
-    "wof:lastmodified":1449032076,
+    "wof:lastmodified":1466437900,
     "wof:name":"Raphael Khorran MD",
     "wof:parent_id":85889675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.505662,27.939526,-82.505662,27.939526],
+  "bbox": [
+    -82.505662,
+    27.939526,
+    -82.505662,
+    27.939526
+],
   "geometry": {"coordinates":[-82.505662,27.939526],"type":"Point"}
 }

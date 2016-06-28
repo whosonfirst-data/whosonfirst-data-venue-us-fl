@@ -2,13 +2,14 @@
   "id": 185915767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205233,25.941749,-80.205233,25.941749",
     "geom:latitude":25.941749,
     "geom:longitude":-80.205233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18178 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185915767,
-    "wof:lastmodified":1449008175,
+    "wof:lastmodified":1466430096,
     "wof:name":"Arturo Borrego Locksmith",
     "wof:parent_id":85852993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.205233,25.941749,-80.205233,25.941749],
-  "geometry": {"coordinates":[-80.205233,25.941749],"type":"Point"}
+  "bbox": [
+    -80.205233,
+    25.941749,
+    -80.205233,
+    25.941749
+],
+  "geometry": {"coordinates":[-80.20523300000001,25.941749],"type":"Point"}
 }

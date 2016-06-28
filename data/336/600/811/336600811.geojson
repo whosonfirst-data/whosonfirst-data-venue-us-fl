@@ -2,13 +2,14 @@
   "id": 336600811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798533,26.182071,-81.798533,26.182071",
     "geom:latitude":26.182071,
     "geom:longitude":-81.798533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Creech Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336600811,
-    "wof:lastmodified":1448997032,
+    "wof:lastmodified":1466434993,
     "wof:name":"New To You",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-81.798533,26.182071,-81.798533,26.182071],
-  "geometry": {"coordinates":[-81.798533,26.182071],"type":"Point"}
+  "bbox": [
+    -81.798533,
+    26.182071,
+    -81.798533,
+    26.182071
+],
+  "geometry": {"coordinates":[-81.79853300000001,26.182071],"type":"Point"}
 }

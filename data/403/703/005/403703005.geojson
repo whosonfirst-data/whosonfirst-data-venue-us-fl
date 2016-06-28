@@ -2,13 +2,14 @@
   "id": 403703005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.470968,28.030356,-82.470968,28.030356",
     "geom:latitude":28.030356,
     "geom:longitude":-82.470968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 W Humphrey St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403703005,
-    "wof:lastmodified":1449055049,
+    "wof:lastmodified":1466439589,
     "wof:name":"House By Comet Inc",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.470968,28.030356,-82.470968,28.030356],
+  "bbox": [
+    -82.470968,
+    28.030356,
+    -82.470968,
+    28.030356
+],
   "geometry": {"coordinates":[-82.470968,28.030356],"type":"Point"}
 }

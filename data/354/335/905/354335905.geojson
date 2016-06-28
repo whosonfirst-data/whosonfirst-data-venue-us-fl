@@ -2,13 +2,14 @@
   "id": 354335905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.166852,26.114357,-80.166852,26.114357",
     "geom:latitude":26.114357,
     "geom:longitude":-80.166852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 SW 5th Pl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354335905,
-    "wof:lastmodified":1449067099,
+    "wof:lastmodified":1466441255,
     "wof:name":"Stranahan High School",
     "wof:parent_id":85877525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.166852,26.114357,-80.166852,26.114357],
-  "geometry": {"coordinates":[-80.166852,26.114357],"type":"Point"}
+  "bbox": [
+    -80.166852,
+    26.114357,
+    -80.166852,
+    26.114357
+],
+  "geometry": {"coordinates":[-80.16685200000001,26.114357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253250189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.614039,30.448828,-86.614039,30.448828",
     "geom:latitude":30.448828,
     "geom:longitude":-86.614039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253250189,
-    "wof:lastmodified":1449064510,
+    "wof:lastmodified":1466431443,
     "wof:name":"Rehabworks of Florida",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "care"
     ]
 },
-  "bbox": [-86.614039,30.448828,-86.614039,30.448828],
-  "geometry": {"coordinates":[-86.614039,30.448828],"type":"Point"}
+  "bbox": [
+    -86.614039,
+    30.448828,
+    -86.614039,
+    30.448828
+],
+  "geometry": {"coordinates":[-86.61403900000001,30.448828],"type":"Point"}
 }

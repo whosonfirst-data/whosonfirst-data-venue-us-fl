@@ -2,13 +2,14 @@
   "id": 336963991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.445726,25.090181,-80.445726,25.090181",
     "geom:latitude":25.090181,
     "geom:longitude":-80.445726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99202 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336963991,
-    "wof:lastmodified":1448997038,
+    "wof:lastmodified":1466441253,
     "wof:name":"Key Largo Inn",
     "wof:parent_id":85852175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.445726,25.090181,-80.445726,25.090181],
-  "geometry": {"coordinates":[-80.445726,25.090181],"type":"Point"}
+  "bbox": [
+    -80.445726,
+    25.090181,
+    -80.445726,
+    25.090181
+],
+  "geometry": {"coordinates":[-80.44572599999999,25.090181],"type":"Point"}
 }

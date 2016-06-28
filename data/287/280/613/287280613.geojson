@@ -2,13 +2,14 @@
   "id": 287280613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.668895,30.332364,-81.668895,30.332364",
     "geom:latitude":30.332364,
     "geom:longitude":-81.668895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Lee St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287280613,
-    "wof:lastmodified":1449001096,
+    "wof:lastmodified":1466434764,
     "wof:name":"North Florida Chest Physicians",
     "wof:parent_id":85870689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.668895,30.332364,-81.668895,30.332364],
-  "geometry": {"coordinates":[-81.668895,30.332364],"type":"Point"}
+  "bbox": [
+    -81.668895,
+    30.332364,
+    -81.668895,
+    30.332364
+],
+  "geometry": {"coordinates":[-81.66889500000001,30.332364],"type":"Point"}
 }

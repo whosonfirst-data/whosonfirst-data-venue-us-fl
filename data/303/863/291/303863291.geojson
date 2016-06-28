@@ -2,13 +2,14 @@
   "id": 303863291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.566842,27.536958,-82.566842,27.536958",
     "geom:latitude":27.536958,
     "geom:longitude":-82.566842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 26th St W",
     "sg:city":"Palmetto",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303863291,
-    "wof:lastmodified":1448999806,
+    "wof:lastmodified":1466445402,
     "wof:name":"Holy Cross Catholic Church",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.566842,27.536958,-82.566842,27.536958],
-  "geometry": {"coordinates":[-82.566842,27.536958],"type":"Point"}
+  "bbox": [
+    -82.566842,
+    27.536958,
+    -82.566842,
+    27.536958
+],
+  "geometry": {"coordinates":[-82.56684199999999,27.536958],"type":"Point"}
 }

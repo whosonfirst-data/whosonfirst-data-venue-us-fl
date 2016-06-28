@@ -2,13 +2,14 @@
   "id": 269983211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.65032,30.159633,-85.65032,30.159633",
     "geom:latitude":30.159633,
     "geom:longitude":-85.65032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Cove Blvd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269983211,
-    "wof:lastmodified":1449038786,
+    "wof:lastmodified":1466437235,
     "wof:name":"Coastal Ob/Gyn",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-85.65032,30.159633,-85.65032,30.159633],
-  "geometry": {"coordinates":[-85.65032,30.159633],"type":"Point"}
+  "bbox": [
+    -85.65032,
+    30.159633,
+    -85.65032,
+    30.159633
+],
+  "geometry": {"coordinates":[-85.65031999999999,30.159633],"type":"Point"}
 }

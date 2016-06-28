@@ -2,13 +2,14 @@
   "id": 387576839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.259746,30.994149,-87.259746,30.994149",
     "geom:latitude":30.994149,
     "geom:longitude":-87.259746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Academy St",
     "sg:city":"Century",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387576839,
-    "wof:lastmodified":1449059030,
+    "wof:lastmodified":1466447272,
     "wof:name":"Century Town Clerk",
     "wof:parent_id":85849667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-87.259746,30.994149,-87.259746,30.994149],
-  "geometry": {"coordinates":[-87.259746,30.994149],"type":"Point"}
+  "bbox": [
+    -87.259746,
+    30.994149,
+    -87.259746,
+    30.994149
+],
+  "geometry": {"coordinates":[-87.25974600000001,30.994149],"type":"Point"}
 }

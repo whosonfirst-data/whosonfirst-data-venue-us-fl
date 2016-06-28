@@ -2,13 +2,14 @@
   "id": 370424957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.597575,30.443643,-86.597575,30.443643",
     "geom:latitude":30.443643,
     "geom:longitude":-86.597575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2385 Placid Dr",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370424957,
-    "wof:lastmodified":1449032257,
+    "wof:lastmodified":1466440694,
     "wof:name":"J R Parish",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leveling"
     ]
 },
-  "bbox": [-86.597575,30.443643,-86.597575,30.443643],
-  "geometry": {"coordinates":[-86.597575,30.443643],"type":"Point"}
+  "bbox": [
+    -86.597575,
+    30.443643,
+    -86.597575,
+    30.443643
+],
+  "geometry": {"coordinates":[-86.59757500000001,30.443643],"type":"Point"}
 }

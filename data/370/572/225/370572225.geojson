@@ -2,13 +2,14 @@
   "id": 370572225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290955,26.16386,-80.290955,26.16386",
     "geom:latitude":26.16386,
     "geom:longitude":-80.290955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10869 NW 30th Pl",
     "sg:city":"Sunrise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370572225,
-    "wof:lastmodified":1449031160,
+    "wof:lastmodified":1466442955,
     "wof:name":"Coastal Inventory Svc",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-80.290955,26.16386,-80.290955,26.16386],
+  "bbox": [
+    -80.290955,
+    26.16386,
+    -80.290955,
+    26.16386
+],
   "geometry": {"coordinates":[-80.290955,26.16386],"type":"Point"}
 }

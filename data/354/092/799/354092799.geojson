@@ -2,13 +2,14 @@
   "id": 354092799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056148,26.481187,-80.056148,26.481187",
     "geom:latitude":26.481187,
     "geom:longitude":-80.056148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 N Ocean Blvd",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354092799,
-    "wof:lastmodified":1449067325,
+    "wof:lastmodified":1466437513,
     "wof:name":"Westminster Inc",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.056148,26.481187,-80.056148,26.481187],
-  "geometry": {"coordinates":[-80.056148,26.481187],"type":"Point"}
+  "bbox": [
+    -80.056148,
+    26.481187,
+    -80.056148,
+    26.481187
+],
+  "geometry": {"coordinates":[-80.05614799999999,26.481187],"type":"Point"}
 }

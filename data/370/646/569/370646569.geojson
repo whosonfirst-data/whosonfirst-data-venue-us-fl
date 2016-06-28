@@ -2,13 +2,14 @@
   "id": 370646569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.637778,28.116571,-80.637778,28.116571",
     "geom:latitude":28.116571,
     "geom:longitude":-80.637778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 N Apollo Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370646569,
-    "wof:lastmodified":1449028984,
+    "wof:lastmodified":1466444086,
     "wof:name":"Melbourne Wastewater Treatment",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-80.637778,28.116571,-80.637778,28.116571],
+  "bbox": [
+    -80.637778,
+    28.116571,
+    -80.637778,
+    28.116571
+],
   "geometry": {"coordinates":[-80.637778,28.116571],"type":"Point"}
 }

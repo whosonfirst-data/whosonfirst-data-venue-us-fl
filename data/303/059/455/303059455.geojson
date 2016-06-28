@@ -2,13 +2,14 @@
   "id": 303059455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.746501,27.879667,-82.746501,27.879667",
     "geom:latitude":27.879667,
     "geom:longitude":-82.746501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8016 118th Ave",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303059455,
-    "wof:lastmodified":1448998781,
+    "wof:lastmodified":1466431483,
     "wof:name":"Pcm Precision Inc",
     "wof:parent_id":85853001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.746501,27.879667,-82.746501,27.879667],
-  "geometry": {"coordinates":[-82.746501,27.879667],"type":"Point"}
+  "bbox": [
+    -82.746501,
+    27.879667,
+    -82.746501,
+    27.879667
+],
+  "geometry": {"coordinates":[-82.74650099999999,27.879667],"type":"Point"}
 }

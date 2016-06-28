@@ -2,13 +2,14 @@
   "id": 320385067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.246361,30.477359,-87.246361,30.477359",
     "geom:latitude":30.477359,
     "geom:longitude":-87.246361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6119 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320385067,
-    "wof:lastmodified":1449013475,
+    "wof:lastmodified":1466439983,
     "wof:name":"Carrells Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.246361,30.477359,-87.246361,30.477359],
-  "geometry": {"coordinates":[-87.246361,30.477359],"type":"Point"}
+  "bbox": [
+    -87.246361,
+    30.477359,
+    -87.246361,
+    30.477359
+],
+  "geometry": {"coordinates":[-87.24636099999999,30.477359],"type":"Point"}
 }

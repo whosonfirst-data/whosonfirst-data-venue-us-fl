@@ -2,13 +2,14 @@
   "id": 387866729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.585963,28.505327,-82.585963,28.505327",
     "geom:latitude":28.505327,
     "geom:longitude":-82.585963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 Commercial Way",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387866729,
-    "wof:lastmodified":1449057911,
+    "wof:lastmodified":1466449256,
     "wof:name":"Horse & Crown Pub",
     "wof:parent_id":85889609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-82.585963,28.505327,-82.585963,28.505327],
-  "geometry": {"coordinates":[-82.585963,28.505327],"type":"Point"}
+  "bbox": [
+    -82.585963,
+    28.505327,
+    -82.585963,
+    28.505327
+],
+  "geometry": {"coordinates":[-82.58596300000001,28.505327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387363045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187391,26.103103,-80.187391,26.103103",
     "geom:latitude":26.103103,
     "geom:longitude":-80.187391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 SW 14th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387363045,
-    "wof:lastmodified":1449059459,
+    "wof:lastmodified":1466444280,
     "wof:name":"Artist Poet Cowgirl",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.187391,26.103103,-80.187391,26.103103],
-  "geometry": {"coordinates":[-80.187391,26.103103],"type":"Point"}
+  "bbox": [
+    -80.187391,
+    26.103103,
+    -80.187391,
+    26.103103
+],
+  "geometry": {"coordinates":[-80.18739100000001,26.103103],"type":"Point"}
 }

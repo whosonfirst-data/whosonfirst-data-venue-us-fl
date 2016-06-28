@@ -2,13 +2,14 @@
   "id": 403745327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.482582,27.488498,-81.482582,27.488498",
     "geom:latitude":27.488498,
     "geom:longitude":-81.482582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403745327,
-    "wof:lastmodified":1449055888,
+    "wof:lastmodified":1466440249,
     "wof:name":"Auto Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.482582,27.488498,-81.482582,27.488498],
-  "geometry": {"coordinates":[-81.482582,27.488498],"type":"Point"}
+  "bbox": [
+    -81.482582,
+    27.488498,
+    -81.482582,
+    27.488498
+],
+  "geometry": {"coordinates":[-81.48258199999999,27.488498],"type":"Point"}
 }

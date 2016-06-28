@@ -2,13 +2,14 @@
   "id": 320673271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231054,25.779618,-80.231054,25.779618",
     "geom:latitude":25.779618,
     "geom:longitude":-80.231054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 NW 7th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320673271,
-    "wof:lastmodified":1449012716,
+    "wof:lastmodified":1466445030,
     "wof:name":"CME Video Corp",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-80.231054,25.779618,-80.231054,25.779618],
+  "bbox": [
+    -80.231054,
+    25.779618,
+    -80.231054,
+    25.779618
+],
   "geometry": {"coordinates":[-80.231054,25.779618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270078553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191449,25.798131,-80.191449,25.798131",
     "geom:latitude":25.798131,
     "geom:longitude":-80.191449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 NE 22nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270078553,
-    "wof:lastmodified":1449010688,
+    "wof:lastmodified":1466430795,
     "wof:name":"Titc Inc",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.191449,25.798131,-80.191449,25.798131],
-  "geometry": {"coordinates":[-80.191449,25.798131],"type":"Point"}
+  "bbox": [
+    -80.191449,
+    25.798131,
+    -80.191449,
+    25.798131
+],
+  "geometry": {"coordinates":[-80.19144900000001,25.798131],"type":"Point"}
 }

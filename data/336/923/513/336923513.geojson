@@ -2,13 +2,14 @@
   "id": 336923513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.762574,27.770523,-82.762574,27.770523",
     "geom:latitude":27.770523,
     "geom:longitude":-82.762574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Treasure Ln",
     "sg:city":"Treasure Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336923513,
-    "wof:lastmodified":1448997966,
+    "wof:lastmodified":1466440575,
     "wof:name":"All Florida Home Inspection",
     "wof:parent_id":85806545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.762574,27.770523,-82.762574,27.770523],
+  "bbox": [
+    -82.762574,
+    27.770523,
+    -82.762574,
+    27.770523
+],
   "geometry": {"coordinates":[-82.762574,27.770523],"type":"Point"}
 }

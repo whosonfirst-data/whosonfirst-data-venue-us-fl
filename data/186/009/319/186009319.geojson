@@ -2,13 +2,14 @@
   "id": 186009319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730499,30.293576,-81.730499,30.293576",
     "geom:latitude":30.293576,
     "geom:longitude":-81.730499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Cassat Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186009319,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1466435309,
     "wof:name":"Ray's Commercial Tinting",
     "wof:parent_id":85870735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-81.730499,30.293576,-81.730499,30.293576],
-  "geometry": {"coordinates":[-81.730499,30.293576],"type":"Point"}
+  "bbox": [
+    -81.730499,
+    30.293576,
+    -81.730499,
+    30.293576
+],
+  "geometry": {"coordinates":[-81.73049899999999,30.293576],"type":"Point"}
 }

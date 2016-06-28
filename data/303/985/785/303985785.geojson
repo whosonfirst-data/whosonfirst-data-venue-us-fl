@@ -2,13 +2,14 @@
   "id": 303985785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.268127,30.522054,-87.268127,30.522054",
     "geom:latitude":30.522054,
     "geom:longitude":-87.268127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8675 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303985785,
-    "wof:lastmodified":1448999335,
+    "wof:lastmodified":1466447070,
     "wof:name":"Rayco Auto Electric Inc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-87.268127,30.522054,-87.268127,30.522054],
-  "geometry": {"coordinates":[-87.268127,30.522054],"type":"Point"}
+  "bbox": [
+    -87.268127,
+    30.522054,
+    -87.268127,
+    30.522054
+],
+  "geometry": {"coordinates":[-87.26812700000001,30.522054],"type":"Point"}
 }

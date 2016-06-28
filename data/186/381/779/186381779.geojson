@@ -2,13 +2,14 @@
   "id": 186381779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.313409,30.454807,-84.313409,30.454807",
     "geom:latitude":30.454807,
     "geom:longitude":-84.313409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 High Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186381779,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466431286,
     "wof:name":"High Park Village",
     "wof:parent_id":85881337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-84.313409,30.454807,-84.313409,30.454807],
-  "geometry": {"coordinates":[-84.313409,30.454807],"type":"Point"}
+  "bbox": [
+    -84.313409,
+    30.454807,
+    -84.313409,
+    30.454807
+],
+  "geometry": {"coordinates":[-84.31340899999999,30.454807],"type":"Point"}
 }

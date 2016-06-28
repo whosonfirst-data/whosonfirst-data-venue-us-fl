@@ -2,13 +2,14 @@
   "id": 270278701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245291,26.195443,-80.245291,26.195443",
     "geom:latitude":26.195443,
     "geom:longitude":-80.245291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5712 NW 71st Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270278701,
-    "wof:lastmodified":1449009996,
+    "wof:lastmodified":1466434223,
     "wof:name":"Ceilings R US",
     "wof:parent_id":85896111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.245291,26.195443,-80.245291,26.195443],
-  "geometry": {"coordinates":[-80.245291,26.195443],"type":"Point"}
+  "bbox": [
+    -80.245291,
+    26.195443,
+    -80.245291,
+    26.195443
+],
+  "geometry": {"coordinates":[-80.24529099999999,26.195443],"type":"Point"}
 }

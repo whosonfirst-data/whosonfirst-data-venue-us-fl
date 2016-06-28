@@ -2,13 +2,14 @@
   "id": 185978625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.635485,27.843119,-82.635485,27.843119",
     "geom:latitude":27.843119,
     "geom:longitude":-82.635485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 78th Ave NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185978625,
-    "wof:lastmodified":1449007534,
+    "wof:lastmodified":1466430830,
     "wof:name":"Elevated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-82.635485,27.843119,-82.635485,27.843119],
+  "bbox": [
+    -82.635485,
+    27.843119,
+    -82.635485,
+    27.843119
+],
   "geometry": {"coordinates":[-82.635485,27.843119],"type":"Point"}
 }

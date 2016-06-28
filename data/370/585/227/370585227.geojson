@@ -2,13 +2,14 @@
   "id": 370585227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.32247,29.684044,-82.32247,29.684044",
     "geom:latitude":29.684044,
     "geom:longitude":-82.32247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 NE 2 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370585227,
-    "wof:lastmodified":1449031328,
+    "wof:lastmodified":1466443150,
     "wof:name":"Ben's Paint Supply",
     "wof:parent_id":85877651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-82.32247,29.684044,-82.32247,29.684044],
+  "bbox": [
+    -82.32247,
+    29.684044,
+    -82.32247,
+    29.684044
+],
   "geometry": {"coordinates":[-82.32247,29.684044],"type":"Point"}
 }

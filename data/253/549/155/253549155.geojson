@@ -2,13 +2,14 @@
   "id": 253549155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.741296,27.7253,-82.741296,27.7253",
     "geom:latitude":27.7253,
     "geom:longitude":-82.741296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Gulf Blvd",
     "sg:city":"St Pete Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253549155,
-    "wof:lastmodified":1449063631,
+    "wof:lastmodified":1466436492,
     "wof:name":"Raymond Mitchells Boat Sales",
     "wof:parent_id":85889555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.741296,27.7253,-82.741296,27.7253],
-  "geometry": {"coordinates":[-82.741296,27.7253],"type":"Point"}
+  "bbox": [
+    -82.741296,
+    27.7253,
+    -82.741296,
+    27.7253
+],
+  "geometry": {"coordinates":[-82.74129600000001,27.7253],"type":"Point"}
 }

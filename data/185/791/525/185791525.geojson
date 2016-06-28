@@ -2,13 +2,14 @@
   "id": 185791525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.285684,30.423356,-84.285684,30.423356",
     "geom:latitude":30.423356,
     "geom:longitude":-84.285684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 S Martin Luther King Jr Blvd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185791525,
-    "wof:lastmodified":1449007863,
+    "wof:lastmodified":1466428902,
     "wof:name":"Florida A & M School Arch",
     "wof:parent_id":85881325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-84.285684,30.423356,-84.285684,30.423356],
+  "bbox": [
+    -84.285684,
+    30.423356,
+    -84.285684,
+    30.423356
+],
   "geometry": {"coordinates":[-84.285684,30.423356],"type":"Point"}
 }

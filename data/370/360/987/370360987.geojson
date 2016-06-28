@@ -2,13 +2,14 @@
   "id": 370360987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.470627,30.507925,-86.470627,30.507925",
     "geom:latitude":30.507925,
     "geom:longitude":-86.470627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Hickory Ave",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370360987,
-    "wof:lastmodified":1449031711,
+    "wof:lastmodified":1466439691,
     "wof:name":"G&R Southcoast Painting",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.470627,30.507925,-86.470627,30.507925],
-  "geometry": {"coordinates":[-86.470627,30.507925],"type":"Point"}
+  "bbox": [
+    -86.470627,
+    30.507925,
+    -86.470627,
+    30.507925
+],
+  "geometry": {"coordinates":[-86.47062699999999,30.507925],"type":"Point"}
 }

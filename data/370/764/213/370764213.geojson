@@ -2,13 +2,14 @@
   "id": 370764213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314338,29.811017,-81.314338,29.811017",
     "geom:latitude":29.811017,
     "geom:longitude":-81.314338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Cotorro Ln",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370764213,
-    "wof:lastmodified":1449032309,
+    "wof:lastmodified":1466445909,
     "wof:name":"American Preservation Council",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.314338,29.811017,-81.314338,29.811017],
-  "geometry": {"coordinates":[-81.314338,29.811017],"type":"Point"}
+  "bbox": [
+    -81.314338,
+    29.811017,
+    -81.314338,
+    29.811017
+],
+  "geometry": {"coordinates":[-81.31433800000001,29.811017],"type":"Point"}
 }

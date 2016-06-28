@@ -2,13 +2,14 @@
   "id": 252810559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.500358,27.356016,-82.500358,27.356016",
     "geom:latitude":27.356016,
     "geom:longitude":-82.500358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3439 Dudley St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252810559,
-    "wof:lastmodified":1449005738,
+    "wof:lastmodified":1466429915,
     "wof:name":"Martin & Sons",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-82.500358,27.356016,-82.500358,27.356016],
-  "geometry": {"coordinates":[-82.500358,27.356016],"type":"Point"}
+  "bbox": [
+    -82.500358,
+    27.356016,
+    -82.500358,
+    27.356016
+],
+  "geometry": {"coordinates":[-82.50035800000001,27.356016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185911483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.737318,27.799168,-82.737318,27.799168",
     "geom:latitude":27.799168,
     "geom:longitude":-82.737318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Tyrone Blvd N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185911483,
-    "wof:lastmodified":1449007971,
+    "wof:lastmodified":1466430043,
     "wof:name":"Lizotte Welding",
     "wof:parent_id":85880541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-82.737318,27.799168,-82.737318,27.799168],
+  "bbox": [
+    -82.737318,
+    27.799168,
+    -82.737318,
+    27.799168
+],
   "geometry": {"coordinates":[-82.737318,27.799168],"type":"Point"}
 }

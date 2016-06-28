@@ -2,13 +2,14 @@
   "id": 185993095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123515,25.860425,-80.123515,25.860425",
     "geom:latitude":25.860425,
     "geom:longitude":-80.123515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7416 Byron Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185993095,
-    "wof:lastmodified":1449007326,
+    "wof:lastmodified":1466431008,
     "wof:name":"Farmex",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.123515,25.860425,-80.123515,25.860425],
+  "bbox": [
+    -80.123515,
+    25.860425,
+    -80.123515,
+    25.860425
+],
   "geometry": {"coordinates":[-80.123515,25.860425],"type":"Point"}
 }

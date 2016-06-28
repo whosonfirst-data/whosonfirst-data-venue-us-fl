@@ -2,13 +2,14 @@
   "id": 303145691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.500144,28.437759,-81.500144,28.437759",
     "geom:latitude":28.437759,
     "geom:longitude":-81.500144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8718 Southern Breeze Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303145691,
-    "wof:lastmodified":1448998860,
+    "wof:lastmodified":1466433033,
     "wof:name":"Clear Channel Broadcasting",
     "wof:parent_id":85889355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "legal"
     ]
 },
-  "bbox": [-81.500144,28.437759,-81.500144,28.437759],
-  "geometry": {"coordinates":[-81.500144,28.437759],"type":"Point"}
+  "bbox": [
+    -81.500144,
+    28.437759,
+    -81.500144,
+    28.437759
+],
+  "geometry": {"coordinates":[-81.50014400000001,28.437759],"type":"Point"}
 }

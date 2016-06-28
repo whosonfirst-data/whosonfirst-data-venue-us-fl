@@ -2,13 +2,14 @@
   "id": 319908655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.534455,28.494517,-81.534455,28.494517",
     "geom:latitude":28.494517,
     "geom:longitude":-81.534455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Main St",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319908655,
-    "wof:lastmodified":1449024528,
+    "wof:lastmodified":1466434383,
     "wof:name":"Windermere Design Firm Inc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.534455,28.494517,-81.534455,28.494517],
-  "geometry": {"coordinates":[-81.534455,28.494517],"type":"Point"}
+  "bbox": [
+    -81.534455,
+    28.494517,
+    -81.534455,
+    28.494517
+],
+  "geometry": {"coordinates":[-81.53445499999999,28.494517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354318123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.531027,30.237036,-81.531027,30.237036",
     "geom:latitude":30.237036,
     "geom:longitude":-81.531027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10990 Hickory Trace Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354318123,
-    "wof:lastmodified":1449066289,
+    "wof:lastmodified":1466440980,
     "wof:name":"LLP Associates",
     "wof:parent_id":85870705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.531027,30.237036,-81.531027,30.237036],
-  "geometry": {"coordinates":[-81.531027,30.237036],"type":"Point"}
+  "bbox": [
+    -81.531027,
+    30.237036,
+    -81.531027,
+    30.237036
+],
+  "geometry": {"coordinates":[-81.53102699999999,30.237036],"type":"Point"}
 }

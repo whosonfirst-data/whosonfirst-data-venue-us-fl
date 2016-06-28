@@ -2,13 +2,14 @@
   "id": 236019259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.606536,28.011675,-82.606536,28.011675",
     "geom:latitude":28.011675,
     "geom:longitude":-82.606536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6702 Seafairer Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236019259,
-    "wof:lastmodified":1449003556,
+    "wof:lastmodified":1466428658,
     "wof:name":"Barber's Pool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.606536,28.011675,-82.606536,28.011675],
-  "geometry": {"coordinates":[-82.606536,28.011675],"type":"Point"}
+  "bbox": [
+    -82.606536,
+    28.011675,
+    -82.606536,
+    28.011675
+],
+  "geometry": {"coordinates":[-82.60653600000001,28.011675],"type":"Point"}
 }

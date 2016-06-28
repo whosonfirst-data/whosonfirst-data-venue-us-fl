@@ -2,13 +2,14 @@
   "id": 202412363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.773625,26.64829,-81.773625,26.64829",
     "geom:latitude":26.64829,
     "geom:longitude":-81.773625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6271 Staley Farms Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202412363,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466443730,
     "wof:name":"Parliament Farms Inc",
     "wof:parent_id":85888829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-81.773625,26.64829,-81.773625,26.64829],
+  "bbox": [
+    -81.773625,
+    26.64829,
+    -81.773625,
+    26.64829
+],
   "geometry": {"coordinates":[-81.773625,26.64829],"type":"Point"}
 }

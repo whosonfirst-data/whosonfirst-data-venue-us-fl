@@ -2,13 +2,14 @@
   "id": 303722795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193149,26.309766,-80.193149,26.309766",
     "geom:latitude":26.309766,
     "geom:longitude":-80.193149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6508 Ibis Way",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303722795,
-    "wof:lastmodified":1448998976,
+    "wof:lastmodified":1466443010,
     "wof:name":"Legacy Pools",
     "wof:parent_id":85896215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.193149,26.309766,-80.193149,26.309766],
-  "geometry": {"coordinates":[-80.193149,26.309766],"type":"Point"}
+  "bbox": [
+    -80.193149,
+    26.309766,
+    -80.193149,
+    26.309766
+],
+  "geometry": {"coordinates":[-80.19314900000001,26.309766],"type":"Point"}
 }

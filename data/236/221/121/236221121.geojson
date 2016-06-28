@@ -2,13 +2,14 @@
   "id": 236221121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.286608,30.468697,-84.286608,30.468697",
     "geom:latitude":30.468697,
     "geom:longitude":-84.286608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 N Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236221121,
-    "wof:lastmodified":1449003044,
+    "wof:lastmodified":1466431534,
     "wof:name":"International House Of Food",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.286608,30.468697,-84.286608,30.468697],
+  "bbox": [
+    -84.286608,
+    30.468697,
+    -84.286608,
+    30.468697
+],
   "geometry": {"coordinates":[-84.286608,30.468697],"type":"Point"}
 }

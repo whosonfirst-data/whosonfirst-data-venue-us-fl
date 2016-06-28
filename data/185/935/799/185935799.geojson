@@ -2,13 +2,14 @@
   "id": 185935799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.703482,30.180006,-85.703482,30.180006",
     "geom:latitude":30.180006,
     "geom:longitude":-85.703482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 W Hwy 98",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185935799,
-    "wof:lastmodified":1449007946,
+    "wof:lastmodified":1466430348,
     "wof:name":"Howell Marine Supply",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sh"
     ]
 },
-  "bbox": [-85.703482,30.180006,-85.703482,30.180006],
-  "geometry": {"coordinates":[-85.703482,30.180006],"type":"Point"}
+  "bbox": [
+    -85.703482,
+    30.180006,
+    -85.703482,
+    30.180006
+],
+  "geometry": {"coordinates":[-85.70348199999999,30.180006],"type":"Point"}
 }

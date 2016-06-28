@@ -2,13 +2,14 @@
   "id": 270292735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.533694,27.31931,-82.533694,27.31931",
     "geom:latitude":27.31931,
     "geom:longitude":-82.533694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 S Osprey Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270292735,
-    "wof:lastmodified":1449008859,
+    "wof:lastmodified":1466434461,
     "wof:name":"EAP Sarasota",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-82.533694,27.31931,-82.533694,27.31931],
+  "bbox": [
+    -82.533694,
+    27.31931,
+    -82.533694,
+    27.31931
+],
   "geometry": {"coordinates":[-82.533694,27.31931],"type":"Point"}
 }

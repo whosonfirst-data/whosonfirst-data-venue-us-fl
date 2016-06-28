@@ -2,13 +2,14 @@
   "id": 270120093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13857,25.93677,-80.13857,25.93677",
     "geom:latitude":25.93677,
     "geom:longitude":-80.13857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 NE 170th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270120093,
-    "wof:lastmodified":1449010732,
+    "wof:lastmodified":1466431490,
     "wof:name":"James A Haddad",
     "wof:parent_id":85816987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-80.13857,25.93677,-80.13857,25.93677],
+  "bbox": [
+    -80.13857,
+    25.93677,
+    -80.13857,
+    25.93677
+],
   "geometry": {"coordinates":[-80.13857,25.93677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303575741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.996127,29.091348,-81.996127,29.091348",
     "geom:latitude":29.091348,
     "geom:longitude":-81.996127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Palm Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303575741,
-    "wof:lastmodified":1448998822,
+    "wof:lastmodified":1466440449,
     "wof:name":"McCormick Stables",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-81.996127,29.091348,-81.996127,29.091348],
+  "bbox": [
+    -81.996127,
+    29.091348,
+    -81.996127,
+    29.091348
+],
   "geometry": {"coordinates":[-81.996127,29.091348],"type":"Point"}
 }

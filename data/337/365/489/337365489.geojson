@@ -2,13 +2,14 @@
   "id": 337365489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116036,26.618606,-80.116036,26.618606",
     "geom:latitude":26.618606,
     "geom:longitude":-80.116036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4655 Lake Worth Rd",
     "sg:city":"Greenacres",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337365489,
-    "wof:lastmodified":1449027057,
+    "wof:lastmodified":1466435269,
     "wof:name":"LA Cascada Restaurant",
     "wof:parent_id":85840297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.116036,26.618606,-80.116036,26.618606],
-  "geometry": {"coordinates":[-80.116036,26.618606],"type":"Point"}
+  "bbox": [
+    -80.116036,
+    26.618606,
+    -80.116036,
+    26.618606
+],
+  "geometry": {"coordinates":[-80.11603599999999,26.618606],"type":"Point"}
 }

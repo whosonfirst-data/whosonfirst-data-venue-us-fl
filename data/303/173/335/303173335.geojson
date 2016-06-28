@@ -2,13 +2,14 @@
   "id": 303173335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.586361,30.715082,-86.586361,30.715082",
     "geom:latitude":30.715082,
     "geom:longitude":-86.586361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Loop Dr",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303173335,
-    "wof:lastmodified":1448998588,
+    "wof:lastmodified":1466433523,
     "wof:name":"Suncoast Landscape",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-86.586361,30.715082,-86.586361,30.715082],
+  "bbox": [
+    -86.586361,
+    30.715082,
+    -86.586361,
+    30.715082
+],
   "geometry": {"coordinates":[-86.586361,30.715082],"type":"Point"}
 }

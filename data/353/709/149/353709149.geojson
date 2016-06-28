@@ -2,13 +2,14 @@
   "id": 353709149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.159043,26.231341,-80.159043,26.231341",
     "geom:latitude":26.231341,
     "geom:longitude":-80.159043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 W Atlantic Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353709149,
-    "wof:lastmodified":1449018759,
+    "wof:lastmodified":1466439527,
     "wof:name":"Cellular Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.159043,26.231341,-80.159043,26.231341],
+  "bbox": [
+    -80.159043,
+    26.231341,
+    -80.159043,
+    26.231341
+],
   "geometry": {"coordinates":[-80.159043,26.231341],"type":"Point"}
 }

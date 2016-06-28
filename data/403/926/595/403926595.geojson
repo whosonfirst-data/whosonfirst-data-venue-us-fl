@@ -2,13 +2,14 @@
   "id": 403926595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192029,25.774825,-80.192029,25.774825",
     "geom:latitude":25.774825,
     "geom:longitude":-80.192029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 NE 1st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403926595,
-    "wof:lastmodified":1449055091,
+    "wof:lastmodified":1466443145,
     "wof:name":"Elias Diamond Cutting",
     "wof:parent_id":85896175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cutting"
     ]
 },
-  "bbox": [-80.192029,25.774825,-80.192029,25.774825],
-  "geometry": {"coordinates":[-80.192029,25.774825],"type":"Point"}
+  "bbox": [
+    -80.192029,
+    25.774825,
+    -80.192029,
+    25.774825
+],
+  "geometry": {"coordinates":[-80.19202900000001,25.774825],"type":"Point"}
 }

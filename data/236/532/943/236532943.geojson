@@ -2,13 +2,14 @@
   "id": 236532943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.21053,30.512538,-87.21053,30.512538",
     "geom:latitude":30.512538,
     "geom:longitude":-87.21053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8360 Lawton St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236532943,
-    "wof:lastmodified":1449002616,
+    "wof:lastmodified":1466435945,
     "wof:name":"Aerial Crane Co",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-87.21053,30.512538,-87.21053,30.512538],
-  "geometry": {"coordinates":[-87.21053,30.512538],"type":"Point"}
+  "bbox": [
+    -87.21053,
+    30.512538,
+    -87.21053,
+    30.512538
+],
+  "geometry": {"coordinates":[-87.21053000000001,30.512538],"type":"Point"}
 }

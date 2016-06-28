@@ -2,13 +2,14 @@
   "id": 320365025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.270716,28.661452,-81.270716,28.661452",
     "geom:latitude":28.661452,
     "geom:longitude":-81.270716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Black Acre Trl",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320365025,
-    "wof:lastmodified":1449011859,
+    "wof:lastmodified":1466439648,
     "wof:name":"Water Right",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-81.270716,28.661452,-81.270716,28.661452],
-  "geometry": {"coordinates":[-81.270716,28.661452],"type":"Point"}
+  "bbox": [
+    -81.270716,
+    28.661452,
+    -81.270716,
+    28.661452
+],
+  "geometry": {"coordinates":[-81.27071599999999,28.661452],"type":"Point"}
 }

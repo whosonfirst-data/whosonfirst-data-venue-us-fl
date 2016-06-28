@@ -2,13 +2,14 @@
   "id": 320419145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.81211,30.320575,-81.81211,30.320575",
     "geom:latitude":30.320575,
     "geom:longitude":-81.81211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9507 Teague Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320419145,
-    "wof:lastmodified":1449014897,
+    "wof:lastmodified":1466440578,
     "wof:name":"George F Avinger",
     "wof:parent_id":85857523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.81211,30.320575,-81.81211,30.320575],
+  "bbox": [
+    -81.81211,
+    30.320575,
+    -81.81211,
+    30.320575
+],
   "geometry": {"coordinates":[-81.81211,30.320575],"type":"Point"}
 }

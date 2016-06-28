@@ -2,13 +2,14 @@
   "id": 387750711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13841,26.165216,-80.13841,26.165216",
     "geom:latitude":26.165216,
     "geom:longitude":-80.13841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3027 NE 6th Ave",
     "sg:city":"Wilton Manors",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387750711,
-    "wof:lastmodified":1449058402,
+    "wof:lastmodified":1466448504,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85896125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.13841,26.165216,-80.13841,26.165216],
-  "geometry": {"coordinates":[-80.13841,26.165216],"type":"Point"}
+  "bbox": [
+    -80.13841,
+    26.165216,
+    -80.13841,
+    26.165216
+],
+  "geometry": {"coordinates":[-80.13840999999999,26.165216],"type":"Point"}
 }

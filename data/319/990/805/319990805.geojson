@@ -2,13 +2,14 @@
   "id": 319990805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.370115,28.475238,-81.370115,28.475238",
     "geom:latitude":28.475238,
     "geom:longitude":-81.370115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5606 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319990805,
-    "wof:lastmodified":1449024601,
+    "wof:lastmodified":1466435835,
     "wof:name":"BNC Car Sales",
     "wof:parent_id":85889351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.370115,28.475238,-81.370115,28.475238],
+  "bbox": [
+    -81.370115,
+    28.475238,
+    -81.370115,
+    28.475238
+],
   "geometry": {"coordinates":[-81.370115,28.475238],"type":"Point"}
 }

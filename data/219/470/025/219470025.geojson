@@ -2,13 +2,14 @@
   "id": 219470025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.788328,26.165171,-81.788328,26.165171",
     "geom:latitude":26.165171,
     "geom:longitude":-81.788328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Merrihue Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219470025,
-    "wof:lastmodified":1449071251,
+    "wof:lastmodified":1466431116,
     "wof:name":"ELT Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "educational"
     ]
 },
-  "bbox": [-81.788328,26.165171,-81.788328,26.165171],
-  "geometry": {"coordinates":[-81.788328,26.165171],"type":"Point"}
+  "bbox": [
+    -81.788328,
+    26.165171,
+    -81.788328,
+    26.165171
+],
+  "geometry": {"coordinates":[-81.78832800000001,26.165171],"type":"Point"}
 }

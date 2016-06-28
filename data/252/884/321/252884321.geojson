@@ -2,13 +2,14 @@
   "id": 252884321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095165,26.319449,-80.095165,26.319449",
     "geom:latitude":26.319449,
     "geom:longitude":-80.095165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 NE 1st St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252884321,
-    "wof:lastmodified":1449006296,
+    "wof:lastmodified":1466430961,
     "wof:name":"Deerfield Beach Elementary Sch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.095165,26.319449,-80.095165,26.319449],
-  "geometry": {"coordinates":[-80.095165,26.319449],"type":"Point"}
+  "bbox": [
+    -80.095165,
+    26.319449,
+    -80.095165,
+    26.319449
+],
+  "geometry": {"coordinates":[-80.09516499999999,26.319449],"type":"Point"}
 }

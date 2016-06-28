@@ -2,13 +2,14 @@
   "id": 387715529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.676133,28.163207,-80.676133,28.163207",
     "geom:latitude":28.163207,
     "geom:longitude":-80.676133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3270 Brentwood Ln",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387715529,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1466448235,
     "wof:name":"John Bennette Plumbing",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operates"
     ]
 },
-  "bbox": [-80.676133,28.163207,-80.676133,28.163207],
-  "geometry": {"coordinates":[-80.676133,28.163207],"type":"Point"}
+  "bbox": [
+    -80.676133,
+    28.163207,
+    -80.676133,
+    28.163207
+],
+  "geometry": {"coordinates":[-80.67613299999999,28.163207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169647591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160356,25.911524,-80.160356,25.911524",
     "geom:latitude":25.911524,
     "geom:longitude":-80.160356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 NE 147th Ln",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169647591,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466444700,
     "wof:name":"MCC Contractors",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.160356,25.911524,-80.160356,25.911524],
-  "geometry": {"coordinates":[-80.160356,25.911524],"type":"Point"}
+  "bbox": [
+    -80.160356,
+    25.911524,
+    -80.160356,
+    25.911524
+],
+  "geometry": {"coordinates":[-80.16035599999999,25.911524],"type":"Point"}
 }

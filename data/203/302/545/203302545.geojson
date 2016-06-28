@@ -2,13 +2,14 @@
   "id": 203302545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.32496,28.553289,-81.32496,28.553289",
     "geom:latitude":28.553289,
     "geom:longitude":-81.32496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5024 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302545,
-    "wof:lastmodified":1449025551,
+    "wof:lastmodified":1466430205,
     "wof:name":"Sprint P C S",
     "wof:parent_id":85879433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-81.32496,28.553289,-81.32496,28.553289],
+  "bbox": [
+    -81.32496,
+    28.553289,
+    -81.32496,
+    28.553289
+],
   "geometry": {"coordinates":[-81.32496,28.553289],"type":"Point"}
 }

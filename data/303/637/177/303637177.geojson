@@ -2,13 +2,14 @@
   "id": 303637177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.654693,27.754253,-82.654693,27.754253",
     "geom:latitude":27.754253,
     "geom:longitude":-82.654693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 16th St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303637177,
-    "wof:lastmodified":1448998118,
+    "wof:lastmodified":1466441492,
     "wof:name":"Immaculate Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.654693,27.754253,-82.654693,27.754253],
-  "geometry": {"coordinates":[-82.654693,27.754253],"type":"Point"}
+  "bbox": [
+    -82.654693,
+    27.754253,
+    -82.654693,
+    27.754253
+],
+  "geometry": {"coordinates":[-82.65469299999999,27.754253],"type":"Point"}
 }

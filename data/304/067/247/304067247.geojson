@@ -2,13 +2,14 @@
   "id": 304067247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.830027,27.272036,-80.830027,27.272036",
     "geom:latitude":27.272036,
     "geom:longitude":-80.830027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 US Hwy 441",
     "sg:city":"Okeechobee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304067247,
-    "wof:lastmodified":1449043606,
+    "wof:lastmodified":1466432993,
     "wof:name":"American Asphalt Paving Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.830027,27.272036,-80.830027,27.272036],
+  "bbox": [
+    -80.830027,
+    27.272036,
+    -80.830027,
+    27.272036
+],
   "geometry": {"coordinates":[-80.830027,27.272036],"type":"Point"}
 }

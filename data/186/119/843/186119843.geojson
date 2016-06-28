@@ -2,13 +2,14 @@
   "id": 186119843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64433,27.774301,-82.64433,27.774301",
     "geom:latitude":27.774301,
     "geom:longitude":-82.64433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Burlington Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186119843,
-    "wof:lastmodified":1449052276,
+    "wof:lastmodified":1466445924,
     "wof:name":"Lake Palm Apartments",
     "wof:parent_id":85881943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.64433,27.774301,-82.64433,27.774301],
+  "bbox": [
+    -82.64433,
+    27.774301,
+    -82.64433,
+    27.774301
+],
   "geometry": {"coordinates":[-82.64433,27.774301],"type":"Point"}
 }

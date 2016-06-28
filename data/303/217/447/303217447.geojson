@@ -2,13 +2,14 @@
   "id": 303217447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.62177,28.112267,-80.62177,28.112267",
     "geom:latitude":28.112267,
     "geom:longitude":-80.62177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 N Babcock St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303217447,
-    "wof:lastmodified":1449000419,
+    "wof:lastmodified":1466434292,
     "wof:name":"Melbourne Police Dept",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.62177,28.112267,-80.62177,28.112267],
+  "bbox": [
+    -80.62177,
+    28.112267,
+    -80.62177,
+    28.112267
+],
   "geometry": {"coordinates":[-80.62177,28.112267],"type":"Point"}
 }

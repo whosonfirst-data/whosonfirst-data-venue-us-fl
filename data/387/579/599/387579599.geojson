@@ -2,13 +2,14 @@
   "id": 387579599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.743265,27.993147,-81.743265,27.993147",
     "geom:latitude":27.993147,
     "geom:longitude":-81.743265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 15th St SW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387579599,
-    "wof:lastmodified":1449057310,
+    "wof:lastmodified":1466447048,
     "wof:name":"Garden Mobile Village",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-81.743265,27.993147,-81.743265,27.993147],
-  "geometry": {"coordinates":[-81.743265,27.993147],"type":"Point"}
+  "bbox": [
+    -81.743265,
+    27.993147,
+    -81.743265,
+    27.993147
+],
+  "geometry": {"coordinates":[-81.74326499999999,27.993147],"type":"Point"}
 }

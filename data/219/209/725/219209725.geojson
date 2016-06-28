@@ -2,13 +2,14 @@
   "id": 219209725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.680355,30.315901,-81.680355,30.315901",
     "geom:latitude":30.315901,
     "geom:longitude":-81.680355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219209725,
-    "wof:lastmodified":1449073542,
+    "wof:lastmodified":1466444429,
     "wof:name":"Meals On Wheels-Riverside",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.680355,30.315901,-81.680355,30.315901],
-  "geometry": {"coordinates":[-81.680355,30.315901],"type":"Point"}
+  "bbox": [
+    -81.680355,
+    30.315901,
+    -81.680355,
+    30.315901
+],
+  "geometry": {"coordinates":[-81.68035500000001,30.315901],"type":"Point"}
 }

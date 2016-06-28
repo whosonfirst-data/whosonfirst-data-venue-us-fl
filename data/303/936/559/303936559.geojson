@@ -2,13 +2,14 @@
   "id": 303936559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.669913,30.379688,-81.669913,30.379688",
     "geom:latitude":30.379688,
     "geom:longitude":-81.669913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Essex St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303936559,
-    "wof:lastmodified":1448998931,
+    "wof:lastmodified":1466446534,
     "wof:name":"Sun Ray Shelter",
     "wof:parent_id":85838513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.669913,30.379688,-81.669913,30.379688],
-  "geometry": {"coordinates":[-81.669913,30.379688],"type":"Point"}
+  "bbox": [
+    -81.669913,
+    30.379688,
+    -81.669913,
+    30.379688
+],
+  "geometry": {"coordinates":[-81.66991299999999,30.379688],"type":"Point"}
 }

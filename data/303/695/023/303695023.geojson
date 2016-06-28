@@ -2,13 +2,14 @@
   "id": 303695023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.3889,29.674415,-82.3889,29.674415",
     "geom:latitude":29.674415,
     "geom:longitude":-82.3889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 NW 43rd St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303695023,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1466442531,
     "wof:name":"Do Art",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.3889,29.674415,-82.3889,29.674415],
-  "geometry": {"coordinates":[-82.3889,29.674415],"type":"Point"}
+  "bbox": [
+    -82.3889,
+    29.674415,
+    -82.3889,
+    29.674415
+],
+  "geometry": {"coordinates":[-82.38890000000001,29.674415],"type":"Point"}
 }

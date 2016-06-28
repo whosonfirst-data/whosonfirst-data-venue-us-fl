@@ -2,13 +2,14 @@
   "id": 286571117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.259228,30.434169,-87.259228,30.434169",
     "geom:latitude":30.434169,
     "geom:longitude":-87.259228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Hollywood Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286571117,
-    "wof:lastmodified":1449017194,
+    "wof:lastmodified":1466435024,
     "wof:name":"Oren International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "representative"
     ]
 },
-  "bbox": [-87.259228,30.434169,-87.259228,30.434169],
-  "geometry": {"coordinates":[-87.259228,30.434169],"type":"Point"}
+  "bbox": [
+    -87.259228,
+    30.434169,
+    -87.259228,
+    30.434169
+],
+  "geometry": {"coordinates":[-87.25922799999999,30.434169],"type":"Point"}
 }

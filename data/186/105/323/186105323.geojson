@@ -2,13 +2,14 @@
   "id": 186105323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742984,30.248143,-81.742984,30.248143",
     "geom:latitude":30.248143,
     "geom:longitude":-81.742984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5677 Blanding Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186105323,
-    "wof:lastmodified":1449051399,
+    "wof:lastmodified":1466445685,
     "wof:name":"Florida Home Air Conditioning",
     "wof:parent_id":85809975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.742984,30.248143,-81.742984,30.248143],
-  "geometry": {"coordinates":[-81.742984,30.248143],"type":"Point"}
+  "bbox": [
+    -81.742984,
+    30.248143,
+    -81.742984,
+    30.248143
+],
+  "geometry": {"coordinates":[-81.74298400000001,30.248143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219708915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800125,26.198609,-81.800125,26.198609",
     "geom:latitude":26.198609,
     "geom:longitude":-81.800125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4176 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219708915,
-    "wof:lastmodified":1449070947,
+    "wof:lastmodified":1466434207,
     "wof:name":"One Price Dry Cleaning",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-81.800125,26.198609,-81.800125,26.198609],
-  "geometry": {"coordinates":[-81.800125,26.198609],"type":"Point"}
+  "bbox": [
+    -81.800125,
+    26.198609,
+    -81.800125,
+    26.198609
+],
+  "geometry": {"coordinates":[-81.80012499999999,26.198609],"type":"Point"}
 }

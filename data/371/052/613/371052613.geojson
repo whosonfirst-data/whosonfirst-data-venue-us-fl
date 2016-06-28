@@ -2,13 +2,14 @@
   "id": 371052613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625786,30.298319,-81.625786,30.298319",
     "geom:latitude":30.298319,
     "geom:longitude":-81.625786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 Nicholas Cir E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371052613,
-    "wof:lastmodified":1449049476,
+    "wof:lastmodified":1466438380,
     "wof:name":"Kerin's Karaoke",
     "wof:parent_id":85846715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-81.625786,30.298319,-81.625786,30.298319],
-  "geometry": {"coordinates":[-81.625786,30.298319],"type":"Point"}
+  "bbox": [
+    -81.625786,
+    30.298319,
+    -81.625786,
+    30.298319
+],
+  "geometry": {"coordinates":[-81.62578600000001,30.298319],"type":"Point"}
 }

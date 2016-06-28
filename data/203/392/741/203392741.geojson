@@ -2,13 +2,14 @@
   "id": 203392741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.686624,27.828763,-82.686624,27.828763",
     "geom:latitude":27.828763,
     "geom:longitude":-82.686624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6351 39th St N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203392741,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466431321,
     "wof:name":"Altra Service",
     "wof:parent_id":85889525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-82.686624,27.828763,-82.686624,27.828763],
-  "geometry": {"coordinates":[-82.686624,27.828763],"type":"Point"}
+  "bbox": [
+    -82.686624,
+    27.828763,
+    -82.686624,
+    27.828763
+],
+  "geometry": {"coordinates":[-82.68662399999999,27.828763],"type":"Point"}
 }

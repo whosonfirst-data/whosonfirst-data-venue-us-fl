@@ -2,13 +2,14 @@
   "id": 186043817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15197,26.267079,-80.15197,26.267079",
     "geom:latitude":26.267079,
     "geom:longitude":-80.15197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2991 N Powerline Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186043817,
-    "wof:lastmodified":1449052349,
+    "wof:lastmodified":1466444055,
     "wof:name":"3 Dimensional Engineering",
     "wof:parent_id":85896205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.15197,26.267079,-80.15197,26.267079],
-  "geometry": {"coordinates":[-80.15197,26.267079],"type":"Point"}
+  "bbox": [
+    -80.15197,
+    26.267079,
+    -80.15197,
+    26.267079
+],
+  "geometry": {"coordinates":[-80.15197000000001,26.267079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403885235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.310105,30.438045,-84.310105,30.438045",
     "geom:latitude":30.438045,
     "geom:longitude":-84.310105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Belle Vue Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403885235,
-    "wof:lastmodified":1449055347,
+    "wof:lastmodified":1466442500,
     "wof:name":"Joanne Mendez",
     "wof:parent_id":85881377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.310105,30.438045,-84.310105,30.438045],
-  "geometry": {"coordinates":[-84.310105,30.438045],"type":"Point"}
+  "bbox": [
+    -84.310105,
+    30.438045,
+    -84.310105,
+    30.438045
+],
+  "geometry": {"coordinates":[-84.31010499999999,30.438045],"type":"Point"}
 }

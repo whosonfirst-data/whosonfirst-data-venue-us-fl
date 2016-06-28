@@ -2,13 +2,14 @@
   "id": 370612321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.410059,25.648101,-80.410059,25.648101",
     "geom:latitude":25.648101,
     "geom:longitude":-80.410059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13057 SW 133rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370612321,
-    "wof:lastmodified":1449030590,
+    "wof:lastmodified":1466443564,
     "wof:name":"Miami Professional Med Bill",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.410059,25.648101,-80.410059,25.648101],
+  "bbox": [
+    -80.410059,
+    25.648101,
+    -80.410059,
+    25.648101
+],
   "geometry": {"coordinates":[-80.410059,25.648101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370232641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387435,25.680715,-80.387435,25.680715",
     "geom:latitude":25.680715,
     "geom:longitude":-80.387435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11730 SW 94th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370232641,
-    "wof:lastmodified":1449030190,
+    "wof:lastmodified":1466437730,
     "wof:name":"Contract Mortgage Processing",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-80.387435,25.680715,-80.387435,25.680715],
+  "bbox": [
+    -80.387435,
+    25.680715,
+    -80.387435,
+    25.680715
+],
   "geometry": {"coordinates":[-80.387435,25.680715],"type":"Point"}
 }

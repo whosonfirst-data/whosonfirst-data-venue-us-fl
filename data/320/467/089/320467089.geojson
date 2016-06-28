@@ -2,13 +2,14 @@
   "id": 320467089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.552996,27.370802,-82.552996,27.370802",
     "geom:latitude":27.370802,
     "geom:longitude":-82.552996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4123 Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320467089,
-    "wof:lastmodified":1449014166,
+    "wof:lastmodified":1466441439,
     "wof:name":"Indoor Environmental Testing",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-82.552996,27.370802,-82.552996,27.370802],
-  "geometry": {"coordinates":[-82.552996,27.370802],"type":"Point"}
+  "bbox": [
+    -82.552996,
+    27.370802,
+    -82.552996,
+    27.370802
+],
+  "geometry": {"coordinates":[-82.55299599999999,27.370802],"type":"Point"}
 }

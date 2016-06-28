@@ -2,13 +2,14 @@
   "id": 303500033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.709491,30.330961,-81.709491,30.330961",
     "geom:latitude":30.330961,
     "geom:longitude":-81.709491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 W Beaver St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303500033,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466439154,
     "wof:name":"Roberts Tire & Wheel",
     "wof:parent_id":85828967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.709491,30.330961,-81.709491,30.330961],
+  "bbox": [
+    -81.709491,
+    30.330961,
+    -81.709491,
+    30.330961
+],
   "geometry": {"coordinates":[-81.709491,30.330961],"type":"Point"}
 }

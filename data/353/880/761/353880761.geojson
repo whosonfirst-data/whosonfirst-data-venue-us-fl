@@ -2,13 +2,14 @@
   "id": 353880761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.761953,28.549868,-81.761953,28.549868",
     "geom:latitude":28.549868,
     "geom:longitude":-81.761953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 4th St",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353880761,
-    "wof:lastmodified":1449020826,
+    "wof:lastmodified":1466442176,
     "wof:name":"Bayroot Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-81.761953,28.549868,-81.761953,28.549868],
-  "geometry": {"coordinates":[-81.761953,28.549868],"type":"Point"}
+  "bbox": [
+    -81.761953,
+    28.549868,
+    -81.761953,
+    28.549868
+],
+  "geometry": {"coordinates":[-81.76195300000001,28.549868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270007421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.11025,29.286548,-82.11025,29.286548",
     "geom:latitude":29.286548,
     "geom:longitude":-82.11025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9261 NE 21st Ave",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":270007421,
-    "wof:lastmodified":1449010646,
+    "wof:lastmodified":1466429578,
     "wof:name":"Cannady Cabinets Corp",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.11025,29.286548,-82.11025,29.286548],
-  "geometry": {"coordinates":[-82.11025,29.286548],"type":"Point"}
+  "bbox": [
+    -82.11025,
+    29.286548,
+    -82.11025,
+    29.286548
+],
+  "geometry": {"coordinates":[-82.11024999999999,29.286548],"type":"Point"}
 }

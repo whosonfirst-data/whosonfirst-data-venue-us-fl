@@ -2,13 +2,14 @@
   "id": 336644167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121753,25.862297,-80.121753,25.862297",
     "geom:latitude":25.862297,
     "geom:longitude":-80.121753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 77th St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336644167,
-    "wof:lastmodified":1448997550,
+    "wof:lastmodified":1466435745,
     "wof:name":"77th Street Apartments",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.121753,25.862297,-80.121753,25.862297],
+  "bbox": [
+    -80.121753,
+    25.862297,
+    -80.121753,
+    25.862297
+],
   "geometry": {"coordinates":[-80.121753,25.862297],"type":"Point"}
 }

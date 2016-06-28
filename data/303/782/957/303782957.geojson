@@ -2,13 +2,14 @@
   "id": 303782957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.507213,27.269256,-82.507213,27.269256",
     "geom:latitude":27.269256,
     "geom:longitude":-82.507213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Clark Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303782957,
-    "wof:lastmodified":1448998105,
+    "wof:lastmodified":1466444019,
     "wof:name":"Wayne's Automotive",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-82.507213,27.269256,-82.507213,27.269256],
-  "geometry": {"coordinates":[-82.507213,27.269256],"type":"Point"}
+  "bbox": [
+    -82.507213,
+    27.269256,
+    -82.507213,
+    27.269256
+],
+  "geometry": {"coordinates":[-82.50721299999999,27.269256],"type":"Point"}
 }

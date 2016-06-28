@@ -2,13 +2,14 @@
   "id": 370221703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052628,26.788658,-80.052628,26.788658",
     "geom:latitude":26.788658,
     "geom:longitude":-80.052628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Lake Shore Dr",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370221703,
-    "wof:lastmodified":1449030582,
+    "wof:lastmodified":1466437562,
     "wof:name":"Immigration Border Patrol",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "affairs"
     ]
 },
-  "bbox": [-80.052628,26.788658,-80.052628,26.788658],
+  "bbox": [
+    -80.052628,
+    26.788658,
+    -80.052628,
+    26.788658
+],
   "geometry": {"coordinates":[-80.052628,26.788658],"type":"Point"}
 }

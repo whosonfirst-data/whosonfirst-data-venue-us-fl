@@ -2,13 +2,14 @@
   "id": 353900445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.477359,27.322311,-82.477359,27.322311",
     "geom:latitude":27.322311,
     "geom:longitude":-82.477359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Quail Run Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353900445,
-    "wof:lastmodified":1449019346,
+    "wof:lastmodified":1466442482,
     "wof:name":"Pelican Painting",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.477359,27.322311,-82.477359,27.322311],
-  "geometry": {"coordinates":[-82.477359,27.322311],"type":"Point"}
+  "bbox": [
+    -82.477359,
+    27.322311,
+    -82.477359,
+    27.322311
+],
+  "geometry": {"coordinates":[-82.47735900000001,27.322311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303187379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234471,25.765233,-80.234471,25.765233",
     "geom:latitude":25.765233,
     "geom:longitude":-80.234471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2356 8th St SE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303187379,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466433767,
     "wof:name":"UPS Printing",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.234471,25.765233,-80.234471,25.765233],
+  "bbox": [
+    -80.234471,
+    25.765233,
+    -80.234471,
+    25.765233
+],
   "geometry": {"coordinates":[-80.234471,25.765233],"type":"Point"}
 }

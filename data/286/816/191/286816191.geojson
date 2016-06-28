@@ -2,13 +2,14 @@
   "id": 286816191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210726,26.331178,-80.210726,26.331178",
     "geom:latitude":26.331178,
     "geom:longitude":-80.210726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10567 Boca Entrada Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286816191,
-    "wof:lastmodified":1449016905,
+    "wof:lastmodified":1466439393,
     "wof:name":"Integrated Home & Business",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.210726,26.331178,-80.210726,26.331178],
-  "geometry": {"coordinates":[-80.210726,26.331178],"type":"Point"}
+  "bbox": [
+    -80.210726,
+    26.331178,
+    -80.210726,
+    26.331178
+],
+  "geometry": {"coordinates":[-80.21072599999999,26.331178],"type":"Point"}
 }

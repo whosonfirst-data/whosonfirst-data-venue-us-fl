@@ -2,13 +2,14 @@
   "id": 236652755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.266468,25.764249,-80.266468,25.764249",
     "geom:latitude":25.764249,
     "geom:longitude":-80.266468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 8th St SW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236652755,
-    "wof:lastmodified":1449003844,
+    "wof:lastmodified":1466437663,
     "wof:name":"Color Matrix Media",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.266468,25.764249,-80.266468,25.764249],
+  "bbox": [
+    -80.266468,
+    25.764249,
+    -80.266468,
+    25.764249
+],
   "geometry": {"coordinates":[-80.266468,25.764249],"type":"Point"}
 }

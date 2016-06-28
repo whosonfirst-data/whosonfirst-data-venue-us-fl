@@ -2,13 +2,14 @@
   "id": 202870013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.241476,28.993033,-81.241476,28.993033",
     "geom:latitude":28.993033,
     "geom:longitude":-81.241476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Sherry Ave",
     "sg:city":"Lake Helen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202870013,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466433193,
     "wof:name":"Global Radiators Distribution",
     "wof:parent_id":85888749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiator"
     ]
 },
-  "bbox": [-81.241476,28.993033,-81.241476,28.993033],
-  "geometry": {"coordinates":[-81.241476,28.993033],"type":"Point"}
+  "bbox": [
+    -81.241476,
+    28.993033,
+    -81.241476,
+    28.993033
+],
+  "geometry": {"coordinates":[-81.24147600000001,28.993033],"type":"Point"}
 }

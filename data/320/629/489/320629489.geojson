@@ -2,13 +2,14 @@
   "id": 320629489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424236,27.942416,-81.424236,27.942416",
     "geom:latitude":27.942416,
     "geom:longitude":-81.424236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 N Marina Pkwy",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320629489,
-    "wof:lastmodified":1449014090,
+    "wof:lastmodified":1466444284,
     "wof:name":"Tullis Well Drilling & Pump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.424236,27.942416,-81.424236,27.942416],
-  "geometry": {"coordinates":[-81.424236,27.942416],"type":"Point"}
+  "bbox": [
+    -81.424236,
+    27.942416,
+    -81.424236,
+    27.942416
+],
+  "geometry": {"coordinates":[-81.42423599999999,27.942416],"type":"Point"}
 }

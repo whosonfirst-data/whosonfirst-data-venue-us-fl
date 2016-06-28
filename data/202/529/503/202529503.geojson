@@ -2,13 +2,14 @@
   "id": 202529503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.415787,30.475401,-86.415787,30.475401",
     "geom:latitude":30.475401,
     "geom:longitude":-86.415787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Whitewood Way",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202529503,
-    "wof:lastmodified":1449061233,
+    "wof:lastmodified":1466428738,
     "wof:name":"Bluewater Central Vac Systems",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-86.415787,30.475401,-86.415787,30.475401],
-  "geometry": {"coordinates":[-86.415787,30.475401],"type":"Point"}
+  "bbox": [
+    -86.415787,
+    30.475401,
+    -86.415787,
+    30.475401
+],
+  "geometry": {"coordinates":[-86.41578699999999,30.475401],"type":"Point"}
 }

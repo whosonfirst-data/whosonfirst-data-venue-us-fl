@@ -2,13 +2,14 @@
   "id": 320442837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.687197,30.407684,-81.687197,30.407684",
     "geom:latitude":30.407684,
     "geom:longitude":-81.687197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9117 Lem Turner Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320442837,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466440999,
     "wof:name":"Church Fellowship",
     "wof:parent_id":85845125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.687197,30.407684,-81.687197,30.407684],
+  "bbox": [
+    -81.687197,
+    30.407684,
+    -81.687197,
+    30.407684
+],
   "geometry": {"coordinates":[-81.687197,30.407684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253207375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225405,25.843503,-80.225405,25.843503",
     "geom:latitude":25.843503,
     "geom:longitude":-80.225405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7506 NW 17th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253207375,
-    "wof:lastmodified":1449064904,
+    "wof:lastmodified":1466430812,
     "wof:name":"17th Avenue Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.225405,25.843503,-80.225405,25.843503],
-  "geometry": {"coordinates":[-80.225405,25.843503],"type":"Point"}
+  "bbox": [
+    -80.225405,
+    25.843503,
+    -80.225405,
+    25.843503
+],
+  "geometry": {"coordinates":[-80.22540499999999,25.843503],"type":"Point"}
 }

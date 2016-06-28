@@ -2,13 +2,14 @@
   "id": 253652941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.14145,26.420548,-80.14145,26.420548",
     "geom:latitude":26.420548,
     "geom:longitude":-80.14145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17231 Coral Cove Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253652941,
-    "wof:lastmodified":1449064739,
+    "wof:lastmodified":1466438358,
     "wof:name":"Alan J Rubin Investments",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "closed"
     ]
 },
-  "bbox": [-80.14145,26.420548,-80.14145,26.420548],
-  "geometry": {"coordinates":[-80.14145,26.420548],"type":"Point"}
+  "bbox": [
+    -80.14145,
+    26.420548,
+    -80.14145,
+    26.420548
+],
+  "geometry": {"coordinates":[-80.14145000000001,26.420548],"type":"Point"}
 }

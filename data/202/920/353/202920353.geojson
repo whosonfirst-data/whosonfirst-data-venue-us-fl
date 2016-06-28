@@ -2,13 +2,14 @@
   "id": 202920353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587578,30.371934,-81.587578,30.371934",
     "geom:latitude":30.371934,
     "geom:longitude":-81.587578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Rogero Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202920353,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466433871,
     "wof:name":"Mama Dems",
     "wof:parent_id":85836795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.587578,30.371934,-81.587578,30.371934],
-  "geometry": {"coordinates":[-81.587578,30.371934],"type":"Point"}
+  "bbox": [
+    -81.587578,
+    30.371934,
+    -81.587578,
+    30.371934
+],
+  "geometry": {"coordinates":[-81.58757799999999,30.371934],"type":"Point"}
 }

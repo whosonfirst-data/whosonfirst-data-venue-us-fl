@@ -2,13 +2,14 @@
   "id": 252916337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.266207,28.811776,-81.266207,28.811776",
     "geom:latitude":28.811776,
     "geom:longitude":-81.266207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E 1st St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252916337,
-    "wof:lastmodified":1449006010,
+    "wof:lastmodified":1466431444,
     "wof:name":"Sanford's Book Shoppe",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.266207,28.811776,-81.266207,28.811776],
-  "geometry": {"coordinates":[-81.266207,28.811776],"type":"Point"}
+  "bbox": [
+    -81.266207,
+    28.811776,
+    -81.266207,
+    28.811776
+],
+  "geometry": {"coordinates":[-81.26620699999999,28.811776],"type":"Point"}
 }

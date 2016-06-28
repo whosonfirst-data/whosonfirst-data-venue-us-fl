@@ -2,13 +2,14 @@
   "id": 320575881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.801095,27.960857,-82.801095,27.960857",
     "geom:latitude":27.960857,
     "geom:longitude":-82.801095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Chestnut St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320575881,
-    "wof:lastmodified":1449012344,
+    "wof:lastmodified":1466443374,
     "wof:name":"Pinellas County Communications",
     "wof:parent_id":85888651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.801095,27.960857,-82.801095,27.960857],
+  "bbox": [
+    -82.801095,
+    27.960857,
+    -82.801095,
+    27.960857
+],
   "geometry": {"coordinates":[-82.801095,27.960857],"type":"Point"}
 }

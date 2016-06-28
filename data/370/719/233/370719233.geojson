@@ -2,13 +2,14 @@
   "id": 370719233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035068,26.7007,-80.035068,26.7007",
     "geom:latitude":26.7007,
     "geom:longitude":-80.035068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Worth Ave",
     "sg:city":"Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370719233,
-    "wof:lastmodified":1449029533,
+    "wof:lastmodified":1466445187,
     "wof:name":"Caffe Latte",
     "wof:parent_id":85881799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.035068,26.7007,-80.035068,26.7007],
+  "bbox": [
+    -80.035068,
+    26.7007,
+    -80.035068,
+    26.7007
+],
   "geometry": {"coordinates":[-80.035068,26.7007],"type":"Point"}
 }

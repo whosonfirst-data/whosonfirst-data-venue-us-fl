@@ -2,13 +2,14 @@
   "id": 303496619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.398288,27.699593,-82.398288,27.699593",
     "geom:latitude":27.699593,
     "geom:longitude":-82.398288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 27th St SE",
     "sg:city":"Ruskin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303496619,
-    "wof:lastmodified":1449000190,
+    "wof:lastmodified":1466439096,
     "wof:name":"Dave's Delivery Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-82.398288,27.699593,-82.398288,27.699593],
-  "geometry": {"coordinates":[-82.398288,27.699593],"type":"Point"}
+  "bbox": [
+    -82.398288,
+    27.699593,
+    -82.398288,
+    27.699593
+],
+  "geometry": {"coordinates":[-82.39828799999999,27.699593],"type":"Point"}
 }

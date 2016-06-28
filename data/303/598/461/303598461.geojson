@@ -2,13 +2,14 @@
   "id": 303598461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.666985,30.336734,-81.666985,30.336734",
     "geom:latitude":30.336734,
     "geom:longitude":-81.666985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 N Davis St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303598461,
-    "wof:lastmodified":1448998247,
+    "wof:lastmodified":1466440830,
     "wof:name":"AFM Imports Exports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.666985,30.336734,-81.666985,30.336734],
+  "bbox": [
+    -81.666985,
+    30.336734,
+    -81.666985,
+    30.336734
+],
   "geometry": {"coordinates":[-81.666985,30.336734],"type":"Point"}
 }

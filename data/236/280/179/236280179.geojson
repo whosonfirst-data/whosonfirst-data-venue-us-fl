@@ -2,13 +2,14 @@
   "id": 236280179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333641,25.582519,-80.333641,25.582519",
     "geom:latitude":25.582519,
     "geom:longitude":-80.333641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19920 SW 87th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236280179,
-    "wof:lastmodified":1449003237,
+    "wof:lastmodified":1466432388,
     "wof:name":"Miami Hearing Conservation",
     "wof:parent_id":85865235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "testing"
     ]
 },
-  "bbox": [-80.333641,25.582519,-80.333641,25.582519],
+  "bbox": [
+    -80.333641,
+    25.582519,
+    -80.333641,
+    25.582519
+],
   "geometry": {"coordinates":[-80.333641,25.582519],"type":"Point"}
 }

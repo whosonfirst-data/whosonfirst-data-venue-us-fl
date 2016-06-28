@@ -2,13 +2,14 @@
   "id": 236933025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.179867,28.220723,-82.179867,28.220723",
     "geom:latitude":28.220723,
     "geom:longitude":-82.179867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4346 Gall Blvd",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236933025,
-    "wof:lastmodified":1449002187,
+    "wof:lastmodified":1466441681,
     "wof:name":"Autoland",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.179867,28.220723,-82.179867,28.220723],
+  "bbox": [
+    -82.179867,
+    28.220723,
+    -82.179867,
+    28.220723
+],
   "geometry": {"coordinates":[-82.179867,28.220723],"type":"Point"}
 }

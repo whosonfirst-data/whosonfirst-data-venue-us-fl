@@ -2,13 +2,14 @@
   "id": 403900179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.013028,29.231379,-81.013028,29.231379",
     "geom:latitude":29.231379,
     "geom:longitude":-81.013028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Butler Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900179,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1466442733,
     "wof:name":"T & J Chemicals",
     "wof:parent_id":85847529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [-81.013028,29.231379,-81.013028,29.231379],
-  "geometry": {"coordinates":[-81.013028,29.231379],"type":"Point"}
+  "bbox": [
+    -81.013028,
+    29.231379,
+    -81.013028,
+    29.231379
+],
+  "geometry": {"coordinates":[-81.01302800000001,29.231379],"type":"Point"}
 }

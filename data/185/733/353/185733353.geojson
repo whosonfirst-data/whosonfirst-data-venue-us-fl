@@ -2,13 +2,14 @@
   "id": 185733353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280553,30.419689,-84.280553,30.419689",
     "geom:latitude":30.419689,
     "geom:longitude":-84.280553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 S Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185733353,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466446082,
     "wof:name":"South Monroe Animal Hospital",
     "wof:parent_id":85881325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-84.280553,30.419689,-84.280553,30.419689],
+  "bbox": [
+    -84.280553,
+    30.419689,
+    -84.280553,
+    30.419689
+],
   "geometry": {"coordinates":[-84.280553,30.419689],"type":"Point"}
 }

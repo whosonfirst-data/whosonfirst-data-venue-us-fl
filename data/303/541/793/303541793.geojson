@@ -2,13 +2,14 @@
   "id": 303541793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504493,27.269186,-82.504493,27.269186",
     "geom:latitude":27.269186,
     "geom:longitude":-82.504493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Clark Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303541793,
-    "wof:lastmodified":1448998392,
+    "wof:lastmodified":1466439877,
     "wof:name":"Tony's Used Appliances",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-82.504493,27.269186,-82.504493,27.269186],
+  "bbox": [
+    -82.504493,
+    27.269186,
+    -82.504493,
+    27.269186
+],
   "geometry": {"coordinates":[-82.504493,27.269186],"type":"Point"}
 }

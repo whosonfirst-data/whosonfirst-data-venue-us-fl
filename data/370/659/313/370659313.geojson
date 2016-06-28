@@ -2,13 +2,14 @@
   "id": 370659313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.637054,30.260783,-81.637054,30.260783",
     "geom:latitude":30.260783,
     "geom:longitude":-81.637054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370659313,
-    "wof:lastmodified":1449029452,
+    "wof:lastmodified":1466444274,
     "wof:name":"Apollo Hair Systems",
     "wof:parent_id":85846911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-81.637054,30.260783,-81.637054,30.260783],
-  "geometry": {"coordinates":[-81.637054,30.260783],"type":"Point"}
+  "bbox": [
+    -81.637054,
+    30.260783,
+    -81.637054,
+    30.260783
+],
+  "geometry": {"coordinates":[-81.63705400000001,30.260783],"type":"Point"}
 }

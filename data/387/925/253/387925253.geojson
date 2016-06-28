@@ -2,13 +2,14 @@
   "id": 387925253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317731,27.259126,-80.317731,27.259126",
     "geom:latitude":27.259126,
     "geom:longitude":-80.317731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 SE Pruitt Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387925253,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466449674,
     "wof:name":"Physicians Immediate Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.317731,27.259126,-80.317731,27.259126],
-  "geometry": {"coordinates":[-80.317731,27.259126],"type":"Point"}
+  "bbox": [
+    -80.317731,
+    27.259126,
+    -80.317731,
+    27.259126
+],
+  "geometry": {"coordinates":[-80.31773099999999,27.259126],"type":"Point"}
 }

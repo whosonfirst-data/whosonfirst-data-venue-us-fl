@@ -2,13 +2,14 @@
   "id": 387131513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.694207,27.186176,-80.694207,27.186176",
     "geom:latitude":27.186176,
     "geom:longitude":-80.694207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 SE 128th Ave",
     "sg:city":"Okeechobee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387131513,
-    "wof:lastmodified":1449057246,
+    "wof:lastmodified":1466440733,
     "wof:name":"Crossroads Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.694207,27.186176,-80.694207,27.186176],
-  "geometry": {"coordinates":[-80.694207,27.186176],"type":"Point"}
+  "bbox": [
+    -80.694207,
+    27.186176,
+    -80.694207,
+    27.186176
+],
+  "geometry": {"coordinates":[-80.69420700000001,27.186176],"type":"Point"}
 }

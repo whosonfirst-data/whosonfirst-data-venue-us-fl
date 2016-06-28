@@ -2,13 +2,14 @@
   "id": 303828323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.407586,30.479386,-86.407586,30.479386",
     "geom:latitude":30.479386,
     "geom:longitude":-86.407586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Pine St",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303828323,
-    "wof:lastmodified":1448999356,
+    "wof:lastmodified":1466444784,
     "wof:name":"Bayou Church Of Christ",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.407586,30.479386,-86.407586,30.479386],
-  "geometry": {"coordinates":[-86.407586,30.479386],"type":"Point"}
+  "bbox": [
+    -86.407586,
+    30.479386,
+    -86.407586,
+    30.479386
+],
+  "geometry": {"coordinates":[-86.40758599999999,30.479386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303320753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070621,26.913735,-80.070621,26.913735",
     "geom:latitude":26.913735,
     "geom:longitude":-80.070621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2143 S US Hwy 1",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303320753,
-    "wof:lastmodified":1448998730,
+    "wof:lastmodified":1466436070,
     "wof:name":"Michael J Scherb DDS",
     "wof:parent_id":85888941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.070621,26.913735,-80.070621,26.913735],
+  "bbox": [
+    -80.070621,
+    26.913735,
+    -80.070621,
+    26.913735
+],
   "geometry": {"coordinates":[-80.070621,26.913735],"type":"Point"}
 }

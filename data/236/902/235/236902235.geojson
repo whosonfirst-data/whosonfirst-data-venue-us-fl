@@ -2,13 +2,14 @@
   "id": 236902235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199024,25.799142,-80.199024,25.799142",
     "geom:latitude":25.799142,
     "geom:longitude":-80.199024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 NW 23rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236902235,
-    "wof:lastmodified":1449004210,
+    "wof:lastmodified":1466441266,
     "wof:name":"Show Works Inc",
     "wof:parent_id":85889179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-80.199024,25.799142,-80.199024,25.799142],
-  "geometry": {"coordinates":[-80.199024,25.799142],"type":"Point"}
+  "bbox": [
+    -80.199024,
+    25.799142,
+    -80.199024,
+    25.799142
+],
+  "geometry": {"coordinates":[-80.19902399999999,25.799142],"type":"Point"}
 }

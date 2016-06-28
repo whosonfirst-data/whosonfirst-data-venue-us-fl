@@ -2,13 +2,14 @@
   "id": 186283279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.305439,27.316649,-80.305439,27.316649",
     "geom:latitude":27.316649,
     "geom:longitude":-80.305439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 SE Jasmine Ln",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186283279,
-    "wof:lastmodified":1449051168,
+    "wof:lastmodified":1466430092,
     "wof:name":"Bruce E Jackson Data Cllctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.305439,27.316649,-80.305439,27.316649],
-  "geometry": {"coordinates":[-80.305439,27.316649],"type":"Point"}
+  "bbox": [
+    -80.305439,
+    27.316649,
+    -80.305439,
+    27.316649
+],
+  "geometry": {"coordinates":[-80.30543900000001,27.316649],"type":"Point"}
 }

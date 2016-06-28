@@ -2,13 +2,14 @@
   "id": 336921181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.506161,30.385533,-81.506161,30.385533",
     "geom:latitude":30.385533,
     "geom:longitude":-81.506161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11718 White Bluff Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336921181,
-    "wof:lastmodified":1448997620,
+    "wof:lastmodified":1466440533,
     "wof:name":"Tailored Mobile Auto Svc",
     "wof:parent_id":85820047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.506161,30.385533,-81.506161,30.385533],
-  "geometry": {"coordinates":[-81.506161,30.385533],"type":"Point"}
+  "bbox": [
+    -81.506161,
+    30.385533,
+    -81.506161,
+    30.385533
+],
+  "geometry": {"coordinates":[-81.50616100000001,30.385533],"type":"Point"}
 }

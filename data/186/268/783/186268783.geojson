@@ -2,13 +2,14 @@
   "id": 186268783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.612594,30.295689,-81.612594,30.295689",
     "geom:latitude":30.295689,
     "geom:longitude":-81.612594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5141 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186268783,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466429907,
     "wof:name":"Sandwich House",
     "wof:parent_id":85868537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.612594,30.295689,-81.612594,30.295689],
+  "bbox": [
+    -81.612594,
+    30.295689,
+    -81.612594,
+    30.295689
+],
   "geometry": {"coordinates":[-81.612594,30.295689],"type":"Point"}
 }

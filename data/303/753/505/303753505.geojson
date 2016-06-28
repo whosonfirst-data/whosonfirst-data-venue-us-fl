@@ -2,13 +2,14 @@
   "id": 303753505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.805613,26.233747,-81.805613,26.233747",
     "geom:latitude":26.233747,
     "geom:longitude":-81.805613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"768 Willowbrook Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303753505,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466443523,
     "wof:name":"Pf Gerbosi Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.805613,26.233747,-81.805613,26.233747],
-  "geometry": {"coordinates":[-81.805613,26.233747],"type":"Point"}
+  "bbox": [
+    -81.805613,
+    26.233747,
+    -81.805613,
+    26.233747
+],
+  "geometry": {"coordinates":[-81.80561299999999,26.233747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269622781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.793765,28.510329,-80.793765,28.510329",
     "geom:latitude":28.510329,
     "geom:longitude":-80.793765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Golden Knights Blvd",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":269622781,
-    "wof:lastmodified":1449038405,
+    "wof:lastmodified":1466430985,
     "wof:name":"Helicopter Adventures Airport",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rental"
     ]
 },
-  "bbox": [-80.793765,28.510329,-80.793765,28.510329],
-  "geometry": {"coordinates":[-80.793765,28.510329],"type":"Point"}
+  "bbox": [
+    -80.793765,
+    28.510329,
+    -80.793765,
+    28.510329
+],
+  "geometry": {"coordinates":[-80.79376499999999,28.510329],"type":"Point"}
 }

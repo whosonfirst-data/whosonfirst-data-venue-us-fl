@@ -2,13 +2,14 @@
   "id": 186030691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.398499,28.62496,-81.398499,28.62496",
     "geom:latitude":28.62496,
     "geom:longitude":-81.398499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 S Keller Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186030691,
-    "wof:lastmodified":1449051366,
+    "wof:lastmodified":1466443200,
     "wof:name":"Center America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.398499,28.62496,-81.398499,28.62496],
+  "bbox": [
+    -81.398499,
+    28.62496,
+    -81.398499,
+    28.62496
+],
   "geometry": {"coordinates":[-81.398499,28.62496],"type":"Point"}
 }

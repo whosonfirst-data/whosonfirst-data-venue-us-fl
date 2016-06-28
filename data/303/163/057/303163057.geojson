@@ -2,13 +2,14 @@
   "id": 303163057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06017,26.615913,-80.06017,26.615913",
     "geom:latitude":26.615913,
     "geom:longitude":-80.06017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Lake Ave",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303163057,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466433340,
     "wof:name":"Miller Surveying & Mapping",
     "wof:parent_id":85829789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-80.06017,26.615913,-80.06017,26.615913],
+  "bbox": [
+    -80.06017,
+    26.615913,
+    -80.06017,
+    26.615913
+],
   "geometry": {"coordinates":[-80.06017,26.615913],"type":"Point"}
 }

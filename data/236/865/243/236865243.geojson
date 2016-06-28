@@ -2,13 +2,14 @@
   "id": 236865243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.38648,28.219417,-82.38648,28.219417",
     "geom:latitude":28.219417,
     "geom:longitude":-82.38648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26252 State Rd 54",
     "sg:city":"Lutz",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236865243,
-    "wof:lastmodified":1449004270,
+    "wof:lastmodified":1466440742,
     "wof:name":"Amici Pizza & Deli",
     "wof:parent_id":85889103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.38648,28.219417,-82.38648,28.219417],
-  "geometry": {"coordinates":[-82.38648,28.219417],"type":"Point"}
+  "bbox": [
+    -82.38648,
+    28.219417,
+    -82.38648,
+    28.219417
+],
+  "geometry": {"coordinates":[-82.38648000000001,28.219417],"type":"Point"}
 }

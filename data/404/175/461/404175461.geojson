@@ -2,13 +2,14 @@
   "id": 404175461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.654461,30.340407,-81.654461,30.340407",
     "geom:latitude":30.340407,
     "geom:longitude":-81.654461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404175461,
-    "wof:lastmodified":1449039958,
+    "wof:lastmodified":1466442963,
     "wof:name":"Simpson Auto Sales",
     "wof:parent_id":85888929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.654461,30.340407,-81.654461,30.340407],
+  "bbox": [
+    -81.654461,
+    30.340407,
+    -81.654461,
+    30.340407
+],
   "geometry": {"coordinates":[-81.654461,30.340407],"type":"Point"}
 }

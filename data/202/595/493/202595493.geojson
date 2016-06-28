@@ -2,13 +2,14 @@
   "id": 202595493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.390416,30.266589,-81.390416,30.266589",
     "geom:latitude":30.266589,
     "geom:longitude":-81.390416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 Isabella Blvd",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202595493,
-    "wof:lastmodified":1449062401,
+    "wof:lastmodified":1466429622,
     "wof:name":"Burton & Assoc",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-81.390416,30.266589,-81.390416,30.266589],
+  "bbox": [
+    -81.390416,
+    30.266589,
+    -81.390416,
+    30.266589
+],
   "geometry": {"coordinates":[-81.390416,30.266589],"type":"Point"}
 }

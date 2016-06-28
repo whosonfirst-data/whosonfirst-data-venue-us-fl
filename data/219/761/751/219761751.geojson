@@ -2,13 +2,14 @@
   "id": 219761751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.455238,25.480169,-80.455238,25.480169",
     "geom:latitude":25.480169,
     "geom:longitude":-80.455238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 NE 10th St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219761751,
-    "wof:lastmodified":1449073090,
+    "wof:lastmodified":1466434927,
     "wof:name":"Steve Waters",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.455238,25.480169,-80.455238,25.480169],
-  "geometry": {"coordinates":[-80.455238,25.480169],"type":"Point"}
+  "bbox": [
+    -80.455238,
+    25.480169,
+    -80.455238,
+    25.480169
+],
+  "geometry": {"coordinates":[-80.45523799999999,25.480169],"type":"Point"}
 }

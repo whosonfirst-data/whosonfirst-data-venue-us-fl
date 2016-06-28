@@ -2,13 +2,14 @@
   "id": 202509105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068247,26.471629,-80.068247,26.471629",
     "geom:latitude":26.471629,
     "geom:longitude":-80.068247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 NE 5th Ave",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202509105,
-    "wof:lastmodified":1449060198,
+    "wof:lastmodified":1466428462,
     "wof:name":"Better Business Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trade"
     ]
 },
-  "bbox": [-80.068247,26.471629,-80.068247,26.471629],
+  "bbox": [
+    -80.068247,
+    26.471629,
+    -80.068247,
+    26.471629
+],
   "geometry": {"coordinates":[-80.068247,26.471629],"type":"Point"}
 }

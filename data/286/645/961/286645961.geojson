@@ -2,13 +2,14 @@
   "id": 286645961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393391,28.032256,-82.393391,28.032256",
     "geom:latitude":28.032256,
     "geom:longitude":-82.393391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8829 N 56th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286645961,
-    "wof:lastmodified":1449015480,
+    "wof:lastmodified":1466436367,
     "wof:name":"Magic Beauty Salon",
     "wof:parent_id":85896235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-82.393391,28.032256,-82.393391,28.032256],
-  "geometry": {"coordinates":[-82.393391,28.032256],"type":"Point"}
+  "bbox": [
+    -82.393391,
+    28.032256,
+    -82.393391,
+    28.032256
+],
+  "geometry": {"coordinates":[-82.39339099999999,28.032256],"type":"Point"}
 }

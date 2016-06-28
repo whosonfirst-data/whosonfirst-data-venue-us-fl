@@ -2,13 +2,14 @@
   "id": 286821471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403242,30.288139,-81.403242,30.288139",
     "geom:latitude":30.288139,
     "geom:longitude":-81.403242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Beach Blvd",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286821471,
-    "wof:lastmodified":1449016782,
+    "wof:lastmodified":1466439490,
     "wof:name":"Lamp Shell",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-81.403242,30.288139,-81.403242,30.288139],
-  "geometry": {"coordinates":[-81.403242,30.288139],"type":"Point"}
+  "bbox": [
+    -81.403242,
+    30.288139,
+    -81.403242,
+    30.288139
+],
+  "geometry": {"coordinates":[-81.40324200000001,30.288139],"type":"Point"}
 }

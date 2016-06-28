@@ -2,13 +2,14 @@
   "id": 320165589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128309,26.318029,-80.128309,26.318029",
     "geom:latitude":26.318029,
     "geom:longitude":-80.128309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320165589,
-    "wof:lastmodified":1449014976,
+    "wof:lastmodified":1466436224,
     "wof:name":"Dr Cohen Elliot S MD Inc",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.128309,26.318029,-80.128309,26.318029],
+  "bbox": [
+    -80.128309,
+    26.318029,
+    -80.128309,
+    26.318029
+],
   "geometry": {"coordinates":[-80.128309,26.318029],"type":"Point"}
 }

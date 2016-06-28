@@ -2,13 +2,14 @@
   "id": 320240775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374935,28.281371,-81.374935,28.281371",
     "geom:latitude":28.281371,
     "geom:longitude":-81.374935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Kings Hwy",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320240775,
-    "wof:lastmodified":1449011629,
+    "wof:lastmodified":1466437509,
     "wof:name":"R W Singleton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.374935,28.281371,-81.374935,28.281371],
-  "geometry": {"coordinates":[-81.374935,28.281371],"type":"Point"}
+  "bbox": [
+    -81.374935,
+    28.281371,
+    -81.374935,
+    28.281371
+],
+  "geometry": {"coordinates":[-81.37493499999999,28.281371],"type":"Point"}
 }

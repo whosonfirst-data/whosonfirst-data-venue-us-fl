@@ -2,13 +2,14 @@
   "id": 236093137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.51399,28.494736,-81.51399,28.494736",
     "geom:latitude":28.494736,
     "geom:longitude":-81.51399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7185 Horizon Cir",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236093137,
-    "wof:lastmodified":1449001681,
+    "wof:lastmodified":1466429694,
     "wof:name":"Teas Spot",
     "wof:parent_id":85889429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.51399,28.494736,-81.51399,28.494736],
-  "geometry": {"coordinates":[-81.51399,28.494736],"type":"Point"}
+  "bbox": [
+    -81.51399,
+    28.494736,
+    -81.51399,
+    28.494736
+],
+  "geometry": {"coordinates":[-81.51399000000001,28.494736],"type":"Point"}
 }

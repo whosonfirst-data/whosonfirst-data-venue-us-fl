@@ -2,13 +2,14 @@
   "id": 253307883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.499509,27.526751,-81.499509,27.526751",
     "geom:latitude":27.526751,
     "geom:longitude":-81.499509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253307883,
-    "wof:lastmodified":1449063580,
+    "wof:lastmodified":1466432334,
     "wof:name":"27 Dog House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.499509,27.526751,-81.499509,27.526751],
+  "bbox": [
+    -81.499509,
+    27.526751,
+    -81.499509,
+    27.526751
+],
   "geometry": {"coordinates":[-81.499509,27.526751],"type":"Point"}
 }

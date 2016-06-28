@@ -2,13 +2,14 @@
   "id": 202803085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.990386,29.131589,-80.990386,29.131589",
     "geom:latitude":29.131589,
     "geom:longitude":-80.990386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Oak Pl",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202803085,
-    "wof:lastmodified":1449062685,
+    "wof:lastmodified":1466432298,
     "wof:name":"A-Air",
     "wof:parent_id":85823875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "air"
     ]
 },
-  "bbox": [-80.990386,29.131589,-80.990386,29.131589],
+  "bbox": [
+    -80.990386,
+    29.131589,
+    -80.990386,
+    29.131589
+],
   "geometry": {"coordinates":[-80.990386,29.131589],"type":"Point"}
 }

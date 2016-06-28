@@ -2,13 +2,14 @@
   "id": 186185101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.230067,29.106495,-82.230067,29.106495",
     "geom:latitude":29.106495,
     "geom:longitude":-82.230067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7060 SW 80th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186185101,
-    "wof:lastmodified":1449050852,
+    "wof:lastmodified":1466428928,
     "wof:name":"Guys Good Farms",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.230067,29.106495,-82.230067,29.106495],
-  "geometry": {"coordinates":[-82.230067,29.106495],"type":"Point"}
+  "bbox": [
+    -82.230067,
+    29.106495,
+    -82.230067,
+    29.106495
+],
+  "geometry": {"coordinates":[-82.23006700000001,29.106495],"type":"Point"}
 }

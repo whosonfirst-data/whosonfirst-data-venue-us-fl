@@ -2,13 +2,14 @@
   "id": 303664091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.415961,28.305311,-81.415961,28.305311",
     "geom:latitude":28.305311,
     "geom:longitude":-81.415961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 N John Young Pkwy",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303664091,
-    "wof:lastmodified":1448999022,
+    "wof:lastmodified":1466441948,
     "wof:name":"All Florida Mortgage Ctrs Inc",
     "wof:parent_id":85878521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-81.415961,28.305311,-81.415961,28.305311],
+  "bbox": [
+    -81.415961,
+    28.305311,
+    -81.415961,
+    28.305311
+],
   "geometry": {"coordinates":[-81.415961,28.305311],"type":"Point"}
 }

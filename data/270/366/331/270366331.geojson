@@ -2,13 +2,14 @@
   "id": 270366331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132772,25.775222,-80.132772,25.775222",
     "geom:latitude":25.775222,
     "geom:longitude":-80.132772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Collins Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270366331,
-    "wof:lastmodified":1449010441,
+    "wof:lastmodified":1466435729,
     "wof:name":"Miami Beach",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-80.132772,25.775222,-80.132772,25.775222],
+  "bbox": [
+    -80.132772,
+    25.775222,
+    -80.132772,
+    25.775222
+],
   "geometry": {"coordinates":[-80.132772,25.775222],"type":"Point"}
 }

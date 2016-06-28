@@ -2,13 +2,14 @@
   "id": 370573091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.641127,27.772156,-82.641127,27.772156",
     "geom:latitude":27.772156,
     "geom:longitude":-82.641127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 1st Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370573091,
-    "wof:lastmodified":1449031591,
+    "wof:lastmodified":1466442967,
     "wof:name":"Clerk of Circuit Court",
     "wof:parent_id":85889535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clerk"
     ]
 },
-  "bbox": [-82.641127,27.772156,-82.641127,27.772156],
+  "bbox": [
+    -82.641127,
+    27.772156,
+    -82.641127,
+    27.772156
+],
   "geometry": {"coordinates":[-82.641127,27.772156],"type":"Point"}
 }

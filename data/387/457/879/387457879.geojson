@@ -2,13 +2,14 @@
   "id": 387457879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.192534,29.186495,-82.192534,29.186495",
     "geom:latitude":29.186495,
     "geom:longitude":-82.192534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4271 W Silver Springs Blvd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387457879,
-    "wof:lastmodified":1449058660,
+    "wof:lastmodified":1466445727,
     "wof:name":"Pegasus Realty & Assoc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.192534,29.186495,-82.192534,29.186495],
-  "geometry": {"coordinates":[-82.192534,29.186495],"type":"Point"}
+  "bbox": [
+    -82.192534,
+    29.186495,
+    -82.192534,
+    29.186495
+],
+  "geometry": {"coordinates":[-82.19253399999999,29.186495],"type":"Point"}
 }

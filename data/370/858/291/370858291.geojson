@@ -2,13 +2,14 @@
   "id": 370858291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145341,26.330484,-80.145341,26.330484",
     "geom:latitude":26.330484,
     "geom:longitude":-80.145341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6343 Via de Sonrisa del Sur",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370858291,
-    "wof:lastmodified":1449029421,
+    "wof:lastmodified":1466446910,
     "wof:name":"Alliance Care",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-80.145341,26.330484,-80.145341,26.330484],
+  "bbox": [
+    -80.145341,
+    26.330484,
+    -80.145341,
+    26.330484
+],
   "geometry": {"coordinates":[-80.145341,26.330484],"type":"Point"}
 }

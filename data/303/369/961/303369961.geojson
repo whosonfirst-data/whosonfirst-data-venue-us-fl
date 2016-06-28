@@ -2,13 +2,14 @@
   "id": 303369961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.239122,30.580992,-84.239122,30.580992",
     "geom:latitude":30.580992,
     "geom:longitude":-84.239122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2372 Tuscavilla Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303369961,
-    "wof:lastmodified":1449000441,
+    "wof:lastmodified":1466436904,
     "wof:name":"Family Fun Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.239122,30.580992,-84.239122,30.580992],
-  "geometry": {"coordinates":[-84.239122,30.580992],"type":"Point"}
+  "bbox": [
+    -84.239122,
+    30.580992,
+    -84.239122,
+    30.580992
+],
+  "geometry": {"coordinates":[-84.23912199999999,30.580992],"type":"Point"}
 }

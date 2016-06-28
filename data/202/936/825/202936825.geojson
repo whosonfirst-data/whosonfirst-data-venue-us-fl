@@ -2,13 +2,14 @@
   "id": 202936825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.569101,30.766869,-86.569101,30.766869",
     "geom:latitude":30.766869,
     "geom:longitude":-86.569101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Alabama St",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202936825,
-    "wof:lastmodified":1449060954,
+    "wof:lastmodified":1466434092,
     "wof:name":"Southeastern Engineering",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-86.569101,30.766869,-86.569101,30.766869],
+  "bbox": [
+    -86.569101,
+    30.766869,
+    -86.569101,
+    30.766869
+],
   "geometry": {"coordinates":[-86.569101,30.766869],"type":"Point"}
 }

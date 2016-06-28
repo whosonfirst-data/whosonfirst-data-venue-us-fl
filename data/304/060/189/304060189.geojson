@@ -2,13 +2,14 @@
   "id": 304060189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.379072,25.566415,-80.379072,25.566415",
     "geom:latitude":25.566415,
     "geom:longitude":-80.379072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11635 SW 216th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304060189,
-    "wof:lastmodified":1449044111,
+    "wof:lastmodified":1466432857,
     "wof:name":"Dade County Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-80.379072,25.566415,-80.379072,25.566415],
-  "geometry": {"coordinates":[-80.379072,25.566415],"type":"Point"}
+  "bbox": [
+    -80.379072,
+    25.566415,
+    -80.379072,
+    25.566415
+],
+  "geometry": {"coordinates":[-80.37907199999999,25.566415],"type":"Point"}
 }

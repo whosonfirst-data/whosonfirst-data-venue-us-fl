@@ -2,13 +2,14 @@
   "id": 403893923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.36416,30.212349,-84.36416,30.212349",
     "geom:latitude":30.212349,
     "geom:longitude":-84.36416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 Crawfordville Hwy",
     "sg:city":"Crawfordville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403893923,
-    "wof:lastmodified":1449055715,
+    "wof:lastmodified":1466442633,
     "wof:name":"Time Master",
     "wof:parent_id":85842795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-84.36416,30.212349,-84.36416,30.212349],
+  "bbox": [
+    -84.36416,
+    30.212349,
+    -84.36416,
+    30.212349
+],
   "geometry": {"coordinates":[-84.36416,30.212349],"type":"Point"}
 }

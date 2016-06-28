@@ -2,13 +2,14 @@
   "id": 185980549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280374,28.245987,-81.280374,28.245987",
     "geom:latitude":28.245987,
     "geom:longitude":-81.280374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 13th St",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185980549,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466430855,
     "wof:name":"John E Crawford Realestate",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.280374,28.245987,-81.280374,28.245987],
-  "geometry": {"coordinates":[-81.280374,28.245987],"type":"Point"}
+  "bbox": [
+    -81.280374,
+    28.245987,
+    -81.280374,
+    28.245987
+],
+  "geometry": {"coordinates":[-81.28037399999999,28.245987],"type":"Point"}
 }

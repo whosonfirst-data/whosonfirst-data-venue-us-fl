@@ -2,13 +2,14 @@
   "id": 320729875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.639008,28.146001,-80.639008,28.146001",
     "geom:latitude":28.146001,
     "geom:longitude":-80.639008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 Avocado Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320729875,
-    "wof:lastmodified":1449013138,
+    "wof:lastmodified":1466446003,
     "wof:name":"C Tech Marine",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-80.639008,28.146001,-80.639008,28.146001],
+  "bbox": [
+    -80.639008,
+    28.146001,
+    -80.639008,
+    28.146001
+],
   "geometry": {"coordinates":[-80.639008,28.146001],"type":"Point"}
 }

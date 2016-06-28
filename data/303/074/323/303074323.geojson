@@ -2,13 +2,14 @@
   "id": 303074323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.166339,26.210283,-80.166339,26.210283",
     "geom:latitude":26.210283,
     "geom:longitude":-80.166339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 W McNab Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303074323,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466431751,
     "wof:name":"Emed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.166339,26.210283,-80.166339,26.210283],
-  "geometry": {"coordinates":[-80.166339,26.210283],"type":"Point"}
+  "bbox": [
+    -80.166339,
+    26.210283,
+    -80.166339,
+    26.210283
+],
+  "geometry": {"coordinates":[-80.16633899999999,26.210283],"type":"Point"}
 }

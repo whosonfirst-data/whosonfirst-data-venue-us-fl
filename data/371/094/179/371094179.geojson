@@ -2,13 +2,14 @@
   "id": 371094179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951777,26.526789,-81.951777,26.526789",
     "geom:latitude":26.526789,
     "geom:longitude":-81.951777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11660 Ct of Palms",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371094179,
-    "wof:lastmodified":1449049701,
+    "wof:lastmodified":1466439009,
     "wof:name":"Grosse Pointe Development Co",
     "wof:parent_id":85888835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951777,26.526789,-81.951777,26.526789],
-  "geometry": {"coordinates":[-81.951777,26.526789],"type":"Point"}
+  "bbox": [
+    -81.951777,
+    26.526789,
+    -81.951777,
+    26.526789
+],
+  "geometry": {"coordinates":[-81.95177700000001,26.526789],"type":"Point"}
 }

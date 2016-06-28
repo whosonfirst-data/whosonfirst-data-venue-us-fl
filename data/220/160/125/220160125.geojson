@@ -2,13 +2,14 @@
   "id": 220160125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.239277,25.775027,-80.239277,25.775027",
     "geom:latitude":25.775027,
     "geom:longitude":-80.239277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 NW 27th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220160125,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466429050,
     "wof:name":"Millennium Billing Svc",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.239277,25.775027,-80.239277,25.775027],
+  "bbox": [
+    -80.239277,
+    25.775027,
+    -80.239277,
+    25.775027
+],
   "geometry": {"coordinates":[-80.239277,25.775027],"type":"Point"}
 }

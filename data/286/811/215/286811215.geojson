@@ -2,13 +2,14 @@
   "id": 286811215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.973858,29.178001,-81.973858,29.178001",
     "geom:latitude":29.178001,
     "geom:longitude":-81.973858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10937 SE 24th Street Rd",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286811215,
-    "wof:lastmodified":1449016610,
+    "wof:lastmodified":1466439305,
     "wof:name":"Gants Property Svc",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.973858,29.178001,-81.973858,29.178001],
-  "geometry": {"coordinates":[-81.973858,29.178001],"type":"Point"}
+  "bbox": [
+    -81.973858,
+    29.178001,
+    -81.973858,
+    29.178001
+],
+  "geometry": {"coordinates":[-81.97385800000001,29.178001],"type":"Point"}
 }

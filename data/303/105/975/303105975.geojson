@@ -2,13 +2,14 @@
   "id": 303105975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220492,25.764895,-80.220492,25.764895",
     "geom:latitude":25.764895,
     "geom:longitude":-80.220492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 SW 9th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303105975,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466432324,
     "wof:name":"Arts Development Center",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-80.220492,25.764895,-80.220492,25.764895],
-  "geometry": {"coordinates":[-80.220492,25.764895],"type":"Point"}
+  "bbox": [
+    -80.220492,
+    25.764895,
+    -80.220492,
+    25.764895
+],
+  "geometry": {"coordinates":[-80.22049199999999,25.764895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202440811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251626,26.050467,-80.251626,26.050467",
     "geom:latitude":26.050467,
     "geom:longitude":-80.251626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5370 S University Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202440811,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466444600,
     "wof:name":"Countywide Vending Inc",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.251626,26.050467,-80.251626,26.050467],
+  "bbox": [
+    -80.251626,
+    26.050467,
+    -80.251626,
+    26.050467
+],
   "geometry": {"coordinates":[-80.251626,26.050467],"type":"Point"}
 }

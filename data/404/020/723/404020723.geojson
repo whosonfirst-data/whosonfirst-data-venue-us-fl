@@ -2,13 +2,14 @@
   "id": 404020723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.707321,30.371103,-81.707321,30.371103",
     "geom:latitude":30.371103,
     "geom:longitude":-81.707321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2584 W 45th St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404020723,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1466440585,
     "wof:name":"Al's Tire & Rim Shop",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.707321,30.371103,-81.707321,30.371103],
-  "geometry": {"coordinates":[-81.707321,30.371103],"type":"Point"}
+  "bbox": [
+    -81.707321,
+    30.371103,
+    -81.707321,
+    30.371103
+],
+  "geometry": {"coordinates":[-81.70732099999999,30.371103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303132801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.318791,29.862683,-81.318791,29.862683",
     "geom:latitude":29.862683,
     "geom:longitude":-81.318791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Health Park Blvd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303132801,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466432800,
     "wof:name":"Healing Arts Urgent Care",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-81.318791,29.862683,-81.318791,29.862683],
+  "bbox": [
+    -81.318791,
+    29.862683,
+    -81.318791,
+    29.862683
+],
   "geometry": {"coordinates":[-81.318791,29.862683],"type":"Point"}
 }

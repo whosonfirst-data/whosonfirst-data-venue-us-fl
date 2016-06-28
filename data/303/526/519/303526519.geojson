@@ -2,13 +2,14 @@
   "id": 303526519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199299,26.244546,-80.199299,26.244546",
     "geom:latitude":26.244546,
     "geom:longitude":-80.199299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5259 Coconut Creek Pkwy",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303526519,
-    "wof:lastmodified":1448998868,
+    "wof:lastmodified":1466439616,
     "wof:name":"Fairfield Communities",
     "wof:parent_id":85896203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "condominium"
     ]
 },
-  "bbox": [-80.199299,26.244546,-80.199299,26.244546],
+  "bbox": [
+    -80.199299,
+    26.244546,
+    -80.199299,
+    26.244546
+],
   "geometry": {"coordinates":[-80.199299,26.244546],"type":"Point"}
 }

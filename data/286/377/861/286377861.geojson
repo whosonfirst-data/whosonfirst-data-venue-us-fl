@@ -2,13 +2,14 @@
   "id": 286377861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.398124,28.414074,-81.398124,28.414074",
     "geom:latitude":28.414074,
     "geom:longitude":-81.398124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 Cypress Lake Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286377861,
-    "wof:lastmodified":1449016285,
+    "wof:lastmodified":1466431668,
     "wof:name":"Victory Express",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-81.398124,28.414074,-81.398124,28.414074],
+  "bbox": [
+    -81.398124,
+    28.414074,
+    -81.398124,
+    28.414074
+],
   "geometry": {"coordinates":[-81.398124,28.414074],"type":"Point"}
 }

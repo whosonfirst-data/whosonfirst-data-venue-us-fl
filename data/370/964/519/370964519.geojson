@@ -2,13 +2,14 @@
   "id": 370964519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.379438,28.618554,-81.379438,28.618554",
     "geom:latitude":28.618554,
     "geom:longitude":-81.379438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Kennedy Blvd",
     "sg:city":"Eatonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370964519,
-    "wof:lastmodified":1449031649,
+    "wof:lastmodified":1466447843,
     "wof:name":"Johnson's Lawnmower Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-81.379438,28.618554,-81.379438,28.618554],
-  "geometry": {"coordinates":[-81.379438,28.618554],"type":"Point"}
+  "bbox": [
+    -81.379438,
+    28.618554,
+    -81.379438,
+    28.618554
+],
+  "geometry": {"coordinates":[-81.37943799999999,28.618554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235934263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.716291,30.325461,-81.716291,30.325461",
     "geom:latitude":30.325461,
     "geom:longitude":-81.716291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 Dillon St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235934263,
-    "wof:lastmodified":1449008294,
+    "wof:lastmodified":1466428441,
     "wof:name":"N & L",
     "wof:parent_id":85828967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.716291,30.325461,-81.716291,30.325461],
+  "bbox": [
+    -81.716291,
+    30.325461,
+    -81.716291,
+    30.325461
+],
   "geometry": {"coordinates":[-81.716291,30.325461],"type":"Point"}
 }

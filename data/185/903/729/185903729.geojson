@@ -2,13 +2,14 @@
   "id": 185903729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154202,25.726005,-80.154202,25.726005",
     "geom:latitude":25.726005,
     "geom:longitude":-80.154202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Rickenbacker Cswy",
     "sg:city":"Key Biscayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185903729,
-    "wof:lastmodified":1449006692,
+    "wof:lastmodified":1466429950,
     "wof:name":"Rickenbacher Marina Store",
     "wof:parent_id":85866191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-80.154202,25.726005,-80.154202,25.726005],
+  "bbox": [
+    -80.154202,
+    25.726005,
+    -80.154202,
+    25.726005
+],
   "geometry": {"coordinates":[-80.154202,25.726005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320124003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.111316,30.500834,-84.111316,30.500834",
     "geom:latitude":30.500834,
     "geom:longitude":-84.111316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9524 Star View Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320124003,
-    "wof:lastmodified":1449014679,
+    "wof:lastmodified":1466435512,
     "wof:name":"Fichter Management",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-84.111316,30.500834,-84.111316,30.500834],
+  "bbox": [
+    -84.111316,
+    30.500834,
+    -84.111316,
+    30.500834
+],
   "geometry": {"coordinates":[-84.111316,30.500834],"type":"Point"}
 }

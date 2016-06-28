@@ -2,13 +2,14 @@
   "id": 185730877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.653109,30.2531,-85.653109,30.2531",
     "geom:latitude":30.2531,
     "geom:longitude":-85.653109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Alabama Ave",
     "sg:city":"Tyndall Afb",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185730877,
-    "wof:lastmodified":1449007978,
+    "wof:lastmodified":1466446011,
     "wof:name":"Boeing Co",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-85.653109,30.2531,-85.653109,30.2531],
+  "bbox": [
+    -85.653109,
+    30.2531,
+    -85.653109,
+    30.2531
+],
   "geometry": {"coordinates":[-85.653109,30.2531],"type":"Point"}
 }

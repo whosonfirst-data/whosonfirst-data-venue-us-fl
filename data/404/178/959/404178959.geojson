@@ -2,13 +2,14 @@
   "id": 404178959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315587,25.824461,-80.315587,25.824461",
     "geom:latitude":25.824461,
     "geom:longitude":-80.315587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7317 NW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":404178959,
-    "wof:lastmodified":1449039989,
+    "wof:lastmodified":1466443020,
     "wof:name":"Latin American Motorcycle Assn",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.315587,25.824461,-80.315587,25.824461],
-  "geometry": {"coordinates":[-80.315587,25.824461],"type":"Point"}
+  "bbox": [
+    -80.315587,
+    25.824461,
+    -80.315587,
+    25.824461
+],
+  "geometry": {"coordinates":[-80.31558699999999,25.824461],"type":"Point"}
 }

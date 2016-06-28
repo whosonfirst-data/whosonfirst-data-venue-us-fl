@@ -2,13 +2,14 @@
   "id": 286707657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.355444,29.706404,-82.355444,29.706404",
     "geom:latitude":29.706404,
     "geom:longitude":-82.355444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2056 NW 55 Blvd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286707657,
-    "wof:lastmodified":1449017649,
+    "wof:lastmodified":1466437471,
     "wof:name":"Creekwood Apartments",
     "wof:parent_id":85877601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.355444,29.706404,-82.355444,29.706404],
-  "geometry": {"coordinates":[-82.355444,29.706404],"type":"Point"}
+  "bbox": [
+    -82.355444,
+    29.706404,
+    -82.355444,
+    29.706404
+],
+  "geometry": {"coordinates":[-82.35544400000001,29.706404],"type":"Point"}
 }

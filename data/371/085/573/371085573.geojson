@@ -2,13 +2,14 @@
   "id": 371085573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.699031,28.256253,-82.699031,28.256253",
     "geom:latitude":28.256253,
     "geom:longitude":-82.699031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6648 Rowan Rd",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371085573,
-    "wof:lastmodified":1449049286,
+    "wof:lastmodified":1466438880,
     "wof:name":"Jack J Phelan",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.699031,28.256253,-82.699031,28.256253],
-  "geometry": {"coordinates":[-82.699031,28.256253],"type":"Point"}
+  "bbox": [
+    -82.699031,
+    28.256253,
+    -82.699031,
+    28.256253
+],
+  "geometry": {"coordinates":[-82.69903100000001,28.256253],"type":"Point"}
 }

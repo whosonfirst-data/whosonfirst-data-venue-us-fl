@@ -2,13 +2,14 @@
   "id": 202787877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.746991,28.573259,-81.746991,28.573259",
     "geom:latitude":28.573259,
     "geom:longitude":-81.746991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 US Hwy 27",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202787877,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466432101,
     "wof:name":"South Lake Quick Print",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.746991,28.573259,-81.746991,28.573259],
-  "geometry": {"coordinates":[-81.746991,28.573259],"type":"Point"}
+  "bbox": [
+    -81.746991,
+    28.573259,
+    -81.746991,
+    28.573259
+],
+  "geometry": {"coordinates":[-81.74699099999999,28.573259],"type":"Point"}
 }

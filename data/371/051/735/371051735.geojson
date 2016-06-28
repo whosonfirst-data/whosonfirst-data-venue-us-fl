@@ -2,13 +2,14 @@
   "id": 371051735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780526,26.146346,-81.780526,26.146346",
     "geom:latitude":26.146346,
     "geom:longitude":-81.780526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 Tower Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371051735,
-    "wof:lastmodified":1449049684,
+    "wof:lastmodified":1466438366,
     "wof:name":"Collier Helicopter Operations",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-81.780526,26.146346,-81.780526,26.146346],
-  "geometry": {"coordinates":[-81.780526,26.146346],"type":"Point"}
+  "bbox": [
+    -81.780526,
+    26.146346,
+    -81.780526,
+    26.146346
+],
+  "geometry": {"coordinates":[-81.78052599999999,26.146346],"type":"Point"}
 }

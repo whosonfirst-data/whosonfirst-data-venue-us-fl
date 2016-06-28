@@ -2,13 +2,14 @@
   "id": 320508499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.384121,25.808486,-80.384121,25.808486",
     "geom:latitude":25.808486,
     "geom:longitude":-80.384121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10575 NW 37th St",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":320508499,
-    "wof:lastmodified":1449013351,
+    "wof:lastmodified":1466442169,
     "wof:name":"Millennium Natural Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.384121,25.808486,-80.384121,25.808486],
-  "geometry": {"coordinates":[-80.384121,25.808486],"type":"Point"}
+  "bbox": [
+    -80.384121,
+    25.808486,
+    -80.384121,
+    25.808486
+],
+  "geometry": {"coordinates":[-80.38412099999999,25.808486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253646707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.392378,28.732138,-81.392378,28.732138",
     "geom:latitude":28.732138,
     "geom:longitude":-81.392378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2246 Peachleaf Ct",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253646707,
-    "wof:lastmodified":1449062758,
+    "wof:lastmodified":1466438243,
     "wof:name":"STC",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.392378,28.732138,-81.392378,28.732138],
-  "geometry": {"coordinates":[-81.392378,28.732138],"type":"Point"}
+  "bbox": [
+    -81.392378,
+    28.732138,
+    -81.392378,
+    28.732138
+],
+  "geometry": {"coordinates":[-81.39237799999999,28.732138],"type":"Point"}
 }

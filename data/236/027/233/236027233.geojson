@@ -2,13 +2,14 @@
   "id": 236027233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.729855,30.380781,-81.729855,30.380781",
     "geom:latitude":30.380781,
     "geom:longitude":-81.729855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6665 New Kings Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236027233,
-    "wof:lastmodified":1449002139,
+    "wof:lastmodified":1466428771,
     "wof:name":"Lewis-Smith Mortuaries",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-81.729855,30.380781,-81.729855,30.380781],
+  "bbox": [
+    -81.729855,
+    30.380781,
+    -81.729855,
+    30.380781
+],
   "geometry": {"coordinates":[-81.729855,30.380781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286817181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265524,26.259078,-80.265524,26.259078",
     "geom:latitude":26.259078,
     "geom:longitude":-80.265524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10353 Royal Palm Blvd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286817181,
-    "wof:lastmodified":1449017550,
+    "wof:lastmodified":1466439411,
     "wof:name":"Royal Palm Veterinary Hospital",
     "wof:parent_id":85876895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.265524,26.259078,-80.265524,26.259078],
+  "bbox": [
+    -80.265524,
+    26.259078,
+    -80.265524,
+    26.259078
+],
   "geometry": {"coordinates":[-80.265524,26.259078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303598207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.382507,30.206546,-81.382507,30.206546",
     "geom:latitude":30.206546,
     "geom:longitude":-81.382507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Sawgrass Village Dr",
     "sg:city":"Ponte Vedra Bch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303598207,
-    "wof:lastmodified":1448998249,
+    "wof:lastmodified":1466440825,
     "wof:name":"Florida Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-81.382507,30.206546,-81.382507,30.206546],
+  "bbox": [
+    -81.382507,
+    30.206546,
+    -81.382507,
+    30.206546
+],
   "geometry": {"coordinates":[-81.382507,30.206546],"type":"Point"}
 }

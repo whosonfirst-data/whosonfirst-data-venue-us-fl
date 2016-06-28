@@ -2,13 +2,14 @@
   "id": 202444341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.422801,25.635152,-80.422801,25.635152",
     "geom:latitude":25.635152,
     "geom:longitude":-80.422801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14305 SW 142nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202444341,
-    "wof:lastmodified":1449062309,
+    "wof:lastmodified":1466444711,
     "wof:name":"Custom Creations",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.422801,25.635152,-80.422801,25.635152],
-  "geometry": {"coordinates":[-80.422801,25.635152],"type":"Point"}
+  "bbox": [
+    -80.422801,
+    25.635152,
+    -80.422801,
+    25.635152
+],
+  "geometry": {"coordinates":[-80.42280100000001,25.635152],"type":"Point"}
 }

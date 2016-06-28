@@ -2,13 +2,14 @@
   "id": 303662473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.48078,27.29004,-82.48078,27.29004",
     "geom:latitude":27.29004,
     "geom:longitude":-82.48078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4487 Maygog Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303662473,
-    "wof:lastmodified":1448999771,
+    "wof:lastmodified":1466441919,
     "wof:name":"Sarasota Custom Painting",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.48078,27.29004,-82.48078,27.29004],
+  "bbox": [
+    -82.48078,
+    27.29004,
+    -82.48078,
+    27.29004
+],
   "geometry": {"coordinates":[-82.48078,27.29004],"type":"Point"}
 }

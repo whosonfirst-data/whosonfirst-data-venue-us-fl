@@ -2,13 +2,14 @@
   "id": 370196511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.362617,28.203693,-81.362617,28.203693",
     "geom:latitude":28.203693,
     "geom:longitude":-81.362617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3147 Commanche Rd",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370196511,
-    "wof:lastmodified":1449029858,
+    "wof:lastmodified":1466437171,
     "wof:name":"Mike Barber Trucking",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.362617,28.203693,-81.362617,28.203693],
+  "bbox": [
+    -81.362617,
+    28.203693,
+    -81.362617,
+    28.203693
+],
   "geometry": {"coordinates":[-81.362617,28.203693],"type":"Point"}
 }

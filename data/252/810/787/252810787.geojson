@@ -2,13 +2,14 @@
   "id": 252810787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.330555,30.550543,-87.330555,30.550543",
     "geom:latitude":30.550543,
     "geom:longitude":-87.330555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 Co Rd 97",
     "sg:city":"Cantonment",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252810787,
-    "wof:lastmodified":1449005737,
+    "wof:lastmodified":1466429919,
     "wof:name":"Flag Co",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flag"
     ]
 },
-  "bbox": [-87.330555,30.550543,-87.330555,30.550543],
+  "bbox": [
+    -87.330555,
+    30.550543,
+    -87.330555,
+    30.550543
+],
   "geometry": {"coordinates":[-87.330555,30.550543],"type":"Point"}
 }

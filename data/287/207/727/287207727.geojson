@@ -2,13 +2,14 @@
   "id": 287207727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129757,26.100529,-80.129757,26.100529",
     "geom:latitude":26.100529,
     "geom:longitude":-80.129757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 SE 17th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287207727,
-    "wof:lastmodified":1449001301,
+    "wof:lastmodified":1466433514,
     "wof:name":"Universal Travel",
     "wof:parent_id":85877501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.129757,26.100529,-80.129757,26.100529],
+  "bbox": [
+    -80.129757,
+    26.100529,
+    -80.129757,
+    26.100529
+],
   "geometry": {"coordinates":[-80.129757,26.100529],"type":"Point"}
 }

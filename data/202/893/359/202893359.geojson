@@ -2,13 +2,14 @@
   "id": 202893359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.206599,30.439764,-87.206599,30.439764",
     "geom:latitude":30.439764,
     "geom:longitude":-87.206599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 E Scott St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202893359,
-    "wof:lastmodified":1449062186,
+    "wof:lastmodified":1466433515,
     "wof:name":"Giftronics",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-87.206599,30.439764,-87.206599,30.439764],
+  "bbox": [
+    -87.206599,
+    30.439764,
+    -87.206599,
+    30.439764
+],
   "geometry": {"coordinates":[-87.206599,30.439764],"type":"Point"}
 }

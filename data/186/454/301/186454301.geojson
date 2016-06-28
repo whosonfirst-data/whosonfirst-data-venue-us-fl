@@ -2,13 +2,14 @@
   "id": 186454301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.398807,27.648652,-80.398807,27.648652",
     "geom:latitude":27.648652,
     "geom:longitude":-80.398807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 29th St",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186454301,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466432224,
     "wof:name":"Central Pump & Supply",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-80.398807,27.648652,-80.398807,27.648652],
-  "geometry": {"coordinates":[-80.398807,27.648652],"type":"Point"}
+  "bbox": [
+    -80.398807,
+    27.648652,
+    -80.398807,
+    27.648652
+],
+  "geometry": {"coordinates":[-80.39880700000001,27.648652],"type":"Point"}
 }

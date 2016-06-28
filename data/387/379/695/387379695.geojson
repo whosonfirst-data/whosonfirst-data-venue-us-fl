@@ -2,13 +2,14 @@
   "id": 387379695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251844,26.184517,-80.251844,26.184517",
     "geom:latitude":26.184517,
     "geom:longitude":-80.251844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4917 N University Dr",
     "sg:city":"Lauderhill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387379695,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1466444536,
     "wof:name":"Speedy Transmission",
     "wof:parent_id":85896111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-80.251844,26.184517,-80.251844,26.184517],
-  "geometry": {"coordinates":[-80.251844,26.184517],"type":"Point"}
+  "bbox": [
+    -80.251844,
+    26.184517,
+    -80.251844,
+    26.184517
+],
+  "geometry": {"coordinates":[-80.25184400000001,26.184517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219179483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066026,26.461664,-80.066026,26.461664",
     "geom:latitude":26.461664,
     "geom:longitude":-80.066026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Atlantic Ave",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219179483,
-    "wof:lastmodified":1449073558,
+    "wof:lastmodified":1466443425,
     "wof:name":"FCM Yacht Sales",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht"
     ]
 },
-  "bbox": [-80.066026,26.461664,-80.066026,26.461664],
-  "geometry": {"coordinates":[-80.066026,26.461664],"type":"Point"}
+  "bbox": [
+    -80.066026,
+    26.461664,
+    -80.066026,
+    26.461664
+],
+  "geometry": {"coordinates":[-80.06602599999999,26.461664],"type":"Point"}
 }

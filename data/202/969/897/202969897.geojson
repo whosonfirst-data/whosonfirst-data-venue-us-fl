@@ -2,13 +2,14 @@
   "id": 202969897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.46011,27.95945,-82.46011,27.95945",
     "geom:latitude":27.95945,
     "geom:longitude":-82.46011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 N Franklin St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202969897,
-    "wof:lastmodified":1449060721,
+    "wof:lastmodified":1466434539,
     "wof:name":"Atelier Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-82.46011,27.95945,-82.46011,27.95945],
+  "bbox": [
+    -82.46011,
+    27.95945,
+    -82.46011,
+    27.95945
+],
   "geometry": {"coordinates":[-82.46011,27.95945],"type":"Point"}
 }

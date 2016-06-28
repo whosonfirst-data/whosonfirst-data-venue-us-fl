@@ -2,13 +2,14 @@
   "id": 202386747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751247,30.306275,-81.751247,30.306275",
     "geom:latitude":30.306275,
     "geom:longitude":-81.751247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5930 Normandy Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202386747,
-    "wof:lastmodified":1449061439,
+    "wof:lastmodified":1466437539,
     "wof:name":"Multi Colors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "retail"
     ]
 },
-  "bbox": [-81.751247,30.306275,-81.751247,30.306275],
-  "geometry": {"coordinates":[-81.751247,30.306275],"type":"Point"}
+  "bbox": [
+    -81.751247,
+    30.306275,
+    -81.751247,
+    30.306275
+],
+  "geometry": {"coordinates":[-81.75124700000001,30.306275],"type":"Point"}
 }

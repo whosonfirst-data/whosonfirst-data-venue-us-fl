@@ -2,13 +2,14 @@
   "id": 320337395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.410931,28.302173,-81.410931,28.302173",
     "geom:latitude":28.302173,
     "geom:longitude":-81.410931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Oak Commons Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320337395,
-    "wof:lastmodified":1449013008,
+    "wof:lastmodified":1466439164,
     "wof:name":"Wlaa",
     "wof:parent_id":85878535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.410931,28.302173,-81.410931,28.302173],
-  "geometry": {"coordinates":[-81.410931,28.302173],"type":"Point"}
+  "bbox": [
+    -81.410931,
+    28.302173,
+    -81.410931,
+    28.302173
+],
+  "geometry": {"coordinates":[-81.41093100000001,28.302173],"type":"Point"}
 }

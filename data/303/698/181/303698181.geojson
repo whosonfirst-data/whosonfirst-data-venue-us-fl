@@ -2,13 +2,14 @@
   "id": 303698181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105793,26.197731,-80.105793,26.197731",
     "geom:latitude":26.197731,
     "geom:longitude":-80.105793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 Bayview Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303698181,
-    "wof:lastmodified":1449000417,
+    "wof:lastmodified":1466442588,
     "wof:name":"West Med Nuclear Medicine",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.105793,26.197731,-80.105793,26.197731],
-  "geometry": {"coordinates":[-80.105793,26.197731],"type":"Point"}
+  "bbox": [
+    -80.105793,
+    26.197731,
+    -80.105793,
+    26.197731
+],
+  "geometry": {"coordinates":[-80.10579300000001,26.197731],"type":"Point"}
 }

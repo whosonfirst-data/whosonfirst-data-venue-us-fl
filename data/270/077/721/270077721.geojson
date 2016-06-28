@@ -2,13 +2,14 @@
   "id": 270077721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.29443,28.568349,-81.29443,28.568349",
     "geom:latitude":28.568349,
     "geom:longitude":-81.29443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 N Forsyth Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270077721,
-    "wof:lastmodified":1449009019,
+    "wof:lastmodified":1466430781,
     "wof:name":"Irish Mike's World Class Auto",
     "wof:parent_id":85889375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.29443,28.568349,-81.29443,28.568349],
-  "geometry": {"coordinates":[-81.29443,28.568349],"type":"Point"}
+  "bbox": [
+    -81.29443,
+    28.568349,
+    -81.29443,
+    28.568349
+],
+  "geometry": {"coordinates":[-81.29443000000001,28.568349],"type":"Point"}
 }

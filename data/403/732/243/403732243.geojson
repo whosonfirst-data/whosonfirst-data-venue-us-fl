@@ -2,13 +2,14 @@
   "id": 403732243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055078,26.775126,-80.055078,26.775126",
     "geom:latitude":26.775126,
     "geom:longitude":-80.055078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 Broadway",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403732243,
-    "wof:lastmodified":1449056016,
+    "wof:lastmodified":1466440051,
     "wof:name":"Yamaha Mariner Marine",
     "wof:parent_id":85881805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.055078,26.775126,-80.055078,26.775126],
-  "geometry": {"coordinates":[-80.055078,26.775126],"type":"Point"}
+  "bbox": [
+    -80.055078,
+    26.775126,
+    -80.055078,
+    26.775126
+],
+  "geometry": {"coordinates":[-80.05507799999999,26.775126],"type":"Point"}
 }

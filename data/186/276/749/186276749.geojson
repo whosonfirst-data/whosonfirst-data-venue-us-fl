@@ -2,13 +2,14 @@
   "id": 186276749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140441,26.141827,-80.140441,26.141827",
     "geom:latitude":26.141827,
     "geom:longitude":-80.140441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 NE 4th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276749,
-    "wof:lastmodified":1449050367,
+    "wof:lastmodified":1466430007,
     "wof:name":"Secure Parking Systems",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valet"
     ]
 },
-  "bbox": [-80.140441,26.141827,-80.140441,26.141827],
+  "bbox": [
+    -80.140441,
+    26.141827,
+    -80.140441,
+    26.141827
+],
   "geometry": {"coordinates":[-80.140441,26.141827],"type":"Point"}
 }

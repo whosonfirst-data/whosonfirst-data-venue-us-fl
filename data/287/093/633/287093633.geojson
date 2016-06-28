@@ -2,13 +2,14 @@
   "id": 287093633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284596,28.890252,-81.284596,28.890252",
     "geom:latitude":28.890252,
     "geom:longitude":-81.284596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Highbanks Rd",
     "sg:city":"Debary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287093633,
-    "wof:lastmodified":1449000658,
+    "wof:lastmodified":1466431494,
     "wof:name":"Sun State Fire Sprinkler",
     "wof:parent_id":85805767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-81.284596,28.890252,-81.284596,28.890252],
-  "geometry": {"coordinates":[-81.284596,28.890252],"type":"Point"}
+  "bbox": [
+    -81.284596,
+    28.890252,
+    -81.284596,
+    28.890252
+],
+  "geometry": {"coordinates":[-81.28459599999999,28.890252],"type":"Point"}
 }

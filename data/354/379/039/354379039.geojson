@@ -2,13 +2,14 @@
   "id": 354379039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.563201,30.22085,-81.563201,30.22085",
     "geom:latitude":30.22085,
     "geom:longitude":-81.563201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9428 Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354379039,
-    "wof:lastmodified":1449066933,
+    "wof:lastmodified":1466441893,
     "wof:name":"Intuition Dev Holding LLC",
     "wof:parent_id":85870729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-81.563201,30.22085,-81.563201,30.22085],
-  "geometry": {"coordinates":[-81.563201,30.22085],"type":"Point"}
+  "bbox": [
+    -81.563201,
+    30.22085,
+    -81.563201,
+    30.22085
+],
+  "geometry": {"coordinates":[-81.56320100000001,30.22085],"type":"Point"}
 }

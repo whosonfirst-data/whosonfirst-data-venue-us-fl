@@ -2,13 +2,14 @@
   "id": 303632197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.364703,27.425819,-80.364703,27.425819",
     "geom:latitude":27.425819,
     "geom:longitude":-80.364703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 S 39th St",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303632197,
-    "wof:lastmodified":1448999679,
+    "wof:lastmodified":1466441407,
     "wof:name":"Blount's Water Systems",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.364703,27.425819,-80.364703,27.425819],
-  "geometry": {"coordinates":[-80.364703,27.425819],"type":"Point"}
+  "bbox": [
+    -80.364703,
+    27.425819,
+    -80.364703,
+    27.425819
+],
+  "geometry": {"coordinates":[-80.36470300000001,27.425819],"type":"Point"}
 }

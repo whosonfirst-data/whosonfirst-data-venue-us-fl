@@ -2,13 +2,14 @@
   "id": 370835007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.177597,25.777257,-80.177597,25.777257",
     "geom:latitude":25.777257,
     "geom:longitude":-80.177597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Port Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370835007,
-    "wof:lastmodified":1449029578,
+    "wof:lastmodified":1466446692,
     "wof:name":"Miami-Dade County Seaport",
     "wof:parent_id":85842811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.177597,25.777257,-80.177597,25.777257],
-  "geometry": {"coordinates":[-80.177597,25.777257],"type":"Point"}
+  "bbox": [
+    -80.177597,
+    25.777257,
+    -80.177597,
+    25.777257
+],
+  "geometry": {"coordinates":[-80.17759700000001,25.777257],"type":"Point"}
 }

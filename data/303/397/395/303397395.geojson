@@ -2,13 +2,14 @@
   "id": 303397395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700331,28.281862,-82.700331,28.281862",
     "geom:latitude":28.281862,
     "geom:longitude":-82.700331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8640 Sterling Ln",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303397395,
-    "wof:lastmodified":1448999096,
+    "wof:lastmodified":1466437380,
     "wof:name":"Sterling Lane Auto",
     "wof:parent_id":85889247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.700331,28.281862,-82.700331,28.281862],
-  "geometry": {"coordinates":[-82.700331,28.281862],"type":"Point"}
+  "bbox": [
+    -82.700331,
+    28.281862,
+    -82.700331,
+    28.281862
+],
+  "geometry": {"coordinates":[-82.70033100000001,28.281862],"type":"Point"}
 }

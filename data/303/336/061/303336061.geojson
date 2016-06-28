@@ -2,13 +2,14 @@
   "id": 303336061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.150692,26.256459,-80.150692,26.256459",
     "geom:latitude":26.256459,
     "geom:longitude":-80.150692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1878 NW 21st St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303336061,
-    "wof:lastmodified":1448998066,
+    "wof:lastmodified":1466436325,
     "wof:name":"Us Concrete Products Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "concrete"
     ]
 },
-  "bbox": [-80.150692,26.256459,-80.150692,26.256459],
-  "geometry": {"coordinates":[-80.150692,26.256459],"type":"Point"}
+  "bbox": [
+    -80.150692,
+    26.256459,
+    -80.150692,
+    26.256459
+],
+  "geometry": {"coordinates":[-80.15069200000001,26.256459],"type":"Point"}
 }

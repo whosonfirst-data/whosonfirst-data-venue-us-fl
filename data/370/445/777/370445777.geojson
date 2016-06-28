@@ -2,13 +2,14 @@
   "id": 370445777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512982,27.94483,-82.512982,27.94483",
     "geom:latitude":27.94483,
     "geom:longitude":-82.512982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 W Kennedy Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370445777,
-    "wof:lastmodified":1449029546,
+    "wof:lastmodified":1466441021,
     "wof:name":"Title Depot Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-82.512982,27.94483,-82.512982,27.94483],
-  "geometry": {"coordinates":[-82.512982,27.94483],"type":"Point"}
+  "bbox": [
+    -82.512982,
+    27.94483,
+    -82.512982,
+    27.94483
+],
+  "geometry": {"coordinates":[-82.51298199999999,27.94483],"type":"Point"}
 }

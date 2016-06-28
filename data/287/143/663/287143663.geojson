@@ -2,13 +2,14 @@
   "id": 287143663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140901,26.13116,-80.140901,26.13116",
     "geom:latitude":26.13116,
     "geom:longitude":-80.140901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 NE 3rd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287143663,
-    "wof:lastmodified":1449001416,
+    "wof:lastmodified":1466432370,
     "wof:name":"Deposearch",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-80.140901,26.13116,-80.140901,26.13116],
+  "bbox": [
+    -80.140901,
+    26.13116,
+    -80.140901,
+    26.13116
+],
   "geometry": {"coordinates":[-80.140901,26.13116],"type":"Point"}
 }

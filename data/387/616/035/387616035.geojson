@@ -2,13 +2,14 @@
   "id": 387616035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.217256,30.410929,-87.217256,30.410929",
     "geom:latitude":30.410929,
     "geom:longitude":-87.217256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Romana St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387616035,
-    "wof:lastmodified":1449058903,
+    "wof:lastmodified":1466447411,
     "wof:name":"Tesco Inc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-87.217256,30.410929,-87.217256,30.410929],
-  "geometry": {"coordinates":[-87.217256,30.410929],"type":"Point"}
+  "bbox": [
+    -87.217256,
+    30.410929,
+    -87.217256,
+    30.410929
+],
+  "geometry": {"coordinates":[-87.21725600000001,30.410929],"type":"Point"}
 }

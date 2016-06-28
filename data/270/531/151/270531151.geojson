@@ -2,13 +2,14 @@
   "id": 270531151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.57613,30.091102,-83.57613,30.091102",
     "geom:latitude":30.091102,
     "geom:longitude":-83.57613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 S Byron Butler Pkwy",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270531151,
-    "wof:lastmodified":1449009212,
+    "wof:lastmodified":1466438555,
     "wof:name":"New Perry Ford-Mercury Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.57613,30.091102,-83.57613,30.091102],
-  "geometry": {"coordinates":[-83.57613,30.091102],"type":"Point"}
+  "bbox": [
+    -83.57613,
+    30.091102,
+    -83.57613,
+    30.091102
+],
+  "geometry": {"coordinates":[-83.57613000000001,30.091102],"type":"Point"}
 }

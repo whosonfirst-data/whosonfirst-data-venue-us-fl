@@ -2,13 +2,14 @@
   "id": 403969099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.508412,30.348615,-81.508412,30.348615",
     "geom:latitude":30.348615,
     "geom:longitude":-81.508412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11350 Canvasback Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403969099,
-    "wof:lastmodified":1449054964,
+    "wof:lastmodified":1466443826,
     "wof:name":"AAA Jacksonville King Lift",
     "wof:parent_id":85803499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-81.508412,30.348615,-81.508412,30.348615],
-  "geometry": {"coordinates":[-81.508412,30.348615],"type":"Point"}
+  "bbox": [
+    -81.508412,
+    30.348615,
+    -81.508412,
+    30.348615
+],
+  "geometry": {"coordinates":[-81.50841200000001,30.348615],"type":"Point"}
 }

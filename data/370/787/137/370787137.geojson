@@ -2,13 +2,14 @@
   "id": 370787137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.219546,25.876113,-80.219546,25.876113",
     "geom:latitude":25.876113,
     "geom:longitude":-80.219546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 NW 111th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370787137,
-    "wof:lastmodified":1449030629,
+    "wof:lastmodified":1466446237,
     "wof:name":"Allen Chapel AME Church",
     "wof:parent_id":85817705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.219546,25.876113,-80.219546,25.876113],
-  "geometry": {"coordinates":[-80.219546,25.876113],"type":"Point"}
+  "bbox": [
+    -80.219546,
+    25.876113,
+    -80.219546,
+    25.876113
+],
+  "geometry": {"coordinates":[-80.21954599999999,25.876113],"type":"Point"}
 }

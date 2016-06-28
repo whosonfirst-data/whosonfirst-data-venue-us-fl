@@ -2,13 +2,14 @@
   "id": 387042861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.749488,28.397195,-80.749488,28.397195",
     "geom:latitude":28.397195,
     "geom:longitude":-80.749488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 River Heights Dr",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387042861,
-    "wof:lastmodified":1449058996,
+    "wof:lastmodified":1466439365,
     "wof:name":"USA Mobility Inc",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radio"
     ]
 },
-  "bbox": [-80.749488,28.397195,-80.749488,28.397195],
+  "bbox": [
+    -80.749488,
+    28.397195,
+    -80.749488,
+    28.397195
+],
   "geometry": {"coordinates":[-80.749488,28.397195],"type":"Point"}
 }

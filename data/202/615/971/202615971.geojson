@@ -2,13 +2,14 @@
   "id": 202615971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.424163,28.619328,-81.424163,28.619328",
     "geom:latitude":28.619328,
     "geom:longitude":-81.424163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Denise Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202615971,
-    "wof:lastmodified":1449060910,
+    "wof:lastmodified":1466429886,
     "wof:name":"DVille Limousine",
     "wof:parent_id":85879475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-81.424163,28.619328,-81.424163,28.619328],
-  "geometry": {"coordinates":[-81.424163,28.619328],"type":"Point"}
+  "bbox": [
+    -81.424163,
+    28.619328,
+    -81.424163,
+    28.619328
+],
+  "geometry": {"coordinates":[-81.42416299999999,28.619328],"type":"Point"}
 }

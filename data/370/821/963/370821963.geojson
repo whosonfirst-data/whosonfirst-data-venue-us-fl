@@ -2,13 +2,14 @@
   "id": 370821963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.1242,25.857044,-80.1242,25.857044",
     "geom:latitude":25.857044,
     "geom:longitude":-80.1242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 72nd St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370821963,
-    "wof:lastmodified":1449030911,
+    "wof:lastmodified":1466446726,
     "wof:name":"City Of Miami Beach",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.1242,25.857044,-80.1242,25.857044],
+  "bbox": [
+    -80.1242,
+    25.857044,
+    -80.1242,
+    25.857044
+],
   "geometry": {"coordinates":[-80.1242,25.857044],"type":"Point"}
 }

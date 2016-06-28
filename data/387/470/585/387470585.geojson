@@ -2,13 +2,14 @@
   "id": 387470585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378926,28.401065,-81.378926,28.401065",
     "geom:latitude":28.401065,
     "geom:longitude":-81.378926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11580 Ryland Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387470585,
-    "wof:lastmodified":1449057025,
+    "wof:lastmodified":1466445921,
     "wof:name":"Fortune Plastics",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [-81.378926,28.401065,-81.378926,28.401065],
-  "geometry": {"coordinates":[-81.378926,28.401065],"type":"Point"}
+  "bbox": [
+    -81.378926,
+    28.401065,
+    -81.378926,
+    28.401065
+],
+  "geometry": {"coordinates":[-81.37892600000001,28.401065],"type":"Point"}
 }

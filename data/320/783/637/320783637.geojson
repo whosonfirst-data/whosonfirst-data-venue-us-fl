@@ -2,13 +2,14 @@
   "id": 320783637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.243506,28.743925,-81.243506,28.743925",
     "geom:latitude":28.743925,
     "geom:longitude":-81.243506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 Lost Trl",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320783637,
-    "wof:lastmodified":1449011380,
+    "wof:lastmodified":1466446863,
     "wof:name":"Spring Depot",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.243506,28.743925,-81.243506,28.743925],
+  "bbox": [
+    -81.243506,
+    28.743925,
+    -81.243506,
+    28.743925
+],
   "geometry": {"coordinates":[-81.243506,28.743925],"type":"Point"}
 }

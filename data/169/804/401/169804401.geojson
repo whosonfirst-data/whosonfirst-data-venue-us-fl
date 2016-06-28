@@ -2,13 +2,14 @@
   "id": 169804401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207028,26.208592,-80.207028,26.208592",
     "geom:latitude":26.208592,
     "geom:longitude":-80.207028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 SW 15th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169804401,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466429070,
     "wof:name":"Mario Bustamante",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.207028,26.208592,-80.207028,26.208592],
-  "geometry": {"coordinates":[-80.207028,26.208592],"type":"Point"}
+  "bbox": [
+    -80.207028,
+    26.208592,
+    -80.207028,
+    26.208592
+],
+  "geometry": {"coordinates":[-80.20702799999999,26.208592],"type":"Point"}
 }

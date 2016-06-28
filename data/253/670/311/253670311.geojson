@@ -2,13 +2,14 @@
   "id": 253670311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.752051,30.320801,-81.752051,30.320801",
     "geom:latitude":30.320801,
     "geom:longitude":-81.752051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Lane Ave S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253670311,
-    "wof:lastmodified":1449063259,
+    "wof:lastmodified":1466438656,
     "wof:name":"Charlie Rose Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.752051,30.320801,-81.752051,30.320801],
-  "geometry": {"coordinates":[-81.752051,30.320801],"type":"Point"}
+  "bbox": [
+    -81.752051,
+    30.320801,
+    -81.752051,
+    30.320801
+],
+  "geometry": {"coordinates":[-81.75205099999999,30.320801],"type":"Point"}
 }

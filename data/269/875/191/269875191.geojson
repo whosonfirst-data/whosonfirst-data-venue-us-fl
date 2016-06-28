@@ -2,13 +2,14 @@
   "id": 269875191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.357965,28.529149,-81.357965,28.529149",
     "geom:latitude":28.529149,
     "geom:longitude":-81.357965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Bimini Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269875191,
-    "wof:lastmodified":1449038104,
+    "wof:lastmodified":1466435391,
     "wof:name":"Norris Assoc Thracic Cardiovas",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.357965,28.529149,-81.357965,28.529149],
-  "geometry": {"coordinates":[-81.357965,28.529149],"type":"Point"}
+  "bbox": [
+    -81.357965,
+    28.529149,
+    -81.357965,
+    28.529149
+],
+  "geometry": {"coordinates":[-81.35796499999999,28.529149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303719145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19496,25.799896,-80.19496,25.799896",
     "geom:latitude":25.799896,
     "geom:longitude":-80.19496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 NW 24th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303719145,
-    "wof:lastmodified":1448998435,
+    "wof:lastmodified":1466442949,
     "wof:name":"Sasa International",
     "wof:parent_id":85869211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [-80.19496,25.799896,-80.19496,25.799896],
-  "geometry": {"coordinates":[-80.19496,25.799896],"type":"Point"}
+  "bbox": [
+    -80.19496,
+    25.799896,
+    -80.19496,
+    25.799896
+],
+  "geometry": {"coordinates":[-80.19495999999999,25.799896],"type":"Point"}
 }

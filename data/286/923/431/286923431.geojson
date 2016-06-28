@@ -2,13 +2,14 @@
   "id": 286923431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.062609,29.213276,-81.062609,29.213276",
     "geom:latitude":29.213276,
     "geom:longitude":-81.062609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Mason Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286923431,
-    "wof:lastmodified":1449017989,
+    "wof:lastmodified":1466441323,
     "wof:name":"7-Eleven",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.062609,29.213276,-81.062609,29.213276],
-  "geometry": {"coordinates":[-81.062609,29.213276],"type":"Point"}
+  "bbox": [
+    -81.062609,
+    29.213276,
+    -81.062609,
+    29.213276
+],
+  "geometry": {"coordinates":[-81.06260899999999,29.213276],"type":"Point"}
 }

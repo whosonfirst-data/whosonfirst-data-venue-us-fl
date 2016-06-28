@@ -2,13 +2,14 @@
   "id": 270000625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.246733,30.552997,-87.246733,30.552997",
     "geom:latitude":30.552997,
     "geom:longitude":-87.246733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"878 Ridge View Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270000625,
-    "wof:lastmodified":1449009024,
+    "wof:lastmodified":1466429464,
     "wof:name":"Granger Maintenance & Repair",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-87.246733,30.552997,-87.246733,30.552997],
-  "geometry": {"coordinates":[-87.246733,30.552997],"type":"Point"}
+  "bbox": [
+    -87.246733,
+    30.552997,
+    -87.246733,
+    30.552997
+],
+  "geometry": {"coordinates":[-87.24673300000001,30.552997],"type":"Point"}
 }

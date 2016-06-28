@@ -2,13 +2,14 @@
   "id": 269540281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.754515,30.173119,-85.754515,30.173119",
     "geom:latitude":30.173119,
     "geom:longitude":-85.754515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Bullfinch Rd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269540281,
-    "wof:lastmodified":1449037104,
+    "wof:lastmodified":1466429477,
     "wof:name":"US Navy Exprmental Diving Unit",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diving"
     ]
 },
-  "bbox": [-85.754515,30.173119,-85.754515,30.173119],
+  "bbox": [
+    -85.754515,
+    30.173119,
+    -85.754515,
+    30.173119
+],
   "geometry": {"coordinates":[-85.754515,30.173119],"type":"Point"}
 }

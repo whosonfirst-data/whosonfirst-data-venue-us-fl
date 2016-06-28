@@ -2,13 +2,14 @@
   "id": 370625829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326263,25.821558,-80.326263,25.821558",
     "geom:latitude":25.821558,
     "geom:longitude":-80.326263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7950 NW 53rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370625829,
-    "wof:lastmodified":1449032533,
+    "wof:lastmodified":1466443774,
     "wof:name":"Beacon Center Travel",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-80.326263,25.821558,-80.326263,25.821558],
+  "bbox": [
+    -80.326263,
+    25.821558,
+    -80.326263,
+    25.821558
+],
   "geometry": {"coordinates":[-80.326263,25.821558],"type":"Point"}
 }

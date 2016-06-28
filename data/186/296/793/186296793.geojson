@@ -2,13 +2,14 @@
   "id": 186296793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.732601,27.988581,-81.732601,27.988581",
     "geom:latitude":27.988581,
     "geom:longitude":-81.732601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Snively Ave",
     "sg:city":"Eloise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186296793,
-    "wof:lastmodified":1449052512,
+    "wof:lastmodified":1466430267,
     "wof:name":"Polk County Sheriff",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-81.732601,27.988581,-81.732601,27.988581],
+  "bbox": [
+    -81.732601,
+    27.988581,
+    -81.732601,
+    27.988581
+],
   "geometry": {"coordinates":[-81.732601,27.988581],"type":"Point"}
 }

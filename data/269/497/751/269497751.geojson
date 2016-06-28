@@ -2,13 +2,14 @@
   "id": 269497751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590662,28.346002,-81.590662,28.346002",
     "geom:latitude":28.346002,
     "geom:longitude":-81.590662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3281 Sherberth Rd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269497751,
-    "wof:lastmodified":1449038912,
+    "wof:lastmodified":1466428730,
     "wof:name":"Amertron",
     "wof:parent_id":85889299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-81.590662,28.346002,-81.590662,28.346002],
-  "geometry": {"coordinates":[-81.590662,28.346002],"type":"Point"}
+  "bbox": [
+    -81.590662,
+    28.346002,
+    -81.590662,
+    28.346002
+],
+  "geometry": {"coordinates":[-81.59066199999999,28.346002],"type":"Point"}
 }

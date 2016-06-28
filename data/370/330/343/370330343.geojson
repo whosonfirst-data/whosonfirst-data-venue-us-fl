@@ -2,13 +2,14 @@
   "id": 370330343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130918,25.779162,-80.130918,25.779162",
     "geom:latitude":25.779162,
     "geom:longitude":-80.130918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Ocean Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370330343,
-    "wof:lastmodified":1449030767,
+    "wof:lastmodified":1466439222,
     "wof:name":"Lilian's Sandals",
     "wof:parent_id":85865233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandal"
     ]
 },
-  "bbox": [-80.130918,25.779162,-80.130918,25.779162],
-  "geometry": {"coordinates":[-80.130918,25.779162],"type":"Point"}
+  "bbox": [
+    -80.130918,
+    25.779162,
+    -80.130918,
+    25.779162
+],
+  "geometry": {"coordinates":[-80.13091799999999,25.779162],"type":"Point"}
 }

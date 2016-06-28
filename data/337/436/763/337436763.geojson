@@ -2,13 +2,14 @@
   "id": 337436763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505975,27.925663,-82.505975,27.925663",
     "geom:latitude":27.925663,
     "geom:longitude":-82.505975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 S Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337436763,
-    "wof:lastmodified":1449027659,
+    "wof:lastmodified":1466435677,
     "wof:name":"Wells Fargo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.505975,27.925663,-82.505975,27.925663],
-  "geometry": {"coordinates":[-82.505975,27.925663],"type":"Point"}
+  "bbox": [
+    -82.505975,
+    27.925663,
+    -82.505975,
+    27.925663
+],
+  "geometry": {"coordinates":[-82.50597500000001,27.925663],"type":"Point"}
 }

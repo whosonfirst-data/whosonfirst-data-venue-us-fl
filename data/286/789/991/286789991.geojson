@@ -2,13 +2,14 @@
   "id": 286789991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695828,30.31655,-81.695828,30.31655",
     "geom:latitude":30.31655,
     "geom:longitude":-81.695828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Dellwood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":286789991,
-    "wof:lastmodified":1449016516,
+    "wof:lastmodified":1466438933,
     "wof:name":"Darlene's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.695828,30.31655,-81.695828,30.31655],
-  "geometry": {"coordinates":[-81.695828,30.31655],"type":"Point"}
+  "bbox": [
+    -81.695828,
+    30.31655,
+    -81.695828,
+    30.31655
+],
+  "geometry": {"coordinates":[-81.69582800000001,30.31655],"type":"Point"}
 }

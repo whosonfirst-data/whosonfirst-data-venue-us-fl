@@ -2,13 +2,14 @@
   "id": 286898727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.550462,28.562637,-81.550462,28.562637",
     "geom:latitude":28.562637,
     "geom:longitude":-81.550462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Enterprise St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286898727,
-    "wof:lastmodified":1449015095,
+    "wof:lastmodified":1466440871,
     "wof:name":"Florida Auto Auction",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.550462,28.562637,-81.550462,28.562637],
+  "bbox": [
+    -81.550462,
+    28.562637,
+    -81.550462,
+    28.562637
+],
   "geometry": {"coordinates":[-81.550462,28.562637],"type":"Point"}
 }

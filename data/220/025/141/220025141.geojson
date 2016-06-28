@@ -2,13 +2,14 @@
   "id": 220025141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.514783,27.498677,-82.514783,27.498677",
     "geom:latitude":27.498677,
     "geom:longitude":-82.514783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 State Hwy 64",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220025141,
-    "wof:lastmodified":1449074731,
+    "wof:lastmodified":1466444204,
     "wof:name":"4PENNY.NET",
     "wof:parent_id":85888761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.514783,27.498677,-82.514783,27.498677],
-  "geometry": {"coordinates":[-82.514783,27.498677],"type":"Point"}
+  "bbox": [
+    -82.514783,
+    27.498677,
+    -82.514783,
+    27.498677
+],
+  "geometry": {"coordinates":[-82.51478299999999,27.498677],"type":"Point"}
 }

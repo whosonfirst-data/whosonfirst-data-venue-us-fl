@@ -2,13 +2,14 @@
   "id": 320387911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.605567,30.397897,-86.605567,30.397897",
     "geom:latitude":30.397897,
     "geom:longitude":-86.605567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Bonito Ave",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320387911,
-    "wof:lastmodified":1449014468,
+    "wof:lastmodified":1466440029,
     "wof:name":"Pool Solutions",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-86.605567,30.397897,-86.605567,30.397897],
-  "geometry": {"coordinates":[-86.605567,30.397897],"type":"Point"}
+  "bbox": [
+    -86.605567,
+    30.397897,
+    -86.605567,
+    30.397897
+],
+  "geometry": {"coordinates":[-86.60556699999999,30.397897],"type":"Point"}
 }

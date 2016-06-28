@@ -2,13 +2,14 @@
   "id": 253721301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.298013,30.436606,-84.298013,30.436606",
     "geom:latitude":30.436606,
     "geom:longitude":-84.298013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Woodward St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253721301,
-    "wof:lastmodified":1449065792,
+    "wof:lastmodified":1466439554,
     "wof:name":"Mediatype",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typesetting"
     ]
 },
-  "bbox": [-84.298013,30.436606,-84.298013,30.436606],
+  "bbox": [
+    -84.298013,
+    30.436606,
+    -84.298013,
+    30.436606
+],
   "geometry": {"coordinates":[-84.298013,30.436606],"type":"Point"}
 }

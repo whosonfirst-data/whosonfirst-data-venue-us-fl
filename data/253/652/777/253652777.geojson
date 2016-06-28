@@ -2,13 +2,14 @@
   "id": 253652777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066368,26.479864,-80.066368,26.479864",
     "geom:latitude":26.479864,
     "geom:longitude":-80.066368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 US Hwy 1",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253652777,
-    "wof:lastmodified":1449064740,
+    "wof:lastmodified":1466438354,
     "wof:name":"Analytical Software Package",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-80.066368,26.479864,-80.066368,26.479864],
+  "bbox": [
+    -80.066368,
+    26.479864,
+    -80.066368,
+    26.479864
+],
   "geometry": {"coordinates":[-80.066368,26.479864],"type":"Point"}
 }

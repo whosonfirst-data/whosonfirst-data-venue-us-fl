@@ -2,13 +2,14 @@
   "id": 202759789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.33625,28.787226,-81.33625,28.787226",
     "geom:latitude":28.787226,
     "geom:longitude":-81.33625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 White Magnolia Way",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202759789,
-    "wof:lastmodified":1449062693,
+    "wof:lastmodified":1466431755,
     "wof:name":"Apartment Services USA Main",
     "wof:parent_id":85831111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.33625,28.787226,-81.33625,28.787226],
-  "geometry": {"coordinates":[-81.33625,28.787226],"type":"Point"}
+  "bbox": [
+    -81.33625,
+    28.787226,
+    -81.33625,
+    28.787226
+],
+  "geometry": {"coordinates":[-81.33625000000001,28.787226],"type":"Point"}
 }

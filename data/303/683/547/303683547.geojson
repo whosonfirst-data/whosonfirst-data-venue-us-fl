@@ -2,13 +2,14 @@
   "id": 303683547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.388687,28.032565,-82.388687,28.032565",
     "geom:latitude":28.032565,
     "geom:longitude":-82.388687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Bullard Pkwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303683547,
-    "wof:lastmodified":1448999016,
+    "wof:lastmodified":1466442319,
     "wof:name":"World Haulers",
     "wof:parent_id":85896235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.388687,28.032565,-82.388687,28.032565],
+  "bbox": [
+    -82.388687,
+    28.032565,
+    -82.388687,
+    28.032565
+],
   "geometry": {"coordinates":[-82.388687,28.032565],"type":"Point"}
 }

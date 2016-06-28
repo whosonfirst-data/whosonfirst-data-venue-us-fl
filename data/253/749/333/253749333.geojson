@@ -2,13 +2,14 @@
   "id": 253749333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.254377,30.409845,-87.254377,30.409845",
     "geom:latitude":30.409845,
     "geom:longitude":-87.254377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Myrick St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253749333,
-    "wof:lastmodified":1449063654,
+    "wof:lastmodified":1466440053,
     "wof:name":"Eric Lundquist Boat Repair",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-87.254377,30.409845,-87.254377,30.409845],
-  "geometry": {"coordinates":[-87.254377,30.409845],"type":"Point"}
+  "bbox": [
+    -87.254377,
+    30.409845,
+    -87.254377,
+    30.409845
+],
+  "geometry": {"coordinates":[-87.25437700000001,30.409845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354314267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195091,26.291183,-80.195091,26.291183",
     "geom:latitude":26.291183,
     "geom:longitude":-80.195091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4911 NW 53rd Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354314267,
-    "wof:lastmodified":1449067607,
+    "wof:lastmodified":1466440922,
     "wof:name":"Mom",
     "wof:parent_id":85896211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-80.195091,26.291183,-80.195091,26.291183],
-  "geometry": {"coordinates":[-80.195091,26.291183],"type":"Point"}
+  "bbox": [
+    -80.195091,
+    26.291183,
+    -80.195091,
+    26.291183
+],
+  "geometry": {"coordinates":[-80.19509100000001,26.291183],"type":"Point"}
 }

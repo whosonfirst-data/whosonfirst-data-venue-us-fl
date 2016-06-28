@@ -2,13 +2,14 @@
   "id": 320240939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.74653,27.539735,-81.74653,27.539735",
     "geom:latitude":27.539735,
     "geom:longitude":-81.74653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2272 Griffin Rd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320240939,
-    "wof:lastmodified":1449011629,
+    "wof:lastmodified":1466437514,
     "wof:name":"Spotless Cleaners",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.74653,27.539735,-81.74653,27.539735],
-  "geometry": {"coordinates":[-81.74653,27.539735],"type":"Point"}
+  "bbox": [
+    -81.74653,
+    27.539735,
+    -81.74653,
+    27.539735
+],
+  "geometry": {"coordinates":[-81.74653000000001,27.539735],"type":"Point"}
 }

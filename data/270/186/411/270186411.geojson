@@ -2,13 +2,14 @@
   "id": 270186411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.551712,30.188195,-81.551712,30.188195",
     "geom:latitude":30.188195,
     "geom:longitude":-81.551712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10199 Southside Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270186411,
-    "wof:lastmodified":1449010520,
+    "wof:lastmodified":1466432654,
     "wof:name":"Technisource",
     "wof:parent_id":85870729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.551712,30.188195,-81.551712,30.188195],
-  "geometry": {"coordinates":[-81.551712,30.188195],"type":"Point"}
+  "bbox": [
+    -81.551712,
+    30.188195,
+    -81.551712,
+    30.188195
+],
+  "geometry": {"coordinates":[-81.55171199999999,30.188195],"type":"Point"}
 }

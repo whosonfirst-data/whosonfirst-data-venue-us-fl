@@ -2,13 +2,14 @@
   "id": 303381463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.032333,29.238159,-81.032333,29.238159",
     "geom:latitude":29.238159,
     "geom:longitude":-81.032333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Riverside Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303381463,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466437104,
     "wof:name":"Our Old Homeplace",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-81.032333,29.238159,-81.032333,29.238159],
-  "geometry": {"coordinates":[-81.032333,29.238159],"type":"Point"}
+  "bbox": [
+    -81.032333,
+    29.238159,
+    -81.032333,
+    29.238159
+],
+  "geometry": {"coordinates":[-81.03233299999999,29.238159],"type":"Point"}
 }

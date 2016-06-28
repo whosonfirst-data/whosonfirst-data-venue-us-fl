@@ -2,13 +2,14 @@
   "id": 387439381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.056373,29.196833,-81.056373,29.196833",
     "geom:latitude":29.196833,
     "geom:longitude":-81.056373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 W International Speedway Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387439381,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1466445431,
     "wof:name":"Skips Western Outfitters",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-81.056373,29.196833,-81.056373,29.196833],
-  "geometry": {"coordinates":[-81.056373,29.196833],"type":"Point"}
+  "bbox": [
+    -81.056373,
+    29.196833,
+    -81.056373,
+    29.196833
+],
+  "geometry": {"coordinates":[-81.05637299999999,29.196833],"type":"Point"}
 }

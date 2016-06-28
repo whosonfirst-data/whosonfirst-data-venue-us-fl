@@ -2,13 +2,14 @@
   "id": 270141821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.869589,26.642054,-81.869589,26.642054",
     "geom:latitude":26.642054,
     "geom:longitude":-81.869589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 2nd St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270141821,
-    "wof:lastmodified":1449009497,
+    "wof:lastmodified":1466431882,
     "wof:name":"Delinquent Tax Sales",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-81.869589,26.642054,-81.869589,26.642054],
+  "bbox": [
+    -81.869589,
+    26.642054,
+    -81.869589,
+    26.642054
+],
   "geometry": {"coordinates":[-81.869589,26.642054],"type":"Point"}
 }

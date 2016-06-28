@@ -2,13 +2,14 @@
   "id": 403750605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337301,25.779855,-80.337301,25.779855",
     "geom:latitude":25.779855,
     "geom:longitude":-80.337301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8940 NW 8th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":403750605,
-    "wof:lastmodified":1449055465,
+    "wof:lastmodified":1466440332,
     "wof:name":"Birchwoods Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.337301,25.779855,-80.337301,25.779855],
+  "bbox": [
+    -80.337301,
+    25.779855,
+    -80.337301,
+    25.779855
+],
   "geometry": {"coordinates":[-80.337301,25.779855],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320335701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254432,26.006892,-80.254432,26.006892",
     "geom:latitude":26.006892,
     "geom:longitude":-80.254432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 SW 84th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320335701,
-    "wof:lastmodified":1449013734,
+    "wof:lastmodified":1466439133,
     "wof:name":"TGI Friday's",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-80.254432,26.006892,-80.254432,26.006892],
-  "geometry": {"coordinates":[-80.254432,26.006892],"type":"Point"}
+  "bbox": [
+    -80.254432,
+    26.006892,
+    -80.254432,
+    26.006892
+],
+  "geometry": {"coordinates":[-80.25443199999999,26.006892],"type":"Point"}
 }

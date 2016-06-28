@@ -2,13 +2,14 @@
   "id": 303553111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709761,28.304068,-80.709761,28.304068",
     "geom:latitude":28.304068,
     "geom:longitude":-80.709761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Gus Hipp Blvd",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303553111,
-    "wof:lastmodified":1448998133,
+    "wof:lastmodified":1466440066,
     "wof:name":"Airborne",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-80.709761,28.304068,-80.709761,28.304068],
+  "bbox": [
+    -80.709761,
+    28.304068,
+    -80.709761,
+    28.304068
+],
   "geometry": {"coordinates":[-80.709761,28.304068],"type":"Point"}
 }

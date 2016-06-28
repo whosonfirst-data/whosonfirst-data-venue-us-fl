@@ -2,13 +2,14 @@
   "id": 336784623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.585468,27.431331,-82.585468,27.431331",
     "geom:latitude":27.431331,
     "geom:longitude":-82.585468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2531 Bayshore Gardens Pkwy",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336784623,
-    "wof:lastmodified":1448997652,
+    "wof:lastmodified":1466438185,
     "wof:name":"Affinity Insurance Group",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.585468,27.431331,-82.585468,27.431331],
-  "geometry": {"coordinates":[-82.585468,27.431331],"type":"Point"}
+  "bbox": [
+    -82.585468,
+    27.431331,
+    -82.585468,
+    27.431331
+],
+  "geometry": {"coordinates":[-82.58546800000001,27.431331],"type":"Point"}
 }

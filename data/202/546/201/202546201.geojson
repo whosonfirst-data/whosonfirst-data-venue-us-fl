@@ -2,13 +2,14 @@
   "id": 202546201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.126793,26.43316,-80.126793,26.43316",
     "geom:latitude":26.43316,
     "geom:longitude":-80.126793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5243 Tennis Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202546201,
-    "wof:lastmodified":1449060106,
+    "wof:lastmodified":1466428965,
     "wof:name":"Vendelicious",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.126793,26.43316,-80.126793,26.43316],
-  "geometry": {"coordinates":[-80.126793,26.43316],"type":"Point"}
+  "bbox": [
+    -80.126793,
+    26.43316,
+    -80.126793,
+    26.43316
+],
+  "geometry": {"coordinates":[-80.12679300000001,26.43316],"type":"Point"}
 }

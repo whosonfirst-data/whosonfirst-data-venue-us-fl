@@ -2,13 +2,14 @@
   "id": 186566359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.263571,30.976096,-87.263571,30.976096",
     "geom:latitude":30.976096,
     "geom:longitude":-87.263571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Ranch Rd",
     "sg:city":"Cantonment",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186566359,
-    "wof:lastmodified":1449050314,
+    "wof:lastmodified":1466433685,
     "wof:name":"Auto Patch",
     "wof:parent_id":85849667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-87.263571,30.976096,-87.263571,30.976096],
+  "bbox": [
+    -87.263571,
+    30.976096,
+    -87.263571,
+    30.976096
+],
   "geometry": {"coordinates":[-87.263571,30.976096],"type":"Point"}
 }

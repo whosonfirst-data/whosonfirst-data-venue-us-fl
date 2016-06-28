@@ -2,13 +2,14 @@
   "id": 270033591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354676,25.594549,-80.354676,25.594549",
     "geom:latitude":25.594549,
     "geom:longitude":-80.354676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18778 SW 100th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270033591,
-    "wof:lastmodified":1449009135,
+    "wof:lastmodified":1466430028,
     "wof:name":"Max Merchandise",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.354676,25.594549,-80.354676,25.594549],
+  "bbox": [
+    -80.354676,
+    25.594549,
+    -80.354676,
+    25.594549
+],
   "geometry": {"coordinates":[-80.354676,25.594549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253297141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.353963,28.762807,-81.353963,28.762807",
     "geom:latitude":28.762807,
     "geom:longitude":-81.353963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Primera Blvd",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253297141,
-    "wof:lastmodified":1449064708,
+    "wof:lastmodified":1466432162,
     "wof:name":"Information Builders Inc",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "software"
     ]
 },
-  "bbox": [-81.353963,28.762807,-81.353963,28.762807],
-  "geometry": {"coordinates":[-81.353963,28.762807],"type":"Point"}
+  "bbox": [
+    -81.353963,
+    28.762807,
+    -81.353963,
+    28.762807
+],
+  "geometry": {"coordinates":[-81.35396299999999,28.762807],"type":"Point"}
 }

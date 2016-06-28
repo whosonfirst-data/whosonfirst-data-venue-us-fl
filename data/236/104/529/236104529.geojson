@@ -2,13 +2,14 @@
   "id": 236104529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.753852,27.83915,-82.753852,27.83915",
     "geom:latitude":27.83915,
     "geom:longitude":-82.753852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 Park Blvd N",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236104529,
-    "wof:lastmodified":1449002927,
+    "wof:lastmodified":1466429853,
     "wof:name":"John's Quality Automotive",
     "wof:parent_id":85889453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.753852,27.83915,-82.753852,27.83915],
-  "geometry": {"coordinates":[-82.753852,27.83915],"type":"Point"}
+  "bbox": [
+    -82.753852,
+    27.83915,
+    -82.753852,
+    27.83915
+],
+  "geometry": {"coordinates":[-82.75385199999999,27.83915],"type":"Point"}
 }

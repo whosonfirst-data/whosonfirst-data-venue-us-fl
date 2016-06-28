@@ -2,13 +2,14 @@
   "id": 185918035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.407155,28.532115,-81.407155,28.532115",
     "geom:latitude":28.532115,
     "geom:longitude":-81.407155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 Orange Center Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185918035,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466430124,
     "wof:name":"Washington Shores Village",
     "wof:parent_id":85879489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.407155,28.532115,-81.407155,28.532115],
+  "bbox": [
+    -81.407155,
+    28.532115,
+    -81.407155,
+    28.532115
+],
   "geometry": {"coordinates":[-81.407155,28.532115],"type":"Point"}
 }

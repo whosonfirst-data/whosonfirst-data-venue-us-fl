@@ -2,13 +2,14 @@
   "id": 186625893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261108,25.734062,-80.261108,25.734062",
     "geom:latitude":25.734062,
     "geom:longitude":-80.261108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Laguna St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186625893,
-    "wof:lastmodified":1449053063,
+    "wof:lastmodified":1466434515,
     "wof:name":"Holtzman & McKey",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.261108,25.734062,-80.261108,25.734062],
-  "geometry": {"coordinates":[-80.261108,25.734062],"type":"Point"}
+  "bbox": [
+    -80.261108,
+    25.734062,
+    -80.261108,
+    25.734062
+],
+  "geometry": {"coordinates":[-80.26110799999999,25.734062],"type":"Point"}
 }

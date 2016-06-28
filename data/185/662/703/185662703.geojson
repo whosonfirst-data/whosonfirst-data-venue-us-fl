@@ -2,13 +2,14 @@
   "id": 185662703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.478085,27.282544,-82.478085,27.282544",
     "geom:latitude":27.282544,
     "geom:longitude":-82.478085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4544 Shadowleaf Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185662703,
-    "wof:lastmodified":1449007674,
+    "wof:lastmodified":1466444862,
     "wof:name":"Senior Medical Ctr",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.478085,27.282544,-82.478085,27.282544],
-  "geometry": {"coordinates":[-82.478085,27.282544],"type":"Point"}
+  "bbox": [
+    -82.478085,
+    27.282544,
+    -82.478085,
+    27.282544
+],
+  "geometry": {"coordinates":[-82.47808499999999,27.282544],"type":"Point"}
 }

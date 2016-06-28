@@ -2,13 +2,14 @@
   "id": 287190899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.857348,26.651399,-81.857348,26.651399",
     "geom:latitude":26.651399,
     "geom:longitude":-81.857348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 1st St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287190899,
-    "wof:lastmodified":1449001533,
+    "wof:lastmodified":1466433213,
     "wof:name":"Morgan House",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.857348,26.651399,-81.857348,26.651399],
+  "bbox": [
+    -81.857348,
+    26.651399,
+    -81.857348,
+    26.651399
+],
   "geometry": {"coordinates":[-81.857348,26.651399],"type":"Point"}
 }

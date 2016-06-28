@@ -2,13 +2,14 @@
   "id": 236231283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.66132,30.411296,-81.66132,30.411296",
     "geom:latitude":30.411296,
     "geom:longitude":-81.66132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 Broward Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236231283,
-    "wof:lastmodified":1449003316,
+    "wof:lastmodified":1466431679,
     "wof:name":"Broward BP",
     "wof:parent_id":85838935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.66132,30.411296,-81.66132,30.411296],
+  "bbox": [
+    -81.66132,
+    30.411296,
+    -81.66132,
+    30.411296
+],
   "geometry": {"coordinates":[-81.66132,30.411296],"type":"Point"}
 }

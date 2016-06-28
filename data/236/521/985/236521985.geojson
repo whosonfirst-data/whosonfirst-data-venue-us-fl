@@ -2,13 +2,14 @@
   "id": 236521985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.177652,26.10529,-80.177652,26.10529",
     "geom:latitude":26.10529,
     "geom:longitude":-80.177652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Riverland Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236521985,
-    "wof:lastmodified":1449005054,
+    "wof:lastmodified":1466435785,
     "wof:name":"Broward Medical Ctr",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.177652,26.10529,-80.177652,26.10529],
-  "geometry": {"coordinates":[-80.177652,26.10529],"type":"Point"}
+  "bbox": [
+    -80.177652,
+    26.10529,
+    -80.177652,
+    26.10529
+],
+  "geometry": {"coordinates":[-80.17765199999999,26.10529],"type":"Point"}
 }

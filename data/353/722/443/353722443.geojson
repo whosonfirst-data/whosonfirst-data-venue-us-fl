@@ -2,13 +2,14 @@
   "id": 353722443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375671,25.664953,-80.375671,25.664953",
     "geom:latitude":25.664953,
     "geom:longitude":-80.375671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11004 SW 112th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353722443,
-    "wof:lastmodified":1449019149,
+    "wof:lastmodified":1466439740,
     "wof:name":"Prn Medical Transcription",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-80.375671,25.664953,-80.375671,25.664953],
+  "bbox": [
+    -80.375671,
+    25.664953,
+    -80.375671,
+    25.664953
+],
   "geometry": {"coordinates":[-80.375671,25.664953],"type":"Point"}
 }

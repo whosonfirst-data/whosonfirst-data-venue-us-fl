@@ -2,13 +2,14 @@
   "id": 303393113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.20395,28.335678,-82.20395,28.335678",
     "geom:latitude":28.335678,
     "geom:longitude":-82.20395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12152 Fort King Rd",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303393113,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1466437303,
     "wof:name":"Cunningham Construction",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.20395,28.335678,-82.20395,28.335678],
-  "geometry": {"coordinates":[-82.20395,28.335678],"type":"Point"}
+  "bbox": [
+    -82.20395,
+    28.335678,
+    -82.20395,
+    28.335678
+],
+  "geometry": {"coordinates":[-82.20395000000001,28.335678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386984909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.577373,30.206726,-81.577373,30.206726",
     "geom:latitude":30.206726,
     "geom:longitude":-81.577373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8638 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386984909,
-    "wof:lastmodified":1449028801,
+    "wof:lastmodified":1466439265,
     "wof:name":"Direct 4U Jacksonville",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.577373,30.206726,-81.577373,30.206726],
-  "geometry": {"coordinates":[-81.577373,30.206726],"type":"Point"}
+  "bbox": [
+    -81.577373,
+    30.206726,
+    -81.577373,
+    30.206726
+],
+  "geometry": {"coordinates":[-81.57737299999999,30.206726],"type":"Point"}
 }

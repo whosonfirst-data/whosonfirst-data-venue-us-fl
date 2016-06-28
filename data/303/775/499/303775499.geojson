@@ -2,13 +2,14 @@
   "id": 303775499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739625,27.90794,-82.739625,27.90794",
     "geom:latitude":27.90794,
     "geom:longitude":-82.739625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14968 Newport Rd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303775499,
-    "wof:lastmodified":1448999925,
+    "wof:lastmodified":1466443892,
     "wof:name":"Cellular Network",
     "wof:parent_id":85820349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-82.739625,27.90794,-82.739625,27.90794],
+  "bbox": [
+    -82.739625,
+    27.90794,
+    -82.739625,
+    27.90794
+],
   "geometry": {"coordinates":[-82.739625,27.90794],"type":"Point"}
 }

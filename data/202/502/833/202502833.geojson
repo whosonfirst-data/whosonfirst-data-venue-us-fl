@@ -2,13 +2,14 @@
   "id": 202502833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293564,25.863242,-80.293564,25.863242",
     "geom:latitude":25.863242,
     "geom:longitude":-80.293564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 W 45th Pl",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202502833,
-    "wof:lastmodified":1449061287,
+    "wof:lastmodified":1466428390,
     "wof:name":"Best Diagnostic Care Svcs II",
     "wof:parent_id":85878157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioner"
     ]
 },
-  "bbox": [-80.293564,25.863242,-80.293564,25.863242],
+  "bbox": [
+    -80.293564,
+    25.863242,
+    -80.293564,
+    25.863242
+],
   "geometry": {"coordinates":[-80.293564,25.863242],"type":"Point"}
 }

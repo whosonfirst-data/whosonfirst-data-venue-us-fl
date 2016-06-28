@@ -2,13 +2,14 @@
   "id": 303279771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.301258,25.872848,-80.301258,25.872848",
     "geom:latitude":25.872848,
     "geom:longitude":-80.301258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5591 W 9th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303279771,
-    "wof:lastmodified":1448999243,
+    "wof:lastmodified":1466435377,
     "wof:name":"Barata Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.301258,25.872848,-80.301258,25.872848],
+  "bbox": [
+    -80.301258,
+    25.872848,
+    -80.301258,
+    25.872848
+],
   "geometry": {"coordinates":[-80.301258,25.872848],"type":"Point"}
 }

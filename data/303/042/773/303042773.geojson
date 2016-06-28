@@ -2,13 +2,14 @@
   "id": 303042773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.200239,30.446684,-87.200239,30.446684",
     "geom:latitude":30.446684,
     "geom:longitude":-87.200239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 N 17th Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303042773,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466431185,
     "wof:name":"Entertainment Publications",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-87.200239,30.446684,-87.200239,30.446684],
+  "bbox": [
+    -87.200239,
+    30.446684,
+    -87.200239,
+    30.446684
+],
   "geometry": {"coordinates":[-87.200239,30.446684],"type":"Point"}
 }

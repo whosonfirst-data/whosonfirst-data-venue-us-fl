@@ -2,13 +2,14 @@
   "id": 220132529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388965,27.289205,-80.388965,27.289205",
     "geom:latitude":27.289205,
     "geom:longitude":-80.388965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 SW Cloverleaf St",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220132529,
-    "wof:lastmodified":1449074416,
+    "wof:lastmodified":1466428677,
     "wof:name":"American Development Corp",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.388965,27.289205,-80.388965,27.289205],
+  "bbox": [
+    -80.388965,
+    27.289205,
+    -80.388965,
+    27.289205
+],
   "geometry": {"coordinates":[-80.388965,27.289205],"type":"Point"}
 }

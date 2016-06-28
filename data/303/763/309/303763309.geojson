@@ -2,13 +2,14 @@
   "id": 303763309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137634,26.178786,-80.137634,26.178786",
     "geom:latitude":26.178786,
     "geom:longitude":-80.137634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 NE 7th Ave",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303763309,
-    "wof:lastmodified":1449000557,
+    "wof:lastmodified":1466443685,
     "wof:name":"Electrical Lighting & Sinage",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-80.137634,26.178786,-80.137634,26.178786],
-  "geometry": {"coordinates":[-80.137634,26.178786],"type":"Point"}
+  "bbox": [
+    -80.137634,
+    26.178786,
+    -80.137634,
+    26.178786
+],
+  "geometry": {"coordinates":[-80.13763400000001,26.178786],"type":"Point"}
 }

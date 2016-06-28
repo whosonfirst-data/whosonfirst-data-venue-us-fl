@@ -2,13 +2,14 @@
   "id": 303073885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328832,25.821682,-80.328832,25.821682",
     "geom:latitude":25.821682,
     "geom:longitude":-80.328832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8075 NW 53rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303073885,
-    "wof:lastmodified":1448998456,
+    "wof:lastmodified":1466431741,
     "wof:name":"Investigation Office/Special",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigation"
     ]
 },
-  "bbox": [-80.328832,25.821682,-80.328832,25.821682],
-  "geometry": {"coordinates":[-80.328832,25.821682],"type":"Point"}
+  "bbox": [
+    -80.328832,
+    25.821682,
+    -80.328832,
+    25.821682
+],
+  "geometry": {"coordinates":[-80.32883200000001,25.821682],"type":"Point"}
 }

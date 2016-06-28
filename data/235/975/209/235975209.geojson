@@ -2,13 +2,14 @@
   "id": 235975209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404244,30.333363,-81.404244,30.333363",
     "geom:latitude":30.333363,
     "geom:longitude":-81.404244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 Selva Lakes Cir",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235975209,
-    "wof:lastmodified":1449008554,
+    "wof:lastmodified":1466429030,
     "wof:name":"Metron-Athene Inc",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-81.404244,30.333363,-81.404244,30.333363],
-  "geometry": {"coordinates":[-81.404244,30.333363],"type":"Point"}
+  "bbox": [
+    -81.404244,
+    30.333363,
+    -81.404244,
+    30.333363
+],
+  "geometry": {"coordinates":[-81.40424400000001,30.333363],"type":"Point"}
 }

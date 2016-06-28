@@ -2,13 +2,14 @@
   "id": 320567325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459725,30.088578,-81.459725,30.088578",
     "geom:latitude":30.088578,
     "geom:longitude":-81.459725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10840 Old Dixie Hwy",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320567325,
-    "wof:lastmodified":1449014995,
+    "wof:lastmodified":1466443223,
     "wof:name":"Dexter Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.459725,30.088578,-81.459725,30.088578],
-  "geometry": {"coordinates":[-81.459725,30.088578],"type":"Point"}
+  "bbox": [
+    -81.459725,
+    30.088578,
+    -81.459725,
+    30.088578
+],
+  "geometry": {"coordinates":[-81.45972500000001,30.088578],"type":"Point"}
 }

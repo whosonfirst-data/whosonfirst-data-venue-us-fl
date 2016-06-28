@@ -2,13 +2,14 @@
   "id": 320035029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097982,26.386107,-80.097982,26.386107",
     "geom:latitude":26.386107,
     "geom:longitude":-80.097982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 NW Spanish River Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320035029,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466433991,
     "wof:name":"Fish & Wildlife Conservation",
     "wof:parent_id":85888559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-80.097982,26.386107,-80.097982,26.386107],
+  "bbox": [
+    -80.097982,
+    26.386107,
+    -80.097982,
+    26.386107
+],
   "geometry": {"coordinates":[-80.097982,26.386107],"type":"Point"}
 }

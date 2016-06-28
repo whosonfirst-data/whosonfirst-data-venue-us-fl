@@ -2,13 +2,14 @@
   "id": 303993029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.548972,30.729906,-86.548972,30.729906",
     "geom:latitude":30.729906,
     "geom:longitude":-86.548972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 Alysheba Dr",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303993029,
-    "wof:lastmodified":1448999203,
+    "wof:lastmodified":1466447156,
     "wof:name":"Center Anesthesia",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "anesthetist"
     ]
 },
-  "bbox": [-86.548972,30.729906,-86.548972,30.729906],
-  "geometry": {"coordinates":[-86.548972,30.729906],"type":"Point"}
+  "bbox": [
+    -86.548972,
+    30.729906,
+    -86.548972,
+    30.729906
+],
+  "geometry": {"coordinates":[-86.54897200000001,30.729906],"type":"Point"}
 }

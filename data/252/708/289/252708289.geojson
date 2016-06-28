@@ -2,13 +2,14 @@
   "id": 252708289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.277731,27.983222,-82.277731,27.983222",
     "geom:latitude":27.983222,
     "geom:longitude":-82.277731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 S Kingsway Rd",
     "sg:city":"Seffner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252708289,
-    "wof:lastmodified":1449005583,
+    "wof:lastmodified":1466428437,
     "wof:name":"US Post Office",
     "wof:parent_id":85889587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.277731,27.983222,-82.277731,27.983222],
+  "bbox": [
+    -82.277731,
+    27.983222,
+    -82.277731,
+    27.983222
+],
   "geometry": {"coordinates":[-82.277731,27.983222],"type":"Point"}
 }

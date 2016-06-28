@@ -2,13 +2,14 @@
   "id": 202664343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.420145,28.665479,-81.420145,28.665479",
     "geom:latitude":28.665479,
     "geom:longitude":-81.420145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 W State Rd 436",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202664343,
-    "wof:lastmodified":1449061048,
+    "wof:lastmodified":1466430524,
     "wof:name":"Fazolis",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.420145,28.665479,-81.420145,28.665479],
-  "geometry": {"coordinates":[-81.420145,28.665479],"type":"Point"}
+  "bbox": [
+    -81.420145,
+    28.665479,
+    -81.420145,
+    28.665479
+],
+  "geometry": {"coordinates":[-81.42014500000001,28.665479],"type":"Point"}
 }

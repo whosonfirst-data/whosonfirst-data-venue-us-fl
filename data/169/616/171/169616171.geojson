@@ -2,13 +2,14 @@
   "id": 169616171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583103,30.220701,-81.583103,30.220701",
     "geom:latitude":30.220701,
     "geom:longitude":-81.583103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8354 Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169616171,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466442518,
     "wof:name":"Deerwood Dental Ctr",
     "wof:parent_id":85870717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.583103,30.220701,-81.583103,30.220701],
-  "geometry": {"coordinates":[-81.583103,30.220701],"type":"Point"}
+  "bbox": [
+    -81.583103,
+    30.220701,
+    -81.583103,
+    30.220701
+],
+  "geometry": {"coordinates":[-81.58310299999999,30.220701],"type":"Point"}
 }

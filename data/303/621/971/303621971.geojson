@@ -2,13 +2,14 @@
   "id": 303621971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125399,26.140846,-80.125399,26.140846",
     "geom:latitude":26.140846,
     "geom:longitude":-80.125399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 NE 12th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303621971,
-    "wof:lastmodified":1449000275,
+    "wof:lastmodified":1466441231,
     "wof:name":"Swab Deck DOT Com",
     "wof:parent_id":85877507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-80.125399,26.140846,-80.125399,26.140846],
+  "bbox": [
+    -80.125399,
+    26.140846,
+    -80.125399,
+    26.140846
+],
   "geometry": {"coordinates":[-80.125399,26.140846],"type":"Point"}
 }

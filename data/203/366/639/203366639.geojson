@@ -2,13 +2,14 @@
   "id": 203366639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.685495,28.840135,-81.685495,28.840135",
     "geom:latitude":28.840135,
     "geom:longitude":-81.685495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Bay St",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203366639,
-    "wof:lastmodified":1449026352,
+    "wof:lastmodified":1466430993,
     "wof:name":"Central Florida Therapy Spec",
     "wof:parent_id":85888779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-81.685495,28.840135,-81.685495,28.840135],
+  "bbox": [
+    -81.685495,
+    28.840135,
+    -81.685495,
+    28.840135
+],
   "geometry": {"coordinates":[-81.685495,28.840135],"type":"Point"}
 }

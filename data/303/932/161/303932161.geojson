@@ -2,13 +2,14 @@
   "id": 303932161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.38347,27.638129,-80.38347,27.638129",
     "geom:latitude":27.638129,
     "geom:longitude":-80.38347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 5th Ave",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303932161,
-    "wof:lastmodified":1448999024,
+    "wof:lastmodified":1466446652,
     "wof:name":"Fifth Avenue Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.38347,27.638129,-80.38347,27.638129],
+  "bbox": [
+    -80.38347,
+    27.638129,
+    -80.38347,
+    27.638129
+],
   "geometry": {"coordinates":[-80.38347,27.638129],"type":"Point"}
 }

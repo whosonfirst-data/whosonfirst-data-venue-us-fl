@@ -2,13 +2,14 @@
   "id": 269580003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.132477,30.364714,-87.132477,30.364714",
     "geom:latitude":30.364714,
     "geom:longitude":-87.132477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Gulf Breeze Pkwy",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269580003,
-    "wof:lastmodified":1449037734,
+    "wof:lastmodified":1466430193,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-87.132477,30.364714,-87.132477,30.364714],
-  "geometry": {"coordinates":[-87.132477,30.364714],"type":"Point"}
+  "bbox": [
+    -87.132477,
+    30.364714,
+    -87.132477,
+    30.364714
+],
+  "geometry": {"coordinates":[-87.13247699999999,30.364714],"type":"Point"}
 }

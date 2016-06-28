@@ -2,13 +2,14 @@
   "id": 186628205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174633,26.165493,-80.174633,26.165493",
     "geom:latitude":26.165493,
     "geom:longitude":-80.174633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 W Oakland Park Blvd",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186628205,
-    "wof:lastmodified":1449052504,
+    "wof:lastmodified":1466434549,
     "wof:name":"Smith Aerial Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.174633,26.165493,-80.174633,26.165493],
+  "bbox": [
+    -80.174633,
+    26.165493,
+    -80.174633,
+    26.165493
+],
   "geometry": {"coordinates":[-80.174633,26.165493],"type":"Point"}
 }

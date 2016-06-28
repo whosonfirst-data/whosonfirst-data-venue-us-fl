@@ -2,13 +2,14 @@
   "id": 386933759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.953361,28.076934,-81.953361,28.076934",
     "geom:latitude":28.076934,
     "geom:longitude":-81.953361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Lakeland Hills Blvd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386933759,
-    "wof:lastmodified":1449028683,
+    "wof:lastmodified":1466438452,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85889067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.953361,28.076934,-81.953361,28.076934],
+  "bbox": [
+    -81.953361,
+    28.076934,
+    -81.953361,
+    28.076934
+],
   "geometry": {"coordinates":[-81.953361,28.076934],"type":"Point"}
 }

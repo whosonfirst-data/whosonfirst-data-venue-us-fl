@@ -2,13 +2,14 @@
   "id": 320294343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352741,29.828114,-81.352741,29.828114",
     "geom:latitude":29.828114,
     "geom:longitude":-81.352741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 Wildwood Dr",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320294343,
-    "wof:lastmodified":1449013922,
+    "wof:lastmodified":1466438416,
     "wof:name":"Treaty Park",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.352741,29.828114,-81.352741,29.828114],
-  "geometry": {"coordinates":[-81.352741,29.828114],"type":"Point"}
+  "bbox": [
+    -81.352741,
+    29.828114,
+    -81.352741,
+    29.828114
+],
+  "geometry": {"coordinates":[-81.35274099999999,29.828114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185650037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.380345,27.053658,-82.380345,27.053658",
     "geom:latitude":27.053658,
     "geom:longitude":-82.380345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Venice Blvd",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185650037,
-    "wof:lastmodified":1449007597,
+    "wof:lastmodified":1466444579,
     "wof:name":"Venice East Golf Club",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-82.380345,27.053658,-82.380345,27.053658],
-  "geometry": {"coordinates":[-82.380345,27.053658],"type":"Point"}
+  "bbox": [
+    -82.380345,
+    27.053658,
+    -82.380345,
+    27.053658
+],
+  "geometry": {"coordinates":[-82.38034500000001,27.053658],"type":"Point"}
 }

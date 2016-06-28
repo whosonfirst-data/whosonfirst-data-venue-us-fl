@@ -2,13 +2,14 @@
   "id": 404110483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.330791,25.867722,-80.330791,25.867722",
     "geom:latitude":25.867722,
     "geom:longitude":-80.330791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Royal Palm Rd",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404110483,
-    "wof:lastmodified":1449039409,
+    "wof:lastmodified":1466441947,
     "wof:name":"Martin National Produce",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-80.330791,25.867722,-80.330791,25.867722],
+  "bbox": [
+    -80.330791,
+    25.867722,
+    -80.330791,
+    25.867722
+],
   "geometry": {"coordinates":[-80.330791,25.867722],"type":"Point"}
 }

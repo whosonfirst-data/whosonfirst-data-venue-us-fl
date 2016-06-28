@@ -2,13 +2,14 @@
   "id": 404007889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.65054,27.781245,-82.65054,27.781245",
     "geom:latitude":27.781245,
     "geom:longitude":-82.65054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 9th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404007889,
-    "wof:lastmodified":1449040102,
+    "wof:lastmodified":1466440389,
     "wof:name":"Dudley & Armington",
     "wof:parent_id":85868435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.65054,27.781245,-82.65054,27.781245],
-  "geometry": {"coordinates":[-82.65054,27.781245],"type":"Point"}
+  "bbox": [
+    -82.65054,
+    27.781245,
+    -82.65054,
+    27.781245
+],
+  "geometry": {"coordinates":[-82.65054000000001,27.781245],"type":"Point"}
 }

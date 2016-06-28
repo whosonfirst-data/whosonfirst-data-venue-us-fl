@@ -2,13 +2,14 @@
   "id": 220031503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260462,25.823403,-80.260462,25.823403",
     "geom:latitude":25.823403,
     "geom:longitude":-80.260462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Hialeah Dr",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220031503,
-    "wof:lastmodified":1449074335,
+    "wof:lastmodified":1466444373,
     "wof:name":"Basic Warehouse Equipment",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "handling"
     ]
 },
-  "bbox": [-80.260462,25.823403,-80.260462,25.823403],
+  "bbox": [
+    -80.260462,
+    25.823403,
+    -80.260462,
+    25.823403
+],
   "geometry": {"coordinates":[-80.260462,25.823403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354102661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102799,26.359522,-80.102799,26.359522",
     "geom:latitude":26.359522,
     "geom:longitude":-80.102799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Meadows Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354102661,
-    "wof:lastmodified":1449067548,
+    "wof:lastmodified":1466437669,
     "wof:name":"Boca Center For Health",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.102799,26.359522,-80.102799,26.359522],
+  "bbox": [
+    -80.102799,
+    26.359522,
+    -80.102799,
+    26.359522
+],
   "geometry": {"coordinates":[-80.102799,26.359522],"type":"Point"}
 }

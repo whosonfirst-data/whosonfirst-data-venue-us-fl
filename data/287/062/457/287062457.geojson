@@ -2,13 +2,14 @@
   "id": 287062457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261997,25.733096,-80.261997,25.733096",
     "geom:latitude":25.733096,
     "geom:longitude":-80.261997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Altara Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287062457,
-    "wof:lastmodified":1449001527,
+    "wof:lastmodified":1466430917,
     "wof:name":"Welcome USA of Florida Inc",
     "wof:parent_id":85889185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.261997,25.733096,-80.261997,25.733096],
-  "geometry": {"coordinates":[-80.261997,25.733096],"type":"Point"}
+  "bbox": [
+    -80.261997,
+    25.733096,
+    -80.261997,
+    25.733096
+],
+  "geometry": {"coordinates":[-80.26199699999999,25.733096],"type":"Point"}
 }

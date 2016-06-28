@@ -2,13 +2,14 @@
   "id": 253215505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.392075,24.678225,-81.392075,24.678225",
     "geom:latitude":24.678225,
     "geom:longitude":-81.392075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28141 Helen Ave",
     "sg:city":"Summerland Key",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253215505,
-    "wof:lastmodified":1449065252,
+    "wof:lastmodified":1466430939,
     "wof:name":"Interntnal Assoc Telecommuters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.392075,24.678225,-81.392075,24.678225],
-  "geometry": {"coordinates":[-81.392075,24.678225],"type":"Point"}
+  "bbox": [
+    -81.392075,
+    24.678225,
+    -81.392075,
+    24.678225
+],
+  "geometry": {"coordinates":[-81.39207500000001,24.678225],"type":"Point"}
 }

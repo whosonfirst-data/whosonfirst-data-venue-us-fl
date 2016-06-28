@@ -2,13 +2,14 @@
   "id": 370806685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798718,26.186096,-81.798718,26.186096",
     "geom:latitude":26.186096,
     "geom:longitude":-81.798718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Highpoint Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370806685,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1466446605,
     "wof:name":"Simon Dental Lab",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.798718,26.186096,-81.798718,26.186096],
-  "geometry": {"coordinates":[-81.798718,26.186096],"type":"Point"}
+  "bbox": [
+    -81.798718,
+    26.186096,
+    -81.798718,
+    26.186096
+],
+  "geometry": {"coordinates":[-81.79871799999999,26.186096],"type":"Point"}
 }

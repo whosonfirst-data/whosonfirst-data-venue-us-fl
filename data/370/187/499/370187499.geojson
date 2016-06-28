@@ -2,13 +2,14 @@
   "id": 370187499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.555929,27.40631,-82.555929,27.40631",
     "geom:latitude":27.40631,
     "geom:longitude":-82.555929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Tallevast Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370187499,
-    "wof:lastmodified":1449029589,
+    "wof:lastmodified":1466437025,
     "wof:name":"Federal Warehouse 5",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.555929,27.40631,-82.555929,27.40631],
-  "geometry": {"coordinates":[-82.555929,27.40631],"type":"Point"}
+  "bbox": [
+    -82.555929,
+    27.40631,
+    -82.555929,
+    27.40631
+],
+  "geometry": {"coordinates":[-82.55592900000001,27.40631],"type":"Point"}
 }

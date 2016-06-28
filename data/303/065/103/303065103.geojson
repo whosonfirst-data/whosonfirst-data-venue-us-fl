@@ -2,13 +2,14 @@
   "id": 303065103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.461081,27.408356,-82.461081,27.408356",
     "geom:latitude":27.408356,
     "geom:longitude":-82.461081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7428 Green St",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303065103,
-    "wof:lastmodified":1449000536,
+    "wof:lastmodified":1466431583,
     "wof:name":"Inland Homes Brandon",
     "wof:parent_id":85888579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.461081,27.408356,-82.461081,27.408356],
-  "geometry": {"coordinates":[-82.461081,27.408356],"type":"Point"}
+  "bbox": [
+    -82.461081,
+    27.408356,
+    -82.461081,
+    27.408356
+],
+  "geometry": {"coordinates":[-82.46108099999999,27.408356],"type":"Point"}
 }

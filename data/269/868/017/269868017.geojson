@@ -2,13 +2,14 @@
   "id": 269868017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.372506,29.646695,-82.372506,29.646695",
     "geom:latitude":29.646695,
     "geom:longitude":-82.372506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 SW 34th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269868017,
-    "wof:lastmodified":1449036235,
+    "wof:lastmodified":1466435270,
     "wof:name":"Point West Apts",
     "wof:parent_id":85877645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.372506,29.646695,-82.372506,29.646695],
+  "bbox": [
+    -82.372506,
+    29.646695,
+    -82.372506,
+    29.646695
+],
   "geometry": {"coordinates":[-82.372506,29.646695],"type":"Point"}
 }

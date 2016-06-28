@@ -2,13 +2,14 @@
   "id": 202662287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.402747,28.643806,-81.402747,28.643806",
     "geom:latitude":28.643806,
     "geom:longitude":-81.402747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9638 McNorton Rd",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202662287,
-    "wof:lastmodified":1449061805,
+    "wof:lastmodified":1466430501,
     "wof:name":"Curtis Total Lawn Care",
     "wof:parent_id":85889357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-81.402747,28.643806,-81.402747,28.643806],
-  "geometry": {"coordinates":[-81.402747,28.643806],"type":"Point"}
+  "bbox": [
+    -81.402747,
+    28.643806,
+    -81.402747,
+    28.643806
+],
+  "geometry": {"coordinates":[-81.40274700000001,28.643806],"type":"Point"}
 }

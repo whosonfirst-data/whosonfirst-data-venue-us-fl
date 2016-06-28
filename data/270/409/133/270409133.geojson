@@ -2,13 +2,14 @@
   "id": 270409133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017211,29.207867,-81.017211,29.207867",
     "geom:latitude":29.207867,
     "geom:longitude":-81.017211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Beach St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270409133,
-    "wof:lastmodified":1449009649,
+    "wof:lastmodified":1466436460,
     "wof:name":"Daytona Beach Fire Dept",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.017211,29.207867,-81.017211,29.207867],
+  "bbox": [
+    -81.017211,
+    29.207867,
+    -81.017211,
+    29.207867
+],
   "geometry": {"coordinates":[-81.017211,29.207867],"type":"Point"}
 }

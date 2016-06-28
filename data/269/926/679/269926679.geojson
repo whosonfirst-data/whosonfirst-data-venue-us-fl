@@ -2,13 +2,14 @@
   "id": 269926679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.026251,26.560584,-82.026251,26.560584",
     "geom:latitude":26.560584,
     "geom:longitude":-82.026251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4814 SW 25th Ct",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269926679,
-    "wof:lastmodified":1449036977,
+    "wof:lastmodified":1466436276,
     "wof:name":"Backstreet Scooters",
     "wof:parent_id":85843293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-82.026251,26.560584,-82.026251,26.560584],
+  "bbox": [
+    -82.026251,
+    26.560584,
+    -82.026251,
+    26.560584
+],
   "geometry": {"coordinates":[-82.026251,26.560584],"type":"Point"}
 }

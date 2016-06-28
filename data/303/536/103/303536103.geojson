@@ -2,13 +2,14 @@
   "id": 303536103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.347771,29.747483,-81.347771,29.747483",
     "geom:latitude":29.747483,
     "geom:longitude":-81.347771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 State Hwy 206 W",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303536103,
-    "wof:lastmodified":1448999577,
+    "wof:lastmodified":1466439783,
     "wof:name":"Flying J Country Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.347771,29.747483,-81.347771,29.747483],
-  "geometry": {"coordinates":[-81.347771,29.747483],"type":"Point"}
+  "bbox": [
+    -81.347771,
+    29.747483,
+    -81.347771,
+    29.747483
+],
+  "geometry": {"coordinates":[-81.34777099999999,29.747483],"type":"Point"}
 }

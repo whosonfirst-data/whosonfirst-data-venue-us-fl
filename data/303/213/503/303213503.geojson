@@ -2,13 +2,14 @@
   "id": 303213503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076207,26.39029,-80.076207,26.39029",
     "geom:latitude":26.39029,
     "geom:longitude":-80.076207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Sanctuary Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303213503,
-    "wof:lastmodified":1448998147,
+    "wof:lastmodified":1466434225,
     "wof:name":"Sanctuary Gate House",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-80.076207,26.39029,-80.076207,26.39029],
+  "bbox": [
+    -80.076207,
+    26.39029,
+    -80.076207,
+    26.39029
+],
   "geometry": {"coordinates":[-80.076207,26.39029],"type":"Point"}
 }

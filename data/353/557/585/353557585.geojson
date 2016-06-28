@@ -2,13 +2,14 @@
   "id": 353557585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137566,26.13982,-80.137566,26.13982",
     "geom:latitude":26.13982,
     "geom:longitude":-80.137566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 NE 6th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353557585,
-    "wof:lastmodified":1449020064,
+    "wof:lastmodified":1466437077,
     "wof:name":"Boston Auto Transport Inc",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "transporter"
     ]
 },
-  "bbox": [-80.137566,26.13982,-80.137566,26.13982],
-  "geometry": {"coordinates":[-80.137566,26.13982],"type":"Point"}
+  "bbox": [
+    -80.137566,
+    26.13982,
+    -80.137566,
+    26.13982
+],
+  "geometry": {"coordinates":[-80.13756600000001,26.13982],"type":"Point"}
 }

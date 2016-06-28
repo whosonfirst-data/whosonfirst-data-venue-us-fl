@@ -2,13 +2,14 @@
   "id": 303851137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742759,30.321276,-81.742759,30.321276",
     "geom:latitude":30.321276,
     "geom:longitude":-81.742759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Highway Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303851137,
-    "wof:lastmodified":1448999729,
+    "wof:lastmodified":1466445186,
     "wof:name":"Available Movers",
     "wof:parent_id":85817537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-81.742759,30.321276,-81.742759,30.321276],
-  "geometry": {"coordinates":[-81.742759,30.321276],"type":"Point"}
+  "bbox": [
+    -81.742759,
+    30.321276,
+    -81.742759,
+    30.321276
+],
+  "geometry": {"coordinates":[-81.74275900000001,30.321276],"type":"Point"}
 }

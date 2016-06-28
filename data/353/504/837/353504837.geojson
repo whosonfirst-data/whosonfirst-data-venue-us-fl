@@ -2,13 +2,14 @@
   "id": 353504837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130421,26.171412,-80.130421,26.171412",
     "geom:latitude":26.171412,
     "geom:longitude":-80.130421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 NE 12th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353504837,
-    "wof:lastmodified":1449018689,
+    "wof:lastmodified":1466436219,
     "wof:name":"Fort Lauderdale Record Pool",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "promoter"
     ]
 },
-  "bbox": [-80.130421,26.171412,-80.130421,26.171412],
+  "bbox": [
+    -80.130421,
+    26.171412,
+    -80.130421,
+    26.171412
+],
   "geometry": {"coordinates":[-80.130421,26.171412],"type":"Point"}
 }

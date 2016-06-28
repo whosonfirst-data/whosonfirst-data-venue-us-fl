@@ -2,13 +2,14 @@
   "id": 185988275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.392308,28.751269,-81.392308,28.751269",
     "geom:latitude":28.751269,
     "geom:longitude":-81.392308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3276 Lakeview Oaks Dr",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185988275,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466430943,
     "wof:name":"Software First Inc",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "provides"
     ]
 },
-  "bbox": [-81.392308,28.751269,-81.392308,28.751269],
+  "bbox": [
+    -81.392308,
+    28.751269,
+    -81.392308,
+    28.751269
+],
   "geometry": {"coordinates":[-81.392308,28.751269],"type":"Point"}
 }

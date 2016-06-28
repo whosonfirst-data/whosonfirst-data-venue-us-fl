@@ -2,13 +2,14 @@
   "id": 303771203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26701,27.221981,-80.26701,27.221981",
     "geom:latitude":27.221981,
     "geom:longitude":-80.26701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1372 NW Crescent Dr",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303771203,
-    "wof:lastmodified":1448999447,
+    "wof:lastmodified":1466443825,
     "wof:name":"Brooks Services",
     "wof:parent_id":85888939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.26701,27.221981,-80.26701,27.221981],
+  "bbox": [
+    -80.26701,
+    27.221981,
+    -80.26701,
+    27.221981
+],
   "geometry": {"coordinates":[-80.26701,27.221981],"type":"Point"}
 }

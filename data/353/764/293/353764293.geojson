@@ -2,13 +2,14 @@
   "id": 353764293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.795318,27.855559,-82.795318,27.855559",
     "geom:latitude":27.855559,
     "geom:longitude":-82.795318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9199 113th St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353764293,
-    "wof:lastmodified":1449020664,
+    "wof:lastmodified":1466440376,
     "wof:name":"Seminole City Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-82.795318,27.855559,-82.795318,27.855559],
-  "geometry": {"coordinates":[-82.795318,27.855559],"type":"Point"}
+  "bbox": [
+    -82.795318,
+    27.855559,
+    -82.795318,
+    27.855559
+],
+  "geometry": {"coordinates":[-82.79531799999999,27.855559],"type":"Point"}
 }

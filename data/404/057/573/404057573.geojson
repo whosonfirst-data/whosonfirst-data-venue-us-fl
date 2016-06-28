@@ -2,13 +2,14 @@
   "id": 404057573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.441289,28.71198,-81.441289,28.71198",
     "geom:latitude":28.71198,
     "geom:longitude":-81.441289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3835 Watercrest Dr",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404057573,
-    "wof:lastmodified":1449039631,
+    "wof:lastmodified":1466441139,
     "wof:name":"Tempus Software",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.441289,28.71198,-81.441289,28.71198],
+  "bbox": [
+    -81.441289,
+    28.71198,
+    -81.441289,
+    28.71198
+],
   "geometry": {"coordinates":[-81.441289,28.71198],"type":"Point"}
 }

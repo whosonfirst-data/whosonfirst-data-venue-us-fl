@@ -2,13 +2,14 @@
   "id": 303803553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600631,30.634861,-81.600631,30.634861",
     "geom:latitude":30.634861,
     "geom:longitude":-81.600631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Palmetto St",
     "sg:city":"Yulee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303803553,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466444366,
     "wof:name":"Power Glide Flight Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.600631,30.634861,-81.600631,30.634861],
-  "geometry": {"coordinates":[-81.600631,30.634861],"type":"Point"}
+  "bbox": [
+    -81.600631,
+    30.634861,
+    -81.600631,
+    30.634861
+],
+  "geometry": {"coordinates":[-81.60063100000001,30.634861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403845905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06311,26.616146,-80.06311,26.616146",
     "geom:latitude":26.616146,
     "geom:longitude":-80.06311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Lake Ave",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403845905,
-    "wof:lastmodified":1449054846,
+    "wof:lastmodified":1466441889,
     "wof:name":"A Touch Of Thai",
     "wof:parent_id":85829789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.06311,26.616146,-80.06311,26.616146],
-  "geometry": {"coordinates":[-80.06311,26.616146],"type":"Point"}
+  "bbox": [
+    -80.06311,
+    26.616146,
+    -80.06311,
+    26.616146
+],
+  "geometry": {"coordinates":[-80.06310999999999,26.616146],"type":"Point"}
 }

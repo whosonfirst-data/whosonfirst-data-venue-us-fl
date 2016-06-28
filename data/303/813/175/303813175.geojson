@@ -2,13 +2,14 @@
   "id": 303813175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31758,26.768913,-80.31758,26.768913",
     "geom:latitude":26.768913,
     "geom:longitude":-80.31758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17388 62nd Rd N",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303813175,
-    "wof:lastmodified":1448998741,
+    "wof:lastmodified":1466444533,
     "wof:name":"Tammy Baer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.31758,26.768913,-80.31758,26.768913],
-  "geometry": {"coordinates":[-80.31758,26.768913],"type":"Point"}
+  "bbox": [
+    -80.31758,
+    26.768913,
+    -80.31758,
+    26.768913
+],
+  "geometry": {"coordinates":[-80.31758000000001,26.768913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186589959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.390688,28.406954,-81.390688,28.406954",
     "geom:latitude":28.406954,
     "geom:longitude":-81.390688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10999 Rocket Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186589959,
-    "wof:lastmodified":1449051808,
+    "wof:lastmodified":1466434016,
     "wof:name":"American Southern Wine & Sprts",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-81.390688,28.406954,-81.390688,28.406954],
+  "bbox": [
+    -81.390688,
+    28.406954,
+    -81.390688,
+    28.406954
+],
   "geometry": {"coordinates":[-81.390688,28.406954],"type":"Point"}
 }

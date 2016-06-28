@@ -2,13 +2,14 @@
   "id": 336751909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525979,30.300758,-81.525979,30.300758",
     "geom:latitude":30.300758,
     "geom:longitude":-81.525979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 Saint Johns Bluff Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336751909,
-    "wof:lastmodified":1448996978,
+    "wof:lastmodified":1466437604,
     "wof:name":"Global Americard",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.525979,30.300758,-81.525979,30.300758],
-  "geometry": {"coordinates":[-81.525979,30.300758],"type":"Point"}
+  "bbox": [
+    -81.525979,
+    30.300758,
+    -81.525979,
+    30.300758
+],
+  "geometry": {"coordinates":[-81.52597900000001,30.300758],"type":"Point"}
 }

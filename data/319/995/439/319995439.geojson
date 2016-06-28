@@ -2,13 +2,14 @@
   "id": 319995439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.58151,30.20602,-81.58151,30.20602",
     "geom:latitude":30.20602,
     "geom:longitude":-81.58151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 Sunbeam Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319995439,
-    "wof:lastmodified":1449024799,
+    "wof:lastmodified":1466435916,
     "wof:name":"Harry Hobbies & Collectibles",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.58151,30.20602,-81.58151,30.20602],
-  "geometry": {"coordinates":[-81.58151,30.20602],"type":"Point"}
+  "bbox": [
+    -81.58151,
+    30.20602,
+    -81.58151,
+    30.20602
+],
+  "geometry": {"coordinates":[-81.58150999999999,30.20602],"type":"Point"}
 }

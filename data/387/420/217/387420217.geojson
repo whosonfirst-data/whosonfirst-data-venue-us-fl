@@ -2,13 +2,14 @@
   "id": 387420217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187856,25.800995,-80.187856,25.800995",
     "geom:latitude":25.800995,
     "geom:longitude":-80.187856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 NE 25th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387420217,
-    "wof:lastmodified":1449057922,
+    "wof:lastmodified":1466445148,
     "wof:name":"Morgan Electric",
     "wof:parent_id":85869211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.187856,25.800995,-80.187856,25.800995],
+  "bbox": [
+    -80.187856,
+    25.800995,
+    -80.187856,
+    25.800995
+],
   "geometry": {"coordinates":[-80.187856,25.800995],"type":"Point"}
 }

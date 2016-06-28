@@ -2,13 +2,14 @@
   "id": 370280983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15081,26.35234,-80.15081,26.35234",
     "geom:latitude":26.35234,
     "geom:longitude":-80.15081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6807 Bridlewood Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370280983,
-    "wof:lastmodified":1449030747,
+    "wof:lastmodified":1466438478,
     "wof:name":"Brian Mullane",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.15081,26.35234,-80.15081,26.35234],
-  "geometry": {"coordinates":[-80.15081,26.35234],"type":"Point"}
+  "bbox": [
+    -80.15081,
+    26.35234,
+    -80.15081,
+    26.35234
+],
+  "geometry": {"coordinates":[-80.15081000000001,26.35234],"type":"Point"}
 }

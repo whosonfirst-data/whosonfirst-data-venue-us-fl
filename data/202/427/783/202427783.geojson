@@ -2,13 +2,14 @@
   "id": 202427783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313141,25.802027,-80.313141,25.802027",
     "geom:latitude":25.802027,
     "geom:longitude":-80.313141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202427783,
-    "wof:lastmodified":1449060876,
+    "wof:lastmodified":1466444226,
     "wof:name":"Florida International Seafood",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [-80.313141,25.802027,-80.313141,25.802027],
+  "bbox": [
+    -80.313141,
+    25.802027,
+    -80.313141,
+    25.802027
+],
   "geometry": {"coordinates":[-80.313141,25.802027],"type":"Point"}
 }

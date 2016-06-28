@@ -2,13 +2,14 @@
   "id": 219379901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.206109,28.582818,-81.206109,28.582818",
     "geom:latitude":28.582818,
     "geom:longitude":-81.206109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3074 Southern Pine Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219379901,
-    "wof:lastmodified":1449072432,
+    "wof:lastmodified":1466429881,
     "wof:name":"Forest Highlands",
     "wof:parent_id":85889401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-81.206109,28.582818,-81.206109,28.582818],
+  "bbox": [
+    -81.206109,
+    28.582818,
+    -81.206109,
+    28.582818
+],
   "geometry": {"coordinates":[-81.206109,28.582818],"type":"Point"}
 }

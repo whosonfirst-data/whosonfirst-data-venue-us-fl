@@ -2,13 +2,14 @@
   "id": 185649913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.158808,28.649331,-81.158808,28.649331",
     "geom:latitude":28.649331,
     "geom:longitude":-81.158808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 Whisper Oaks Ct",
     "sg:city":"Chuluota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185649913,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466444543,
     "wof:name":"First National Processing",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-81.158808,28.649331,-81.158808,28.649331],
-  "geometry": {"coordinates":[-81.158808,28.649331],"type":"Point"}
+  "bbox": [
+    -81.158808,
+    28.649331,
+    -81.158808,
+    28.649331
+],
+  "geometry": {"coordinates":[-81.15880799999999,28.649331],"type":"Point"}
 }

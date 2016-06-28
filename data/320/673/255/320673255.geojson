@@ -2,13 +2,14 @@
   "id": 320673255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.561116,30.216683,-81.561116,30.216683",
     "geom:latitude":30.216683,
     "geom:longitude":-81.561116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9480 Princeton Square Blvd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320673255,
-    "wof:lastmodified":1449012717,
+    "wof:lastmodified":1466445030,
     "wof:name":"C C Construction Cleaning",
     "wof:parent_id":85870729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.561116,30.216683,-81.561116,30.216683],
+  "bbox": [
+    -81.561116,
+    30.216683,
+    -81.561116,
+    30.216683
+],
   "geometry": {"coordinates":[-81.561116,30.216683],"type":"Point"}
 }

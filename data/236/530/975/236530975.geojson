@@ -2,13 +2,14 @@
   "id": 236530975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.441291,27.26747,-82.441291,27.26747",
     "geom:latitude":27.26747,
     "geom:longitude":-82.441291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6108 Canary St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236530975,
-    "wof:lastmodified":1449003406,
+    "wof:lastmodified":1466435912,
     "wof:name":"Rick Murch Pavers Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.441291,27.26747,-82.441291,27.26747],
-  "geometry": {"coordinates":[-82.441291,27.26747],"type":"Point"}
+  "bbox": [
+    -82.441291,
+    27.26747,
+    -82.441291,
+    27.26747
+],
+  "geometry": {"coordinates":[-82.44129100000001,27.26747],"type":"Point"}
 }

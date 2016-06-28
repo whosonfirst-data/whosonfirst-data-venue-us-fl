@@ -2,13 +2,14 @@
   "id": 370270259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.059744,29.271945,-81.059744,29.271945",
     "geom:latitude":29.271945,
     "geom:longitude":-81.059744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Coolidge Ave",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370270259,
-    "wof:lastmodified":1449029691,
+    "wof:lastmodified":1466438313,
     "wof:name":"Ormond Fire & Safety",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-81.059744,29.271945,-81.059744,29.271945],
-  "geometry": {"coordinates":[-81.059744,29.271945],"type":"Point"}
+  "bbox": [
+    -81.059744,
+    29.271945,
+    -81.059744,
+    29.271945
+],
+  "geometry": {"coordinates":[-81.05974399999999,29.271945],"type":"Point"}
 }

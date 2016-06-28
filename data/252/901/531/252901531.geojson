@@ -2,13 +2,14 @@
   "id": 252901531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.722029,27.681829,-82.722029,27.681829",
     "geom:latitude":27.681829,
     "geom:longitude":-82.722029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 7th St E",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252901531,
-    "wof:lastmodified":1449005862,
+    "wof:lastmodified":1466431220,
     "wof:name":"Charlie's Catering",
     "wof:parent_id":85852237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-82.722029,27.681829,-82.722029,27.681829],
-  "geometry": {"coordinates":[-82.722029,27.681829],"type":"Point"}
+  "bbox": [
+    -82.722029,
+    27.681829,
+    -82.722029,
+    27.681829
+],
+  "geometry": {"coordinates":[-82.72202900000001,27.681829],"type":"Point"}
 }

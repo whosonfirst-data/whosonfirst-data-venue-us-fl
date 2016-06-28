@@ -2,13 +2,14 @@
   "id": 202940849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.567518,30.230366,-81.567518,30.230366",
     "geom:latitude":30.230366,
     "geom:longitude":-81.567518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7595 Baymeadows Cir W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202940849,
-    "wof:lastmodified":1449060736,
+    "wof:lastmodified":1466434145,
     "wof:name":"St John S Plantation",
     "wof:parent_id":85870703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.567518,30.230366,-81.567518,30.230366],
-  "geometry": {"coordinates":[-81.567518,30.230366],"type":"Point"}
+  "bbox": [
+    -81.567518,
+    30.230366,
+    -81.567518,
+    30.230366
+],
+  "geometry": {"coordinates":[-81.56751800000001,30.230366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320292119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.287213,26.178831,-80.287213,26.178831",
     "geom:latitude":26.178831,
     "geom:longitude":-80.287213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4372 NW 103rd Ter",
     "sg:city":"Sunrise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320292119,
-    "wof:lastmodified":1449011562,
+    "wof:lastmodified":1466438378,
     "wof:name":"Virtual Tool Chest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.287213,26.178831,-80.287213,26.178831],
-  "geometry": {"coordinates":[-80.287213,26.178831],"type":"Point"}
+  "bbox": [
+    -80.287213,
+    26.178831,
+    -80.287213,
+    26.178831
+],
+  "geometry": {"coordinates":[-80.28721299999999,26.178831],"type":"Point"}
 }

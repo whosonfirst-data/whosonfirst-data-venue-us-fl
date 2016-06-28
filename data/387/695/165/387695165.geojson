@@ -2,13 +2,14 @@
   "id": 387695165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.291286,26.287289,-80.291286,26.287289",
     "geom:latitude":26.287289,
     "geom:longitude":-80.291286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12344 Wiles Rd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387695165,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466448059,
     "wof:name":"Two Men & A Truck",
     "wof:parent_id":85876871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-80.291286,26.287289,-80.291286,26.287289],
+  "bbox": [
+    -80.291286,
+    26.287289,
+    -80.291286,
+    26.287289
+],
   "geometry": {"coordinates":[-80.291286,26.287289],"type":"Point"}
 }

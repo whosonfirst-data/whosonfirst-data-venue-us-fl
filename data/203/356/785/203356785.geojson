@@ -2,13 +2,14 @@
   "id": 203356785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.305839,26.138021,-80.305839,26.138021",
     "geom:latitude":26.138021,
     "geom:longitude":-80.305839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 NW 118th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203356785,
-    "wof:lastmodified":1449026502,
+    "wof:lastmodified":1466430865,
     "wof:name":"Single Gourmet",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.305839,26.138021,-80.305839,26.138021],
-  "geometry": {"coordinates":[-80.305839,26.138021],"type":"Point"}
+  "bbox": [
+    -80.305839,
+    26.138021,
+    -80.305839,
+    26.138021
+],
+  "geometry": {"coordinates":[-80.30583900000001,26.138021],"type":"Point"}
 }

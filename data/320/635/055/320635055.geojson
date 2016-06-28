@@ -2,13 +2,14 @@
   "id": 320635055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.81664,28.607999,-80.81664,28.607999",
     "geom:latitude":28.607999,
     "geom:longitude":-80.81664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 South St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320635055,
-    "wof:lastmodified":1449012870,
+    "wof:lastmodified":1466444377,
     "wof:name":"Apex Appliance Svc",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.81664,28.607999,-80.81664,28.607999],
-  "geometry": {"coordinates":[-80.81664,28.607999],"type":"Point"}
+  "bbox": [
+    -80.81664,
+    28.607999,
+    -80.81664,
+    28.607999
+],
+  "geometry": {"coordinates":[-80.81664000000001,28.607999],"type":"Point"}
 }

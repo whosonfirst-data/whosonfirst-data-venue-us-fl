@@ -2,13 +2,14 @@
   "id": 303173191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.347738,25.601348,-80.347738,25.601348",
     "geom:latitude":25.601348,
     "geom:longitude":-80.347738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9601 SW 181st Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303173191,
-    "wof:lastmodified":1448998587,
+    "wof:lastmodified":1466433519,
     "wof:name":"Esther Schneier Insurance",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.347738,25.601348,-80.347738,25.601348],
-  "geometry": {"coordinates":[-80.347738,25.601348],"type":"Point"}
+  "bbox": [
+    -80.347738,
+    25.601348,
+    -80.347738,
+    25.601348
+],
+  "geometry": {"coordinates":[-80.34773800000001,25.601348],"type":"Point"}
 }

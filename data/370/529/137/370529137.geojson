@@ -2,13 +2,14 @@
   "id": 370529137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.872357,26.623725,-81.872357,26.623725",
     "geom:latitude":26.623725,
     "geom:longitude":-81.872357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2976 Cleveland Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370529137,
-    "wof:lastmodified":1449030573,
+    "wof:lastmodified":1466442282,
     "wof:name":"Fun Three",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-81.872357,26.623725,-81.872357,26.623725],
-  "geometry": {"coordinates":[-81.872357,26.623725],"type":"Point"}
+  "bbox": [
+    -81.872357,
+    26.623725,
+    -81.872357,
+    26.623725
+],
+  "geometry": {"coordinates":[-81.87235699999999,26.623725],"type":"Point"}
 }

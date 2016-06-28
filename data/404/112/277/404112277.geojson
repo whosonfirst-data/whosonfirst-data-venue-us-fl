@@ -2,13 +2,14 @@
   "id": 404112277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387971,28.035651,-82.387971,28.035651",
     "geom:latitude":28.035651,
     "geom:longitude":-82.387971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Woodmont Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404112277,
-    "wof:lastmodified":1449039558,
+    "wof:lastmodified":1466441979,
     "wof:name":"Woodmont Clubhouse",
     "wof:parent_id":85896235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.387971,28.035651,-82.387971,28.035651],
-  "geometry": {"coordinates":[-82.387971,28.035651],"type":"Point"}
+  "bbox": [
+    -82.387971,
+    28.035651,
+    -82.387971,
+    28.035651
+],
+  "geometry": {"coordinates":[-82.38797099999999,28.035651],"type":"Point"}
 }

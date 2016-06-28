@@ -2,13 +2,14 @@
   "id": 320731109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404472,28.383457,-81.404472,28.383457",
     "geom:latitude":28.383457,
     "geom:longitude":-81.404472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12453 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320731109,
-    "wof:lastmodified":1449014545,
+    "wof:lastmodified":1466446022,
     "wof:name":"Central Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.404472,28.383457,-81.404472,28.383457],
+  "bbox": [
+    -81.404472,
+    28.383457,
+    -81.404472,
+    28.383457
+],
   "geometry": {"coordinates":[-81.404472,28.383457],"type":"Point"}
 }

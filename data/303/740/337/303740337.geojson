@@ -2,13 +2,14 @@
   "id": 303740337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.405336,30.289654,-81.405336,30.289654",
     "geom:latitude":30.289654,
     "geom:longitude":-81.405336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 2nd Ave N",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303740337,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466443306,
     "wof:name":"Rayco Svc",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-81.405336,30.289654,-81.405336,30.289654],
-  "geometry": {"coordinates":[-81.405336,30.289654],"type":"Point"}
+  "bbox": [
+    -81.405336,
+    30.289654,
+    -81.405336,
+    30.289654
+],
+  "geometry": {"coordinates":[-81.40533600000001,30.289654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370223095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.322601,26.026935,-80.322601,26.026935",
     "geom:latitude":26.026935,
     "geom:longitude":-80.322601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12918 NW 22nd Manor",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370223095,
-    "wof:lastmodified":1449029316,
+    "wof:lastmodified":1466437583,
     "wof:name":"Doghaus",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "datum"
     ]
 },
-  "bbox": [-80.322601,26.026935,-80.322601,26.026935],
-  "geometry": {"coordinates":[-80.322601,26.026935],"type":"Point"}
+  "bbox": [
+    -80.322601,
+    26.026935,
+    -80.322601,
+    26.026935
+],
+  "geometry": {"coordinates":[-80.32260100000001,26.026935],"type":"Point"}
 }

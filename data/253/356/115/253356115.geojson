@@ -2,13 +2,14 @@
   "id": 253356115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.51653,27.272611,-82.51653,27.272611",
     "geom:latitude":27.272611,
     "geom:longitude":-82.51653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5769 Antietam Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253356115,
-    "wof:lastmodified":1449065237,
+    "wof:lastmodified":1466433114,
     "wof:name":"West Coast Technical Services",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.51653,27.272611,-82.51653,27.272611],
+  "bbox": [
+    -82.51653,
+    27.272611,
+    -82.51653,
+    27.272611
+],
   "geometry": {"coordinates":[-82.51653,27.272611],"type":"Point"}
 }

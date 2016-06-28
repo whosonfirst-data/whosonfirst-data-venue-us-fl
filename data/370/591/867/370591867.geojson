@@ -2,13 +2,14 @@
   "id": 370591867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.17603,25.890775,-80.17603,25.890775",
     "geom:latitude":25.890775,
     "geom:longitude":-80.17603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 NE 125th St",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370591867,
-    "wof:lastmodified":1449030885,
+    "wof:lastmodified":1466443253,
     "wof:name":"International Carrier & Train",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-80.17603,25.890775,-80.17603,25.890775],
+  "bbox": [
+    -80.17603,
+    25.890775,
+    -80.17603,
+    25.890775
+],
   "geometry": {"coordinates":[-80.17603,25.890775],"type":"Point"}
 }

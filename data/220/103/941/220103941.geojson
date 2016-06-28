@@ -2,13 +2,14 @@
   "id": 220103941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.457214,27.946234,-82.457214,27.946234",
     "geom:latitude":27.946234,
     "geom:longitude":-82.457214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Franklin St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":220103941,
-    "wof:lastmodified":1449074544,
+    "wof:lastmodified":1466446025,
     "wof:name":"Parking Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.457214,27.946234,-82.457214,27.946234],
-  "geometry": {"coordinates":[-82.457214,27.946234],"type":"Point"}
+  "bbox": [
+    -82.457214,
+    27.946234,
+    -82.457214,
+    27.946234
+],
+  "geometry": {"coordinates":[-82.45721399999999,27.946234],"type":"Point"}
 }

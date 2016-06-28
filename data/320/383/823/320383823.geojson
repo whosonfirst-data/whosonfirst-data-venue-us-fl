@@ -2,13 +2,14 @@
   "id": 320383823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.255294,27.910929,-82.255294,27.910929",
     "geom:latitude":27.910929,
     "geom:longitude":-82.255294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Laurelwood Ln",
     "sg:city":"Valrico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320383823,
-    "wof:lastmodified":1449012842,
+    "wof:lastmodified":1466439963,
     "wof:name":"Rest Assured Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.255294,27.910929,-82.255294,27.910929],
-  "geometry": {"coordinates":[-82.255294,27.910929],"type":"Point"}
+  "bbox": [
+    -82.255294,
+    27.910929,
+    -82.255294,
+    27.910929
+],
+  "geometry": {"coordinates":[-82.25529400000001,27.910929],"type":"Point"}
 }

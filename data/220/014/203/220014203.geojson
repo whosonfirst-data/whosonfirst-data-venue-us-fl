@@ -2,13 +2,14 @@
   "id": 220014203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.777353,26.13588,-81.777353,26.13588",
     "geom:latitude":26.13588,
     "geom:longitude":-81.777353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 Francis Ave",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220014203,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466443874,
     "wof:name":"Gulf Coast Gutter-Sw Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gutter"
     ]
 },
-  "bbox": [-81.777353,26.13588,-81.777353,26.13588],
-  "geometry": {"coordinates":[-81.777353,26.13588],"type":"Point"}
+  "bbox": [
+    -81.777353,
+    26.13588,
+    -81.777353,
+    26.13588
+],
+  "geometry": {"coordinates":[-81.77735300000001,26.13588],"type":"Point"}
 }

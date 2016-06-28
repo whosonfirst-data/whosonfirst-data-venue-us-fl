@@ -2,13 +2,14 @@
   "id": 270398955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.248021,30.554,-87.248021,30.554",
     "geom:latitude":30.554,
     "geom:longitude":-87.248021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"858 Valley Ridge Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270398955,
-    "wof:lastmodified":1449008849,
+    "wof:lastmodified":1466436282,
     "wof:name":"Brian Daniels Developers Inc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-87.248021,30.554,-87.248021,30.554],
-  "geometry": {"coordinates":[-87.248021,30.554],"type":"Point"}
+  "bbox": [
+    -87.248021,
+    30.554,
+    -87.248021,
+    30.554
+],
+  "geometry": {"coordinates":[-87.24802099999999,30.554],"type":"Point"}
 }

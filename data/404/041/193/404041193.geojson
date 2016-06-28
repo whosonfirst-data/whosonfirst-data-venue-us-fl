@@ -2,13 +2,14 @@
   "id": 404041193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.281444,29.859226,-81.281444,29.859226",
     "geom:latitude":29.859226,
     "geom:longitude":-81.281444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Pope Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404041193,
-    "wof:lastmodified":1449039453,
+    "wof:lastmodified":1466440904,
     "wof:name":"St Augustine Beach KOA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.281444,29.859226,-81.281444,29.859226],
-  "geometry": {"coordinates":[-81.281444,29.859226],"type":"Point"}
+  "bbox": [
+    -81.281444,
+    29.859226,
+    -81.281444,
+    29.859226
+],
+  "geometry": {"coordinates":[-81.28144399999999,29.859226],"type":"Point"}
 }

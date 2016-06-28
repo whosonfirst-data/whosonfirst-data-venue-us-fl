@@ -2,13 +2,14 @@
   "id": 269916859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79224,26.355146,-81.79224,26.355146",
     "geom:latitude":26.355146,
     "geom:longitude":-81.79224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26230 Imperial Harbor Blvd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":269916859,
-    "wof:lastmodified":1449037451,
+    "wof:lastmodified":1466436112,
     "wof:name":"Harbor Club of Bonita Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.79224,26.355146,-81.79224,26.355146],
-  "geometry": {"coordinates":[-81.79224,26.355146],"type":"Point"}
+  "bbox": [
+    -81.79224,
+    26.355146,
+    -81.79224,
+    26.355146
+],
+  "geometry": {"coordinates":[-81.79224000000001,26.355146],"type":"Point"}
 }

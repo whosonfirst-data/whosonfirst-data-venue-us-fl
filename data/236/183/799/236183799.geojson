@@ -2,13 +2,14 @@
   "id": 236183799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445055,27.47216,-81.445055,27.47216",
     "geom:latitude":27.47216,
     "geom:longitude":-81.445055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2549 US Hwy 27",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236183799,
-    "wof:lastmodified":1449003427,
+    "wof:lastmodified":1466430992,
     "wof:name":"Florida Public Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-81.445055,27.47216,-81.445055,27.47216],
+  "bbox": [
+    -81.445055,
+    27.47216,
+    -81.445055,
+    27.47216
+],
   "geometry": {"coordinates":[-81.445055,27.47216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202484163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.557499,28.714577,-81.557499,28.714577",
     "geom:latitude":28.714577,
     "geom:longitude":-81.557499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Plymouth Sorrento Rd",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202484163,
-    "wof:lastmodified":1449062502,
+    "wof:lastmodified":1466445751,
     "wof:name":"First Orchid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-81.557499,28.714577,-81.557499,28.714577],
-  "geometry": {"coordinates":[-81.557499,28.714577],"type":"Point"}
+  "bbox": [
+    -81.557499,
+    28.714577,
+    -81.557499,
+    28.714577
+],
+  "geometry": {"coordinates":[-81.55749900000001,28.714577],"type":"Point"}
 }

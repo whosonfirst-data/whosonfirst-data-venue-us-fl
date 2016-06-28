@@ -2,13 +2,14 @@
   "id": 303695615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137171,26.966276,-80.137171,26.966276",
     "geom:latitude":26.966276,
     "geom:longitude":-80.137171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6562 195th Pl N",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303695615,
-    "wof:lastmodified":1448999043,
+    "wof:lastmodified":1466442543,
     "wof:name":"Petsafe Underground Pet Fences",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-80.137171,26.966276,-80.137171,26.966276],
+  "bbox": [
+    -80.137171,
+    26.966276,
+    -80.137171,
+    26.966276
+],
   "geometry": {"coordinates":[-80.137171,26.966276],"type":"Point"}
 }

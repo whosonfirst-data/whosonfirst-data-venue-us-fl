@@ -2,13 +2,14 @@
   "id": 320845085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.25348,30.49385,-87.25348,30.49385",
     "geom:latitude":30.49385,
     "geom:longitude":-87.25348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7011 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320845085,
-    "wof:lastmodified":1449011865,
+    "wof:lastmodified":1466447299,
     "wof:name":"Chuck's Used Cars",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-87.25348,30.49385,-87.25348,30.49385],
+  "bbox": [
+    -87.25348,
+    30.49385,
+    -87.25348,
+    30.49385
+],
   "geometry": {"coordinates":[-87.25348,30.49385],"type":"Point"}
 }

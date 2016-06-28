@@ -2,13 +2,14 @@
   "id": 287295953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.751335,27.953714,-82.751335,27.953714",
     "geom:latitude":27.953714,
     "geom:longitude":-82.751335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Normandy Rd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287295953,
-    "wof:lastmodified":1449001031,
+    "wof:lastmodified":1466435015,
     "wof:name":"Normandy Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.751335,27.953714,-82.751335,27.953714],
+  "bbox": [
+    -82.751335,
+    27.953714,
+    -82.751335,
+    27.953714
+],
   "geometry": {"coordinates":[-82.751335,27.953714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320719747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.581697,30.313328,-81.581697,30.313328",
     "geom:latitude":30.313328,
     "geom:longitude":-81.581697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7221 Atlantic Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320719747,
-    "wof:lastmodified":1449011731,
+    "wof:lastmodified":1466445818,
     "wof:name":"Lee's Hair Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.581697,30.313328,-81.581697,30.313328],
-  "geometry": {"coordinates":[-81.581697,30.313328],"type":"Point"}
+  "bbox": [
+    -81.581697,
+    30.313328,
+    -81.581697,
+    30.313328
+],
+  "geometry": {"coordinates":[-81.58169700000001,30.313328],"type":"Point"}
 }

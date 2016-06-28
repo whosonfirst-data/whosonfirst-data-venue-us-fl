@@ -2,13 +2,14 @@
   "id": 236362345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331625,26.127278,-80.331625,26.127278",
     "geom:latitude":26.127278,
     "geom:longitude":-80.331625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13680 NW 5th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236362345,
-    "wof:lastmodified":1449003854,
+    "wof:lastmodified":1466433525,
     "wof:name":"Schneider Electric",
     "wof:parent_id":85833709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-80.331625,26.127278,-80.331625,26.127278],
+  "bbox": [
+    -80.331625,
+    26.127278,
+    -80.331625,
+    26.127278
+],
   "geometry": {"coordinates":[-80.331625,26.127278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403831535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.048003,29.257865,-81.048003,29.257865",
     "geom:latitude":29.257865,
     "geom:longitude":-81.048003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Ridgewood Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403831535,
-    "wof:lastmodified":1449055424,
+    "wof:lastmodified":1466441642,
     "wof:name":"Roth Accounting",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.048003,29.257865,-81.048003,29.257865],
-  "geometry": {"coordinates":[-81.048003,29.257865],"type":"Point"}
+  "bbox": [
+    -81.048003,
+    29.257865,
+    -81.048003,
+    29.257865
+],
+  "geometry": {"coordinates":[-81.04800299999999,29.257865],"type":"Point"}
 }

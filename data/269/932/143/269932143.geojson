@@ -2,13 +2,14 @@
   "id": 269932143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322038,28.348207,-81.322038,28.348207",
     "geom:latitude":28.348207,
     "geom:longitude":-81.322038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14115 Ward Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269932143,
-    "wof:lastmodified":1449037039,
+    "wof:lastmodified":1466436366,
     "wof:name":"Darbys Cnstr of Centl Fla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "parking"
     ]
 },
-  "bbox": [-81.322038,28.348207,-81.322038,28.348207],
-  "geometry": {"coordinates":[-81.322038,28.348207],"type":"Point"}
+  "bbox": [
+    -81.322038,
+    28.348207,
+    -81.322038,
+    28.348207
+],
+  "geometry": {"coordinates":[-81.32203800000001,28.348207],"type":"Point"}
 }

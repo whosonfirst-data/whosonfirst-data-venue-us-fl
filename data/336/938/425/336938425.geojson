@@ -2,13 +2,14 @@
   "id": 336938425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.390125,28.436003,-81.390125,28.436003",
     "geom:latitude":28.436003,
     "geom:longitude":-81.390125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Landstreet Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336938425,
-    "wof:lastmodified":1448997740,
+    "wof:lastmodified":1466440821,
     "wof:name":"Affinity Logistics",
     "wof:parent_id":85889431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-81.390125,28.436003,-81.390125,28.436003],
+  "bbox": [
+    -81.390125,
+    28.436003,
+    -81.390125,
+    28.436003
+],
   "geometry": {"coordinates":[-81.390125,28.436003],"type":"Point"}
 }

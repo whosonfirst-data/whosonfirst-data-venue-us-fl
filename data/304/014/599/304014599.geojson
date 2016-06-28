@@ -2,13 +2,14 @@
   "id": 304014599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.60627,28.192967,-80.60627,28.192967",
     "geom:latitude":28.192967,
     "geom:longitude":-80.60627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 S Patrick Dr",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304014599,
-    "wof:lastmodified":1449043849,
+    "wof:lastmodified":1466432059,
     "wof:name":"Mario's Villa",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.60627,28.192967,-80.60627,28.192967],
-  "geometry": {"coordinates":[-80.60627,28.192967],"type":"Point"}
+  "bbox": [
+    -80.60627,
+    28.192967,
+    -80.60627,
+    28.192967
+],
+  "geometry": {"coordinates":[-80.60626999999999,28.192967],"type":"Point"}
 }

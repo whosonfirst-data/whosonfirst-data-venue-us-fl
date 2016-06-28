@@ -2,13 +2,14 @@
   "id": 319881397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195086,25.801226,-80.195086,25.801226",
     "geom:latitude":25.801226,
     "geom:longitude":-80.195086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 N Miami Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319881397,
-    "wof:lastmodified":1449024541,
+    "wof:lastmodified":1466433889,
     "wof:name":"Echo Concepts",
     "wof:parent_id":85869211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-80.195086,25.801226,-80.195086,25.801226],
+  "bbox": [
+    -80.195086,
+    25.801226,
+    -80.195086,
+    25.801226
+],
   "geometry": {"coordinates":[-80.195086,25.801226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270005717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.352923,30.429306,-84.352923,30.429306",
     "geom:latitude":30.429306,
     "geom:longitude":-84.352923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Capital Cir SW",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270005717,
-    "wof:lastmodified":1449010901,
+    "wof:lastmodified":1466429552,
     "wof:name":"Silvey Inc",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-84.352923,30.429306,-84.352923,30.429306],
+  "bbox": [
+    -84.352923,
+    30.429306,
+    -84.352923,
+    30.429306
+],
   "geometry": {"coordinates":[-84.352923,30.429306],"type":"Point"}
 }

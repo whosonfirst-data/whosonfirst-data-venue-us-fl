@@ -2,13 +2,14 @@
   "id": 219401825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233348,25.77959,-80.233348,25.77959",
     "geom:latitude":25.77959,
     "geom:longitude":-80.233348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 NW 7th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219401825,
-    "wof:lastmodified":1449073387,
+    "wof:lastmodified":1466430213,
     "wof:name":"Oscar R Agusti MD",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.233348,25.77959,-80.233348,25.77959],
-  "geometry": {"coordinates":[-80.233348,25.77959],"type":"Point"}
+  "bbox": [
+    -80.233348,
+    25.77959,
+    -80.233348,
+    25.77959
+],
+  "geometry": {"coordinates":[-80.23334800000001,25.77959],"type":"Point"}
 }

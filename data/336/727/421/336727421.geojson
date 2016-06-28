@@ -2,13 +2,14 @@
   "id": 336727421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.385641,26.998466,-82.385641,26.998466",
     "geom:latitude":26.998466,
     "geom:longitude":-82.385641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Windsor Dr",
     "sg:city":"Englewood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336727421,
-    "wof:lastmodified":1448997103,
+    "wof:lastmodified":1466437184,
     "wof:name":"Custom Spec Eng Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.385641,26.998466,-82.385641,26.998466],
-  "geometry": {"coordinates":[-82.385641,26.998466],"type":"Point"}
+  "bbox": [
+    -82.385641,
+    26.998466,
+    -82.385641,
+    26.998466
+],
+  "geometry": {"coordinates":[-82.38564100000001,26.998466],"type":"Point"}
 }

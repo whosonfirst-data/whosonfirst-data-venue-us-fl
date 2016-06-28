@@ -2,13 +2,14 @@
   "id": 219300227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731222,30.353114,-81.731222,30.353114",
     "geom:latitude":30.353114,
     "geom:longitude":-81.731222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2392 Edgewood Ave N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219300227,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466428766,
     "wof:name":"Northwest Mental Health Svc",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-81.731222,30.353114,-81.731222,30.353114],
+  "bbox": [
+    -81.731222,
+    30.353114,
+    -81.731222,
+    30.353114
+],
   "geometry": {"coordinates":[-81.731222,30.353114],"type":"Point"}
 }

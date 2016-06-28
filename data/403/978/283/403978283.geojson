@@ -2,13 +2,14 @@
   "id": 403978283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.628291,28.18694,-80.628291,28.18694",
     "geom:latitude":28.18694,
     "geom:longitude":-80.628291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9490 S Tropical Trl",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403978283,
-    "wof:lastmodified":1449055396,
+    "wof:lastmodified":1466443970,
     "wof:name":"South Tropical Agriculture",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-80.628291,28.18694,-80.628291,28.18694],
+  "bbox": [
+    -80.628291,
+    28.18694,
+    -80.628291,
+    28.18694
+],
   "geometry": {"coordinates":[-80.628291,28.18694],"type":"Point"}
 }

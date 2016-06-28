@@ -2,13 +2,14 @@
   "id": 404009113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705981,28.305565,-82.705981,28.305565",
     "geom:latitude":28.305565,
     "geom:longitude":-82.705981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10112 Scenic Dr",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404009113,
-    "wof:lastmodified":1449040312,
+    "wof:lastmodified":1466440405,
     "wof:name":"Lakeview Auto Body",
     "wof:parent_id":85889483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-82.705981,28.305565,-82.705981,28.305565],
-  "geometry": {"coordinates":[-82.705981,28.305565],"type":"Point"}
+  "bbox": [
+    -82.705981,
+    28.305565,
+    -82.705981,
+    28.305565
+],
+  "geometry": {"coordinates":[-82.70598099999999,28.305565],"type":"Point"}
 }

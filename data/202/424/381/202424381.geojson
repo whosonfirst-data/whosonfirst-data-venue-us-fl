@@ -2,13 +2,14 @@
   "id": 202424381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191261,26.187832,-80.191261,26.187832",
     "geom:latitude":26.187832,
     "geom:longitude":-80.191261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 NW 33rd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202424381,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466444162,
     "wof:name":"Doctors Co",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.191261,26.187832,-80.191261,26.187832],
+  "bbox": [
+    -80.191261,
+    26.187832,
+    -80.191261,
+    26.187832
+],
   "geometry": {"coordinates":[-80.191261,26.187832],"type":"Point"}
 }

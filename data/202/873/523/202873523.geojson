@@ -2,13 +2,14 @@
   "id": 202873523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.183469,28.259026,-82.183469,28.259026",
     "geom:latitude":28.259026,
     "geom:longitude":-82.183469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38306 Daughtery Rd",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202873523,
-    "wof:lastmodified":1449060646,
+    "wof:lastmodified":1466433244,
     "wof:name":"Bay Area Injury Rehab",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.183469,28.259026,-82.183469,28.259026],
+  "bbox": [
+    -82.183469,
+    28.259026,
+    -82.183469,
+    28.259026
+],
   "geometry": {"coordinates":[-82.183469,28.259026],"type":"Point"}
 }

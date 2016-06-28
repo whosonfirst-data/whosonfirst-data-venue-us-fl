@@ -2,13 +2,14 @@
   "id": 236223705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251827,26.183611,-80.251827,26.183611",
     "geom:latitude":26.183611,
     "geom:longitude":-80.251827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4971 N University Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236223705,
-    "wof:lastmodified":1449001848,
+    "wof:lastmodified":1466431573,
     "wof:name":"Perma-Bond Corporation",
     "wof:parent_id":85896111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "turnkey"
     ]
 },
-  "bbox": [-80.251827,26.183611,-80.251827,26.183611],
-  "geometry": {"coordinates":[-80.251827,26.183611],"type":"Point"}
+  "bbox": [
+    -80.251827,
+    26.183611,
+    -80.251827,
+    26.183611
+],
+  "geometry": {"coordinates":[-80.25182700000001,26.183611],"type":"Point"}
 }

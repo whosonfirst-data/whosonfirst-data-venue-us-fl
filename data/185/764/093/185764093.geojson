@@ -2,13 +2,14 @@
   "id": 185764093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.605348,30.41226,-86.605348,30.41226",
     "geom:latitude":30.41226,
     "geom:longitude":-86.605348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Tupelo Ave SE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185764093,
-    "wof:lastmodified":1449008118,
+    "wof:lastmodified":1466428630,
     "wof:name":"Sunbeam Bakery",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-86.605348,30.41226,-86.605348,30.41226],
-  "geometry": {"coordinates":[-86.605348,30.41226],"type":"Point"}
+  "bbox": [
+    -86.605348,
+    30.41226,
+    -86.605348,
+    30.41226
+],
+  "geometry": {"coordinates":[-86.60534800000001,30.41226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203023781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.923056,28.010952,-81.923056,28.010952",
     "geom:latitude":28.010952,
     "geom:longitude":-81.923056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Edgewood Dr S",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203023781,
-    "wof:lastmodified":1449026682,
+    "wof:lastmodified":1466441475,
     "wof:name":"Central Florida Health Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.923056,28.010952,-81.923056,28.010952],
+  "bbox": [
+    -81.923056,
+    28.010952,
+    -81.923056,
+    28.010952
+],
   "geometry": {"coordinates":[-81.923056,28.010952],"type":"Point"}
 }

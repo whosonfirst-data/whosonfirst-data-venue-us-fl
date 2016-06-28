@@ -2,13 +2,14 @@
   "id": 370724315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.60477,30.444812,-86.60477,30.444812",
     "geom:latitude":30.444812,
     "geom:longitude":-86.60477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370724315,
-    "wof:lastmodified":1449032397,
+    "wof:lastmodified":1466445264,
     "wof:name":"Racetrack Cafe",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-86.60477,30.444812,-86.60477,30.444812],
+  "bbox": [
+    -86.60477,
+    30.444812,
+    -86.60477,
+    30.444812
+],
   "geometry": {"coordinates":[-86.60477,30.444812],"type":"Point"}
 }

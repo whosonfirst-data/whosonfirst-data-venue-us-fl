@@ -2,13 +2,14 @@
   "id": 253570915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143665,26.256122,-80.143665,26.256122",
     "geom:latitude":26.256122,
     "geom:longitude":-80.143665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 NW 15th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253570915,
-    "wof:lastmodified":1449064570,
+    "wof:lastmodified":1466436889,
     "wof:name":"American Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cover"
     ]
 },
-  "bbox": [-80.143665,26.256122,-80.143665,26.256122],
+  "bbox": [
+    -80.143665,
+    26.256122,
+    -80.143665,
+    26.256122
+],
   "geometry": {"coordinates":[-80.143665,26.256122],"type":"Point"}
 }

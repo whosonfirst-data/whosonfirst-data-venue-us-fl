@@ -2,13 +2,14 @@
   "id": 186478711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.539257,28.015224,-82.539257,28.015224",
     "geom:latitude":28.015224,
     "geom:longitude":-82.539257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5432 W Crenshaw St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186478711,
-    "wof:lastmodified":1449050356,
+    "wof:lastmodified":1466432541,
     "wof:name":"Cotton Catastrophe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "damage"
     ]
 },
-  "bbox": [-82.539257,28.015224,-82.539257,28.015224],
-  "geometry": {"coordinates":[-82.539257,28.015224],"type":"Point"}
+  "bbox": [
+    -82.539257,
+    28.015224,
+    -82.539257,
+    28.015224
+],
+  "geometry": {"coordinates":[-82.53925700000001,28.015224],"type":"Point"}
 }

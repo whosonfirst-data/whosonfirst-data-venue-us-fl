@@ -2,13 +2,14 @@
   "id": 320033075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502988,30.358947,-81.502988,30.358947",
     "geom:latitude":30.358947,
     "geom:longitude":-81.502988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2771 Monument Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320033075,
-    "wof:lastmodified":1449012026,
+    "wof:lastmodified":1466433957,
     "wof:name":"Chris Gar Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-81.502988,30.358947,-81.502988,30.358947],
+  "bbox": [
+    -81.502988,
+    30.358947,
+    -81.502988,
+    30.358947
+],
   "geometry": {"coordinates":[-81.502988,30.358947],"type":"Point"}
 }

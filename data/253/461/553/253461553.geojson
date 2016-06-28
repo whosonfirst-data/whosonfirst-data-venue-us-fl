@@ -2,13 +2,14 @@
   "id": 253461553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322583,28.582259,-81.322583,28.582259",
     "geom:latitude":28.582259,
     "geom:longitude":-81.322583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 Woodcrest Dr",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253461553,
-    "wof:lastmodified":1449063949,
+    "wof:lastmodified":1466434934,
     "wof:name":"US Coast Guard Auxiliary",
     "wof:parent_id":85889375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-81.322583,28.582259,-81.322583,28.582259],
-  "geometry": {"coordinates":[-81.322583,28.582259],"type":"Point"}
+  "bbox": [
+    -81.322583,
+    28.582259,
+    -81.322583,
+    28.582259
+],
+  "geometry": {"coordinates":[-81.32258299999999,28.582259],"type":"Point"}
 }

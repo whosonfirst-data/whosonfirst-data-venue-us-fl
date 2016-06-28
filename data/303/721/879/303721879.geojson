@@ -2,13 +2,14 @@
   "id": 303721879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313764,25.763818,-80.313764,25.763818",
     "geom:latitude":25.763818,
     "geom:longitude":-80.313764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 SW 73rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303721879,
-    "wof:lastmodified":1449000558,
+    "wof:lastmodified":1466442991,
     "wof:name":"RJR Construction",
     "wof:parent_id":85855949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.313764,25.763818,-80.313764,25.763818],
-  "geometry": {"coordinates":[-80.313764,25.763818],"type":"Point"}
+  "bbox": [
+    -80.313764,
+    25.763818,
+    -80.313764,
+    25.763818
+],
+  "geometry": {"coordinates":[-80.31376400000001,25.763818],"type":"Point"}
 }

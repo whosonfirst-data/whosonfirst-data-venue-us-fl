@@ -2,13 +2,14 @@
   "id": 353895173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.38514,25.673375,-80.38514,25.673375",
     "geom:latitude":25.673375,
     "geom:longitude":-80.38514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10052 SW 117th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353895173,
-    "wof:lastmodified":1449019331,
+    "wof:lastmodified":1466442396,
     "wof:name":"McAllister Company",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.38514,25.673375,-80.38514,25.673375],
-  "geometry": {"coordinates":[-80.38514,25.673375],"type":"Point"}
+  "bbox": [
+    -80.38514,
+    25.673375,
+    -80.38514,
+    25.673375
+],
+  "geometry": {"coordinates":[-80.38514000000001,25.673375],"type":"Point"}
 }

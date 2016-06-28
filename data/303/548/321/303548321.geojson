@@ -2,13 +2,14 @@
   "id": 303548321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.41491,26.050313,-80.41491,26.050313",
     "geom:latitude":26.050313,
     "geom:longitude":-80.41491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5931 SW 199th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303548321,
-    "wof:lastmodified":1448999808,
+    "wof:lastmodified":1466439984,
     "wof:name":"Mersch Travel School Inc",
     "wof:parent_id":85879801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.41491,26.050313,-80.41491,26.050313],
-  "geometry": {"coordinates":[-80.41491,26.050313],"type":"Point"}
+  "bbox": [
+    -80.41491,
+    26.050313,
+    -80.41491,
+    26.050313
+],
+  "geometry": {"coordinates":[-80.41491000000001,26.050313],"type":"Point"}
 }

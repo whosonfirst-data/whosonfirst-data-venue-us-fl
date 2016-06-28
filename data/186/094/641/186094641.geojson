@@ -2,13 +2,14 @@
   "id": 186094641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280729,30.428633,-84.280729,30.428633",
     "geom:latitude":30.428633,
     "geom:longitude":-84.280729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 S Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186094641,
-    "wof:lastmodified":1449052052,
+    "wof:lastmodified":1466445444,
     "wof:name":"Unite America",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-84.280729,30.428633,-84.280729,30.428633],
-  "geometry": {"coordinates":[-84.280729,30.428633],"type":"Point"}
+  "bbox": [
+    -84.280729,
+    30.428633,
+    -84.280729,
+    30.428633
+],
+  "geometry": {"coordinates":[-84.28072899999999,30.428633],"type":"Point"}
 }

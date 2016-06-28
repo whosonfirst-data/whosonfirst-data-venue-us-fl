@@ -2,13 +2,14 @@
   "id": 303584519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359583,25.7326,-80.359583,25.7326",
     "geom:latitude":25.7326,
     "geom:longitude":-80.359583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10021 SW 40th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303584519,
-    "wof:lastmodified":1448998390,
+    "wof:lastmodified":1466440600,
     "wof:name":"Consultants Of Se Florida",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.359583,25.7326,-80.359583,25.7326],
+  "bbox": [
+    -80.359583,
+    25.7326,
+    -80.359583,
+    25.7326
+],
   "geometry": {"coordinates":[-80.359583,25.7326],"type":"Point"}
 }

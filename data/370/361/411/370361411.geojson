@@ -2,13 +2,14 @@
   "id": 370361411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155324,25.959512,-80.155324,25.959512",
     "geom:latitude":25.959512,
     "geom:longitude":-80.155324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19700 NE 23rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370361411,
-    "wof:lastmodified":1449031558,
+    "wof:lastmodified":1466439699,
     "wof:name":"Convention Tapes Intl Grp Inc",
     "wof:parent_id":85879301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.155324,25.959512,-80.155324,25.959512],
-  "geometry": {"coordinates":[-80.155324,25.959512],"type":"Point"}
+  "bbox": [
+    -80.155324,
+    25.959512,
+    -80.155324,
+    25.959512
+],
+  "geometry": {"coordinates":[-80.15532399999999,25.959512],"type":"Point"}
 }

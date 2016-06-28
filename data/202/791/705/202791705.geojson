@@ -2,13 +2,14 @@
   "id": 202791705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.279571,26.188069,-80.279571,26.188069",
     "geom:latitude":26.188069,
     "geom:longitude":-80.279571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9503 NW 52nd Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202791705,
-    "wof:lastmodified":1449062077,
+    "wof:lastmodified":1466432149,
     "wof:name":"Swarm Interactive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-80.279571,26.188069,-80.279571,26.188069],
+  "bbox": [
+    -80.279571,
+    26.188069,
+    -80.279571,
+    26.188069
+],
   "geometry": {"coordinates":[-80.279571,26.188069],"type":"Point"}
 }

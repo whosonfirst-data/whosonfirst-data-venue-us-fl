@@ -2,13 +2,14 @@
   "id": 253026291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.88321,26.678584,-81.88321,26.678584",
     "geom:latitude":26.678584,
     "geom:longitude":-81.88321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1687 N Tamiami Trl",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253026291,
-    "wof:lastmodified":1449064556,
+    "wof:lastmodified":1466428847,
     "wof:name":"Railroad Museum Of South Flord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.88321,26.678584,-81.88321,26.678584],
-  "geometry": {"coordinates":[-81.88321,26.678584],"type":"Point"}
+  "bbox": [
+    -81.88321,
+    26.678584,
+    -81.88321,
+    26.678584
+],
+  "geometry": {"coordinates":[-81.88321000000001,26.678584],"type":"Point"}
 }

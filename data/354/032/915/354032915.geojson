@@ -2,13 +2,14 @@
   "id": 354032915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512848,27.33265,-82.512848,27.33265",
     "geom:latitude":27.33265,
     "geom:longitude":-82.512848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2947 Louise St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354032915,
-    "wof:lastmodified":1449066753,
+    "wof:lastmodified":1466436563,
     "wof:name":"Mario Smith Svc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-82.512848,27.33265,-82.512848,27.33265],
-  "geometry": {"coordinates":[-82.512848,27.33265],"type":"Point"}
+  "bbox": [
+    -82.512848,
+    27.33265,
+    -82.512848,
+    27.33265
+],
+  "geometry": {"coordinates":[-82.51284800000001,27.33265],"type":"Point"}
 }

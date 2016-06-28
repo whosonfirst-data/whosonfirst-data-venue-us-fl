@@ -2,13 +2,14 @@
   "id": 387582609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75909,30.14324,-81.75909,30.14324",
     "geom:latitude":30.14324,
     "geom:longitude":-81.75909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2646 Shannon St",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387582609,
-    "wof:lastmodified":1449058157,
+    "wof:lastmodified":1466447308,
     "wof:name":"B C Painting",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.75909,30.14324,-81.75909,30.14324],
+  "bbox": [
+    -81.75909,
+    30.14324,
+    -81.75909,
+    30.14324
+],
   "geometry": {"coordinates":[-81.75909,30.14324],"type":"Point"}
 }

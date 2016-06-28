@@ -2,13 +2,14 @@
   "id": 253009585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.675384,26.617093,-81.675384,26.617093",
     "geom:latitude":26.617093,
     "geom:longitude":-81.675384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Lee Blvd",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253009585,
-    "wof:lastmodified":1449065750,
+    "wof:lastmodified":1466428607,
     "wof:name":"Town & Country Hardware",
     "wof:parent_id":85889131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.675384,26.617093,-81.675384,26.617093],
-  "geometry": {"coordinates":[-81.675384,26.617093],"type":"Point"}
+  "bbox": [
+    -81.675384,
+    26.617093,
+    -81.675384,
+    26.617093
+],
+  "geometry": {"coordinates":[-81.67538399999999,26.617093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336840013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.418563,28.579714,-81.418563,28.579714",
     "geom:latitude":28.579714,
     "geom:longitude":-81.418563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3156 Clemson Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336840013,
-    "wof:lastmodified":1448997793,
+    "wof:lastmodified":1466439151,
     "wof:name":"Flowers Bakery Store",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.418563,28.579714,-81.418563,28.579714],
-  "geometry": {"coordinates":[-81.418563,28.579714],"type":"Point"}
+  "bbox": [
+    -81.418563,
+    28.579714,
+    -81.418563,
+    28.579714
+],
+  "geometry": {"coordinates":[-81.41856300000001,28.579714],"type":"Point"}
 }

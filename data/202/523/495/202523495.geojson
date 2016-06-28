@@ -2,13 +2,14 @@
   "id": 202523495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.677984,30.313519,-81.677984,30.313519",
     "geom:latitude":30.313519,
     "geom:longitude":-81.677984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Bishopgate Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202523495,
-    "wof:lastmodified":1449061566,
+    "wof:lastmodified":1466428660,
     "wof:name":"TRSG",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-81.677984,30.313519,-81.677984,30.313519],
+  "bbox": [
+    -81.677984,
+    30.313519,
+    -81.677984,
+    30.313519
+],
   "geometry": {"coordinates":[-81.677984,30.313519],"type":"Point"}
 }

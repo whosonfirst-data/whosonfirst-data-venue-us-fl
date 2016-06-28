@@ -2,13 +2,14 @@
   "id": 370385309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.39566,27.283237,-80.39566,27.283237",
     "geom:latitude":27.283237,
     "geom:longitude":-80.39566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 SW Agnes St",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370385309,
-    "wof:lastmodified":1449031088,
+    "wof:lastmodified":1466440077,
     "wof:name":"Joe Rusignuolo Jr",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.39566,27.283237,-80.39566,27.283237],
-  "geometry": {"coordinates":[-80.39566,27.283237],"type":"Point"}
+  "bbox": [
+    -80.39566,
+    27.283237,
+    -80.39566,
+    27.283237
+],
+  "geometry": {"coordinates":[-80.39566000000001,27.283237],"type":"Point"}
 }

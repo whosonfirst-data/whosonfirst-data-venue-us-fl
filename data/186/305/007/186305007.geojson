@@ -2,13 +2,14 @@
   "id": 186305007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.824678,26.330486,-81.824678,26.330486",
     "geom:latitude":26.330486,
     "geom:longitude":-81.824678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 Bonita Beach Rd SW",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186305007,
-    "wof:lastmodified":1449050804,
+    "wof:lastmodified":1466430361,
     "wof:name":"Bonita Beach Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-81.824678,26.330486,-81.824678,26.330486],
-  "geometry": {"coordinates":[-81.824678,26.330486],"type":"Point"}
+  "bbox": [
+    -81.824678,
+    26.330486,
+    -81.824678,
+    26.330486
+],
+  "geometry": {"coordinates":[-81.82467800000001,26.330486],"type":"Point"}
 }

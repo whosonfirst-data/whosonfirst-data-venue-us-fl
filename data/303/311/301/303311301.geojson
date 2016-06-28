@@ -2,13 +2,14 @@
   "id": 303311301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.46515,25.481849,-80.46515,25.481849",
     "geom:latitude":25.481849,
     "geom:longitude":-80.46515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30791 W Dixie Hwy",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303311301,
-    "wof:lastmodified":1448998682,
+    "wof:lastmodified":1466435901,
     "wof:name":"Speedway/Sunoco",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.46515,25.481849,-80.46515,25.481849],
-  "geometry": {"coordinates":[-80.46515,25.481849],"type":"Point"}
+  "bbox": [
+    -80.46515,
+    25.481849,
+    -80.46515,
+    25.481849
+],
+  "geometry": {"coordinates":[-80.46514999999999,25.481849],"type":"Point"}
 }

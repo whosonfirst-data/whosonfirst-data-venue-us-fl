@@ -2,13 +2,14 @@
   "id": 236490749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.69155,26.185418,-81.69155,26.185418",
     "geom:latitude":26.185418,
     "geom:longitude":-81.69155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 23rd Pl SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236490749,
-    "wof:lastmodified":1449004842,
+    "wof:lastmodified":1466435326,
     "wof:name":"All Corners Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.69155,26.185418,-81.69155,26.185418],
-  "geometry": {"coordinates":[-81.69155,26.185418],"type":"Point"}
+  "bbox": [
+    -81.69155,
+    26.185418,
+    -81.69155,
+    26.185418
+],
+  "geometry": {"coordinates":[-81.69155000000001,26.185418],"type":"Point"}
 }

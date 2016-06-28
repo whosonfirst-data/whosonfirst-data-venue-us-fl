@@ -2,13 +2,14 @@
   "id": 404128151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31319,26.051155,-80.31319,26.051155",
     "geom:latitude":26.051155,
     "geom:longitude":-80.31319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5806 S Flamingo Rd",
     "sg:city":"Cooper City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404128151,
-    "wof:lastmodified":1449039497,
+    "wof:lastmodified":1466442228,
     "wof:name":"Andy Silva's Black Belt",
     "wof:parent_id":85851607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-80.31319,26.051155,-80.31319,26.051155],
-  "geometry": {"coordinates":[-80.31319,26.051155],"type":"Point"}
+  "bbox": [
+    -80.31319,
+    26.051155,
+    -80.31319,
+    26.051155
+],
+  "geometry": {"coordinates":[-80.31319000000001,26.051155],"type":"Point"}
 }

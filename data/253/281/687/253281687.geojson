@@ -2,13 +2,14 @@
   "id": 253281687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.446992,28.669557,-81.446992,28.669557",
     "geom:latitude":28.669557,
     "geom:longitude":-81.446992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 E Semoran Blvd",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253281687,
-    "wof:lastmodified":1449065321,
+    "wof:lastmodified":1466431912,
     "wof:name":"Community Services Forest Lake",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.446992,28.669557,-81.446992,28.669557],
-  "geometry": {"coordinates":[-81.446992,28.669557],"type":"Point"}
+  "bbox": [
+    -81.446992,
+    28.669557,
+    -81.446992,
+    28.669557
+],
+  "geometry": {"coordinates":[-81.44699199999999,28.669557],"type":"Point"}
 }

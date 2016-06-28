@@ -2,13 +2,14 @@
   "id": 303950219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15599,26.199865,-80.15599,26.199865",
     "geom:latitude":26.199865,
     "geom:longitude":-80.15599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 NW 58th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303950219,
-    "wof:lastmodified":1448999071,
+    "wof:lastmodified":1466446708,
     "wof:name":"Dale/Incor",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-80.15599,26.199865,-80.15599,26.199865],
+  "bbox": [
+    -80.15599,
+    26.199865,
+    -80.15599,
+    26.199865
+],
   "geometry": {"coordinates":[-80.15599,26.199865],"type":"Point"}
 }

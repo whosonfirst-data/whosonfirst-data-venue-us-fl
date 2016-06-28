@@ -2,13 +2,14 @@
   "id": 303541177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153293,26.181218,-80.153293,26.181218",
     "geom:latitude":26.181218,
     "geom:longitude":-80.153293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Prospect Rd",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303541177,
-    "wof:lastmodified":1448998392,
+    "wof:lastmodified":1466439867,
     "wof:name":"ACS",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.153293,26.181218,-80.153293,26.181218],
-  "geometry": {"coordinates":[-80.153293,26.181218],"type":"Point"}
+  "bbox": [
+    -80.153293,
+    26.181218,
+    -80.153293,
+    26.181218
+],
+  "geometry": {"coordinates":[-80.15329300000001,26.181218],"type":"Point"}
 }

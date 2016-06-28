@@ -2,13 +2,14 @@
   "id": 185907279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130236,26.407205,-80.130236,26.407205",
     "geom:latitude":26.407205,
     "geom:longitude":-80.130236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 NW 66th Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185907279,
-    "wof:lastmodified":1449008093,
+    "wof:lastmodified":1466429993,
     "wof:name":"Southern Mortgage Funding",
     "wof:parent_id":85888559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.130236,26.407205,-80.130236,26.407205],
+  "bbox": [
+    -80.130236,
+    26.407205,
+    -80.130236,
+    26.407205
+],
   "geometry": {"coordinates":[-80.130236,26.407205],"type":"Point"}
 }

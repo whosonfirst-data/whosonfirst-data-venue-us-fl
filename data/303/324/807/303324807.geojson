@@ -2,13 +2,14 @@
   "id": 303324807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064292,26.535054,-80.064292,26.535054",
     "geom:latitude":26.535054,
     "geom:longitude":-80.064292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Seacrest Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303324807,
-    "wof:lastmodified":1448999548,
+    "wof:lastmodified":1466436138,
     "wof:name":"St John's Baptist Church",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.064292,26.535054,-80.064292,26.535054],
-  "geometry": {"coordinates":[-80.064292,26.535054],"type":"Point"}
+  "bbox": [
+    -80.064292,
+    26.535054,
+    -80.064292,
+    26.535054
+],
+  "geometry": {"coordinates":[-80.06429199999999,26.535054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186626113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.332097,25.844555,-80.332097,25.844555",
     "geom:latitude":25.844555,
     "geom:longitude":-80.332097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7530 NW 82nd Pl",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186626113,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466434519,
     "wof:name":"Old Faithful",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-80.332097,25.844555,-80.332097,25.844555],
+  "bbox": [
+    -80.332097,
+    25.844555,
+    -80.332097,
+    25.844555
+],
   "geometry": {"coordinates":[-80.332097,25.844555],"type":"Point"}
 }

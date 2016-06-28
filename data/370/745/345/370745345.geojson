@@ -2,13 +2,14 @@
   "id": 370745345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70019,25.934137,-81.70019,25.934137",
     "geom:latitude":25.934137,
     "geom:longitude":-81.70019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 San Marco Rd",
     "sg:city":"Marco Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370745345,
-    "wof:lastmodified":1449032319,
+    "wof:lastmodified":1466445603,
     "wof:name":"Rocks & Rugs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-81.70019,25.934137,-81.70019,25.934137],
-  "geometry": {"coordinates":[-81.70019,25.934137],"type":"Point"}
+  "bbox": [
+    -81.70019,
+    25.934137,
+    -81.70019,
+    25.934137
+],
+  "geometry": {"coordinates":[-81.70019000000001,25.934137],"type":"Point"}
 }

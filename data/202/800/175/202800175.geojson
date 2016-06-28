@@ -2,13 +2,14 @@
   "id": 202800175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.344257,25.732813,-80.344257,25.732813",
     "geom:latitude":25.732813,
     "geom:longitude":-80.344257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9280 SW 40th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202800175,
-    "wof:lastmodified":1449060313,
+    "wof:lastmodified":1466432260,
     "wof:name":"Avant-Gardens",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.344257,25.732813,-80.344257,25.732813],
+  "bbox": [
+    -80.344257,
+    25.732813,
+    -80.344257,
+    25.732813
+],
   "geometry": {"coordinates":[-80.344257,25.732813],"type":"Point"}
 }

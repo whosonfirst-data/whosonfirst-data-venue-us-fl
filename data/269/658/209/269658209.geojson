@@ -2,13 +2,14 @@
   "id": 269658209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.080953,30.385454,-87.080953,30.385454",
     "geom:latitude":30.385454,
     "geom:longitude":-87.080953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Country Club Rd",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269658209,
-    "wof:lastmodified":1449036092,
+    "wof:lastmodified":1466431623,
     "wof:name":"Tiger Point Golf & Country Clb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-87.080953,30.385454,-87.080953,30.385454],
-  "geometry": {"coordinates":[-87.080953,30.385454],"type":"Point"}
+  "bbox": [
+    -87.080953,
+    30.385454,
+    -87.080953,
+    30.385454
+],
+  "geometry": {"coordinates":[-87.08095299999999,30.385454],"type":"Point"}
 }

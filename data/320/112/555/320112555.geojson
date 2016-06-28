@@ -2,13 +2,14 @@
   "id": 320112555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.816375,26.560996,-81.816375,26.560996",
     "geom:latitude":26.560996,
     "geom:longitude":-81.816375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 Arborfield Ct",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320112555,
-    "wof:lastmodified":1449012973,
+    "wof:lastmodified":1466435309,
     "wof:name":"Boscore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.816375,26.560996,-81.816375,26.560996],
-  "geometry": {"coordinates":[-81.816375,26.560996],"type":"Point"}
+  "bbox": [
+    -81.816375,
+    26.560996,
+    -81.816375,
+    26.560996
+],
+  "geometry": {"coordinates":[-81.81637499999999,26.560996],"type":"Point"}
 }

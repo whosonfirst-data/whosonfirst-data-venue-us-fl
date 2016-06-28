@@ -2,13 +2,14 @@
   "id": 270360075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.099057,30.356308,-86.099057,30.356308",
     "geom:latitude":30.356308,
     "geom:longitude":-86.099057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 US Hwy 98 E",
     "sg:city":"Santa Rosa Beach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270360075,
-    "wof:lastmodified":1449010498,
+    "wof:lastmodified":1466435623,
     "wof:name":"Vans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.099057,30.356308,-86.099057,30.356308],
+  "bbox": [
+    -86.099057,
+    30.356308,
+    -86.099057,
+    30.356308
+],
   "geometry": {"coordinates":[-86.099057,30.356308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202590661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444242,27.958123,-82.444242,27.958123",
     "geom:latitude":27.958123,
     "geom:longitude":-82.444242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 4th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202590661,
-    "wof:lastmodified":1449061628,
+    "wof:lastmodified":1466429561,
     "wof:name":"Eagle Supply Inc",
     "wof:parent_id":85873225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.444242,27.958123,-82.444242,27.958123],
+  "bbox": [
+    -82.444242,
+    27.958123,
+    -82.444242,
+    27.958123
+],
   "geometry": {"coordinates":[-82.444242,27.958123],"type":"Point"}
 }

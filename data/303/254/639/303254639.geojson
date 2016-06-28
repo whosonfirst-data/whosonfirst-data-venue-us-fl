@@ -2,13 +2,14 @@
   "id": 303254639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.543433,27.335214,-82.543433,27.335214",
     "geom:latitude":27.335214,
     "geom:longitude":-82.543433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 S Palm Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303254639,
-    "wof:lastmodified":1448999800,
+    "wof:lastmodified":1466434930,
     "wof:name":"Chasen Reed",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.543433,27.335214,-82.543433,27.335214],
-  "geometry": {"coordinates":[-82.543433,27.335214],"type":"Point"}
+  "bbox": [
+    -82.543433,
+    27.335214,
+    -82.543433,
+    27.335214
+],
+  "geometry": {"coordinates":[-82.54343299999999,27.335214],"type":"Point"}
 }

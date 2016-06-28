@@ -2,13 +2,14 @@
   "id": 286470001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09386,26.341405,-80.09386,26.341405",
     "geom:latitude":26.341405,
     "geom:longitude":-80.09386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 SW 4th Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286470001,
-    "wof:lastmodified":1449015879,
+    "wof:lastmodified":1466433251,
     "wof:name":"Blakesberg & Company CPA",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.09386,26.341405,-80.09386,26.341405],
-  "geometry": {"coordinates":[-80.09386,26.341405],"type":"Point"}
+  "bbox": [
+    -80.09386,
+    26.341405,
+    -80.09386,
+    26.341405
+],
+  "geometry": {"coordinates":[-80.09386000000001,26.341405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236965063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.472219,28.56395,-81.472219,28.56395",
     "geom:latitude":28.56395,
     "geom:longitude":-81.472219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 Carden Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236965063,
-    "wof:lastmodified":1449004053,
+    "wof:lastmodified":1466442134,
     "wof:name":"Healthcare Analyst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.472219,28.56395,-81.472219,28.56395],
+  "bbox": [
+    -81.472219,
+    28.56395,
+    -81.472219,
+    28.56395
+],
   "geometry": {"coordinates":[-81.472219,28.56395],"type":"Point"}
 }

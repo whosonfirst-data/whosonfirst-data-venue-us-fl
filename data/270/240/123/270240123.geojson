@@ -2,13 +2,14 @@
   "id": 270240123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.955121,28.044969,-81.955121,28.044969",
     "geom:latitude":28.044969,
     "geom:longitude":-81.955121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Kentucky Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270240123,
-    "wof:lastmodified":1449008897,
+    "wof:lastmodified":1466433575,
     "wof:name":"Circuit Court",
     "wof:parent_id":85889099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-81.955121,28.044969,-81.955121,28.044969],
-  "geometry": {"coordinates":[-81.955121,28.044969],"type":"Point"}
+  "bbox": [
+    -81.955121,
+    28.044969,
+    -81.955121,
+    28.044969
+],
+  "geometry": {"coordinates":[-81.95512100000001,28.044969],"type":"Point"}
 }

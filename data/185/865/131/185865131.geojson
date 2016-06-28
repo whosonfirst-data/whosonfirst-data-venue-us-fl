@@ -2,13 +2,14 @@
   "id": 185865131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.25433,30.469806,-87.25433,30.469806",
     "geom:latitude":30.469806,
     "geom:longitude":-87.25433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5603 N W St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185865131,
-    "wof:lastmodified":1449007826,
+    "wof:lastmodified":1466429641,
     "wof:name":"Elysium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surge"
     ]
 },
-  "bbox": [-87.25433,30.469806,-87.25433,30.469806],
+  "bbox": [
+    -87.25433,
+    30.469806,
+    -87.25433,
+    30.469806
+],
   "geometry": {"coordinates":[-87.25433,30.469806],"type":"Point"}
 }

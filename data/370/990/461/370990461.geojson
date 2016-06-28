@@ -2,13 +2,14 @@
   "id": 370990461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496804,30.835761,-86.496804,30.835761",
     "geom:latitude":30.835761,
     "geom:longitude":-86.496804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6523 Possum Ridge Rd",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370990461,
-    "wof:lastmodified":1449031345,
+    "wof:lastmodified":1466448266,
     "wof:name":"Shore Thing Cleaning Svc",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.496804,30.835761,-86.496804,30.835761],
+  "bbox": [
+    -86.496804,
+    30.835761,
+    -86.496804,
+    30.835761
+],
   "geometry": {"coordinates":[-86.496804,30.835761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320369367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024009,24.728097,-81.024009,24.728097",
     "geom:latitude":24.728097,
     "geom:longitude":-81.024009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 122nd St Ocean",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320369367,
-    "wof:lastmodified":1449014773,
+    "wof:lastmodified":1466439723,
     "wof:name":"East Coast Construction M",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.024009,24.728097,-81.024009,24.728097],
-  "geometry": {"coordinates":[-81.024009,24.728097],"type":"Point"}
+  "bbox": [
+    -81.024009,
+    24.728097,
+    -81.024009,
+    24.728097
+],
+  "geometry": {"coordinates":[-81.02400900000001,24.728097],"type":"Point"}
 }

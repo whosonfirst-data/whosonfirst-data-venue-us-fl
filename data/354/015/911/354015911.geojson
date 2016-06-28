@@ -2,13 +2,14 @@
   "id": 354015911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.567014,28.038372,-82.567014,28.038372",
     "geom:latitude":28.038372,
     "geom:longitude":-82.567014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9612 Long Meadow Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354015911,
-    "wof:lastmodified":1449066318,
+    "wof:lastmodified":1466436303,
     "wof:name":"DR Chase Co",
     "wof:parent_id":85889681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-82.567014,28.038372,-82.567014,28.038372],
+  "bbox": [
+    -82.567014,
+    28.038372,
+    -82.567014,
+    28.038372
+],
   "geometry": {"coordinates":[-82.567014,28.038372],"type":"Point"}
 }

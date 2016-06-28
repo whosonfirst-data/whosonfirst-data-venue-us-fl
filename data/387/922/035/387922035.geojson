@@ -2,13 +2,14 @@
   "id": 387922035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547008,27.367204,-82.547008,27.367204",
     "geom:latitude":27.367204,
     "geom:longitude":-82.547008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603 Bradenton Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387922035,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466449917,
     "wof:name":"Mike Walsh Ceramic Tile",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.547008,27.367204,-82.547008,27.367204],
-  "geometry": {"coordinates":[-82.547008,27.367204],"type":"Point"}
+  "bbox": [
+    -82.547008,
+    27.367204,
+    -82.547008,
+    27.367204
+],
+  "geometry": {"coordinates":[-82.54700800000001,27.367204],"type":"Point"}
 }

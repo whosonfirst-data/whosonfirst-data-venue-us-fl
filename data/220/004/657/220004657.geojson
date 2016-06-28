@@ -2,13 +2,14 @@
   "id": 220004657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.5832,28.903257,-81.5832,28.903257",
     "geom:latitude":28.903257,
     "geom:longitude":-81.5832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22228 Orange Blossom Ln",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220004657,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466443301,
     "wof:name":"Houben Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.5832,28.903257,-81.5832,28.903257],
-  "geometry": {"coordinates":[-81.5832,28.903257],"type":"Point"}
+  "bbox": [
+    -81.5832,
+    28.903257,
+    -81.5832,
+    28.903257
+],
+  "geometry": {"coordinates":[-81.58320000000001,28.903257],"type":"Point"}
 }

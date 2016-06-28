@@ -2,13 +2,14 @@
   "id": 320620191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545037,30.184442,-81.545037,30.184442",
     "geom:latitude":30.184442,
     "geom:longitude":-81.545037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7421 Birdies Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320620191,
-    "wof:lastmodified":1449014640,
+    "wof:lastmodified":1466444133,
     "wof:name":"Payton Lawn & Tree Service",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.545037,30.184442,-81.545037,30.184442],
-  "geometry": {"coordinates":[-81.545037,30.184442],"type":"Point"}
+  "bbox": [
+    -81.545037,
+    30.184442,
+    -81.545037,
+    30.184442
+],
+  "geometry": {"coordinates":[-81.54503699999999,30.184442],"type":"Point"}
 }

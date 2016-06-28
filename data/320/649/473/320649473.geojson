@@ -2,13 +2,14 @@
   "id": 320649473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.357599,28.760583,-81.357599,28.760583",
     "geom:latitude":28.760583,
     "geom:longitude":-81.357599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Primera Blvd",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320649473,
-    "wof:lastmodified":1449013819,
+    "wof:lastmodified":1466444631,
     "wof:name":"Dominion Specialty Group Inc",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.357599,28.760583,-81.357599,28.760583],
-  "geometry": {"coordinates":[-81.357599,28.760583],"type":"Point"}
+  "bbox": [
+    -81.357599,
+    28.760583,
+    -81.357599,
+    28.760583
+],
+  "geometry": {"coordinates":[-81.35759899999999,28.760583],"type":"Point"}
 }

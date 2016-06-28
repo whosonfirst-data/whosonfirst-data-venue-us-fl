@@ -2,13 +2,14 @@
   "id": 353389087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387965,25.640308,-80.387965,25.640308",
     "geom:latitude":25.640308,
     "geom:longitude":-80.387965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13834 SW 122nd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353389087,
-    "wof:lastmodified":1449020306,
+    "wof:lastmodified":1466435370,
     "wof:name":"Miguel A Pastrana D M D M D P",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.387965,25.640308,-80.387965,25.640308],
-  "geometry": {"coordinates":[-80.387965,25.640308],"type":"Point"}
+  "bbox": [
+    -80.387965,
+    25.640308,
+    -80.387965,
+    25.640308
+],
+  "geometry": {"coordinates":[-80.38796499999999,25.640308],"type":"Point"}
 }

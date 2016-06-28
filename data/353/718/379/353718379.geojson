@@ -2,13 +2,14 @@
   "id": 353718379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.418056,30.416359,-84.418056,30.416359",
     "geom:latitude":30.416359,
     "geom:longitude":-84.418056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Silver Lake Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353718379,
-    "wof:lastmodified":1449018818,
+    "wof:lastmodified":1466439677,
     "wof:name":"Tallahassee's Mobile Rv Svc",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-84.418056,30.416359,-84.418056,30.416359],
-  "geometry": {"coordinates":[-84.418056,30.416359],"type":"Point"}
+  "bbox": [
+    -84.418056,
+    30.416359,
+    -84.418056,
+    30.416359
+],
+  "geometry": {"coordinates":[-84.41805600000001,30.416359],"type":"Point"}
 }

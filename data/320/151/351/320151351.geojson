@@ -2,13 +2,14 @@
   "id": 320151351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.45258,28.643009,-81.45258,28.643009",
     "geom:latitude":28.643009,
     "geom:longitude":-81.45258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9391 Florence Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320151351,
-    "wof:lastmodified":1449011293,
+    "wof:lastmodified":1466435989,
     "wof:name":"William Ponder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.45258,28.643009,-81.45258,28.643009],
+  "bbox": [
+    -81.45258,
+    28.643009,
+    -81.45258,
+    28.643009
+],
   "geometry": {"coordinates":[-81.45258,28.643009],"type":"Point"}
 }

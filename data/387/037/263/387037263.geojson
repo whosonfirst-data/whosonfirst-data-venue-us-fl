@@ -2,13 +2,14 @@
   "id": 387037263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.286785,28.808908,-81.286785,28.808908",
     "geom:latitude":28.808908,
     "geom:longitude":-81.286785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 W 4th St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387037263,
-    "wof:lastmodified":1449059989,
+    "wof:lastmodified":1466439279,
     "wof:name":"Ray's Circus Of Values",
     "wof:parent_id":85889569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.286785,28.808908,-81.286785,28.808908],
-  "geometry": {"coordinates":[-81.286785,28.808908],"type":"Point"}
+  "bbox": [
+    -81.286785,
+    28.808908,
+    -81.286785,
+    28.808908
+],
+  "geometry": {"coordinates":[-81.28678499999999,28.808908],"type":"Point"}
 }

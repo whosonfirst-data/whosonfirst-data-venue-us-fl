@@ -2,13 +2,14 @@
   "id": 236748143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101628,26.621585,-80.101628,26.621585",
     "geom:latitude":26.621585,
     "geom:longitude":-80.101628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Lakewood Rd",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236748143,
-    "wof:lastmodified":1449004255,
+    "wof:lastmodified":1466439108,
     "wof:name":"Michael Richards",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.101628,26.621585,-80.101628,26.621585],
-  "geometry": {"coordinates":[-80.101628,26.621585],"type":"Point"}
+  "bbox": [
+    -80.101628,
+    26.621585,
+    -80.101628,
+    26.621585
+],
+  "geometry": {"coordinates":[-80.10162800000001,26.621585],"type":"Point"}
 }

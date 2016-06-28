@@ -2,13 +2,14 @@
   "id": 202712779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396893,24.687585,-81.396893,24.687585",
     "geom:latitude":24.687585,
     "geom:longitude":-81.396893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27959 Lobster Tail Trl",
     "sg:city":"Summerland Key",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202712779,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466431145,
     "wof:name":"Funtime Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.396893,24.687585,-81.396893,24.687585],
-  "geometry": {"coordinates":[-81.396893,24.687585],"type":"Point"}
+  "bbox": [
+    -81.396893,
+    24.687585,
+    -81.396893,
+    24.687585
+],
+  "geometry": {"coordinates":[-81.39689300000001,24.687585],"type":"Point"}
 }

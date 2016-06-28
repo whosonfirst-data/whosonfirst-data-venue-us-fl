@@ -2,13 +2,14 @@
   "id": 387050479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344591,28.74148,-81.344591,28.74148",
     "geom:latitude":28.74148,
     "geom:longitude":-81.344591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Tomlinson Ter",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387050479,
-    "wof:lastmodified":1449058208,
+    "wof:lastmodified":1466439482,
     "wof:name":"Bee Inc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.344591,28.74148,-81.344591,28.74148],
-  "geometry": {"coordinates":[-81.344591,28.74148],"type":"Point"}
+  "bbox": [
+    -81.344591,
+    28.74148,
+    -81.344591,
+    28.74148
+],
+  "geometry": {"coordinates":[-81.34459099999999,28.74148],"type":"Point"}
 }

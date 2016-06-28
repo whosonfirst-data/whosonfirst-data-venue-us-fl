@@ -2,13 +2,14 @@
   "id": 386926469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.636389,30.18929,-82.636389,30.18929",
     "geom:latitude":30.18929,
     "geom:longitude":-82.636389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 US Hwy 90",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386926469,
-    "wof:lastmodified":1449028739,
+    "wof:lastmodified":1466438330,
     "wof:name":"UPS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "package"
     ]
 },
-  "bbox": [-82.636389,30.18929,-82.636389,30.18929],
-  "geometry": {"coordinates":[-82.636389,30.18929],"type":"Point"}
+  "bbox": [
+    -82.636389,
+    30.18929,
+    -82.636389,
+    30.18929
+],
+  "geometry": {"coordinates":[-82.63638899999999,30.18929],"type":"Point"}
 }

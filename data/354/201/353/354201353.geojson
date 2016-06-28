@@ -2,13 +2,14 @@
   "id": 354201353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248641,25.927004,-80.248641,25.927004",
     "geom:latitude":25.927004,
     "geom:longitude":-80.248641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 NW 167th Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354201353,
-    "wof:lastmodified":1449067437,
+    "wof:lastmodified":1466439195,
     "wof:name":"John Diggs Moving",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-80.248641,25.927004,-80.248641,25.927004],
-  "geometry": {"coordinates":[-80.248641,25.927004],"type":"Point"}
+  "bbox": [
+    -80.248641,
+    25.927004,
+    -80.248641,
+    25.927004
+],
+  "geometry": {"coordinates":[-80.24864100000001,25.927004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354320807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515076,28.329092,-81.515076,28.329092",
     "geom:latitude":28.329092,
     "geom:longitude":-81.515076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 Florida Plaza Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354320807,
-    "wof:lastmodified":1449066342,
+    "wof:lastmodified":1466441022,
     "wof:name":"Million Dollar Mulligan",
     "wof:parent_id":85889321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pitch"
     ]
 },
-  "bbox": [-81.515076,28.329092,-81.515076,28.329092],
-  "geometry": {"coordinates":[-81.515076,28.329092],"type":"Point"}
+  "bbox": [
+    -81.515076,
+    28.329092,
+    -81.515076,
+    28.329092
+],
+  "geometry": {"coordinates":[-81.51507599999999,28.329092],"type":"Point"}
 }

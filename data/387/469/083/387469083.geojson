@@ -2,13 +2,14 @@
   "id": 387469083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.432415,28.552761,-81.432415,28.552761",
     "geom:latitude":28.552761,
     "geom:longitude":-81.432415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 W Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":387469083,
-    "wof:lastmodified":1449060015,
+    "wof:lastmodified":1466445894,
     "wof:name":"Drive Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.432415,28.552761,-81.432415,28.552761],
-  "geometry": {"coordinates":[-81.432415,28.552761],"type":"Point"}
+  "bbox": [
+    -81.432415,
+    28.552761,
+    -81.432415,
+    28.552761
+],
+  "geometry": {"coordinates":[-81.43241500000001,28.552761],"type":"Point"}
 }

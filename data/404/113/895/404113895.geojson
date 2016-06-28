@@ -2,13 +2,14 @@
   "id": 404113895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.280807,25.317283,-80.280807,25.317283",
     "geom:latitude":25.317283,
     "geom:longitude":-80.280807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ocean Reef Dr",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404113895,
-    "wof:lastmodified":1449040228,
+    "wof:lastmodified":1466442006,
     "wof:name":"Medcial Center of Ocean Reef",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.280807,25.317283,-80.280807,25.317283],
+  "bbox": [
+    -80.280807,
+    25.317283,
+    -80.280807,
+    25.317283
+],
   "geometry": {"coordinates":[-80.280807,25.317283],"type":"Point"}
 }

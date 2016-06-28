@@ -2,13 +2,14 @@
   "id": 387939169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.311583,28.230989,-81.311583,28.230989",
     "geom:latitude":28.230989,
     "geom:longitude":-81.311583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 Willow Lake Ct",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387939169,
-    "wof:lastmodified":1449057216,
+    "wof:lastmodified":1466449786,
     "wof:name":"Willow Electronics Inc",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.311583,28.230989,-81.311583,28.230989],
+  "bbox": [
+    -81.311583,
+    28.230989,
+    -81.311583,
+    28.230989
+],
   "geometry": {"coordinates":[-81.311583,28.230989],"type":"Point"}
 }

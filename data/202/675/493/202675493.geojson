@@ -2,13 +2,14 @@
   "id": 202675493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700392,28.033879,-82.700392,28.033879",
     "geom:latitude":28.033879,
     "geom:longitude":-82.700392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Timberview Dr",
     "sg:city":"Safety Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202675493,
-    "wof:lastmodified":1449061412,
+    "wof:lastmodified":1466430668,
     "wof:name":"Pasco Value Guide",
     "wof:parent_id":85807405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-82.700392,28.033879,-82.700392,28.033879],
-  "geometry": {"coordinates":[-82.700392,28.033879],"type":"Point"}
+  "bbox": [
+    -82.700392,
+    28.033879,
+    -82.700392,
+    28.033879
+],
+  "geometry": {"coordinates":[-82.70039199999999,28.033879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303166255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123928,25.889939,-80.123928,25.889939",
     "geom:latitude":25.889939,
     "geom:longitude":-80.123928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10155 Collins Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303166255,
-    "wof:lastmodified":1448999486,
+    "wof:lastmodified":1466433398,
     "wof:name":"Sidney Crown Revocable Trust",
     "wof:parent_id":85804283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-80.123928,25.889939,-80.123928,25.889939],
-  "geometry": {"coordinates":[-80.123928,25.889939],"type":"Point"}
+  "bbox": [
+    -80.123928,
+    25.889939,
+    -80.123928,
+    25.889939
+],
+  "geometry": {"coordinates":[-80.12392800000001,25.889939],"type":"Point"}
 }

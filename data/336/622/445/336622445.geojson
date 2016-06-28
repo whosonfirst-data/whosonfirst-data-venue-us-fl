@@ -2,13 +2,14 @@
   "id": 336622445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.582745,30.395497,-86.582745,30.395497",
     "geom:latitude":30.395497,
     "geom:longitude":-86.582745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Miracle Strip Pkwy",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336622445,
-    "wof:lastmodified":1448997835,
+    "wof:lastmodified":1466435373,
     "wof:name":"Destin West Beach & Bay Resort",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-86.582745,30.395497,-86.582745,30.395497],
+  "bbox": [
+    -86.582745,
+    30.395497,
+    -86.582745,
+    30.395497
+],
   "geometry": {"coordinates":[-86.582745,30.395497],"type":"Point"}
 }

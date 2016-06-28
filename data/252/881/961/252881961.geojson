@@ -2,13 +2,14 @@
   "id": 252881961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088563,26.45185,-80.088563,26.45185",
     "geom:latitude":26.45185,
     "geom:longitude":-80.088563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 SW 15th Ave",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252881961,
-    "wof:lastmodified":1449006049,
+    "wof:lastmodified":1466430929,
     "wof:name":"Delray Beach Boys & Girls CLB",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.088563,26.45185,-80.088563,26.45185],
-  "geometry": {"coordinates":[-80.088563,26.45185],"type":"Point"}
+  "bbox": [
+    -80.088563,
+    26.45185,
+    -80.088563,
+    26.45185
+],
+  "geometry": {"coordinates":[-80.08856299999999,26.45185],"type":"Point"}
 }

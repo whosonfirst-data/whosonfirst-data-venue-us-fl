@@ -2,13 +2,14 @@
   "id": 270433811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300175,28.699638,-81.300175,28.699638",
     "geom:latitude":28.699638,
     "geom:longitude":-81.300175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 State Rd 434 E",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270433811,
-    "wof:lastmodified":1449008928,
+    "wof:lastmodified":1466436872,
     "wof:name":"Enhancement Group",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.300175,28.699638,-81.300175,28.699638],
+  "bbox": [
+    -81.300175,
+    28.699638,
+    -81.300175,
+    28.699638
+],
   "geometry": {"coordinates":[-81.300175,28.699638],"type":"Point"}
 }

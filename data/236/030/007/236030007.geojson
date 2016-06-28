@@ -2,13 +2,14 @@
   "id": 236030007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590899,30.485901,-81.590899,30.485901",
     "geom:latitude":30.485901,
     "geom:longitude":-81.590899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Starratt Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236030007,
-    "wof:lastmodified":1449002741,
+    "wof:lastmodified":1466428815,
     "wof:name":"Dunn's Creek Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-81.590899,30.485901,-81.590899,30.485901],
-  "geometry": {"coordinates":[-81.590899,30.485901],"type":"Point"}
+  "bbox": [
+    -81.590899,
+    30.485901,
+    -81.590899,
+    30.485901
+],
+  "geometry": {"coordinates":[-81.59089899999999,30.485901],"type":"Point"}
 }

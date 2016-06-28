@@ -2,13 +2,14 @@
   "id": 320679905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583795,27.894006,-81.583795,27.894006",
     "geom:latitude":27.894006,
     "geom:longitude":-81.583795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 State Hwy 60",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320679905,
-    "wof:lastmodified":1449013665,
+    "wof:lastmodified":1466445143,
     "wof:name":"Advanced Interventional",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.583795,27.894006,-81.583795,27.894006],
-  "geometry": {"coordinates":[-81.583795,27.894006],"type":"Point"}
+  "bbox": [
+    -81.583795,
+    27.894006,
+    -81.583795,
+    27.894006
+],
+  "geometry": {"coordinates":[-81.58379499999999,27.894006],"type":"Point"}
 }

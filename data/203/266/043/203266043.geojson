@@ -2,13 +2,14 @@
   "id": 203266043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.507415,30.883808,-85.507415,30.883808",
     "geom:latitude":30.883808,
     "geom:longitude":-85.507415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Galilee Rd",
     "sg:city":"Graceville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203266043,
-    "wof:lastmodified":1449025013,
+    "wof:lastmodified":1466429750,
     "wof:name":"William Crutchfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-85.507415,30.883808,-85.507415,30.883808],
-  "geometry": {"coordinates":[-85.507415,30.883808],"type":"Point"}
+  "bbox": [
+    -85.507415,
+    30.883808,
+    -85.507415,
+    30.883808
+],
+  "geometry": {"coordinates":[-85.50741499999999,30.883808],"type":"Point"}
 }

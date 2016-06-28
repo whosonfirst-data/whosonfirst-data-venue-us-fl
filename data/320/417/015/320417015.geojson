@@ -2,13 +2,14 @@
   "id": 320417015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603833,30.410269,-86.603833,30.410269",
     "geom:latitude":30.410269,
     "geom:longitude":-86.603833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 4th St SE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320417015,
-    "wof:lastmodified":1449012796,
+    "wof:lastmodified":1466440541,
     "wof:name":"Dan's Tint Shop",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.603833,30.410269,-86.603833,30.410269],
-  "geometry": {"coordinates":[-86.603833,30.410269],"type":"Point"}
+  "bbox": [
+    -86.603833,
+    30.410269,
+    -86.603833,
+    30.410269
+],
+  "geometry": {"coordinates":[-86.60383299999999,30.410269],"type":"Point"}
 }

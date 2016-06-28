@@ -2,13 +2,14 @@
   "id": 303246193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.643735,26.613377,-81.643735,26.613377",
     "geom:latitude":26.613377,
     "geom:longitude":-81.643735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Lee Blvd",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303246193,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466434782,
     "wof:name":"Los Amigos Grocery",
     "wof:parent_id":85889141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.643735,26.613377,-81.643735,26.613377],
-  "geometry": {"coordinates":[-81.643735,26.613377],"type":"Point"}
+  "bbox": [
+    -81.643735,
+    26.613377,
+    -81.643735,
+    26.613377
+],
+  "geometry": {"coordinates":[-81.64373500000001,26.613377],"type":"Point"}
 }

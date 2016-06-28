@@ -2,13 +2,14 @@
   "id": 169744043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.253717,30.438205,-87.253717,30.438205",
     "geom:latitude":30.438205,
     "geom:longitude":-87.253717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W Scott St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169744043,
-    "wof:lastmodified":1449033878,
+    "wof:lastmodified":1466446213,
     "wof:name":"Wesley Scott Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.253717,30.438205,-87.253717,30.438205],
-  "geometry": {"coordinates":[-87.253717,30.438205],"type":"Point"}
+  "bbox": [
+    -87.253717,
+    30.438205,
+    -87.253717,
+    30.438205
+],
+  "geometry": {"coordinates":[-87.25371699999999,30.438205],"type":"Point"}
 }

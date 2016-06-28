@@ -2,13 +2,14 @@
   "id": 286830015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18381,25.954387,-80.18381,25.954387",
     "geom:latitude":25.954387,
     "geom:longitude":-80.18381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NE 195th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286830015,
-    "wof:lastmodified":1449015793,
+    "wof:lastmodified":1466439647,
     "wof:name":"Canongate Condominium Apts",
     "wof:parent_id":85879299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "condominium"
     ]
 },
-  "bbox": [-80.18381,25.954387,-80.18381,25.954387],
-  "geometry": {"coordinates":[-80.18381,25.954387],"type":"Point"}
+  "bbox": [
+    -80.18381,
+    25.954387,
+    -80.18381,
+    25.954387
+],
+  "geometry": {"coordinates":[-80.18380999999999,25.954387],"type":"Point"}
 }

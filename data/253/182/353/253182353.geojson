@@ -2,13 +2,14 @@
   "id": 253182353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.536915,30.163672,-81.536915,30.163672",
     "geom:latitude":30.163672,
     "geom:longitude":-81.536915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11436 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253182353,
-    "wof:lastmodified":1449064694,
+    "wof:lastmodified":1466430444,
     "wof:name":"Mulch & More Inc",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mulch"
     ]
 },
-  "bbox": [-81.536915,30.163672,-81.536915,30.163672],
-  "geometry": {"coordinates":[-81.536915,30.163672],"type":"Point"}
+  "bbox": [
+    -81.536915,
+    30.163672,
+    -81.536915,
+    30.163672
+],
+  "geometry": {"coordinates":[-81.53691499999999,30.163672],"type":"Point"}
 }

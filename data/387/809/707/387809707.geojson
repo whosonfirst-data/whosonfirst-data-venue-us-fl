@@ -2,13 +2,14 @@
   "id": 387809707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.574508,30.304871,-81.574508,30.304871",
     "geom:latitude":30.304871,
     "geom:longitude":-81.574508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Grove Park Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809707,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1466449028,
     "wof:name":"Q Express Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.574508,30.304871,-81.574508,30.304871],
-  "geometry": {"coordinates":[-81.574508,30.304871],"type":"Point"}
+  "bbox": [
+    -81.574508,
+    30.304871,
+    -81.574508,
+    30.304871
+],
+  "geometry": {"coordinates":[-81.57450799999999,30.304871],"type":"Point"}
 }

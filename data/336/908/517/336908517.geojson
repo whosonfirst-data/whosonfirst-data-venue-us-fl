@@ -2,13 +2,14 @@
   "id": 336908517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.650011,30.181367,-85.650011,30.181367",
     "geom:latitude":30.181367,
     "geom:longitude":-85.650011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 N Cove Blvd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336908517,
-    "wof:lastmodified":1448997549,
+    "wof:lastmodified":1466440324,
     "wof:name":"Cemex",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-85.650011,30.181367,-85.650011,30.181367],
-  "geometry": {"coordinates":[-85.650011,30.181367],"type":"Point"}
+  "bbox": [
+    -85.650011,
+    30.181367,
+    -85.650011,
+    30.181367
+],
+  "geometry": {"coordinates":[-85.65001100000001,30.181367],"type":"Point"}
 }

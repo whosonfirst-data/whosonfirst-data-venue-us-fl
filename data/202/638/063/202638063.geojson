@@ -2,13 +2,14 @@
   "id": 202638063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249688,26.126931,-80.249688,26.126931",
     "geom:latitude":26.126931,
     "geom:longitude":-80.249688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7487 NW 4th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202638063,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466430187,
     "wof:name":"Solution Partners",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.249688,26.126931,-80.249688,26.126931],
-  "geometry": {"coordinates":[-80.249688,26.126931],"type":"Point"}
+  "bbox": [
+    -80.249688,
+    26.126931,
+    -80.249688,
+    26.126931
+],
+  "geometry": {"coordinates":[-80.24968800000001,26.126931],"type":"Point"}
 }

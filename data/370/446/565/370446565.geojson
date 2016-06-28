@@ -2,13 +2,14 @@
   "id": 370446565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525016,27.363614,-82.525016,27.363614",
     "geom:latitude":27.363614,
     "geom:longitude":-82.525016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 King Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370446565,
-    "wof:lastmodified":1449032188,
+    "wof:lastmodified":1466441035,
     "wof:name":"Hugine Cleveland Rev",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.525016,27.363614,-82.525016,27.363614],
-  "geometry": {"coordinates":[-82.525016,27.363614],"type":"Point"}
+  "bbox": [
+    -82.525016,
+    27.363614,
+    -82.525016,
+    27.363614
+],
+  "geometry": {"coordinates":[-82.52501599999999,27.363614],"type":"Point"}
 }

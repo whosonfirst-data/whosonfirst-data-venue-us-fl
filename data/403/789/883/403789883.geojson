@@ -2,13 +2,14 @@
   "id": 403789883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.669598,28.852852,-81.669598,28.852852",
     "geom:latitude":28.852852,
     "geom:longitude":-81.669598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Orange Ave",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403789883,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1466440953,
     "wof:name":"Merritt & Watson PA",
     "wof:parent_id":85888779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.669598,28.852852,-81.669598,28.852852],
-  "geometry": {"coordinates":[-81.669598,28.852852],"type":"Point"}
+  "bbox": [
+    -81.669598,
+    28.852852,
+    -81.669598,
+    28.852852
+],
+  "geometry": {"coordinates":[-81.66959799999999,28.852852],"type":"Point"}
 }

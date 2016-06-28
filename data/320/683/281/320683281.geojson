@@ -2,13 +2,14 @@
   "id": 320683281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.056188,29.152207,-81.056188,29.152207",
     "geom:latitude":29.152207,
     "geom:longitude":-81.056188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 Pelican Bay Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320683281,
-    "wof:lastmodified":1449012656,
+    "wof:lastmodified":1466445197,
     "wof:name":"Go Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.056188,29.152207,-81.056188,29.152207],
-  "geometry": {"coordinates":[-81.056188,29.152207],"type":"Point"}
+  "bbox": [
+    -81.056188,
+    29.152207,
+    -81.056188,
+    29.152207
+],
+  "geometry": {"coordinates":[-81.05618800000001,29.152207],"type":"Point"}
 }

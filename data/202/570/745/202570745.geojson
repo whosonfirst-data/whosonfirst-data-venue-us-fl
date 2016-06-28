@@ -2,13 +2,14 @@
   "id": 202570745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.115099,30.422797,-84.115099,30.422797",
     "geom:latitude":30.422797,
     "geom:longitude":-84.115099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9557 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202570745,
-    "wof:lastmodified":1449061616,
+    "wof:lastmodified":1466429284,
     "wof:name":"Palmer Floor Covering",
     "wof:parent_id":85881331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.115099,30.422797,-84.115099,30.422797],
+  "bbox": [
+    -84.115099,
+    30.422797,
+    -84.115099,
+    30.422797
+],
   "geometry": {"coordinates":[-84.115099,30.422797],"type":"Point"}
 }

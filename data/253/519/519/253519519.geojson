@@ -2,13 +2,14 @@
   "id": 253519519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.36005,28.287794,-81.36005,28.287794",
     "geom:latitude":28.287794,
     "geom:longitude":-81.36005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Magic Landings Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253519519,
-    "wof:lastmodified":1449065598,
+    "wof:lastmodified":1466435949,
     "wof:name":"Magic Landings",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-81.36005,28.287794,-81.36005,28.287794],
+  "bbox": [
+    -81.36005,
+    28.287794,
+    -81.36005,
+    28.287794
+],
   "geometry": {"coordinates":[-81.36005,28.287794],"type":"Point"}
 }

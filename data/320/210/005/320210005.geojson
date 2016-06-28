@@ -2,13 +2,14 @@
   "id": 320210005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260623,25.730125,-80.260623,25.730125",
     "geom:latitude":25.730125,
     "geom:longitude":-80.260623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Greco Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320210005,
-    "wof:lastmodified":1449012547,
+    "wof:lastmodified":1466436976,
     "wof:name":"IRA Insurance LLC",
     "wof:parent_id":85889185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.260623,25.730125,-80.260623,25.730125],
+  "bbox": [
+    -80.260623,
+    25.730125,
+    -80.260623,
+    25.730125
+],
   "geometry": {"coordinates":[-80.260623,25.730125],"type":"Point"}
 }

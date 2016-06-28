@@ -2,13 +2,14 @@
   "id": 320486771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.243524,28.860124,-81.243524,28.860124",
     "geom:latitude":28.860124,
     "geom:longitude":-81.243524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Enterprise Osteen Rd",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320486771,
-    "wof:lastmodified":1449013343,
+    "wof:lastmodified":1466441788,
     "wof:name":"Dan Trimmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.243524,28.860124,-81.243524,28.860124],
-  "geometry": {"coordinates":[-81.243524,28.860124],"type":"Point"}
+  "bbox": [
+    -81.243524,
+    28.860124,
+    -81.243524,
+    28.860124
+],
+  "geometry": {"coordinates":[-81.24352399999999,28.860124],"type":"Point"}
 }

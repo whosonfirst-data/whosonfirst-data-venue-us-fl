@@ -2,13 +2,14 @@
   "id": 236251801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.256057,30.482569,-87.256057,30.482569",
     "geom:latitude":30.482569,
     "geom:longitude":-87.256057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236251801,
-    "wof:lastmodified":1449001725,
+    "wof:lastmodified":1466431975,
     "wof:name":"North Star Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "general"
     ]
 },
-  "bbox": [-87.256057,30.482569,-87.256057,30.482569],
+  "bbox": [
+    -87.256057,
+    30.482569,
+    -87.256057,
+    30.482569
+],
   "geometry": {"coordinates":[-87.256057,30.482569],"type":"Point"}
 }

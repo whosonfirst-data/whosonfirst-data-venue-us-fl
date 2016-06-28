@@ -2,13 +2,14 @@
   "id": 387601067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.602705,30.279227,-81.602705,30.279227",
     "geom:latitude":30.279227,
     "geom:longitude":-81.602705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4347 University Blvd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387601067,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1466447449,
     "wof:name":"Cellular Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.602705,30.279227,-81.602705,30.279227],
+  "bbox": [
+    -81.602705,
+    30.279227,
+    -81.602705,
+    30.279227
+],
   "geometry": {"coordinates":[-81.602705,30.279227],"type":"Point"}
 }

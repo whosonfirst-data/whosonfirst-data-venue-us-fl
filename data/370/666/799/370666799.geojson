@@ -2,13 +2,14 @@
   "id": 370666799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.626603,27.499565,-82.626603,27.499565",
     "geom:latitude":27.499565,
     "geom:longitude":-82.626603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6307 1st Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370666799,
-    "wof:lastmodified":1449030328,
+    "wof:lastmodified":1466444391,
     "wof:name":"Sunshine State Inspections",
     "wof:parent_id":85888577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.626603,27.499565,-82.626603,27.499565],
+  "bbox": [
+    -82.626603,
+    27.499565,
+    -82.626603,
+    27.499565
+],
   "geometry": {"coordinates":[-82.626603,27.499565],"type":"Point"}
 }

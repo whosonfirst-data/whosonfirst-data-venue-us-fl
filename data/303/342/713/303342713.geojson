@@ -2,13 +2,14 @@
   "id": 303342713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.119067,25.988037,-80.119067,25.988037",
     "geom:latitude":25.988037,
     "geom:longitude":-80.119067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 S Ocean Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303342713,
-    "wof:lastmodified":1449000393,
+    "wof:lastmodified":1466436443,
     "wof:name":"Bank of America",
     "wof:parent_id":85881953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "national"
     ]
 },
-  "bbox": [-80.119067,25.988037,-80.119067,25.988037],
+  "bbox": [
+    -80.119067,
+    25.988037,
+    -80.119067,
+    25.988037
+],
   "geometry": {"coordinates":[-80.119067,25.988037],"type":"Point"}
 }

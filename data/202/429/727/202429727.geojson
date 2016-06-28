@@ -2,13 +2,14 @@
   "id": 202429727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459494,27.993041,-82.459494,27.993041",
     "geom:latitude":27.993041,
     "geom:longitude":-82.459494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5138 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202429727,
-    "wof:lastmodified":1449062510,
+    "wof:lastmodified":1466444284,
     "wof:name":"Chapel Of Faith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.459494,27.993041,-82.459494,27.993041],
-  "geometry": {"coordinates":[-82.459494,27.993041],"type":"Point"}
+  "bbox": [
+    -82.459494,
+    27.993041,
+    -82.459494,
+    27.993041
+],
+  "geometry": {"coordinates":[-82.45949400000001,27.993041],"type":"Point"}
 }

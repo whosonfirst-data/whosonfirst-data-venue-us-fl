@@ -2,13 +2,14 @@
   "id": 186078385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.46416,28.307409,-81.46416,28.307409",
     "geom:latitude":28.307409,
     "geom:longitude":-81.46416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 W Vine St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186078385,
-    "wof:lastmodified":1449052588,
+    "wof:lastmodified":1466445034,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85878537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.46416,28.307409,-81.46416,28.307409],
-  "geometry": {"coordinates":[-81.46416,28.307409],"type":"Point"}
+  "bbox": [
+    -81.46416,
+    28.307409,
+    -81.46416,
+    28.307409
+],
+  "geometry": {"coordinates":[-81.46416000000001,28.307409],"type":"Point"}
 }

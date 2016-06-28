@@ -2,13 +2,14 @@
   "id": 303849733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.304668,30.448321,-87.304668,30.448321",
     "geom:latitude":30.448321,
     "geom:longitude":-87.304668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4551 Marlane Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303849733,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466445159,
     "wof:name":"Cottingham General Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.304668,30.448321,-87.304668,30.448321],
-  "geometry": {"coordinates":[-87.304668,30.448321],"type":"Point"}
+  "bbox": [
+    -87.304668,
+    30.448321,
+    -87.304668,
+    30.448321
+],
+  "geometry": {"coordinates":[-87.30466800000001,30.448321],"type":"Point"}
 }

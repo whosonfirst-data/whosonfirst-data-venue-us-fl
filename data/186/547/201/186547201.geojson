@@ -2,13 +2,14 @@
   "id": 186547201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.609158,30.320383,-81.609158,30.320383",
     "geom:latitude":30.320383,
     "geom:longitude":-81.609158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 Clifton Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186547201,
-    "wof:lastmodified":1449050517,
+    "wof:lastmodified":1466433433,
     "wof:name":"Designers Resource",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.609158,30.320383,-81.609158,30.320383],
-  "geometry": {"coordinates":[-81.609158,30.320383],"type":"Point"}
+  "bbox": [
+    -81.609158,
+    30.320383,
+    -81.609158,
+    30.320383
+],
+  "geometry": {"coordinates":[-81.60915799999999,30.320383],"type":"Point"}
 }

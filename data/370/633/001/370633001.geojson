@@ -2,13 +2,14 @@
   "id": 370633001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.495784,25.479792,-80.495784,25.479792",
     "geom:latitude":25.479792,
     "geom:longitude":-80.495784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 NW 16th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370633001,
-    "wof:lastmodified":1449032439,
+    "wof:lastmodified":1466443881,
     "wof:name":"Richard F Ivins",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.495784,25.479792,-80.495784,25.479792],
+  "bbox": [
+    -80.495784,
+    25.479792,
+    -80.495784,
+    25.479792
+],
   "geometry": {"coordinates":[-80.495784,25.479792],"type":"Point"}
 }

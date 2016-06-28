@@ -2,13 +2,14 @@
   "id": 252755401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.519725,28.508341,-82.519725,28.508341",
     "geom:latitude":28.508341,
     "geom:longitude":-82.519725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5290 Gwen Ln",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":252755401,
-    "wof:lastmodified":1449005721,
+    "wof:lastmodified":1466429105,
     "wof:name":"Magic Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "swimming"
     ]
 },
-  "bbox": [-82.519725,28.508341,-82.519725,28.508341],
-  "geometry": {"coordinates":[-82.519725,28.508341],"type":"Point"}
+  "bbox": [
+    -82.519725,
+    28.508341,
+    -82.519725,
+    28.508341
+],
+  "geometry": {"coordinates":[-82.51972499999999,28.508341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303744691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.627115,30.189581,-81.627115,30.189581",
     "geom:latitude":30.189581,
     "geom:longitude":-81.627115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10337 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303744691,
-    "wof:lastmodified":1448998999,
+    "wof:lastmodified":1466443376,
     "wof:name":"Jacksonville Heart Ctr",
     "wof:parent_id":85870721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.627115,30.189581,-81.627115,30.189581],
+  "bbox": [
+    -81.627115,
+    30.189581,
+    -81.627115,
+    30.189581
+],
   "geometry": {"coordinates":[-81.627115,30.189581],"type":"Point"}
 }

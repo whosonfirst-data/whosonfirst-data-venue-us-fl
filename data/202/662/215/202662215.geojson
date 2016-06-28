@@ -2,13 +2,14 @@
   "id": 202662215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.264212,28.733344,-81.264212,28.733344",
     "geom:latitude":28.733344,
     "geom:longitude":-81.264212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 S Sanford Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202662215,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466430499,
     "wof:name":"David Steely Handyman",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-81.264212,28.733344,-81.264212,28.733344],
+  "bbox": [
+    -81.264212,
+    28.733344,
+    -81.264212,
+    28.733344
+],
   "geometry": {"coordinates":[-81.264212,28.733344],"type":"Point"}
 }

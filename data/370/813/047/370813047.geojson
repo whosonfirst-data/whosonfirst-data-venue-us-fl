@@ -2,13 +2,14 @@
   "id": 370813047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131327,26.231641,-80.131327,26.231641",
     "geom:latitude":26.231641,
     "geom:longitude":-80.131327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Atlantic Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370813047,
-    "wof:lastmodified":1449029969,
+    "wof:lastmodified":1466446489,
     "wof:name":"Public Health Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-80.131327,26.231641,-80.131327,26.231641],
+  "bbox": [
+    -80.131327,
+    26.231641,
+    -80.131327,
+    26.231641
+],
   "geometry": {"coordinates":[-80.131327,26.231641],"type":"Point"}
 }

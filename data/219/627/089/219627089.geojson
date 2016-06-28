@@ -2,13 +2,14 @@
   "id": 219627089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.25011,29.508275,-81.25011,29.508275",
     "geom:latitude":29.508275,
     "geom:longitude":-81.25011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Richland Ln",
     "sg:city":"Palm Coast",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219627089,
-    "wof:lastmodified":1449074002,
+    "wof:lastmodified":1466433158,
     "wof:name":"Dry Clean Xpress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.25011,29.508275,-81.25011,29.508275],
-  "geometry": {"coordinates":[-81.25011,29.508275],"type":"Point"}
+  "bbox": [
+    -81.25011,
+    29.508275,
+    -81.25011,
+    29.508275
+],
+  "geometry": {"coordinates":[-81.25011000000001,29.508275],"type":"Point"}
 }

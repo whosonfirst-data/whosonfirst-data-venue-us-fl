@@ -2,13 +2,14 @@
   "id": 202486953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.393607,28.58562,-81.393607,28.58562",
     "geom:latitude":28.58562,
     "geom:longitude":-81.393607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3551 Edgewater Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202486953,
-    "wof:lastmodified":1449061519,
+    "wof:lastmodified":1466445804,
     "wof:name":"All Florida Capital Investment",
     "wof:parent_id":85879505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-81.393607,28.58562,-81.393607,28.58562],
+  "bbox": [
+    -81.393607,
+    28.58562,
+    -81.393607,
+    28.58562
+],
   "geometry": {"coordinates":[-81.393607,28.58562],"type":"Point"}
 }

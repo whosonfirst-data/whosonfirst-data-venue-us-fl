@@ -2,13 +2,14 @@
   "id": 202519137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401397,28.410874,-81.401397,28.410874",
     "geom:latitude":28.410874,
     "geom:longitude":-81.401397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Satellite Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202519137,
-    "wof:lastmodified":1449062476,
+    "wof:lastmodified":1466428604,
     "wof:name":"General Elevator Co",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-81.401397,28.410874,-81.401397,28.410874],
+  "bbox": [
+    -81.401397,
+    28.410874,
+    -81.401397,
+    28.410874
+],
   "geometry": {"coordinates":[-81.401397,28.410874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387489025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.280592,30.540568,-87.280592,30.540568",
     "geom:latitude":30.540568,
     "geom:longitude":-87.280592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9888 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387489025,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1466446201,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.280592,30.540568,-87.280592,30.540568],
+  "bbox": [
+    -87.280592,
+    30.540568,
+    -87.280592,
+    30.540568
+],
   "geometry": {"coordinates":[-87.280592,30.540568],"type":"Point"}
 }

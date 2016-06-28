@@ -2,13 +2,14 @@
   "id": 235969217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.303884,28.581301,-81.303884,28.581301",
     "geom:latitude":28.581301,
     "geom:longitude":-81.303884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 Terry Brook Dr",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235969217,
-    "wof:lastmodified":1449008337,
+    "wof:lastmodified":1466428941,
     "wof:name":"Seabrook Apartments",
     "wof:parent_id":85889323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.303884,28.581301,-81.303884,28.581301],
+  "bbox": [
+    -81.303884,
+    28.581301,
+    -81.303884,
+    28.581301
+],
   "geometry": {"coordinates":[-81.303884,28.581301],"type":"Point"}
 }

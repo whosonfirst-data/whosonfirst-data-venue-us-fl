@@ -2,13 +2,14 @@
   "id": 353418005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037394,26.78359,-80.037394,26.78359",
     "geom:latitude":26.78359,
     "geom:longitude":-80.037394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 E Blue Heron Blvd",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353418005,
-    "wof:lastmodified":1449020273,
+    "wof:lastmodified":1466435506,
     "wof:name":"Oceanside Beach Svc",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-80.037394,26.78359,-80.037394,26.78359],
-  "geometry": {"coordinates":[-80.037394,26.78359],"type":"Point"}
+  "bbox": [
+    -80.037394,
+    26.78359,
+    -80.037394,
+    26.78359
+],
+  "geometry": {"coordinates":[-80.03739400000001,26.78359],"type":"Point"}
 }

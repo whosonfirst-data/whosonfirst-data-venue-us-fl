@@ -2,13 +2,14 @@
   "id": 186282565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113228,26.475169,-80.113228,26.475169",
     "geom:latitude":26.475169,
     "geom:longitude":-80.113228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4265 NW 9th St",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186282565,
-    "wof:lastmodified":1449052048,
+    "wof:lastmodified":1466430083,
     "wof:name":"SBCS Mortgage",
     "wof:parent_id":85814247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.113228,26.475169,-80.113228,26.475169],
-  "geometry": {"coordinates":[-80.113228,26.475169],"type":"Point"}
+  "bbox": [
+    -80.113228,
+    26.475169,
+    -80.113228,
+    26.475169
+],
+  "geometry": {"coordinates":[-80.11322800000001,26.475169],"type":"Point"}
 }

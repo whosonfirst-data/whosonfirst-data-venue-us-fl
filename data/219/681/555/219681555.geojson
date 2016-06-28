@@ -2,13 +2,14 @@
   "id": 219681555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.622987,26.595016,-81.622987,26.595016",
     "geom:latitude":26.595016,
     "geom:longitude":-81.622987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Richmond Ave S",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219681555,
-    "wof:lastmodified":1449072553,
+    "wof:lastmodified":1466433850,
     "wof:name":"R&Z Property Management",
     "wof:parent_id":85889137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.622987,26.595016,-81.622987,26.595016],
-  "geometry": {"coordinates":[-81.622987,26.595016],"type":"Point"}
+  "bbox": [
+    -81.622987,
+    26.595016,
+    -81.622987,
+    26.595016
+],
+  "geometry": {"coordinates":[-81.62298699999999,26.595016],"type":"Point"}
 }

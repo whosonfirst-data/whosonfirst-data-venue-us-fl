@@ -2,13 +2,14 @@
   "id": 303111839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.519416,25.006828,-80.519416,25.006828",
     "geom:latitude":25.006828,
     "geom:longitude":-80.519416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91655 Overseas Hwy",
     "sg:city":"Tavernier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303111839,
-    "wof:lastmodified":1449000648,
+    "wof:lastmodified":1466432432,
     "wof:name":"Keynoter Newspaper",
     "wof:parent_id":85851579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-80.519416,25.006828,-80.519416,25.006828],
-  "geometry": {"coordinates":[-80.519416,25.006828],"type":"Point"}
+  "bbox": [
+    -80.519416,
+    25.006828,
+    -80.519416,
+    25.006828
+],
+  "geometry": {"coordinates":[-80.51941600000001,25.006828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303421287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.783381,28.503059,-80.783381,28.503059",
     "geom:latitude":28.503059,
     "geom:longitude":-80.783381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7260 S US Hwy 1",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303421287,
-    "wof:lastmodified":1448999670,
+    "wof:lastmodified":1466437788,
     "wof:name":"American Legion Post 359",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-80.783381,28.503059,-80.783381,28.503059],
-  "geometry": {"coordinates":[-80.783381,28.503059],"type":"Point"}
+  "bbox": [
+    -80.783381,
+    28.503059,
+    -80.783381,
+    28.503059
+],
+  "geometry": {"coordinates":[-80.78338100000001,28.503059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370760849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.476374,25.473032,-80.476374,25.473032",
     "geom:latitude":25.473032,
     "geom:longitude":-80.476374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Washington Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370760849,
-    "wof:lastmodified":1449032344,
+    "wof:lastmodified":1466445851,
     "wof:name":"American Salon & Barber Shop",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.476374,25.473032,-80.476374,25.473032],
-  "geometry": {"coordinates":[-80.476374,25.473032],"type":"Point"}
+  "bbox": [
+    -80.476374,
+    25.473032,
+    -80.476374,
+    25.473032
+],
+  "geometry": {"coordinates":[-80.47637400000001,25.473032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202412123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384098,30.261151,-81.384098,30.261151",
     "geom:latitude":30.261151,
     "geom:longitude":-81.384098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 36th Ave S",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202412123,
-    "wof:lastmodified":1449060628,
+    "wof:lastmodified":1466443727,
     "wof:name":"Jay C Devine Landscape",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-81.384098,30.261151,-81.384098,30.261151],
-  "geometry": {"coordinates":[-81.384098,30.261151],"type":"Point"}
+  "bbox": [
+    -81.384098,
+    30.261151,
+    -81.384098,
+    30.261151
+],
+  "geometry": {"coordinates":[-81.38409799999999,30.261151],"type":"Point"}
 }

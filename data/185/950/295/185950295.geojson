@@ -2,13 +2,14 @@
   "id": 185950295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75356,28.567842,-81.75356,28.567842",
     "geom:latitude":28.567842,
     "geom:longitude":-81.75356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Division St",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185950295,
-    "wof:lastmodified":1449007248,
+    "wof:lastmodified":1466430513,
     "wof:name":"Sutherland Solar Control",
     "wof:parent_id":85888697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "phone"
     ]
 },
-  "bbox": [-81.75356,28.567842,-81.75356,28.567842],
-  "geometry": {"coordinates":[-81.75356,28.567842],"type":"Point"}
+  "bbox": [
+    -81.75356,
+    28.567842,
+    -81.75356,
+    28.567842
+],
+  "geometry": {"coordinates":[-81.75355999999999,28.567842],"type":"Point"}
 }

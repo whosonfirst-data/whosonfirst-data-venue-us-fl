@@ -2,13 +2,14 @@
   "id": 303411415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.533825,27.352178,-82.533825,27.352178",
     "geom:latitude":27.352178,
     "geom:longitude":-82.533825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1864 17th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303411415,
-    "wof:lastmodified":1448998231,
+    "wof:lastmodified":1466437618,
     "wof:name":"Children & Families Dept",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.533825,27.352178,-82.533825,27.352178],
-  "geometry": {"coordinates":[-82.533825,27.352178],"type":"Point"}
+  "bbox": [
+    -82.533825,
+    27.352178,
+    -82.533825,
+    27.352178
+],
+  "geometry": {"coordinates":[-82.53382499999999,27.352178],"type":"Point"}
 }

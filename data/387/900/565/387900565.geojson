@@ -2,13 +2,14 @@
   "id": 387900565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.56086,28.784008,-82.56086,28.784008",
     "geom:latitude":28.784008,
     "geom:longitude":-82.56086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5364 S Suncoast Blvd",
     "sg:city":"Homosassa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387900565,
-    "wof:lastmodified":1449057748,
+    "wof:lastmodified":1466449605,
     "wof:name":"Sunny Days Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-82.56086,28.784008,-82.56086,28.784008],
-  "geometry": {"coordinates":[-82.56086,28.784008],"type":"Point"}
+  "bbox": [
+    -82.56086,
+    28.784008,
+    -82.56086,
+    28.784008
+],
+  "geometry": {"coordinates":[-82.56086000000001,28.784008],"type":"Point"}
 }

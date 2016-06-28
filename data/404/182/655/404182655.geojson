@@ -2,13 +2,14 @@
   "id": 404182655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.812812,28.544869,-80.812812,28.544869",
     "geom:latitude":28.544869,
     "geom:longitude":-80.812812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Penney Dr",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404182655,
-    "wof:lastmodified":1449039889,
+    "wof:lastmodified":1466443080,
     "wof:name":"Service First",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-80.812812,28.544869,-80.812812,28.544869],
-  "geometry": {"coordinates":[-80.812812,28.544869],"type":"Point"}
+  "bbox": [
+    -80.812812,
+    28.544869,
+    -80.812812,
+    28.544869
+],
+  "geometry": {"coordinates":[-80.81281199999999,28.544869],"type":"Point"}
 }

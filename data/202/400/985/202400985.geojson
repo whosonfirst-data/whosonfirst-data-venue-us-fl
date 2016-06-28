@@ -2,13 +2,14 @@
   "id": 202400985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694601,27.740263,-82.694601,27.740263",
     "geom:latitude":27.740263,
     "geom:longitude":-82.694601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Miriam St S",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202400985,
-    "wof:lastmodified":1449060362,
+    "wof:lastmodified":1466443039,
     "wof:name":"United States Coast Guard",
     "wof:parent_id":85878011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-82.694601,27.740263,-82.694601,27.740263],
-  "geometry": {"coordinates":[-82.694601,27.740263],"type":"Point"}
+  "bbox": [
+    -82.694601,
+    27.740263,
+    -82.694601,
+    27.740263
+],
+  "geometry": {"coordinates":[-82.69460100000001,27.740263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202537757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.467256,25.490841,-80.467256,25.490841",
     "geom:latitude":25.490841,
     "geom:longitude":-80.467256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30150 SW 170th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202537757,
-    "wof:lastmodified":1449060742,
+    "wof:lastmodified":1466428851,
     "wof:name":"A Palm Place",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.467256,25.490841,-80.467256,25.490841],
-  "geometry": {"coordinates":[-80.467256,25.490841],"type":"Point"}
+  "bbox": [
+    -80.467256,
+    25.490841,
+    -80.467256,
+    25.490841
+],
+  "geometry": {"coordinates":[-80.46725600000001,25.490841],"type":"Point"}
 }

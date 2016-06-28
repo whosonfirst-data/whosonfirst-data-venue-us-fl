@@ -2,13 +2,14 @@
   "id": 387511993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337989,25.670835,-80.337989,25.670835",
     "geom:latitude":25.670835,
     "geom:longitude":-80.337989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10775 SW 88th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387511993,
-    "wof:lastmodified":1449057856,
+    "wof:lastmodified":1466446783,
     "wof:name":"N & T Corporation",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.337989,25.670835,-80.337989,25.670835],
-  "geometry": {"coordinates":[-80.337989,25.670835],"type":"Point"}
+  "bbox": [
+    -80.337989,
+    25.670835,
+    -80.337989,
+    25.670835
+],
+  "geometry": {"coordinates":[-80.33798899999999,25.670835],"type":"Point"}
 }

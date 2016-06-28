@@ -2,13 +2,14 @@
   "id": 370215417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.498027,27.981409,-82.498027,27.981409",
     "geom:latitude":27.981409,
     "geom:longitude":-82.498027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 W Martin Luther King Jr Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370215417,
-    "wof:lastmodified":1449031886,
+    "wof:lastmodified":1466437464,
     "wof:name":"Lakepointe Garden Cafe",
     "wof:parent_id":85873243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.498027,27.981409,-82.498027,27.981409],
-  "geometry": {"coordinates":[-82.498027,27.981409],"type":"Point"}
+  "bbox": [
+    -82.498027,
+    27.981409,
+    -82.498027,
+    27.981409
+],
+  "geometry": {"coordinates":[-82.49802699999999,27.981409],"type":"Point"}
 }

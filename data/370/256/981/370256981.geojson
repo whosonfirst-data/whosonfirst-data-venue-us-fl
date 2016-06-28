@@ -2,13 +2,14 @@
   "id": 370256981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.127429,26.373272,-80.127429,26.373272",
     "geom:latitude":26.373272,
     "geom:longitude":-80.127429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2585 NW 23rd Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370256981,
-    "wof:lastmodified":1449031676,
+    "wof:lastmodified":1466438125,
     "wof:name":"Bank Sites Inc",
     "wof:parent_id":85840449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-80.127429,26.373272,-80.127429,26.373272],
-  "geometry": {"coordinates":[-80.127429,26.373272],"type":"Point"}
+  "bbox": [
+    -80.127429,
+    26.373272,
+    -80.127429,
+    26.373272
+],
+  "geometry": {"coordinates":[-80.12742900000001,26.373272],"type":"Point"}
 }

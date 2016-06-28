@@ -2,13 +2,14 @@
   "id": 403843447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.82752,26.649685,-81.82752,26.649685",
     "geom:latitude":26.649685,
     "geom:longitude":-81.82752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Lucille Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403843447,
-    "wof:lastmodified":1449054750,
+    "wof:lastmodified":1466441845,
     "wof:name":"Deacon Crawford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.82752,26.649685,-81.82752,26.649685],
-  "geometry": {"coordinates":[-81.82752,26.649685],"type":"Point"}
+  "bbox": [
+    -81.82752,
+    26.649685,
+    -81.82752,
+    26.649685
+],
+  "geometry": {"coordinates":[-81.82752000000001,26.649685],"type":"Point"}
 }

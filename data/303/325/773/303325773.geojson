@@ -2,13 +2,14 @@
   "id": 303325773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.305453,29.025367,-81.305453,29.025367",
     "geom:latitude":29.025367,
     "geom:longitude":-81.305453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S Florida Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303325773,
-    "wof:lastmodified":1448999078,
+    "wof:lastmodified":1466436152,
     "wof:name":"Best Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.305453,29.025367,-81.305453,29.025367],
+  "bbox": [
+    -81.305453,
+    29.025367,
+    -81.305453,
+    29.025367
+],
   "geometry": {"coordinates":[-81.305453,29.025367],"type":"Point"}
 }

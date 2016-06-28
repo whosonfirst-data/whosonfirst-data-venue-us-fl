@@ -2,13 +2,14 @@
   "id": 387243283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.356299,27.6524,-80.356299,27.6524",
     "geom:latitude":27.6524,
     "geom:longitude":-80.356299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Ocean Dr",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387243283,
-    "wof:lastmodified":1449057333,
+    "wof:lastmodified":1466442449,
     "wof:name":"Charles W McKinnon Atty",
     "wof:parent_id":85889865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.356299,27.6524,-80.356299,27.6524],
-  "geometry": {"coordinates":[-80.356299,27.6524],"type":"Point"}
+  "bbox": [
+    -80.356299,
+    27.6524,
+    -80.356299,
+    27.6524
+],
+  "geometry": {"coordinates":[-80.35629900000001,27.6524],"type":"Point"}
 }

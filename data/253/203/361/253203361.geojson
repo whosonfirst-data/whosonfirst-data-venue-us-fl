@@ -2,13 +2,14 @@
   "id": 253203361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621614,28.084363,-80.621614,28.084363",
     "geom:latitude":28.084363,
     "geom:longitude":-80.621614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Babcock St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":253203361,
-    "wof:lastmodified":1449064141,
+    "wof:lastmodified":1466430753,
     "wof:name":"Bob's Bicycle Shop",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.621614,28.084363,-80.621614,28.084363],
-  "geometry": {"coordinates":[-80.621614,28.084363],"type":"Point"}
+  "bbox": [
+    -80.621614,
+    28.084363,
+    -80.621614,
+    28.084363
+],
+  "geometry": {"coordinates":[-80.62161399999999,28.084363],"type":"Point"}
 }

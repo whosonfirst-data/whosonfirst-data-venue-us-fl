@@ -2,13 +2,14 @@
   "id": 270172813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.727285,27.870109,-82.727285,27.870109",
     "geom:latitude":27.870109,
     "geom:longitude":-82.727285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10868 65th St",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270172813,
-    "wof:lastmodified":1449009618,
+    "wof:lastmodified":1466432405,
     "wof:name":"Sun Light Auto Air Distrs",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.727285,27.870109,-82.727285,27.870109],
-  "geometry": {"coordinates":[-82.727285,27.870109],"type":"Point"}
+  "bbox": [
+    -82.727285,
+    27.870109,
+    -82.727285,
+    27.870109
+],
+  "geometry": {"coordinates":[-82.72728499999999,27.870109],"type":"Point"}
 }

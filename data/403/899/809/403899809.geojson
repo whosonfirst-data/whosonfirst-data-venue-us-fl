@@ -2,13 +2,14 @@
   "id": 403899809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445422,30.305727,-81.445422,30.305727",
     "geom:latitude":30.305727,
     "geom:longitude":-81.445422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Covington Creek Cir E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403899809,
-    "wof:lastmodified":1449055884,
+    "wof:lastmodified":1466442726,
     "wof:name":"Rick Arsenault Certified Inc",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.445422,30.305727,-81.445422,30.305727],
-  "geometry": {"coordinates":[-81.445422,30.305727],"type":"Point"}
+  "bbox": [
+    -81.445422,
+    30.305727,
+    -81.445422,
+    30.305727
+],
+  "geometry": {"coordinates":[-81.44542199999999,30.305727],"type":"Point"}
 }

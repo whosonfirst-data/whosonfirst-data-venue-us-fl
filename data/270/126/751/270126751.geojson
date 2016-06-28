@@ -2,13 +2,14 @@
   "id": 270126751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.624945,28.179766,-80.624945,28.179766",
     "geom:latitude":28.179766,
     "geom:longitude":-80.624945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10910 S Tropical Trl",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270126751,
-    "wof:lastmodified":1449009538,
+    "wof:lastmodified":1466431610,
     "wof:name":"G E Engineers Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.624945,28.179766,-80.624945,28.179766],
+  "bbox": [
+    -80.624945,
+    28.179766,
+    -80.624945,
+    28.179766
+],
   "geometry": {"coordinates":[-80.624945,28.179766],"type":"Point"}
 }

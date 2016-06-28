@@ -2,13 +2,14 @@
   "id": 303190509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19229,25.850402,-80.19229,25.850402",
     "geom:latitude":25.850402,
     "geom:longitude":-80.19229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 NE 82nd Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303190509,
-    "wof:lastmodified":1449000408,
+    "wof:lastmodified":1466433827,
     "wof:name":"Attitude Restaurant",
     "wof:parent_id":85831005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.19229,25.850402,-80.19229,25.850402],
+  "bbox": [
+    -80.19229,
+    25.850402,
+    -80.19229,
+    25.850402
+],
   "geometry": {"coordinates":[-80.19229,25.850402],"type":"Point"}
 }

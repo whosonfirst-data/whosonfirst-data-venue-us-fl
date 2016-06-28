@@ -2,13 +2,14 @@
   "id": 219417559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.61459,28.315764,-80.61459,28.315764",
     "geom:latitude":28.315764,
     "geom:longitude":-80.61459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Boca Ciega Rd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219417559,
-    "wof:lastmodified":1449071834,
+    "wof:lastmodified":1466430428,
     "wof:name":"John A Bedizel Parking Svc",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attendant"
     ]
 },
-  "bbox": [-80.61459,28.315764,-80.61459,28.315764],
-  "geometry": {"coordinates":[-80.61459,28.315764],"type":"Point"}
+  "bbox": [
+    -80.61459,
+    28.315764,
+    -80.61459,
+    28.315764
+],
+  "geometry": {"coordinates":[-80.61459000000001,28.315764],"type":"Point"}
 }

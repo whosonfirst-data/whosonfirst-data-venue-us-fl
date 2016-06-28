@@ -2,13 +2,14 @@
   "id": 220039981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692057,28.230376,-80.692057,28.230376",
     "geom:latitude":28.230376,
     "geom:longitude":-80.692057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7630 N Wickham Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220039981,
-    "wof:lastmodified":1449074777,
+    "wof:lastmodified":1466444535,
     "wof:name":"Fidelity Financial Brokerage",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-80.692057,28.230376,-80.692057,28.230376],
-  "geometry": {"coordinates":[-80.692057,28.230376],"type":"Point"}
+  "bbox": [
+    -80.692057,
+    28.230376,
+    -80.692057,
+    28.230376
+],
+  "geometry": {"coordinates":[-80.69205700000001,28.230376],"type":"Point"}
 }

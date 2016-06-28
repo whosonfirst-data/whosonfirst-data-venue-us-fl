@@ -2,13 +2,14 @@
   "id": 303426121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329491,25.630416,-80.329491,25.630416",
     "geom:latitude":25.630416,
     "geom:longitude":-80.329491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8225 SW 149th Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303426121,
-    "wof:lastmodified":1448998637,
+    "wof:lastmodified":1466437870,
     "wof:name":"R & R Travel Inc",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.329491,25.630416,-80.329491,25.630416],
+  "bbox": [
+    -80.329491,
+    25.630416,
+    -80.329491,
+    25.630416
+],
   "geometry": {"coordinates":[-80.329491,25.630416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286806877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.535514,29.726196,-82.535514,29.726196",
     "geom:latitude":29.726196,
     "geom:longitude":-82.535514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7507 NW 181 Ter",
     "sg:city":"Alachua",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286806877,
-    "wof:lastmodified":1449015159,
+    "wof:lastmodified":1466439221,
     "wof:name":"Church With God & Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.535514,29.726196,-82.535514,29.726196],
-  "geometry": {"coordinates":[-82.535514,29.726196],"type":"Point"}
+  "bbox": [
+    -82.535514,
+    29.726196,
+    -82.535514,
+    29.726196
+],
+  "geometry": {"coordinates":[-82.53551400000001,29.726196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387313097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780696,26.289334,-81.780696,26.289334",
     "geom:latitude":26.289334,
     "geom:longitude":-81.780696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Regal Way",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387313097,
-    "wof:lastmodified":1449056231,
+    "wof:lastmodified":1466443530,
     "wof:name":"Marv Shales Building Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.780696,26.289334,-81.780696,26.289334],
-  "geometry": {"coordinates":[-81.780696,26.289334],"type":"Point"}
+  "bbox": [
+    -81.780696,
+    26.289334,
+    -81.780696,
+    26.289334
+],
+  "geometry": {"coordinates":[-81.78069600000001,26.289334],"type":"Point"}
 }

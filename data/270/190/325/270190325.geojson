@@ -2,13 +2,14 @@
   "id": 270190325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.315335,28.712777,-81.315335,28.712777",
     "geom:latitude":28.712777,
     "geom:longitude":-81.315335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Sheoah Blvd",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270190325,
-    "wof:lastmodified":1449010957,
+    "wof:lastmodified":1466432724,
     "wof:name":"Wesley Green Delivery",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-81.315335,28.712777,-81.315335,28.712777],
+  "bbox": [
+    -81.315335,
+    28.712777,
+    -81.315335,
+    28.712777
+],
   "geometry": {"coordinates":[-81.315335,28.712777],"type":"Point"}
 }

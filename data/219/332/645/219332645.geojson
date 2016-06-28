@@ -2,13 +2,14 @@
   "id": 219332645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.398419,25.748285,-80.398419,25.748285",
     "geom:latitude":25.748285,
     "geom:longitude":-80.398419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 SW 125th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219332645,
-    "wof:lastmodified":1449072334,
+    "wof:lastmodified":1466429221,
     "wof:name":"Galleria",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.398419,25.748285,-80.398419,25.748285],
+  "bbox": [
+    -80.398419,
+    25.748285,
+    -80.398419,
+    25.748285
+],
   "geometry": {"coordinates":[-80.398419,25.748285],"type":"Point"}
 }

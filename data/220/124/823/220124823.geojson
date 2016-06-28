@@ -2,13 +2,14 @@
   "id": 220124823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.398976,30.299365,-81.398976,30.299365",
     "geom:latitude":30.299365,
     "geom:longitude":-81.398976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 7th St N",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220124823,
-    "wof:lastmodified":1449074826,
+    "wof:lastmodified":1466428565,
     "wof:name":"Coastal Tile",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.398976,30.299365,-81.398976,30.299365],
+  "bbox": [
+    -81.398976,
+    30.299365,
+    -81.398976,
+    30.299365
+],
   "geometry": {"coordinates":[-81.398976,30.299365],"type":"Point"}
 }

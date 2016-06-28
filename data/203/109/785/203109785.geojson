@@ -2,13 +2,14 @@
   "id": 203109785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243686,26.262315,-80.243686,26.262315",
     "geom:latitude":26.262315,
     "geom:longitude":-80.243686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2468 NW 88th Ter",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203109785,
-    "wof:lastmodified":1449025582,
+    "wof:lastmodified":1466445468,
     "wof:name":"Daiquiri Doctor",
     "wof:parent_id":85876885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.243686,26.262315,-80.243686,26.262315],
+  "bbox": [
+    -80.243686,
+    26.262315,
+    -80.243686,
+    26.262315
+],
   "geometry": {"coordinates":[-80.243686,26.262315],"type":"Point"}
 }

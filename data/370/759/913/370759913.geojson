@@ -2,13 +2,14 @@
   "id": 370759913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.439129,25.713638,-80.439129,25.713638",
     "geom:latitude":25.713638,
     "geom:longitude":-80.439129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15198 SW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370759913,
-    "wof:lastmodified":1449032525,
+    "wof:lastmodified":1466445835,
     "wof:name":"System 1 Atm",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-80.439129,25.713638,-80.439129,25.713638],
-  "geometry": {"coordinates":[-80.439129,25.713638],"type":"Point"}
+  "bbox": [
+    -80.439129,
+    25.713638,
+    -80.439129,
+    25.713638
+],
+  "geometry": {"coordinates":[-80.43912899999999,25.713638],"type":"Point"}
 }

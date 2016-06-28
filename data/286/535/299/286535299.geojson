@@ -2,13 +2,14 @@
   "id": 286535299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.331038,28.653706,-81.331038,28.653706",
     "geom:latitude":28.653706,
     "geom:longitude":-81.331038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Semoran Blvd",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286535299,
-    "wof:lastmodified":1449015695,
+    "wof:lastmodified":1466434377,
     "wof:name":"Stephen Zawacki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.331038,28.653706,-81.331038,28.653706],
-  "geometry": {"coordinates":[-81.331038,28.653706],"type":"Point"}
+  "bbox": [
+    -81.331038,
+    28.653706,
+    -81.331038,
+    28.653706
+],
+  "geometry": {"coordinates":[-81.33103800000001,28.653706],"type":"Point"}
 }

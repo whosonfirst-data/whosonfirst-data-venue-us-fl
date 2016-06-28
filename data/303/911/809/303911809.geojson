@@ -2,13 +2,14 @@
   "id": 303911809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.003391,27.925304,-82.003391,27.925304",
     "geom:latitude":27.925304,
     "geom:longitude":-82.003391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3362 Heather Glynn Dr",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303911809,
-    "wof:lastmodified":1449000163,
+    "wof:lastmodified":1466446252,
     "wof:name":"Lovering Lawn Care",
     "wof:parent_id":85889207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.003391,27.925304,-82.003391,27.925304],
-  "geometry": {"coordinates":[-82.003391,27.925304],"type":"Point"}
+  "bbox": [
+    -82.003391,
+    27.925304,
+    -82.003391,
+    27.925304
+],
+  "geometry": {"coordinates":[-82.00339099999999,27.925304],"type":"Point"}
 }

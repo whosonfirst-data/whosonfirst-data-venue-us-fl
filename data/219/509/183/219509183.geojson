@@ -2,13 +2,14 @@
   "id": 219509183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355145,27.224143,-80.355145,27.224143",
     "geom:latitude":27.224143,
     "geom:longitude":-80.355145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 SW Gettysburg Dr",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219509183,
-    "wof:lastmodified":1449070517,
+    "wof:lastmodified":1466431639,
     "wof:name":"Ricks Baseball Cards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-80.355145,27.224143,-80.355145,27.224143],
-  "geometry": {"coordinates":[-80.355145,27.224143],"type":"Point"}
+  "bbox": [
+    -80.355145,
+    27.224143,
+    -80.355145,
+    27.224143
+],
+  "geometry": {"coordinates":[-80.35514499999999,27.224143],"type":"Point"}
 }

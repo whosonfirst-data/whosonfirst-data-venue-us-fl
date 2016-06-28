@@ -2,13 +2,14 @@
   "id": 270121857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.406987,28.48623,-81.406987,28.48623",
     "geom:latitude":28.48623,
     "geom:longitude":-81.406987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Americana Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270121857,
-    "wof:lastmodified":1449010515,
+    "wof:lastmodified":1466431521,
     "wof:name":"Party Liquors",
     "wof:parent_id":85879507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-81.406987,28.48623,-81.406987,28.48623],
+  "bbox": [
+    -81.406987,
+    28.48623,
+    -81.406987,
+    28.48623
+],
   "geometry": {"coordinates":[-81.406987,28.48623],"type":"Point"}
 }

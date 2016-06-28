@@ -2,13 +2,14 @@
   "id": 354235235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.039206,24.730897,-81.039206,24.730897",
     "geom:latitude":24.730897,
     "geom:longitude":-81.039206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 107th Street Gulf",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354235235,
-    "wof:lastmodified":1449066226,
+    "wof:lastmodified":1466439727,
     "wof:name":"Hot Arc Inc",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.039206,24.730897,-81.039206,24.730897],
-  "geometry": {"coordinates":[-81.039206,24.730897],"type":"Point"}
+  "bbox": [
+    -81.039206,
+    24.730897,
+    -81.039206,
+    24.730897
+],
+  "geometry": {"coordinates":[-81.03920599999999,24.730897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370418001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.943537,30.634449,-85.943537,30.634449",
     "geom:latitude":30.634449,
     "geom:longitude":-85.943537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10524 Co Hwy 183 S",
     "sg:city":"Ponce De Leon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370418001,
-    "wof:lastmodified":1449031748,
+    "wof:lastmodified":1466440573,
     "wof:name":"Valley Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.943537,30.634449,-85.943537,30.634449],
-  "geometry": {"coordinates":[-85.943537,30.634449],"type":"Point"}
+  "bbox": [
+    -85.943537,
+    30.634449,
+    -85.943537,
+    30.634449
+],
+  "geometry": {"coordinates":[-85.94353700000001,30.634449],"type":"Point"}
 }

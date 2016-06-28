@@ -2,13 +2,14 @@
   "id": 253366593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.321507,25.89151,-80.321507,25.89151",
     "geom:latitude":25.89151,
     "geom:longitude":-80.321507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 W 18th Ln",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253366593,
-    "wof:lastmodified":1449064987,
+    "wof:lastmodified":1466433291,
     "wof:name":"Ftdi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-80.321507,25.89151,-80.321507,25.89151],
+  "bbox": [
+    -80.321507,
+    25.89151,
+    -80.321507,
+    25.89151
+],
   "geometry": {"coordinates":[-80.321507,25.89151],"type":"Point"}
 }

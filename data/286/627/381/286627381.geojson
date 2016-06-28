@@ -2,13 +2,14 @@
   "id": 286627381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445577,30.610127,-81.445577,30.610127",
     "geom:latitude":30.610127,
     "geom:longitude":-81.445577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Bill Melton Rd",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286627381,
-    "wof:lastmodified":1449018146,
+    "wof:lastmodified":1466436026,
     "wof:name":"Fernandina Beach Municipal Glf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-81.445577,30.610127,-81.445577,30.610127],
+  "bbox": [
+    -81.445577,
+    30.610127,
+    -81.445577,
+    30.610127
+],
   "geometry": {"coordinates":[-81.445577,30.610127],"type":"Point"}
 }

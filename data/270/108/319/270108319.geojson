@@ -2,13 +2,14 @@
   "id": 270108319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15332,25.988862,-80.15332,25.988862",
     "geom:latitude":25.988862,
     "geom:longitude":-80.15332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 NW 5th Ave",
     "sg:city":"Hallandale Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270108319,
-    "wof:lastmodified":1449008708,
+    "wof:lastmodified":1466431293,
     "wof:name":"Americabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-80.15332,25.988862,-80.15332,25.988862],
-  "geometry": {"coordinates":[-80.15332,25.988862],"type":"Point"}
+  "bbox": [
+    -80.15332,
+    25.988862,
+    -80.15332,
+    25.988862
+],
+  "geometry": {"coordinates":[-80.15331999999999,25.988862],"type":"Point"}
 }

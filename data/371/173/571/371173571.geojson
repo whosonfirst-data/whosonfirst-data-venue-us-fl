@@ -2,13 +2,14 @@
   "id": 371173571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339253,25.632673,-80.339253,25.632673",
     "geom:latitude":25.632673,
     "geom:longitude":-80.339253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14411 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371173571,
-    "wof:lastmodified":1449049243,
+    "wof:lastmodified":1466440215,
     "wof:name":"Allstate",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.339253,25.632673,-80.339253,25.632673],
+  "bbox": [
+    -80.339253,
+    25.632673,
+    -80.339253,
+    25.632673
+],
   "geometry": {"coordinates":[-80.339253,25.632673],"type":"Point"}
 }

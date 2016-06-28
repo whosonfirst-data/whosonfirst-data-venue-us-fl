@@ -2,13 +2,14 @@
   "id": 202750311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561118,29.290671,-82.561118,29.290671",
     "geom:latitude":29.290671,
     "geom:longitude":-82.561118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12550 SE 30th St",
     "sg:city":"Morriston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202750311,
-    "wof:lastmodified":1449061659,
+    "wof:lastmodified":1466431629,
     "wof:name":"Southeast Dairy",
     "wof:parent_id":85823917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.561118,29.290671,-82.561118,29.290671],
-  "geometry": {"coordinates":[-82.561118,29.290671],"type":"Point"}
+  "bbox": [
+    -82.561118,
+    29.290671,
+    -82.561118,
+    29.290671
+],
+  "geometry": {"coordinates":[-82.56111799999999,29.290671],"type":"Point"}
 }

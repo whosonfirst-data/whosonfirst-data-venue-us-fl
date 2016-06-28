@@ -2,13 +2,14 @@
   "id": 287080643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.419243,30.485571,-86.419243,30.485571",
     "geom:latitude":30.485571,
     "geom:longitude":-86.419243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4554 State Hwy 20",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287080643,
-    "wof:lastmodified":1449001572,
+    "wof:lastmodified":1466431250,
     "wof:name":"North Okaloosa Medical Ctr",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-86.419243,30.485571,-86.419243,30.485571],
-  "geometry": {"coordinates":[-86.419243,30.485571],"type":"Point"}
+  "bbox": [
+    -86.419243,
+    30.485571,
+    -86.419243,
+    30.485571
+],
+  "geometry": {"coordinates":[-86.41924299999999,30.485571],"type":"Point"}
 }

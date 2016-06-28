@@ -2,13 +2,14 @@
   "id": 404116305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.251207,30.478173,-87.251207,30.478173",
     "geom:latitude":30.478173,
     "geom:longitude":-87.251207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Industrial Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404116305,
-    "wof:lastmodified":1449039186,
+    "wof:lastmodified":1466442042,
     "wof:name":"Answering Pensacola",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "answering"
     ]
 },
-  "bbox": [-87.251207,30.478173,-87.251207,30.478173],
-  "geometry": {"coordinates":[-87.251207,30.478173],"type":"Point"}
+  "bbox": [
+    -87.251207,
+    30.478173,
+    -87.251207,
+    30.478173
+],
+  "geometry": {"coordinates":[-87.25120699999999,30.478173],"type":"Point"}
 }

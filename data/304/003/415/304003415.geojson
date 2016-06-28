@@ -2,13 +2,14 @@
   "id": 304003415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134965,25.773383,-80.134965,25.773383",
     "geom:latitude":25.773383,
     "geom:longitude":-80.134965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Euclid Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304003415,
-    "wof:lastmodified":1449044126,
+    "wof:lastmodified":1466431867,
     "wof:name":"Barbican Investments Corp",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-80.134965,25.773383,-80.134965,25.773383],
-  "geometry": {"coordinates":[-80.134965,25.773383],"type":"Point"}
+  "bbox": [
+    -80.134965,
+    25.773383,
+    -80.134965,
+    25.773383
+],
+  "geometry": {"coordinates":[-80.13496499999999,25.773383],"type":"Point"}
 }

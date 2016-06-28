@@ -2,13 +2,14 @@
   "id": 303814625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123461,25.887939,-80.123461,25.887939",
     "geom:latitude":25.887939,
     "geom:longitude":-80.123461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 Collins Ave",
     "sg:city":"Bal Harbour",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303814625,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466444558,
     "wof:name":"Paul & Shark",
     "wof:parent_id":85804283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-80.123461,25.887939,-80.123461,25.887939],
-  "geometry": {"coordinates":[-80.123461,25.887939],"type":"Point"}
+  "bbox": [
+    -80.123461,
+    25.887939,
+    -80.123461,
+    25.887939
+],
+  "geometry": {"coordinates":[-80.12346100000001,25.887939],"type":"Point"}
 }

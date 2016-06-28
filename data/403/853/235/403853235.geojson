@@ -2,13 +2,14 @@
   "id": 403853235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.05419,26.692622,-82.05419,26.692622",
     "geom:latitude":26.692622,
     "geom:longitude":-82.05419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3238 NW 23rd St",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403853235,
-    "wof:lastmodified":1449055166,
+    "wof:lastmodified":1466442006,
     "wof:name":"Morin Custom Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.05419,26.692622,-82.05419,26.692622],
-  "geometry": {"coordinates":[-82.05419,26.692622],"type":"Point"}
+  "bbox": [
+    -82.05419,
+    26.692622,
+    -82.05419,
+    26.692622
+],
+  "geometry": {"coordinates":[-82.05419000000001,26.692622],"type":"Point"}
 }

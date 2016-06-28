@@ -2,13 +2,14 @@
   "id": 320429659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.301293,30.390183,-87.301293,30.390183",
     "geom:latitude":30.390183,
     "geom:longitude":-87.301293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Colbert Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320429659,
-    "wof:lastmodified":1449014760,
+    "wof:lastmodified":1466440768,
     "wof:name":"David Strickland",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.301293,30.390183,-87.301293,30.390183],
+  "bbox": [
+    -87.301293,
+    30.390183,
+    -87.301293,
+    30.390183
+],
   "geometry": {"coordinates":[-87.301293,30.390183],"type":"Point"}
 }

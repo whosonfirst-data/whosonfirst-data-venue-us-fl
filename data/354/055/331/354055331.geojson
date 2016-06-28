@@ -2,13 +2,14 @@
   "id": 354055331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.769293,28.555193,-81.769293,28.555193",
     "geom:latitude":28.555193,
     "geom:longitude":-81.769293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 W Montrose St",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354055331,
-    "wof:lastmodified":1449066302,
+    "wof:lastmodified":1466436926,
     "wof:name":"Clermont Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.769293,28.555193,-81.769293,28.555193],
+  "bbox": [
+    -81.769293,
+    28.555193,
+    -81.769293,
+    28.555193
+],
   "geometry": {"coordinates":[-81.769293,28.555193],"type":"Point"}
 }

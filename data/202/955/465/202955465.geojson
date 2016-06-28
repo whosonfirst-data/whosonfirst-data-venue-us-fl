@@ -2,13 +2,14 @@
   "id": 202955465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.75132,27.976505,-82.75132,27.976505",
     "geom:latitude":27.976505,
     "geom:longitude":-82.75132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Kapp Dr",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202955465,
-    "wof:lastmodified":1449061852,
+    "wof:lastmodified":1466434341,
     "wof:name":"Palm Harbor Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "air"
     ]
 },
-  "bbox": [-82.75132,27.976505,-82.75132,27.976505],
-  "geometry": {"coordinates":[-82.75132,27.976505],"type":"Point"}
+  "bbox": [
+    -82.75132,
+    27.976505,
+    -82.75132,
+    27.976505
+],
+  "geometry": {"coordinates":[-82.75132000000001,27.976505],"type":"Point"}
 }

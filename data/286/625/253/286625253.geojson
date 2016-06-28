@@ -2,13 +2,14 @@
   "id": 286625253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.753757,27.916477,-82.753757,27.916477",
     "geom:latitude":27.916477,
     "geom:longitude":-82.753757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 E Bay Dr",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286625253,
-    "wof:lastmodified":1449018135,
+    "wof:lastmodified":1466435989,
     "wof:name":"Home Fitness Shopping",
     "wof:parent_id":85889107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [-82.753757,27.916477,-82.753757,27.916477],
-  "geometry": {"coordinates":[-82.753757,27.916477],"type":"Point"}
+  "bbox": [
+    -82.753757,
+    27.916477,
+    -82.753757,
+    27.916477
+],
+  "geometry": {"coordinates":[-82.75375699999999,27.916477],"type":"Point"}
 }

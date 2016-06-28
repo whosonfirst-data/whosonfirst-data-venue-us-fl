@@ -2,13 +2,14 @@
   "id": 253215843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.552054,30.231104,-81.552054,30.231104",
     "geom:latitude":30.231104,
     "geom:longitude":-81.552054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7816 Southside Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253215843,
-    "wof:lastmodified":1449065248,
+    "wof:lastmodified":1466430944,
     "wof:name":"Future Floors of Jacksonville",
     "wof:parent_id":85814075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.552054,30.231104,-81.552054,30.231104],
+  "bbox": [
+    -81.552054,
+    30.231104,
+    -81.552054,
+    30.231104
+],
   "geometry": {"coordinates":[-81.552054,30.231104],"type":"Point"}
 }

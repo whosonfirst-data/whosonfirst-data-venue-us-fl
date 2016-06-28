@@ -2,13 +2,14 @@
   "id": 370825887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.828544,30.199323,-85.828544,30.199323",
     "geom:latitude":30.199323,
     "geom:longitude":-85.828544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Lyndell Ln",
     "sg:city":"Panama City Bch",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370825887,
-    "wof:lastmodified":1449029200,
+    "wof:lastmodified":1466446599,
     "wof:name":"J & E Murphy Sales Company",
     "wof:parent_id":85804195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-85.828544,30.199323,-85.828544,30.199323],
-  "geometry": {"coordinates":[-85.828544,30.199323],"type":"Point"}
+  "bbox": [
+    -85.828544,
+    30.199323,
+    -85.828544,
+    30.199323
+],
+  "geometry": {"coordinates":[-85.82854399999999,30.199323],"type":"Point"}
 }

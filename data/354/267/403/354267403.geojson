@@ -2,13 +2,14 @@
   "id": 354267403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.929313,29.080773,-80.929313,29.080773",
     "geom:latitude":29.080773,
     "geom:longitude":-80.929313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4931 S Peninsula Dr",
     "sg:city":"Ponce Inlet",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354267403,
-    "wof:lastmodified":1449067515,
+    "wof:lastmodified":1466440197,
     "wof:name":"Ponce De Leon Lighthouse Assn",
     "wof:parent_id":85827137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.929313,29.080773,-80.929313,29.080773],
-  "geometry": {"coordinates":[-80.929313,29.080773],"type":"Point"}
+  "bbox": [
+    -80.929313,
+    29.080773,
+    -80.929313,
+    29.080773
+],
+  "geometry": {"coordinates":[-80.92931299999999,29.080773],"type":"Point"}
 }

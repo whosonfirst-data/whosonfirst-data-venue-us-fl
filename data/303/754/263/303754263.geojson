@@ -2,13 +2,14 @@
   "id": 303754263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.381633,28.605829,-81.381633,28.605829",
     "geom:latitude":28.605829,
     "geom:longitude":-81.381633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Lee Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303754263,
-    "wof:lastmodified":1448999721,
+    "wof:lastmodified":1466443534,
     "wof:name":"Bel Aire Homes Inc",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "operative"
     ]
 },
-  "bbox": [-81.381633,28.605829,-81.381633,28.605829],
-  "geometry": {"coordinates":[-81.381633,28.605829],"type":"Point"}
+  "bbox": [
+    -81.381633,
+    28.605829,
+    -81.381633,
+    28.605829
+],
+  "geometry": {"coordinates":[-81.38163299999999,28.605829],"type":"Point"}
 }

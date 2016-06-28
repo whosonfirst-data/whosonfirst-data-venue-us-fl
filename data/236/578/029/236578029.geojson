@@ -2,13 +2,14 @@
   "id": 236578029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210648,26.699213,-80.210648,26.699213",
     "geom:latitude":26.699213,
     "geom:longitude":-80.210648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Bobwhite Rd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236578029,
-    "wof:lastmodified":1449002304,
+    "wof:lastmodified":1466436583,
     "wof:name":"Alfred Sharpe Express Service",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-80.210648,26.699213,-80.210648,26.699213],
-  "geometry": {"coordinates":[-80.210648,26.699213],"type":"Point"}
+  "bbox": [
+    -80.210648,
+    26.699213,
+    -80.210648,
+    26.699213
+],
+  "geometry": {"coordinates":[-80.21064800000001,26.699213],"type":"Point"}
 }

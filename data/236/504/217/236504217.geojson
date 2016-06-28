@@ -2,13 +2,14 @@
   "id": 236504217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195045,26.234707,-80.195045,26.234707",
     "geom:latitude":26.234707,
     "geom:longitude":-80.195045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4996 W Atlantic Blvd",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236504217,
-    "wof:lastmodified":1449002111,
+    "wof:lastmodified":1466435521,
     "wof:name":"Wireless Center USA Inc",
     "wof:parent_id":85896213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.195045,26.234707,-80.195045,26.234707],
-  "geometry": {"coordinates":[-80.195045,26.234707],"type":"Point"}
+  "bbox": [
+    -80.195045,
+    26.234707,
+    -80.195045,
+    26.234707
+],
+  "geometry": {"coordinates":[-80.19504499999999,26.234707],"type":"Point"}
 }

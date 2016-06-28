@@ -2,13 +2,14 @@
   "id": 202722049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.463619,28.951225,-82.463619,28.951225",
     "geom:latitude":28.951225,
     "geom:longitude":-82.463619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5982 N Maroon Way",
     "sg:city":"Beverly Hills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202722049,
-    "wof:lastmodified":1449060994,
+    "wof:lastmodified":1466431261,
     "wof:name":"Sept Away Sweeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-82.463619,28.951225,-82.463619,28.951225],
-  "geometry": {"coordinates":[-82.463619,28.951225],"type":"Point"}
+  "bbox": [
+    -82.463619,
+    28.951225,
+    -82.463619,
+    28.951225
+],
+  "geometry": {"coordinates":[-82.46361899999999,28.951225],"type":"Point"}
 }

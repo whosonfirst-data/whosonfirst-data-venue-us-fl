@@ -2,13 +2,14 @@
   "id": 270343171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.236663,28.530825,-81.236663,28.530825",
     "geom:latitude":28.530825,
     "geom:longitude":-81.236663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Old Barn Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270343171,
-    "wof:lastmodified":1449010387,
+    "wof:lastmodified":1466435341,
     "wof:name":"Rivera Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.236663,28.530825,-81.236663,28.530825],
-  "geometry": {"coordinates":[-81.236663,28.530825],"type":"Point"}
+  "bbox": [
+    -81.236663,
+    28.530825,
+    -81.236663,
+    28.530825
+],
+  "geometry": {"coordinates":[-81.23666299999999,28.530825],"type":"Point"}
 }

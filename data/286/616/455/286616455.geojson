@@ -2,13 +2,14 @@
   "id": 286616455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.397343,25.65413,-80.397343,25.65413",
     "geom:latitude":25.65413,
     "geom:longitude":-80.397343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12302 SW 124th Path",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286616455,
-    "wof:lastmodified":1449017344,
+    "wof:lastmodified":1466435831,
     "wof:name":"CAS Corp",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.397343,25.65413,-80.397343,25.65413],
-  "geometry": {"coordinates":[-80.397343,25.65413],"type":"Point"}
+  "bbox": [
+    -80.397343,
+    25.65413,
+    -80.397343,
+    25.65413
+],
+  "geometry": {"coordinates":[-80.39734300000001,25.65413],"type":"Point"}
 }

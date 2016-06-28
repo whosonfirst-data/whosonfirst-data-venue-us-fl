@@ -2,13 +2,14 @@
   "id": 320780161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128864,26.100405,-80.128864,26.100405",
     "geom:latitude":26.100405,
     "geom:longitude":-80.128864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1334 SE 17th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320780161,
-    "wof:lastmodified":1449014044,
+    "wof:lastmodified":1466446834,
     "wof:name":"Lauderdale Diver",
     "wof:parent_id":85877501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.128864,26.100405,-80.128864,26.100405],
-  "geometry": {"coordinates":[-80.128864,26.100405],"type":"Point"}
+  "bbox": [
+    -80.128864,
+    26.100405,
+    -80.128864,
+    26.100405
+],
+  "geometry": {"coordinates":[-80.12886399999999,26.100405],"type":"Point"}
 }

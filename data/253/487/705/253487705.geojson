@@ -2,13 +2,14 @@
   "id": 253487705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.60935,28.096236,-82.60935,28.096236",
     "geom:latitude":28.096236,
     "geom:longitude":-82.60935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15502 Race Track Rd",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253487705,
-    "wof:lastmodified":1449063797,
+    "wof:lastmodified":1466435409,
     "wof:name":"National Land Survey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.60935,28.096236,-82.60935,28.096236],
-  "geometry": {"coordinates":[-82.60935,28.096236],"type":"Point"}
+  "bbox": [
+    -82.60935,
+    28.096236,
+    -82.60935,
+    28.096236
+],
+  "geometry": {"coordinates":[-82.60935000000001,28.096236],"type":"Point"}
 }

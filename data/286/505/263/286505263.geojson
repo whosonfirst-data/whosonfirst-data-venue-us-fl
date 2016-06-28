@@ -2,13 +2,14 @@
   "id": 286505263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599995,30.33597,-81.599995,30.33597",
     "geom:latitude":30.33597,
     "geom:longitude":-81.599995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5807 Macy Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286505263,
-    "wof:lastmodified":1449017628,
+    "wof:lastmodified":1466433868,
     "wof:name":"Dyal Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-81.599995,30.33597,-81.599995,30.33597],
-  "geometry": {"coordinates":[-81.599995,30.33597],"type":"Point"}
+  "bbox": [
+    -81.599995,
+    30.33597,
+    -81.599995,
+    30.33597
+],
+  "geometry": {"coordinates":[-81.59999500000001,30.33597],"type":"Point"}
 }

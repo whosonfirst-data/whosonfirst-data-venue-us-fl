@@ -2,13 +2,14 @@
   "id": 320849589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.273665,30.397807,-87.273665,30.397807",
     "geom:latitude":30.397807,
     "geom:longitude":-87.273665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Old Corry Field Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320849589,
-    "wof:lastmodified":1449011946,
+    "wof:lastmodified":1466447357,
     "wof:name":"American Mini Storage Inc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "special"
     ]
 },
-  "bbox": [-87.273665,30.397807,-87.273665,30.397807],
-  "geometry": {"coordinates":[-87.273665,30.397807],"type":"Point"}
+  "bbox": [
+    -87.273665,
+    30.397807,
+    -87.273665,
+    30.397807
+],
+  "geometry": {"coordinates":[-87.27366499999999,30.397807],"type":"Point"}
 }

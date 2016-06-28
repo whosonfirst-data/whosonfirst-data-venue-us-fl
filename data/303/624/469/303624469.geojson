@@ -2,13 +2,14 @@
   "id": 303624469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.616982,30.227558,-81.616982,30.227558",
     "geom:latitude":30.227558,
     "geom:longitude":-81.616982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8339 Daffin Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303624469,
-    "wof:lastmodified":1448999797,
+    "wof:lastmodified":1466441271,
     "wof:name":"Fred Kupperman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.616982,30.227558,-81.616982,30.227558],
-  "geometry": {"coordinates":[-81.616982,30.227558],"type":"Point"}
+  "bbox": [
+    -81.616982,
+    30.227558,
+    -81.616982,
+    30.227558
+],
+  "geometry": {"coordinates":[-81.61698199999999,30.227558],"type":"Point"}
 }

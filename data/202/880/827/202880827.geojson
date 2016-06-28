@@ -2,13 +2,14 @@
   "id": 202880827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.599663,30.442209,-86.599663,30.442209",
     "geom:latitude":30.442209,
     "geom:longitude":-86.599663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Racetrack Rd NE",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202880827,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1466433347,
     "wof:name":"Andrews Home Inspections",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-86.599663,30.442209,-86.599663,30.442209],
-  "geometry": {"coordinates":[-86.599663,30.442209],"type":"Point"}
+  "bbox": [
+    -86.599663,
+    30.442209,
+    -86.599663,
+    30.442209
+],
+  "geometry": {"coordinates":[-86.59966300000001,30.442209],"type":"Point"}
 }

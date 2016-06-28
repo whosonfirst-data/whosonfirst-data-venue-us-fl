@@ -2,13 +2,14 @@
   "id": 202466245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344011,28.557525,-81.344011,28.557525",
     "geom:latitude":28.557525,
     "geom:longitude":-81.344011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Woodcock Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202466245,
-    "wof:lastmodified":1449060874,
+    "wof:lastmodified":1466445269,
     "wof:name":"Security Bond Assoc Inc",
     "wof:parent_id":85879441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-81.344011,28.557525,-81.344011,28.557525],
-  "geometry": {"coordinates":[-81.344011,28.557525],"type":"Point"}
+  "bbox": [
+    -81.344011,
+    28.557525,
+    -81.344011,
+    28.557525
+],
+  "geometry": {"coordinates":[-81.34401099999999,28.557525],"type":"Point"}
 }

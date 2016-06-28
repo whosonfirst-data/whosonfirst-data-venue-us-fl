@@ -2,13 +2,14 @@
   "id": 303708669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64477,30.2864,-81.64477,30.2864",
     "geom:latitude":30.2864,
     "geom:longitude":-81.64477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1856 Davidson St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303708669,
-    "wof:lastmodified":1448998502,
+    "wof:lastmodified":1466442774,
     "wof:name":"Carraway Academy Swim Team",
     "wof:parent_id":85841485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.64477,30.2864,-81.64477,30.2864],
-  "geometry": {"coordinates":[-81.64477,30.2864],"type":"Point"}
+  "bbox": [
+    -81.64477,
+    30.2864,
+    -81.64477,
+    30.2864
+],
+  "geometry": {"coordinates":[-81.64476999999999,30.2864],"type":"Point"}
 }

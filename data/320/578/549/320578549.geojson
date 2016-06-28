@@ -2,13 +2,14 @@
   "id": 320578549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069234,26.793025,-80.069234,26.793025",
     "geom:latitude":26.793025,
     "geom:longitude":-80.069234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Silver Beach Rd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320578549,
-    "wof:lastmodified":1449012202,
+    "wof:lastmodified":1466443421,
     "wof:name":"Goldcoast Fire Equipment Inc",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-80.069234,26.793025,-80.069234,26.793025],
-  "geometry": {"coordinates":[-80.069234,26.793025],"type":"Point"}
+  "bbox": [
+    -80.069234,
+    26.793025,
+    -80.069234,
+    26.793025
+],
+  "geometry": {"coordinates":[-80.06923399999999,26.793025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202916371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.227394,30.484787,-84.227394,30.484787",
     "geom:latitude":30.484787,
     "geom:longitude":-84.227394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 Fleischmann Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202916371,
-    "wof:lastmodified":1449061502,
+    "wof:lastmodified":1466433820,
     "wof:name":"Capital City Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-84.227394,30.484787,-84.227394,30.484787],
+  "bbox": [
+    -84.227394,
+    30.484787,
+    -84.227394,
+    30.484787
+],
   "geometry": {"coordinates":[-84.227394,30.484787],"type":"Point"}
 }

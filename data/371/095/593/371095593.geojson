@@ -2,13 +2,14 @@
   "id": 371095593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.366672,26.68516,-80.366672,26.68516",
     "geom:latitude":26.68516,
     "geom:longitude":-80.366672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20125 Southern Blvd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371095593,
-    "wof:lastmodified":1449049564,
+    "wof:lastmodified":1466439031,
     "wof:name":"Continental Florida",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-80.366672,26.68516,-80.366672,26.68516],
-  "geometry": {"coordinates":[-80.366672,26.68516],"type":"Point"}
+  "bbox": [
+    -80.366672,
+    26.68516,
+    -80.366672,
+    26.68516
+],
+  "geometry": {"coordinates":[-80.36667199999999,26.68516],"type":"Point"}
 }

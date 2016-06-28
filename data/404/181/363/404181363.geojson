@@ -2,13 +2,14 @@
   "id": 404181363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.284765,28.779587,-81.284765,28.779587",
     "geom:latitude":28.779587,
     "geom:longitude":-81.284765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2768 Ridgewood Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404181363,
-    "wof:lastmodified":1449039843,
+    "wof:lastmodified":1466443055,
     "wof:name":"Johnson's Boutique",
     "wof:parent_id":85815205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-81.284765,28.779587,-81.284765,28.779587],
-  "geometry": {"coordinates":[-81.284765,28.779587],"type":"Point"}
+  "bbox": [
+    -81.284765,
+    28.779587,
+    -81.284765,
+    28.779587
+],
+  "geometry": {"coordinates":[-81.28476499999999,28.779587],"type":"Point"}
 }

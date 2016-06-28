@@ -2,13 +2,14 @@
   "id": 202928311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.638709,27.854885,-82.638709,27.854885",
     "geom:latitude":27.854885,
     "geom:longitude":-82.638709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9039 4th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202928311,
-    "wof:lastmodified":1449062299,
+    "wof:lastmodified":1466433982,
     "wof:name":"Swim Zone",
     "wof:parent_id":85880531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sport"
     ]
 },
-  "bbox": [-82.638709,27.854885,-82.638709,27.854885],
-  "geometry": {"coordinates":[-82.638709,27.854885],"type":"Point"}
+  "bbox": [
+    -82.638709,
+    27.854885,
+    -82.638709,
+    27.854885
+],
+  "geometry": {"coordinates":[-82.63870900000001,27.854885],"type":"Point"}
 }

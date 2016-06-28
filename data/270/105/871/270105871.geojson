@@ -2,13 +2,14 @@
   "id": 270105871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.24317,30.571022,-84.24317,30.571022",
     "geom:latitude":30.571022,
     "geom:longitude":-84.24317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 Maclean Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270105871,
-    "wof:lastmodified":1449009573,
+    "wof:lastmodified":1466431252,
     "wof:name":"Gt Entertainment Casinos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "music"
     ]
 },
-  "bbox": [-84.24317,30.571022,-84.24317,30.571022],
-  "geometry": {"coordinates":[-84.24317,30.571022],"type":"Point"}
+  "bbox": [
+    -84.24317,
+    30.571022,
+    -84.24317,
+    30.571022
+],
+  "geometry": {"coordinates":[-84.24317000000001,30.571022],"type":"Point"}
 }

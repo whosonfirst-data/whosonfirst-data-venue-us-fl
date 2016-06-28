@@ -2,13 +2,14 @@
   "id": 304017853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057708,26.602596,-80.057708,26.602596",
     "geom:latitude":26.602596,
     "geom:longitude":-80.057708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Dixie Hwy",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304017853,
-    "wof:lastmodified":1449043895,
+    "wof:lastmodified":1466432114,
     "wof:name":"AJC Auto Sales",
     "wof:parent_id":85829789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.057708,26.602596,-80.057708,26.602596],
-  "geometry": {"coordinates":[-80.057708,26.602596],"type":"Point"}
+  "bbox": [
+    -80.057708,
+    26.602596,
+    -80.057708,
+    26.602596
+],
+  "geometry": {"coordinates":[-80.05770800000001,26.602596],"type":"Point"}
 }

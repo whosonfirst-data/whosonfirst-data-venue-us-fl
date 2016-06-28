@@ -2,13 +2,14 @@
   "id": 370282501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.959916,26.562759,-81.959916,26.562759",
     "geom:latitude":26.562759,
     "geom:longitude":-81.959916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 E Cape Coral Pkwy",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370282501,
-    "wof:lastmodified":1449031203,
+    "wof:lastmodified":1466438503,
     "wof:name":"Cape Bait & Tackle",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-81.959916,26.562759,-81.959916,26.562759],
-  "geometry": {"coordinates":[-81.959916,26.562759],"type":"Point"}
+  "bbox": [
+    -81.959916,
+    26.562759,
+    -81.959916,
+    26.562759
+],
+  "geometry": {"coordinates":[-81.95991600000001,26.562759],"type":"Point"}
 }

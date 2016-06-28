@@ -2,13 +2,14 @@
   "id": 387843047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.360233,29.62277,-82.360233,29.62277",
     "geom:latitude":29.62277,
     "geom:longitude":-82.360233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 SW 31 Pl",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387843047,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1466449097,
     "wof:name":"Super Stop",
     "wof:parent_id":85877637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.360233,29.62277,-82.360233,29.62277],
-  "geometry": {"coordinates":[-82.360233,29.62277],"type":"Point"}
+  "bbox": [
+    -82.360233,
+    29.62277,
+    -82.360233,
+    29.62277
+],
+  "geometry": {"coordinates":[-82.36023299999999,29.62277],"type":"Point"}
 }

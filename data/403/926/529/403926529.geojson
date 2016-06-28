@@ -2,13 +2,14 @@
   "id": 403926529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157378,26.188346,-80.157378,26.188346",
     "geom:latitude":26.188346,
     "geom:longitude":-80.157378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Commercial Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403926529,
-    "wof:lastmodified":1449055089,
+    "wof:lastmodified":1466443142,
     "wof:name":"Mobile Lube Express",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-80.157378,26.188346,-80.157378,26.188346],
-  "geometry": {"coordinates":[-80.157378,26.188346],"type":"Point"}
+  "bbox": [
+    -80.157378,
+    26.188346,
+    -80.157378,
+    26.188346
+],
+  "geometry": {"coordinates":[-80.15737799999999,26.188346],"type":"Point"}
 }

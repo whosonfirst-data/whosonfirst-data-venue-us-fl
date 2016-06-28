@@ -2,13 +2,14 @@
   "id": 270383529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23193,26.062347,-80.23193,26.062347",
     "geom:latitude":26.062347,
     "geom:longitude":-80.23193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 SW 64th Ave",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270383529,
-    "wof:lastmodified":1449009679,
+    "wof:lastmodified":1466436016,
     "wof:name":"Davie United Methodist Church",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "thrift"
     ]
 },
-  "bbox": [-80.23193,26.062347,-80.23193,26.062347],
-  "geometry": {"coordinates":[-80.23193,26.062347],"type":"Point"}
+  "bbox": [
+    -80.23193,
+    26.062347,
+    -80.23193,
+    26.062347
+],
+  "geometry": {"coordinates":[-80.23193000000001,26.062347],"type":"Point"}
 }

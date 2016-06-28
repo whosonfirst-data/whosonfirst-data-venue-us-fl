@@ -2,13 +2,14 @@
   "id": 387471259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.504927,28.559227,-81.504927,28.559227",
     "geom:latitude":28.559227,
     "geom:longitude":-81.504927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1498 Good Homes Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387471259,
-    "wof:lastmodified":1449057633,
+    "wof:lastmodified":1466445931,
     "wof:name":"Circle K",
     "wof:parent_id":85889263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.504927,28.559227,-81.504927,28.559227],
+  "bbox": [
+    -81.504927,
+    28.559227,
+    -81.504927,
+    28.559227
+],
   "geometry": {"coordinates":[-81.504927,28.559227],"type":"Point"}
 }

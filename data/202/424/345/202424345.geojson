@@ -2,13 +2,14 @@
   "id": 202424345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.3135,25.817926,-80.3135,25.817926",
     "geom:latitude":25.817926,
     "geom:longitude":-80.3135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202424345,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1466444160,
     "wof:name":"MECO Intl Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-80.3135,25.817926,-80.3135,25.817926],
+  "bbox": [
+    -80.3135,
+    25.817926,
+    -80.3135,
+    25.817926
+],
   "geometry": {"coordinates":[-80.3135,25.817926],"type":"Point"}
 }

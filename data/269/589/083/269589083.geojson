@@ -2,13 +2,14 @@
   "id": 269589083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108365,26.959064,-80.108365,26.959064",
     "geom:latitude":26.959064,
     "geom:longitude":-80.108365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4948 Windward Ave",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269589083,
-    "wof:lastmodified":1449037419,
+    "wof:lastmodified":1466430357,
     "wof:name":"Medscribe",
     "wof:parent_id":85888941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-80.108365,26.959064,-80.108365,26.959064],
-  "geometry": {"coordinates":[-80.108365,26.959064],"type":"Point"}
+  "bbox": [
+    -80.108365,
+    26.959064,
+    -80.108365,
+    26.959064
+],
+  "geometry": {"coordinates":[-80.10836500000001,26.959064],"type":"Point"}
 }

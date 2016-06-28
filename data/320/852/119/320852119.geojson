@@ -2,13 +2,14 @@
   "id": 320852119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.335478,27.099397,-82.335478,27.099397",
     "geom:latitude":27.099397,
     "geom:longitude":-82.335478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 E Venice Ave",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320852119,
-    "wof:lastmodified":1449014337,
+    "wof:lastmodified":1466447522,
     "wof:name":"Morgan Painting Of Sw Florida",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.335478,27.099397,-82.335478,27.099397],
-  "geometry": {"coordinates":[-82.335478,27.099397],"type":"Point"}
+  "bbox": [
+    -82.335478,
+    27.099397,
+    -82.335478,
+    27.099397
+],
+  "geometry": {"coordinates":[-82.33547799999999,27.099397],"type":"Point"}
 }

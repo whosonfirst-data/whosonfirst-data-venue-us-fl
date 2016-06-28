@@ -2,13 +2,14 @@
   "id": 287235735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228445,26.355767,-80.228445,26.355767",
     "geom:latitude":26.355767,
     "geom:longitude":-80.228445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21593 Woodstream Ter",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287235735,
-    "wof:lastmodified":1449000818,
+    "wof:lastmodified":1466434008,
     "wof:name":"Cathedral Software Inc",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-80.228445,26.355767,-80.228445,26.355767],
-  "geometry": {"coordinates":[-80.228445,26.355767],"type":"Point"}
+  "bbox": [
+    -80.228445,
+    26.355767,
+    -80.228445,
+    26.355767
+],
+  "geometry": {"coordinates":[-80.22844499999999,26.355767],"type":"Point"}
 }

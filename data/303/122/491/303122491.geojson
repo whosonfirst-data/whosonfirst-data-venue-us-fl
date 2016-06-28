@@ -2,13 +2,14 @@
   "id": 303122491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.185039,26.105777,-80.185039,26.105777",
     "geom:latitude":26.105777,
     "geom:longitude":-80.185039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Davie Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303122491,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466432628,
     "wof:name":"American Battery Company",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-80.185039,26.105777,-80.185039,26.105777],
+  "bbox": [
+    -80.185039,
+    26.105777,
+    -80.185039,
+    26.105777
+],
   "geometry": {"coordinates":[-80.185039,26.105777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219406991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.43289,30.495523,-86.43289,30.495523",
     "geom:latitude":30.495523,
     "geom:longitude":-86.43289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 State Hwy 20",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219406991,
-    "wof:lastmodified":1449072270,
+    "wof:lastmodified":1466430289,
     "wof:name":"Okaloosa County Water & Sewer",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-86.43289,30.495523,-86.43289,30.495523],
+  "bbox": [
+    -86.43289,
+    30.495523,
+    -86.43289,
+    30.495523
+],
   "geometry": {"coordinates":[-86.43289,30.495523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303926951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325229,25.831735,-80.325229,25.831735",
     "geom:latitude":25.831735,
     "geom:longitude":-80.325229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7913 NW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303926951,
-    "wof:lastmodified":1448998970,
+    "wof:lastmodified":1466446430,
     "wof:name":"Interface Productions",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-80.325229,25.831735,-80.325229,25.831735],
-  "geometry": {"coordinates":[-80.325229,25.831735],"type":"Point"}
+  "bbox": [
+    -80.325229,
+    25.831735,
+    -80.325229,
+    25.831735
+],
+  "geometry": {"coordinates":[-80.32522899999999,25.831735],"type":"Point"}
 }

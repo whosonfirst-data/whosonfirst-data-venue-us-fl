@@ -2,13 +2,14 @@
   "id": 320721043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077221,26.501088,-80.077221,26.501088",
     "geom:latitude":26.501088,
     "geom:longitude":-80.077221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 SW 9th St",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320721043,
-    "wof:lastmodified":1449014958,
+    "wof:lastmodified":1466445838,
     "wof:name":"Vintage Woodwork",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-80.077221,26.501088,-80.077221,26.501088],
-  "geometry": {"coordinates":[-80.077221,26.501088],"type":"Point"}
+  "bbox": [
+    -80.077221,
+    26.501088,
+    -80.077221,
+    26.501088
+],
+  "geometry": {"coordinates":[-80.07722099999999,26.501088],"type":"Point"}
 }

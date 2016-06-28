@@ -2,13 +2,14 @@
   "id": 370717541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.471343,28.521848,-81.471343,28.521848",
     "geom:latitude":28.521848,
     "geom:longitude":-81.471343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 S Hiawassee Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370717541,
-    "wof:lastmodified":1449029151,
+    "wof:lastmodified":1466445161,
     "wof:name":"Central Florida Orthopedic",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.471343,28.521848,-81.471343,28.521848],
+  "bbox": [
+    -81.471343,
+    28.521848,
+    -81.471343,
+    28.521848
+],
   "geometry": {"coordinates":[-81.471343,28.521848],"type":"Point"}
 }

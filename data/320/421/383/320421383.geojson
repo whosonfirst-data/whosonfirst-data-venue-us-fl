@@ -2,13 +2,14 @@
   "id": 320421383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.254398,30.475944,-87.254398,30.475944",
     "geom:latitude":30.475944,
     "geom:longitude":-87.254398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Industrial Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320421383,
-    "wof:lastmodified":1449013629,
+    "wof:lastmodified":1466440624,
     "wof:name":"Joseph T Madden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.254398,30.475944,-87.254398,30.475944],
-  "geometry": {"coordinates":[-87.254398,30.475944],"type":"Point"}
+  "bbox": [
+    -87.254398,
+    30.475944,
+    -87.254398,
+    30.475944
+],
+  "geometry": {"coordinates":[-87.25439799999999,30.475944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387658681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686613,28.120521,-80.686613,28.120521",
     "geom:latitude":28.120521,
     "geom:longitude":-80.686613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"864 Washburn Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387658681,
-    "wof:lastmodified":1449056030,
+    "wof:lastmodified":1466447718,
     "wof:name":"North American Catastrophe Svc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "business"
     ]
 },
-  "bbox": [-80.686613,28.120521,-80.686613,28.120521],
-  "geometry": {"coordinates":[-80.686613,28.120521],"type":"Point"}
+  "bbox": [
+    -80.686613,
+    28.120521,
+    -80.686613,
+    28.120521
+],
+  "geometry": {"coordinates":[-80.68661299999999,28.120521],"type":"Point"}
 }

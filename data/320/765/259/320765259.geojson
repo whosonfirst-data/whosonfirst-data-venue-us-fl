@@ -2,13 +2,14 @@
   "id": 320765259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.277774,28.809809,-81.277774,28.809809",
     "geom:latitude":28.809809,
     "geom:longitude":-81.277774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 W 3rd St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320765259,
-    "wof:lastmodified":1449013416,
+    "wof:lastmodified":1466446483,
     "wof:name":"Dick's Electric Inc",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.277774,28.809809,-81.277774,28.809809],
-  "geometry": {"coordinates":[-81.277774,28.809809],"type":"Point"}
+  "bbox": [
+    -81.277774,
+    28.809809,
+    -81.277774,
+    28.809809
+],
+  "geometry": {"coordinates":[-81.27777399999999,28.809809],"type":"Point"}
 }

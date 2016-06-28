@@ -2,13 +2,14 @@
   "id": 287113191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.56982,27.497261,-82.56982,27.497261",
     "geom:latitude":27.497261,
     "geom:longitude":-82.56982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 8th St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287113191,
-    "wof:lastmodified":1449001506,
+    "wof:lastmodified":1466431843,
     "wof:name":"Hicks Apts",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.56982,27.497261,-82.56982,27.497261],
-  "geometry": {"coordinates":[-82.56982,27.497261],"type":"Point"}
+  "bbox": [
+    -82.56982,
+    27.497261,
+    -82.56982,
+    27.497261
+],
+  "geometry": {"coordinates":[-82.56982000000001,27.497261],"type":"Point"}
 }

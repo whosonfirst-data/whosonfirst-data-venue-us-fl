@@ -2,13 +2,14 @@
   "id": 387040301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209054,25.79518,-80.209054,25.79518",
     "geom:latitude":25.79518,
     "geom:longitude":-80.209054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 NW 20th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387040301,
-    "wof:lastmodified":1449059807,
+    "wof:lastmodified":1466439325,
     "wof:name":"Bum Rush Production",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.209054,25.79518,-80.209054,25.79518],
-  "geometry": {"coordinates":[-80.209054,25.79518],"type":"Point"}
+  "bbox": [
+    -80.209054,
+    25.79518,
+    -80.209054,
+    25.79518
+],
+  "geometry": {"coordinates":[-80.20905399999999,25.79518],"type":"Point"}
 }

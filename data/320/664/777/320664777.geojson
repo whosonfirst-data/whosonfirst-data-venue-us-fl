@@ -2,13 +2,14 @@
   "id": 320664777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49648,30.386898,-86.49648,30.386898",
     "geom:latitude":30.386898,
     "geom:longitude":-86.49648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Osceola Dr",
     "sg:city":"Destin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320664777,
-    "wof:lastmodified":1449012663,
+    "wof:lastmodified":1466444892,
     "wof:name":"Bayou Breeze Developers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49648,30.386898,-86.49648,30.386898],
-  "geometry": {"coordinates":[-86.49648,30.386898],"type":"Point"}
+  "bbox": [
+    -86.49648,
+    30.386898,
+    -86.49648,
+    30.386898
+],
+  "geometry": {"coordinates":[-86.49648000000001,30.386898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320601813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.051735,30.616624,-87.051735,30.616624",
     "geom:latitude":30.616624,
     "geom:longitude":-87.051735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6655 Caroline St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320601813,
-    "wof:lastmodified":1449012921,
+    "wof:lastmodified":1466443829,
     "wof:name":"Blossman Gas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gas"
     ]
 },
-  "bbox": [-87.051735,30.616624,-87.051735,30.616624],
-  "geometry": {"coordinates":[-87.051735,30.616624],"type":"Point"}
+  "bbox": [
+    -87.051735,
+    30.616624,
+    -87.051735,
+    30.616624
+],
+  "geometry": {"coordinates":[-87.05173499999999,30.616624],"type":"Point"}
 }

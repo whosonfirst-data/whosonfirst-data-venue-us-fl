@@ -2,13 +2,14 @@
   "id": 287045097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199221,26.104561,-80.199221,26.104561",
     "geom:latitude":26.104561,
     "geom:longitude":-80.199221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 Davie Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287045097,
-    "wof:lastmodified":1449001475,
+    "wof:lastmodified":1466430594,
     "wof:name":"Car Sales Towing",
     "wof:parent_id":85877531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.199221,26.104561,-80.199221,26.104561],
-  "geometry": {"coordinates":[-80.199221,26.104561],"type":"Point"}
+  "bbox": [
+    -80.199221,
+    26.104561,
+    -80.199221,
+    26.104561
+],
+  "geometry": {"coordinates":[-80.19922099999999,26.104561],"type":"Point"}
 }

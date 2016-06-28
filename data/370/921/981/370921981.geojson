@@ -2,13 +2,14 @@
   "id": 370921981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70749,30.065528,-81.70749,30.065528",
     "geom:latitude":30.065528,
     "geom:longitude":-81.70749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3254 US Hwy 17 S",
     "sg:city":"Green Cove Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370921981,
-    "wof:lastmodified":1449031252,
+    "wof:lastmodified":1466447683,
     "wof:name":"Yomj",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.70749,30.065528,-81.70749,30.065528],
-  "geometry": {"coordinates":[-81.70749,30.065528],"type":"Point"}
+  "bbox": [
+    -81.70749,
+    30.065528,
+    -81.70749,
+    30.065528
+],
+  "geometry": {"coordinates":[-81.70749000000001,30.065528],"type":"Point"}
 }

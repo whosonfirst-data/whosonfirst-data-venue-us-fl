@@ -2,13 +2,14 @@
   "id": 387303731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.505417,28.675886,-81.505417,28.675886",
     "geom:latitude":28.675886,
     "geom:longitude":-81.505417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 S Highland Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387303731,
-    "wof:lastmodified":1449056156,
+    "wof:lastmodified":1466443382,
     "wof:name":"Froggers Oyster Bar & Grill",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-81.505417,28.675886,-81.505417,28.675886],
-  "geometry": {"coordinates":[-81.505417,28.675886],"type":"Point"}
+  "bbox": [
+    -81.505417,
+    28.675886,
+    -81.505417,
+    28.675886
+],
+  "geometry": {"coordinates":[-81.50541699999999,28.675886],"type":"Point"}
 }

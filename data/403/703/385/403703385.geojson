@@ -2,13 +2,14 @@
   "id": 403703385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.399229,30.261129,-81.399229,30.261129",
     "geom:latitude":30.261129,
     "geom:longitude":-81.399229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Justice Dr",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403703385,
-    "wof:lastmodified":1449055047,
+    "wof:lastmodified":1466439595,
     "wof:name":"Donna H Fogle",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "select"
     ]
 },
-  "bbox": [-81.399229,30.261129,-81.399229,30.261129],
-  "geometry": {"coordinates":[-81.399229,30.261129],"type":"Point"}
+  "bbox": [
+    -81.399229,
+    30.261129,
+    -81.399229,
+    30.261129
+],
+  "geometry": {"coordinates":[-81.39922900000001,30.261129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403860315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.408808,28.540172,-81.408808,28.540172",
     "geom:latitude":28.540172,
     "geom:longitude":-81.408808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 W Church St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403860315,
-    "wof:lastmodified":1449055227,
+    "wof:lastmodified":1466442108,
     "wof:name":"Waterflow Ws",
     "wof:parent_id":85879537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.408808,28.540172,-81.408808,28.540172],
-  "geometry": {"coordinates":[-81.408808,28.540172],"type":"Point"}
+  "bbox": [
+    -81.408808,
+    28.540172,
+    -81.408808,
+    28.540172
+],
+  "geometry": {"coordinates":[-81.40880799999999,28.540172],"type":"Point"}
 }

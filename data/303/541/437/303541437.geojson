@@ -2,13 +2,14 @@
   "id": 303541437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101291,26.420579,-80.101291,26.420579",
     "geom:latitude":26.420579,
     "geom:longitude":-80.101291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17202 Ventana Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303541437,
-    "wof:lastmodified":1448998392,
+    "wof:lastmodified":1466439871,
     "wof:name":"Marvin A Gross Dr",
     "wof:parent_id":85859309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.101291,26.420579,-80.101291,26.420579],
+  "bbox": [
+    -80.101291,
+    26.420579,
+    -80.101291,
+    26.420579
+],
   "geometry": {"coordinates":[-80.101291,26.420579],"type":"Point"}
 }

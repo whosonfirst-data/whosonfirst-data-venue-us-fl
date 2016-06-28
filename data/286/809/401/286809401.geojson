@@ -2,13 +2,14 @@
   "id": 286809401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090148,26.617434,-80.090148,26.617434",
     "geom:latitude":26.617434,
     "geom:longitude":-80.090148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3199 Lake Worth Rd",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286809401,
-    "wof:lastmodified":1449017593,
+    "wof:lastmodified":1466439269,
     "wof:name":"ETRODE",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-80.090148,26.617434,-80.090148,26.617434],
+  "bbox": [
+    -80.090148,
+    26.617434,
+    -80.090148,
+    26.617434
+],
   "geometry": {"coordinates":[-80.090148,26.617434],"type":"Point"}
 }

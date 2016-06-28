@@ -2,13 +2,14 @@
   "id": 320285261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087729,26.362031,-80.087729,26.362031",
     "geom:latitude":26.362031,
     "geom:longitude":-80.087729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1595 NW 1st Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320285261,
-    "wof:lastmodified":1449011364,
+    "wof:lastmodified":1466438269,
     "wof:name":"Datalister Inc",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "list"
     ]
 },
-  "bbox": [-80.087729,26.362031,-80.087729,26.362031],
+  "bbox": [
+    -80.087729,
+    26.362031,
+    -80.087729,
+    26.362031
+],
   "geometry": {"coordinates":[-80.087729,26.362031],"type":"Point"}
 }

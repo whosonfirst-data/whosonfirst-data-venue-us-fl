@@ -2,13 +2,14 @@
   "id": 319998505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.57768,28.106468,-80.57768,28.106468",
     "geom:latitude":28.106468,
     "geom:longitude":-80.57768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Flanders Dr",
     "sg:city":"Indialantic",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319998505,
-    "wof:lastmodified":1449024332,
+    "wof:lastmodified":1466435975,
     "wof:name":"Type Factory",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typesetting"
     ]
 },
-  "bbox": [-80.57768,28.106468,-80.57768,28.106468],
+  "bbox": [
+    -80.57768,
+    28.106468,
+    -80.57768,
+    28.106468
+],
   "geometry": {"coordinates":[-80.57768,28.106468],"type":"Point"}
 }

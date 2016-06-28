@@ -2,13 +2,14 @@
   "id": 286890161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157058,26.271307,-80.157058,26.271307",
     "geom:latitude":26.271307,
     "geom:longitude":-80.157058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 NW 25th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286890161,
-    "wof:lastmodified":1449015819,
+    "wof:lastmodified":1466440716,
     "wof:name":"Elite Hardware",
     "wof:parent_id":85806695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.157058,26.271307,-80.157058,26.271307],
-  "geometry": {"coordinates":[-80.157058,26.271307],"type":"Point"}
+  "bbox": [
+    -80.157058,
+    26.271307,
+    -80.157058,
+    26.271307
+],
+  "geometry": {"coordinates":[-80.15705800000001,26.271307],"type":"Point"}
 }

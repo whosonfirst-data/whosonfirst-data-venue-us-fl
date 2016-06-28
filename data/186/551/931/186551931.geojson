@@ -2,13 +2,14 @@
   "id": 186551931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.589779,30.395746,-86.589779,30.395746",
     "geom:latitude":30.395746,
     "geom:longitude":-86.589779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 US Hwy 98",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186551931,
-    "wof:lastmodified":1449050946,
+    "wof:lastmodified":1466433500,
     "wof:name":"Leeside Inn",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drinking"
     ]
 },
-  "bbox": [-86.589779,30.395746,-86.589779,30.395746],
-  "geometry": {"coordinates":[-86.589779,30.395746],"type":"Point"}
+  "bbox": [
+    -86.589779,
+    30.395746,
+    -86.589779,
+    30.395746
+],
+  "geometry": {"coordinates":[-86.58977899999999,30.395746],"type":"Point"}
 }

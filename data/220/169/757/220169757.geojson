@@ -2,13 +2,14 @@
   "id": 220169757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240597,30.413159,-87.240597,30.413159",
     "geom:latitude":30.413159,
     "geom:longitude":-87.240597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Chase St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220169757,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466429180,
     "wof:name":"Seamar Enterprises",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-87.240597,30.413159,-87.240597,30.413159],
-  "geometry": {"coordinates":[-87.240597,30.413159],"type":"Point"}
+  "bbox": [
+    -87.240597,
+    30.413159,
+    -87.240597,
+    30.413159
+],
+  "geometry": {"coordinates":[-87.24059699999999,30.413159],"type":"Point"}
 }

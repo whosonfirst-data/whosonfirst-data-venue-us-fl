@@ -2,13 +2,14 @@
   "id": 286832991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.46223,30.310172,-81.46223,30.310172",
     "geom:latitude":30.310172,
     "geom:longitude":-81.46223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13046 Palmetto Glade Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286832991,
-    "wof:lastmodified":1449015172,
+    "wof:lastmodified":1466439705,
     "wof:name":"A Bruce Galloway",
     "wof:parent_id":85870697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.46223,30.310172,-81.46223,30.310172],
-  "geometry": {"coordinates":[-81.46223,30.310172],"type":"Point"}
+  "bbox": [
+    -81.46223,
+    30.310172,
+    -81.46223,
+    30.310172
+],
+  "geometry": {"coordinates":[-81.46223000000001,30.310172],"type":"Point"}
 }

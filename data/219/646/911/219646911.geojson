@@ -2,13 +2,14 @@
   "id": 219646911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.387971,28.538287,-81.387971,28.538287",
     "geom:latitude":28.538287,
     "geom:longitude":-81.387971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 W South St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219646911,
-    "wof:lastmodified":1449070295,
+    "wof:lastmodified":1466433399,
     "wof:name":"Childcare Development System",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.387971,28.538287,-81.387971,28.538287],
-  "geometry": {"coordinates":[-81.387971,28.538287],"type":"Point"}
+  "bbox": [
+    -81.387971,
+    28.538287,
+    -81.387971,
+    28.538287
+],
+  "geometry": {"coordinates":[-81.38797099999999,28.538287],"type":"Point"}
 }

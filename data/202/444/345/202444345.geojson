@@ -2,13 +2,14 @@
   "id": 202444345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256296,25.914354,-80.256296,25.914354",
     "geom:latitude":25.914354,
     "geom:longitude":-80.256296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 NW 154th Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202444345,
-    "wof:lastmodified":1449062309,
+    "wof:lastmodified":1466444711,
     "wof:name":"Flight Deck Specialist Inc",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "deck"
     ]
 },
-  "bbox": [-80.256296,25.914354,-80.256296,25.914354],
-  "geometry": {"coordinates":[-80.256296,25.914354],"type":"Point"}
+  "bbox": [
+    -80.256296,
+    25.914354,
+    -80.256296,
+    25.914354
+],
+  "geometry": {"coordinates":[-80.25629600000001,25.914354],"type":"Point"}
 }

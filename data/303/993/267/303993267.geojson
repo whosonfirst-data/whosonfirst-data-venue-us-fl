@@ -2,13 +2,14 @@
   "id": 303993267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384582,28.744888,-81.384582,28.744888",
     "geom:latitude":28.744888,
     "geom:longitude":-81.384582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1766 Alaqua Dr",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303993267,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1466447159,
     "wof:name":"Alaqua Lakes Development",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.384582,28.744888,-81.384582,28.744888],
-  "geometry": {"coordinates":[-81.384582,28.744888],"type":"Point"}
+  "bbox": [
+    -81.384582,
+    28.744888,
+    -81.384582,
+    28.744888
+],
+  "geometry": {"coordinates":[-81.38458199999999,28.744888],"type":"Point"}
 }

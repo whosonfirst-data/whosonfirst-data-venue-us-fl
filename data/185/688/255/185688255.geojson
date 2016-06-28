@@ -2,13 +2,14 @@
   "id": 185688255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223233,26.225118,-80.223233,26.225118",
     "geom:latitude":26.225118,
     "geom:longitude":-80.223233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 SW 4th Ct",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185688255,
-    "wof:lastmodified":1449007210,
+    "wof:lastmodified":1466445240,
     "wof:name":"Owl Lawn Service",
     "wof:parent_id":85818423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.223233,26.225118,-80.223233,26.225118],
-  "geometry": {"coordinates":[-80.223233,26.225118],"type":"Point"}
+  "bbox": [
+    -80.223233,
+    26.225118,
+    -80.223233,
+    26.225118
+],
+  "geometry": {"coordinates":[-80.22323299999999,26.225118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370197769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.429093,27.293223,-80.429093,27.293223",
     "geom:latitude":27.293223,
     "geom:longitude":-80.429093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 SW Pancoast St",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370197769,
-    "wof:lastmodified":1449032048,
+    "wof:lastmodified":1466437191,
     "wof:name":"Bob's Marine Diesel",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-80.429093,27.293223,-80.429093,27.293223],
-  "geometry": {"coordinates":[-80.429093,27.293223],"type":"Point"}
+  "bbox": [
+    -80.429093,
+    27.293223,
+    -80.429093,
+    27.293223
+],
+  "geometry": {"coordinates":[-80.42909299999999,27.293223],"type":"Point"}
 }

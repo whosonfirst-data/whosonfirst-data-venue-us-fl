@@ -2,13 +2,14 @@
   "id": 253406359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.079512,29.296091,-81.079512,29.296091",
     "geom:latitude":29.296091,
     "geom:longitude":-81.079512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N US Hwy 1",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":253406359,
-    "wof:lastmodified":1449064410,
+    "wof:lastmodified":1466433978,
     "wof:name":"Florida Fire Chiefs Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.079512,29.296091,-81.079512,29.296091],
-  "geometry": {"coordinates":[-81.079512,29.296091],"type":"Point"}
+  "bbox": [
+    -81.079512,
+    29.296091,
+    -81.079512,
+    29.296091
+],
+  "geometry": {"coordinates":[-81.07951199999999,29.296091],"type":"Point"}
 }

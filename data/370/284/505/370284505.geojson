@@ -2,13 +2,14 @@
   "id": 370284505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249538,26.28324,-80.249538,26.28324",
     "geom:latitude":26.28324,
     "geom:longitude":-80.249538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 NW 92nd Ter",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370284505,
-    "wof:lastmodified":1449031190,
+    "wof:lastmodified":1466438530,
     "wof:name":"Diagnostics Of South Florida",
     "wof:parent_id":85876897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.249538,26.28324,-80.249538,26.28324],
+  "bbox": [
+    -80.249538,
+    26.28324,
+    -80.249538,
+    26.28324
+],
   "geometry": {"coordinates":[-80.249538,26.28324],"type":"Point"}
 }

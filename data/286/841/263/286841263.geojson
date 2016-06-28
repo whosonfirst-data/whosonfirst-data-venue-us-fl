@@ -2,13 +2,14 @@
   "id": 286841263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.126627,26.80726,-80.126627,26.80726",
     "geom:latitude":26.80726,
     "geom:longitude":-80.126627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8858 Steeplechase Dr",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286841263,
-    "wof:lastmodified":1449015786,
+    "wof:lastmodified":1466439848,
     "wof:name":"Anesthesia Outpatient",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "anesthetist"
     ]
 },
-  "bbox": [-80.126627,26.80726,-80.126627,26.80726],
+  "bbox": [
+    -80.126627,
+    26.80726,
+    -80.126627,
+    26.80726
+],
   "geometry": {"coordinates":[-80.126627,26.80726],"type":"Point"}
 }

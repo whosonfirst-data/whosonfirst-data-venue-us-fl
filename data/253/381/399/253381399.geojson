@@ -2,13 +2,14 @@
   "id": 253381399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23126,25.945749,-80.23126,25.945749",
     "geom:latitude":25.945749,
     "geom:longitude":-80.23126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 NW 187th Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253381399,
-    "wof:lastmodified":1449063057,
+    "wof:lastmodified":1466433543,
     "wof:name":"Walter Aldred",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-80.23126,25.945749,-80.23126,25.945749],
-  "geometry": {"coordinates":[-80.23126,25.945749],"type":"Point"}
+  "bbox": [
+    -80.23126,
+    25.945749,
+    -80.23126,
+    25.945749
+],
+  "geometry": {"coordinates":[-80.23126000000001,25.945749],"type":"Point"}
 }

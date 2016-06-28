@@ -2,13 +2,14 @@
   "id": 370412603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.283476,30.4652,-84.283476,30.4652",
     "geom:latitude":30.4652,
     "geom:longitude":-84.283476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 N Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370412603,
-    "wof:lastmodified":1449029782,
+    "wof:lastmodified":1466440491,
     "wof:name":"Sports & Imports Inc",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "general"
     ]
 },
-  "bbox": [-84.283476,30.4652,-84.283476,30.4652],
-  "geometry": {"coordinates":[-84.283476,30.4652],"type":"Point"}
+  "bbox": [
+    -84.283476,
+    30.4652,
+    -84.283476,
+    30.4652
+],
+  "geometry": {"coordinates":[-84.28347599999999,30.4652],"type":"Point"}
 }

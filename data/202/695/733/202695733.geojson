@@ -2,13 +2,14 @@
   "id": 202695733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131946,25.78486,-80.131946,25.78486",
     "geom:latitude":25.78486,
     "geom:longitude":-80.131946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202695733,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466430932,
     "wof:name":"Sportswear Town Inc",
     "wof:parent_id":85866195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-80.131946,25.78486,-80.131946,25.78486],
+  "bbox": [
+    -80.131946,
+    25.78486,
+    -80.131946,
+    25.78486
+],
   "geometry": {"coordinates":[-80.131946,25.78486],"type":"Point"}
 }

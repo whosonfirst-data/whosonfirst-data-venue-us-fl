@@ -2,13 +2,14 @@
   "id": 320109717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105049,26.178013,-80.105049,26.178013",
     "geom:latitude":26.178013,
     "geom:longitude":-80.105049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 NE 40th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320109717,
-    "wof:lastmodified":1449012565,
+    "wof:lastmodified":1466435255,
     "wof:name":"D & K Calibrations Inc",
     "wof:parent_id":85877489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-80.105049,26.178013,-80.105049,26.178013],
-  "geometry": {"coordinates":[-80.105049,26.178013],"type":"Point"}
+  "bbox": [
+    -80.105049,
+    26.178013,
+    -80.105049,
+    26.178013
+],
+  "geometry": {"coordinates":[-80.10504899999999,26.178013],"type":"Point"}
 }

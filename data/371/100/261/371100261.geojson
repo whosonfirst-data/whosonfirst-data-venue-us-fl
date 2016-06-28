@@ -2,13 +2,14 @@
   "id": 371100261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622858,30.449158,-86.622858,30.449158",
     "geom:latitude":30.449158,
     "geom:longitude":-86.622858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Racetrack Rd NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371100261,
-    "wof:lastmodified":1449049820,
+    "wof:lastmodified":1466439102,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.622858,30.449158,-86.622858,30.449158],
-  "geometry": {"coordinates":[-86.622858,30.449158],"type":"Point"}
+  "bbox": [
+    -86.622858,
+    30.449158,
+    -86.622858,
+    30.449158
+],
+  "geometry": {"coordinates":[-86.62285799999999,30.449158],"type":"Point"}
 }

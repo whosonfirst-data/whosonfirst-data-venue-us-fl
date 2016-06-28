@@ -2,13 +2,14 @@
   "id": 286401805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.864792,30.080894,-81.864792,30.080894",
     "geom:latitude":30.080894,
     "geom:longitude":-81.864792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3986 Country Meadows Dr",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286401805,
-    "wof:lastmodified":1449017678,
+    "wof:lastmodified":1466432082,
     "wof:name":"Peters Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.864792,30.080894,-81.864792,30.080894],
-  "geometry": {"coordinates":[-81.864792,30.080894],"type":"Point"}
+  "bbox": [
+    -81.864792,
+    30.080894,
+    -81.864792,
+    30.080894
+],
+  "geometry": {"coordinates":[-81.86479199999999,30.080894],"type":"Point"}
 }

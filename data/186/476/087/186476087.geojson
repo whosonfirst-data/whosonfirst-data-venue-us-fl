@@ -2,13 +2,14 @@
   "id": 186476087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256144,25.752405,-80.256144,25.752405",
     "geom:latitude":25.752405,
     "geom:longitude":-80.256144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Alhambra Plz",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186476087,
-    "wof:lastmodified":1449051457,
+    "wof:lastmodified":1466432509,
     "wof:name":"Randstad",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.256144,25.752405,-80.256144,25.752405],
-  "geometry": {"coordinates":[-80.256144,25.752405],"type":"Point"}
+  "bbox": [
+    -80.256144,
+    25.752405,
+    -80.256144,
+    25.752405
+],
+  "geometry": {"coordinates":[-80.25614400000001,25.752405],"type":"Point"}
 }

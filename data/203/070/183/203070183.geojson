@@ -2,13 +2,14 @@
   "id": 203070183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368499,28.470557,-81.368499,28.470557",
     "geom:latitude":28.470557,
     "geom:longitude":-81.368499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203070183,
-    "wof:lastmodified":1449025836,
+    "wof:lastmodified":1466444483,
     "wof:name":"Friendly Market",
     "wof:parent_id":85889351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.368499,28.470557,-81.368499,28.470557],
+  "bbox": [
+    -81.368499,
+    28.470557,
+    -81.368499,
+    28.470557
+],
   "geometry": {"coordinates":[-81.368499,28.470557],"type":"Point"}
 }

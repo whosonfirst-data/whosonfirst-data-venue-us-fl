@@ -2,13 +2,14 @@
   "id": 270496019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250881,25.777768,-80.250881,25.777768",
     "geom:latitude":25.777768,
     "geom:longitude":-80.250881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 NW 34th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270496019,
-    "wof:lastmodified":1449010708,
+    "wof:lastmodified":1466437950,
     "wof:name":"Bruning Medical Ctr Inc",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.250881,25.777768,-80.250881,25.777768],
-  "geometry": {"coordinates":[-80.250881,25.777768],"type":"Point"}
+  "bbox": [
+    -80.250881,
+    25.777768,
+    -80.250881,
+    25.777768
+],
+  "geometry": {"coordinates":[-80.25088100000001,25.777768],"type":"Point"}
 }

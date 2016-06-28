@@ -2,13 +2,14 @@
   "id": 354398699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609541,30.470082,-86.609541,30.470082",
     "geom:latitude":30.470082,
     "geom:longitude":-86.609541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Marnan Dr NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354398699,
-    "wof:lastmodified":1449066060,
+    "wof:lastmodified":1466442192,
     "wof:name":"Gulf Coast Parking Lot Svc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-86.609541,30.470082,-86.609541,30.470082],
-  "geometry": {"coordinates":[-86.609541,30.470082],"type":"Point"}
+  "bbox": [
+    -86.609541,
+    30.470082,
+    -86.609541,
+    30.470082
+],
+  "geometry": {"coordinates":[-86.60954099999999,30.470082],"type":"Point"}
 }

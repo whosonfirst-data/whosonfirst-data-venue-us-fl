@@ -2,13 +2,14 @@
   "id": 202534561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.521735,30.281095,-81.521735,30.281095",
     "geom:latitude":30.281095,
     "geom:longitude":-81.521735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11710 Central Pkwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202534561,
-    "wof:lastmodified":1449060773,
+    "wof:lastmodified":1466428805,
     "wof:name":"Ware Group",
     "wof:parent_id":85866895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.521735,30.281095,-81.521735,30.281095],
-  "geometry": {"coordinates":[-81.521735,30.281095],"type":"Point"}
+  "bbox": [
+    -81.521735,
+    30.281095,
+    -81.521735,
+    30.281095
+],
+  "geometry": {"coordinates":[-81.52173500000001,30.281095],"type":"Point"}
 }

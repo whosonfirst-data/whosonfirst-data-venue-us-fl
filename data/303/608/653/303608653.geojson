@@ -2,13 +2,14 @@
   "id": 303608653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502524,28.385584,-81.502524,28.385584",
     "geom:latitude":28.385584,
     "geom:longitude":-81.502524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8594 Palm Pkwy",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303608653,
-    "wof:lastmodified":1448999163,
+    "wof:lastmodified":1466440998,
     "wof:name":"Angus House Of Beef",
     "wof:parent_id":85889303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.502524,28.385584,-81.502524,28.385584],
-  "geometry": {"coordinates":[-81.502524,28.385584],"type":"Point"}
+  "bbox": [
+    -81.502524,
+    28.385584,
+    -81.502524,
+    28.385584
+],
+  "geometry": {"coordinates":[-81.50252399999999,28.385584],"type":"Point"}
 }

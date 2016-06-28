@@ -2,13 +2,14 @@
   "id": 303324101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144064,26.18145,-80.144064,26.18145",
     "geom:latitude":26.18145,
     "geom:longitude":-80.144064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 E Prospect Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303324101,
-    "wof:lastmodified":1448999550,
+    "wof:lastmodified":1466436126,
     "wof:name":"Adele's Parrot Place",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.144064,26.18145,-80.144064,26.18145],
+  "bbox": [
+    -80.144064,
+    26.18145,
+    -80.144064,
+    26.18145
+],
   "geometry": {"coordinates":[-80.144064,26.18145],"type":"Point"}
 }

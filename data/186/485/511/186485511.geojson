@@ -2,13 +2,14 @@
   "id": 186485511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201437,25.810256,-80.201437,25.810256",
     "geom:latitude":25.810256,
     "geom:longitude":-80.201437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 NW 36th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186485511,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466432622,
     "wof:name":"Diaz Transmission",
     "wof:parent_id":85869827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-80.201437,25.810256,-80.201437,25.810256],
+  "bbox": [
+    -80.201437,
+    25.810256,
+    -80.201437,
+    25.810256
+],
   "geometry": {"coordinates":[-80.201437,25.810256],"type":"Point"}
 }

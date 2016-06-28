@@ -2,13 +2,14 @@
   "id": 370342909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.048189,29.709709,-82.048189,29.709709",
     "geom:latitude":29.709709,
     "geom:longitude":-82.048189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 State Hwy 26",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370342909,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1466439409,
     "wof:name":"S & S Produce",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-82.048189,29.709709,-82.048189,29.709709],
-  "geometry": {"coordinates":[-82.048189,29.709709],"type":"Point"}
+  "bbox": [
+    -82.048189,
+    29.709709,
+    -82.048189,
+    29.709709
+],
+  "geometry": {"coordinates":[-82.04818899999999,29.709709],"type":"Point"}
 }

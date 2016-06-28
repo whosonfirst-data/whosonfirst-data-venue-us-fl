@@ -2,13 +2,14 @@
   "id": 371162753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253448,25.966499,-80.253448,25.966499",
     "geom:latitude":25.966499,
     "geom:longitude":-80.253448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20921 NW 31st Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371162753,
-    "wof:lastmodified":1449049970,
+    "wof:lastmodified":1466440040,
     "wof:name":"Williams Group Home Inc",
     "wof:parent_id":85829153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.253448,25.966499,-80.253448,25.966499],
-  "geometry": {"coordinates":[-80.253448,25.966499],"type":"Point"}
+  "bbox": [
+    -80.253448,
+    25.966499,
+    -80.253448,
+    25.966499
+],
+  "geometry": {"coordinates":[-80.25344800000001,25.966499],"type":"Point"}
 }

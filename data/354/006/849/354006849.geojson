@@ -2,13 +2,14 @@
   "id": 354006849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246235,26.257499,-80.246235,26.257499",
     "geom:latitude":26.257499,
     "geom:longitude":-80.246235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9063 NW 21st Ct",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354006849,
-    "wof:lastmodified":1449067301,
+    "wof:lastmodified":1466436165,
     "wof:name":"SBJ Enterprises",
     "wof:parent_id":85876907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.246235,26.257499,-80.246235,26.257499],
+  "bbox": [
+    -80.246235,
+    26.257499,
+    -80.246235,
+    26.257499
+],
   "geometry": {"coordinates":[-80.246235,26.257499],"type":"Point"}
 }

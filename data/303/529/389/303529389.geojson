@@ -2,13 +2,14 @@
   "id": 303529389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.296855,26.032567,-80.296855,26.032567",
     "geom:latitude":26.032567,
     "geom:longitude":-80.296855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 N Hiatus Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303529389,
-    "wof:lastmodified":1448999191,
+    "wof:lastmodified":1466439666,
     "wof:name":"Us Building Svc Corp",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "terrazzo"
     ]
 },
-  "bbox": [-80.296855,26.032567,-80.296855,26.032567],
-  "geometry": {"coordinates":[-80.296855,26.032567],"type":"Point"}
+  "bbox": [
+    -80.296855,
+    26.032567,
+    -80.296855,
+    26.032567
+],
+  "geometry": {"coordinates":[-80.29685499999999,26.032567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236464449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.100676,26.985963,-82.100676,26.985963",
     "geom:latitude":26.985963,
     "geom:longitude":-82.100676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21229 Olean Blvd",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236464449,
-    "wof:lastmodified":1449002353,
+    "wof:lastmodified":1466434969,
     "wof:name":"Venice Ob/Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.100676,26.985963,-82.100676,26.985963],
-  "geometry": {"coordinates":[-82.100676,26.985963],"type":"Point"}
+  "bbox": [
+    -82.100676,
+    26.985963,
+    -82.100676,
+    26.985963
+],
+  "geometry": {"coordinates":[-82.10067600000001,26.985963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185747239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.881562,27.965559,-81.881562,27.965559",
     "geom:latitude":27.965559,
     "geom:longitude":-81.881562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 Lemon Ave SE",
     "sg:city":"Highland City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185747239,
-    "wof:lastmodified":1449006905,
+    "wof:lastmodified":1466428457,
     "wof:name":"Massey's Painting",
     "wof:parent_id":85889081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.881562,27.965559,-81.881562,27.965559],
+  "bbox": [
+    -81.881562,
+    27.965559,
+    -81.881562,
+    27.965559
+],
   "geometry": {"coordinates":[-81.881562,27.965559],"type":"Point"}
 }

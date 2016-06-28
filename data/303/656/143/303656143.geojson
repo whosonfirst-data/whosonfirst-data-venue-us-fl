@@ -2,13 +2,14 @@
   "id": 303656143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.94643,26.498093,-81.94643,26.498093",
     "geom:latitude":26.498093,
     "geom:longitude":-81.94643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11610 Caravel Cir",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303656143,
-    "wof:lastmodified":1448999713,
+    "wof:lastmodified":1466441811,
     "wof:name":"Cinnamon Cove Terrace Condo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.94643,26.498093,-81.94643,26.498093],
-  "geometry": {"coordinates":[-81.94643,26.498093],"type":"Point"}
+  "bbox": [
+    -81.94643,
+    26.498093,
+    -81.94643,
+    26.498093
+],
+  "geometry": {"coordinates":[-81.94643000000001,26.498093],"type":"Point"}
 }

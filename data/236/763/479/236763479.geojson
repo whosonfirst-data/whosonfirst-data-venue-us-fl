@@ -2,13 +2,14 @@
   "id": 236763479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341828,25.622643,-80.341828,25.622643",
     "geom:latitude":25.622643,
     "geom:longitude":-80.341828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9225 SW 158th Ln",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236763479,
-    "wof:lastmodified":1449005235,
+    "wof:lastmodified":1466439334,
     "wof:name":"Regis House",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-80.341828,25.622643,-80.341828,25.622643],
-  "geometry": {"coordinates":[-80.341828,25.622643],"type":"Point"}
+  "bbox": [
+    -80.341828,
+    25.622643,
+    -80.341828,
+    25.622643
+],
+  "geometry": {"coordinates":[-80.34182800000001,25.622643],"type":"Point"}
 }

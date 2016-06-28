@@ -2,13 +2,14 @@
   "id": 320631497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.124209,29.221986,-82.124209,29.221986",
     "geom:latitude":29.221986,
     "geom:longitude":-82.124209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3414 NE Jacksonville Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320631497,
-    "wof:lastmodified":1449012427,
+    "wof:lastmodified":1466444320,
     "wof:name":"Poodle Patch",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.124209,29.221986,-82.124209,29.221986],
-  "geometry": {"coordinates":[-82.124209,29.221986],"type":"Point"}
+  "bbox": [
+    -82.124209,
+    29.221986,
+    -82.124209,
+    29.221986
+],
+  "geometry": {"coordinates":[-82.12420899999999,29.221986],"type":"Point"}
 }

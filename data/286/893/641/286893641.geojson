@@ -2,13 +2,14 @@
   "id": 286893641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337398,25.765038,-80.337398,25.765038",
     "geom:latitude":25.765038,
     "geom:longitude":-80.337398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 SW 87th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":286893641,
-    "wof:lastmodified":1449017567,
+    "wof:lastmodified":1466440780,
     "wof:name":"Marina Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.337398,25.765038,-80.337398,25.765038],
-  "geometry": {"coordinates":[-80.337398,25.765038],"type":"Point"}
+  "bbox": [
+    -80.337398,
+    25.765038,
+    -80.337398,
+    25.765038
+],
+  "geometry": {"coordinates":[-80.33739799999999,25.765038],"type":"Point"}
 }

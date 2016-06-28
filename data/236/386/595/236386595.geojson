@@ -2,13 +2,14 @@
   "id": 236386595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128077,25.795288,-80.128077,25.795288",
     "geom:latitude":25.795288,
     "geom:longitude":-80.128077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 20th St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236386595,
-    "wof:lastmodified":1449003374,
+    "wof:lastmodified":1466433857,
     "wof:name":"South Beach Audio",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-80.128077,25.795288,-80.128077,25.795288],
+  "bbox": [
+    -80.128077,
+    25.795288,
+    -80.128077,
+    25.795288
+],
   "geometry": {"coordinates":[-80.128077,25.795288],"type":"Point"}
 }

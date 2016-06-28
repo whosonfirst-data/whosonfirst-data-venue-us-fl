@@ -2,13 +2,14 @@
   "id": 320000703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.967209,27.893404,-81.967209,27.893404",
     "geom:latitude":27.893404,
     "geom:longitude":-81.967209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 SE 7th Ave",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320000703,
-    "wof:lastmodified":1449011852,
+    "wof:lastmodified":1466446259,
     "wof:name":"International Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.967209,27.893404,-81.967209,27.893404],
+  "bbox": [
+    -81.967209,
+    27.893404,
+    -81.967209,
+    27.893404
+],
   "geometry": {"coordinates":[-81.967209,27.893404],"type":"Point"}
 }

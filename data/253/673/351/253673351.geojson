@@ -2,13 +2,14 @@
   "id": 253673351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.094488,26.617757,-80.094488,26.617757",
     "geom:latitude":26.617757,
     "geom:longitude":-80.094488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3364 Lake Worth Rd",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253673351,
-    "wof:lastmodified":1449063977,
+    "wof:lastmodified":1466438704,
     "wof:name":"Well Connection",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-80.094488,26.617757,-80.094488,26.617757],
+  "bbox": [
+    -80.094488,
+    26.617757,
+    -80.094488,
+    26.617757
+],
   "geometry": {"coordinates":[-80.094488,26.617757],"type":"Point"}
 }

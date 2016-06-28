@@ -2,13 +2,14 @@
   "id": 320788301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085028,26.386098,-80.085028,26.386098",
     "geom:latitude":26.386098,
     "geom:longitude":-80.085028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 NW Boca Raton Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320788301,
-    "wof:lastmodified":1449013182,
+    "wof:lastmodified":1466446725,
     "wof:name":"Programa Tools",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-80.085028,26.386098,-80.085028,26.386098],
-  "geometry": {"coordinates":[-80.085028,26.386098],"type":"Point"}
+  "bbox": [
+    -80.085028,
+    26.386098,
+    -80.085028,
+    26.386098
+],
+  "geometry": {"coordinates":[-80.08502799999999,26.386098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387632123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.66352,28.032539,-80.66352,28.032539",
     "geom:latitude":28.032539,
     "geom:longitude":-80.66352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Altamont Ave NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387632123,
-    "wof:lastmodified":1449058536,
+    "wof:lastmodified":1466447670,
     "wof:name":"Appliance Wizard",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.66352,28.032539,-80.66352,28.032539],
-  "geometry": {"coordinates":[-80.66352,28.032539],"type":"Point"}
+  "bbox": [
+    -80.66352,
+    28.032539,
+    -80.66352,
+    28.032539
+],
+  "geometry": {"coordinates":[-80.66352000000001,28.032539],"type":"Point"}
 }

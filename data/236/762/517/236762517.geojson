@@ -2,13 +2,14 @@
   "id": 236762517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.638056,27.769378,-82.638056,27.769378",
     "geom:latitude":27.769378,
     "geom:longitude":-82.638056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 2nd Ave S",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236762517,
-    "wof:lastmodified":1449004079,
+    "wof:lastmodified":1466439321,
     "wof:name":"Battery Connection",
     "wof:parent_id":85881941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.638056,27.769378,-82.638056,27.769378],
-  "geometry": {"coordinates":[-82.638056,27.769378],"type":"Point"}
+  "bbox": [
+    -82.638056,
+    27.769378,
+    -82.638056,
+    27.769378
+],
+  "geometry": {"coordinates":[-82.63805600000001,27.769378],"type":"Point"}
 }

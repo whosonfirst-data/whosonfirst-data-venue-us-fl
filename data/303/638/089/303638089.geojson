@@ -2,13 +2,14 @@
   "id": 303638089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451551,27.432416,-82.451551,27.432416",
     "geom:latitude":27.432416,
     "geom:longitude":-82.451551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5924 91st St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303638089,
-    "wof:lastmodified":1448998252,
+    "wof:lastmodified":1466441506,
     "wof:name":"Sarasota Telemetry Systems Inc",
     "wof:parent_id":85888579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "software"
     ]
 },
-  "bbox": [-82.451551,27.432416,-82.451551,27.432416],
-  "geometry": {"coordinates":[-82.451551,27.432416],"type":"Point"}
+  "bbox": [
+    -82.451551,
+    27.432416,
+    -82.451551,
+    27.432416
+],
+  "geometry": {"coordinates":[-82.45155099999999,27.432416],"type":"Point"}
 }

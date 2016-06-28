@@ -2,13 +2,14 @@
   "id": 319892233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.197189,30.429465,-84.197189,30.429465",
     "geom:latitude":30.429465,
     "geom:longitude":-84.197189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1197 Virgil Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319892233,
-    "wof:lastmodified":1449024215,
+    "wof:lastmodified":1466434085,
     "wof:name":"Mike Martin Painting",
     "wof:parent_id":85889633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-84.197189,30.429465,-84.197189,30.429465],
-  "geometry": {"coordinates":[-84.197189,30.429465],"type":"Point"}
+  "bbox": [
+    -84.197189,
+    30.429465,
+    -84.197189,
+    30.429465
+],
+  "geometry": {"coordinates":[-84.19718899999999,30.429465],"type":"Point"}
 }

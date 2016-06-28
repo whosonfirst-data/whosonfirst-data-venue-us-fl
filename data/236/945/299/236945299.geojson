@@ -2,13 +2,14 @@
   "id": 236945299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300153,29.823376,-81.300153,29.823376",
     "geom:latitude":29.823376,
     "geom:longitude":-81.300153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Alcala Dr",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236945299,
-    "wof:lastmodified":1449001883,
+    "wof:lastmodified":1466441848,
     "wof:name":"ARC of The Saint Johns Inc",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.300153,29.823376,-81.300153,29.823376],
-  "geometry": {"coordinates":[-81.300153,29.823376],"type":"Point"}
+  "bbox": [
+    -81.300153,
+    29.823376,
+    -81.300153,
+    29.823376
+],
+  "geometry": {"coordinates":[-81.30015299999999,29.823376],"type":"Point"}
 }

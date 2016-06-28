@@ -2,13 +2,14 @@
   "id": 169640087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.303619,30.412354,-84.303619,30.412354",
     "geom:latitude":30.412354,
     "geom:longitude":-84.303619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2628 Springhill Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169640087,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1466444499,
     "wof:name":"Tallahassee Road Prison",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "correctional"
     ]
 },
-  "bbox": [-84.303619,30.412354,-84.303619,30.412354],
+  "bbox": [
+    -84.303619,
+    30.412354,
+    -84.303619,
+    30.412354
+],
   "geometry": {"coordinates":[-84.303619,30.412354],"type":"Point"}
 }

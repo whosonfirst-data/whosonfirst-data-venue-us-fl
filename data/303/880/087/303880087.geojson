@@ -2,13 +2,14 @@
   "id": 303880087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.286791,30.520738,-84.286791,30.520738",
     "geom:latitude":30.520738,
     "geom:longitude":-84.286791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3673 Dwight Davis Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303880087,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466445700,
     "wof:name":"Hmbg Software Inc",
     "wof:parent_id":85817667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.286791,30.520738,-84.286791,30.520738],
-  "geometry": {"coordinates":[-84.286791,30.520738],"type":"Point"}
+  "bbox": [
+    -84.286791,
+    30.520738,
+    -84.286791,
+    30.520738
+],
+  "geometry": {"coordinates":[-84.28679099999999,30.520738],"type":"Point"}
 }

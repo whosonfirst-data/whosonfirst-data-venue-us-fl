@@ -2,13 +2,14 @@
   "id": 270325873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.562417,30.736865,-86.562417,30.736865",
     "geom:latitude":30.736865,
     "geom:longitude":-86.562417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Redstone Ave",
     "sg:city":"Crestview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270325873,
-    "wof:lastmodified":1449009585,
+    "wof:lastmodified":1466435033,
     "wof:name":"Sterling Healthcare",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.562417,30.736865,-86.562417,30.736865],
+  "bbox": [
+    -86.562417,
+    30.736865,
+    -86.562417,
+    30.736865
+],
   "geometry": {"coordinates":[-86.562417,30.736865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303755997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359778,27.251829,-80.359778,27.251829",
     "geom:latitude":27.251829,
     "geom:longitude":-80.359778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 SW Cherryhill Rd",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303755997,
-    "wof:lastmodified":1448998804,
+    "wof:lastmodified":1466443563,
     "wof:name":"Marlin Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.359778,27.251829,-80.359778,27.251829],
-  "geometry": {"coordinates":[-80.359778,27.251829],"type":"Point"}
+  "bbox": [
+    -80.359778,
+    27.251829,
+    -80.359778,
+    27.251829
+],
+  "geometry": {"coordinates":[-80.35977800000001,27.251829],"type":"Point"}
 }

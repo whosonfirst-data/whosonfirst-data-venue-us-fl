@@ -2,13 +2,14 @@
   "id": 303083227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119745,30.490392,-86.119745,30.490392",
     "geom:latitude":30.490392,
     "geom:longitude":-86.119745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 State Hwy 20 E",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303083227,
-    "wof:lastmodified":1448999280,
+    "wof:lastmodified":1466431911,
     "wof:name":"DMC Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.119745,30.490392,-86.119745,30.490392],
-  "geometry": {"coordinates":[-86.119745,30.490392],"type":"Point"}
+  "bbox": [
+    -86.119745,
+    30.490392,
+    -86.119745,
+    30.490392
+],
+  "geometry": {"coordinates":[-86.11974499999999,30.490392],"type":"Point"}
 }

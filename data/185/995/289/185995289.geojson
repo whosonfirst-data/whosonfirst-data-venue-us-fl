@@ -2,13 +2,14 @@
   "id": 185995289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.365395,25.593161,-80.365395,25.593161",
     "geom:latitude":25.593161,
     "geom:longitude":-80.365395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10754 SW 188th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185995289,
-    "wof:lastmodified":1449008046,
+    "wof:lastmodified":1466431038,
     "wof:name":"Southern Wreckers Towing Svc",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.365395,25.593161,-80.365395,25.593161],
-  "geometry": {"coordinates":[-80.365395,25.593161],"type":"Point"}
+  "bbox": [
+    -80.365395,
+    25.593161,
+    -80.365395,
+    25.593161
+],
+  "geometry": {"coordinates":[-80.36539500000001,25.593161],"type":"Point"}
 }

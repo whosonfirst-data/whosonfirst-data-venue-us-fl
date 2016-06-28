@@ -2,13 +2,14 @@
   "id": 236805133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.397766,26.072595,-80.397766,26.072595",
     "geom:latitude":26.072595,
     "geom:longitude":-80.397766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3822 Pine Lake Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236805133,
-    "wof:lastmodified":1449002610,
+    "wof:lastmodified":1466439919,
     "wof:name":"International Bioresources",
     "wof:parent_id":85879801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-80.397766,26.072595,-80.397766,26.072595],
+  "bbox": [
+    -80.397766,
+    26.072595,
+    -80.397766,
+    26.072595
+],
   "geometry": {"coordinates":[-80.397766,26.072595],"type":"Point"}
 }

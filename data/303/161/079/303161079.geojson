@@ -2,13 +2,14 @@
   "id": 303161079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.193885,30.647475,-87.193885,30.647475",
     "geom:latitude":30.647475,
     "geom:longitude":-87.193885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 Cobblestone Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303161079,
-    "wof:lastmodified":1448999089,
+    "wof:lastmodified":1466433311,
     "wof:name":"Digital Now Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-87.193885,30.647475,-87.193885,30.647475],
-  "geometry": {"coordinates":[-87.193885,30.647475],"type":"Point"}
+  "bbox": [
+    -87.193885,
+    30.647475,
+    -87.193885,
+    30.647475
+],
+  "geometry": {"coordinates":[-87.19388499999999,30.647475],"type":"Point"}
 }

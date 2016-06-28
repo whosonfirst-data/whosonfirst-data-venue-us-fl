@@ -2,13 +2,14 @@
   "id": 370307415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055956,26.658867,-80.055956,26.658867",
     "geom:latitude":26.658867,
     "geom:longitude":-80.055956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 S Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370307415,
-    "wof:lastmodified":1449029973,
+    "wof:lastmodified":1466438870,
     "wof:name":"Primary Care Spec-Palm Bchs",
     "wof:parent_id":85881817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.055956,26.658867,-80.055956,26.658867],
-  "geometry": {"coordinates":[-80.055956,26.658867],"type":"Point"}
+  "bbox": [
+    -80.055956,
+    26.658867,
+    -80.055956,
+    26.658867
+],
+  "geometry": {"coordinates":[-80.05595599999999,26.658867],"type":"Point"}
 }

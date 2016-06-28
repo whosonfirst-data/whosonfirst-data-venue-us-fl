@@ -2,13 +2,14 @@
   "id": 219301711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.351741,30.421659,-84.351741,30.421659",
     "geom:latitude":30.421659,
     "geom:longitude":-84.351741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Capital Cir SW",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219301711,
-    "wof:lastmodified":1449071298,
+    "wof:lastmodified":1466428787,
     "wof:name":"Dollar Rent A Car",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-84.351741,30.421659,-84.351741,30.421659],
+  "bbox": [
+    -84.351741,
+    30.421659,
+    -84.351741,
+    30.421659
+],
   "geometry": {"coordinates":[-84.351741,30.421659],"type":"Point"}
 }

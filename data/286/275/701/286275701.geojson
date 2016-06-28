@@ -2,13 +2,14 @@
   "id": 286275701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.064152,30.840649,-85.064152,30.840649",
     "geom:latitude":30.840649,
     "geom:longitude":-85.064152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 Hwy 69",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286275701,
-    "wof:lastmodified":1449016133,
+    "wof:lastmodified":1466429898,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "return"
     ]
 },
-  "bbox": [-85.064152,30.840649,-85.064152,30.840649],
-  "geometry": {"coordinates":[-85.064152,30.840649],"type":"Point"}
+  "bbox": [
+    -85.064152,
+    30.840649,
+    -85.064152,
+    30.840649
+],
+  "geometry": {"coordinates":[-85.06415200000001,30.840649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287112455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.531432,27.372025,-82.531432,27.372025",
     "geom:latitude":27.372025,
     "geom:longitude":-82.531432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Northgate Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287112455,
-    "wof:lastmodified":1449001065,
+    "wof:lastmodified":1466431831,
     "wof:name":"SPT Engineering",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.531432,27.372025,-82.531432,27.372025],
+  "bbox": [
+    -82.531432,
+    27.372025,
+    -82.531432,
+    27.372025
+],
   "geometry": {"coordinates":[-82.531432,27.372025],"type":"Point"}
 }

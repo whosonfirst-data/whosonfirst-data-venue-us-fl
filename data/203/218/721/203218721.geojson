@@ -2,13 +2,14 @@
   "id": 203218721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.653124,30.325265,-81.653124,30.325265",
     "geom:latitude":30.325265,
     "geom:longitude":-81.653124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E Bay St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203218721,
-    "wof:lastmodified":1449026172,
+    "wof:lastmodified":1466429135,
     "wof:name":"Jacksonville Youth Offender",
     "wof:parent_id":85866891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.653124,30.325265,-81.653124,30.325265],
-  "geometry": {"coordinates":[-81.653124,30.325265],"type":"Point"}
+  "bbox": [
+    -81.653124,
+    30.325265,
+    -81.653124,
+    30.325265
+],
+  "geometry": {"coordinates":[-81.65312400000001,30.325265],"type":"Point"}
 }

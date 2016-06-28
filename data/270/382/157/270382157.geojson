@@ -2,13 +2,14 @@
   "id": 270382157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855917,26.730519,-81.855917,26.730519",
     "geom:latitude":26.730519,
     "geom:longitude":-81.855917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6161 Bowling Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270382157,
-    "wof:lastmodified":1449009265,
+    "wof:lastmodified":1466435992,
     "wof:name":"Holcombe Trckg & Land Clearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.855917,26.730519,-81.855917,26.730519],
-  "geometry": {"coordinates":[-81.855917,26.730519],"type":"Point"}
+  "bbox": [
+    -81.855917,
+    26.730519,
+    -81.855917,
+    26.730519
+],
+  "geometry": {"coordinates":[-81.85591700000001,26.730519],"type":"Point"}
 }

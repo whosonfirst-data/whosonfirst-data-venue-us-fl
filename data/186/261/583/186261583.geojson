@@ -2,13 +2,14 @@
   "id": 186261583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.464869,30.671419,-81.464869,30.671419",
     "geom:latitude":30.671419,
     "geom:longitude":-81.464869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Front St",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186261583,
-    "wof:lastmodified":1449050304,
+    "wof:lastmodified":1466429817,
     "wof:name":"Fernandina Harbour Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.464869,30.671419,-81.464869,30.671419],
-  "geometry": {"coordinates":[-81.464869,30.671419],"type":"Point"}
+  "bbox": [
+    -81.464869,
+    30.671419,
+    -81.464869,
+    30.671419
+],
+  "geometry": {"coordinates":[-81.46486899999999,30.671419],"type":"Point"}
 }

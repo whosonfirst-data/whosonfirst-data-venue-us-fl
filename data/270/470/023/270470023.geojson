@@ -2,13 +2,14 @@
   "id": 270470023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590454,29.721109,-81.590454,29.721109",
     "geom:latitude":29.721109,
     "geom:longitude":-81.590454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Shaggy Cir",
     "sg:city":"Palatka",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270470023,
-    "wof:lastmodified":1449009221,
+    "wof:lastmodified":1466437492,
     "wof:name":"Drain Kleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewer"
     ]
 },
-  "bbox": [-81.590454,29.721109,-81.590454,29.721109],
-  "geometry": {"coordinates":[-81.590454,29.721109],"type":"Point"}
+  "bbox": [
+    -81.590454,
+    29.721109,
+    -81.590454,
+    29.721109
+],
+  "geometry": {"coordinates":[-81.59045399999999,29.721109],"type":"Point"}
 }

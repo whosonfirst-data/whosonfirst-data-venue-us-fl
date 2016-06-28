@@ -2,13 +2,14 @@
   "id": 320376169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.292578,25.64868,-80.292578,25.64868",
     "geom:latitude":25.64868,
     "geom:longitude":-80.292578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6120 SW 132nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320376169,
-    "wof:lastmodified":1449012550,
+    "wof:lastmodified":1466439830,
     "wof:name":"Decision Resource",
     "wof:parent_id":85828373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "analysis"
     ]
 },
-  "bbox": [-80.292578,25.64868,-80.292578,25.64868],
-  "geometry": {"coordinates":[-80.292578,25.64868],"type":"Point"}
+  "bbox": [
+    -80.292578,
+    25.64868,
+    -80.292578,
+    25.64868
+],
+  "geometry": {"coordinates":[-80.29257800000001,25.64868],"type":"Point"}
 }

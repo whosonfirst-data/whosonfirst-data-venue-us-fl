@@ -2,13 +2,14 @@
   "id": 336835965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.32924,27.282242,-80.32924,27.282242",
     "geom:latitude":27.282242,
     "geom:longitude":-80.32924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 SE Crystal Mist St",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336835965,
-    "wof:lastmodified":1448997091,
+    "wof:lastmodified":1466439084,
     "wof:name":"Cruises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.32924,27.282242,-80.32924,27.282242],
+  "bbox": [
+    -80.32924,
+    27.282242,
+    -80.32924,
+    27.282242
+],
   "geometry": {"coordinates":[-80.32924,27.282242],"type":"Point"}
 }

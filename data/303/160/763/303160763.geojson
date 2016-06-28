@@ -2,13 +2,14 @@
   "id": 303160763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.564259,30.220924,-81.564259,30.220924",
     "geom:latitude":30.220924,
     "geom:longitude":-81.564259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9250 Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303160763,
-    "wof:lastmodified":1449000173,
+    "wof:lastmodified":1466433305,
     "wof:name":"Clariant Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.564259,30.220924,-81.564259,30.220924],
-  "geometry": {"coordinates":[-81.564259,30.220924],"type":"Point"}
+  "bbox": [
+    -81.564259,
+    30.220924,
+    -81.564259,
+    30.220924
+],
+  "geometry": {"coordinates":[-81.56425900000001,30.220924],"type":"Point"}
 }

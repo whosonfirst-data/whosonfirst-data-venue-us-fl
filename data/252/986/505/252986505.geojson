@@ -2,13 +2,14 @@
   "id": 252986505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589158,30.206035,-81.589158,30.206035",
     "geom:latitude":30.206035,
     "geom:longitude":-81.589158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Sunbeam Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252986505,
-    "wof:lastmodified":1449006294,
+    "wof:lastmodified":1466432450,
     "wof:name":"Thomas Chase Apartments",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.589158,30.206035,-81.589158,30.206035],
+  "bbox": [
+    -81.589158,
+    30.206035,
+    -81.589158,
+    30.206035
+],
   "geometry": {"coordinates":[-81.589158,30.206035],"type":"Point"}
 }

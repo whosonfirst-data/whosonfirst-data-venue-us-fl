@@ -2,13 +2,14 @@
   "id": 252958107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.175998,25.861125,-80.175998,25.861125",
     "geom:latitude":25.861125,
     "geom:longitude":-80.175998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 NE 93rd St",
     "sg:city":"Miami Shores",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252958107,
-    "wof:lastmodified":1449006271,
+    "wof:lastmodified":1466432042,
     "wof:name":"Fab Interior & Exterior",
     "wof:parent_id":85896193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.175998,25.861125,-80.175998,25.861125],
-  "geometry": {"coordinates":[-80.175998,25.861125],"type":"Point"}
+  "bbox": [
+    -80.175998,
+    25.861125,
+    -80.175998,
+    25.861125
+],
+  "geometry": {"coordinates":[-80.17599800000001,25.861125],"type":"Point"}
 }

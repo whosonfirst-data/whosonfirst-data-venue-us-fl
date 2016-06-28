@@ -2,13 +2,14 @@
   "id": 336932875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320995,25.844259,-80.320995,25.844259",
     "geom:latitude":25.844259,
     "geom:longitude":-80.320995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 NW 77th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336932875,
-    "wof:lastmodified":1448997339,
+    "wof:lastmodified":1466440727,
     "wof:name":"Schindler",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.320995,25.844259,-80.320995,25.844259],
+  "bbox": [
+    -80.320995,
+    25.844259,
+    -80.320995,
+    25.844259
+],
   "geometry": {"coordinates":[-80.320995,25.844259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387360951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.37539,28.556616,-81.37539,28.556616",
     "geom:latitude":28.556616,
     "geom:longitude":-81.37539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Irma Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387360951,
-    "wof:lastmodified":1449059036,
+    "wof:lastmodified":1466444250,
     "wof:name":"Law Offices Orlando",
     "wof:parent_id":85879459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.37539,28.556616,-81.37539,28.556616],
+  "bbox": [
+    -81.37539,
+    28.556616,
+    -81.37539,
+    28.556616
+],
   "geometry": {"coordinates":[-81.37539,28.556616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203280029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.462902,30.672111,-81.462902,30.672111",
     "geom:latitude":30.672111,
     "geom:longitude":-81.462902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 N 3rd St",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203280029,
-    "wof:lastmodified":1449025856,
+    "wof:lastmodified":1466429919,
     "wof:name":"Harbor Lights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.462902,30.672111,-81.462902,30.672111],
+  "bbox": [
+    -81.462902,
+    30.672111,
+    -81.462902,
+    30.672111
+],
   "geometry": {"coordinates":[-81.462902,30.672111],"type":"Point"}
 }

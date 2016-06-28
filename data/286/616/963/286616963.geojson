@@ -2,13 +2,14 @@
   "id": 286616963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.803911,26.267929,-81.803911,26.267929",
     "geom:latitude":26.267929,
     "geom:longitude":-81.803911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 106th Ave N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286616963,
-    "wof:lastmodified":1449017341,
+    "wof:lastmodified":1466435840,
     "wof:name":"Naples Custom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.803911,26.267929,-81.803911,26.267929],
+  "bbox": [
+    -81.803911,
+    26.267929,
+    -81.803911,
+    26.267929
+],
   "geometry": {"coordinates":[-81.803911,26.267929],"type":"Point"}
 }

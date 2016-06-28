@@ -2,13 +2,14 @@
   "id": 303132885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261208,25.893486,-80.261208,25.893486",
     "geom:latitude":25.893486,
     "geom:longitude":-80.261208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 NW 132nd St",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303132885,
-    "wof:lastmodified":1448999315,
+    "wof:lastmodified":1466432801,
     "wof:name":"Sincol US Inc",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "door"
     ]
 },
-  "bbox": [-80.261208,25.893486,-80.261208,25.893486],
+  "bbox": [
+    -80.261208,
+    25.893486,
+    -80.261208,
+    25.893486
+],
   "geometry": {"coordinates":[-80.261208,25.893486],"type":"Point"}
 }

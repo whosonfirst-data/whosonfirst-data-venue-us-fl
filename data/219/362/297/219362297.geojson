@@ -2,13 +2,14 @@
   "id": 219362297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.112531,30.603265,-87.112531,30.603265",
     "geom:latitude":30.603265,
     "geom:longitude":-87.112531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5082 US Hwy 90",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219362297,
-    "wof:lastmodified":1449072664,
+    "wof:lastmodified":1466429605,
     "wof:name":"Hershey's Ice Cream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-87.112531,30.603265,-87.112531,30.603265],
+  "bbox": [
+    -87.112531,
+    30.603265,
+    -87.112531,
+    30.603265
+],
   "geometry": {"coordinates":[-87.112531,30.603265],"type":"Point"}
 }

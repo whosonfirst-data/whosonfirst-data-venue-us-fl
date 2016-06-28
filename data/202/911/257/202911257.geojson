@@ -2,13 +2,14 @@
   "id": 202911257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.294605,28.579398,-81.294605,28.579398",
     "geom:latitude":28.579398,
     "geom:longitude":-81.294605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2468 N Forsyth Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202911257,
-    "wof:lastmodified":1449062245,
+    "wof:lastmodified":1466433752,
     "wof:name":"Tony's Bakery",
     "wof:parent_id":85889323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-81.294605,28.579398,-81.294605,28.579398],
+  "bbox": [
+    -81.294605,
+    28.579398,
+    -81.294605,
+    28.579398
+],
   "geometry": {"coordinates":[-81.294605,28.579398],"type":"Point"}
 }

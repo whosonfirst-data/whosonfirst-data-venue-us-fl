@@ -2,13 +2,14 @@
   "id": 303437553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.505124,30.386101,-81.505124,30.386101",
     "geom:latitude":30.386101,
     "geom:longitude":-81.505124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4917 Marinerspoint",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303437553,
-    "wof:lastmodified":1448999886,
+    "wof:lastmodified":1466438068,
     "wof:name":"William L Finger",
     "wof:parent_id":85820047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.505124,30.386101,-81.505124,30.386101],
+  "bbox": [
+    -81.505124,
+    30.386101,
+    -81.505124,
+    30.386101
+],
   "geometry": {"coordinates":[-81.505124,30.386101],"type":"Point"}
 }

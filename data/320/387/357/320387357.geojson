@@ -2,13 +2,14 @@
   "id": 320387357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160801,26.106478,-80.160801,26.106478",
     "geom:latitude":26.106478,
     "geom:longitude":-80.160801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 SW 12th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320387357,
-    "wof:lastmodified":1449014467,
+    "wof:lastmodified":1466440022,
     "wof:name":"Bob's Cue Repair",
     "wof:parent_id":85877525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.160801,26.106478,-80.160801,26.106478],
-  "geometry": {"coordinates":[-80.160801,26.106478],"type":"Point"}
+  "bbox": [
+    -80.160801,
+    26.106478,
+    -80.160801,
+    26.106478
+],
+  "geometry": {"coordinates":[-80.16080100000001,26.106478],"type":"Point"}
 }

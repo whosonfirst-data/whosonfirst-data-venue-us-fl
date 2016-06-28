@@ -2,13 +2,14 @@
   "id": 202587737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231564,26.029225,-80.231564,26.029225",
     "geom:latitude":26.029225,
     "geom:longitude":-80.231564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Lee St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202587737,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1466429517,
     "wof:name":"Energy Wise",
     "wof:parent_id":85878163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.231564,26.029225,-80.231564,26.029225],
-  "geometry": {"coordinates":[-80.231564,26.029225],"type":"Point"}
+  "bbox": [
+    -80.231564,
+    26.029225,
+    -80.231564,
+    26.029225
+],
+  "geometry": {"coordinates":[-80.23156400000001,26.029225],"type":"Point"}
 }

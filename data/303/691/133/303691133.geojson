@@ -2,13 +2,14 @@
   "id": 303691133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.3324,29.890313,-81.3324,29.890313",
     "geom:latitude":29.890313,
     "geom:longitude":-81.3324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 W King St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303691133,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466442459,
     "wof:name":"Lee's Barber & Beauty Shop",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.3324,29.890313,-81.3324,29.890313],
-  "geometry": {"coordinates":[-81.3324,29.890313],"type":"Point"}
+  "bbox": [
+    -81.3324,
+    29.890313,
+    -81.3324,
+    29.890313
+],
+  "geometry": {"coordinates":[-81.33240000000001,29.890313],"type":"Point"}
 }

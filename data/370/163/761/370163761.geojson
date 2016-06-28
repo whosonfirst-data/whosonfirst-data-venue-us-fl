@@ -2,13 +2,14 @@
   "id": 370163761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.674621,30.44515,-81.674621,30.44515",
     "geom:latitude":30.44515,
     "geom:longitude":-81.674621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Key Biscayne Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370163761,
-    "wof:lastmodified":1449032393,
+    "wof:lastmodified":1466436653,
     "wof:name":"Mirror Image Service",
     "wof:parent_id":85838407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.674621,30.44515,-81.674621,30.44515],
+  "bbox": [
+    -81.674621,
+    30.44515,
+    -81.674621,
+    30.44515
+],
   "geometry": {"coordinates":[-81.674621,30.44515],"type":"Point"}
 }

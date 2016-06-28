@@ -2,13 +2,14 @@
   "id": 353862857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648708,27.775243,-82.648708,27.775243",
     "geom:latitude":27.775243,
     "geom:longitude":-82.648708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 3rd Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353862857,
-    "wof:lastmodified":1449020882,
+    "wof:lastmodified":1466441902,
     "wof:name":"St Petersburg Housing Auth",
     "wof:parent_id":85881941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-82.648708,27.775243,-82.648708,27.775243],
+  "bbox": [
+    -82.648708,
+    27.775243,
+    -82.648708,
+    27.775243
+],
   "geometry": {"coordinates":[-82.648708,27.775243],"type":"Point"}
 }

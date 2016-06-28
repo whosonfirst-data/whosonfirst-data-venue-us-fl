@@ -2,13 +2,14 @@
   "id": 320160099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.345677,28.740479,-81.345677,28.740479",
     "geom:latitude":28.740479,
     "geom:longitude":-81.345677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Tomlinson Ter",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320160099,
-    "wof:lastmodified":1449014377,
+    "wof:lastmodified":1466436125,
     "wof:name":"Putnam Investments",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.345677,28.740479,-81.345677,28.740479],
-  "geometry": {"coordinates":[-81.345677,28.740479],"type":"Point"}
+  "bbox": [
+    -81.345677,
+    28.740479,
+    -81.345677,
+    28.740479
+],
+  "geometry": {"coordinates":[-81.34567699999999,28.740479],"type":"Point"}
 }

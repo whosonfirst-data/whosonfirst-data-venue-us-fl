@@ -2,13 +2,14 @@
   "id": 186589029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705152,27.715636,-82.705152,27.715636",
     "geom:latitude":27.715636,
     "geom:longitude":-82.705152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 Brittany Dr S",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186589029,
-    "wof:lastmodified":1449051805,
+    "wof:lastmodified":1466434003,
     "wof:name":"Bus Stop Band",
     "wof:parent_id":85880563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-82.705152,27.715636,-82.705152,27.715636],
+  "bbox": [
+    -82.705152,
+    27.715636,
+    -82.705152,
+    27.715636
+],
   "geometry": {"coordinates":[-82.705152,27.715636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186151693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.255277,29.081065,-82.255277,29.081065",
     "geom:latitude":29.081065,
     "geom:longitude":-82.255277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9765 SW Hwy 200",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186151693,
-    "wof:lastmodified":1449050279,
+    "wof:lastmodified":1466428551,
     "wof:name":"Central Florida Aggregate",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asphalt"
     ]
 },
-  "bbox": [-82.255277,29.081065,-82.255277,29.081065],
-  "geometry": {"coordinates":[-82.255277,29.081065],"type":"Point"}
+  "bbox": [
+    -82.255277,
+    29.081065,
+    -82.255277,
+    29.081065
+],
+  "geometry": {"coordinates":[-82.25527700000001,29.081065],"type":"Point"}
 }

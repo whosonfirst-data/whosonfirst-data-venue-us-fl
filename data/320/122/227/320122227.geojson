@@ -2,13 +2,14 @@
   "id": 320122227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.653094,30.364137,-81.653094,30.364137",
     "geom:latitude":30.364137,
     "geom:longitude":-81.653094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4229 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320122227,
-    "wof:lastmodified":1449013374,
+    "wof:lastmodified":1466435479,
     "wof:name":"House Of Ladders",
     "wof:parent_id":85807217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ladder"
     ]
 },
-  "bbox": [-81.653094,30.364137,-81.653094,30.364137],
+  "bbox": [
+    -81.653094,
+    30.364137,
+    -81.653094,
+    30.364137
+],
   "geometry": {"coordinates":[-81.653094,30.364137],"type":"Point"}
 }

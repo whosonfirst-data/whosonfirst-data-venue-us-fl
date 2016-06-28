@@ -2,13 +2,14 @@
   "id": 320637845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128738,26.223557,-80.128738,26.223557",
     "geom:latitude":26.223557,
     "geom:longitude":-80.128738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 S Dixie Hwy E",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320637845,
-    "wof:lastmodified":1449011261,
+    "wof:lastmodified":1466444430,
     "wof:name":"Atlantic Bus Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-80.128738,26.223557,-80.128738,26.223557],
+  "bbox": [
+    -80.128738,
+    26.223557,
+    -80.128738,
+    26.223557
+],
   "geometry": {"coordinates":[-80.128738,26.223557],"type":"Point"}
 }

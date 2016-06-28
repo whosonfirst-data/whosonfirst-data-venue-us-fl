@@ -2,13 +2,14 @@
   "id": 354099111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.26484,26.653414,-80.26484,26.653414",
     "geom:latitude":26.653414,
     "geom:longitude":-80.26484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 Wisteria St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354099111,
-    "wof:lastmodified":1449067083,
+    "wof:lastmodified":1466437613,
     "wof:name":"R W Woods Inc",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.26484,26.653414,-80.26484,26.653414],
-  "geometry": {"coordinates":[-80.26484,26.653414],"type":"Point"}
+  "bbox": [
+    -80.26484,
+    26.653414,
+    -80.26484,
+    26.653414
+],
+  "geometry": {"coordinates":[-80.26484000000001,26.653414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303887021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13995,25.797833,-80.13995,25.797833",
     "geom:latitude":25.797833,
     "geom:longitude":-80.13995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2156 N Bay Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303887021,
-    "wof:lastmodified":1449000082,
+    "wof:lastmodified":1466445820,
     "wof:name":"Collins Interests",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.13995,25.797833,-80.13995,25.797833],
+  "bbox": [
+    -80.13995,
+    25.797833,
+    -80.13995,
+    25.797833
+],
   "geometry": {"coordinates":[-80.13995,25.797833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220169687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530099,27.352293,-82.530099,27.352293",
     "geom:latitude":27.352293,
     "geom:longitude":-82.530099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2095 17th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220169687,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466429178,
     "wof:name":"Bob's Carpet Mart",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-82.530099,27.352293,-82.530099,27.352293],
-  "geometry": {"coordinates":[-82.530099,27.352293],"type":"Point"}
+  "bbox": [
+    -82.530099,
+    27.352293,
+    -82.530099,
+    27.352293
+],
+  "geometry": {"coordinates":[-82.53009900000001,27.352293],"type":"Point"}
 }

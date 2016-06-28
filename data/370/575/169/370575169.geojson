@@ -2,13 +2,14 @@
   "id": 370575169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133974,26.300828,-80.133974,26.300828",
     "geom:latitude":26.300828,
     "geom:longitude":-80.133974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 S Military Trl",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370575169,
-    "wof:lastmodified":1449030086,
+    "wof:lastmodified":1466442999,
     "wof:name":"One Stop Cleaners",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.133974,26.300828,-80.133974,26.300828],
-  "geometry": {"coordinates":[-80.133974,26.300828],"type":"Point"}
+  "bbox": [
+    -80.133974,
+    26.300828,
+    -80.133974,
+    26.300828
+],
+  "geometry": {"coordinates":[-80.13397399999999,26.300828],"type":"Point"}
 }

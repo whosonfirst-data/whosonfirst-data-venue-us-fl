@@ -2,13 +2,14 @@
   "id": 404146207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505136,28.519885,-82.505136,28.519885",
     "geom:latitude":28.519885,
     "geom:longitude":-82.505136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13283 Curry Dr",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404146207,
-    "wof:lastmodified":1449039532,
+    "wof:lastmodified":1466442515,
     "wof:name":"Sugar Shack",
     "wof:parent_id":85888603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concessionaire"
     ]
 },
-  "bbox": [-82.505136,28.519885,-82.505136,28.519885],
-  "geometry": {"coordinates":[-82.505136,28.519885],"type":"Point"}
+  "bbox": [
+    -82.505136,
+    28.519885,
+    -82.505136,
+    28.519885
+],
+  "geometry": {"coordinates":[-82.50513599999999,28.519885],"type":"Point"}
 }

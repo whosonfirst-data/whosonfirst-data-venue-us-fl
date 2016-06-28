@@ -2,13 +2,14 @@
   "id": 219445513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.53825,30.799074,-85.53825,30.799074",
     "geom:latitude":30.799074,
     "geom:longitude":-85.53825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Main St",
     "sg:city":"Chipley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219445513,
-    "wof:lastmodified":1449070868,
+    "wof:lastmodified":1466430796,
     "wof:name":"Hungry Howies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.53825,30.799074,-85.53825,30.799074],
-  "geometry": {"coordinates":[-85.53825,30.799074],"type":"Point"}
+  "bbox": [
+    -85.53825,
+    30.799074,
+    -85.53825,
+    30.799074
+],
+  "geometry": {"coordinates":[-85.53825000000001,30.799074],"type":"Point"}
 }

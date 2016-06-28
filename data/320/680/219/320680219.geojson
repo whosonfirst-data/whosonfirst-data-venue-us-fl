@@ -2,13 +2,14 @@
   "id": 320680219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.349219,27.84276,-82.349219,27.84276",
     "geom:latitude":27.84276,
     "geom:longitude":-82.349219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9733 Cypress Harbor Dr",
     "sg:city":"Gibsonton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320680219,
-    "wof:lastmodified":1449013884,
+    "wof:lastmodified":1466445150,
     "wof:name":"Beazer Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-82.349219,27.84276,-82.349219,27.84276],
-  "geometry": {"coordinates":[-82.349219,27.84276],"type":"Point"}
+  "bbox": [
+    -82.349219,
+    27.84276,
+    -82.349219,
+    27.84276
+],
+  "geometry": {"coordinates":[-82.34921900000001,27.84276],"type":"Point"}
 }

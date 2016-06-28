@@ -2,13 +2,14 @@
   "id": 203373579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157406,25.889467,-80.157406,25.889467",
     "geom:latitude":25.889467,
     "geom:longitude":-80.157406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 NE 123rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203373579,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466431077,
     "wof:name":"Cleantech Corp",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.157406,25.889467,-80.157406,25.889467],
-  "geometry": {"coordinates":[-80.157406,25.889467],"type":"Point"}
+  "bbox": [
+    -80.157406,
+    25.889467,
+    -80.157406,
+    25.889467
+],
+  "geometry": {"coordinates":[-80.15740599999999,25.889467],"type":"Point"}
 }

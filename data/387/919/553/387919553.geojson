@@ -2,13 +2,14 @@
   "id": 387919553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335558,25.837011,-80.335558,25.837011",
     "geom:latitude":25.837011,
     "geom:longitude":-80.335558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8612 NW 70th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387919553,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1466449650,
     "wof:name":"Service One Import Export",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarder"
     ]
 },
-  "bbox": [-80.335558,25.837011,-80.335558,25.837011],
-  "geometry": {"coordinates":[-80.335558,25.837011],"type":"Point"}
+  "bbox": [
+    -80.335558,
+    25.837011,
+    -80.335558,
+    25.837011
+],
+  "geometry": {"coordinates":[-80.33555800000001,25.837011],"type":"Point"}
 }

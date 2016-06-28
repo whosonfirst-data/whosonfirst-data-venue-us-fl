@@ -2,13 +2,14 @@
   "id": 303618047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.302845,26.178341,-80.302845,26.178341",
     "geom:latitude":26.178341,
     "geom:longitude":-80.302845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 NW 116th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303618047,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466441162,
     "wof:name":"Dave Pelky Carpet Installation",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.302845,26.178341,-80.302845,26.178341],
+  "bbox": [
+    -80.302845,
+    26.178341,
+    -80.302845,
+    26.178341
+],
   "geometry": {"coordinates":[-80.302845,26.178341],"type":"Point"}
 }

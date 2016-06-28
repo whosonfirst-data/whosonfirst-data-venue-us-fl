@@ -2,13 +2,14 @@
   "id": 387332817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.008406,24.72722,-81.008406,24.72722",
     "geom:latitude":24.72722,
     "geom:longitude":-81.008406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Coco Plum Dr",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387332817,
-    "wof:lastmodified":1449058227,
+    "wof:lastmodified":1466443834,
     "wof:name":"Royal Plum Condominiums",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.008406,24.72722,-81.008406,24.72722],
-  "geometry": {"coordinates":[-81.008406,24.72722],"type":"Point"}
+  "bbox": [
+    -81.008406,
+    24.72722,
+    -81.008406,
+    24.72722
+],
+  "geometry": {"coordinates":[-81.00840599999999,24.72722],"type":"Point"}
 }

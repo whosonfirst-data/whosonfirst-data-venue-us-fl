@@ -2,13 +2,14 @@
   "id": 320359265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082473,26.528233,-80.082473,26.528233",
     "geom:latitude":26.528233,
     "geom:longitude":-80.082473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Boynton Beach Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320359265,
-    "wof:lastmodified":1449011200,
+    "wof:lastmodified":1466439548,
     "wof:name":"Boynton Memorial Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.082473,26.528233,-80.082473,26.528233],
-  "geometry": {"coordinates":[-80.082473,26.528233],"type":"Point"}
+  "bbox": [
+    -80.082473,
+    26.528233,
+    -80.082473,
+    26.528233
+],
+  "geometry": {"coordinates":[-80.08247299999999,26.528233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253331813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.540148,27.333949,-82.540148,27.333949",
     "geom:latitude":27.333949,
     "geom:longitude":-82.540148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Pineapple Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253331813,
-    "wof:lastmodified":1449064604,
+    "wof:lastmodified":1466432703,
     "wof:name":"Sarasota Soundworks Studio",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-82.540148,27.333949,-82.540148,27.333949],
+  "bbox": [
+    -82.540148,
+    27.333949,
+    -82.540148,
+    27.333949
+],
   "geometry": {"coordinates":[-82.540148,27.333949],"type":"Point"}
 }

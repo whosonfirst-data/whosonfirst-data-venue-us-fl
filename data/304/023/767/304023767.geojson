@@ -2,13 +2,14 @@
   "id": 304023767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.346244,29.652147,-82.346244,29.652147",
     "geom:latitude":29.652147,
     "geom:longitude":-82.346244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 W University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304023767,
-    "wof:lastmodified":1449044106,
+    "wof:lastmodified":1466432223,
     "wof:name":"Run Florida",
     "wof:parent_id":85826743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.346244,29.652147,-82.346244,29.652147],
+  "bbox": [
+    -82.346244,
+    29.652147,
+    -82.346244,
+    29.652147
+],
   "geometry": {"coordinates":[-82.346244,29.652147],"type":"Point"}
 }

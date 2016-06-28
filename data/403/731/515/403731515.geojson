@@ -2,13 +2,14 @@
   "id": 403731515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.341185,28.70672,-81.341185,28.70672",
     "geom:latitude":28.70672,
     "geom:longitude":-81.341185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Longwood Cir",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403731515,
-    "wof:lastmodified":1449055819,
+    "wof:lastmodified":1466440038,
     "wof:name":"Tile Pattern",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.341185,28.70672,-81.341185,28.70672],
+  "bbox": [
+    -81.341185,
+    28.70672,
+    -81.341185,
+    28.70672
+],
   "geometry": {"coordinates":[-81.341185,28.70672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270222339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.790239,28.013485,-82.790239,28.013485",
     "geom:latitude":28.013485,
     "geom:longitude":-82.790239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Monroe St",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270222339,
-    "wof:lastmodified":1449010295,
+    "wof:lastmodified":1466433273,
     "wof:name":"Timothy McGivern",
     "wof:parent_id":85815425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.790239,28.013485,-82.790239,28.013485],
+  "bbox": [
+    -82.790239,
+    28.013485,
+    -82.790239,
+    28.013485
+],
   "geometry": {"coordinates":[-82.790239,28.013485],"type":"Point"}
 }

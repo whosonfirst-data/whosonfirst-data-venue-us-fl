@@ -2,13 +2,14 @@
   "id": 320395073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.201173,28.264529,-82.201173,28.264529",
     "geom:latitude":28.264529,
     "geom:longitude":-82.201173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37244 Nicole Ave",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320395073,
-    "wof:lastmodified":1449014423,
+    "wof:lastmodified":1466440148,
     "wof:name":"Marsella Billing Svc",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.201173,28.264529,-82.201173,28.264529],
+  "bbox": [
+    -82.201173,
+    28.264529,
+    -82.201173,
+    28.264529
+],
   "geometry": {"coordinates":[-82.201173,28.264529],"type":"Point"}
 }

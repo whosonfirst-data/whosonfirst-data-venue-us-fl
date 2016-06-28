@@ -2,13 +2,14 @@
   "id": 303388915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922599,28.048309,-81.922599,28.048309",
     "geom:latitude":28.048309,
     "geom:longitude":-81.922599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 US Hwy 92",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303388915,
-    "wof:lastmodified":1448998210,
+    "wof:lastmodified":1466437231,
     "wof:name":"Webb's Towing & Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-81.922599,28.048309,-81.922599,28.048309],
-  "geometry": {"coordinates":[-81.922599,28.048309],"type":"Point"}
+  "bbox": [
+    -81.922599,
+    28.048309,
+    -81.922599,
+    28.048309
+],
+  "geometry": {"coordinates":[-81.92259900000001,28.048309],"type":"Point"}
 }

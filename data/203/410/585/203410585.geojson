@@ -2,13 +2,14 @@
   "id": 203410585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.893809,28.942162,-80.893809,28.942162",
     "geom:latitude":28.942162,
     "geom:longitude":-80.893809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 Kumquat Dr",
     "sg:city":"Edgewater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203410585,
-    "wof:lastmodified":1449024970,
+    "wof:lastmodified":1466431570,
     "wof:name":"Clark Well Drilling",
     "wof:parent_id":85896105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-80.893809,28.942162,-80.893809,28.942162],
+  "bbox": [
+    -80.893809,
+    28.942162,
+    -80.893809,
+    28.942162
+],
   "geometry": {"coordinates":[-80.893809,28.942162],"type":"Point"}
 }

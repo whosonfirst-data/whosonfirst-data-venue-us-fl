@@ -2,13 +2,14 @@
   "id": 269604015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246482,25.810861,-80.246482,25.810861",
     "geom:latitude":25.810861,
     "geom:longitude":-80.246482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 NW 31st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269604015,
-    "wof:lastmodified":1449038649,
+    "wof:lastmodified":1466430641,
     "wof:name":"Paint Express Corp",
     "wof:parent_id":85808131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-80.246482,25.810861,-80.246482,25.810861],
+  "bbox": [
+    -80.246482,
+    25.810861,
+    -80.246482,
+    25.810861
+],
   "geometry": {"coordinates":[-80.246482,25.810861],"type":"Point"}
 }

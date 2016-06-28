@@ -2,13 +2,14 @@
   "id": 387592649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403326,30.347812,-81.403326,30.347812",
     "geom:latitude":30.347812,
     "geom:longitude":-81.403326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Live Oak Ln",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387592649,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1466447206,
     "wof:name":"Scan Air Filter",
     "wof:parent_id":85832101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-81.403326,30.347812,-81.403326,30.347812],
-  "geometry": {"coordinates":[-81.403326,30.347812],"type":"Point"}
+  "bbox": [
+    -81.403326,
+    30.347812,
+    -81.403326,
+    30.347812
+],
+  "geometry": {"coordinates":[-81.40332600000001,30.347812],"type":"Point"}
 }

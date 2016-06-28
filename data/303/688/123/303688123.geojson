@@ -2,13 +2,14 @@
   "id": 303688123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133567,26.186882,-80.133567,26.186882",
     "geom:latitude":26.186882,
     "geom:longitude":-80.133567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4834 NE 10th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303688123,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466442402,
     "wof:name":"PFT Enterprises Inc",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.133567,26.186882,-80.133567,26.186882],
+  "bbox": [
+    -80.133567,
+    26.186882,
+    -80.133567,
+    26.186882
+],
   "geometry": {"coordinates":[-80.133567,26.186882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303275973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.773512,30.179864,-85.773512,30.179864",
     "geom:latitude":30.179864,
     "geom:longitude":-85.773512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Laird Cir",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303275973,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466435309,
     "wof:name":"Bob King's Landscaping & Mntnc",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.773512,30.179864,-85.773512,30.179864],
+  "bbox": [
+    -85.773512,
+    30.179864,
+    -85.773512,
+    30.179864
+],
   "geometry": {"coordinates":[-85.773512,30.179864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337579707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.812508,27.547502,-81.812508,27.547502",
     "geom:latitude":27.547502,
     "geom:longitude":-81.812508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Main St",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337579707,
-    "wof:lastmodified":1449027206,
+    "wof:lastmodified":1466436160,
     "wof:name":"Wauchula Lodge No 17 F & AM",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-81.812508,27.547502,-81.812508,27.547502],
-  "geometry": {"coordinates":[-81.812508,27.547502],"type":"Point"}
+  "bbox": [
+    -81.812508,
+    27.547502,
+    -81.812508,
+    27.547502
+],
+  "geometry": {"coordinates":[-81.81250799999999,27.547502],"type":"Point"}
 }

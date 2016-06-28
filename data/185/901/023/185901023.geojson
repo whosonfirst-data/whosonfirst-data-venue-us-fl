@@ -2,13 +2,14 @@
   "id": 185901023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289724,28.987566,-81.289724,28.987566",
     "geom:latitude":28.987566,
     "geom:longitude":-81.289724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Vassar Rd",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185901023,
-    "wof:lastmodified":1449007281,
+    "wof:lastmodified":1466429920,
     "wof:name":"Paradise Pools & Spas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.289724,28.987566,-81.289724,28.987566],
-  "geometry": {"coordinates":[-81.289724,28.987566],"type":"Point"}
+  "bbox": [
+    -81.289724,
+    28.987566,
+    -81.289724,
+    28.987566
+],
+  "geometry": {"coordinates":[-81.28972400000001,28.987566],"type":"Point"}
 }

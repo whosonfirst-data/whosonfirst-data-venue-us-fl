@@ -2,13 +2,14 @@
   "id": 270288357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355421,25.753765,-80.355421,25.753765",
     "geom:latitude":25.753765,
     "geom:longitude":-80.355421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9851 SW 16th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270288357,
-    "wof:lastmodified":1449008904,
+    "wof:lastmodified":1466434383,
     "wof:name":"Lawyers Website Development",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-80.355421,25.753765,-80.355421,25.753765],
-  "geometry": {"coordinates":[-80.355421,25.753765],"type":"Point"}
+  "bbox": [
+    -80.355421,
+    25.753765,
+    -80.355421,
+    25.753765
+],
+  "geometry": {"coordinates":[-80.35542100000001,25.753765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253220179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.505063,30.295115,-81.505063,30.295115",
     "geom:latitude":30.295115,
     "geom:longitude":-81.505063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 Huffman Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253220179,
-    "wof:lastmodified":1449065695,
+    "wof:lastmodified":1466431008,
     "wof:name":"J D Vaughn & Sons Plumbing Co",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.505063,30.295115,-81.505063,30.295115],
-  "geometry": {"coordinates":[-81.505063,30.295115],"type":"Point"}
+  "bbox": [
+    -81.505063,
+    30.295115,
+    -81.505063,
+    30.295115
+],
+  "geometry": {"coordinates":[-81.50506300000001,30.295115],"type":"Point"}
 }

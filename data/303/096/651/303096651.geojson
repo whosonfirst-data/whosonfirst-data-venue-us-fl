@@ -2,13 +2,14 @@
   "id": 303096651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.340884,27.946615,-82.340884,27.946615",
     "geom:latitude":27.946615,
     "geom:longitude":-82.340884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Adamo Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303096651,
-    "wof:lastmodified":1448998906,
+    "wof:lastmodified":1466432161,
     "wof:name":"Shell",
     "wof:parent_id":85889679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-82.340884,27.946615,-82.340884,27.946615],
+  "bbox": [
+    -82.340884,
+    27.946615,
+    -82.340884,
+    27.946615
+],
   "geometry": {"coordinates":[-82.340884,27.946615],"type":"Point"}
 }

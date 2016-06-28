@@ -2,13 +2,14 @@
   "id": 202429825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.752668,26.703498,-81.752668,26.703498",
     "geom:latitude":26.703498,
     "geom:longitude":-81.752668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12520 Palm Beach Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202429825,
-    "wof:lastmodified":1449062507,
+    "wof:lastmodified":1466444285,
     "wof:name":"Astro Telecommunications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-81.752668,26.703498,-81.752668,26.703498],
+  "bbox": [
+    -81.752668,
+    26.703498,
+    -81.752668,
+    26.703498
+],
   "geometry": {"coordinates":[-81.752668,26.703498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303825913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800378,30.319502,-81.800378,30.319502",
     "geom:latitude":30.319502,
     "geom:longitude":-81.800378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8580 W Beaver St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303825913,
-    "wof:lastmodified":1448998213,
+    "wof:lastmodified":1466444743,
     "wof:name":"T & T Automotive",
     "wof:parent_id":85870749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-81.800378,30.319502,-81.800378,30.319502],
-  "geometry": {"coordinates":[-81.800378,30.319502],"type":"Point"}
+  "bbox": [
+    -81.800378,
+    30.319502,
+    -81.800378,
+    30.319502
+],
+  "geometry": {"coordinates":[-81.80037799999999,30.319502],"type":"Point"}
 }

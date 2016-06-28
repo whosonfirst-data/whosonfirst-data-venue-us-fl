@@ -2,13 +2,14 @@
   "id": 202753379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337921,25.839011,-80.337921,25.839011",
     "geom:latitude":25.839011,
     "geom:longitude":-80.337921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8563 NW 72nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202753379,
-    "wof:lastmodified":1449060404,
+    "wof:lastmodified":1466431665,
     "wof:name":"F & B Apparel Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.337921,25.839011,-80.337921,25.839011],
-  "geometry": {"coordinates":[-80.337921,25.839011],"type":"Point"}
+  "bbox": [
+    -80.337921,
+    25.839011,
+    -80.337921,
+    25.839011
+],
+  "geometry": {"coordinates":[-80.33792099999999,25.839011],"type":"Point"}
 }

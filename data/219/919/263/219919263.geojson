@@ -2,13 +2,14 @@
   "id": 219919263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.415562,30.333621,-81.415562,30.333621",
     "geom:latitude":30.333621,
     "geom:longitude":-81.415562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Mayport Rd",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219919263,
-    "wof:lastmodified":1449073070,
+    "wof:lastmodified":1466437079,
     "wof:name":"ACA Amoco",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.415562,30.333621,-81.415562,30.333621],
-  "geometry": {"coordinates":[-81.415562,30.333621],"type":"Point"}
+  "bbox": [
+    -81.415562,
+    30.333621,
+    -81.415562,
+    30.333621
+],
+  "geometry": {"coordinates":[-81.41556199999999,30.333621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286820669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.262385,30.43559,-84.262385,30.43559",
     "geom:latitude":30.43559,
     "geom:longitude":-84.262385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 E Lafayette St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286820669,
-    "wof:lastmodified":1449016712,
+    "wof:lastmodified":1466439474,
     "wof:name":"Unique & Beautiful Things",
     "wof:parent_id":85881345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.262385,30.43559,-84.262385,30.43559],
-  "geometry": {"coordinates":[-84.262385,30.43559],"type":"Point"}
+  "bbox": [
+    -84.262385,
+    30.43559,
+    -84.262385,
+    30.43559
+],
+  "geometry": {"coordinates":[-84.26238499999999,30.43559],"type":"Point"}
 }

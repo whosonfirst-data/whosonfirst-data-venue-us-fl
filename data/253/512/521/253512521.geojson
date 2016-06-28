@@ -2,13 +2,14 @@
   "id": 253512521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160011,25.950004,-80.160011,25.950004",
     "geom:latitude":25.950004,
     "geom:longitude":-80.160011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19110 NE 20th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253512521,
-    "wof:lastmodified":1449064980,
+    "wof:lastmodified":1466435829,
     "wof:name":"L & M Carpet",
     "wof:parent_id":85879301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.160011,25.950004,-80.160011,25.950004],
+  "bbox": [
+    -80.160011,
+    25.950004,
+    -80.160011,
+    25.950004
+],
   "geometry": {"coordinates":[-80.160011,25.950004],"type":"Point"}
 }

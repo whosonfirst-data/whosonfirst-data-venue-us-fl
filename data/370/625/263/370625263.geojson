@@ -2,13 +2,14 @@
   "id": 370625263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.357646,27.273532,-80.357646,27.273532",
     "geom:latitude":27.273532,
     "geom:longitude":-80.357646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 SW Port Saint Lucie Blvd",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370625263,
-    "wof:lastmodified":1449032533,
+    "wof:lastmodified":1466443767,
     "wof:name":"Gators Dockside",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.357646,27.273532,-80.357646,27.273532],
+  "bbox": [
+    -80.357646,
+    27.273532,
+    -80.357646,
+    27.273532
+],
   "geometry": {"coordinates":[-80.357646,27.273532],"type":"Point"}
 }

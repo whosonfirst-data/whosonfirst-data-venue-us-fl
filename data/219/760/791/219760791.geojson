@@ -2,13 +2,14 @@
   "id": 219760791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.047425,29.256746,-81.047425,29.256746",
     "geom:latitude":29.256746,
     "geom:longitude":-81.047425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1657 Ridgewood Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219760791,
-    "wof:lastmodified":1449073783,
+    "wof:lastmodified":1466434913,
     "wof:name":"Arena Auto Sales",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.047425,29.256746,-81.047425,29.256746],
+  "bbox": [
+    -81.047425,
+    29.256746,
+    -81.047425,
+    29.256746
+],
   "geometry": {"coordinates":[-81.047425,29.256746],"type":"Point"}
 }

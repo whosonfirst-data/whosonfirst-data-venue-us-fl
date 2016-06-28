@@ -2,13 +2,14 @@
   "id": 219311733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.612367,28.035097,-80.612367,28.035097",
     "geom:latitude":28.035097,
     "geom:longitude":-80.612367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2061 Palm Bay Rd NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219311733,
-    "wof:lastmodified":1449071216,
+    "wof:lastmodified":1466428930,
     "wof:name":"Palm Bay Walk-In Clinic",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.612367,28.035097,-80.612367,28.035097],
-  "geometry": {"coordinates":[-80.612367,28.035097],"type":"Point"}
+  "bbox": [
+    -80.612367,
+    28.035097,
+    -80.612367,
+    28.035097
+],
+  "geometry": {"coordinates":[-80.61236700000001,28.035097],"type":"Point"}
 }

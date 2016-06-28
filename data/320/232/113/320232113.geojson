@@ -2,13 +2,14 @@
   "id": 320232113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333002,25.801637,-80.333002,25.801637",
     "geom:latitude":25.801637,
     "geom:longitude":-80.333002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8208 NW 30th Ter",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320232113,
-    "wof:lastmodified":1449012481,
+    "wof:lastmodified":1466437356,
     "wof:name":"Atlantic Bearing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [-80.333002,25.801637,-80.333002,25.801637],
-  "geometry": {"coordinates":[-80.333002,25.801637],"type":"Point"}
+  "bbox": [
+    -80.333002,
+    25.801637,
+    -80.333002,
+    25.801637
+],
+  "geometry": {"coordinates":[-80.33300199999999,25.801637],"type":"Point"}
 }

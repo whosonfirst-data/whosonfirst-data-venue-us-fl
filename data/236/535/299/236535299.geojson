@@ -2,13 +2,14 @@
   "id": 236535299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.436284,27.748829,-80.436284,27.748829",
     "geom:latitude":27.748829,
     "geom:longitude":-80.436284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8505 Old Dixie Hwy",
     "sg:city":"Wabasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236535299,
-    "wof:lastmodified":1449002124,
+    "wof:lastmodified":1466435979,
     "wof:name":"Florida Building Distributions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-80.436284,27.748829,-80.436284,27.748829],
+  "bbox": [
+    -80.436284,
+    27.748829,
+    -80.436284,
+    27.748829
+],
   "geometry": {"coordinates":[-80.436284,27.748829],"type":"Point"}
 }

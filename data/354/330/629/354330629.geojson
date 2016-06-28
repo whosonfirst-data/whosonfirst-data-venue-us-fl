@@ -2,13 +2,14 @@
   "id": 354330629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368222,28.737826,-81.368222,28.737826",
     "geom:latitude":28.737826,
     "geom:longitude":-81.368222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Skyline Dr",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354330629,
-    "wof:lastmodified":1449066781,
+    "wof:lastmodified":1466441170,
     "wof:name":"Team Information Services",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-81.368222,28.737826,-81.368222,28.737826],
+  "bbox": [
+    -81.368222,
+    28.737826,
+    -81.368222,
+    28.737826
+],
   "geometry": {"coordinates":[-81.368222,28.737826],"type":"Point"}
 }

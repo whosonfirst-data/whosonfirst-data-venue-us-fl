@@ -2,13 +2,14 @@
   "id": 236473691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.353002,30.44026,-84.353002,30.44026",
     "geom:latitude":30.44026,
     "geom:longitude":-84.353002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Capital Cir NW",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236473691,
-    "wof:lastmodified":1449002192,
+    "wof:lastmodified":1466435096,
     "wof:name":"Penske Trucking",
     "wof:parent_id":85881377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-84.353002,30.44026,-84.353002,30.44026],
+  "bbox": [
+    -84.353002,
+    30.44026,
+    -84.353002,
+    30.44026
+],
   "geometry": {"coordinates":[-84.353002,30.44026],"type":"Point"}
 }

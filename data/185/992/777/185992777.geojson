@@ -2,13 +2,14 @@
   "id": 185992777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206306,26.170113,-80.206306,26.170113",
     "geom:latitude":26.170113,
     "geom:longitude":-80.206306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 NW 43rd Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185992777,
-    "wof:lastmodified":1449007372,
+    "wof:lastmodified":1466431002,
     "wof:name":"County Library",
     "wof:parent_id":85896115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-80.206306,26.170113,-80.206306,26.170113],
+  "bbox": [
+    -80.206306,
+    26.170113,
+    -80.206306,
+    26.170113
+],
   "geometry": {"coordinates":[-80.206306,26.170113],"type":"Point"}
 }

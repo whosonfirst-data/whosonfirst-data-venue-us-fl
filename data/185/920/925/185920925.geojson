@@ -2,13 +2,14 @@
   "id": 185920925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692281,28.151571,-80.692281,28.151571",
     "geom:latitude":28.151571,
     "geom:longitude":-80.692281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3940 Lakebreeze Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185920925,
-    "wof:lastmodified":1449007865,
+    "wof:lastmodified":1466430162,
     "wof:name":"Hesters",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-80.692281,28.151571,-80.692281,28.151571],
-  "geometry": {"coordinates":[-80.692281,28.151571],"type":"Point"}
+  "bbox": [
+    -80.692281,
+    28.151571,
+    -80.692281,
+    28.151571
+],
+  "geometry": {"coordinates":[-80.69228099999999,28.151571],"type":"Point"}
 }

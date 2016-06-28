@@ -2,13 +2,14 @@
   "id": 202394753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.213101,30.413142,-87.213101,30.413142",
     "geom:latitude":30.413142,
     "geom:longitude":-87.213101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Garden St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202394753,
-    "wof:lastmodified":1449060602,
+    "wof:lastmodified":1466441450,
     "wof:name":"Pensacola Mardi Gras",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.213101,30.413142,-87.213101,30.413142],
-  "geometry": {"coordinates":[-87.213101,30.413142],"type":"Point"}
+  "bbox": [
+    -87.213101,
+    30.413142,
+    -87.213101,
+    30.413142
+],
+  "geometry": {"coordinates":[-87.21310099999999,30.413142],"type":"Point"}
 }

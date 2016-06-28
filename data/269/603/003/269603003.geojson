@@ -2,13 +2,14 @@
   "id": 269603003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040031,29.242558,-81.040031,29.242558",
     "geom:latitude":29.242558,
     "geom:longitude":-81.040031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 Ridgewood Ave",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269603003,
-    "wof:lastmodified":1449038484,
+    "wof:lastmodified":1466430623,
     "wof:name":"Fred B Share",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.040031,29.242558,-81.040031,29.242558],
+  "bbox": [
+    -81.040031,
+    29.242558,
+    -81.040031,
+    29.242558
+],
   "geometry": {"coordinates":[-81.040031,29.242558],"type":"Point"}
 }

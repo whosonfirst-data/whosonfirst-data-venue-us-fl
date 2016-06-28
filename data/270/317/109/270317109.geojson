@@ -2,13 +2,14 @@
   "id": 270317109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.251601,29.18569,-82.251601,29.18569",
     "geom:latitude":29.18569,
     "geom:longitude":-82.251601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 SW 80th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270317109,
-    "wof:lastmodified":1449009743,
+    "wof:lastmodified":1466434890,
     "wof:name":"Gene J Hill & Assoc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.251601,29.18569,-82.251601,29.18569],
-  "geometry": {"coordinates":[-82.251601,29.18569],"type":"Point"}
+  "bbox": [
+    -82.251601,
+    29.18569,
+    -82.251601,
+    29.18569
+],
+  "geometry": {"coordinates":[-82.25160099999999,29.18569],"type":"Point"}
 }

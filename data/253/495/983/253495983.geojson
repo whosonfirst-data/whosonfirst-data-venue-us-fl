@@ -2,13 +2,14 @@
   "id": 253495983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384323,28.464255,-81.384323,28.464255",
     "geom:latitude":28.464255,
     "geom:longitude":-81.384323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Winegard Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253495983,
-    "wof:lastmodified":1449064132,
+    "wof:lastmodified":1466435555,
     "wof:name":"Haitian Church-The Bretheren",
     "wof:parent_id":85889351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.384323,28.464255,-81.384323,28.464255],
-  "geometry": {"coordinates":[-81.384323,28.464255],"type":"Point"}
+  "bbox": [
+    -81.384323,
+    28.464255,
+    -81.384323,
+    28.464255
+],
+  "geometry": {"coordinates":[-81.38432299999999,28.464255],"type":"Point"}
 }

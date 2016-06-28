@@ -2,13 +2,14 @@
   "id": 169600375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545122,30.221659,-81.545122,30.221659",
     "geom:latitude":30.221659,
     "geom:longitude":-81.545122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8087 Summit Ridge Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169600375,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466435246,
     "wof:name":"Wasp Investments Inc",
     "wof:parent_id":85814075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-81.545122,30.221659,-81.545122,30.221659],
-  "geometry": {"coordinates":[-81.545122,30.221659],"type":"Point"}
+  "bbox": [
+    -81.545122,
+    30.221659,
+    -81.545122,
+    30.221659
+],
+  "geometry": {"coordinates":[-81.54512200000001,30.221659],"type":"Point"}
 }

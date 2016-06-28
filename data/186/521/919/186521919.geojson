@@ -2,13 +2,14 @@
   "id": 186521919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.409309,28.40559,-81.409309,28.40559",
     "geom:latitude":28.40559,
     "geom:longitude":-81.409309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11001 Finchley Pl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186521919,
-    "wof:lastmodified":1449052909,
+    "wof:lastmodified":1466433090,
     "wof:name":"CJ Trucking",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.409309,28.40559,-81.409309,28.40559],
-  "geometry": {"coordinates":[-81.409309,28.40559],"type":"Point"}
+  "bbox": [
+    -81.409309,
+    28.40559,
+    -81.409309,
+    28.40559
+],
+  "geometry": {"coordinates":[-81.40930899999999,28.40559],"type":"Point"}
 }

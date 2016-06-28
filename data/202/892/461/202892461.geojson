@@ -2,13 +2,14 @@
   "id": 202892461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.233547,30.509443,-87.233547,30.509443",
     "geom:latitude":30.509443,
     "geom:longitude":-87.233547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Echo Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202892461,
-    "wof:lastmodified":1449060477,
+    "wof:lastmodified":1466433504,
     "wof:name":"Echo Center",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-87.233547,30.509443,-87.233547,30.509443],
+  "bbox": [
+    -87.233547,
+    30.509443,
+    -87.233547,
+    30.509443
+],
   "geometry": {"coordinates":[-87.233547,30.509443],"type":"Point"}
 }

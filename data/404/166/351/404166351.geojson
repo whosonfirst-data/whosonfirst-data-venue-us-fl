@@ -2,13 +2,14 @@
   "id": 404166351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695842,27.831329,-82.695842,27.831329",
     "geom:latitude":27.831329,
     "geom:longitude":-82.695842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6553 46th St N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404166351,
-    "wof:lastmodified":1449039813,
+    "wof:lastmodified":1466442822,
     "wof:name":"C C Systems",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "developer"
     ]
 },
-  "bbox": [-82.695842,27.831329,-82.695842,27.831329],
+  "bbox": [
+    -82.695842,
+    27.831329,
+    -82.695842,
+    27.831329
+],
   "geometry": {"coordinates":[-82.695842,27.831329],"type":"Point"}
 }

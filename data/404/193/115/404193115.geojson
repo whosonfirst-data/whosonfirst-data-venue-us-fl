@@ -2,13 +2,14 @@
   "id": 404193115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.613785,28.32868,-80.613785,28.32868",
     "geom:latitude":28.32868,
     "geom:longitude":-80.613785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Capri Rd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404193115,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1466443241,
     "wof:name":"Real Estate Review",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.613785,28.32868,-80.613785,28.32868],
-  "geometry": {"coordinates":[-80.613785,28.32868],"type":"Point"}
+  "bbox": [
+    -80.613785,
+    28.32868,
+    -80.613785,
+    28.32868
+],
+  "geometry": {"coordinates":[-80.61378499999999,28.32868],"type":"Point"}
 }

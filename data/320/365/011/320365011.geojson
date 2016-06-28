@@ -2,13 +2,14 @@
   "id": 320365011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241903,25.739245,-80.241903,25.739245",
     "geom:latitude":25.739245,
     "geom:longitude":-80.241903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 SW 28th Ln",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320365011,
-    "wof:lastmodified":1449011857,
+    "wof:lastmodified":1466439648,
     "wof:name":"B Developments Windmoor Prjcts",
     "wof:parent_id":85839179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.241903,25.739245,-80.241903,25.739245],
-  "geometry": {"coordinates":[-80.241903,25.739245],"type":"Point"}
+  "bbox": [
+    -80.241903,
+    25.739245,
+    -80.241903,
+    25.739245
+],
+  "geometry": {"coordinates":[-80.24190299999999,25.739245],"type":"Point"}
 }

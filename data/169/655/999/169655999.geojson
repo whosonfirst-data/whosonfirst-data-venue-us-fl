@@ -2,13 +2,14 @@
   "id": 169655999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.462928,30.347759,-81.462928,30.347759",
     "geom:latitude":30.347759,
     "geom:longitude":-81.462928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Chinook Trl",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169655999,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466444895,
     "wof:name":"Wilkerson Counseling Svc",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-81.462928,30.347759,-81.462928,30.347759],
-  "geometry": {"coordinates":[-81.462928,30.347759],"type":"Point"}
+  "bbox": [
+    -81.462928,
+    30.347759,
+    -81.462928,
+    30.347759
+],
+  "geometry": {"coordinates":[-81.46292800000001,30.347759],"type":"Point"}
 }

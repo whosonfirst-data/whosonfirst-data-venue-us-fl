@@ -2,13 +2,14 @@
   "id": 387627549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144967,26.114784,-80.144967,26.114784",
     "geom:latitude":26.114784,
     "geom:longitude":-80.144967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 SW Flagler Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387627549,
-    "wof:lastmodified":1449059999,
+    "wof:lastmodified":1466447481,
     "wof:name":"Barry's Marine Hydraulic",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-80.144967,26.114784,-80.144967,26.114784],
-  "geometry": {"coordinates":[-80.144967,26.114784],"type":"Point"}
+  "bbox": [
+    -80.144967,
+    26.114784,
+    -80.144967,
+    26.114784
+],
+  "geometry": {"coordinates":[-80.14496699999999,26.114784],"type":"Point"}
 }

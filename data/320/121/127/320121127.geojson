@@ -2,13 +2,14 @@
   "id": 320121127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141251,25.789772,-80.141251,25.789772",
     "geom:latitude":25.789772,
     "geom:longitude":-80.141251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Alton Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320121127,
-    "wof:lastmodified":1449014147,
+    "wof:lastmodified":1466435461,
     "wof:name":"Mpo US Mailing & Packing",
     "wof:parent_id":85882053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "direct"
     ]
 },
-  "bbox": [-80.141251,25.789772,-80.141251,25.789772],
+  "bbox": [
+    -80.141251,
+    25.789772,
+    -80.141251,
+    25.789772
+],
   "geometry": {"coordinates":[-80.141251,25.789772],"type":"Point"}
 }

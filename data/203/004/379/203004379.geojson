@@ -2,13 +2,14 @@
   "id": 203004379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.514108,28.763027,-81.514108,28.763027",
     "geom:latitude":28.763027,
     "geom:longitude":-81.514108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Longhorn Dr",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203004379,
-    "wof:lastmodified":1449025607,
+    "wof:lastmodified":1466429599,
     "wof:name":"All Interior Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.514108,28.763027,-81.514108,28.763027],
-  "geometry": {"coordinates":[-81.514108,28.763027],"type":"Point"}
+  "bbox": [
+    -81.514108,
+    28.763027,
+    -81.514108,
+    28.763027
+],
+  "geometry": {"coordinates":[-81.51410799999999,28.763027],"type":"Point"}
 }

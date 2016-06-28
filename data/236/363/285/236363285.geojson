@@ -2,13 +2,14 @@
   "id": 236363285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141555,26.393567,-80.141555,26.393567",
     "geom:latitude":26.393567,
     "geom:longitude":-80.141555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2649 NW 49th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236363285,
-    "wof:lastmodified":1449004763,
+    "wof:lastmodified":1466433539,
     "wof:name":"Willy Bonkers Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.141555,26.393567,-80.141555,26.393567],
+  "bbox": [
+    -80.141555,
+    26.393567,
+    -80.141555,
+    26.393567
+],
   "geometry": {"coordinates":[-80.141555,26.393567],"type":"Point"}
 }

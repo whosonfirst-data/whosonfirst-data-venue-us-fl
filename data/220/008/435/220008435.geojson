@@ -2,13 +2,14 @@
   "id": 220008435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116869,26.186556,-80.116869,26.186556",
     "geom:latitude":26.186556,
     "geom:longitude":-80.116869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220008435,
-    "wof:lastmodified":1449074277,
+    "wof:lastmodified":1466443652,
     "wof:name":"Melrose Litzinblatt & Peicher",
     "wof:parent_id":85877503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.116869,26.186556,-80.116869,26.186556],
-  "geometry": {"coordinates":[-80.116869,26.186556],"type":"Point"}
+  "bbox": [
+    -80.116869,
+    26.186556,
+    -80.116869,
+    26.186556
+],
+  "geometry": {"coordinates":[-80.11686899999999,26.186556],"type":"Point"}
 }

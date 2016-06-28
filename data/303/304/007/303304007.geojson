@@ -2,13 +2,14 @@
   "id": 303304007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.596692,30.399281,-86.596692,30.399281",
     "geom:latitude":30.399281,
     "geom:longitude":-86.596692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Siebert Dr",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303304007,
-    "wof:lastmodified":1448999940,
+    "wof:lastmodified":1466435779,
     "wof:name":"Timbers Nitespot",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "night"
     ]
 },
-  "bbox": [-86.596692,30.399281,-86.596692,30.399281],
+  "bbox": [
+    -86.596692,
+    30.399281,
+    -86.596692,
+    30.399281
+],
   "geometry": {"coordinates":[-86.596692,30.399281],"type":"Point"}
 }

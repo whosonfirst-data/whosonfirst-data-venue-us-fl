@@ -2,13 +2,14 @@
   "id": 286350077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.445969,25.708144,-80.445969,25.708144",
     "geom:latitude":25.708144,
     "geom:longitude":-80.445969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15621 SW 62nd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286350077,
-    "wof:lastmodified":1449016696,
+    "wof:lastmodified":1466431190,
     "wof:name":"3d Electric",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-80.445969,25.708144,-80.445969,25.708144],
-  "geometry": {"coordinates":[-80.445969,25.708144],"type":"Point"}
+  "bbox": [
+    -80.445969,
+    25.708144,
+    -80.445969,
+    25.708144
+],
+  "geometry": {"coordinates":[-80.44596900000001,25.708144],"type":"Point"}
 }

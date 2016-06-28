@@ -2,13 +2,14 @@
   "id": 252830561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270933,25.751306,-80.270933,25.751306",
     "geom:latitude":25.751306,
     "geom:longitude":-80.270933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 N Greenway Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252830561,
-    "wof:lastmodified":1449005650,
+    "wof:lastmodified":1466430205,
     "wof:name":"Vincent Import & Export Inc",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.270933,25.751306,-80.270933,25.751306],
+  "bbox": [
+    -80.270933,
+    25.751306,
+    -80.270933,
+    25.751306
+],
   "geometry": {"coordinates":[-80.270933,25.751306],"type":"Point"}
 }

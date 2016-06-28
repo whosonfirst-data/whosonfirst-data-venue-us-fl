@@ -2,13 +2,14 @@
   "id": 286371399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241788,25.801545,-80.241788,25.801545",
     "geom:latitude":25.801545,
     "geom:longitude":-80.241788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 NW 28th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286371399,
-    "wof:lastmodified":1449017477,
+    "wof:lastmodified":1466431554,
     "wof:name":"Firm Import Export",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.241788,25.801545,-80.241788,25.801545],
+  "bbox": [
+    -80.241788,
+    25.801545,
+    -80.241788,
+    25.801545
+],
   "geometry": {"coordinates":[-80.241788,25.801545],"type":"Point"}
 }

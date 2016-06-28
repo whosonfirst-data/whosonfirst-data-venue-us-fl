@@ -2,13 +2,14 @@
   "id": 253012431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121478,25.842617,-80.121478,25.842617",
     "geom:latitude":25.842617,
     "geom:longitude":-80.121478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6060 Indian Creek Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253012431,
-    "wof:lastmodified":1449065484,
+    "wof:lastmodified":1466428652,
     "wof:name":"6060 Resort Residences",
     "wof:parent_id":85882057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-80.121478,25.842617,-80.121478,25.842617],
+  "bbox": [
+    -80.121478,
+    25.842617,
+    -80.121478,
+    25.842617
+],
   "geometry": {"coordinates":[-80.121478,25.842617],"type":"Point"}
 }

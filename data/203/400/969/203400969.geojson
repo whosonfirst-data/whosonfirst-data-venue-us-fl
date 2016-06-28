@@ -2,13 +2,14 @@
   "id": 203400969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.901844,27.966182,-81.901844,27.966182",
     "geom:latitude":27.966182,
     "geom:longitude":-81.901844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 Summerland Hills Loop",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400969,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466431442,
     "wof:name":"Paper Walls",
     "wof:parent_id":85889081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-81.901844,27.966182,-81.901844,27.966182],
+  "bbox": [
+    -81.901844,
+    27.966182,
+    -81.901844,
+    27.966182
+],
   "geometry": {"coordinates":[-81.901844,27.966182],"type":"Point"}
 }

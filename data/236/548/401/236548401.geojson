@@ -2,13 +2,14 @@
   "id": 236548401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587308,30.160944,-81.587308,30.160944",
     "geom:latitude":30.160944,
     "geom:longitude":-81.587308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 Summer Haven Blvd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236548401,
-    "wof:lastmodified":1449004027,
+    "wof:lastmodified":1466436174,
     "wof:name":"Craig Technical Consulting",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-81.587308,30.160944,-81.587308,30.160944],
-  "geometry": {"coordinates":[-81.587308,30.160944],"type":"Point"}
+  "bbox": [
+    -81.587308,
+    30.160944,
+    -81.587308,
+    30.160944
+],
+  "geometry": {"coordinates":[-81.58730799999999,30.160944],"type":"Point"}
 }

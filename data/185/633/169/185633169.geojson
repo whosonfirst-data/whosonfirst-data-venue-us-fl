@@ -2,13 +2,14 @@
   "id": 185633169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205717,25.754181,-80.205717,25.754181",
     "geom:latitude":25.754181,
     "geom:longitude":-80.205717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 SW 25th Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185633169,
-    "wof:lastmodified":1449008186,
+    "wof:lastmodified":1466444146,
     "wof:name":"De La Torriente Cosme J PA",
     "wof:parent_id":85807363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.205717,25.754181,-80.205717,25.754181],
-  "geometry": {"coordinates":[-80.205717,25.754181],"type":"Point"}
+  "bbox": [
+    -80.205717,
+    25.754181,
+    -80.205717,
+    25.754181
+],
+  "geometry": {"coordinates":[-80.20571700000001,25.754181],"type":"Point"}
 }

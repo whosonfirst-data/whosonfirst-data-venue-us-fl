@@ -2,13 +2,14 @@
   "id": 169616005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401353,27.049656,-82.401353,27.049656",
     "geom:latitude":27.049656,
     "geom:longitude":-82.401353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3242 Tamiami Trl",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169616005,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466446294,
     "wof:name":"AG Edwards & Sons",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-82.401353,27.049656,-82.401353,27.049656],
+  "bbox": [
+    -82.401353,
+    27.049656,
+    -82.401353,
+    27.049656
+],
   "geometry": {"coordinates":[-82.401353,27.049656],"type":"Point"}
 }

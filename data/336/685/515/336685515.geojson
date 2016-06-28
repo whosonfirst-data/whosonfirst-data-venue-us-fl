@@ -2,13 +2,14 @@
   "id": 336685515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.205683,30.443932,-87.205683,30.443932",
     "geom:latitude":30.443932,
     "geom:longitude":-87.205683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Leonard St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336685515,
-    "wof:lastmodified":1448997970,
+    "wof:lastmodified":1466436455,
     "wof:name":"Escambia County Jail",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-87.205683,30.443932,-87.205683,30.443932],
-  "geometry": {"coordinates":[-87.205683,30.443932],"type":"Point"}
+  "bbox": [
+    -87.205683,
+    30.443932,
+    -87.205683,
+    30.443932
+],
+  "geometry": {"coordinates":[-87.20568299999999,30.443932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525316,30.159986,-81.525316,30.159986",
     "geom:latitude":30.159986,
     "geom:longitude":-81.525316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7076 Davis Creek Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":185653011,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1466446375,
     "wof:name":"Supply Source Inc",
     "wof:parent_id":85870699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-81.525316,30.159986,-81.525316,30.159986],
+  "bbox": [
+    -81.525316,
+    30.159986,
+    -81.525316,
+    30.159986
+],
   "geometry": {"coordinates":[-81.525316,30.159986],"type":"Point"}
 }

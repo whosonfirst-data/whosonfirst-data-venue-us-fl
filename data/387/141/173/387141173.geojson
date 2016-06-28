@@ -2,13 +2,14 @@
   "id": 387141173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316071,25.732242,-80.316071,25.732242",
     "geom:latitude":25.732242,
     "geom:longitude":-80.316071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4196 SW 74th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387141173,
-    "wof:lastmodified":1449057430,
+    "wof:lastmodified":1466440876,
     "wof:name":"Johnstone Supply",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.316071,25.732242,-80.316071,25.732242],
-  "geometry": {"coordinates":[-80.316071,25.732242],"type":"Point"}
+  "bbox": [
+    -80.316071,
+    25.732242,
+    -80.316071,
+    25.732242
+],
+  "geometry": {"coordinates":[-80.31607099999999,25.732242],"type":"Point"}
 }

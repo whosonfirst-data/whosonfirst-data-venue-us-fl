@@ -2,13 +2,14 @@
   "id": 253574449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.563015,27.469917,-82.563015,27.469917",
     "geom:latitude":27.469917,
     "geom:longitude":-82.563015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 1st St",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253574449,
-    "wof:lastmodified":1449062810,
+    "wof:lastmodified":1466436957,
     "wof:name":"Buddy's Home Furnishings",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-82.563015,27.469917,-82.563015,27.469917],
-  "geometry": {"coordinates":[-82.563015,27.469917],"type":"Point"}
+  "bbox": [
+    -82.563015,
+    27.469917,
+    -82.563015,
+    27.469917
+],
+  "geometry": {"coordinates":[-82.56301499999999,27.469917],"type":"Point"}
 }

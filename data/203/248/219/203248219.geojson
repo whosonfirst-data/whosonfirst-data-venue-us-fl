@@ -2,13 +2,14 @@
   "id": 203248219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583434,28.552219,-81.583434,28.552219",
     "geom:latitude":28.552219,
     "geom:longitude":-81.583434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 S Dillard St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203248219,
-    "wof:lastmodified":1449025988,
+    "wof:lastmodified":1466429523,
     "wof:name":"Subway",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.583434,28.552219,-81.583434,28.552219],
+  "bbox": [
+    -81.583434,
+    28.552219,
+    -81.583434,
+    28.552219
+],
   "geometry": {"coordinates":[-81.583434,28.552219],"type":"Point"}
 }

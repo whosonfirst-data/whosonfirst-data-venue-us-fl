@@ -2,13 +2,14 @@
   "id": 303872525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.029579,29.066464,-81.029579,29.066464",
     "geom:latitude":29.066464,
     "geom:longitude":-81.029579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Tammy Ct",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303872525,
-    "wof:lastmodified":1448998338,
+    "wof:lastmodified":1466445569,
     "wof:name":"Gemini Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-81.029579,29.066464,-81.029579,29.066464],
+  "bbox": [
+    -81.029579,
+    29.066464,
+    -81.029579,
+    29.066464
+],
   "geometry": {"coordinates":[-81.029579,29.066464],"type":"Point"}
 }

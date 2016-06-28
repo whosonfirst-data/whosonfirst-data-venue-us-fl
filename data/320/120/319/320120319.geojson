@@ -2,13 +2,14 @@
   "id": 320120319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.35676,30.475802,-84.35676,30.475802",
     "geom:latitude":30.475802,
     "geom:longitude":-84.35676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 Commonwealth Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320120319,
-    "wof:lastmodified":1449014439,
+    "wof:lastmodified":1466435448,
     "wof:name":"Bob Knight Photo",
     "wof:parent_id":85881329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-84.35676,30.475802,-84.35676,30.475802],
-  "geometry": {"coordinates":[-84.35676,30.475802],"type":"Point"}
+  "bbox": [
+    -84.35676,
+    30.475802,
+    -84.35676,
+    30.475802
+],
+  "geometry": {"coordinates":[-84.35675999999999,30.475802],"type":"Point"}
 }

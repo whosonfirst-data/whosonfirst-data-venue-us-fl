@@ -2,13 +2,14 @@
   "id": 270255719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246958,25.975224,-80.246958,25.975224",
     "geom:latitude":25.975224,
     "geom:longitude":-80.246958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3202 S University Dr",
     "sg:city":"Miramar",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270255719,
-    "wof:lastmodified":1449009739,
+    "wof:lastmodified":1466433831,
     "wof:name":"Armando Angulo MD",
     "wof:parent_id":85829153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.246958,25.975224,-80.246958,25.975224],
-  "geometry": {"coordinates":[-80.246958,25.975224],"type":"Point"}
+  "bbox": [
+    -80.246958,
+    25.975224,
+    -80.246958,
+    25.975224
+],
+  "geometry": {"coordinates":[-80.24695800000001,25.975224],"type":"Point"}
 }

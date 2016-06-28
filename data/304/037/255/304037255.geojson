@@ -2,13 +2,14 @@
   "id": 304037255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.574367,26.247857,-81.574367,26.247857",
     "geom:latitude":26.247857,
     "geom:longitude":-81.574367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 16th St NE",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":304037255,
-    "wof:lastmodified":1449044164,
+    "wof:lastmodified":1466432459,
     "wof:name":"Plumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.574367,26.247857,-81.574367,26.247857],
+  "bbox": [
+    -81.574367,
+    26.247857,
+    -81.574367,
+    26.247857
+],
   "geometry": {"coordinates":[-81.574367,26.247857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353569993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981214,26.555339,-81.981214,26.555339",
     "geom:latitude":26.555339,
     "geom:longitude":-81.981214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5146 SW 3rd Ave",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353569993,
-    "wof:lastmodified":1449020675,
+    "wof:lastmodified":1466437309,
     "wof:name":"Philip J Shevlin",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.981214,26.555339,-81.981214,26.555339],
-  "geometry": {"coordinates":[-81.981214,26.555339],"type":"Point"}
+  "bbox": [
+    -81.981214,
+    26.555339,
+    -81.981214,
+    26.555339
+],
+  "geometry": {"coordinates":[-81.98121399999999,26.555339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353785899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.249256,28.068609,-82.249256,28.068609",
     "geom:latitude":28.068609,
     "geom:longitude":-82.249256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11702 McIntosh Rd",
     "sg:city":"Thonotosassa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353785899,
-    "wof:lastmodified":1449020390,
+    "wof:lastmodified":1466440715,
     "wof:name":"Tampa Bay Event Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-82.249256,28.068609,-82.249256,28.068609],
+  "bbox": [
+    -82.249256,
+    28.068609,
+    -82.249256,
+    28.068609
+],
   "geometry": {"coordinates":[-82.249256,28.068609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219381355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.497549,27.323503,-82.497549,27.323503",
     "geom:latitude":27.323503,
     "geom:longitude":-82.497549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Beneva Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219381355,
-    "wof:lastmodified":1449070676,
+    "wof:lastmodified":1466429903,
     "wof:name":"Hornberger Chiropractic Ctr",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.497549,27.323503,-82.497549,27.323503],
-  "geometry": {"coordinates":[-82.497549,27.323503],"type":"Point"}
+  "bbox": [
+    -82.497549,
+    27.323503,
+    -82.497549,
+    27.323503
+],
+  "geometry": {"coordinates":[-82.49754900000001,27.323503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236581905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.609479,30.18331,-82.609479,30.18331",
     "geom:latitude":30.18331,
     "geom:longitude":-82.609479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 E Baya Ave",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236581905,
-    "wof:lastmodified":1449002200,
+    "wof:lastmodified":1466436641,
     "wof:name":"Wack-A-Do",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.609479,30.18331,-82.609479,30.18331],
-  "geometry": {"coordinates":[-82.609479,30.18331],"type":"Point"}
+  "bbox": [
+    -82.609479,
+    30.18331,
+    -82.609479,
+    30.18331
+],
+  "geometry": {"coordinates":[-82.60947899999999,30.18331],"type":"Point"}
 }

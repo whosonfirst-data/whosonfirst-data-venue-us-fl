@@ -2,13 +2,14 @@
   "id": 253650047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326015,27.411928,-80.326015,27.411928",
     "geom:latitude":27.411928,
     "geom:longitude":-80.326015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 S US Hwy 1",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253650047,
-    "wof:lastmodified":1449064614,
+    "wof:lastmodified":1466438303,
     "wof:name":"Ft Pierce Bingo",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "game"
     ]
 },
-  "bbox": [-80.326015,27.411928,-80.326015,27.411928],
+  "bbox": [
+    -80.326015,
+    27.411928,
+    -80.326015,
+    27.411928
+],
   "geometry": {"coordinates":[-80.326015,27.411928],"type":"Point"}
 }

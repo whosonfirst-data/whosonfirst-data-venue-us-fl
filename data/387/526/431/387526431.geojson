@@ -2,13 +2,14 @@
   "id": 387526431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.681384,30.224749,-85.681384,30.224749",
     "geom:latitude":30.224749,
     "geom:longitude":-85.681384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Savannah Dr",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387526431,
-    "wof:lastmodified":1449057266,
+    "wof:lastmodified":1466446748,
     "wof:name":"Savanah Interiors",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-85.681384,30.224749,-85.681384,30.224749],
-  "geometry": {"coordinates":[-85.681384,30.224749],"type":"Point"}
+  "bbox": [
+    -85.681384,
+    30.224749,
+    -85.681384,
+    30.224749
+],
+  "geometry": {"coordinates":[-85.68138399999999,30.224749],"type":"Point"}
 }

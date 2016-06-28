@@ -2,13 +2,14 @@
   "id": 203024787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937643,28.049633,-81.937643,28.049633",
     "geom:latitude":28.049633,
     "geom:longitude":-81.937643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E Gary Rd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203024787,
-    "wof:lastmodified":1449025826,
+    "wof:lastmodified":1466442390,
     "wof:name":"Florida Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "c"
     ]
 },
-  "bbox": [-81.937643,28.049633,-81.937643,28.049633],
-  "geometry": {"coordinates":[-81.937643,28.049633],"type":"Point"}
+  "bbox": [
+    -81.937643,
+    28.049633,
+    -81.937643,
+    28.049633
+],
+  "geometry": {"coordinates":[-81.93764299999999,28.049633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303802095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.473637,30.517563,-86.473637,30.517563",
     "geom:latitude":30.517563,
     "geom:longitude":-86.473637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303802095,
-    "wof:lastmodified":1449000109,
+    "wof:lastmodified":1466444342,
     "wof:name":"Marty's Music",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.473637,30.517563,-86.473637,30.517563],
+  "bbox": [
+    -86.473637,
+    30.517563,
+    -86.473637,
+    30.517563
+],
   "geometry": {"coordinates":[-86.473637,30.517563],"type":"Point"}
 }

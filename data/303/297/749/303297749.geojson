@@ -2,13 +2,14 @@
   "id": 303297749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.648662,30.245467,-85.648662,30.245467",
     "geom:latitude":30.245467,
     "geom:longitude":-85.648662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Ohio Ave",
     "sg:city":"Lynn Haven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303297749,
-    "wof:lastmodified":1448999672,
+    "wof:lastmodified":1466435670,
     "wof:name":"Baker Tanks",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tank"
     ]
 },
-  "bbox": [-85.648662,30.245467,-85.648662,30.245467],
+  "bbox": [
+    -85.648662,
+    30.245467,
+    -85.648662,
+    30.245467
+],
   "geometry": {"coordinates":[-85.648662,30.245467],"type":"Point"}
 }

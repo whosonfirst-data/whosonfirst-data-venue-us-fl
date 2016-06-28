@@ -2,13 +2,14 @@
   "id": 253744559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459006,28.690494,-81.459006,28.690494",
     "geom:latitude":28.690494,
     "geom:longitude":-81.459006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Pickering Ct",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253744559,
-    "wof:lastmodified":1449063894,
+    "wof:lastmodified":1466439973,
     "wof:name":"Florida Design",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.459006,28.690494,-81.459006,28.690494],
+  "bbox": [
+    -81.459006,
+    28.690494,
+    -81.459006,
+    28.690494
+],
   "geometry": {"coordinates":[-81.459006,28.690494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286947543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259121,25.762902,-80.259121,25.762902",
     "geom:latitude":25.762902,
     "geom:longitude":-80.259121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286947543,
-    "wof:lastmodified":1449017314,
+    "wof:lastmodified":1466441752,
     "wof:name":"Perkins & Will",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.259121,25.762902,-80.259121,25.762902],
-  "geometry": {"coordinates":[-80.259121,25.762902],"type":"Point"}
+  "bbox": [
+    -80.259121,
+    25.762902,
+    -80.259121,
+    25.762902
+],
+  "geometry": {"coordinates":[-80.25912099999999,25.762902],"type":"Point"}
 }

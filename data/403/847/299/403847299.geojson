@@ -2,13 +2,14 @@
   "id": 403847299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.728918,28.021823,-81.728918,28.021823",
     "geom:latitude":28.021823,
     "geom:longitude":-81.728918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 2nd St SW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403847299,
-    "wof:lastmodified":1449055112,
+    "wof:lastmodified":1466441910,
     "wof:name":"Crowley Well Drlg & Pump Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.728918,28.021823,-81.728918,28.021823],
-  "geometry": {"coordinates":[-81.728918,28.021823],"type":"Point"}
+  "bbox": [
+    -81.728918,
+    28.021823,
+    -81.728918,
+    28.021823
+],
+  "geometry": {"coordinates":[-81.72891799999999,28.021823],"type":"Point"}
 }

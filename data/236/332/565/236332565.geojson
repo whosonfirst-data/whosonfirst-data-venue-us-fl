@@ -2,13 +2,14 @@
   "id": 236332565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.246007,30.448985,-84.246007,30.448985",
     "geom:latitude":30.448985,
     "geom:longitude":-84.246007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 Olivia Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236332565,
-    "wof:lastmodified":1449003502,
+    "wof:lastmodified":1466433119,
     "wof:name":"Nancy Munson Bookkeeping & Tax",
     "wof:parent_id":85881335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-84.246007,30.448985,-84.246007,30.448985],
-  "geometry": {"coordinates":[-84.246007,30.448985],"type":"Point"}
+  "bbox": [
+    -84.246007,
+    30.448985,
+    -84.246007,
+    30.448985
+],
+  "geometry": {"coordinates":[-84.24600700000001,30.448985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303910025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.495354,27.986706,-82.495354,27.986706",
     "geom:latitude":27.986706,
     "geom:longitude":-82.495354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 N Matanzas Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303910025,
-    "wof:lastmodified":1448999142,
+    "wof:lastmodified":1466446224,
     "wof:name":"Pedros Stucco & Plastering",
     "wof:parent_id":85873243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.495354,27.986706,-82.495354,27.986706],
-  "geometry": {"coordinates":[-82.495354,27.986706],"type":"Point"}
+  "bbox": [
+    -82.495354,
+    27.986706,
+    -82.495354,
+    27.986706
+],
+  "geometry": {"coordinates":[-82.49535400000001,27.986706],"type":"Point"}
 }

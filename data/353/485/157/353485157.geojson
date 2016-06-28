@@ -2,13 +2,14 @@
   "id": 353485157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264016,25.809157,-80.264016,25.809157",
     "geom:latitude":25.809157,
     "geom:longitude":-80.264016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Royal Poinciana Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353485157,
-    "wof:lastmodified":1449019833,
+    "wof:lastmodified":1466435907,
     "wof:name":"Andre Rent-A-Car",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-80.264016,25.809157,-80.264016,25.809157],
+  "bbox": [
+    -80.264016,
+    25.809157,
+    -80.264016,
+    25.809157
+],
   "geometry": {"coordinates":[-80.264016,25.809157],"type":"Point"}
 }

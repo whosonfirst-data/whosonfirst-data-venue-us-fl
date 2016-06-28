@@ -2,13 +2,14 @@
   "id": 270319863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.50826,28.435836,-81.50826,28.435836",
     "geom:latitude":28.435836,
     "geom:longitude":-81.50826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8975 Grey Hawk Pt",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270319863,
-    "wof:lastmodified":1449009640,
+    "wof:lastmodified":1466434928,
     "wof:name":"CVT Svc",
     "wof:parent_id":85889275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.50826,28.435836,-81.50826,28.435836],
-  "geometry": {"coordinates":[-81.50826,28.435836],"type":"Point"}
+  "bbox": [
+    -81.50826,
+    28.435836,
+    -81.50826,
+    28.435836
+],
+  "geometry": {"coordinates":[-81.50826000000001,28.435836],"type":"Point"}
 }

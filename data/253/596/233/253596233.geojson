@@ -2,13 +2,14 @@
   "id": 253596233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.243052,29.26725,-82.243052,29.26725",
     "geom:latitude":29.26725,
     "geom:longitude":-82.243052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7275 W Hwy 326",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253596233,
-    "wof:lastmodified":1449064341,
+    "wof:lastmodified":1466437346,
     "wof:name":"AMG Broker Inc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.243052,29.26725,-82.243052,29.26725],
-  "geometry": {"coordinates":[-82.243052,29.26725],"type":"Point"}
+  "bbox": [
+    -82.243052,
+    29.26725,
+    -82.243052,
+    29.26725
+],
+  "geometry": {"coordinates":[-82.24305200000001,29.26725],"type":"Point"}
 }

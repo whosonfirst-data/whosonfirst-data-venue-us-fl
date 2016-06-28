@@ -2,13 +2,14 @@
   "id": 370236835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.332259,29.636411,-82.332259,29.636411",
     "geom:latitude":29.636411,
     "geom:longitude":-82.332259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 SW 16 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370236835,
-    "wof:lastmodified":1449029449,
+    "wof:lastmodified":1466437800,
     "wof:name":"Vyverberg Inc",
     "wof:parent_id":85828547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.332259,29.636411,-82.332259,29.636411],
-  "geometry": {"coordinates":[-82.332259,29.636411],"type":"Point"}
+  "bbox": [
+    -82.332259,
+    29.636411,
+    -82.332259,
+    29.636411
+],
+  "geometry": {"coordinates":[-82.33225899999999,29.636411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303453417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.520103,27.326987,-82.520103,27.326987",
     "geom:latitude":27.326987,
     "geom:longitude":-82.520103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2415 Browning St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303453417,
-    "wof:lastmodified":1448999956,
+    "wof:lastmodified":1466438356,
     "wof:name":"Richard Macdonald",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-82.520103,27.326987,-82.520103,27.326987],
-  "geometry": {"coordinates":[-82.520103,27.326987],"type":"Point"}
+  "bbox": [
+    -82.520103,
+    27.326987,
+    -82.520103,
+    27.326987
+],
+  "geometry": {"coordinates":[-82.52010300000001,27.326987],"type":"Point"}
 }

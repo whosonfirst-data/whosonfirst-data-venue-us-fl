@@ -2,13 +2,14 @@
   "id": 370167121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.311833,29.895063,-81.311833,29.895063",
     "geom:latitude":29.895063,
     "geom:longitude":-81.311833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Charlotte St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370167121,
-    "wof:lastmodified":1449030844,
+    "wof:lastmodified":1466436708,
     "wof:name":"Manorca Miami Inc Import",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.311833,29.895063,-81.311833,29.895063],
-  "geometry": {"coordinates":[-81.311833,29.895063],"type":"Point"}
+  "bbox": [
+    -81.311833,
+    29.895063,
+    -81.311833,
+    29.895063
+],
+  "geometry": {"coordinates":[-81.31183299999999,29.895063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303396001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.230809,28.292299,-81.230809,28.292299",
     "geom:latitude":28.292299,
     "geom:longitude":-81.230809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 Countryside Ct",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303396001,
-    "wof:lastmodified":1448999723,
+    "wof:lastmodified":1466437356,
     "wof:name":"BBC Worldwide Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "digital"
     ]
 },
-  "bbox": [-81.230809,28.292299,-81.230809,28.292299],
-  "geometry": {"coordinates":[-81.230809,28.292299],"type":"Point"}
+  "bbox": [
+    -81.230809,
+    28.292299,
+    -81.230809,
+    28.292299
+],
+  "geometry": {"coordinates":[-81.23080899999999,28.292299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303343877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.53843,27.329182,-82.53843,27.329182",
     "geom:latitude":27.329182,
     "geom:longitude":-82.53843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 S Orange Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303343877,
-    "wof:lastmodified":1448999854,
+    "wof:lastmodified":1466436465,
     "wof:name":"Cadstruct",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.53843,27.329182,-82.53843,27.329182],
-  "geometry": {"coordinates":[-82.53843,27.329182],"type":"Point"}
+  "bbox": [
+    -82.53843,
+    27.329182,
+    -82.53843,
+    27.329182
+],
+  "geometry": {"coordinates":[-82.53843000000001,27.329182],"type":"Point"}
 }

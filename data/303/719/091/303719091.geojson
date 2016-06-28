@@ -2,13 +2,14 @@
   "id": 303719091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.469288,30.523472,-86.469288,30.523472",
     "geom:latitude":30.523472,
     "geom:longitude":-86.469288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Honeysuckle Way",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303719091,
-    "wof:lastmodified":1448998434,
+    "wof:lastmodified":1466442948,
     "wof:name":"B & B Outdoors Svc",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.469288,30.523472,-86.469288,30.523472],
-  "geometry": {"coordinates":[-86.469288,30.523472],"type":"Point"}
+  "bbox": [
+    -86.469288,
+    30.523472,
+    -86.469288,
+    30.523472
+],
+  "geometry": {"coordinates":[-86.46928800000001,30.523472],"type":"Point"}
 }

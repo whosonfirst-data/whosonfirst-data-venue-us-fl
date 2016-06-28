@@ -2,13 +2,14 @@
   "id": 370562575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.202267,28.410954,-81.202267,28.410954",
     "geom:latitude":28.410954,
     "geom:longitude":-81.202267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11221 John Wycliffe Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370562575,
-    "wof:lastmodified":1449030868,
+    "wof:lastmodified":1466442811,
     "wof:name":"Wordspring Discovery Ctr",
     "wof:parent_id":85889343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.202267,28.410954,-81.202267,28.410954],
-  "geometry": {"coordinates":[-81.202267,28.410954],"type":"Point"}
+  "bbox": [
+    -81.202267,
+    28.410954,
+    -81.202267,
+    28.410954
+],
+  "geometry": {"coordinates":[-81.20226700000001,28.410954],"type":"Point"}
 }

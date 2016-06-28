@@ -2,13 +2,14 @@
   "id": 202929033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.306851,30.392529,-86.306851,30.392529",
     "geom:latitude":30.392529,
     "geom:longitude":-86.306851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Jo-Katherine Ln",
     "sg:city":"Santa Rosa Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202929033,
-    "wof:lastmodified":1449061085,
+    "wof:lastmodified":1466433990,
     "wof:name":"Destin Locksmithing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-86.306851,30.392529,-86.306851,30.392529],
-  "geometry": {"coordinates":[-86.306851,30.392529],"type":"Point"}
+  "bbox": [
+    -86.306851,
+    30.392529,
+    -86.306851,
+    30.392529
+],
+  "geometry": {"coordinates":[-86.30685099999999,30.392529],"type":"Point"}
 }

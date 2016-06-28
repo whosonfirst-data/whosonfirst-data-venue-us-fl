@@ -2,13 +2,14 @@
   "id": 203416111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445016,27.318703,-82.445016,27.318703",
     "geom:latitude":27.318703,
     "geom:longitude":-82.445016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 Barber Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203416111,
-    "wof:lastmodified":1449025765,
+    "wof:lastmodified":1466431650,
     "wof:name":"Light Technologies Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.445016,27.318703,-82.445016,27.318703],
+  "bbox": [
+    -82.445016,
+    27.318703,
+    -82.445016,
+    27.318703
+],
   "geometry": {"coordinates":[-82.445016,27.318703],"type":"Point"}
 }

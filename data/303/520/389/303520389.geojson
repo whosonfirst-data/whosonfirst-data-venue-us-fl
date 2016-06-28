@@ -2,13 +2,14 @@
   "id": 303520389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.74836,28.046187,-81.74836,28.046187",
     "geom:latitude":28.046187,
     "geom:longitude":-81.74836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Havendale Blvd NW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303520389,
-    "wof:lastmodified":1448998924,
+    "wof:lastmodified":1466439514,
     "wof:name":"Keith McDowell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.74836,28.046187,-81.74836,28.046187],
-  "geometry": {"coordinates":[-81.74836,28.046187],"type":"Point"}
+  "bbox": [
+    -81.74836,
+    28.046187,
+    -81.74836,
+    28.046187
+],
+  "geometry": {"coordinates":[-81.74836000000001,28.046187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303532801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264951,26.278491,-80.264951,26.278491",
     "geom:latitude":26.278491,
     "geom:longitude":-80.264951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 NW 39th Pl",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303532801,
-    "wof:lastmodified":1448998939,
+    "wof:lastmodified":1466439721,
     "wof:name":"William Talmage",
     "wof:parent_id":85876873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.264951,26.278491,-80.264951,26.278491],
+  "bbox": [
+    -80.264951,
+    26.278491,
+    -80.264951,
+    26.278491
+],
   "geometry": {"coordinates":[-80.264951,26.278491],"type":"Point"}
 }

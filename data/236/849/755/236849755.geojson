@@ -2,13 +2,14 @@
   "id": 236849755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157368,26.117952,-80.157368,26.117952",
     "geom:latitude":26.117952,
     "geom:longitude":-80.157368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Seminole Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236849755,
-    "wof:lastmodified":1449002132,
+    "wof:lastmodified":1466440521,
     "wof:name":"Sun-Sentinel",
     "wof:parent_id":85877521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-80.157368,26.117952,-80.157368,26.117952],
-  "geometry": {"coordinates":[-80.157368,26.117952],"type":"Point"}
+  "bbox": [
+    -80.157368,
+    26.117952,
+    -80.157368,
+    26.117952
+],
+  "geometry": {"coordinates":[-80.15736800000001,26.117952],"type":"Point"}
 }

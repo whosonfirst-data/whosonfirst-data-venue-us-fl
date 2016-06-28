@@ -2,13 +2,14 @@
   "id": 320570189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.353868,30.233082,-84.353868,30.233082",
     "geom:latitude":30.233082,
     "geom:longitude":-84.353868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Lonnie Raker Ln",
     "sg:city":"Crawfordville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320570189,
-    "wof:lastmodified":1449013473,
+    "wof:lastmodified":1466443275,
     "wof:name":"Raker Realty",
     "wof:parent_id":85842795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.353868,30.233082,-84.353868,30.233082],
-  "geometry": {"coordinates":[-84.353868,30.233082],"type":"Point"}
+  "bbox": [
+    -84.353868,
+    30.233082,
+    -84.353868,
+    30.233082
+],
+  "geometry": {"coordinates":[-84.35386800000001,30.233082],"type":"Point"}
 }

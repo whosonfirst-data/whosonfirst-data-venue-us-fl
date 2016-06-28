@@ -2,13 +2,14 @@
   "id": 303456035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.649703,30.245705,-85.649703,30.245705",
     "geom:latitude":30.245705,
     "geom:longitude":-85.649703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 Florida Ave",
     "sg:city":"Lynn Haven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303456035,
-    "wof:lastmodified":1448998841,
+    "wof:lastmodified":1466438406,
     "wof:name":"A Country Store",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-85.649703,30.245705,-85.649703,30.245705],
+  "bbox": [
+    -85.649703,
+    30.245705,
+    -85.649703,
+    30.245705
+],
   "geometry": {"coordinates":[-85.649703,30.245705],"type":"Point"}
 }

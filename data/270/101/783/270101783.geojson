@@ -2,13 +2,14 @@
   "id": 270101783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.611078,28.329605,-80.611078,28.329605",
     "geom:latitude":28.329605,
     "geom:longitude":-80.611078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Cocoa Isles Blvd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270101783,
-    "wof:lastmodified":1449009932,
+    "wof:lastmodified":1466431181,
     "wof:name":"Computer Sciences Corporation",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.611078,28.329605,-80.611078,28.329605],
-  "geometry": {"coordinates":[-80.611078,28.329605],"type":"Point"}
+  "bbox": [
+    -80.611078,
+    28.329605,
+    -80.611078,
+    28.329605
+],
+  "geometry": {"coordinates":[-80.61107800000001,28.329605],"type":"Point"}
 }

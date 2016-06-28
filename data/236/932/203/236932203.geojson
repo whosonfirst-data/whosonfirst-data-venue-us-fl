@@ -2,13 +2,14 @@
   "id": 236932203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.152293,26.291109,-80.152293,26.291109",
     "geom:latitude":26.291109,
     "geom:longitude":-80.152293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 S Powerline Rd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236932203,
-    "wof:lastmodified":1449002766,
+    "wof:lastmodified":1466441672,
     "wof:name":"Inrecon",
     "wof:parent_id":85806695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.152293,26.291109,-80.152293,26.291109],
+  "bbox": [
+    -80.152293,
+    26.291109,
+    -80.152293,
+    26.291109
+],
   "geometry": {"coordinates":[-80.152293,26.291109],"type":"Point"}
 }

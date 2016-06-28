@@ -2,13 +2,14 @@
   "id": 387191549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.787371,30.10279,-81.787371,30.10279",
     "geom:latitude":30.10279,
     "geom:longitude":-81.787371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 Co Rd 220",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387191549,
-    "wof:lastmodified":1449058409,
+    "wof:lastmodified":1466441659,
     "wof:name":"Safe Animal Shelter",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-81.787371,30.10279,-81.787371,30.10279],
-  "geometry": {"coordinates":[-81.787371,30.10279],"type":"Point"}
+  "bbox": [
+    -81.787371,
+    30.10279,
+    -81.787371,
+    30.10279
+],
+  "geometry": {"coordinates":[-81.78737099999999,30.10279],"type":"Point"}
 }

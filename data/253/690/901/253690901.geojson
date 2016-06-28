@@ -2,13 +2,14 @@
   "id": 253690901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34785,25.620115,-80.34785,25.620115",
     "geom:latitude":25.620115,
     "geom:longitude":-80.34785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9507 SW 160th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253690901,
-    "wof:lastmodified":1449064387,
+    "wof:lastmodified":1466439003,
     "wof:name":"JBH Medical Equipment",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.34785,25.620115,-80.34785,25.620115],
-  "geometry": {"coordinates":[-80.34785,25.620115],"type":"Point"}
+  "bbox": [
+    -80.34785,
+    25.620115,
+    -80.34785,
+    25.620115
+],
+  "geometry": {"coordinates":[-80.34784999999999,25.620115],"type":"Point"}
 }

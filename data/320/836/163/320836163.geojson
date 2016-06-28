@@ -2,13 +2,14 @@
   "id": 320836163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.798238,30.236298,-81.798238,30.236298",
     "geom:latitude":30.236298,
     "geom:longitude":-81.798238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6116 Shindler Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320836163,
-    "wof:lastmodified":1449013741,
+    "wof:lastmodified":1466447423,
     "wof:name":"John Pettus Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-81.798238,30.236298,-81.798238,30.236298],
+  "bbox": [
+    -81.798238,
+    30.236298,
+    -81.798238,
+    30.236298
+],
   "geometry": {"coordinates":[-81.798238,30.236298],"type":"Point"}
 }

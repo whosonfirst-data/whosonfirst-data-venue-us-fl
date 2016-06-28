@@ -2,13 +2,14 @@
   "id": 286332635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.238841,30.428249,-84.238841,30.428249",
     "geom:latitude":30.428249,
     "geom:longitude":-84.238841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286332635,
-    "wof:lastmodified":1449016816,
+    "wof:lastmodified":1466430887,
     "wof:name":"Employers Advocate",
     "wof:parent_id":85881349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.238841,30.428249,-84.238841,30.428249],
-  "geometry": {"coordinates":[-84.238841,30.428249],"type":"Point"}
+  "bbox": [
+    -84.238841,
+    30.428249,
+    -84.238841,
+    30.428249
+],
+  "geometry": {"coordinates":[-84.23884099999999,30.428249],"type":"Point"}
 }

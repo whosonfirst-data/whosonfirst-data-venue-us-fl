@@ -2,13 +2,14 @@
   "id": 269674869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.457006,27.478673,-82.457006,27.478673",
     "geom:latitude":27.478673,
     "geom:longitude":-82.457006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Lena Rd",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269674869,
-    "wof:lastmodified":1449038143,
+    "wof:lastmodified":1466431916,
     "wof:name":"Public Works Dept-Solid Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-82.457006,27.478673,-82.457006,27.478673],
-  "geometry": {"coordinates":[-82.457006,27.478673],"type":"Point"}
+  "bbox": [
+    -82.457006,
+    27.478673,
+    -82.457006,
+    27.478673
+],
+  "geometry": {"coordinates":[-82.45700600000001,27.478673],"type":"Point"}
 }

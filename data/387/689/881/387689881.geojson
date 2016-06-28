@@ -2,13 +2,14 @@
   "id": 387689881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.030954,29.256128,-81.030954,29.256128",
     "geom:latitude":29.256128,
     "geom:longitude":-81.030954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 N Halifax Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387689881,
-    "wof:lastmodified":1449059282,
+    "wof:lastmodified":1466448009,
     "wof:name":"Beacon By The Sea",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.030954,29.256128,-81.030954,29.256128],
-  "geometry": {"coordinates":[-81.030954,29.256128],"type":"Point"}
+  "bbox": [
+    -81.030954,
+    29.256128,
+    -81.030954,
+    29.256128
+],
+  "geometry": {"coordinates":[-81.03095399999999,29.256128],"type":"Point"}
 }

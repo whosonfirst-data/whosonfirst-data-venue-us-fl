@@ -2,13 +2,14 @@
   "id": 304070023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.746301,26.105572,-81.746301,26.105572",
     "geom:latitude":26.105572,
     "geom:longitude":-81.746301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5175 Tamiami Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304070023,
-    "wof:lastmodified":1449043838,
+    "wof:lastmodified":1466433047,
     "wof:name":"Heron House Of Naples",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "residential"
     ]
 },
-  "bbox": [-81.746301,26.105572,-81.746301,26.105572],
+  "bbox": [
+    -81.746301,
+    26.105572,
+    -81.746301,
+    26.105572
+],
   "geometry": {"coordinates":[-81.746301,26.105572],"type":"Point"}
 }

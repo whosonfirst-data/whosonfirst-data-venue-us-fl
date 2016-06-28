@@ -2,13 +2,14 @@
   "id": 303810109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.600606,30.442624,-86.600606,30.442624",
     "geom:latitude":30.442624,
     "geom:longitude":-86.600606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303810109,
-    "wof:lastmodified":1448998823,
+    "wof:lastmodified":1466444482,
     "wof:name":"Calvary Chapel Emerald Coast",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.600606,30.442624,-86.600606,30.442624],
+  "bbox": [
+    -86.600606,
+    30.442624,
+    -86.600606,
+    30.442624
+],
   "geometry": {"coordinates":[-86.600606,30.442624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270013499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09798,26.279443,-80.09798,26.279443",
     "geom:latitude":26.279443,
     "geom:longitude":-80.09798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 NE 19th Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270013499,
-    "wof:lastmodified":1449010319,
+    "wof:lastmodified":1466429683,
     "wof:name":"Jeffrey Dietz Custom Pools",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.09798,26.279443,-80.09798,26.279443],
-  "geometry": {"coordinates":[-80.09798,26.279443],"type":"Point"}
+  "bbox": [
+    -80.09798,
+    26.279443,
+    -80.09798,
+    26.279443
+],
+  "geometry": {"coordinates":[-80.09798000000001,26.279443],"type":"Point"}
 }

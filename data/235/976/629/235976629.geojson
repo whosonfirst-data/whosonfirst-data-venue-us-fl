@@ -2,13 +2,14 @@
   "id": 235976629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245511,25.795085,-80.245511,25.795085",
     "geom:latitude":25.795085,
     "geom:longitude":-80.245511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 NW South River Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235976629,
-    "wof:lastmodified":1449008398,
+    "wof:lastmodified":1466429050,
     "wof:name":"Bojean Boat Yard",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.245511,25.795085,-80.245511,25.795085],
-  "geometry": {"coordinates":[-80.245511,25.795085],"type":"Point"}
+  "bbox": [
+    -80.245511,
+    25.795085,
+    -80.245511,
+    25.795085
+],
+  "geometry": {"coordinates":[-80.24551099999999,25.795085],"type":"Point"}
 }

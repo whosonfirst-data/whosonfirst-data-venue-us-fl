@@ -2,13 +2,14 @@
   "id": 169591101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.790413,28.869459,-81.790413,28.869459",
     "geom:latitude":28.869459,
     "geom:longitude":-81.790413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 Co Rd 44",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169591101,
-    "wof:lastmodified":1449034451,
+    "wof:lastmodified":1466428413,
     "wof:name":"TRM Corp",
     "wof:parent_id":85889119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.790413,28.869459,-81.790413,28.869459],
+  "bbox": [
+    -81.790413,
+    28.869459,
+    -81.790413,
+    28.869459
+],
   "geometry": {"coordinates":[-81.790413,28.869459],"type":"Point"}
 }

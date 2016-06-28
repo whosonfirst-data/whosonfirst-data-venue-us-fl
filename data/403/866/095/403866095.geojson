@@ -2,13 +2,14 @@
   "id": 403866095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380801,28.508556,-81.380801,28.508556",
     "geom:latitude":28.508556,
     "geom:longitude":-81.380801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3090 Caruso Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403866095,
-    "wof:lastmodified":1449055262,
+    "wof:lastmodified":1466442199,
     "wof:name":"Patient Accounting/Billing Que",
     "wof:parent_id":85889383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-81.380801,28.508556,-81.380801,28.508556],
-  "geometry": {"coordinates":[-81.380801,28.508556],"type":"Point"}
+  "bbox": [
+    -81.380801,
+    28.508556,
+    -81.380801,
+    28.508556
+],
+  "geometry": {"coordinates":[-81.38080100000001,28.508556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287139317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.538296,28.677361,-81.538296,28.677361",
     "geom:latitude":28.677361,
     "geom:longitude":-81.538296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Lake Doe Blvd",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287139317,
-    "wof:lastmodified":1449000733,
+    "wof:lastmodified":1466432290,
     "wof:name":"Pet Sitter",
     "wof:parent_id":85888541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-81.538296,28.677361,-81.538296,28.677361],
+  "bbox": [
+    -81.538296,
+    28.677361,
+    -81.538296,
+    28.677361
+],
   "geometry": {"coordinates":[-81.538296,28.677361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186328659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587432,30.347099,-81.587432,30.347099",
     "geom:latitude":30.347099,
     "geom:longitude":-81.587432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2334 Ligustrum Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186328659,
-    "wof:lastmodified":1449051944,
+    "wof:lastmodified":1466430641,
     "wof:name":"George Savitz Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.587432,30.347099,-81.587432,30.347099],
-  "geometry": {"coordinates":[-81.587432,30.347099],"type":"Point"}
+  "bbox": [
+    -81.587432,
+    30.347099,
+    -81.587432,
+    30.347099
+],
+  "geometry": {"coordinates":[-81.58743200000001,30.347099],"type":"Point"}
 }

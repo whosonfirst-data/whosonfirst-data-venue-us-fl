@@ -2,13 +2,14 @@
   "id": 370456685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.942327,26.581431,-81.942327,26.581431",
     "geom:latitude":26.581431,
     "geom:longitude":-81.942327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 del Prado Blvd S",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370456685,
-    "wof:lastmodified":1449030113,
+    "wof:lastmodified":1466441193,
     "wof:name":"Southern Community Homes",
     "wof:parent_id":85888819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.942327,26.581431,-81.942327,26.581431],
-  "geometry": {"coordinates":[-81.942327,26.581431],"type":"Point"}
+  "bbox": [
+    -81.942327,
+    26.581431,
+    -81.942327,
+    26.581431
+],
+  "geometry": {"coordinates":[-81.94232700000001,26.581431],"type":"Point"}
 }

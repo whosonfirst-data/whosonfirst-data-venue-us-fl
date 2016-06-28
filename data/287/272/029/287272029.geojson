@@ -2,13 +2,14 @@
   "id": 287272029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956313,28.015097,-81.956313,28.015097",
     "geom:latitude":28.015097,
     "geom:longitude":-81.956313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Allamanda Dr",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287272029,
-    "wof:lastmodified":1449001528,
+    "wof:lastmodified":1466434613,
     "wof:name":"Body WORX",
     "wof:parent_id":85889085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-81.956313,28.015097,-81.956313,28.015097],
-  "geometry": {"coordinates":[-81.956313,28.015097],"type":"Point"}
+  "bbox": [
+    -81.956313,
+    28.015097,
+    -81.956313,
+    28.015097
+],
+  "geometry": {"coordinates":[-81.95631299999999,28.015097],"type":"Point"}
 }

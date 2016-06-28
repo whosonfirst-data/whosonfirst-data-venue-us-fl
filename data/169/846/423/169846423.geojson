@@ -2,13 +2,14 @@
   "id": 169846423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337269,25.769579,-80.337269,25.769579",
     "geom:latitude":25.769579,
     "geom:longitude":-80.337269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169846423,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466429525,
     "wof:name":"Global Fx Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "banking"
     ]
 },
-  "bbox": [-80.337269,25.769579,-80.337269,25.769579],
-  "geometry": {"coordinates":[-80.337269,25.769579],"type":"Point"}
+  "bbox": [
+    -80.337269,
+    25.769579,
+    -80.337269,
+    25.769579
+],
+  "geometry": {"coordinates":[-80.33726900000001,25.769579],"type":"Point"}
 }

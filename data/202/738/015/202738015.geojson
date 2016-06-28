@@ -2,13 +2,14 @@
   "id": 202738015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.849632,26.617504,-81.849632,26.617504",
     "geom:latitude":26.617504,
     "geom:longitude":-81.849632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3089 Kennesaw St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202738015,
-    "wof:lastmodified":1449061951,
+    "wof:lastmodified":1466431470,
     "wof:name":"Rough Carpenters Corp",
     "wof:parent_id":85888803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-81.849632,26.617504,-81.849632,26.617504],
+  "bbox": [
+    -81.849632,
+    26.617504,
+    -81.849632,
+    26.617504
+],
   "geometry": {"coordinates":[-81.849632,26.617504],"type":"Point"}
 }

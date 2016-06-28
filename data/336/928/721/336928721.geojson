@@ -2,13 +2,14 @@
   "id": 336928721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.605445,30.4306,-86.605445,30.4306",
     "geom:latitude":30.4306,
     "geom:longitude":-86.605445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Eglin Pkwy",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336928721,
-    "wof:lastmodified":1448997876,
+    "wof:lastmodified":1466440659,
     "wof:name":"West Marine Inc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-86.605445,30.4306,-86.605445,30.4306],
+  "bbox": [
+    -86.605445,
+    30.4306,
+    -86.605445,
+    30.4306
+],
   "geometry": {"coordinates":[-86.605445,30.4306],"type":"Point"}
 }

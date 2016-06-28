@@ -2,13 +2,14 @@
   "id": 286765017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243569,25.792226,-80.243569,25.792226",
     "geom:latitude":25.792226,
     "geom:longitude":-80.243569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Delaware Pkwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286765017,
-    "wof:lastmodified":1449016889,
+    "wof:lastmodified":1466438518,
     "wof:name":"Delaware Plaza Apartments",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.243569,25.792226,-80.243569,25.792226],
-  "geometry": {"coordinates":[-80.243569,25.792226],"type":"Point"}
+  "bbox": [
+    -80.243569,
+    25.792226,
+    -80.243569,
+    25.792226
+],
+  "geometry": {"coordinates":[-80.24356899999999,25.792226],"type":"Point"}
 }

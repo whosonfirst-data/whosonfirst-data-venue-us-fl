@@ -2,13 +2,14 @@
   "id": 235946897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.726947,30.336419,-81.726947,30.336419",
     "geom:latitude":30.336419,
     "geom:longitude":-81.726947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Commonwealth Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235946897,
-    "wof:lastmodified":1449008572,
+    "wof:lastmodified":1466428621,
     "wof:name":"Some Place Else",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-81.726947,30.336419,-81.726947,30.336419],
+  "bbox": [
+    -81.726947,
+    30.336419,
+    -81.726947,
+    30.336419
+],
   "geometry": {"coordinates":[-81.726947,30.336419],"type":"Point"}
 }

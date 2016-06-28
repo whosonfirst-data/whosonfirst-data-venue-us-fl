@@ -2,13 +2,14 @@
   "id": 304045589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.04385,29.211018,-81.04385,29.211018",
     "geom:latitude":29.211018,
     "geom:longitude":-81.04385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 N Nova Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304045589,
-    "wof:lastmodified":1449044093,
+    "wof:lastmodified":1466432608,
     "wof:name":"Second Blessings Resale Btq",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.04385,29.211018,-81.04385,29.211018],
-  "geometry": {"coordinates":[-81.04385,29.211018],"type":"Point"}
+  "bbox": [
+    -81.04385,
+    29.211018,
+    -81.04385,
+    29.211018
+],
+  "geometry": {"coordinates":[-81.04385000000001,29.211018],"type":"Point"}
 }

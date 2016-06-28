@@ -2,13 +2,14 @@
   "id": 269750121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.516709,27.631464,-81.516709,27.631464",
     "geom:latitude":27.631464,
     "geom:longitude":-81.516709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 US Hwy 27",
     "sg:city":"Avon Park",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269750121,
-    "wof:lastmodified":1449037610,
+    "wof:lastmodified":1466433213,
     "wof:name":"Central Florida Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "business"
     ]
 },
-  "bbox": [-81.516709,27.631464,-81.516709,27.631464],
-  "geometry": {"coordinates":[-81.516709,27.631464],"type":"Point"}
+  "bbox": [
+    -81.516709,
+    27.631464,
+    -81.516709,
+    27.631464
+],
+  "geometry": {"coordinates":[-81.51670900000001,27.631464],"type":"Point"}
 }

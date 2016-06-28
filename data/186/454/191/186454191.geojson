@@ -2,13 +2,14 @@
   "id": 186454191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.150512,26.207549,-80.150512,26.207549",
     "geom:latitude":26.207549,
     "geom:longitude":-80.150512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 NW 65th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186454191,
-    "wof:lastmodified":1449052770,
+    "wof:lastmodified":1466432221,
     "wof:name":"Stryker Orthopaedics",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.150512,26.207549,-80.150512,26.207549],
-  "geometry": {"coordinates":[-80.150512,26.207549],"type":"Point"}
+  "bbox": [
+    -80.150512,
+    26.207549,
+    -80.150512,
+    26.207549
+],
+  "geometry": {"coordinates":[-80.15051200000001,26.207549],"type":"Point"}
 }

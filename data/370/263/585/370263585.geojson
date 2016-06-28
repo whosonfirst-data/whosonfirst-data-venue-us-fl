@@ -2,13 +2,14 @@
   "id": 370263585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.554576,28.807902,-81.554576,28.807902",
     "geom:latitude":28.807902,
     "geom:longitude":-81.554576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24329 State Hwy 46",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370263585,
-    "wof:lastmodified":1449032374,
+    "wof:lastmodified":1466438218,
     "wof:name":"Wilkinson Auction & Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-81.554576,28.807902,-81.554576,28.807902],
+  "bbox": [
+    -81.554576,
+    28.807902,
+    -81.554576,
+    28.807902
+],
   "geometry": {"coordinates":[-81.554576,28.807902],"type":"Point"}
 }

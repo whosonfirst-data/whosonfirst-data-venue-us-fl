@@ -2,13 +2,14 @@
   "id": 303568025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.079445,26.335161,-80.079445,26.335161",
     "geom:latitude":26.335161,
     "geom:longitude":-80.079445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Royal Palm Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303568025,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466440318,
     "wof:name":"Van Amburgh Associates Inc",
     "wof:parent_id":85830923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-80.079445,26.335161,-80.079445,26.335161],
-  "geometry": {"coordinates":[-80.079445,26.335161],"type":"Point"}
+  "bbox": [
+    -80.079445,
+    26.335161,
+    -80.079445,
+    26.335161
+],
+  "geometry": {"coordinates":[-80.07944500000001,26.335161],"type":"Point"}
 }

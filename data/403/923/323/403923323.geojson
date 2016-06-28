@@ -2,13 +2,14 @@
   "id": 403923323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625165,30.126464,-81.625165,30.126464",
     "geom:latitude":30.126464,
     "geom:longitude":-81.625165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 State Hwy 13",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403923323,
-    "wof:lastmodified":1449055901,
+    "wof:lastmodified":1466443092,
     "wof:name":"Smokers Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-81.625165,30.126464,-81.625165,30.126464],
+  "bbox": [
+    -81.625165,
+    30.126464,
+    -81.625165,
+    30.126464
+],
   "geometry": {"coordinates":[-81.625165,30.126464],"type":"Point"}
 }

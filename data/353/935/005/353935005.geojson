@@ -2,13 +2,14 @@
   "id": 353935005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.232537,26.353828,-80.232537,26.353828",
     "geom:latitude":26.353828,
     "geom:longitude":-80.232537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11808 Greystone Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353935005,
-    "wof:lastmodified":1449020374,
+    "wof:lastmodified":1466442998,
     "wof:name":"Computer Murray",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.232537,26.353828,-80.232537,26.353828],
-  "geometry": {"coordinates":[-80.232537,26.353828],"type":"Point"}
+  "bbox": [
+    -80.232537,
+    26.353828,
+    -80.232537,
+    26.353828
+],
+  "geometry": {"coordinates":[-80.23253699999999,26.353828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370780459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.623258,30.189227,-82.623258,30.189227",
     "geom:latitude":30.189227,
     "geom:longitude":-82.623258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 E Duval St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370780459,
-    "wof:lastmodified":1449031628,
+    "wof:lastmodified":1466446157,
     "wof:name":"Second Wind Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-82.623258,30.189227,-82.623258,30.189227],
-  "geometry": {"coordinates":[-82.623258,30.189227],"type":"Point"}
+  "bbox": [
+    -82.623258,
+    30.189227,
+    -82.623258,
+    30.189227
+],
+  "geometry": {"coordinates":[-82.62325800000001,30.189227],"type":"Point"}
 }

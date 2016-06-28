@@ -2,13 +2,14 @@
   "id": 219726255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109641,26.346391,-80.109641,26.346391",
     "geom:latitude":26.346391,
     "geom:longitude":-80.109641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 SW 3rd St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219726255,
-    "wof:lastmodified":1449072805,
+    "wof:lastmodified":1466434445,
     "wof:name":"Special Needs Svc",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-80.109641,26.346391,-80.109641,26.346391],
+  "bbox": [
+    -80.109641,
+    26.346391,
+    -80.109641,
+    26.346391
+],
   "geometry": {"coordinates":[-80.109641,26.346391],"type":"Point"}
 }

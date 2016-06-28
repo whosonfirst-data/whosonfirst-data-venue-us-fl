@@ -2,13 +2,14 @@
   "id": 270505599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.736887,28.757723,-81.736887,28.757723",
     "geom:latitude":28.757723,
     "geom:longitude":-81.736887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28127 Co Rd 561",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270505599,
-    "wof:lastmodified":1449010675,
+    "wof:lastmodified":1466438118,
     "wof:name":"Traffic Operations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "signal"
     ]
 },
-  "bbox": [-81.736887,28.757723,-81.736887,28.757723],
+  "bbox": [
+    -81.736887,
+    28.757723,
+    -81.736887,
+    28.757723
+],
   "geometry": {"coordinates":[-81.736887,28.757723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185982187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.48153,30.361843,-81.48153,30.361843",
     "geom:latitude":30.361843,
     "geom:longitude":-81.48153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13808 Spanish Point Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185982187,
-    "wof:lastmodified":1449006887,
+    "wof:lastmodified":1466430875,
     "wof:name":"Bryan Curren",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.48153,30.361843,-81.48153,30.361843],
-  "geometry": {"coordinates":[-81.48153,30.361843],"type":"Point"}
+  "bbox": [
+    -81.48153,
+    30.361843,
+    -81.48153,
+    30.361843
+],
+  "geometry": {"coordinates":[-81.48153000000001,30.361843],"type":"Point"}
 }

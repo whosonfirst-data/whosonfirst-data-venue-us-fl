@@ -2,13 +2,14 @@
   "id": 186475853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.849655,26.569179,-81.849655,26.569179",
     "geom:latitude":26.569179,
     "geom:longitude":-81.849655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6260 Topaz Ct",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186475853,
-    "wof:lastmodified":1449051490,
+    "wof:lastmodified":1466432506,
     "wof:name":"Interstate Battery System",
     "wof:parent_id":85888789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-81.849655,26.569179,-81.849655,26.569179],
+  "bbox": [
+    -81.849655,
+    26.569179,
+    -81.849655,
+    26.569179
+],
   "geometry": {"coordinates":[-81.849655,26.569179],"type":"Point"}
 }

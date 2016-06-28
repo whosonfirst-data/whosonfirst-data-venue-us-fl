@@ -2,13 +2,14 @@
   "id": 303658103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.208705,26.246301,-80.208705,26.246301",
     "geom:latitude":26.246301,
     "geom:longitude":-80.208705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6240 NW 15th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303658103,
-    "wof:lastmodified":1448998061,
+    "wof:lastmodified":1466441842,
     "wof:name":"Interior Trim Carpentry",
     "wof:parent_id":85823731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.208705,26.246301,-80.208705,26.246301],
-  "geometry": {"coordinates":[-80.208705,26.246301],"type":"Point"}
+  "bbox": [
+    -80.208705,
+    26.246301,
+    -80.208705,
+    26.246301
+],
+  "geometry": {"coordinates":[-80.20870499999999,26.246301],"type":"Point"}
 }

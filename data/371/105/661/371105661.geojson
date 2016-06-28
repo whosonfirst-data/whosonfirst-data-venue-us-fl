@@ -2,13 +2,14 @@
   "id": 371105661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.312975,29.665506,-82.312975,29.665506",
     "geom:latitude":29.665506,
     "geom:longitude":-82.312975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 NE 15th Pl",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371105661,
-    "wof:lastmodified":1449049419,
+    "wof:lastmodified":1466439177,
     "wof:name":"Wink",
     "wof:parent_id":85877615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.312975,29.665506,-82.312975,29.665506],
-  "geometry": {"coordinates":[-82.312975,29.665506],"type":"Point"}
+  "bbox": [
+    -82.312975,
+    29.665506,
+    -82.312975,
+    29.665506
+],
+  "geometry": {"coordinates":[-82.31297499999999,29.665506],"type":"Point"}
 }

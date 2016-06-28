@@ -2,13 +2,14 @@
   "id": 370970985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209425,26.709335,-80.209425,26.709335",
     "geom:latitude":26.709335,
     "geom:longitude":-80.209425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11490 Okeechobee Blvd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370970985,
-    "wof:lastmodified":1449032409,
+    "wof:lastmodified":1466447927,
     "wof:name":"Royal Sewing Ctr",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-80.209425,26.709335,-80.209425,26.709335],
+  "bbox": [
+    -80.209425,
+    26.709335,
+    -80.209425,
+    26.709335
+],
   "geometry": {"coordinates":[-80.209425,26.709335],"type":"Point"}
 }

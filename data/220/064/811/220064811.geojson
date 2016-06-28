@@ -2,13 +2,14 @@
   "id": 220064811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.524201,30.182131,-81.524201,30.182131",
     "geom:latitude":30.182131,
     "geom:longitude":-81.524201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11135 Chester Lake Rd E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220064811,
-    "wof:lastmodified":1449074306,
+    "wof:lastmodified":1466445141,
     "wof:name":"Sanfilippo Holdings Inc",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-81.524201,30.182131,-81.524201,30.182131],
-  "geometry": {"coordinates":[-81.524201,30.182131],"type":"Point"}
+  "bbox": [
+    -81.524201,
+    30.182131,
+    -81.524201,
+    30.182131
+],
+  "geometry": {"coordinates":[-81.52420100000001,30.182131],"type":"Point"}
 }

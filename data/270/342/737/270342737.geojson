@@ -2,13 +2,14 @@
   "id": 270342737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.358298,26.029604,-80.358298,26.029604",
     "geom:latitude":26.029604,
     "geom:longitude":-80.358298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15751 Sheridan St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270342737,
-    "wof:lastmodified":1449010933,
+    "wof:lastmodified":1466435333,
     "wof:name":"Unicare",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-80.358298,26.029604,-80.358298,26.029604],
+  "bbox": [
+    -80.358298,
+    26.029604,
+    -80.358298,
+    26.029604
+],
   "geometry": {"coordinates":[-80.358298,26.029604],"type":"Point"}
 }

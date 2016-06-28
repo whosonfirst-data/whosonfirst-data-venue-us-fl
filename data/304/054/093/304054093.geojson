@@ -2,13 +2,14 @@
   "id": 304054093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.395333,30.247361,-81.395333,30.247361",
     "geom:latitude":30.247361,
     "geom:longitude":-81.395333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Sea Hawk Cir",
     "sg:city":"Ponte Vedra Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304054093,
-    "wof:lastmodified":1449043810,
+    "wof:lastmodified":1466432758,
     "wof:name":"Susa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.395333,30.247361,-81.395333,30.247361],
-  "geometry": {"coordinates":[-81.395333,30.247361],"type":"Point"}
+  "bbox": [
+    -81.395333,
+    30.247361,
+    -81.395333,
+    30.247361
+],
+  "geometry": {"coordinates":[-81.39533299999999,30.247361],"type":"Point"}
 }

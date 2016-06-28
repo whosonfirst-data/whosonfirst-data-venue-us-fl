@@ -2,13 +2,14 @@
   "id": 186528667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337623,25.836997,-80.337623,25.836997",
     "geom:latitude":25.836997,
     "geom:longitude":-80.337623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8442 NW 70th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186528667,
-    "wof:lastmodified":1449051101,
+    "wof:lastmodified":1466433173,
     "wof:name":"Champ Transportation",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.337623,25.836997,-80.337623,25.836997],
-  "geometry": {"coordinates":[-80.337623,25.836997],"type":"Point"}
+  "bbox": [
+    -80.337623,
+    25.836997,
+    -80.337623,
+    25.836997
+],
+  "geometry": {"coordinates":[-80.33762299999999,25.836997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303723365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.419888,25.638574,-80.419888,25.638574",
     "geom:latitude":25.638574,
     "geom:longitude":-80.419888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13790 SW 139th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303723365,
-    "wof:lastmodified":1448999551,
+    "wof:lastmodified":1466443018,
     "wof:name":"Miller Square Hardware",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.419888,25.638574,-80.419888,25.638574],
+  "bbox": [
+    -80.419888,
+    25.638574,
+    -80.419888,
+    25.638574
+],
   "geometry": {"coordinates":[-80.419888,25.638574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270221099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.484228,28.533956,-82.484228,28.533956",
     "geom:latitude":28.533956,
     "geom:longitude":-82.484228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14540 Cortez Blvd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270221099,
-    "wof:lastmodified":1449009714,
+    "wof:lastmodified":1466433251,
     "wof:name":"Veterans Administration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.484228,28.533956,-82.484228,28.533956],
+  "bbox": [
+    -82.484228,
+    28.533956,
+    -82.484228,
+    28.533956
+],
   "geometry": {"coordinates":[-82.484228,28.533956],"type":"Point"}
 }

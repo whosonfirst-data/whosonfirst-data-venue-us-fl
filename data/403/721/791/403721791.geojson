@@ -2,13 +2,14 @@
   "id": 403721791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.491605,30.299364,-81.491605,30.299364",
     "geom:latitude":30.299364,
     "geom:longitude":-81.491605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12162 Cedar Trace Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403721791,
-    "wof:lastmodified":1449055963,
+    "wof:lastmodified":1466439886,
     "wof:name":"Jackson's Mobile Home Movers",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-81.491605,30.299364,-81.491605,30.299364],
-  "geometry": {"coordinates":[-81.491605,30.299364],"type":"Point"}
+  "bbox": [
+    -81.491605,
+    30.299364,
+    -81.491605,
+    30.299364
+],
+  "geometry": {"coordinates":[-81.49160500000001,30.299364],"type":"Point"}
 }

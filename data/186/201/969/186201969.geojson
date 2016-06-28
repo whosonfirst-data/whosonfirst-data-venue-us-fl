@@ -2,13 +2,14 @@
   "id": 186201969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.291637,28.246005,-81.291637,28.246005",
     "geom:latitude":28.246005,
     "geom:longitude":-81.291637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 13th St",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186201969,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466429132,
     "wof:name":"All Star Prpts of Centl Fla",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.291637,28.246005,-81.291637,28.246005],
-  "geometry": {"coordinates":[-81.291637,28.246005],"type":"Point"}
+  "bbox": [
+    -81.291637,
+    28.246005,
+    -81.291637,
+    28.246005
+],
+  "geometry": {"coordinates":[-81.29163699999999,28.246005],"type":"Point"}
 }

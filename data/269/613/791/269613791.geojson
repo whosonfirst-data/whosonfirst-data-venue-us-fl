@@ -2,13 +2,14 @@
   "id": 269613791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.162641,26.178549,-80.162641,26.178549",
     "geom:latitude":26.178549,
     "geom:longitude":-80.162641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 NW 15th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269613791,
-    "wof:lastmodified":1449037256,
+    "wof:lastmodified":1466430819,
     "wof:name":"Healthy Income Inc",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.162641,26.178549,-80.162641,26.178549],
-  "geometry": {"coordinates":[-80.162641,26.178549],"type":"Point"}
+  "bbox": [
+    -80.162641,
+    26.178549,
+    -80.162641,
+    26.178549
+],
+  "geometry": {"coordinates":[-80.16264099999999,26.178549],"type":"Point"}
 }

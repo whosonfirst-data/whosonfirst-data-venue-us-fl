@@ -2,13 +2,14 @@
   "id": 303109991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401546,28.300736,-81.401546,28.300736",
     "geom:latitude":28.300736,
     "geom:longitude":-81.401546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Oak St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303109991,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466432401,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.401546,28.300736,-81.401546,28.300736],
+  "bbox": [
+    -81.401546,
+    28.300736,
+    -81.401546,
+    28.300736
+],
   "geometry": {"coordinates":[-81.401546,28.300736],"type":"Point"}
 }

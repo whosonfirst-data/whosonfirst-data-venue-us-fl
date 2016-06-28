@@ -2,13 +2,14 @@
   "id": 219617813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.169531,29.28146,-82.169531,29.28146",
     "geom:latitude":29.28146,
     "geom:longitude":-82.169531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 NW 90th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219617813,
-    "wof:lastmodified":1449070488,
+    "wof:lastmodified":1466433036,
     "wof:name":"West & Butler",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.169531,29.28146,-82.169531,29.28146],
-  "geometry": {"coordinates":[-82.169531,29.28146],"type":"Point"}
+  "bbox": [
+    -82.169531,
+    29.28146,
+    -82.169531,
+    29.28146
+],
+  "geometry": {"coordinates":[-82.16953100000001,29.28146],"type":"Point"}
 }

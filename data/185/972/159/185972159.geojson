@@ -2,13 +2,14 @@
   "id": 185972159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351605,25.775851,-80.351605,25.775851",
     "geom:latitude":25.775851,
     "geom:longitude":-80.351605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9591 Fountainbleau Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185972159,
-    "wof:lastmodified":1449007439,
+    "wof:lastmodified":1466430754,
     "wof:name":"Golden House Group Inc",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.351605,25.775851,-80.351605,25.775851],
-  "geometry": {"coordinates":[-80.351605,25.775851],"type":"Point"}
+  "bbox": [
+    -80.351605,
+    25.775851,
+    -80.351605,
+    25.775851
+],
+  "geometry": {"coordinates":[-80.35160500000001,25.775851],"type":"Point"}
 }

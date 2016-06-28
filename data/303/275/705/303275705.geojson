@@ -2,13 +2,14 @@
   "id": 303275705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949429,26.500777,-81.949429,26.500777",
     "geom:latitude":26.500777,
     "geom:longitude":-81.949429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11091 Caravel Cir",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303275705,
-    "wof:lastmodified":1448998903,
+    "wof:lastmodified":1466435305,
     "wof:name":"Riverview Dairy Thrift Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.949429,26.500777,-81.949429,26.500777],
-  "geometry": {"coordinates":[-81.949429,26.500777],"type":"Point"}
+  "bbox": [
+    -81.949429,
+    26.500777,
+    -81.949429,
+    26.500777
+],
+  "geometry": {"coordinates":[-81.94942899999999,26.500777],"type":"Point"}
 }

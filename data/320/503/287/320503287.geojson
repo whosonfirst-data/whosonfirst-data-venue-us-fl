@@ -2,13 +2,14 @@
   "id": 320503287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.287455,28.69313,-81.287455,28.69313",
     "geom:latitude":28.69313,
     "geom:longitude":-81.287455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Sailfish Rd",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320503287,
-    "wof:lastmodified":1449014978,
+    "wof:lastmodified":1466442081,
     "wof:name":"Cheri L Lisle",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.287455,28.69313,-81.287455,28.69313],
-  "geometry": {"coordinates":[-81.287455,28.69313],"type":"Point"}
+  "bbox": [
+    -81.287455,
+    28.69313,
+    -81.287455,
+    28.69313
+],
+  "geometry": {"coordinates":[-81.28745499999999,28.69313],"type":"Point"}
 }

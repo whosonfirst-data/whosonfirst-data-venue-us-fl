@@ -2,13 +2,14 @@
   "id": 253259393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.539217,27.332393,-82.539217,27.332393",
     "geom:latitude":27.332393,
     "geom:longitude":-82.539217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 S Pineapple Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253259393,
-    "wof:lastmodified":1449063487,
+    "wof:lastmodified":1466431578,
     "wof:name":"L A Freshwater",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.539217,27.332393,-82.539217,27.332393],
-  "geometry": {"coordinates":[-82.539217,27.332393],"type":"Point"}
+  "bbox": [
+    -82.539217,
+    27.332393,
+    -82.539217,
+    27.332393
+],
+  "geometry": {"coordinates":[-82.53921699999999,27.332393],"type":"Point"}
 }

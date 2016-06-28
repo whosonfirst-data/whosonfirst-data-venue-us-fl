@@ -2,13 +2,14 @@
   "id": 203000491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.326833,29.880053,-81.326833,29.880053",
     "geom:latitude":29.880053,
     "geom:longitude":-81.326833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 S Dixie Hwy",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203000491,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466428424,
     "wof:name":"Smithsons Auto Care Center",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.326833,29.880053,-81.326833,29.880053],
-  "geometry": {"coordinates":[-81.326833,29.880053],"type":"Point"}
+  "bbox": [
+    -81.326833,
+    29.880053,
+    -81.326833,
+    29.880053
+],
+  "geometry": {"coordinates":[-81.32683299999999,29.880053],"type":"Point"}
 }

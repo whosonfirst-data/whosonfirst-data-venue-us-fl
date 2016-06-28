@@ -2,13 +2,14 @@
   "id": 202728241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.071925,26.796506,-80.071925,26.796506",
     "geom:latitude":26.796506,
     "geom:longitude":-80.071925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 10th St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202728241,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466431341,
     "wof:name":"Riviera Generator Services",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "starter"
     ]
 },
-  "bbox": [-80.071925,26.796506,-80.071925,26.796506],
-  "geometry": {"coordinates":[-80.071925,26.796506],"type":"Point"}
+  "bbox": [
+    -80.071925,
+    26.796506,
+    -80.071925,
+    26.796506
+],
+  "geometry": {"coordinates":[-80.07192499999999,26.796506],"type":"Point"}
 }

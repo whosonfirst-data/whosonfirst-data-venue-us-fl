@@ -2,13 +2,14 @@
   "id": 186597817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.381482,28.325861,-81.381482,28.325861",
     "geom:latitude":28.325861,
     "geom:longitude":-81.381482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Trumbull St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186597817,
-    "wof:lastmodified":1449053003,
+    "wof:lastmodified":1466434131,
     "wof:name":"Get Booked",
     "wof:parent_id":85878529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-81.381482,28.325861,-81.381482,28.325861],
-  "geometry": {"coordinates":[-81.381482,28.325861],"type":"Point"}
+  "bbox": [
+    -81.381482,
+    28.325861,
+    -81.381482,
+    28.325861
+],
+  "geometry": {"coordinates":[-81.38148200000001,28.325861],"type":"Point"}
 }

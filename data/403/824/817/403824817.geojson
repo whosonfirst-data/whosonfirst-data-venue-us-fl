@@ -2,13 +2,14 @@
   "id": 403824817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.532368,27.331323,-82.532368,27.331323",
     "geom:latitude":27.331323,
     "geom:longitude":-82.532368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Oak St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403824817,
-    "wof:lastmodified":1449055099,
+    "wof:lastmodified":1466441529,
     "wof:name":"Warren Williamson Remodeling",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.532368,27.331323,-82.532368,27.331323],
-  "geometry": {"coordinates":[-82.532368,27.331323],"type":"Point"}
+  "bbox": [
+    -82.532368,
+    27.331323,
+    -82.532368,
+    27.331323
+],
+  "geometry": {"coordinates":[-82.53236800000001,27.331323],"type":"Point"}
 }

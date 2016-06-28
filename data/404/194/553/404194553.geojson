@@ -2,13 +2,14 @@
   "id": 404194553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199419,25.808221,-80.199419,25.808221",
     "geom:latitude":25.808221,
     "geom:longitude":-80.199419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404194553,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1466443264,
     "wof:name":"Los Hispanos Grocery",
     "wof:parent_id":85869827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.199419,25.808221,-80.199419,25.808221],
-  "geometry": {"coordinates":[-80.199419,25.808221],"type":"Point"}
+  "bbox": [
+    -80.199419,
+    25.808221,
+    -80.199419,
+    25.808221
+],
+  "geometry": {"coordinates":[-80.19941900000001,25.808221],"type":"Point"}
 }

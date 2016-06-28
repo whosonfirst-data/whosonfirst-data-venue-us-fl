@@ -2,13 +2,14 @@
   "id": 303180469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.579526,28.843246,-82.579526,28.843246",
     "geom:latitude":28.843246,
     "geom:longitude":-82.579526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 S Suncoast Blvd",
     "sg:city":"Homosassa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303180469,
-    "wof:lastmodified":1448998216,
+    "wof:lastmodified":1466433651,
     "wof:name":"J T's Home Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.579526,28.843246,-82.579526,28.843246],
+  "bbox": [
+    -82.579526,
+    28.843246,
+    -82.579526,
+    28.843246
+],
   "geometry": {"coordinates":[-82.579526,28.843246],"type":"Point"}
 }

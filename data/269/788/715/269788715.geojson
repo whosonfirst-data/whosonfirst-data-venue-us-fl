@@ -2,13 +2,14 @@
   "id": 269788715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.046771,29.255539,-81.046771,29.255539",
     "geom:latitude":29.255539,
     "geom:longitude":-81.046771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Ridgewood Ave",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269788715,
-    "wof:lastmodified":1449037382,
+    "wof:lastmodified":1466433919,
     "wof:name":"National Organ Transplant",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.046771,29.255539,-81.046771,29.255539],
-  "geometry": {"coordinates":[-81.046771,29.255539],"type":"Point"}
+  "bbox": [
+    -81.046771,
+    29.255539,
+    -81.046771,
+    29.255539
+],
+  "geometry": {"coordinates":[-81.04677100000001,29.255539],"type":"Point"}
 }

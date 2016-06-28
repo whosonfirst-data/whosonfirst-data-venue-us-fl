@@ -2,13 +2,14 @@
   "id": 320380267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52478,27.923527,-82.52478,27.923527",
     "geom:latitude":27.923527,
     "geom:longitude":-82.52478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 S San Jose Cir",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320380267,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466439900,
     "wof:name":"Orthodox Christian Center",
     "wof:parent_id":85889665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.52478,27.923527,-82.52478,27.923527],
-  "geometry": {"coordinates":[-82.52478,27.923527],"type":"Point"}
+  "bbox": [
+    -82.52478,
+    27.923527,
+    -82.52478,
+    27.923527
+],
+  "geometry": {"coordinates":[-82.52478000000001,27.923527],"type":"Point"}
 }

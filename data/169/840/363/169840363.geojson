@@ -2,13 +2,14 @@
   "id": 169840363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.361235,28.610139,-81.361235,28.610139",
     "geom:latitude":28.610139,
     "geom:longitude":-81.361235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Denning Dr",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169840363,
-    "wof:lastmodified":1449035216,
+    "wof:lastmodified":1466429457,
     "wof:name":"Thomas Davidson Specialties",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.361235,28.610139,-81.361235,28.610139],
-  "geometry": {"coordinates":[-81.361235,28.610139],"type":"Point"}
+  "bbox": [
+    -81.361235,
+    28.610139,
+    -81.361235,
+    28.610139
+],
+  "geometry": {"coordinates":[-81.36123499999999,28.610139],"type":"Point"}
 }

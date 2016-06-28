@@ -2,13 +2,14 @@
   "id": 370674779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.643628,28.823873,-81.643628,28.823873",
     "geom:latitude":28.823873,
     "geom:longitude":-81.643628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18910 US Hwy 441",
     "sg:city":"Mount Dora",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370674779,
-    "wof:lastmodified":1449031624,
+    "wof:lastmodified":1466444516,
     "wof:name":"Walgreens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-81.643628,28.823873,-81.643628,28.823873],
-  "geometry": {"coordinates":[-81.643628,28.823873],"type":"Point"}
+  "bbox": [
+    -81.643628,
+    28.823873,
+    -81.643628,
+    28.823873
+],
+  "geometry": {"coordinates":[-81.64362800000001,28.823873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304086849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.353062,26.965725,-82.353062,26.965725",
     "geom:latitude":26.965725,
     "geom:longitude":-82.353062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 N Indiana Ave",
     "sg:city":"Englewood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304086849,
-    "wof:lastmodified":1449043989,
+    "wof:lastmodified":1466433346,
     "wof:name":"Southwest Florida Dental Art",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.353062,26.965725,-82.353062,26.965725],
-  "geometry": {"coordinates":[-82.353062,26.965725],"type":"Point"}
+  "bbox": [
+    -82.353062,
+    26.965725,
+    -82.353062,
+    26.965725
+],
+  "geometry": {"coordinates":[-82.35306199999999,26.965725],"type":"Point"}
 }

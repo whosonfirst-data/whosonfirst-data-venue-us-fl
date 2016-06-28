@@ -2,13 +2,14 @@
   "id": 203053775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731952,30.400599,-81.731952,30.400599",
     "geom:latitude":30.400599,
     "geom:longitude":-81.731952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5527 Redpoll Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203053775,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466444214,
     "wof:name":"Mt Herman Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.731952,30.400599,-81.731952,30.400599],
-  "geometry": {"coordinates":[-81.731952,30.400599],"type":"Point"}
+  "bbox": [
+    -81.731952,
+    30.400599,
+    -81.731952,
+    30.400599
+],
+  "geometry": {"coordinates":[-81.73195200000001,30.400599],"type":"Point"}
 }

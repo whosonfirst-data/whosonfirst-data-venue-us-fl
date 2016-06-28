@@ -2,13 +2,14 @@
   "id": 320357073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.646785,28.13302,-80.646785,28.13302",
     "geom:latitude":28.13302,
     "geom:longitude":-80.646785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Caribbean Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320357073,
-    "wof:lastmodified":1449014504,
+    "wof:lastmodified":1466439512,
     "wof:name":"Matt Ray Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-80.646785,28.13302,-80.646785,28.13302],
-  "geometry": {"coordinates":[-80.646785,28.13302],"type":"Point"}
+  "bbox": [
+    -80.646785,
+    28.13302,
+    -80.646785,
+    28.13302
+],
+  "geometry": {"coordinates":[-80.64678499999999,28.13302],"type":"Point"}
 }

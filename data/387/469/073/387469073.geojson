@@ -2,13 +2,14 @@
   "id": 387469073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.643179,28.079877,-80.643179,28.079877",
     "geom:latitude":28.079877,
     "geom:longitude":-80.643179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 West Ct",
     "sg:city":"West Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387469073,
-    "wof:lastmodified":1449060012,
+    "wof:lastmodified":1466445893,
     "wof:name":"ARC South",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-80.643179,28.079877,-80.643179,28.079877],
+  "bbox": [
+    -80.643179,
+    28.079877,
+    -80.643179,
+    28.079877
+],
   "geometry": {"coordinates":[-80.643179,28.079877],"type":"Point"}
 }

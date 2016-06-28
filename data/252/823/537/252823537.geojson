@@ -2,13 +2,14 @@
   "id": 252823537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.613796,30.446475,-86.613796,30.446475",
     "geom:latitude":30.446475,
     "geom:longitude":-86.613796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Pinedale Rd",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252823537,
-    "wof:lastmodified":1449006494,
+    "wof:lastmodified":1466430102,
     "wof:name":"Espresso Triste Inc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.613796,30.446475,-86.613796,30.446475],
-  "geometry": {"coordinates":[-86.613796,30.446475],"type":"Point"}
+  "bbox": [
+    -86.613796,
+    30.446475,
+    -86.613796,
+    30.446475
+],
+  "geometry": {"coordinates":[-86.61379599999999,30.446475],"type":"Point"}
 }

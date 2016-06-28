@@ -2,13 +2,14 @@
   "id": 370290913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.610205,28.431751,-82.610205,28.431751",
     "geom:latitude":28.431751,
     "geom:longitude":-82.610205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18853 Titus Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370290913,
-    "wof:lastmodified":1449030542,
+    "wof:lastmodified":1466438626,
     "wof:name":"R M Lee Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.610205,28.431751,-82.610205,28.431751],
-  "geometry": {"coordinates":[-82.610205,28.431751],"type":"Point"}
+  "bbox": [
+    -82.610205,
+    28.431751,
+    -82.610205,
+    28.431751
+],
+  "geometry": {"coordinates":[-82.61020499999999,28.431751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370701827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.448501,28.546168,-81.448501,28.546168",
     "geom:latitude":28.546168,
     "geom:longitude":-81.448501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Mandrake St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370701827,
-    "wof:lastmodified":1449031771,
+    "wof:lastmodified":1466444921,
     "wof:name":"Garys Lawn Care",
     "wof:parent_id":85879491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.448501,28.546168,-81.448501,28.546168],
-  "geometry": {"coordinates":[-81.448501,28.546168],"type":"Point"}
+  "bbox": [
+    -81.448501,
+    28.546168,
+    -81.448501,
+    28.546168
+],
+  "geometry": {"coordinates":[-81.44850099999999,28.546168],"type":"Point"}
 }

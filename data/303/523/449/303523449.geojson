@@ -2,13 +2,14 @@
   "id": 303523449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.70158,27.748226,-82.70158,27.748226",
     "geom:latitude":27.748226,
     "geom:longitude":-82.70158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4918 Gulfport Blvd S",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303523449,
-    "wof:lastmodified":1448999532,
+    "wof:lastmodified":1466439567,
     "wof:name":"Gulfport Liquors",
     "wof:parent_id":85878003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.70158,27.748226,-82.70158,27.748226],
-  "geometry": {"coordinates":[-82.70158,27.748226],"type":"Point"}
+  "bbox": [
+    -82.70158,
+    27.748226,
+    -82.70158,
+    27.748226
+],
+  "geometry": {"coordinates":[-82.70158000000001,27.748226],"type":"Point"}
 }

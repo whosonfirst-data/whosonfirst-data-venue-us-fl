@@ -2,13 +2,14 @@
   "id": 286341321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259941,26.112213,-80.259941,26.112213",
     "geom:latitude":26.112213,
     "geom:longitude":-80.259941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 SW 6th Ct",
     "sg:city":"Plantation",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286341321,
-    "wof:lastmodified":1449017963,
+    "wof:lastmodified":1466431045,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-80.259941,26.112213,-80.259941,26.112213],
+  "bbox": [
+    -80.259941,
+    26.112213,
+    -80.259941,
+    26.112213
+],
   "geometry": {"coordinates":[-80.259941,26.112213],"type":"Point"}
 }

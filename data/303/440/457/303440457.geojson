@@ -2,13 +2,14 @@
   "id": 303440457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.632796,30.235511,-85.632796,30.235511",
     "geom:latitude":30.235511,
     "geom:longitude":-85.632796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Delaware Ave",
     "sg:city":"Lynn Haven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303440457,
-    "wof:lastmodified":1448998984,
+    "wof:lastmodified":1466438118,
     "wof:name":"Pierce Auto Sales",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-85.632796,30.235511,-85.632796,30.235511],
+  "bbox": [
+    -85.632796,
+    30.235511,
+    -85.632796,
+    30.235511
+],
   "geometry": {"coordinates":[-85.632796,30.235511],"type":"Point"}
 }

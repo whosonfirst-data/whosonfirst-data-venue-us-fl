@@ -2,13 +2,14 @@
   "id": 353722803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.321103,29.905121,-81.321103,29.905121",
     "geom:latitude":29.905121,
     "geom:longitude":-81.321103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 N Ponce de Leon Blvd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353722803,
-    "wof:lastmodified":1449019148,
+    "wof:lastmodified":1466439746,
     "wof:name":"Dockside Cleaners",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garment"
     ]
 },
-  "bbox": [-81.321103,29.905121,-81.321103,29.905121],
-  "geometry": {"coordinates":[-81.321103,29.905121],"type":"Point"}
+  "bbox": [
+    -81.321103,
+    29.905121,
+    -81.321103,
+    29.905121
+],
+  "geometry": {"coordinates":[-81.32110299999999,29.905121],"type":"Point"}
 }

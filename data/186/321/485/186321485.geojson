@@ -2,13 +2,14 @@
   "id": 186321485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.265082,30.610582,-84.265082,30.610582",
     "geom:latitude":30.610582,
     "geom:longitude":-84.265082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Manor House Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186321485,
-    "wof:lastmodified":1449050328,
+    "wof:lastmodified":1466430555,
     "wof:name":"Tabletops Of Tallahassee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "planning"
     ]
 },
-  "bbox": [-84.265082,30.610582,-84.265082,30.610582],
-  "geometry": {"coordinates":[-84.265082,30.610582],"type":"Point"}
+  "bbox": [
+    -84.265082,
+    30.610582,
+    -84.265082,
+    30.610582
+],
+  "geometry": {"coordinates":[-84.26508200000001,30.610582],"type":"Point"}
 }

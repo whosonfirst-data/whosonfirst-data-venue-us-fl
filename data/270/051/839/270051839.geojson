@@ -2,13 +2,14 @@
   "id": 270051839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73668,28.010329,-81.73668,28.010329",
     "geom:latitude":28.010329,
     "geom:longitude":-81.73668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Ave L SW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270051839,
-    "wof:lastmodified":1449010153,
+    "wof:lastmodified":1466430339,
     "wof:name":"Lions Club Winter Haven",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.73668,28.010329,-81.73668,28.010329],
-  "geometry": {"coordinates":[-81.73668,28.010329],"type":"Point"}
+  "bbox": [
+    -81.73668,
+    28.010329,
+    -81.73668,
+    28.010329
+],
+  "geometry": {"coordinates":[-81.73668000000001,28.010329],"type":"Point"}
 }

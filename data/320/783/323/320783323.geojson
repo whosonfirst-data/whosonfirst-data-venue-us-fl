@@ -2,13 +2,14 @@
   "id": 320783323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101275,26.311057,-80.101275,26.311057",
     "geom:latitude":26.311057,
     "geom:longitude":-80.101275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 SE 5th Ct",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320783323,
-    "wof:lastmodified":1449011379,
+    "wof:lastmodified":1466446860,
     "wof:name":"Vista Court",
     "wof:parent_id":85809697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.101275,26.311057,-80.101275,26.311057],
+  "bbox": [
+    -80.101275,
+    26.311057,
+    -80.101275,
+    26.311057
+],
   "geometry": {"coordinates":[-80.101275,26.311057],"type":"Point"}
 }

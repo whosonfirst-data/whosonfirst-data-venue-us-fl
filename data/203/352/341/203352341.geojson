@@ -2,13 +2,14 @@
   "id": 203352341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540529,28.473722,-81.540529,28.473722",
     "geom:latitude":28.473722,
     "geom:longitude":-81.540529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6261 Louise Cove Dr",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203352341,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466430810,
     "wof:name":"Jones-Clayton Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-81.540529,28.473722,-81.540529,28.473722],
-  "geometry": {"coordinates":[-81.540529,28.473722],"type":"Point"}
+  "bbox": [
+    -81.540529,
+    28.473722,
+    -81.540529,
+    28.473722
+],
+  "geometry": {"coordinates":[-81.54052900000001,28.473722],"type":"Point"}
 }

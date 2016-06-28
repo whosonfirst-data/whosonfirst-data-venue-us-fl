@@ -2,13 +2,14 @@
   "id": 303487129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.64454,28.078833,-80.64454,28.078833",
     "geom:latitude":28.078833,
     "geom:longitude":-80.64454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 W New Haven Ave",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303487129,
-    "wof:lastmodified":1448998915,
+    "wof:lastmodified":1466438930,
     "wof:name":"Bailes Glass",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-80.64454,28.078833,-80.64454,28.078833],
-  "geometry": {"coordinates":[-80.64454,28.078833],"type":"Point"}
+  "bbox": [
+    -80.64454,
+    28.078833,
+    -80.64454,
+    28.078833
+],
+  "geometry": {"coordinates":[-80.64454000000001,28.078833],"type":"Point"}
 }

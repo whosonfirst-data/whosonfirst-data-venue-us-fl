@@ -2,13 +2,14 @@
   "id": 203212369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144178,25.790371,-80.144178,25.790371",
     "geom:latitude":25.790371,
     "geom:longitude":-80.144178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Lincoln Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203212369,
-    "wof:lastmodified":1449026207,
+    "wof:lastmodified":1466429057,
     "wof:name":"Lincoln Plaza Condo Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.144178,25.790371,-80.144178,25.790371],
+  "bbox": [
+    -80.144178,
+    25.790371,
+    -80.144178,
+    25.790371
+],
   "geometry": {"coordinates":[-80.144178,25.790371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186284815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661117,30.329302,-81.661117,30.329302",
     "geom:latitude":30.329302,
     "geom:longitude":-81.661117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Julia St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186284815,
-    "wof:lastmodified":1449052029,
+    "wof:lastmodified":1466430114,
     "wof:name":"Bank Barber Shop",
     "wof:parent_id":85888913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.661117,30.329302,-81.661117,30.329302],
+  "bbox": [
+    -81.661117,
+    30.329302,
+    -81.661117,
+    30.329302
+],
   "geometry": {"coordinates":[-81.661117,30.329302],"type":"Point"}
 }

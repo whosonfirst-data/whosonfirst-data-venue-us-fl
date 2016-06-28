@@ -2,13 +2,14 @@
   "id": 370883375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136615,26.177965,-80.136615,26.177965",
     "geom:latitude":26.177965,
     "geom:longitude":-80.136615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4046 NE 8th Ave",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370883375,
-    "wof:lastmodified":1449031682,
+    "wof:lastmodified":1466447368,
     "wof:name":"Besico",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-80.136615,26.177965,-80.136615,26.177965],
-  "geometry": {"coordinates":[-80.136615,26.177965],"type":"Point"}
+  "bbox": [
+    -80.136615,
+    26.177965,
+    -80.136615,
+    26.177965
+],
+  "geometry": {"coordinates":[-80.13661500000001,26.177965],"type":"Point"}
 }

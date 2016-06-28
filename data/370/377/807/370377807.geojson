@@ -2,13 +2,14 @@
   "id": 370377807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.735278,30.355774,-81.735278,30.355774",
     "geom:latitude":30.355774,
     "geom:longitude":-81.735278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5590 Rio Grande Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370377807,
-    "wof:lastmodified":1449030354,
+    "wof:lastmodified":1466439968,
     "wof:name":"WROS",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.735278,30.355774,-81.735278,30.355774],
-  "geometry": {"coordinates":[-81.735278,30.355774],"type":"Point"}
+  "bbox": [
+    -81.735278,
+    30.355774,
+    -81.735278,
+    30.355774
+],
+  "geometry": {"coordinates":[-81.73527799999999,30.355774],"type":"Point"}
 }

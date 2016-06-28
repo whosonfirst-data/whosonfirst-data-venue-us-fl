@@ -2,13 +2,14 @@
   "id": 236092555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600378,30.252263,-81.600378,30.252263",
     "geom:latitude":30.252263,
     "geom:longitude":-81.600378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Executive Park Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236092555,
-    "wof:lastmodified":1449004504,
+    "wof:lastmodified":1466429687,
     "wof:name":"Adelphi Business",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.600378,30.252263,-81.600378,30.252263],
-  "geometry": {"coordinates":[-81.600378,30.252263],"type":"Point"}
+  "bbox": [
+    -81.600378,
+    30.252263,
+    -81.600378,
+    30.252263
+],
+  "geometry": {"coordinates":[-81.60037800000001,30.252263],"type":"Point"}
 }

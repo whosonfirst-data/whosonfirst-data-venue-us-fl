@@ -2,13 +2,14 @@
   "id": 270121277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134093,26.383566,-80.134093,26.383566",
     "geom:latitude":26.383566,
     "geom:longitude":-80.134093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Pine Haven Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270121277,
-    "wof:lastmodified":1449010515,
+    "wof:lastmodified":1466431512,
     "wof:name":"Coastline Networks Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-80.134093,26.383566,-80.134093,26.383566],
-  "geometry": {"coordinates":[-80.134093,26.383566],"type":"Point"}
+  "bbox": [
+    -80.134093,
+    26.383566,
+    -80.134093,
+    26.383566
+],
+  "geometry": {"coordinates":[-80.13409299999999,26.383566],"type":"Point"}
 }

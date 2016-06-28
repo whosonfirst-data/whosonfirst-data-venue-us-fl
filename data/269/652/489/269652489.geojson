@@ -2,13 +2,14 @@
   "id": 269652489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.51211,30.287008,-81.51211,30.287008",
     "geom:latitude":30.287008,
     "geom:longitude":-81.51211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11744 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":269652489,
-    "wof:lastmodified":1449037675,
+    "wof:lastmodified":1466431530,
     "wof:name":"Bulbman",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.51211,30.287008,-81.51211,30.287008],
-  "geometry": {"coordinates":[-81.51211,30.287008],"type":"Point"}
+  "bbox": [
+    -81.51211,
+    30.287008,
+    -81.51211,
+    30.287008
+],
+  "geometry": {"coordinates":[-81.51211000000001,30.287008],"type":"Point"}
 }

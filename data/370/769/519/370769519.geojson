@@ -2,13 +2,14 @@
   "id": 370769519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627597,27.496136,-82.627597,27.496136",
     "geom:latitude":27.496136,
     "geom:longitude":-82.627597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Manatee Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370769519,
-    "wof:lastmodified":1449030221,
+    "wof:lastmodified":1466445990,
     "wof:name":"Enhanced Living",
     "wof:parent_id":85888577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "speech"
     ]
 },
-  "bbox": [-82.627597,27.496136,-82.627597,27.496136],
-  "geometry": {"coordinates":[-82.627597,27.496136],"type":"Point"}
+  "bbox": [
+    -82.627597,
+    27.496136,
+    -82.627597,
+    27.496136
+],
+  "geometry": {"coordinates":[-82.62759699999999,27.496136],"type":"Point"}
 }

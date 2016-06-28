@@ -2,13 +2,14 @@
   "id": 303719897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.653027,30.305209,-81.653027,30.305209",
     "geom:latitude":30.305209,
     "geom:longitude":-81.653027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Atlantic Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303719897,
-    "wof:lastmodified":1448998435,
+    "wof:lastmodified":1466442961,
     "wof:name":"Luxe Lounge",
     "wof:parent_id":85846919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-81.653027,30.305209,-81.653027,30.305209],
-  "geometry": {"coordinates":[-81.653027,30.305209],"type":"Point"}
+  "bbox": [
+    -81.653027,
+    30.305209,
+    -81.653027,
+    30.305209
+],
+  "geometry": {"coordinates":[-81.65302699999999,30.305209],"type":"Point"}
 }

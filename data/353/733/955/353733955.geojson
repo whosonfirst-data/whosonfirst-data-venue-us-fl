@@ -2,13 +2,14 @@
   "id": 353733955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125073,26.167133,-80.125073,26.167133",
     "geom:latitude":26.167133,
     "geom:longitude":-80.125073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353733955,
-    "wof:lastmodified":1449018605,
+    "wof:lastmodified":1466439913,
     "wof:name":"Advanced Integrated Medical",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.125073,26.167133,-80.125073,26.167133],
+  "bbox": [
+    -80.125073,
+    26.167133,
+    -80.125073,
+    26.167133
+],
   "geometry": {"coordinates":[-80.125073,26.167133],"type":"Point"}
 }

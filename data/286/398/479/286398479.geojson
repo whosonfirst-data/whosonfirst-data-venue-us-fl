@@ -2,13 +2,14 @@
   "id": 286398479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157705,25.909566,-80.157705,25.909566",
     "geom:latitude":25.909566,
     "geom:longitude":-80.157705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14500 Biscayne Blvd",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286398479,
-    "wof:lastmodified":1449015420,
+    "wof:lastmodified":1466432024,
     "wof:name":"Access Wireless",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.157705,25.909566,-80.157705,25.909566],
-  "geometry": {"coordinates":[-80.157705,25.909566],"type":"Point"}
+  "bbox": [
+    -80.157705,
+    25.909566,
+    -80.157705,
+    25.909566
+],
+  "geometry": {"coordinates":[-80.15770500000001,25.909566],"type":"Point"}
 }

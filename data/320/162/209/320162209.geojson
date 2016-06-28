@@ -2,13 +2,14 @@
   "id": 320162209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.280819,30.417323,-87.280819,30.417323",
     "geom:latitude":30.417323,
     "geom:longitude":-87.280819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4830 W Jackson St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320162209,
-    "wof:lastmodified":1449014431,
+    "wof:lastmodified":1466436160,
     "wof:name":"Beachside Bingo",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "game"
     ]
 },
-  "bbox": [-87.280819,30.417323,-87.280819,30.417323],
-  "geometry": {"coordinates":[-87.280819,30.417323],"type":"Point"}
+  "bbox": [
+    -87.280819,
+    30.417323,
+    -87.280819,
+    30.417323
+],
+  "geometry": {"coordinates":[-87.28081899999999,30.417323],"type":"Point"}
 }

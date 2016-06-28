@@ -2,13 +2,14 @@
   "id": 202860409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128577,26.120873,-80.128577,26.120873",
     "geom:latitude":26.120873,
     "geom:longitude":-80.128577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 SE 15th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202860409,
-    "wof:lastmodified":1449061252,
+    "wof:lastmodified":1466433059,
     "wof:name":"Urban Core Development",
     "wof:parent_id":85877491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.128577,26.120873,-80.128577,26.120873],
-  "geometry": {"coordinates":[-80.128577,26.120873],"type":"Point"}
+  "bbox": [
+    -80.128577,
+    26.120873,
+    -80.128577,
+    26.120873
+],
+  "geometry": {"coordinates":[-80.12857700000001,26.120873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354006667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.103025,24.709063,-81.103025,24.709063",
     "geom:latitude":24.709063,
     "geom:longitude":-81.103025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2188 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354006667,
-    "wof:lastmodified":1449067305,
+    "wof:lastmodified":1466436162,
     "wof:name":"On Time Taxi",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.103025,24.709063,-81.103025,24.709063],
+  "bbox": [
+    -81.103025,
+    24.709063,
+    -81.103025,
+    24.709063
+],
   "geometry": {"coordinates":[-81.103025,24.709063],"type":"Point"}
 }

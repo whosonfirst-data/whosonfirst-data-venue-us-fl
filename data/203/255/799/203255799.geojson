@@ -2,13 +2,14 @@
   "id": 203255799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.446893,27.278823,-82.446893,27.278823",
     "geom:latitude":27.278823,
     "geom:longitude":-82.446893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4946 Hubner Cir",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203255799,
-    "wof:lastmodified":1449025774,
+    "wof:lastmodified":1466429625,
     "wof:name":"Horizon Builders & Developers",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.446893,27.278823,-82.446893,27.278823],
+  "bbox": [
+    -82.446893,
+    27.278823,
+    -82.446893,
+    27.278823
+],
   "geometry": {"coordinates":[-82.446893,27.278823],"type":"Point"}
 }

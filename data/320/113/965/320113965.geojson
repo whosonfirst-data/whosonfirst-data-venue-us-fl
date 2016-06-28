@@ -2,13 +2,14 @@
   "id": 320113965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.315446,30.534369,-87.315446,30.534369",
     "geom:latitude":30.534369,
     "geom:longitude":-87.315446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 W Nine Mile Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320113965,
-    "wof:lastmodified":1449014655,
+    "wof:lastmodified":1466435335,
     "wof:name":"Cat Clinic Of Pensacola",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-87.315446,30.534369,-87.315446,30.534369],
-  "geometry": {"coordinates":[-87.315446,30.534369],"type":"Point"}
+  "bbox": [
+    -87.315446,
+    30.534369,
+    -87.315446,
+    30.534369
+],
+  "geometry": {"coordinates":[-87.31544599999999,30.534369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202820845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.591316,30.150185,-85.591316,30.150185",
     "geom:latitude":30.150185,
     "geom:longitude":-85.591316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 N Tyndall Pkwy",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202820845,
-    "wof:lastmodified":1449061429,
+    "wof:lastmodified":1466432526,
     "wof:name":"MMT Music Group",
     "wof:parent_id":85839285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.591316,30.150185,-85.591316,30.150185],
-  "geometry": {"coordinates":[-85.591316,30.150185],"type":"Point"}
+  "bbox": [
+    -85.591316,
+    30.150185,
+    -85.591316,
+    30.150185
+],
+  "geometry": {"coordinates":[-85.59131600000001,30.150185],"type":"Point"}
 }

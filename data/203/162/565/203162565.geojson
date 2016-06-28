@@ -2,13 +2,14 @@
   "id": 203162565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.373055,28.580371,-81.373055,28.580371",
     "geom:latitude":28.580371,
     "geom:longitude":-81.373055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3361 Pelham Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203162565,
-    "wof:lastmodified":1449026576,
+    "wof:lastmodified":1466428415,
     "wof:name":"Tom Peterson Landscape",
     "wof:parent_id":85879499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-81.373055,28.580371,-81.373055,28.580371],
-  "geometry": {"coordinates":[-81.373055,28.580371],"type":"Point"}
+  "bbox": [
+    -81.373055,
+    28.580371,
+    -81.373055,
+    28.580371
+],
+  "geometry": {"coordinates":[-81.37305499999999,28.580371],"type":"Point"}
 }

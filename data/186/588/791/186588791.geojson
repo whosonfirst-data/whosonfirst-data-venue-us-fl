@@ -2,13 +2,14 @@
   "id": 186588791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230256,25.769864,-80.230256,25.769864",
     "geom:latitude":25.769864,
     "geom:longitude":-80.230256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 SW 21st Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186588791,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1466433999,
     "wof:name":"Master Auto",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.230256,25.769864,-80.230256,25.769864],
+  "bbox": [
+    -80.230256,
+    25.769864,
+    -80.230256,
+    25.769864
+],
   "geometry": {"coordinates":[-80.230256,25.769864],"type":"Point"}
 }

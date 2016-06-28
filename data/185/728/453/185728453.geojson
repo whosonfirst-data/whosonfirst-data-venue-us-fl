@@ -2,13 +2,14 @@
   "id": 185728453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.247798,30.509661,-84.247798,30.509661",
     "geom:latitude":30.509661,
     "geom:longitude":-84.247798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3470 Thomasville Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185728453,
-    "wof:lastmodified":1449006989,
+    "wof:lastmodified":1466445997,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85889649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-84.247798,30.509661,-84.247798,30.509661],
+  "bbox": [
+    -84.247798,
+    30.509661,
+    -84.247798,
+    30.509661
+],
   "geometry": {"coordinates":[-84.247798,30.509661],"type":"Point"}
 }

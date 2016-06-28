@@ -2,13 +2,14 @@
   "id": 370735095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.899453,26.551152,-81.899453,26.551152",
     "geom:latitude":26.551152,
     "geom:longitude":-81.899453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 Bethany Ave",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370735095,
-    "wof:lastmodified":1449032388,
+    "wof:lastmodified":1466445434,
     "wof:name":"Sentry Shutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminum"
     ]
 },
-  "bbox": [-81.899453,26.551152,-81.899453,26.551152],
-  "geometry": {"coordinates":[-81.899453,26.551152],"type":"Point"}
+  "bbox": [
+    -81.899453,
+    26.551152,
+    -81.899453,
+    26.551152
+],
+  "geometry": {"coordinates":[-81.89945299999999,26.551152],"type":"Point"}
 }

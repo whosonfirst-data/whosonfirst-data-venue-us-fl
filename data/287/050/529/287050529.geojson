@@ -2,13 +2,14 @@
   "id": 287050529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.792583,26.136588,-81.792583,26.136588",
     "geom:latitude":26.136588,
     "geom:longitude":-81.792583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 10th St S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287050529,
-    "wof:lastmodified":1449001161,
+    "wof:lastmodified":1466430689,
     "wof:name":"Naples Marine Mgmt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.792583,26.136588,-81.792583,26.136588],
-  "geometry": {"coordinates":[-81.792583,26.136588],"type":"Point"}
+  "bbox": [
+    -81.792583,
+    26.136588,
+    -81.792583,
+    26.136588
+],
+  "geometry": {"coordinates":[-81.79258299999999,26.136588],"type":"Point"}
 }

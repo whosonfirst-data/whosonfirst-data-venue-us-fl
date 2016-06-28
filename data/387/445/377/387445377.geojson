@@ -2,13 +2,14 @@
   "id": 387445377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.436624,28.274341,-81.436624,28.274341",
     "geom:latitude":28.274341,
     "geom:longitude":-81.436624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 S Airport Rd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387445377,
-    "wof:lastmodified":1449056613,
+    "wof:lastmodified":1466445527,
     "wof:name":"Heatherwood Apartments",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.436624,28.274341,-81.436624,28.274341],
-  "geometry": {"coordinates":[-81.436624,28.274341],"type":"Point"}
+  "bbox": [
+    -81.436624,
+    28.274341,
+    -81.436624,
+    28.274341
+],
+  "geometry": {"coordinates":[-81.43662399999999,28.274341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387913759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344323,28.332378,-81.344323,28.332378",
     "geom:latitude":28.332378,
     "geom:longitude":-81.344323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Poinsetta Dr",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387913759,
-    "wof:lastmodified":1449057577,
+    "wof:lastmodified":1466449762,
     "wof:name":"Mike Gregas Tile",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.344323,28.332378,-81.344323,28.332378],
+  "bbox": [
+    -81.344323,
+    28.332378,
+    -81.344323,
+    28.332378
+],
   "geometry": {"coordinates":[-81.344323,28.332378],"type":"Point"}
 }

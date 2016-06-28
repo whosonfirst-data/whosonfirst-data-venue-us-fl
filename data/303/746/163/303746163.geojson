@@ -2,13 +2,14 @@
   "id": 303746163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.347893,29.676155,-82.347893,29.676155",
     "geom:latitude":29.676155,
     "geom:longitude":-82.347893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 NW 23 Blvd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303746163,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466443402,
     "wof:name":"Brookwood Terrace Apartments",
     "wof:parent_id":85877609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.347893,29.676155,-82.347893,29.676155],
+  "bbox": [
+    -82.347893,
+    29.676155,
+    -82.347893,
+    29.676155
+],
   "geometry": {"coordinates":[-82.347893,29.676155],"type":"Point"}
 }

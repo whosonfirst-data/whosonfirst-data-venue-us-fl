@@ -2,13 +2,14 @@
   "id": 203238283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.312436,28.327082,-82.312436,28.327082",
     "geom:latitude":28.327082,
     "geom:longitude":-82.312436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11638 Corporate Lake Blvd",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203238283,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466429395,
     "wof:name":"A/E Designs Inc",
     "wof:parent_id":85889567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mowing"
     ]
 },
-  "bbox": [-82.312436,28.327082,-82.312436,28.327082],
-  "geometry": {"coordinates":[-82.312436,28.327082],"type":"Point"}
+  "bbox": [
+    -82.312436,
+    28.327082,
+    -82.312436,
+    28.327082
+],
+  "geometry": {"coordinates":[-82.31243600000001,28.327082],"type":"Point"}
 }

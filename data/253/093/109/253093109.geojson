@@ -2,13 +2,14 @@
   "id": 253093109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.77267,26.225349,-81.77267,26.225349",
     "geom:latitude":26.225349,
     "geom:longitude":-81.77267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Trade Center Way",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253093109,
-    "wof:lastmodified":1449062830,
+    "wof:lastmodified":1466429789,
     "wof:name":"Armalavage & Associates Inc",
     "wof:parent_id":85889219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.77267,26.225349,-81.77267,26.225349],
-  "geometry": {"coordinates":[-81.77267,26.225349],"type":"Point"}
+  "bbox": [
+    -81.77267,
+    26.225349,
+    -81.77267,
+    26.225349
+],
+  "geometry": {"coordinates":[-81.77267000000001,26.225349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203231125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.012121,29.123469,-81.012121,29.123469",
     "geom:latitude":29.123469,
     "geom:longitude":-81.012121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1394 Dunlawton Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203231125,
-    "wof:lastmodified":1449025901,
+    "wof:lastmodified":1466429296,
     "wof:name":"Ere Lawn Service",
     "wof:parent_id":85823875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.012121,29.123469,-81.012121,29.123469],
-  "geometry": {"coordinates":[-81.012121,29.123469],"type":"Point"}
+  "bbox": [
+    -81.012121,
+    29.123469,
+    -81.012121,
+    29.123469
+],
+  "geometry": {"coordinates":[-81.01212099999999,29.123469],"type":"Point"}
 }

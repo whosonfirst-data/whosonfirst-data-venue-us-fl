@@ -2,13 +2,14 @@
   "id": 203340191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.441185,27.483367,-81.441185,27.483367",
     "geom:latitude":27.483367,
     "geom:longitude":-81.441185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 Chicago Ave",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203340191,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466430665,
     "wof:name":"Stephens Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.441185,27.483367,-81.441185,27.483367],
+  "bbox": [
+    -81.441185,
+    27.483367,
+    -81.441185,
+    27.483367
+],
   "geometry": {"coordinates":[-81.441185,27.483367],"type":"Point"}
 }

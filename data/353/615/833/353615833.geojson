@@ -2,13 +2,14 @@
   "id": 353615833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.126131,25.93704,-80.126131,25.93704",
     "geom:latitude":25.93704,
     "geom:longitude":-80.126131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 NE 174th St",
     "sg:city":"Sunny Isles Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353615833,
-    "wof:lastmodified":1449019059,
+    "wof:lastmodified":1466438073,
     "wof:name":"New Point Of Sale",
     "wof:parent_id":85851449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.126131,25.93704,-80.126131,25.93704],
+  "bbox": [
+    -80.126131,
+    25.93704,
+    -80.126131,
+    25.93704
+],
   "geometry": {"coordinates":[-80.126131,25.93704],"type":"Point"}
 }

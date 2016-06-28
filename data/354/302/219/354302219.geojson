@@ -2,13 +2,14 @@
   "id": 354302219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.188012,28.518383,-81.188012,28.518383",
     "geom:latitude":28.518383,
     "geom:longitude":-81.188012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S Alafaya Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354302219,
-    "wof:lastmodified":1449066484,
+    "wof:lastmodified":1466440734,
     "wof:name":"Eastwood Golf Club",
     "wof:parent_id":85889309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-81.188012,28.518383,-81.188012,28.518383],
+  "bbox": [
+    -81.188012,
+    28.518383,
+    -81.188012,
+    28.518383
+],
   "geometry": {"coordinates":[-81.188012,28.518383],"type":"Point"}
 }

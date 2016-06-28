@@ -2,13 +2,14 @@
   "id": 236379823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.295044,29.850546,-81.295044,29.850546",
     "geom:latitude":29.850546,
     "geom:longitude":-81.295044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Fiddlers Point Dr",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236379823,
-    "wof:lastmodified":1449003588,
+    "wof:lastmodified":1466433765,
     "wof:name":"Heart Center of Saint Augustin",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.295044,29.850546,-81.295044,29.850546],
+  "bbox": [
+    -81.295044,
+    29.850546,
+    -81.295044,
+    29.850546
+],
   "geometry": {"coordinates":[-81.295044,29.850546],"type":"Point"}
 }

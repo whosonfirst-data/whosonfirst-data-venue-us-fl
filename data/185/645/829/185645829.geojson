@@ -2,13 +2,14 @@
   "id": 185645829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.605395,27.820721,-82.605395,27.820721",
     "geom:latitude":27.820721,
     "geom:longitude":-82.605395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 Bayou Grande Blvd NE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185645829,
-    "wof:lastmodified":1449006779,
+    "wof:lastmodified":1466444504,
     "wof:name":"Bay Standard",
     "wof:parent_id":85848575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.605395,27.820721,-82.605395,27.820721],
+  "bbox": [
+    -82.605395,
+    27.820721,
+    -82.605395,
+    27.820721
+],
   "geometry": {"coordinates":[-82.605395,27.820721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219507253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.13957,28.002703,-82.13957,28.002703",
     "geom:latitude":28.002703,
     "geom:longitude":-82.13957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Plantation Cir",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219507253,
-    "wof:lastmodified":1449072197,
+    "wof:lastmodified":1466431613,
     "wof:name":"Allpointe Mortgage",
     "wof:parent_id":85889477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-82.13957,28.002703,-82.13957,28.002703],
-  "geometry": {"coordinates":[-82.13957,28.002703],"type":"Point"}
+  "bbox": [
+    -82.13957,
+    28.002703,
+    -82.13957,
+    28.002703
+],
+  "geometry": {"coordinates":[-82.13957000000001,28.002703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320202851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15511,26.184627,-80.15511,26.184627",
     "geom:latitude":26.184627,
     "geom:longitude":-80.15511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4621 NW 9th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320202851,
-    "wof:lastmodified":1449014479,
+    "wof:lastmodified":1466436856,
     "wof:name":"M B I Automations",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.15511,26.184627,-80.15511,26.184627],
-  "geometry": {"coordinates":[-80.15511,26.184627],"type":"Point"}
+  "bbox": [
+    -80.15511,
+    26.184627,
+    -80.15511,
+    26.184627
+],
+  "geometry": {"coordinates":[-80.15510999999999,26.184627],"type":"Point"}
 }

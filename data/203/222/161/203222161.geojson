@@ -2,13 +2,14 @@
   "id": 203222161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.036603,29.171951,-81.036603,29.171951",
     "geom:latitude":29.171951,
     "geom:longitude":-81.036603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1377 Beville Rd",
     "sg:city":"South Daytona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203222161,
-    "wof:lastmodified":1449026247,
+    "wof:lastmodified":1466429174,
     "wof:name":"Corner Cleaners",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.036603,29.171951,-81.036603,29.171951],
+  "bbox": [
+    -81.036603,
+    29.171951,
+    -81.036603,
+    29.171951
+],
   "geometry": {"coordinates":[-81.036603,29.171951],"type":"Point"}
 }

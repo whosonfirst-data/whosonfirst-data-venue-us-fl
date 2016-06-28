@@ -2,13 +2,14 @@
   "id": 404207765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25723,25.913636,-80.25723,25.913636",
     "geom:latitude":25.913636,
     "geom:longitude":-80.25723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15400 NW 34th Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404207765,
-    "wof:lastmodified":1449039967,
+    "wof:lastmodified":1466443461,
     "wof:name":"Ivory International Inc",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.25723,25.913636,-80.25723,25.913636],
-  "geometry": {"coordinates":[-80.25723,25.913636],"type":"Point"}
+  "bbox": [
+    -80.25723,
+    25.913636,
+    -80.25723,
+    25.913636
+],
+  "geometry": {"coordinates":[-80.25723000000001,25.913636],"type":"Point"}
 }

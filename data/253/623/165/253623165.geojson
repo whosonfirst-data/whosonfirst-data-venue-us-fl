@@ -2,13 +2,14 @@
   "id": 253623165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.458953,27.229235,-82.458953,27.229235",
     "geom:latitude":27.229235,
     "geom:longitude":-82.458953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5533 Bilbao Pl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253623165,
-    "wof:lastmodified":1449064913,
+    "wof:lastmodified":1466437828,
     "wof:name":"Micro Air Testing LLC",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.458953,27.229235,-82.458953,27.229235],
-  "geometry": {"coordinates":[-82.458953,27.229235],"type":"Point"}
+  "bbox": [
+    -82.458953,
+    27.229235,
+    -82.458953,
+    27.229235
+],
+  "geometry": {"coordinates":[-82.45895299999999,27.229235],"type":"Point"}
 }

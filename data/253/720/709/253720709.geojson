@@ -2,13 +2,14 @@
   "id": 253720709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.728975,28.879556,-81.728975,28.879556",
     "geom:latitude":28.879556,
     "geom:longitude":-81.728975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36525 S Fish Camp Rd",
     "sg:city":"Grand Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253720709,
-    "wof:lastmodified":1449063522,
+    "wof:lastmodified":1466439540,
     "wof:name":"US Post Office",
     "wof:parent_id":85888873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.728975,28.879556,-81.728975,28.879556],
-  "geometry": {"coordinates":[-81.728975,28.879556],"type":"Point"}
+  "bbox": [
+    -81.728975,
+    28.879556,
+    -81.728975,
+    28.879556
+],
+  "geometry": {"coordinates":[-81.72897500000001,28.879556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270317983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.307171,28.889257,-81.307171,28.889257",
     "geom:latitude":28.889257,
     "geom:longitude":-81.307171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 S Charles Richard Beall Blvd",
     "sg:city":"Debary",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270317983,
-    "wof:lastmodified":1449009748,
+    "wof:lastmodified":1466434902,
     "wof:name":"US Post Office",
     "wof:parent_id":85805767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.307171,28.889257,-81.307171,28.889257],
+  "bbox": [
+    -81.307171,
+    28.889257,
+    -81.307171,
+    28.889257
+],
   "geometry": {"coordinates":[-81.307171,28.889257],"type":"Point"}
 }

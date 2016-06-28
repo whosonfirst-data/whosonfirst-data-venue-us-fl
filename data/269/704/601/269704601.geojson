@@ -2,13 +2,14 @@
   "id": 269704601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.239714,29.096348,-82.239714,29.096348",
     "geom:latitude":29.096348,
     "geom:longitude":-82.239714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8449 SW Hwy 200",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269704601,
-    "wof:lastmodified":1449036778,
+    "wof:lastmodified":1466432417,
     "wof:name":"Artistic Flowers",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.239714,29.096348,-82.239714,29.096348],
-  "geometry": {"coordinates":[-82.239714,29.096348],"type":"Point"}
+  "bbox": [
+    -82.239714,
+    29.096348,
+    -82.239714,
+    29.096348
+],
+  "geometry": {"coordinates":[-82.23971400000001,29.096348],"type":"Point"}
 }

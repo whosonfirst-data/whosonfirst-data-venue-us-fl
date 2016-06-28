@@ -2,13 +2,14 @@
   "id": 370760585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.053823,29.267808,-81.053823,29.267808",
     "geom:latitude":29.267808,
     "geom:longitude":-81.053823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 S Yonge St",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370760585,
-    "wof:lastmodified":1449032347,
+    "wof:lastmodified":1466445846,
     "wof:name":"Book Shelf",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-81.053823,29.267808,-81.053823,29.267808],
-  "geometry": {"coordinates":[-81.053823,29.267808],"type":"Point"}
+  "bbox": [
+    -81.053823,
+    29.267808,
+    -81.053823,
+    29.267808
+],
+  "geometry": {"coordinates":[-81.05382299999999,29.267808],"type":"Point"}
 }

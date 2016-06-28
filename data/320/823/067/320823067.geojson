@@ -2,13 +2,14 @@
   "id": 320823067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.696818,28.19455,-82.696818,28.19455",
     "geom:latitude":28.19455,
     "geom:longitude":-82.696818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7432 Wimpole Dr",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320823067,
-    "wof:lastmodified":1449014927,
+    "wof:lastmodified":1466447080,
     "wof:name":"TLC Transportation Svc",
     "wof:parent_id":85889249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.696818,28.19455,-82.696818,28.19455],
-  "geometry": {"coordinates":[-82.696818,28.19455],"type":"Point"}
+  "bbox": [
+    -82.696818,
+    28.19455,
+    -82.696818,
+    28.19455
+],
+  "geometry": {"coordinates":[-82.69681799999999,28.19455],"type":"Point"}
 }

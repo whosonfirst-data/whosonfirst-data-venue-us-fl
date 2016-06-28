@@ -2,13 +2,14 @@
   "id": 287051093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.390293,28.668084,-81.390293,28.668084",
     "geom:latitude":28.668084,
     "geom:longitude":-81.390293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Douglas Ave",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287051093,
-    "wof:lastmodified":1449001207,
+    "wof:lastmodified":1466430701,
     "wof:name":"Global Model Registry",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modeling"
     ]
 },
-  "bbox": [-81.390293,28.668084,-81.390293,28.668084],
+  "bbox": [
+    -81.390293,
+    28.668084,
+    -81.390293,
+    28.668084
+],
   "geometry": {"coordinates":[-81.390293,28.668084],"type":"Point"}
 }

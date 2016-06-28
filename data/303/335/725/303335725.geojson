@@ -2,13 +2,14 @@
   "id": 303335725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.486,30.520554,-86.486,30.520554",
     "geom:latitude":30.520554,
     "geom:longitude":-86.486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303335725,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1466436319,
     "wof:name":"Sun's Restaurant",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.486,30.520554,-86.486,30.520554],
+  "bbox": [
+    -86.486,
+    30.520554,
+    -86.486,
+    30.520554
+],
   "geometry": {"coordinates":[-86.486,30.520554],"type":"Point"}
 }

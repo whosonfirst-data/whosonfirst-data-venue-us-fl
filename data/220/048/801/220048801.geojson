@@ -2,13 +2,14 @@
   "id": 220048801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780398,28.515403,-81.780398,28.515403",
     "geom:latitude":28.515403,
     "geom:longitude":-81.780398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10541 Mira Lago Ln",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220048801,
-    "wof:lastmodified":1449074299,
+    "wof:lastmodified":1466444734,
     "wof:name":"Hollinger Frank & Son Crpt Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.780398,28.515403,-81.780398,28.515403],
-  "geometry": {"coordinates":[-81.780398,28.515403],"type":"Point"}
+  "bbox": [
+    -81.780398,
+    28.515403,
+    -81.780398,
+    28.515403
+],
+  "geometry": {"coordinates":[-81.78039800000001,28.515403],"type":"Point"}
 }

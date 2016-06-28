@@ -2,13 +2,14 @@
   "id": 286662223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.313409,30.458695,-84.313409,30.458695",
     "geom:latitude":30.458695,
     "geom:longitude":-84.313409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 High Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286662223,
-    "wof:lastmodified":1449017177,
+    "wof:lastmodified":1466436664,
     "wof:name":"Lichgate On High Road",
     "wof:parent_id":85881337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.313409,30.458695,-84.313409,30.458695],
-  "geometry": {"coordinates":[-84.313409,30.458695],"type":"Point"}
+  "bbox": [
+    -84.313409,
+    30.458695,
+    -84.313409,
+    30.458695
+],
+  "geometry": {"coordinates":[-84.31340899999999,30.458695],"type":"Point"}
 }

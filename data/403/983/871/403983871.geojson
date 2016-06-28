@@ -2,13 +2,14 @@
   "id": 403983871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.767485,26.11315,-81.767485,26.11315",
     "geom:latitude":26.11315,
     "geom:longitude":-81.767485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Jeepers Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403983871,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1466444058,
     "wof:name":"Sergio Eduardo Mora",
     "wof:parent_id":85889225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.767485,26.11315,-81.767485,26.11315],
-  "geometry": {"coordinates":[-81.767485,26.11315],"type":"Point"}
+  "bbox": [
+    -81.767485,
+    26.11315,
+    -81.767485,
+    26.11315
+],
+  "geometry": {"coordinates":[-81.76748499999999,26.11315],"type":"Point"}
 }

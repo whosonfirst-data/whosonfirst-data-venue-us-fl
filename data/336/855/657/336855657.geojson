@@ -2,13 +2,14 @@
   "id": 336855657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.702125,30.189756,-85.702125,30.189756",
     "geom:latitude":30.189756,
     "geom:longitude":-85.702125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 W 23rd St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336855657,
-    "wof:lastmodified":1448997725,
+    "wof:lastmodified":1466439440,
     "wof:name":"Well Package",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-85.702125,30.189756,-85.702125,30.189756],
+  "bbox": [
+    -85.702125,
+    30.189756,
+    -85.702125,
+    30.189756
+],
   "geometry": {"coordinates":[-85.702125,30.189756],"type":"Point"}
 }

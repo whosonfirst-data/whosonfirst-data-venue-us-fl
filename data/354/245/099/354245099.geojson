@@ -2,13 +2,14 @@
   "id": 354245099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.240258,30.489323,-87.240258,30.489323",
     "geom:latitude":30.489323,
     "geom:longitude":-87.240258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Royal Ln",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354245099,
-    "wof:lastmodified":1449067621,
+    "wof:lastmodified":1466439872,
     "wof:name":"Conny Quinas Painting",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painting"
     ]
 },
-  "bbox": [-87.240258,30.489323,-87.240258,30.489323],
+  "bbox": [
+    -87.240258,
+    30.489323,
+    -87.240258,
+    30.489323
+],
   "geometry": {"coordinates":[-87.240258,30.489323],"type":"Point"}
 }

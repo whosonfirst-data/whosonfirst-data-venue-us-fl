@@ -2,13 +2,14 @@
   "id": 320226235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.273119,28.803518,-81.273119,28.803518",
     "geom:latitude":28.803518,
     "geom:longitude":-81.273119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S French Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320226235,
-    "wof:lastmodified":1449013964,
+    "wof:lastmodified":1466437255,
     "wof:name":"Premier Auto Inc",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-81.273119,28.803518,-81.273119,28.803518],
-  "geometry": {"coordinates":[-81.273119,28.803518],"type":"Point"}
+  "bbox": [
+    -81.273119,
+    28.803518,
+    -81.273119,
+    28.803518
+],
+  "geometry": {"coordinates":[-81.27311899999999,28.803518],"type":"Point"}
 }

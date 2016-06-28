@@ -2,13 +2,14 @@
   "id": 236062201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529434,29.727351,-82.529434,29.727351",
     "geom:latitude":29.727351,
     "geom:longitude":-82.529434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7723 NW 176 St",
     "sg:city":"Alachua",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236062201,
-    "wof:lastmodified":1449004967,
+    "wof:lastmodified":1466429261,
     "wof:name":"John Hughes Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.529434,29.727351,-82.529434,29.727351],
-  "geometry": {"coordinates":[-82.529434,29.727351],"type":"Point"}
+  "bbox": [
+    -82.529434,
+    29.727351,
+    -82.529434,
+    29.727351
+],
+  "geometry": {"coordinates":[-82.52943399999999,29.727351],"type":"Point"}
 }

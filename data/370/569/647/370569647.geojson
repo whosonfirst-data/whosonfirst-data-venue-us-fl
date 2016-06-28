@@ -2,13 +2,14 @@
   "id": 370569647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.406331,28.426044,-81.406331,28.426044",
     "geom:latitude":28.426044,
     "geom:longitude":-81.406331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2080 Principal Row",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370569647,
-    "wof:lastmodified":1449032336,
+    "wof:lastmodified":1466442918,
     "wof:name":"Veterinary Emergency Clinic",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-81.406331,28.426044,-81.406331,28.426044],
-  "geometry": {"coordinates":[-81.406331,28.426044],"type":"Point"}
+  "bbox": [
+    -81.406331,
+    28.426044,
+    -81.406331,
+    28.426044
+],
+  "geometry": {"coordinates":[-81.40633099999999,28.426044],"type":"Point"}
 }

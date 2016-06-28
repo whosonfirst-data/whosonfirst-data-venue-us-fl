@@ -2,13 +2,14 @@
   "id": 169761143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20106,26.345569,-80.20106,26.345569",
     "geom:latitude":26.345569,
     "geom:longitude":-80.20106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9860 SW 3rd St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169761143,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466428584,
     "wof:name":"Boca Palms Apartments",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.20106,26.345569,-80.20106,26.345569],
+  "bbox": [
+    -80.20106,
+    26.345569,
+    -80.20106,
+    26.345569
+],
   "geometry": {"coordinates":[-80.20106,26.345569],"type":"Point"}
 }

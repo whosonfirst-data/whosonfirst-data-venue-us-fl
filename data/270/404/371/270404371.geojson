@@ -2,13 +2,14 @@
   "id": 270404371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.69841,28.217402,-80.69841,28.217402",
     "geom:latitude":28.217402,
     "geom:longitude":-80.69841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Silver Lake Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270404371,
-    "wof:lastmodified":1449010288,
+    "wof:lastmodified":1466436375,
     "wof:name":"Image",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-80.69841,28.217402,-80.69841,28.217402],
+  "bbox": [
+    -80.69841,
+    28.217402,
+    -80.69841,
+    28.217402
+],
   "geometry": {"coordinates":[-80.69841,28.217402],"type":"Point"}
 }

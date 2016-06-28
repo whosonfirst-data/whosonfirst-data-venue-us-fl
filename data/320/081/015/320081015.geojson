@@ -2,13 +2,14 @@
   "id": 320081015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.380585,27.256209,-80.380585,27.256209",
     "geom:latitude":27.256209,
     "geom:longitude":-80.380585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 SW Aurelia Ave",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320081015,
-    "wof:lastmodified":1449012429,
+    "wof:lastmodified":1466434772,
     "wof:name":"Corrosion Ctrl Cons Inspctions",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-80.380585,27.256209,-80.380585,27.256209],
+  "bbox": [
+    -80.380585,
+    27.256209,
+    -80.380585,
+    27.256209
+],
   "geometry": {"coordinates":[-80.380585,27.256209],"type":"Point"}
 }

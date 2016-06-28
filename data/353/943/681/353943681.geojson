@@ -2,13 +2,14 @@
   "id": 353943681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246556,25.955909,-80.246556,25.955909",
     "geom:latitude":25.955909,
     "geom:longitude":-80.246556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 NW 200th Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353943681,
-    "wof:lastmodified":1449018940,
+    "wof:lastmodified":1466443128,
     "wof:name":"Lennar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.246556,25.955909,-80.246556,25.955909],
+  "bbox": [
+    -80.246556,
+    25.955909,
+    -80.246556,
+    25.955909
+],
   "geometry": {"coordinates":[-80.246556,25.955909],"type":"Point"}
 }

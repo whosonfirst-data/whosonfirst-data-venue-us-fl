@@ -2,13 +2,14 @@
   "id": 303822151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300244,27.93201,-82.300244,27.93201",
     "geom:latitude":27.93201,
     "geom:longitude":-82.300244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Askew Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303822151,
-    "wof:lastmodified":1449000490,
+    "wof:lastmodified":1466444683,
     "wof:name":"Sun Lake Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.300244,27.93201,-82.300244,27.93201],
-  "geometry": {"coordinates":[-82.300244,27.93201],"type":"Point"}
+  "bbox": [
+    -82.300244,
+    27.93201,
+    -82.300244,
+    27.93201
+],
+  "geometry": {"coordinates":[-82.30024400000001,27.93201],"type":"Point"}
 }

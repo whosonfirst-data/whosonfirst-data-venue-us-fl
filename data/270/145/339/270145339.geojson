@@ -2,13 +2,14 @@
   "id": 270145339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.232216,30.38991,-84.232216,30.38991",
     "geom:latitude":30.38991,
     "geom:longitude":-84.232216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 Esplanade Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270145339,
-    "wof:lastmodified":1449009361,
+    "wof:lastmodified":1466431936,
     "wof:name":"Facility MGT & Bldg Cnstr",
     "wof:parent_id":85881369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-84.232216,30.38991,-84.232216,30.38991],
-  "geometry": {"coordinates":[-84.232216,30.38991],"type":"Point"}
+  "bbox": [
+    -84.232216,
+    30.38991,
+    -84.232216,
+    30.38991
+],
+  "geometry": {"coordinates":[-84.23221599999999,30.38991],"type":"Point"}
 }

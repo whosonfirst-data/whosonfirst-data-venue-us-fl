@@ -2,13 +2,14 @@
   "id": 252977475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184595,25.857061,-80.184595,25.857061",
     "geom:latitude":25.857061,
     "geom:longitude":-80.184595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8995 Biscayne Blvd",
     "sg:city":"Miami Shores",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252977475,
-    "wof:lastmodified":1449006546,
+    "wof:lastmodified":1466432319,
     "wof:name":"Online Consignment Store",
     "wof:parent_id":85896193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-80.184595,25.857061,-80.184595,25.857061],
+  "bbox": [
+    -80.184595,
+    25.857061,
+    -80.184595,
+    25.857061
+],
   "geometry": {"coordinates":[-80.184595,25.857061],"type":"Point"}
 }

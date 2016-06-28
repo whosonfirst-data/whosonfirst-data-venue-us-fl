@@ -2,13 +2,14 @@
   "id": 303316661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.490281,28.080138,-82.490281,28.080138",
     "geom:latitude":28.080138,
     "geom:longitude":-82.490281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13926 Lake Magdalene Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303316661,
-    "wof:lastmodified":1448999775,
+    "wof:lastmodified":1466435993,
     "wof:name":"Oceanside Investments",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-82.490281,28.080138,-82.490281,28.080138],
+  "bbox": [
+    -82.490281,
+    28.080138,
+    -82.490281,
+    28.080138
+],
   "geometry": {"coordinates":[-82.490281,28.080138],"type":"Point"}
 }

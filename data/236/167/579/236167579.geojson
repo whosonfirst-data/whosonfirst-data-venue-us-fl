@@ -2,13 +2,14 @@
   "id": 236167579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.050784,29.258548,-81.050784,29.258548",
     "geom:latitude":29.258548,
     "geom:longitude":-81.050784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1637 State Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236167579,
-    "wof:lastmodified":1449003348,
+    "wof:lastmodified":1466430760,
     "wof:name":"All Daytona Septic Tank Svc",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-81.050784,29.258548,-81.050784,29.258548],
-  "geometry": {"coordinates":[-81.050784,29.258548],"type":"Point"}
+  "bbox": [
+    -81.050784,
+    29.258548,
+    -81.050784,
+    29.258548
+],
+  "geometry": {"coordinates":[-81.05078399999999,29.258548],"type":"Point"}
 }

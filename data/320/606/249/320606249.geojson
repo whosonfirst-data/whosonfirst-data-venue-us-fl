@@ -2,13 +2,14 @@
   "id": 320606249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.366723,28.436121,-81.366723,28.436121",
     "geom:latitude":28.436121,
     "geom:longitude":-81.366723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Landstreet Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320606249,
-    "wof:lastmodified":1449011827,
+    "wof:lastmodified":1466443899,
     "wof:name":"Orlando's Super Ctr Auto Body",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.366723,28.436121,-81.366723,28.436121],
-  "geometry": {"coordinates":[-81.366723,28.436121],"type":"Point"}
+  "bbox": [
+    -81.366723,
+    28.436121,
+    -81.366723,
+    28.436121
+],
+  "geometry": {"coordinates":[-81.36672299999999,28.436121],"type":"Point"}
 }

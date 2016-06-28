@@ -2,13 +2,14 @@
   "id": 203296359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.786401,28.050983,-82.786401,28.050983",
     "geom:latitude":28.050983,
     "geom:longitude":-82.786401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Causeway Blvd",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203296359,
-    "wof:lastmodified":1449026486,
+    "wof:lastmodified":1466430126,
     "wof:name":"Marker 1 Marina",
     "wof:parent_id":85888753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-82.786401,28.050983,-82.786401,28.050983],
+  "bbox": [
+    -82.786401,
+    28.050983,
+    -82.786401,
+    28.050983
+],
   "geometry": {"coordinates":[-82.786401,28.050983],"type":"Point"}
 }

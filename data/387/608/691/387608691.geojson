@@ -2,13 +2,14 @@
   "id": 387608691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320416,25.738967,-80.320416,25.738967",
     "geom:latitude":25.738967,
     "geom:longitude":-80.320416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7770 SW 33rd Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387608691,
-    "wof:lastmodified":1449057732,
+    "wof:lastmodified":1466447356,
     "wof:name":"Armando Gonzalez Painting",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.320416,25.738967,-80.320416,25.738967],
-  "geometry": {"coordinates":[-80.320416,25.738967],"type":"Point"}
+  "bbox": [
+    -80.320416,
+    25.738967,
+    -80.320416,
+    25.738967
+],
+  "geometry": {"coordinates":[-80.32041599999999,25.738967],"type":"Point"}
 }

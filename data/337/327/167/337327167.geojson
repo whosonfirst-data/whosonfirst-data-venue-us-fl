@@ -2,13 +2,14 @@
   "id": 337327167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.81646,26.252841,-81.81646,26.252841",
     "geom:latitude":26.252841,
     "geom:longitude":-81.81646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"883 Vanderbilt Beach Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337327167,
-    "wof:lastmodified":1449026998,
+    "wof:lastmodified":1466434975,
     "wof:name":"Same Day Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-81.81646,26.252841,-81.81646,26.252841],
-  "geometry": {"coordinates":[-81.81646,26.252841],"type":"Point"}
+  "bbox": [
+    -81.81646,
+    26.252841,
+    -81.81646,
+    26.252841
+],
+  "geometry": {"coordinates":[-81.81646000000001,26.252841],"type":"Point"}
 }

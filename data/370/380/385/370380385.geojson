@@ -2,13 +2,14 @@
   "id": 370380385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.281775,25.821769,-80.281775,25.821769",
     "geom:latitude":25.821769,
     "geom:longitude":-80.281775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 N Royal Poinciana Blvd",
     "sg:city":"Miami Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370380385,
-    "wof:lastmodified":1449030660,
+    "wof:lastmodified":1466440004,
     "wof:name":"Miami Springs Cleaners",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.281775,25.821769,-80.281775,25.821769],
+  "bbox": [
+    -80.281775,
+    25.821769,
+    -80.281775,
+    25.821769
+],
   "geometry": {"coordinates":[-80.281775,25.821769],"type":"Point"}
 }

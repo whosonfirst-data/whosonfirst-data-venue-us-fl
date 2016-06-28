@@ -2,13 +2,14 @@
   "id": 404023495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.528945,30.16391,-81.528945,30.16391",
     "geom:latitude":30.16391,
     "geom:longitude":-81.528945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11339 Distribution Ave E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404023495,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1466440627,
     "wof:name":"Enfm USA Inc",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "distributes"
     ]
 },
-  "bbox": [-81.528945,30.16391,-81.528945,30.16391],
-  "geometry": {"coordinates":[-81.528945,30.16391],"type":"Point"}
+  "bbox": [
+    -81.528945,
+    30.16391,
+    -81.528945,
+    30.16391
+],
+  "geometry": {"coordinates":[-81.52894499999999,30.16391],"type":"Point"}
 }

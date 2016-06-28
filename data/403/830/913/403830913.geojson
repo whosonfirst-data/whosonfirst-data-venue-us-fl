@@ -2,13 +2,14 @@
   "id": 403830913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.244824,25.898762,-80.244824,25.898762",
     "geom:latitude":25.898762,
     "geom:longitude":-80.244824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Opa Locka Blvd",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403830913,
-    "wof:lastmodified":1449054921,
+    "wof:lastmodified":1466441631,
     "wof:name":"Wilson Hart Hardware Inc",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.244824,25.898762,-80.244824,25.898762],
-  "geometry": {"coordinates":[-80.244824,25.898762],"type":"Point"}
+  "bbox": [
+    -80.244824,
+    25.898762,
+    -80.244824,
+    25.898762
+],
+  "geometry": {"coordinates":[-80.24482399999999,25.898762],"type":"Point"}
 }

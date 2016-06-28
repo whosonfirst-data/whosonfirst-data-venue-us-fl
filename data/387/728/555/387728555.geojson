@@ -2,13 +2,14 @@
   "id": 387728555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451253,28.052087,-82.451253,28.052087",
     "geom:latitude":28.052087,
     "geom:longitude":-82.451253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11302 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387728555,
-    "wof:lastmodified":1449056995,
+    "wof:lastmodified":1466448365,
     "wof:name":"Pot World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-82.451253,28.052087,-82.451253,28.052087],
-  "geometry": {"coordinates":[-82.451253,28.052087],"type":"Point"}
+  "bbox": [
+    -82.451253,
+    28.052087,
+    -82.451253,
+    28.052087
+],
+  "geometry": {"coordinates":[-82.45125299999999,28.052087],"type":"Point"}
 }

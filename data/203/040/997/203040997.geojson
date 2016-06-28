@@ -2,13 +2,14 @@
   "id": 203040997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.252639,25.779038,-80.252639,25.779038",
     "geom:latitude":25.779038,
     "geom:longitude":-80.252639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 NW 35th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203040997,
-    "wof:lastmodified":1449026827,
+    "wof:lastmodified":1466443829,
     "wof:name":"Sleep Disorder Diagnosis Ctr",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.252639,25.779038,-80.252639,25.779038],
+  "bbox": [
+    -80.252639,
+    25.779038,
+    -80.252639,
+    25.779038
+],
   "geometry": {"coordinates":[-80.252639,25.779038],"type":"Point"}
 }

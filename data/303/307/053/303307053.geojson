@@ -2,13 +2,14 @@
   "id": 303307053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.569718,28.586877,-81.569718,28.586877",
     "geom:latitude":28.586877,
     "geom:longitude":-81.569718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 E Spring Ridge Cir",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303307053,
-    "wof:lastmodified":1448998743,
+    "wof:lastmodified":1466435833,
     "wof:name":"Al Hoehener Vending",
     "wof:parent_id":85813079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.569718,28.586877,-81.569718,28.586877],
-  "geometry": {"coordinates":[-81.569718,28.586877],"type":"Point"}
+  "bbox": [
+    -81.569718,
+    28.586877,
+    -81.569718,
+    28.586877
+],
+  "geometry": {"coordinates":[-81.56971799999999,28.586877],"type":"Point"}
 }

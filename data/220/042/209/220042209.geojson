@@ -2,13 +2,14 @@
   "id": 220042209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.319288,29.897287,-81.319288,29.897287",
     "geom:latitude":29.897287,
     "geom:longitude":-81.319288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Orange St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220042209,
-    "wof:lastmodified":1449074650,
+    "wof:lastmodified":1466444605,
     "wof:name":"Newspaper",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-81.319288,29.897287,-81.319288,29.897287],
+  "bbox": [
+    -81.319288,
+    29.897287,
+    -81.319288,
+    29.897287
+],
   "geometry": {"coordinates":[-81.319288,29.897287],"type":"Point"}
 }

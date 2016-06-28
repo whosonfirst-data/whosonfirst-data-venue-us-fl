@@ -2,13 +2,14 @@
   "id": 202885103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.680033,26.154719,-81.680033,26.154719",
     "geom:latitude":26.154719,
     "geom:longitude":-81.680033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3646 Periwinkle Way",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202885103,
-    "wof:lastmodified":1449061459,
+    "wof:lastmodified":1466433408,
     "wof:name":"My House Tenders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sitter"
     ]
 },
-  "bbox": [-81.680033,26.154719,-81.680033,26.154719],
-  "geometry": {"coordinates":[-81.680033,26.154719],"type":"Point"}
+  "bbox": [
+    -81.680033,
+    26.154719,
+    -81.680033,
+    26.154719
+],
+  "geometry": {"coordinates":[-81.68003299999999,26.154719],"type":"Point"}
 }

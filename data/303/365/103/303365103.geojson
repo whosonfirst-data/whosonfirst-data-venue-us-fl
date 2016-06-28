@@ -2,13 +2,14 @@
   "id": 303365103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.073944,30.602248,-87.073944,30.602248",
     "geom:latitude":30.602248,
     "geom:longitude":-87.073944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6275 US Hwy 90",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303365103,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1466436823,
     "wof:name":"Wal-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "discount"
     ]
 },
-  "bbox": [-87.073944,30.602248,-87.073944,30.602248],
+  "bbox": [
+    -87.073944,
+    30.602248,
+    -87.073944,
+    30.602248
+],
   "geometry": {"coordinates":[-87.073944,30.602248],"type":"Point"}
 }

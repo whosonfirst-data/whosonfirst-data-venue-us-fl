@@ -2,13 +2,14 @@
   "id": 236362503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335597,25.833397,-80.335597,25.833397",
     "geom:latitude":25.833397,
     "geom:longitude":-80.335597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 NW 66th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236362503,
-    "wof:lastmodified":1449003855,
+    "wof:lastmodified":1466433527,
     "wof:name":"G M Air",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.335597,25.833397,-80.335597,25.833397],
-  "geometry": {"coordinates":[-80.335597,25.833397],"type":"Point"}
+  "bbox": [
+    -80.335597,
+    25.833397,
+    -80.335597,
+    25.833397
+],
+  "geometry": {"coordinates":[-80.33559700000001,25.833397],"type":"Point"}
 }

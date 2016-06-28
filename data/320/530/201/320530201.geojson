@@ -2,13 +2,14 @@
   "id": 320530201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205153,25.778707,-80.205153,25.778707",
     "geom:latitude":25.778707,
     "geom:longitude":-80.205153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 NW 5th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320530201,
-    "wof:lastmodified":1449013252,
+    "wof:lastmodified":1466442552,
     "wof:name":"Arahy Bakery",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.205153,25.778707,-80.205153,25.778707],
+  "bbox": [
+    -80.205153,
+    25.778707,
+    -80.205153,
+    25.778707
+],
   "geometry": {"coordinates":[-80.205153,25.778707],"type":"Point"}
 }

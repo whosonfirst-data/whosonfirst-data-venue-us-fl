@@ -2,13 +2,14 @@
   "id": 286600035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.124007,30.593329,-83.124007,30.593329",
     "geom:latitude":30.593329,
     "geom:longitude":-83.124007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2039 Hamilton Ave",
     "sg:city":"Jennings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286600035,
-    "wof:lastmodified":1449015458,
+    "wof:lastmodified":1466435542,
     "wof:name":"Rutherford Auto Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-83.124007,30.593329,-83.124007,30.593329],
-  "geometry": {"coordinates":[-83.124007,30.593329],"type":"Point"}
+  "bbox": [
+    -83.124007,
+    30.593329,
+    -83.124007,
+    30.593329
+],
+  "geometry": {"coordinates":[-83.12400700000001,30.593329],"type":"Point"}
 }

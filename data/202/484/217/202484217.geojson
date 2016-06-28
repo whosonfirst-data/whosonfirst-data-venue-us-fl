@@ -2,13 +2,14 @@
   "id": 202484217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.350383,25.594407,-80.350383,25.594407",
     "geom:latitude":25.594407,
     "geom:longitude":-80.350383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18601 SW 98th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202484217,
-    "wof:lastmodified":1449062502,
+    "wof:lastmodified":1466445752,
     "wof:name":"Alain Septic Tank Corp",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-80.350383,25.594407,-80.350383,25.594407],
-  "geometry": {"coordinates":[-80.350383,25.594407],"type":"Point"}
+  "bbox": [
+    -80.350383,
+    25.594407,
+    -80.350383,
+    25.594407
+],
+  "geometry": {"coordinates":[-80.35038299999999,25.594407],"type":"Point"}
 }

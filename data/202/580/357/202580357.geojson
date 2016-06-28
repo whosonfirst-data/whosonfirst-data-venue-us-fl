@@ -2,13 +2,14 @@
   "id": 202580357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.321919,28.30585,-81.321919,28.30585",
     "geom:latitude":28.30585,
     "geom:longitude":-81.321919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 Lee Janzen Dr",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202580357,
-    "wof:lastmodified":1449061800,
+    "wof:lastmodified":1466429418,
     "wof:name":"Miller's Lawn Svc",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.321919,28.30585,-81.321919,28.30585],
-  "geometry": {"coordinates":[-81.321919,28.30585],"type":"Point"}
+  "bbox": [
+    -81.321919,
+    28.30585,
+    -81.321919,
+    28.30585
+],
+  "geometry": {"coordinates":[-81.32191899999999,28.30585],"type":"Point"}
 }

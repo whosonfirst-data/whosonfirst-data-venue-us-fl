@@ -2,13 +2,14 @@
   "id": 186501431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.218843,25.785528,-80.218843,25.785528",
     "geom:latitude":25.785528,
     "geom:longitude":-80.218843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 NW 12th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186501431,
-    "wof:lastmodified":1449053050,
+    "wof:lastmodified":1466432826,
     "wof:name":"Honorable Scott Bernstein",
     "wof:parent_id":85896177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.218843,25.785528,-80.218843,25.785528],
-  "geometry": {"coordinates":[-80.218843,25.785528],"type":"Point"}
+  "bbox": [
+    -80.218843,
+    25.785528,
+    -80.218843,
+    25.785528
+],
+  "geometry": {"coordinates":[-80.21884300000001,25.785528],"type":"Point"}
 }

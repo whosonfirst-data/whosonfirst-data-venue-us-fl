@@ -2,13 +2,14 @@
   "id": 236545279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.276606,28.255498,-81.276606,28.255498",
     "geom:latitude":28.255498,
     "geom:longitude":-81.276606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Michigan Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236545279,
-    "wof:lastmodified":1449002277,
+    "wof:lastmodified":1466436132,
     "wof:name":"Turf Dynamics",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.276606,28.255498,-81.276606,28.255498],
+  "bbox": [
+    -81.276606,
+    28.255498,
+    -81.276606,
+    28.255498
+],
   "geometry": {"coordinates":[-81.276606,28.255498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186048789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.701463,30.173392,-85.701463,30.173392",
     "geom:latitude":30.173392,
     "geom:longitude":-85.701463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Beck Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186048789,
-    "wof:lastmodified":1449051329,
+    "wof:lastmodified":1466444180,
     "wof:name":"Street Stylez",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.701463,30.173392,-85.701463,30.173392],
+  "bbox": [
+    -85.701463,
+    30.173392,
+    -85.701463,
+    30.173392
+],
   "geometry": {"coordinates":[-85.701463,30.173392],"type":"Point"}
 }

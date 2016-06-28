@@ -2,13 +2,14 @@
   "id": 303420169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.249109,28.877949,-81.249109,28.877949",
     "geom:latitude":28.877949,
     "geom:longitude":-81.249109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Providence Blvd",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303420169,
-    "wof:lastmodified":1448999290,
+    "wof:lastmodified":1466437771,
     "wof:name":"Gallery Of Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.249109,28.877949,-81.249109,28.877949],
+  "bbox": [
+    -81.249109,
+    28.877949,
+    -81.249109,
+    28.877949
+],
   "geometry": {"coordinates":[-81.249109,28.877949],"type":"Point"}
 }

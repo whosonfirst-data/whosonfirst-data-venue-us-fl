@@ -2,13 +2,14 @@
   "id": 387845293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396785,28.465396,-81.396785,28.465396",
     "geom:latitude":28.465396,
     "geom:longitude":-81.396785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387845293,
-    "wof:lastmodified":1449056725,
+    "wof:lastmodified":1466449204,
     "wof:name":"Miller Conrad Engineering Co",
     "wof:parent_id":85889285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.396785,28.465396,-81.396785,28.465396],
-  "geometry": {"coordinates":[-81.396785,28.465396],"type":"Point"}
+  "bbox": [
+    -81.396785,
+    28.465396,
+    -81.396785,
+    28.465396
+],
+  "geometry": {"coordinates":[-81.39678499999999,28.465396],"type":"Point"}
 }

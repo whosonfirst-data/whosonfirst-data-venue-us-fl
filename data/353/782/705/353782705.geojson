@@ -2,13 +2,14 @@
   "id": 353782705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.577228,30.265553,-81.577228,30.265553",
     "geom:latitude":30.265553,
     "geom:longitude":-81.577228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Dorothea Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353782705,
-    "wof:lastmodified":1449018246,
+    "wof:lastmodified":1466440663,
     "wof:name":"Ameritow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.577228,30.265553,-81.577228,30.265553],
-  "geometry": {"coordinates":[-81.577228,30.265553],"type":"Point"}
+  "bbox": [
+    -81.577228,
+    30.265553,
+    -81.577228,
+    30.265553
+],
+  "geometry": {"coordinates":[-81.57722800000001,30.265553],"type":"Point"}
 }

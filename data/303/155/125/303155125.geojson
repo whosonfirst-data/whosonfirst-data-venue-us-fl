@@ -2,13 +2,14 @@
   "id": 303155125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.633428,30.461026,-81.633428,30.461026",
     "geom:latitude":30.461026,
     "geom:longitude":-81.633428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12243 Sago Ave W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303155125,
-    "wof:lastmodified":1449000135,
+    "wof:lastmodified":1466433202,
     "wof:name":"L A Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-81.633428,30.461026,-81.633428,30.461026],
-  "geometry": {"coordinates":[-81.633428,30.461026],"type":"Point"}
+  "bbox": [
+    -81.633428,
+    30.461026,
+    -81.633428,
+    30.461026
+],
+  "geometry": {"coordinates":[-81.63342799999999,30.461026],"type":"Point"}
 }

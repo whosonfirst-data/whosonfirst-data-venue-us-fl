@@ -2,13 +2,14 @@
   "id": 270260029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132258,25.783769,-80.132258,25.783769",
     "geom:latitude":25.783769,
     "geom:longitude":-80.132258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270260029,
-    "wof:lastmodified":1449009045,
+    "wof:lastmodified":1466433911,
     "wof:name":"1234 Partners LTD",
     "wof:parent_id":85866195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.132258,25.783769,-80.132258,25.783769],
-  "geometry": {"coordinates":[-80.132258,25.783769],"type":"Point"}
+  "bbox": [
+    -80.132258,
+    25.783769,
+    -80.132258,
+    25.783769
+],
+  "geometry": {"coordinates":[-80.13225799999999,25.783769],"type":"Point"}
 }

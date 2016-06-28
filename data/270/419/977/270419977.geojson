@@ -2,13 +2,14 @@
   "id": 270419977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.05564,26.699322,-80.05564,26.699322",
     "geom:latitude":26.699322,
     "geom:longitude":-80.05564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Palm St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270419977,
-    "wof:lastmodified":1449011094,
+    "wof:lastmodified":1466436636,
     "wof:name":"National Collection Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.05564,26.699322,-80.05564,26.699322],
+  "bbox": [
+    -80.05564,
+    26.699322,
+    -80.05564,
+    26.699322
+],
   "geometry": {"coordinates":[-80.05564,26.699322],"type":"Point"}
 }

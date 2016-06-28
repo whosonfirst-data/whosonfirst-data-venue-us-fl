@@ -2,13 +2,14 @@
   "id": 386970749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.885005,26.706749,-81.885005,26.706749",
     "geom:latitude":26.706749,
     "geom:longitude":-81.885005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 Beryl Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386970749,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1466439039,
     "wof:name":"Transmission Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-81.885005,26.706749,-81.885005,26.706749],
-  "geometry": {"coordinates":[-81.885005,26.706749],"type":"Point"}
+  "bbox": [
+    -81.885005,
+    26.706749,
+    -81.885005,
+    26.706749
+],
+  "geometry": {"coordinates":[-81.88500500000001,26.706749],"type":"Point"}
 }

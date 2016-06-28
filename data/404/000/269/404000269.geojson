@@ -2,13 +2,14 @@
   "id": 404000269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265075,25.70527,-80.265075,25.70527",
     "geom:latitude":25.70527,
     "geom:longitude":-80.265075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 Almansa St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404000269,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1466446281,
     "wof:name":"Kissimmee Hills",
     "wof:parent_id":85851517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.265075,25.70527,-80.265075,25.70527],
+  "bbox": [
+    -80.265075,
+    25.70527,
+    -80.265075,
+    25.70527
+],
   "geometry": {"coordinates":[-80.265075,25.70527],"type":"Point"}
 }

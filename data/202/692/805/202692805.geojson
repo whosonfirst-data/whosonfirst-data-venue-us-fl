@@ -2,13 +2,14 @@
   "id": 202692805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.251323,28.234574,-81.251323,28.234574",
     "geom:latitude":28.234574,
     "geom:longitude":-81.251323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Englewood Dr",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202692805,
-    "wof:lastmodified":1449060789,
+    "wof:lastmodified":1466430895,
     "wof:name":"Med Speed",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-81.251323,28.234574,-81.251323,28.234574],
+  "bbox": [
+    -81.251323,
+    28.234574,
+    -81.251323,
+    28.234574
+],
   "geometry": {"coordinates":[-81.251323,28.234574],"type":"Point"}
 }

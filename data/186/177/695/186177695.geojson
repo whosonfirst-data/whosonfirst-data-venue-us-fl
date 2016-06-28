@@ -2,13 +2,14 @@
   "id": 186177695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.764704,26.125505,-81.764704,26.125505",
     "geom:latitude":26.125505,
     "geom:longitude":-81.764704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 Tamiami Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186177695,
-    "wof:lastmodified":1449053024,
+    "wof:lastmodified":1466428845,
     "wof:name":"Metrocell",
     "wof:parent_id":85889225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.764704,26.125505,-81.764704,26.125505],
-  "geometry": {"coordinates":[-81.764704,26.125505],"type":"Point"}
+  "bbox": [
+    -81.764704,
+    26.125505,
+    -81.764704,
+    26.125505
+],
+  "geometry": {"coordinates":[-81.76470399999999,26.125505],"type":"Point"}
 }

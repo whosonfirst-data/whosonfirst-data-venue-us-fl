@@ -2,13 +2,14 @@
   "id": 303293891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.024526,29.154315,-81.024526,29.154315",
     "geom:latitude":29.154315,
     "geom:longitude":-81.024526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Palm View Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303293891,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466435603,
     "wof:name":"Oak Auto Electrical",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [-81.024526,29.154315,-81.024526,29.154315],
-  "geometry": {"coordinates":[-81.024526,29.154315],"type":"Point"}
+  "bbox": [
+    -81.024526,
+    29.154315,
+    -81.024526,
+    29.154315
+],
+  "geometry": {"coordinates":[-81.02452599999999,29.154315],"type":"Point"}
 }

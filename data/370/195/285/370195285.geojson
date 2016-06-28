@@ -2,13 +2,14 @@
   "id": 370195285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.580155,26.708765,-81.580155,26.708765",
     "geom:latitude":26.708765,
     "geom:longitude":-81.580155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2541 Charleston Park Dr",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370195285,
-    "wof:lastmodified":1449031298,
+    "wof:lastmodified":1466437152,
     "wof:name":"Charleston Park Neighborhood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.580155,26.708765,-81.580155,26.708765],
+  "bbox": [
+    -81.580155,
+    26.708765,
+    -81.580155,
+    26.708765
+],
   "geometry": {"coordinates":[-81.580155,26.708765],"type":"Point"}
 }

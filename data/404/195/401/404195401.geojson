@@ -2,13 +2,14 @@
   "id": 404195401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.355803,25.814767,-80.355803,25.814767",
     "geom:latitude":25.814767,
     "geom:longitude":-80.355803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 NW 45th Ln",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":404195401,
-    "wof:lastmodified":1449039928,
+    "wof:lastmodified":1466443277,
     "wof:name":"Rodriguez Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-80.355803,25.814767,-80.355803,25.814767],
-  "geometry": {"coordinates":[-80.355803,25.814767],"type":"Point"}
+  "bbox": [
+    -80.355803,
+    25.814767,
+    -80.355803,
+    25.814767
+],
+  "geometry": {"coordinates":[-80.35580299999999,25.814767],"type":"Point"}
 }

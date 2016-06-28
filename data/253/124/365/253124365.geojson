@@ -2,13 +2,14 @@
   "id": 253124365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617264,30.217,-81.617264,30.217",
     "geom:latitude":30.217,
     "geom:longitude":-81.617264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8843 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253124365,
-    "wof:lastmodified":1449065564,
+    "wof:lastmodified":1466430224,
     "wof:name":"Citizen Mortgage Professionals",
     "wof:parent_id":85822237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.617264,30.217,-81.617264,30.217],
-  "geometry": {"coordinates":[-81.617264,30.217],"type":"Point"}
+  "bbox": [
+    -81.617264,
+    30.217,
+    -81.617264,
+    30.217
+],
+  "geometry": {"coordinates":[-81.61726400000001,30.217],"type":"Point"}
 }

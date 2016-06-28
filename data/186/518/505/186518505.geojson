@@ -2,13 +2,14 @@
   "id": 186518505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64803,27.703499,-82.64803,27.703499",
     "geom:latitude":27.703499,
     "geom:longitude":-82.64803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7235 Sunshine Dr S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186518505,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466433048,
     "wof:name":"Priority Aircraft Maintenance",
     "wof:parent_id":85881937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-82.64803,27.703499,-82.64803,27.703499],
-  "geometry": {"coordinates":[-82.64803,27.703499],"type":"Point"}
+  "bbox": [
+    -82.64803,
+    27.703499,
+    -82.64803,
+    27.703499
+],
+  "geometry": {"coordinates":[-82.64803000000001,27.703499],"type":"Point"}
 }

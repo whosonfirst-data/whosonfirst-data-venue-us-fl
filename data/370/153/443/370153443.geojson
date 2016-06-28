@@ -2,13 +2,14 @@
   "id": 370153443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.361077,30.666143,-87.361077,30.666143",
     "geom:latitude":30.666143,
     "geom:longitude":-87.361077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Mathison Rd",
     "sg:city":"Cantonment",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370153443,
-    "wof:lastmodified":1449031410,
+    "wof:lastmodified":1466436496,
     "wof:name":"Pensacola Riding Center",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-87.361077,30.666143,-87.361077,30.666143],
-  "geometry": {"coordinates":[-87.361077,30.666143],"type":"Point"}
+  "bbox": [
+    -87.361077,
+    30.666143,
+    -87.361077,
+    30.666143
+],
+  "geometry": {"coordinates":[-87.36107699999999,30.666143],"type":"Point"}
 }

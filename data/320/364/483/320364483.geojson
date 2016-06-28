@@ -2,13 +2,14 @@
   "id": 320364483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.726025,30.278919,-81.726025,30.278919",
     "geom:latitude":30.278919,
     "geom:longitude":-81.726025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4649 Fremont St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320364483,
-    "wof:lastmodified":1449013358,
+    "wof:lastmodified":1466439639,
     "wof:name":"Vision Window Washing",
     "wof:parent_id":85870733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-81.726025,30.278919,-81.726025,30.278919],
-  "geometry": {"coordinates":[-81.726025,30.278919],"type":"Point"}
+  "bbox": [
+    -81.726025,
+    30.278919,
+    -81.726025,
+    30.278919
+],
+  "geometry": {"coordinates":[-81.72602500000001,30.278919],"type":"Point"}
 }

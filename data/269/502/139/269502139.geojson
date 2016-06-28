@@ -2,13 +2,14 @@
   "id": 269502139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70051,30.185462,-81.70051,30.185462",
     "geom:latitude":30.185462,
     "geom:longitude":-81.70051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Wells Rd",
     "sg:city":"Fort White",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269502139,
-    "wof:lastmodified":1449037238,
+    "wof:lastmodified":1466428808,
     "wof:name":"Lumber By Lance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-81.70051,30.185462,-81.70051,30.185462],
-  "geometry": {"coordinates":[-81.70051,30.185462],"type":"Point"}
+  "bbox": [
+    -81.70051,
+    30.185462,
+    -81.70051,
+    30.185462
+],
+  "geometry": {"coordinates":[-81.70050999999999,30.185462],"type":"Point"}
 }

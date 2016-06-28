@@ -2,13 +2,14 @@
   "id": 404065045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.194262,30.461809,-87.194262,30.461809",
     "geom:latitude":30.461809,
     "geom:longitude":-87.194262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Semur Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404065045,
-    "wof:lastmodified":1449040321,
+    "wof:lastmodified":1466441250,
     "wof:name":"Cordova Park",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.194262,30.461809,-87.194262,30.461809],
-  "geometry": {"coordinates":[-87.194262,30.461809],"type":"Point"}
+  "bbox": [
+    -87.194262,
+    30.461809,
+    -87.194262,
+    30.461809
+],
+  "geometry": {"coordinates":[-87.19426199999999,30.461809],"type":"Point"}
 }

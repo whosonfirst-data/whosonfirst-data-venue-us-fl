@@ -2,13 +2,14 @@
   "id": 252900241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.533955,27.249971,-82.533955,27.249971",
     "geom:latitude":27.249971,
     "geom:longitude":-82.533955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 Midnight Pass Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252900241,
-    "wof:lastmodified":1449005885,
+    "wof:lastmodified":1466431200,
     "wof:name":"Castle Roofing",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.533955,27.249971,-82.533955,27.249971],
-  "geometry": {"coordinates":[-82.533955,27.249971],"type":"Point"}
+  "bbox": [
+    -82.533955,
+    27.249971,
+    -82.533955,
+    27.249971
+],
+  "geometry": {"coordinates":[-82.53395500000001,27.249971],"type":"Point"}
 }

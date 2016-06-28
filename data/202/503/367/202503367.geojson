@@ -2,13 +2,14 @@
   "id": 202503367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.974505,30.312267,-82.974505,30.312267",
     "geom:latitude":30.312267,
     "geom:longitude":-82.974505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Grande St",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202503367,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466428397,
     "wof:name":"Lafayette State Bank",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.974505,30.312267,-82.974505,30.312267],
-  "geometry": {"coordinates":[-82.974505,30.312267],"type":"Point"}
+  "bbox": [
+    -82.974505,
+    30.312267,
+    -82.974505,
+    30.312267
+],
+  "geometry": {"coordinates":[-82.97450499999999,30.312267],"type":"Point"}
 }

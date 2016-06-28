@@ -2,13 +2,14 @@
   "id": 252824587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.152298,26.296105,-80.152298,26.296105",
     "geom:latitude":26.296105,
     "geom:longitude":-80.152298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Powerline Rd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":252824587,
-    "wof:lastmodified":1449005787,
+    "wof:lastmodified":1466430119,
     "wof:name":"Deerfield Marathon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-80.152298,26.296105,-80.152298,26.296105],
+  "bbox": [
+    -80.152298,
+    26.296105,
+    -80.152298,
+    26.296105
+],
   "geometry": {"coordinates":[-80.152298,26.296105],"type":"Point"}
 }

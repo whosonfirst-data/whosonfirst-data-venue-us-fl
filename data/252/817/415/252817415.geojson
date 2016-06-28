@@ -2,13 +2,14 @@
   "id": 252817415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.281878,30.4251,-84.281878,30.4251",
     "geom:latitude":30.4251,
     "geom:longitude":-84.281878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 S Adams St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252817415,
-    "wof:lastmodified":1449006291,
+    "wof:lastmodified":1466430016,
     "wof:name":"North Fla Regional Thyroid Ctr",
     "wof:parent_id":85881325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-84.281878,30.4251,-84.281878,30.4251],
-  "geometry": {"coordinates":[-84.281878,30.4251],"type":"Point"}
+  "bbox": [
+    -84.281878,
+    30.4251,
+    -84.281878,
+    30.4251
+],
+  "geometry": {"coordinates":[-84.28187800000001,30.4251],"type":"Point"}
 }

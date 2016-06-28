@@ -2,13 +2,14 @@
   "id": 202809279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.669477,28.375091,-80.669477,28.375091",
     "geom:latitude":28.375091,
     "geom:longitude":-80.669477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Morgan Dr",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202809279,
-    "wof:lastmodified":1449062212,
+    "wof:lastmodified":1466432373,
     "wof:name":"Bridgeworks Dental Lab",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.669477,28.375091,-80.669477,28.375091],
+  "bbox": [
+    -80.669477,
+    28.375091,
+    -80.669477,
+    28.375091
+],
   "geometry": {"coordinates":[-80.669477,28.375091],"type":"Point"}
 }

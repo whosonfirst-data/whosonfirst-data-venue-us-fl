@@ -2,13 +2,14 @@
   "id": 270246301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.770925,28.021921,-81.770925,28.021921",
     "geom:latitude":28.021921,
     "geom:longitude":-81.770925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3580 Recker Hwy",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270246301,
-    "wof:lastmodified":1449008815,
+    "wof:lastmodified":1466433669,
     "wof:name":"Rebuild Polk After Disaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.770925,28.021921,-81.770925,28.021921],
-  "geometry": {"coordinates":[-81.770925,28.021921],"type":"Point"}
+  "bbox": [
+    -81.770925,
+    28.021921,
+    -81.770925,
+    28.021921
+],
+  "geometry": {"coordinates":[-81.77092500000001,28.021921],"type":"Point"}
 }

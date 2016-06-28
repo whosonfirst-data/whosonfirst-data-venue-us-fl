@@ -2,13 +2,14 @@
   "id": 203378753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17919,28.66,-81.17919,28.66",
     "geom:latitude":28.66,
     "geom:longitude":-81.17919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1791 E Broadway St",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203378753,
-    "wof:lastmodified":1449026254,
+    "wof:lastmodified":1466431141,
     "wof:name":"Central Fl Championship Karate",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-81.17919,28.66,-81.17919,28.66],
-  "geometry": {"coordinates":[-81.17919,28.66],"type":"Point"}
+  "bbox": [
+    -81.17919,
+    28.66,
+    -81.17919,
+    28.66
+],
+  "geometry": {"coordinates":[-81.17919000000001,28.66],"type":"Point"}
 }

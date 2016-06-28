@@ -2,13 +2,14 @@
   "id": 320687041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.688225,28.157244,-80.688225,28.157244",
     "geom:latitude":28.157244,
     "geom:longitude":-80.688225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Turtle Mound Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320687041,
-    "wof:lastmodified":1449012304,
+    "wof:lastmodified":1466445263,
     "wof:name":"Metropolitan Appraisal Svc Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.688225,28.157244,-80.688225,28.157244],
+  "bbox": [
+    -80.688225,
+    28.157244,
+    -80.688225,
+    28.157244
+],
   "geometry": {"coordinates":[-80.688225,28.157244],"type":"Point"}
 }

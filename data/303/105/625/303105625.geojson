@@ -2,13 +2,14 @@
   "id": 303105625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.446604,30.953304,-85.446604,30.953304",
     "geom:latitude":30.953304,
     "geom:longitude":-85.446604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 Parkview Rd",
     "sg:city":"Graceville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303105625,
-    "wof:lastmodified":1448999052,
+    "wof:lastmodified":1466432317,
     "wof:name":"W Gainer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-85.446604,30.953304,-85.446604,30.953304],
-  "geometry": {"coordinates":[-85.446604,30.953304],"type":"Point"}
+  "bbox": [
+    -85.446604,
+    30.953304,
+    -85.446604,
+    30.953304
+],
+  "geometry": {"coordinates":[-85.44660399999999,30.953304],"type":"Point"}
 }

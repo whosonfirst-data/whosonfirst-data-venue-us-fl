@@ -2,13 +2,14 @@
   "id": 370212223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.159482,25.918605,-80.159482,25.918605",
     "geom:latitude":25.918605,
     "geom:longitude":-80.159482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15405 W Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370212223,
-    "wof:lastmodified":1449031262,
+    "wof:lastmodified":1466437418,
     "wof:name":"Time Traveler",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "date"
     ]
 },
-  "bbox": [-80.159482,25.918605,-80.159482,25.918605],
+  "bbox": [
+    -80.159482,
+    25.918605,
+    -80.159482,
+    25.918605
+],
   "geometry": {"coordinates":[-80.159482,25.918605],"type":"Point"}
 }

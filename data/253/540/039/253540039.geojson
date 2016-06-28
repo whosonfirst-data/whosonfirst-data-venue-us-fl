@@ -2,13 +2,14 @@
   "id": 253540039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.641988,27.828392,-82.641988,27.828392",
     "geom:latitude":27.828392,
     "geom:longitude":-82.641988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 62nd Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253540039,
-    "wof:lastmodified":1449063988,
+    "wof:lastmodified":1466436320,
     "wof:name":"Morman Church",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.641988,27.828392,-82.641988,27.828392],
+  "bbox": [
+    -82.641988,
+    27.828392,
+    -82.641988,
+    27.828392
+],
   "geometry": {"coordinates":[-82.641988,27.828392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371082805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.221877,30.509985,-84.221877,30.509985",
     "geom:latitude":30.509985,
     "geom:longitude":-84.221877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 Mahoney Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371082805,
-    "wof:lastmodified":1449049094,
+    "wof:lastmodified":1466438838,
     "wof:name":"Nicholas Rahming",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.221877,30.509985,-84.221877,30.509985],
-  "geometry": {"coordinates":[-84.221877,30.509985],"type":"Point"}
+  "bbox": [
+    -84.221877,
+    30.509985,
+    -84.221877,
+    30.509985
+],
+  "geometry": {"coordinates":[-84.22187700000001,30.509985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219392203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.711615,27.842837,-82.711615,27.842837",
     "geom:latitude":27.842837,
     "geom:longitude":-82.711615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 78th Ave",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219392203,
-    "wof:lastmodified":1449073228,
+    "wof:lastmodified":1466430076,
     "wof:name":"Car-Go Intrastate Vehicle",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.711615,27.842837,-82.711615,27.842837],
-  "geometry": {"coordinates":[-82.711615,27.842837],"type":"Point"}
+  "bbox": [
+    -82.711615,
+    27.842837,
+    -82.711615,
+    27.842837
+],
+  "geometry": {"coordinates":[-82.71161499999999,27.842837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387483247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.749175,26.569886,-81.749175,26.569886",
     "geom:latitude":26.569886,
     "geom:longitude":-81.749175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Fairway Lakes Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387483247,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1466446116,
     "wof:name":"Design Build 2000 Inc",
     "wof:parent_id":85865225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.749175,26.569886,-81.749175,26.569886],
-  "geometry": {"coordinates":[-81.749175,26.569886],"type":"Point"}
+  "bbox": [
+    -81.749175,
+    26.569886,
+    -81.749175,
+    26.569886
+],
+  "geometry": {"coordinates":[-81.74917499999999,26.569886],"type":"Point"}
 }

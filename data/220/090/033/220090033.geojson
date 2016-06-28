@@ -2,13 +2,14 @@
   "id": 220090033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170495,25.984944,-80.170495,25.984944",
     "geom:latitude":25.984944,
     "geom:longitude":-80.170495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 W Hallandale Beach Blvd",
     "sg:city":"Hallandale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220090033,
-    "wof:lastmodified":1449074673,
+    "wof:lastmodified":1466446422,
     "wof:name":"Diatel Diabetic Supplies",
     "wof:parent_id":85896131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.170495,25.984944,-80.170495,25.984944],
+  "bbox": [
+    -80.170495,
+    25.984944,
+    -80.170495,
+    25.984944
+],
   "geometry": {"coordinates":[-80.170495,25.984944],"type":"Point"}
 }

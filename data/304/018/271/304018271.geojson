@@ -2,13 +2,14 @@
   "id": 304018271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.1646,25.886546,-80.1646,25.886546",
     "geom:latitude":25.886546,
     "geom:longitude":-80.1646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Biscayne Blvd",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":304018271,
-    "wof:lastmodified":1449043867,
+    "wof:lastmodified":1466432120,
     "wof:name":"Intelecall Communications Inc",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.1646,25.886546,-80.1646,25.886546],
-  "geometry": {"coordinates":[-80.1646,25.886546],"type":"Point"}
+  "bbox": [
+    -80.1646,
+    25.886546,
+    -80.1646,
+    25.886546
+],
+  "geometry": {"coordinates":[-80.16459999999999,25.886546],"type":"Point"}
 }

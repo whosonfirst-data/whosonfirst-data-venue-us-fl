@@ -2,13 +2,14 @@
   "id": 303129561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.605505,28.173098,-80.605505,28.173098",
     "geom:latitude":28.173098,
     "geom:longitude":-80.605505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Cinnamon Dr",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303129561,
-    "wof:lastmodified":1449000094,
+    "wof:lastmodified":1466432745,
     "wof:name":"Satellite Beach Police Dept",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.605505,28.173098,-80.605505,28.173098],
-  "geometry": {"coordinates":[-80.605505,28.173098],"type":"Point"}
+  "bbox": [
+    -80.605505,
+    28.173098,
+    -80.605505,
+    28.173098
+],
+  "geometry": {"coordinates":[-80.60550499999999,28.173098],"type":"Point"}
 }

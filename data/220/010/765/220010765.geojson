@@ -2,13 +2,14 @@
   "id": 220010765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.248294,30.451719,-87.248294,30.451719",
     "geom:latitude":30.451719,
     "geom:longitude":-87.248294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Truman Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220010765,
-    "wof:lastmodified":1449074538,
+    "wof:lastmodified":1466443723,
     "wof:name":"Bettis Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "septic"
     ]
 },
-  "bbox": [-87.248294,30.451719,-87.248294,30.451719],
+  "bbox": [
+    -87.248294,
+    30.451719,
+    -87.248294,
+    30.451719
+],
   "geometry": {"coordinates":[-87.248294,30.451719],"type":"Point"}
 }

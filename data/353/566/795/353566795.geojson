@@ -2,13 +2,14 @@
   "id": 353566795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.303035,29.675981,-82.303035,29.675981",
     "geom:latitude":29.675981,
     "geom:longitude":-82.303035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 NE 17th Ter",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353566795,
-    "wof:lastmodified":1449018303,
+    "wof:lastmodified":1466437247,
     "wof:name":"City Electric Supply Co",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-82.303035,29.675981,-82.303035,29.675981],
-  "geometry": {"coordinates":[-82.303035,29.675981],"type":"Point"}
+  "bbox": [
+    -82.303035,
+    29.675981,
+    -82.303035,
+    29.675981
+],
+  "geometry": {"coordinates":[-82.30303499999999,29.675981],"type":"Point"}
 }

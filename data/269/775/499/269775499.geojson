@@ -2,13 +2,14 @@
   "id": 269775499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.507495,27.389075,-82.507495,27.389075",
     "geom:latitude":27.389075,
     "geom:longitude":-82.507495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 University Pkwy",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269775499,
-    "wof:lastmodified":1449038063,
+    "wof:lastmodified":1466433681,
     "wof:name":"Parkway Cleaners",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.507495,27.389075,-82.507495,27.389075],
-  "geometry": {"coordinates":[-82.507495,27.389075],"type":"Point"}
+  "bbox": [
+    -82.507495,
+    27.389075,
+    -82.507495,
+    27.389075
+],
+  "geometry": {"coordinates":[-82.50749500000001,27.389075],"type":"Point"}
 }

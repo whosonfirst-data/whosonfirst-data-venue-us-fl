@@ -2,13 +2,14 @@
   "id": 354279743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.604042,30.40878,-86.604042,30.40878",
     "geom:latitude":30.40878,
     "geom:longitude":-86.604042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Eglin Pkwy S",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354279743,
-    "wof:lastmodified":1449066697,
+    "wof:lastmodified":1466440384,
     "wof:name":"King Arthur Classics",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.604042,30.40878,-86.604042,30.40878],
-  "geometry": {"coordinates":[-86.604042,30.40878],"type":"Point"}
+  "bbox": [
+    -86.604042,
+    30.40878,
+    -86.604042,
+    30.40878
+],
+  "geometry": {"coordinates":[-86.60404200000001,30.40878],"type":"Point"}
 }

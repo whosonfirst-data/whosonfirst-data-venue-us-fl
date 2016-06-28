@@ -2,13 +2,14 @@
   "id": 370921557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.655302,28.003152,-80.655302,28.003152",
     "geom:latitude":28.003152,
     "geom:longitude":-80.655302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Antigua St NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370921557,
-    "wof:lastmodified":1449031250,
+    "wof:lastmodified":1466447520,
     "wof:name":"Jenkins Tree Svc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-80.655302,28.003152,-80.655302,28.003152],
-  "geometry": {"coordinates":[-80.655302,28.003152],"type":"Point"}
+  "bbox": [
+    -80.655302,
+    28.003152,
+    -80.655302,
+    28.003152
+],
+  "geometry": {"coordinates":[-80.65530200000001,28.003152],"type":"Point"}
 }

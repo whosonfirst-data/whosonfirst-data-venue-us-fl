@@ -2,13 +2,14 @@
   "id": 269778073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160441,26.352391,-80.160441,26.352391",
     "geom:latitude":26.352391,
     "geom:longitude":-80.160441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21900 Lake Forest Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269778073,
-    "wof:lastmodified":1449036187,
+    "wof:lastmodified":1466433733,
     "wof:name":"Jeffery Jones",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-80.160441,26.352391,-80.160441,26.352391],
-  "geometry": {"coordinates":[-80.160441,26.352391],"type":"Point"}
+  "bbox": [
+    -80.160441,
+    26.352391,
+    -80.160441,
+    26.352391
+],
+  "geometry": {"coordinates":[-80.16044100000001,26.352391],"type":"Point"}
 }

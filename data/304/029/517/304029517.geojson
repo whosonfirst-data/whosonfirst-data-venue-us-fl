@@ -2,13 +2,14 @@
   "id": 304029517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.473656,27.940984,-82.473656,27.940984",
     "geom:latitude":27.940984,
     "geom:longitude":-82.473656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Orleans Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304029517,
-    "wof:lastmodified":1449043797,
+    "wof:lastmodified":1466432320,
     "wof:name":"B C Tampa Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.473656,27.940984,-82.473656,27.940984],
-  "geometry": {"coordinates":[-82.473656,27.940984],"type":"Point"}
+  "bbox": [
+    -82.473656,
+    27.940984,
+    -82.473656,
+    27.940984
+],
+  "geometry": {"coordinates":[-82.47365600000001,27.940984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387019803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64284,30.324153,-81.64284,30.324153",
     "geom:latitude":30.324153,
     "geom:longitude":-81.64284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 E Adams St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387019803,
-    "wof:lastmodified":1449058290,
+    "wof:lastmodified":1466439018,
     "wof:name":"3 Angels Broadcasting Network",
     "wof:parent_id":85888931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.64284,30.324153,-81.64284,30.324153],
-  "geometry": {"coordinates":[-81.64284,30.324153],"type":"Point"}
+  "bbox": [
+    -81.64284,
+    30.324153,
+    -81.64284,
+    30.324153
+],
+  "geometry": {"coordinates":[-81.64284000000001,30.324153],"type":"Point"}
 }

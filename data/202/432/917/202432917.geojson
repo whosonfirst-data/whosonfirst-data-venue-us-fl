@@ -2,13 +2,14 @@
   "id": 202432917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.699688,30.020228,-81.699688,30.020228",
     "geom:latitude":30.020228,
     "geom:longitude":-81.699688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 Virginia Ln",
     "sg:city":"Green Cove Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202432917,
-    "wof:lastmodified":1449060066,
+    "wof:lastmodified":1466444335,
     "wof:name":"Masters Us1 Inc",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.699688,30.020228,-81.699688,30.020228],
-  "geometry": {"coordinates":[-81.699688,30.020228],"type":"Point"}
+  "bbox": [
+    -81.699688,
+    30.020228,
+    -81.699688,
+    30.020228
+],
+  "geometry": {"coordinates":[-81.69968799999999,30.020228],"type":"Point"}
 }

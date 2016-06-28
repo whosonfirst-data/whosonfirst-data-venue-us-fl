@@ -2,13 +2,14 @@
   "id": 320500915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228528,28.640053,-81.228528,28.640053",
     "geom:latitude":28.640053,
     "geom:longitude":-81.228528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2430 Blackberry Trl",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320500915,
-    "wof:lastmodified":1449012197,
+    "wof:lastmodified":1466442039,
     "wof:name":"Joe Mcclellan Janitorial Svc",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.228528,28.640053,-81.228528,28.640053],
+  "bbox": [
+    -81.228528,
+    28.640053,
+    -81.228528,
+    28.640053
+],
   "geometry": {"coordinates":[-81.228528,28.640053],"type":"Point"}
 }

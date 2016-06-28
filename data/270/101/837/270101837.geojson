@@ -2,13 +2,14 @@
   "id": 270101837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.831233,30.298121,-81.831233,30.298121",
     "geom:latitude":30.298121,
     "geom:longitude":-81.831233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Birchfield Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270101837,
-    "wof:lastmodified":1449009932,
+    "wof:lastmodified":1466431182,
     "wof:name":"Johnson Landscape Lighting",
     "wof:parent_id":85870751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-81.831233,30.298121,-81.831233,30.298121],
+  "bbox": [
+    -81.831233,
+    30.298121,
+    -81.831233,
+    30.298121
+],
   "geometry": {"coordinates":[-81.831233,30.298121],"type":"Point"}
 }

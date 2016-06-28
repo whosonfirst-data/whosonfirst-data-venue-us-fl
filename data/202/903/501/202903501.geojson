@@ -2,13 +2,14 @@
   "id": 202903501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158615,25.917148,-80.158615,25.917148",
     "geom:latitude":25.917148,
     "geom:longitude":-80.158615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 NE 154th St",
     "sg:city":"North Miami Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202903501,
-    "wof:lastmodified":1449060262,
+    "wof:lastmodified":1466433648,
     "wof:name":"North Dade Welding",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-80.158615,25.917148,-80.158615,25.917148],
+  "bbox": [
+    -80.158615,
+    25.917148,
+    -80.158615,
+    25.917148
+],
   "geometry": {"coordinates":[-80.158615,25.917148],"type":"Point"}
 }

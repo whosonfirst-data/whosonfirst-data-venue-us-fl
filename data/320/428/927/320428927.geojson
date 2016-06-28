@@ -2,13 +2,14 @@
   "id": 320428927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.449844,28.2214,-81.449844,28.2214",
     "geom:latitude":28.2214,
     "geom:longitude":-81.449844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4221 Silver Pine St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320428927,
-    "wof:lastmodified":1449014710,
+    "wof:lastmodified":1466440753,
     "wof:name":"Local Phone Book",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-81.449844,28.2214,-81.449844,28.2214],
+  "bbox": [
+    -81.449844,
+    28.2214,
+    -81.449844,
+    28.2214
+],
   "geometry": {"coordinates":[-81.449844,28.2214],"type":"Point"}
 }

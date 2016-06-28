@@ -2,13 +2,14 @@
   "id": 370489367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2726,26.108117,-80.2726,26.108117",
     "geom:latitude":26.108117,
     "geom:longitude":-80.2726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 SW 93rd Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370489367,
-    "wof:lastmodified":1449030919,
+    "wof:lastmodified":1466441679,
     "wof:name":"Sample Plaza Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.2726,26.108117,-80.2726,26.108117],
+  "bbox": [
+    -80.2726,
+    26.108117,
+    -80.2726,
+    26.108117
+],
   "geometry": {"coordinates":[-80.2726,26.108117],"type":"Point"}
 }

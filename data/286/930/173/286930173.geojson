@@ -2,13 +2,14 @@
   "id": 286930173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.305128,27.364314,-80.305128,27.364314",
     "geom:latitude":27.364314,
     "geom:longitude":-80.305128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Hickory Dr",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286930173,
-    "wof:lastmodified":1449016124,
+    "wof:lastmodified":1466441447,
     "wof:name":"Atlantic Rendering",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-80.305128,27.364314,-80.305128,27.364314],
+  "bbox": [
+    -80.305128,
+    27.364314,
+    -80.305128,
+    27.364314
+],
   "geometry": {"coordinates":[-80.305128,27.364314],"type":"Point"}
 }

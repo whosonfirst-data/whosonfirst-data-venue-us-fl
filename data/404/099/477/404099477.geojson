@@ -2,13 +2,14 @@
   "id": 404099477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.564259,27.273725,-82.564259,27.273725",
     "geom:latitude":27.273725,
     "geom:longitude":-82.564259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5212 Ocean Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404099477,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1466441775,
     "wof:name":"Island Homes",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.564259,27.273725,-82.564259,27.273725],
-  "geometry": {"coordinates":[-82.564259,27.273725],"type":"Point"}
+  "bbox": [
+    -82.564259,
+    27.273725,
+    -82.564259,
+    27.273725
+],
+  "geometry": {"coordinates":[-82.56425900000001,27.273725],"type":"Point"}
 }

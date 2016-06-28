@@ -2,13 +2,14 @@
   "id": 387618933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.394551,28.01794,-82.394551,28.01794",
     "geom:latitude":28.01794,
     "geom:longitude":-82.394551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 E Kirby St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387618933,
-    "wof:lastmodified":1449058474,
+    "wof:lastmodified":1466447550,
     "wof:name":"Medical Specialty Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.394551,28.01794,-82.394551,28.01794],
-  "geometry": {"coordinates":[-82.394551,28.01794],"type":"Point"}
+  "bbox": [
+    -82.394551,
+    28.01794,
+    -82.394551,
+    28.01794
+],
+  "geometry": {"coordinates":[-82.39455100000001,28.01794],"type":"Point"}
 }

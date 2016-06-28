@@ -2,13 +2,14 @@
   "id": 387275635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101981,26.145824,-80.101981,26.145824",
     "geom:latitude":26.145824,
     "geom:longitude":-80.101981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3317 NE 14th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387275635,
-    "wof:lastmodified":1449057322,
+    "wof:lastmodified":1466442949,
     "wof:name":"Mdlr Inc",
     "wof:parent_id":85881955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.101981,26.145824,-80.101981,26.145824],
-  "geometry": {"coordinates":[-80.101981,26.145824],"type":"Point"}
+  "bbox": [
+    -80.101981,
+    26.145824,
+    -80.101981,
+    26.145824
+],
+  "geometry": {"coordinates":[-80.10198099999999,26.145824],"type":"Point"}
 }

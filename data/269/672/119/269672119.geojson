@@ -2,13 +2,14 @@
   "id": 269672119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.218843,26.617343,-80.218843,26.617343",
     "geom:latitude":26.617343,
     "geom:longitude":-80.218843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4175 Imperial Isle Dr",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269672119,
-    "wof:lastmodified":1449036303,
+    "wof:lastmodified":1466431865,
     "wof:name":"Imperial Isle POA",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.218843,26.617343,-80.218843,26.617343],
-  "geometry": {"coordinates":[-80.218843,26.617343],"type":"Point"}
+  "bbox": [
+    -80.218843,
+    26.617343,
+    -80.218843,
+    26.617343
+],
+  "geometry": {"coordinates":[-80.21884300000001,26.617343],"type":"Point"}
 }

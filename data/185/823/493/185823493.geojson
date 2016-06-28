@@ -2,13 +2,14 @@
   "id": 185823493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201029,26.708411,-80.201029,26.708411",
     "geom:latitude":26.708411,
     "geom:longitude":-80.201029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 N State Rd 7",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185823493,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466429234,
     "wof:name":"Mario The Baker",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.201029,26.708411,-80.201029,26.708411],
-  "geometry": {"coordinates":[-80.201029,26.708411],"type":"Point"}
+  "bbox": [
+    -80.201029,
+    26.708411,
+    -80.201029,
+    26.708411
+],
+  "geometry": {"coordinates":[-80.20102900000001,26.708411],"type":"Point"}
 }

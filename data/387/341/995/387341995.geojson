@@ -2,13 +2,14 @@
   "id": 387341995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.382201,29.737024,-82.382201,29.737024",
     "geom:latitude":29.737024,
     "geom:longitude":-82.382201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9430 NW 13th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":387341995,
-    "wof:lastmodified":1449059754,
+    "wof:lastmodified":1466443973,
     "wof:name":"Rollins Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "car"
     ]
 },
-  "bbox": [-82.382201,29.737024,-82.382201,29.737024],
-  "geometry": {"coordinates":[-82.382201,29.737024],"type":"Point"}
+  "bbox": [
+    -82.382201,
+    29.737024,
+    -82.382201,
+    29.737024
+],
+  "geometry": {"coordinates":[-82.38220099999999,29.737024],"type":"Point"}
 }

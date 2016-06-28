@@ -2,13 +2,14 @@
   "id": 236904483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.059271,30.393898,-87.059271,30.393898",
     "geom:latitude":30.393898,
     "geom:longitude":-87.059271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3995 Spanish Moss Cove",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236904483,
-    "wof:lastmodified":1449005339,
+    "wof:lastmodified":1466441296,
     "wof:name":"National Property Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-87.059271,30.393898,-87.059271,30.393898],
+  "bbox": [
+    -87.059271,
+    30.393898,
+    -87.059271,
+    30.393898
+],
   "geometry": {"coordinates":[-87.059271,30.393898],"type":"Point"}
 }

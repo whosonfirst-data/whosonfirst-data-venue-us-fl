@@ -2,13 +2,14 @@
   "id": 186349897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280549,30.408924,-84.280549,30.408924",
     "geom:latitude":30.408924,
     "geom:longitude":-84.280549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 S Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186349897,
-    "wof:lastmodified":1449051399,
+    "wof:lastmodified":1466430905,
     "wof:name":"Island Melody",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.280549,30.408924,-84.280549,30.408924],
-  "geometry": {"coordinates":[-84.280549,30.408924],"type":"Point"}
+  "bbox": [
+    -84.280549,
+    30.408924,
+    -84.280549,
+    30.408924
+],
+  "geometry": {"coordinates":[-84.28054899999999,30.408924],"type":"Point"}
 }

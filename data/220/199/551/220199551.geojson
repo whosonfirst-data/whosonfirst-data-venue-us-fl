@@ -2,13 +2,14 @@
   "id": 220199551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.281351,30.46998,-84.281351,30.46998",
     "geom:latitude":30.46998,
     "geom:longitude":-84.281351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 Dellwood Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220199551,
-    "wof:lastmodified":1449074112,
+    "wof:lastmodified":1466429575,
     "wof:name":"Capital Aluminum",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.281351,30.46998,-84.281351,30.46998],
+  "bbox": [
+    -84.281351,
+    30.46998,
+    -84.281351,
+    30.46998
+],
   "geometry": {"coordinates":[-84.281351,30.46998],"type":"Point"}
 }

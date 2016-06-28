@@ -2,13 +2,14 @@
   "id": 303122101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.31164,27.439752,-81.31164,27.439752",
     "geom:latitude":27.439752,
     "geom:longitude":-81.31164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Maple Ln",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303122101,
-    "wof:lastmodified":1448999509,
+    "wof:lastmodified":1466432621,
     "wof:name":"Synch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.31164,27.439752,-81.31164,27.439752],
+  "bbox": [
+    -81.31164,
+    27.439752,
+    -81.31164,
+    27.439752
+],
   "geometry": {"coordinates":[-81.31164,27.439752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303209151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.177557,26.362872,-80.177557,26.362872",
     "geom:latitude":26.362872,
     "geom:longitude":-80.177557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8316 Via Leonessa",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303209151,
-    "wof:lastmodified":1449000306,
+    "wof:lastmodified":1466434145,
     "wof:name":"Fla Bass",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-80.177557,26.362872,-80.177557,26.362872],
-  "geometry": {"coordinates":[-80.177557,26.362872],"type":"Point"}
+  "bbox": [
+    -80.177557,
+    26.362872,
+    -80.177557,
+    26.362872
+],
+  "geometry": {"coordinates":[-80.17755699999999,26.362872],"type":"Point"}
 }

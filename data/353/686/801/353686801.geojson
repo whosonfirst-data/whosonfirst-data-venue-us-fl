@@ -2,13 +2,14 @@
   "id": 353686801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053412,26.71343,-80.053412,26.71343",
     "geom:latitude":26.71343,
     "geom:longitude":-80.053412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Clematis St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353686801,
-    "wof:lastmodified":1449020193,
+    "wof:lastmodified":1466439161,
     "wof:name":"Roxy's Bar",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.053412,26.71343,-80.053412,26.71343],
-  "geometry": {"coordinates":[-80.053412,26.71343],"type":"Point"}
+  "bbox": [
+    -80.053412,
+    26.71343,
+    -80.053412,
+    26.71343
+],
+  "geometry": {"coordinates":[-80.05341199999999,26.71343],"type":"Point"}
 }

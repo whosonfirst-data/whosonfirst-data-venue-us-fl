@@ -2,13 +2,14 @@
   "id": 336909421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.44598,27.657672,-80.44598,27.657672",
     "geom:latitude":27.657672,
     "geom:longitude":-80.44598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 35th St",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336909421,
-    "wof:lastmodified":1448997754,
+    "wof:lastmodified":1466440338,
     "wof:name":"Cad Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-80.44598,27.657672,-80.44598,27.657672],
-  "geometry": {"coordinates":[-80.44598,27.657672],"type":"Point"}
+  "bbox": [
+    -80.44598,
+    27.657672,
+    -80.44598,
+    27.657672
+],
+  "geometry": {"coordinates":[-80.44598000000001,27.657672],"type":"Point"}
 }

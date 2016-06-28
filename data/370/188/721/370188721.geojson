@@ -2,13 +2,14 @@
   "id": 370188721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.795757,26.149258,-81.795757,26.149258",
     "geom:latitude":26.149258,
     "geom:longitude":-81.795757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370188721,
-    "wof:lastmodified":1449030760,
+    "wof:lastmodified":1466437046,
     "wof:name":"Collier Medical Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.795757,26.149258,-81.795757,26.149258],
-  "geometry": {"coordinates":[-81.795757,26.149258],"type":"Point"}
+  "bbox": [
+    -81.795757,
+    26.149258,
+    -81.795757,
+    26.149258
+],
+  "geometry": {"coordinates":[-81.79575699999999,26.149258],"type":"Point"}
 }

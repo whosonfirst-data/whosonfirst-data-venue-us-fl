@@ -2,13 +2,14 @@
   "id": 186428183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731062,28.804094,-81.731062,28.804094",
     "geom:latitude":28.804094,
     "geom:longitude":-81.731062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 W Alfred St",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186428183,
-    "wof:lastmodified":1449052852,
+    "wof:lastmodified":1466431869,
     "wof:name":"Central Florida Cremation",
     "wof:parent_id":85889837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"
     ]
 },
-  "bbox": [-81.731062,28.804094,-81.731062,28.804094],
-  "geometry": {"coordinates":[-81.731062,28.804094],"type":"Point"}
+  "bbox": [
+    -81.731062,
+    28.804094,
+    -81.731062,
+    28.804094
+],
+  "geometry": {"coordinates":[-81.73106199999999,28.804094],"type":"Point"}
 }

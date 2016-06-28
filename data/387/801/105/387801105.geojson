@@ -2,13 +2,14 @@
   "id": 387801105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.594752,28.183436,-80.594752,28.183436",
     "geom:latitude":28.183436,
     "geom:longitude":-80.594752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Jackson Ave",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387801105,
-    "wof:lastmodified":1449059251,
+    "wof:lastmodified":1466448968,
     "wof:name":"US Post Office",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.594752,28.183436,-80.594752,28.183436],
+  "bbox": [
+    -80.594752,
+    28.183436,
+    -80.594752,
+    28.183436
+],
   "geometry": {"coordinates":[-80.594752,28.183436],"type":"Point"}
 }

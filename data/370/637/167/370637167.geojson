@@ -2,13 +2,14 @@
   "id": 370637167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.543962,27.446239,-81.543962,27.446239",
     "geom:latitude":27.446239,
     "geom:longitude":-81.543962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Hollenberg Rd",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370637167,
-    "wof:lastmodified":1449029067,
+    "wof:lastmodified":1466443945,
     "wof:name":"Hollenberg Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.543962,27.446239,-81.543962,27.446239],
-  "geometry": {"coordinates":[-81.543962,27.446239],"type":"Point"}
+  "bbox": [
+    -81.543962,
+    27.446239,
+    -81.543962,
+    27.446239
+],
+  "geometry": {"coordinates":[-81.54396199999999,27.446239],"type":"Point"}
 }

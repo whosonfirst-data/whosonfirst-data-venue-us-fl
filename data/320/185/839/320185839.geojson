@@ -2,13 +2,14 @@
   "id": 320185839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.217661,26.393765,-80.217661,26.393765",
     "geom:latitude":26.393765,
     "geom:longitude":-80.217661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18961 Treble Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320185839,
-    "wof:lastmodified":1449011872,
+    "wof:lastmodified":1466436571,
     "wof:name":"William Kelleher Cleaning Svc",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.217661,26.393765,-80.217661,26.393765],
-  "geometry": {"coordinates":[-80.217661,26.393765],"type":"Point"}
+  "bbox": [
+    -80.217661,
+    26.393765,
+    -80.217661,
+    26.393765
+],
+  "geometry": {"coordinates":[-80.21766100000001,26.393765],"type":"Point"}
 }

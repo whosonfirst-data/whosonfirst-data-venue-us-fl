@@ -2,13 +2,14 @@
   "id": 202520311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.18903,28.259953,-81.18903,28.259953",
     "geom:latitude":28.259953,
     "geom:longitude":-81.18903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Justin Matthew Way",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202520311,
-    "wof:lastmodified":1449060940,
+    "wof:lastmodified":1466428619,
     "wof:name":"Candlers",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.18903,28.259953,-81.18903,28.259953],
+  "bbox": [
+    -81.18903,
+    28.259953,
+    -81.18903,
+    28.259953
+],
   "geometry": {"coordinates":[-81.18903,28.259953],"type":"Point"}
 }

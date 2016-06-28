@@ -2,13 +2,14 @@
   "id": 202704739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.740947,27.770735,-82.740947,27.770735",
     "geom:latitude":27.770735,
     "geom:longitude":-82.740947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 Central Ave",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202704739,
-    "wof:lastmodified":1449060776,
+    "wof:lastmodified":1466431045,
     "wof:name":"Peacocks Pet Shop",
     "wof:parent_id":85880557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-82.740947,27.770735,-82.740947,27.770735],
-  "geometry": {"coordinates":[-82.740947,27.770735],"type":"Point"}
+  "bbox": [
+    -82.740947,
+    27.770735,
+    -82.740947,
+    27.770735
+],
+  "geometry": {"coordinates":[-82.74094700000001,27.770735],"type":"Point"}
 }

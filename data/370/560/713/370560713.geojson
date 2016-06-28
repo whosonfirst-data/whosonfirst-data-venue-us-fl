@@ -2,13 +2,14 @@
   "id": 370560713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.12072,30.619251,-87.12072,30.619251",
     "geom:latitude":30.619251,
     "geom:longitude":-87.12072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4906 Laurel Oak Dr",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370560713,
-    "wof:lastmodified":1449031681,
+    "wof:lastmodified":1466442782,
     "wof:name":"Built Right Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.12072,30.619251,-87.12072,30.619251],
-  "geometry": {"coordinates":[-87.12072,30.619251],"type":"Point"}
+  "bbox": [
+    -87.12072,
+    30.619251,
+    -87.12072,
+    30.619251
+],
+  "geometry": {"coordinates":[-87.12072000000001,30.619251],"type":"Point"}
 }

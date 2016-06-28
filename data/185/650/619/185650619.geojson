@@ -2,13 +2,14 @@
   "id": 185650619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422263,27.103007,-82.422263,27.103007",
     "geom:latitude":27.103007,
     "geom:longitude":-82.422263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 Lillian St",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185650619,
-    "wof:lastmodified":1449007595,
+    "wof:lastmodified":1466444585,
     "wof:name":"Venice Wrecker Svc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.422263,27.103007,-82.422263,27.103007],
+  "bbox": [
+    -82.422263,
+    27.103007,
+    -82.422263,
+    27.103007
+],
   "geometry": {"coordinates":[-82.422263,27.103007],"type":"Point"}
 }

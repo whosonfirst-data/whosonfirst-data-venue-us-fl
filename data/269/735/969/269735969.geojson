@@ -2,13 +2,14 @@
   "id": 269735969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.659675,27.784662,-82.659675,27.784662",
     "geom:latitude":27.784662,
     "geom:longitude":-82.659675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 13th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269735969,
-    "wof:lastmodified":1449038887,
+    "wof:lastmodified":1466432969,
     "wof:name":"George's Auto Svc Ctr",
     "wof:parent_id":85868435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.659675,27.784662,-82.659675,27.784662],
-  "geometry": {"coordinates":[-82.659675,27.784662],"type":"Point"}
+  "bbox": [
+    -82.659675,
+    27.784662,
+    -82.659675,
+    27.784662
+],
+  "geometry": {"coordinates":[-82.65967499999999,27.784662],"type":"Point"}
 }

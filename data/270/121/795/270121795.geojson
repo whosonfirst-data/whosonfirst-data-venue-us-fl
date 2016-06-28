@@ -2,13 +2,14 @@
   "id": 270121795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.510871,27.869804,-82.510871,27.869804",
     "geom:latitude":27.869804,
     "geom:longitude":-82.510871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7009 Interbay Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270121795,
-    "wof:lastmodified":1449010515,
+    "wof:lastmodified":1466431520,
     "wof:name":"Clipper Cove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.510871,27.869804,-82.510871,27.869804],
-  "geometry": {"coordinates":[-82.510871,27.869804],"type":"Point"}
+  "bbox": [
+    -82.510871,
+    27.869804,
+    -82.510871,
+    27.869804
+],
+  "geometry": {"coordinates":[-82.51087099999999,27.869804],"type":"Point"}
 }

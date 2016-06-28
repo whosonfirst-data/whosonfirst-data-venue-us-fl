@@ -2,13 +2,14 @@
   "id": 320398841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506262,28.03508,-82.506262,28.03508",
     "geom:latitude":28.03508,
     "geom:longitude":-82.506262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9215 Lazy Ln",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320398841,
-    "wof:lastmodified":1449011546,
+    "wof:lastmodified":1466440212,
     "wof:name":"Expodisplays Tampa Bay",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "producer"
     ]
 },
-  "bbox": [-82.506262,28.03508,-82.506262,28.03508],
-  "geometry": {"coordinates":[-82.506262,28.03508],"type":"Point"}
+  "bbox": [
+    -82.506262,
+    28.03508,
+    -82.506262,
+    28.03508
+],
+  "geometry": {"coordinates":[-82.50626200000001,28.03508],"type":"Point"}
 }

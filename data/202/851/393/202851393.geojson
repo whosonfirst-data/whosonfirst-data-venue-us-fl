@@ -2,13 +2,14 @@
   "id": 202851393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731424,30.282196,-81.731424,30.282196",
     "geom:latitude":30.282196,
     "geom:longitude":-81.731424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 San Juan Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202851393,
-    "wof:lastmodified":1449061756,
+    "wof:lastmodified":1466432948,
     "wof:name":"Cloud Consultants & Svc Inc",
     "wof:parent_id":85829203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-81.731424,30.282196,-81.731424,30.282196],
+  "bbox": [
+    -81.731424,
+    30.282196,
+    -81.731424,
+    30.282196
+],
   "geometry": {"coordinates":[-81.731424,30.282196],"type":"Point"}
 }

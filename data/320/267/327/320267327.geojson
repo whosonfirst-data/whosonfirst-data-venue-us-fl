@@ -2,13 +2,14 @@
   "id": 320267327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.350439,25.706169,-80.350439,25.706169",
     "geom:latitude":25.706169,
     "geom:longitude":-80.350439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 SW 97th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320267327,
-    "wof:lastmodified":1449014626,
+    "wof:lastmodified":1466437968,
     "wof:name":"East Glade Electric Inc",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.350439,25.706169,-80.350439,25.706169],
-  "geometry": {"coordinates":[-80.350439,25.706169],"type":"Point"}
+  "bbox": [
+    -80.350439,
+    25.706169,
+    -80.350439,
+    25.706169
+],
+  "geometry": {"coordinates":[-80.35043899999999,25.706169],"type":"Point"}
 }

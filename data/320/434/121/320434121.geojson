@@ -2,13 +2,14 @@
   "id": 320434121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297019,25.649747,-80.297019,25.649747",
     "geom:latitude":25.649747,
     "geom:longitude":-80.297019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12901 SW 63rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320434121,
-    "wof:lastmodified":1449012066,
+    "wof:lastmodified":1466440849,
     "wof:name":"Gene Ex",
     "wof:parent_id":85828373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.297019,25.649747,-80.297019,25.649747],
-  "geometry": {"coordinates":[-80.297019,25.649747],"type":"Point"}
+  "bbox": [
+    -80.297019,
+    25.649747,
+    -80.297019,
+    25.649747
+],
+  "geometry": {"coordinates":[-80.29701900000001,25.649747],"type":"Point"}
 }

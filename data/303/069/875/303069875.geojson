@@ -2,13 +2,14 @@
   "id": 303069875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31366,25.823461,-80.31366,25.823461",
     "geom:latitude":25.823461,
     "geom:longitude":-80.31366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5561 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303069875,
-    "wof:lastmodified":1448999663,
+    "wof:lastmodified":1466431670,
     "wof:name":"CDC Cargo Warehouse",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.31366,25.823461,-80.31366,25.823461],
+  "bbox": [
+    -80.31366,
+    25.823461,
+    -80.31366,
+    25.823461
+],
   "geometry": {"coordinates":[-80.31366,25.823461],"type":"Point"}
 }

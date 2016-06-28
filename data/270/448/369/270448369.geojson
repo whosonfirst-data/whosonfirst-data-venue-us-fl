@@ -2,13 +2,14 @@
   "id": 270448369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.305738,30.407694,-84.305738,30.407694",
     "geom:latitude":30.407694,
     "geom:longitude":-84.305738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3190 Springhill Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270448369,
-    "wof:lastmodified":1449011012,
+    "wof:lastmodified":1466437117,
     "wof:name":"Non-Secure Programs Inc",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-84.305738,30.407694,-84.305738,30.407694],
-  "geometry": {"coordinates":[-84.305738,30.407694],"type":"Point"}
+  "bbox": [
+    -84.305738,
+    30.407694,
+    -84.305738,
+    30.407694
+],
+  "geometry": {"coordinates":[-84.30573800000001,30.407694],"type":"Point"}
 }

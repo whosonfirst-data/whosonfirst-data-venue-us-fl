@@ -2,13 +2,14 @@
   "id": 303103687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.78385,27.789285,-82.78385,27.789285",
     "geom:latitude":27.789285,
     "geom:longitude":-82.78385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Boca Ciega Dr",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303103687,
-    "wof:lastmodified":1448999646,
+    "wof:lastmodified":1466432282,
     "wof:name":"US Coast Guard Flotilla 73",
     "wof:parent_id":85834657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-82.78385,27.789285,-82.78385,27.789285],
+  "bbox": [
+    -82.78385,
+    27.789285,
+    -82.78385,
+    27.789285
+],
   "geometry": {"coordinates":[-82.78385,27.789285],"type":"Point"}
 }

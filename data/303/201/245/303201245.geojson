@@ -2,13 +2,14 @@
   "id": 303201245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.263026,25.782467,-80.263026,25.782467",
     "geom:latitude":25.782467,
     "geom:longitude":-80.263026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 NW 41st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303201245,
-    "wof:lastmodified":1449000238,
+    "wof:lastmodified":1466434011,
     "wof:name":"Master Typewriter Svc",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typewriter"
     ]
 },
-  "bbox": [-80.263026,25.782467,-80.263026,25.782467],
+  "bbox": [
+    -80.263026,
+    25.782467,
+    -80.263026,
+    25.782467
+],
   "geometry": {"coordinates":[-80.263026,25.782467],"type":"Point"}
 }

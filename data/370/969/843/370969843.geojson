@@ -2,13 +2,14 @@
   "id": 370969843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290753,25.785335,-80.290753,25.785335",
     "geom:latitude":25.785335,
     "geom:longitude":-80.290753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6966 NW 12th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370969843,
-    "wof:lastmodified":1449029905,
+    "wof:lastmodified":1466448196,
     "wof:name":"Marble Systems Inc",
     "wof:parent_id":85865493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-80.290753,25.785335,-80.290753,25.785335],
+  "bbox": [
+    -80.290753,
+    25.785335,
+    -80.290753,
+    25.785335
+],
   "geometry": {"coordinates":[-80.290753,25.785335],"type":"Point"}
 }

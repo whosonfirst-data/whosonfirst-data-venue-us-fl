@@ -2,13 +2,14 @@
   "id": 370721289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.847055,28.045291,-81.847055,28.045291",
     "geom:latitude":28.045291,
     "geom:longitude":-81.847055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 Payne St",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370721289,
-    "wof:lastmodified":1449032461,
+    "wof:lastmodified":1466445220,
     "wof:name":"Community Policing Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.847055,28.045291,-81.847055,28.045291],
+  "bbox": [
+    -81.847055,
+    28.045291,
+    -81.847055,
+    28.045291
+],
   "geometry": {"coordinates":[-81.847055,28.045291],"type":"Point"}
 }

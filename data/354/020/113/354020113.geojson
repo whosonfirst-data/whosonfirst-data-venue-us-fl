@@ -2,13 +2,14 @@
   "id": 354020113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.139265,28.563656,-81.139265,28.563656",
     "geom:latitude":28.563656,
     "geom:longitude":-81.139265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16300 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354020113,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1466436372,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.139265,28.563656,-81.139265,28.563656],
-  "geometry": {"coordinates":[-81.139265,28.563656],"type":"Point"}
+  "bbox": [
+    -81.139265,
+    28.563656,
+    -81.139265,
+    28.563656
+],
+  "geometry": {"coordinates":[-81.13926499999999,28.563656],"type":"Point"}
 }

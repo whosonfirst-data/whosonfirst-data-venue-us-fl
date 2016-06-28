@@ -2,13 +2,14 @@
   "id": 336868311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.435634,30.397819,-81.435634,30.397819",
     "geom:latitude":30.397819,
     "geom:longitude":-81.435634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9560 Heckscher Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336868311,
-    "wof:lastmodified":1448996957,
+    "wof:lastmodified":1466439664,
     "wof:name":"Barz Liquors & Fish Camp",
     "wof:parent_id":85820093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-81.435634,30.397819,-81.435634,30.397819],
-  "geometry": {"coordinates":[-81.435634,30.397819],"type":"Point"}
+  "bbox": [
+    -81.435634,
+    30.397819,
+    -81.435634,
+    30.397819
+],
+  "geometry": {"coordinates":[-81.43563399999999,30.397819],"type":"Point"}
 }

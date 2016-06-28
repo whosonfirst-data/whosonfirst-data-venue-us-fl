@@ -2,13 +2,14 @@
   "id": 270118515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79913,26.167905,-81.79913,26.167905",
     "geom:latitude":26.167905,
     "geom:longitude":-81.79913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270118515,
-    "wof:lastmodified":1449010599,
+    "wof:lastmodified":1466431464,
     "wof:name":"Scott Pickett OD",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.79913,26.167905,-81.79913,26.167905],
-  "geometry": {"coordinates":[-81.79913,26.167905],"type":"Point"}
+  "bbox": [
+    -81.79913,
+    26.167905,
+    -81.79913,
+    26.167905
+],
+  "geometry": {"coordinates":[-81.79913000000001,26.167905],"type":"Point"}
 }

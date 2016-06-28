@@ -2,13 +2,14 @@
   "id": 202614751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.215547,30.414271,-87.215547,30.414271",
     "geom:latitude":30.414271,
     "geom:longitude":-87.215547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202614751,
-    "wof:lastmodified":1449062740,
+    "wof:lastmodified":1466429869,
     "wof:name":"Starbuck's Billiards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sporting"
     ]
 },
-  "bbox": [-87.215547,30.414271,-87.215547,30.414271],
+  "bbox": [
+    -87.215547,
+    30.414271,
+    -87.215547,
+    30.414271
+],
   "geometry": {"coordinates":[-87.215547,30.414271],"type":"Point"}
 }

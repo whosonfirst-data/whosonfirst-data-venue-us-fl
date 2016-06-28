@@ -2,13 +2,14 @@
   "id": 303213273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.229076,30.418156,-87.229076,30.418156",
     "geom:latitude":30.418156,
     "geom:longitude":-87.229076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N D St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303213273,
-    "wof:lastmodified":1448998146,
+    "wof:lastmodified":1466434221,
     "wof:name":"Friendship Primitive Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.229076,30.418156,-87.229076,30.418156],
-  "geometry": {"coordinates":[-87.229076,30.418156],"type":"Point"}
+  "bbox": [
+    -87.229076,
+    30.418156,
+    -87.229076,
+    30.418156
+],
+  "geometry": {"coordinates":[-87.22907600000001,30.418156],"type":"Point"}
 }

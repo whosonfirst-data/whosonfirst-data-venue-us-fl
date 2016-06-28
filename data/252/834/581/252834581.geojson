@@ -2,13 +2,14 @@
   "id": 252834581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.208795,28.597809,-81.208795,28.597809",
     "geom:latitude":28.597809,
     "geom:longitude":-81.208795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12243 University Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252834581,
-    "wof:lastmodified":1449005515,
+    "wof:lastmodified":1466430263,
     "wof:name":"Subnet Zone",
     "wof:parent_id":85889401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.208795,28.597809,-81.208795,28.597809],
-  "geometry": {"coordinates":[-81.208795,28.597809],"type":"Point"}
+  "bbox": [
+    -81.208795,
+    28.597809,
+    -81.208795,
+    28.597809
+],
+  "geometry": {"coordinates":[-81.20879499999999,28.597809],"type":"Point"}
 }

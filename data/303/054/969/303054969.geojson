@@ -2,13 +2,14 @@
   "id": 303054969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.574255,28.111149,-80.574255,28.111149",
     "geom:latitude":28.111149,
     "geom:longitude":-80.574255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Neptune Rd",
     "sg:city":"Indialantic",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303054969,
-    "wof:lastmodified":1448999269,
+    "wof:lastmodified":1466431404,
     "wof:name":"Crandall Grading & Seeding",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crop"
     ]
 },
-  "bbox": [-80.574255,28.111149,-80.574255,28.111149],
-  "geometry": {"coordinates":[-80.574255,28.111149],"type":"Point"}
+  "bbox": [
+    -80.574255,
+    28.111149,
+    -80.574255,
+    28.111149
+],
+  "geometry": {"coordinates":[-80.57425499999999,28.111149],"type":"Point"}
 }

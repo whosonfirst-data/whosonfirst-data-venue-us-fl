@@ -2,13 +2,14 @@
   "id": 404212683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380441,28.462948,-81.380441,28.462948",
     "geom:latitude":28.462948,
     "geom:longitude":-81.380441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6667 Rivo Alto Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404212683,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1466443532,
     "wof:name":"Kenneth Riley",
     "wof:parent_id":85889351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.380441,28.462948,-81.380441,28.462948],
+  "bbox": [
+    -81.380441,
+    28.462948,
+    -81.380441,
+    28.462948
+],
   "geometry": {"coordinates":[-81.380441,28.462948],"type":"Point"}
 }

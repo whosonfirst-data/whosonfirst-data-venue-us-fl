@@ -2,13 +2,14 @@
   "id": 202601317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.189247,28.654148,-81.189247,28.654148",
     "geom:latitude":28.654148,
     "geom:longitude":-81.189247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Brielle Ave",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202601317,
-    "wof:lastmodified":1449061258,
+    "wof:lastmodified":1466429693,
     "wof:name":"Herbalise Independent Distr",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-81.189247,28.654148,-81.189247,28.654148],
-  "geometry": {"coordinates":[-81.189247,28.654148],"type":"Point"}
+  "bbox": [
+    -81.189247,
+    28.654148,
+    -81.189247,
+    28.654148
+],
+  "geometry": {"coordinates":[-81.18924699999999,28.654148],"type":"Point"}
 }

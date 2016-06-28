@@ -2,13 +2,14 @@
   "id": 236249623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.55047,24.986092,-80.55047,24.986092",
     "geom:latitude":24.986092,
     "geom:longitude":-80.55047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Indian Mound Trl",
     "sg:city":"Tavernier",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236249623,
-    "wof:lastmodified":1449001804,
+    "wof:lastmodified":1466431944,
     "wof:name":"Johnson Painting",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-80.55047,24.986092,-80.55047,24.986092],
+  "bbox": [
+    -80.55047,
+    24.986092,
+    -80.55047,
+    24.986092
+],
   "geometry": {"coordinates":[-80.55047,24.986092],"type":"Point"}
 }

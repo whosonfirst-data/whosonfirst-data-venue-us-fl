@@ -2,13 +2,14 @@
   "id": 286872211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.641249,27.858979,-82.641249,27.858979",
     "geom:latitude":27.858979,
     "geom:longitude":-82.641249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9721 Executive Center Dr N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286872211,
-    "wof:lastmodified":1449015447,
+    "wof:lastmodified":1466440410,
     "wof:name":"US Fish & Wildlife Svc",
     "wof:parent_id":85880531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-82.641249,27.858979,-82.641249,27.858979],
+  "bbox": [
+    -82.641249,
+    27.858979,
+    -82.641249,
+    27.858979
+],
   "geometry": {"coordinates":[-82.641249,27.858979],"type":"Point"}
 }

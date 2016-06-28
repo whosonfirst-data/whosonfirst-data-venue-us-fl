@@ -2,13 +2,14 @@
   "id": 370902199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.730443,24.856485,-80.730443,24.856485",
     "geom:latitude":24.856485,
     "geom:longitude":-80.730443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Gulfview Dr",
     "sg:city":"Islamorada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370902199,
-    "wof:lastmodified":1449031600,
+    "wof:lastmodified":1466447499,
     "wof:name":"Bay Harbour Development",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.730443,24.856485,-80.730443,24.856485],
-  "geometry": {"coordinates":[-80.730443,24.856485],"type":"Point"}
+  "bbox": [
+    -80.730443,
+    24.856485,
+    -80.730443,
+    24.856485
+],
+  "geometry": {"coordinates":[-80.73044299999999,24.856485],"type":"Point"}
 }

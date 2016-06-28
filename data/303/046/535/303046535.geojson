@@ -2,13 +2,14 @@
   "id": 303046535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108432,26.260422,-80.108432,26.260422",
     "geom:latitude":26.260422,
     "geom:longitude":-80.108432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 NE 23rd Pl",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303046535,
-    "wof:lastmodified":1448999475,
+    "wof:lastmodified":1466431249,
     "wof:name":"Data Source",
     "wof:parent_id":85811837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-80.108432,26.260422,-80.108432,26.260422],
-  "geometry": {"coordinates":[-80.108432,26.260422],"type":"Point"}
+  "bbox": [
+    -80.108432,
+    26.260422,
+    -80.108432,
+    26.260422
+],
+  "geometry": {"coordinates":[-80.10843199999999,26.260422],"type":"Point"}
 }

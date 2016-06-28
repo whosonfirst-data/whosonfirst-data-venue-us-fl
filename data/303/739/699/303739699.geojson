@@ -2,13 +2,14 @@
   "id": 303739699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.561896,27.4927,-82.561896,27.4927",
     "geom:latitude":27.4927,
     "geom:longitude":-82.561896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 8th Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303739699,
-    "wof:lastmodified":1448999150,
+    "wof:lastmodified":1466443295,
     "wof:name":"Coastal Cleaning",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.561896,27.4927,-82.561896,27.4927],
+  "bbox": [
+    -82.561896,
+    27.4927,
+    -82.561896,
+    27.4927
+],
   "geometry": {"coordinates":[-82.561896,27.4927],"type":"Point"}
 }

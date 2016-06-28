@@ -2,13 +2,14 @@
   "id": 202627001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031817,29.17411,-81.031817,29.17411",
     "geom:latitude":29.17411,
     "geom:longitude":-81.031817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Beville Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202627001,
-    "wof:lastmodified":1449062718,
+    "wof:lastmodified":1466430044,
     "wof:name":"Memorial Health Center",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.031817,29.17411,-81.031817,29.17411],
+  "bbox": [
+    -81.031817,
+    29.17411,
+    -81.031817,
+    29.17411
+],
   "geometry": {"coordinates":[-81.031817,29.17411],"type":"Point"}
 }

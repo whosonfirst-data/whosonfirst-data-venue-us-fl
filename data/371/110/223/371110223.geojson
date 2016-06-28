@@ -2,13 +2,14 @@
   "id": 371110223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.234607,28.553241,-81.234607,28.553241",
     "geom:latitude":28.553241,
     "geom:longitude":-81.234607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 Hardwick Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371110223,
-    "wof:lastmodified":1449049346,
+    "wof:lastmodified":1466439244,
     "wof:name":"Vm Graphics",
     "wof:parent_id":85889329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.234607,28.553241,-81.234607,28.553241],
+  "bbox": [
+    -81.234607,
+    28.553241,
+    -81.234607,
+    28.553241
+],
   "geometry": {"coordinates":[-81.234607,28.553241],"type":"Point"}
 }

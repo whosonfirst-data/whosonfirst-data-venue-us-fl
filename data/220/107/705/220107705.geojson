@@ -2,13 +2,14 @@
   "id": 220107705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130626,26.202975,-80.130626,26.202975",
     "geom:latitude":26.202975,
     "geom:longitude":-80.130626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 NE 14th Ln",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220107705,
-    "wof:lastmodified":1449074067,
+    "wof:lastmodified":1466446161,
     "wof:name":"Whm Holdings Inc",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-80.130626,26.202975,-80.130626,26.202975],
-  "geometry": {"coordinates":[-80.130626,26.202975],"type":"Point"}
+  "bbox": [
+    -80.130626,
+    26.202975,
+    -80.130626,
+    26.202975
+],
+  "geometry": {"coordinates":[-80.13062600000001,26.202975],"type":"Point"}
 }

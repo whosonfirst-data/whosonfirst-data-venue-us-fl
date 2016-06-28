@@ -2,13 +2,14 @@
   "id": 303543059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017963,29.247039,-81.017963,29.247039",
     "geom:latitude":29.247039,
     "geom:longitude":-81.017963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 N Atlantic Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303543059,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1466439896,
     "wof:name":"Sunrise Beach Club",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.017963,29.247039,-81.017963,29.247039],
-  "geometry": {"coordinates":[-81.017963,29.247039],"type":"Point"}
+  "bbox": [
+    -81.017963,
+    29.247039,
+    -81.017963,
+    29.247039
+],
+  "geometry": {"coordinates":[-81.01796299999999,29.247039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320403693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.357001,28.599977,-81.357001,28.599977",
     "geom:latitude":28.599977,
     "geom:longitude":-81.357001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 N Pennsylvania Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320403693,
-    "wof:lastmodified":1449014450,
+    "wof:lastmodified":1466440295,
     "wof:name":"Frank's Market",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.357001,28.599977,-81.357001,28.599977],
+  "bbox": [
+    -81.357001,
+    28.599977,
+    -81.357001,
+    28.599977
+],
   "geometry": {"coordinates":[-81.357001,28.599977],"type":"Point"}
 }

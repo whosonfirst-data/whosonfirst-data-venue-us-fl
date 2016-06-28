@@ -2,13 +2,14 @@
   "id": 202611415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.804134,26.543743,-81.804134,26.543743",
     "geom:latitude":26.543743,
     "geom:longitude":-81.804134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13650 Fiddlesticks Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202611415,
-    "wof:lastmodified":1449062123,
+    "wof:lastmodified":1466429826,
     "wof:name":"Metro Cleaners 2",
     "wof:parent_id":85888795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-81.804134,26.543743,-81.804134,26.543743],
+  "bbox": [
+    -81.804134,
+    26.543743,
+    -81.804134,
+    26.543743
+],
   "geometry": {"coordinates":[-81.804134,26.543743],"type":"Point"}
 }

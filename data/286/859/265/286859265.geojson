@@ -2,13 +2,14 @@
   "id": 286859265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.411801,28.545999,-81.411801,28.545999",
     "geom:latitude":28.545999,
     "geom:longitude":-81.411801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Buchan Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286859265,
-    "wof:lastmodified":1449017288,
+    "wof:lastmodified":1466440179,
     "wof:name":"Vincent Bender",
     "wof:parent_id":85879537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.411801,28.545999,-81.411801,28.545999],
+  "bbox": [
+    -81.411801,
+    28.545999,
+    -81.411801,
+    28.545999
+],
   "geometry": {"coordinates":[-81.411801,28.545999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219208785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12623,26.321401,-80.12623,26.321401",
     "geom:latitude":26.321401,
     "geom:longitude":-80.12623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 NW 3rd St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219208785,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466444429,
     "wof:name":"Powerhouse Systems",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-80.12623,26.321401,-80.12623,26.321401],
-  "geometry": {"coordinates":[-80.12623,26.321401],"type":"Point"}
+  "bbox": [
+    -80.12623,
+    26.321401,
+    -80.12623,
+    26.321401
+],
+  "geometry": {"coordinates":[-80.12623000000001,26.321401],"type":"Point"}
 }

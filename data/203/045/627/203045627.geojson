@@ -2,13 +2,14 @@
   "id": 203045627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.689119,30.30786,-81.689119,30.30786",
     "geom:latitude":30.30786,
     "geom:longitude":-81.689119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Barrs St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203045627,
-    "wof:lastmodified":1449026648,
+    "wof:lastmodified":1466444027,
     "wof:name":"Nephrology Associates-Ne Fl",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.689119,30.30786,-81.689119,30.30786],
-  "geometry": {"coordinates":[-81.689119,30.30786],"type":"Point"}
+  "bbox": [
+    -81.689119,
+    30.30786,
+    -81.689119,
+    30.30786
+],
+  "geometry": {"coordinates":[-81.68911900000001,30.30786],"type":"Point"}
 }

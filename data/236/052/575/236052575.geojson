@@ -2,13 +2,14 @@
   "id": 236052575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.640026,30.173279,-82.640026,30.173279",
     "geom:latitude":30.173279,
     "geom:longitude":-82.640026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2262 S 1st St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236052575,
-    "wof:lastmodified":1449003090,
+    "wof:lastmodified":1466429122,
     "wof:name":"John A Dryfuss MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.640026,30.173279,-82.640026,30.173279],
-  "geometry": {"coordinates":[-82.640026,30.173279],"type":"Point"}
+  "bbox": [
+    -82.640026,
+    30.173279,
+    -82.640026,
+    30.173279
+],
+  "geometry": {"coordinates":[-82.64002600000001,30.173279],"type":"Point"}
 }

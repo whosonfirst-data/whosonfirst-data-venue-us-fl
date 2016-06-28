@@ -2,13 +2,14 @@
   "id": 370501535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609225,30.418859,-86.609225,30.418859",
     "geom:latitude":30.418859,
     "geom:longitude":-86.609225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Eglin Pkwy",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370501535,
-    "wof:lastmodified":1449032501,
+    "wof:lastmodified":1466441863,
     "wof:name":"Southern Linc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-86.609225,30.418859,-86.609225,30.418859],
+  "bbox": [
+    -86.609225,
+    30.418859,
+    -86.609225,
+    30.418859
+],
   "geometry": {"coordinates":[-86.609225,30.418859],"type":"Point"}
 }

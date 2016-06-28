@@ -2,13 +2,14 @@
   "id": 203241385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.601289,26.725733,-81.601289,26.725733",
     "geom:latitude":26.725733,
     "geom:longitude":-81.601289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21971 N River Rd",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203241385,
-    "wof:lastmodified":1449026834,
+    "wof:lastmodified":1466429437,
     "wof:name":"Richard L Oxnam Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.601289,26.725733,-81.601289,26.725733],
-  "geometry": {"coordinates":[-81.601289,26.725733],"type":"Point"}
+  "bbox": [
+    -81.601289,
+    26.725733,
+    -81.601289,
+    26.725733
+],
+  "geometry": {"coordinates":[-81.60128899999999,26.725733],"type":"Point"}
 }

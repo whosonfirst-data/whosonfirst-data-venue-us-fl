@@ -2,13 +2,14 @@
   "id": 370465211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589594,30.308426,-81.589594,30.308426",
     "geom:latitude":30.308426,
     "geom:longitude":-81.589594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Laurina St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370465211,
-    "wof:lastmodified":1449031356,
+    "wof:lastmodified":1466441317,
     "wof:name":"Fountain Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.589594,30.308426,-81.589594,30.308426],
-  "geometry": {"coordinates":[-81.589594,30.308426],"type":"Point"}
+  "bbox": [
+    -81.589594,
+    30.308426,
+    -81.589594,
+    30.308426
+],
+  "geometry": {"coordinates":[-81.58959400000001,30.308426],"type":"Point"}
 }

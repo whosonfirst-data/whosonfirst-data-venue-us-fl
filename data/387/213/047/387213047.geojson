@@ -2,13 +2,14 @@
   "id": 387213047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.55531,30.25414,-81.55531,30.25414",
     "geom:latitude":30.25414,
     "geom:longitude":-81.55531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8780 Perimeter Park Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387213047,
-    "wof:lastmodified":1449056162,
+    "wof:lastmodified":1466441996,
     "wof:name":"House of Stereo Inc",
     "wof:parent_id":85870705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.55531,30.25414,-81.55531,30.25414],
-  "geometry": {"coordinates":[-81.55531,30.25414],"type":"Point"}
+  "bbox": [
+    -81.55531,
+    30.25414,
+    -81.55531,
+    30.25414
+],
+  "geometry": {"coordinates":[-81.55531000000001,30.25414],"type":"Point"}
 }

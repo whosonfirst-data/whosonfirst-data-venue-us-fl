@@ -2,13 +2,14 @@
   "id": 336797409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.283245,25.821322,-80.283245,25.821322",
     "geom:latitude":25.821322,
     "geom:longitude":-80.283245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Cross St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336797409,
-    "wof:lastmodified":1448997913,
+    "wof:lastmodified":1466438408,
     "wof:name":"Beatrice Glass",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typesetting"
     ]
 },
-  "bbox": [-80.283245,25.821322,-80.283245,25.821322],
-  "geometry": {"coordinates":[-80.283245,25.821322],"type":"Point"}
+  "bbox": [
+    -80.283245,
+    25.821322,
+    -80.283245,
+    25.821322
+],
+  "geometry": {"coordinates":[-80.28324499999999,25.821322],"type":"Point"}
 }

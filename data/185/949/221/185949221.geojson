@@ -2,13 +2,14 @@
   "id": 185949221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.354038,28.600378,-81.354038,28.600378",
     "geom:latitude":28.600378,
     "geom:longitude":-81.354038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 W Canton Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185949221,
-    "wof:lastmodified":1449007604,
+    "wof:lastmodified":1466430504,
     "wof:name":"Data Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.354038,28.600378,-81.354038,28.600378],
+  "bbox": [
+    -81.354038,
+    28.600378,
+    -81.354038,
+    28.600378
+],
   "geometry": {"coordinates":[-81.354038,28.600378],"type":"Point"}
 }

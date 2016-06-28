@@ -2,13 +2,14 @@
   "id": 202845603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.722027,28.305875,-80.722027,28.305875",
     "geom:latitude":28.305875,
     "geom:longitude":-80.722027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Murrell Rd",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202845603,
-    "wof:lastmodified":1449060516,
+    "wof:lastmodified":1466432871,
     "wof:name":"Rockledge Main Office",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-80.722027,28.305875,-80.722027,28.305875],
+  "bbox": [
+    -80.722027,
+    28.305875,
+    -80.722027,
+    28.305875
+],
   "geometry": {"coordinates":[-80.722027,28.305875],"type":"Point"}
 }

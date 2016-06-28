@@ -2,13 +2,14 @@
   "id": 354035555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.352984,28.548974,-81.352984,28.548974",
     "geom:latitude":28.548974,
     "geom:longitude":-81.352984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 Stanley St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354035555,
-    "wof:lastmodified":1449067316,
+    "wof:lastmodified":1466436605,
     "wof:name":"Allegro Microsystems Inc",
     "wof:parent_id":85879437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.352984,28.548974,-81.352984,28.548974],
-  "geometry": {"coordinates":[-81.352984,28.548974],"type":"Point"}
+  "bbox": [
+    -81.352984,
+    28.548974,
+    -81.352984,
+    28.548974
+],
+  "geometry": {"coordinates":[-81.35298400000001,28.548974],"type":"Point"}
 }

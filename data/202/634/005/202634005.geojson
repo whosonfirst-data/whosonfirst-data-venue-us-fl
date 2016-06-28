@@ -2,13 +2,14 @@
   "id": 202634005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.597479,30.327541,-81.597479,30.327541",
     "geom:latitude":30.327541,
     "geom:longitude":-81.597479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Arlington Expy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202634005,
-    "wof:lastmodified":1449061339,
+    "wof:lastmodified":1466430136,
     "wof:name":"Day Care Licensure",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-81.597479,30.327541,-81.597479,30.327541],
-  "geometry": {"coordinates":[-81.597479,30.327541],"type":"Point"}
+  "bbox": [
+    -81.597479,
+    30.327541,
+    -81.597479,
+    30.327541
+],
+  "geometry": {"coordinates":[-81.59747900000001,30.327541],"type":"Point"}
 }

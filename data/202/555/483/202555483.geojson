@@ -2,13 +2,14 @@
   "id": 202555483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178647,26.317552,-80.178647,26.317552",
     "geom:latitude":26.317552,
     "geom:longitude":-80.178647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 W Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202555483,
-    "wof:lastmodified":1449062293,
+    "wof:lastmodified":1466429088,
     "wof:name":"Punch Fitness LLC",
     "wof:parent_id":85896209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-80.178647,26.317552,-80.178647,26.317552],
+  "bbox": [
+    -80.178647,
+    26.317552,
+    -80.178647,
+    26.317552
+],
   "geometry": {"coordinates":[-80.178647,26.317552],"type":"Point"}
 }

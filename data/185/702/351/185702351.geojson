@@ -2,13 +2,14 @@
   "id": 185702351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.803572,26.356717,-81.803572,26.356717",
     "geom:latitude":26.356717,
     "geom:longitude":-81.803572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26551 Clarkston Dr",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185702351,
-    "wof:lastmodified":1449007433,
+    "wof:lastmodified":1466445486,
     "wof:name":"US Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.803572,26.356717,-81.803572,26.356717],
+  "bbox": [
+    -81.803572,
+    26.356717,
+    -81.803572,
+    26.356717
+],
   "geometry": {"coordinates":[-81.803572,26.356717],"type":"Point"}
 }

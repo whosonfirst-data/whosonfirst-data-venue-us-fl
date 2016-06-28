@@ -2,13 +2,14 @@
   "id": 219549605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951619,30.096655,-81.951619,30.096655",
     "geom:latitude":30.096655,
     "geom:longitude":-81.951619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5406 Co Rd 218",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219549605,
-    "wof:lastmodified":1449071373,
+    "wof:lastmodified":1466432151,
     "wof:name":"Saddle Tramp Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951619,30.096655,-81.951619,30.096655],
-  "geometry": {"coordinates":[-81.951619,30.096655],"type":"Point"}
+  "bbox": [
+    -81.951619,
+    30.096655,
+    -81.951619,
+    30.096655
+],
+  "geometry": {"coordinates":[-81.95161899999999,30.096655],"type":"Point"}
 }

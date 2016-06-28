@@ -2,13 +2,14 @@
   "id": 370925737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.465401,28.059631,-82.465401,28.059631",
     "geom:latitude":28.059631,
     "geom:longitude":-82.465401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 W 124th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370925737,
-    "wof:lastmodified":1449029088,
+    "wof:lastmodified":1466447561,
     "wof:name":"Maynard Consulting & Support",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-82.465401,28.059631,-82.465401,28.059631],
+  "bbox": [
+    -82.465401,
+    28.059631,
+    -82.465401,
+    28.059631
+],
   "geometry": {"coordinates":[-82.465401,28.059631],"type":"Point"}
 }

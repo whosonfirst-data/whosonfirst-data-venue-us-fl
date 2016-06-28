@@ -2,13 +2,14 @@
   "id": 403847621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130852,25.793074,-80.130852,25.793074",
     "geom:latitude":25.793074,
     "geom:longitude":-80.130852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 James Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403847621,
-    "wof:lastmodified":1449055116,
+    "wof:lastmodified":1466441916,
     "wof:name":"Samuel Strauch",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.130852,25.793074,-80.130852,25.793074],
+  "bbox": [
+    -80.130852,
+    25.793074,
+    -80.130852,
+    25.793074
+],
   "geometry": {"coordinates":[-80.130852,25.793074],"type":"Point"}
 }

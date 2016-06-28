@@ -2,13 +2,14 @@
   "id": 336754021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160158,25.912324,-80.160158,25.912324",
     "geom:latitude":25.912324,
     "geom:longitude":-80.160158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1965 NE 148th St",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336754021,
-    "wof:lastmodified":1448997638,
+    "wof:lastmodified":1466437638,
     "wof:name":"A B Express",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-80.160158,25.912324,-80.160158,25.912324],
+  "bbox": [
+    -80.160158,
+    25.912324,
+    -80.160158,
+    25.912324
+],
   "geometry": {"coordinates":[-80.160158,25.912324],"type":"Point"}
 }

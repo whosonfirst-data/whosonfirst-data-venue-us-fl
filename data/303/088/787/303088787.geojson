@@ -2,13 +2,14 @@
   "id": 303088787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.725491,28.0675,-82.725491,28.0675",
     "geom:latitude":28.0675,
     "geom:longitude":-82.725491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 Tampa Rd",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303088787,
-    "wof:lastmodified":1449000021,
+    "wof:lastmodified":1466432017,
     "wof:name":"Cloverplace Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.725491,28.0675,-82.725491,28.0675],
-  "geometry": {"coordinates":[-82.725491,28.0675],"type":"Point"}
+  "bbox": [
+    -82.725491,
+    28.0675,
+    -82.725491,
+    28.0675
+],
+  "geometry": {"coordinates":[-82.72549100000001,28.0675],"type":"Point"}
 }

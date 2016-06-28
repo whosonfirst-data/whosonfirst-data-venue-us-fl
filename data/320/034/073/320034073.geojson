@@ -2,13 +2,14 @@
   "id": 320034073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.417994,28.502322,-81.417994,28.502322",
     "geom:latitude":28.502322,
     "geom:longitude":-81.417994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 40th St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320034073,
-    "wof:lastmodified":1449011659,
+    "wof:lastmodified":1466433974,
     "wof:name":"Total Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-81.417994,28.502322,-81.417994,28.502322],
-  "geometry": {"coordinates":[-81.417994,28.502322],"type":"Point"}
+  "bbox": [
+    -81.417994,
+    28.502322,
+    -81.417994,
+    28.502322
+],
+  "geometry": {"coordinates":[-81.41799399999999,28.502322],"type":"Point"}
 }

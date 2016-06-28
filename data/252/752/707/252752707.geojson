@@ -2,13 +2,14 @@
   "id": 252752707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.269026,28.807132,-81.269026,28.807132",
     "geom:latitude":28.807132,
     "geom:longitude":-81.269026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Oak Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252752707,
-    "wof:lastmodified":1449005590,
+    "wof:lastmodified":1466429067,
     "wof:name":"Florida Hotel",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hostel"
     ]
 },
-  "bbox": [-81.269026,28.807132,-81.269026,28.807132],
+  "bbox": [
+    -81.269026,
+    28.807132,
+    -81.269026,
+    28.807132
+],
   "geometry": {"coordinates":[-81.269026,28.807132],"type":"Point"}
 }

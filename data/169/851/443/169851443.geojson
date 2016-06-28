@@ -2,13 +2,14 @@
   "id": 169851443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241747,26.120877,-80.241747,26.120877",
     "geom:latitude":26.120877,
     "geom:longitude":-80.241747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7067 W Broward Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169851443,
-    "wof:lastmodified":1449034862,
+    "wof:lastmodified":1466429579,
     "wof:name":"General Accounts Service Inc",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "operates"
     ]
 },
-  "bbox": [-80.241747,26.120877,-80.241747,26.120877],
+  "bbox": [
+    -80.241747,
+    26.120877,
+    -80.241747,
+    26.120877
+],
   "geometry": {"coordinates":[-80.241747,26.120877],"type":"Point"}
 }

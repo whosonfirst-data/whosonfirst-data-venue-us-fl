@@ -2,13 +2,14 @@
   "id": 186212669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956989,28.016443,-81.956989,28.016443",
     "geom:latitude":28.016443,
     "geom:longitude":-81.956989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 S Florida Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186212669,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466429256,
     "wof:name":"Import Auto Parts",
     "wof:parent_id":85889085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-81.956989,28.016443,-81.956989,28.016443],
-  "geometry": {"coordinates":[-81.956989,28.016443],"type":"Point"}
+  "bbox": [
+    -81.956989,
+    28.016443,
+    -81.956989,
+    28.016443
+],
+  "geometry": {"coordinates":[-81.95698899999999,28.016443],"type":"Point"}
 }

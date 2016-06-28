@@ -2,13 +2,14 @@
   "id": 371154091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.815058,26.252494,-81.815058,26.252494",
     "geom:latitude":26.252494,
     "geom:longitude":-81.815058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Vanderbilt Beach Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371154091,
-    "wof:lastmodified":1449050152,
+    "wof:lastmodified":1466439915,
     "wof:name":"Collier County Sheriffs Office",
     "wof:parent_id":85889229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-81.815058,26.252494,-81.815058,26.252494],
-  "geometry": {"coordinates":[-81.815058,26.252494],"type":"Point"}
+  "bbox": [
+    -81.815058,
+    26.252494,
+    -81.815058,
+    26.252494
+],
+  "geometry": {"coordinates":[-81.81505799999999,26.252494],"type":"Point"}
 }

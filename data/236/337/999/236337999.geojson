@@ -2,13 +2,14 @@
   "id": 236337999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.40672,28.658756,-81.40672,28.658756",
     "geom:latitude":28.658756,
     "geom:longitude":-81.40672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Weathersfield Ave",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236337999,
-    "wof:lastmodified":1449003151,
+    "wof:lastmodified":1466433191,
     "wof:name":"Lake Grove Utilities Inc",
     "wof:parent_id":85854903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewerage"
     ]
 },
-  "bbox": [-81.40672,28.658756,-81.40672,28.658756],
-  "geometry": {"coordinates":[-81.40672,28.658756],"type":"Point"}
+  "bbox": [
+    -81.40672,
+    28.658756,
+    -81.40672,
+    28.658756
+],
+  "geometry": {"coordinates":[-81.40672000000001,28.658756],"type":"Point"}
 }

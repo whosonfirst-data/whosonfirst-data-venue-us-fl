@@ -2,13 +2,14 @@
   "id": 370709609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300128,25.956256,-80.300128,25.956256",
     "geom:latitude":25.956256,
     "geom:longitude":-80.300128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 NW 201st Ln",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370709609,
-    "wof:lastmodified":1449029768,
+    "wof:lastmodified":1466445039,
     "wof:name":"USA Ceramics Mfg Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramic"
     ]
 },
-  "bbox": [-80.300128,25.956256,-80.300128,25.956256],
+  "bbox": [
+    -80.300128,
+    25.956256,
+    -80.300128,
+    25.956256
+],
   "geometry": {"coordinates":[-80.300128,25.956256],"type":"Point"}
 }

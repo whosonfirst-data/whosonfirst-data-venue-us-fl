@@ -2,13 +2,14 @@
   "id": 269570471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289785,28.239444,-81.289785,28.239444",
     "geom:latitude":28.239444,
     "geom:longitude":-81.289785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1942 Villa Angelo Blvd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269570471,
-    "wof:lastmodified":1449037567,
+    "wof:lastmodified":1466430021,
     "wof:name":"Mark Denny Cement",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.289785,28.239444,-81.289785,28.239444],
-  "geometry": {"coordinates":[-81.289785,28.239444],"type":"Point"}
+  "bbox": [
+    -81.289785,
+    28.239444,
+    -81.289785,
+    28.239444
+],
+  "geometry": {"coordinates":[-81.28978499999999,28.239444],"type":"Point"}
 }

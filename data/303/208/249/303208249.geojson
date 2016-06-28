@@ -2,13 +2,14 @@
   "id": 303208249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.843748,27.911416,-81.843748,27.911416",
     "geom:latitude":27.911416,
     "geom:longitude":-81.843748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 N Broadway Ave",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303208249,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466434129,
     "wof:name":"Matt's Barber Shop",
     "wof:parent_id":85888549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.843748,27.911416,-81.843748,27.911416],
-  "geometry": {"coordinates":[-81.843748,27.911416],"type":"Point"}
+  "bbox": [
+    -81.843748,
+    27.911416,
+    -81.843748,
+    27.911416
+],
+  "geometry": {"coordinates":[-81.84374800000001,27.911416],"type":"Point"}
 }

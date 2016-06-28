@@ -2,13 +2,14 @@
   "id": 186369601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403277,28.677854,-81.403277,28.677854",
     "geom:latitude":28.677854,
     "geom:longitude":-81.403277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Lakespur Ln",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186369601,
-    "wof:lastmodified":1449052903,
+    "wof:lastmodified":1466431144,
     "wof:name":"John Partis Painting",
     "wof:parent_id":85854903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.403277,28.677854,-81.403277,28.677854],
+  "bbox": [
+    -81.403277,
+    28.677854,
+    -81.403277,
+    28.677854
+],
   "geometry": {"coordinates":[-81.403277,28.677854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286802455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097235,26.314985,-80.097235,26.314985",
     "geom:latitude":26.314985,
     "geom:longitude":-80.097235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 SE 2nd Ct",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286802455,
-    "wof:lastmodified":1449017571,
+    "wof:lastmodified":1466439141,
     "wof:name":"Sample Communications Ser",
     "wof:parent_id":85848599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-80.097235,26.314985,-80.097235,26.314985],
+  "bbox": [
+    -80.097235,
+    26.314985,
+    -80.097235,
+    26.314985
+],
   "geometry": {"coordinates":[-80.097235,26.314985],"type":"Point"}
 }

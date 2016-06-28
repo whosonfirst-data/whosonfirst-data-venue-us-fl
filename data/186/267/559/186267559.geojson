@@ -2,13 +2,14 @@
   "id": 186267559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.37646,27.966763,-82.37646,27.966763",
     "geom:latitude":27.966763,
     "geom:longitude":-82.37646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N 70th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186267559,
-    "wof:lastmodified":1449052780,
+    "wof:lastmodified":1466429891,
     "wof:name":"Rodan Fire Sprinklers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-82.37646,27.966763,-82.37646,27.966763],
-  "geometry": {"coordinates":[-82.37646,27.966763],"type":"Point"}
+  "bbox": [
+    -82.37646,
+    27.966763,
+    -82.37646,
+    27.966763
+],
+  "geometry": {"coordinates":[-82.37645999999999,27.966763],"type":"Point"}
 }

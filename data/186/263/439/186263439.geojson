@@ -2,13 +2,14 @@
   "id": 186263439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.46424,28.513864,-81.46424,28.513864",
     "geom:latitude":28.513864,
     "geom:longitude":-81.46424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Metrowest Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186263439,
-    "wof:lastmodified":1449052956,
+    "wof:lastmodified":1466429841,
     "wof:name":"Edward J Arslanian MD",
     "wof:parent_id":85889311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.46424,28.513864,-81.46424,28.513864],
+  "bbox": [
+    -81.46424,
+    28.513864,
+    -81.46424,
+    28.513864
+],
   "geometry": {"coordinates":[-81.46424,28.513864],"type":"Point"}
 }

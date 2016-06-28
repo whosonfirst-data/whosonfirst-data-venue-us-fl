@@ -2,13 +2,14 @@
   "id": 387315209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.850355,26.474811,-81.850355,26.474811",
     "geom:latitude":26.474811,
     "geom:longitude":-81.850355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18461 Mullock Creek Ln",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387315209,
-    "wof:lastmodified":1449059721,
+    "wof:lastmodified":1466443563,
     "wof:name":"T-Shirt of Month Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.850355,26.474811,-81.850355,26.474811],
-  "geometry": {"coordinates":[-81.850355,26.474811],"type":"Point"}
+  "bbox": [
+    -81.850355,
+    26.474811,
+    -81.850355,
+    26.474811
+],
+  "geometry": {"coordinates":[-81.85035499999999,26.474811],"type":"Point"}
 }

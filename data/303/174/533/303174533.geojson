@@ -2,13 +2,14 @@
   "id": 303174533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.298448,29.680138,-82.298448,29.680138",
     "geom:latitude":29.680138,
     "geom:longitude":-82.298448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 NE 19th Dr",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303174533,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466433547,
     "wof:name":"Dave May's Automotive",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.298448,29.680138,-82.298448,29.680138],
-  "geometry": {"coordinates":[-82.298448,29.680138],"type":"Point"}
+  "bbox": [
+    -82.298448,
+    29.680138,
+    -82.298448,
+    29.680138
+],
+  "geometry": {"coordinates":[-82.29844799999999,29.680138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370162349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.211604,29.266098,-82.211604,29.266098",
     "geom:latitude":29.266098,
     "geom:longitude":-82.211604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 NW 55th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370162349,
-    "wof:lastmodified":1449031973,
+    "wof:lastmodified":1466436631,
     "wof:name":"Landstar",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.211604,29.266098,-82.211604,29.266098],
-  "geometry": {"coordinates":[-82.211604,29.266098],"type":"Point"}
+  "bbox": [
+    -82.211604,
+    29.266098,
+    -82.211604,
+    29.266098
+],
+  "geometry": {"coordinates":[-82.21160399999999,29.266098],"type":"Point"}
 }

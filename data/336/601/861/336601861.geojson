@@ -2,13 +2,14 @@
   "id": 336601861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505171,28.005272,-82.505171,28.005272",
     "geom:latitude":28.005272,
     "geom:longitude":-82.505171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6008 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336601861,
-    "wof:lastmodified":1448997433,
+    "wof:lastmodified":1466435013,
     "wof:name":"Volvo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-82.505171,28.005272,-82.505171,28.005272],
+  "bbox": [
+    -82.505171,
+    28.005272,
+    -82.505171,
+    28.005272
+],
   "geometry": {"coordinates":[-82.505171,28.005272],"type":"Point"}
 }

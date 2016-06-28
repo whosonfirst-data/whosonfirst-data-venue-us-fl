@@ -2,13 +2,14 @@
   "id": 303113489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.27863,28.698636,-81.27863,28.698636",
     "geom:latitude":28.698636,
     "geom:longitude":-81.27863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Timberwilde Ct",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303113489,
-    "wof:lastmodified":1449000365,
+    "wof:lastmodified":1466432461,
     "wof:name":"Barrow Schurrer Assoc Inc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.27863,28.698636,-81.27863,28.698636],
-  "geometry": {"coordinates":[-81.27863,28.698636],"type":"Point"}
+  "bbox": [
+    -81.27863,
+    28.698636,
+    -81.27863,
+    28.698636
+],
+  "geometry": {"coordinates":[-81.27863000000001,28.698636],"type":"Point"}
 }

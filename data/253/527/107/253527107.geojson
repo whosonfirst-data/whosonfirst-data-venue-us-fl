@@ -2,13 +2,14 @@
   "id": 253527107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.707084,27.748341,-82.707084,27.748341",
     "geom:latitude":27.748341,
     "geom:longitude":-82.707084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 Gulfport Blvd S",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253527107,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1466436091,
     "wof:name":"Church Of Jesus Christ",
     "wof:parent_id":85878005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.707084,27.748341,-82.707084,27.748341],
-  "geometry": {"coordinates":[-82.707084,27.748341],"type":"Point"}
+  "bbox": [
+    -82.707084,
+    27.748341,
+    -82.707084,
+    27.748341
+],
+  "geometry": {"coordinates":[-82.70708399999999,27.748341],"type":"Point"}
 }

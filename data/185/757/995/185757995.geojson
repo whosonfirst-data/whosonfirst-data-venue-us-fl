@@ -2,13 +2,14 @@
   "id": 185757995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.926649,28.981925,-81.926649,28.981925",
     "geom:latitude":28.981925,
     "geom:longitude":-81.926649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13595 SE Hwy 42",
     "sg:city":"Weirsdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185757995,
-    "wof:lastmodified":1449007513,
+    "wof:lastmodified":1466428566,
     "wof:name":"US Post Office",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.926649,28.981925,-81.926649,28.981925],
+  "bbox": [
+    -81.926649,
+    28.981925,
+    -81.926649,
+    28.981925
+],
   "geometry": {"coordinates":[-81.926649,28.981925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304025071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036532,26.700815,-80.036532,26.700815",
     "geom:latitude":26.700815,
     "geom:longitude":-80.036532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Worth Ave",
     "sg:city":"Palm Beach",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":304025071,
-    "wof:lastmodified":1449044073,
+    "wof:lastmodified":1466432244,
     "wof:name":"Winthrop House",
     "wof:parent_id":85881799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.036532,26.700815,-80.036532,26.700815],
-  "geometry": {"coordinates":[-80.036532,26.700815],"type":"Point"}
+  "bbox": [
+    -80.036532,
+    26.700815,
+    -80.036532,
+    26.700815
+],
+  "geometry": {"coordinates":[-80.03653199999999,26.700815],"type":"Point"}
 }

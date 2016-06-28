@@ -2,13 +2,14 @@
   "id": 203179901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.498106,30.359045,-81.498106,30.359045",
     "geom:latitude":30.359045,
     "geom:longitude":-81.498106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11190 Monument Landing Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203179901,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466428640,
     "wof:name":"Siamac Mashod DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.498106,30.359045,-81.498106,30.359045],
-  "geometry": {"coordinates":[-81.498106,30.359045],"type":"Point"}
+  "bbox": [
+    -81.498106,
+    30.359045,
+    -81.498106,
+    30.359045
+],
+  "geometry": {"coordinates":[-81.49810600000001,30.359045],"type":"Point"}
 }

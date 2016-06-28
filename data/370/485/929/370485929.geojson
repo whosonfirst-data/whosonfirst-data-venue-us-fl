@@ -2,13 +2,14 @@
   "id": 370485929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.630991,30.260911,-81.630991,30.260911",
     "geom:latitude":30.260911,
     "geom:longitude":-81.630991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370485929,
-    "wof:lastmodified":1449031147,
+    "wof:lastmodified":1466441625,
     "wof:name":"Malone Kathleen R CPA",
     "wof:parent_id":85846911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.630991,30.260911,-81.630991,30.260911],
-  "geometry": {"coordinates":[-81.630991,30.260911],"type":"Point"}
+  "bbox": [
+    -81.630991,
+    30.260911,
+    -81.630991,
+    30.260911
+],
+  "geometry": {"coordinates":[-81.63099099999999,30.260911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203117077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.72508,28.026085,-82.72508,28.026085",
     "geom:latitude":28.026085,
     "geom:longitude":-82.72508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 Weathersfield Ct",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203117077,
-    "wof:lastmodified":1449026268,
+    "wof:lastmodified":1466445611,
     "wof:name":"Kjp Pinellas Inc",
     "wof:parent_id":85888677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.72508,28.026085,-82.72508,28.026085],
-  "geometry": {"coordinates":[-82.72508,28.026085],"type":"Point"}
+  "bbox": [
+    -82.72508,
+    28.026085,
+    -82.72508,
+    28.026085
+],
+  "geometry": {"coordinates":[-82.72508000000001,28.026085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303500783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.359231,28.776316,-81.359231,28.776316",
     "geom:latitude":28.776316,
     "geom:longitude":-81.359231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Bus Center Dr",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303500783,
-    "wof:lastmodified":1448998722,
+    "wof:lastmodified":1466439167,
     "wof:name":"Person & Company",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.359231,28.776316,-81.359231,28.776316],
-  "geometry": {"coordinates":[-81.359231,28.776316],"type":"Point"}
+  "bbox": [
+    -81.359231,
+    28.776316,
+    -81.359231,
+    28.776316
+],
+  "geometry": {"coordinates":[-81.35923099999999,28.776316],"type":"Point"}
 }

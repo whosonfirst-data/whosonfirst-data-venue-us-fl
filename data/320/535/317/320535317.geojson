@@ -2,13 +2,14 @@
   "id": 320535317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153307,25.725253,-80.153307,25.725253",
     "geom:latitude":25.725253,
     "geom:longitude":-80.153307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Rickenbacker Cswy",
     "sg:city":"Key Biscayne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320535317,
-    "wof:lastmodified":1449011931,
+    "wof:lastmodified":1466442642,
     "wof:name":"Southeast Total Marine",
     "wof:parent_id":85888959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.153307,25.725253,-80.153307,25.725253],
+  "bbox": [
+    -80.153307,
+    25.725253,
+    -80.153307,
+    25.725253
+],
   "geometry": {"coordinates":[-80.153307,25.725253],"type":"Point"}
 }

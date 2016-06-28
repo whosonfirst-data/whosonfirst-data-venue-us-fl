@@ -2,13 +2,14 @@
   "id": 236003291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384465,30.264131,-81.384465,30.264131",
     "geom:latitude":30.264131,
     "geom:longitude":-81.384465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 32nd Ave S",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236003291,
-    "wof:lastmodified":1449004939,
+    "wof:lastmodified":1466446226,
     "wof:name":"Thomas Dumas Inc",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.384465,30.264131,-81.384465,30.264131],
-  "geometry": {"coordinates":[-81.384465,30.264131],"type":"Point"}
+  "bbox": [
+    -81.384465,
+    30.264131,
+    -81.384465,
+    30.264131
+],
+  "geometry": {"coordinates":[-81.38446500000001,30.264131],"type":"Point"}
 }

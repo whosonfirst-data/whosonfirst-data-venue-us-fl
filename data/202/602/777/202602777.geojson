@@ -2,13 +2,14 @@
   "id": 202602777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259205,26.203791,-80.259205,26.203791",
     "geom:latitude":26.203791,
     "geom:longitude":-80.259205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 S Colony Cir",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202602777,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466429711,
     "wof:name":"Sams Pressure Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.259205,26.203791,-80.259205,26.203791],
-  "geometry": {"coordinates":[-80.259205,26.203791],"type":"Point"}
+  "bbox": [
+    -80.259205,
+    26.203791,
+    -80.259205,
+    26.203791
+],
+  "geometry": {"coordinates":[-80.25920499999999,26.203791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403891717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593575,30.251569,-81.593575,30.251569",
     "geom:latitude":30.251569,
     "geom:longitude":-81.593575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4237 Salisbury Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403891717,
-    "wof:lastmodified":1449055458,
+    "wof:lastmodified":1466442597,
     "wof:name":"Family Physician At Salisbury",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.593575,30.251569,-81.593575,30.251569],
+  "bbox": [
+    -81.593575,
+    30.251569,
+    -81.593575,
+    30.251569
+],
   "geometry": {"coordinates":[-81.593575,30.251569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370213615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.285559,25.710596,-80.285559,25.710596",
     "geom:latitude":25.710596,
     "geom:longitude":-80.285559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6565 S Red Rd",
     "sg:city":"South Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370213615,
-    "wof:lastmodified":1449029106,
+    "wof:lastmodified":1466437439,
     "wof:name":"French American School",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-80.285559,25.710596,-80.285559,25.710596],
-  "geometry": {"coordinates":[-80.285559,25.710596],"type":"Point"}
+  "bbox": [
+    -80.285559,
+    25.710596,
+    -80.285559,
+    25.710596
+],
+  "geometry": {"coordinates":[-80.28555900000001,25.710596],"type":"Point"}
 }

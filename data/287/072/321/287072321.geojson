@@ -2,13 +2,14 @@
   "id": 287072321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156303,26.192254,-80.156303,26.192254",
     "geom:latitude":26.192254,
     "geom:longitude":-80.156303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 NW 53rd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287072321,
-    "wof:lastmodified":1449001137,
+    "wof:lastmodified":1466431098,
     "wof:name":"Wyland Galleries",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.156303,26.192254,-80.156303,26.192254],
-  "geometry": {"coordinates":[-80.156303,26.192254],"type":"Point"}
+  "bbox": [
+    -80.156303,
+    26.192254,
+    -80.156303,
+    26.192254
+],
+  "geometry": {"coordinates":[-80.15630299999999,26.192254],"type":"Point"}
 }

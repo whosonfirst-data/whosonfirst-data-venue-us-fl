@@ -2,13 +2,14 @@
   "id": 387683101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.376699,28.547824,-81.376699,28.547824",
     "geom:latitude":28.547824,
     "geom:longitude":-81.376699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 N Magnolia Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387683101,
-    "wof:lastmodified":1449057502,
+    "wof:lastmodified":1466447921,
     "wof:name":"City Diner",
     "wof:parent_id":85879427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.376699,28.547824,-81.376699,28.547824],
+  "bbox": [
+    -81.376699,
+    28.547824,
+    -81.376699,
+    28.547824
+],
   "geometry": {"coordinates":[-81.376699,28.547824],"type":"Point"}
 }

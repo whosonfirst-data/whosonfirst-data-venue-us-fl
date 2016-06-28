@@ -2,13 +2,14 @@
   "id": 269877097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.208407,28.561843,-81.208407,28.561843",
     "geom:latitude":28.561843,
     "geom:longitude":-81.208407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1548 Indianhead Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269877097,
-    "wof:lastmodified":1449037830,
+    "wof:lastmodified":1466435425,
     "wof:name":"Jim Dunham & Assoc",
     "wof:parent_id":85889317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.208407,28.561843,-81.208407,28.561843],
-  "geometry": {"coordinates":[-81.208407,28.561843],"type":"Point"}
+  "bbox": [
+    -81.208407,
+    28.561843,
+    -81.208407,
+    28.561843
+],
+  "geometry": {"coordinates":[-81.20840699999999,28.561843],"type":"Point"}
 }

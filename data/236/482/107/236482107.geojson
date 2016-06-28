@@ -2,13 +2,14 @@
   "id": 236482107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.653017,27.83298,-82.653017,27.83298",
     "geom:latitude":27.83298,
     "geom:longitude":-82.653017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6419 15th St N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236482107,
-    "wof:lastmodified":1449002689,
+    "wof:lastmodified":1466435211,
     "wof:name":"Polcaros Tile",
     "wof:parent_id":85880551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.653017,27.83298,-82.653017,27.83298],
-  "geometry": {"coordinates":[-82.653017,27.83298],"type":"Point"}
+  "bbox": [
+    -82.653017,
+    27.83298,
+    -82.653017,
+    27.83298
+],
+  "geometry": {"coordinates":[-82.65301700000001,27.83298],"type":"Point"}
 }

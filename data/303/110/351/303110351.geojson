@@ -2,13 +2,14 @@
   "id": 303110351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.415997,28.539079,-81.415997,28.539079",
     "geom:latitude":28.539079,
     "geom:longitude":-81.415997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 S Cottage Hill Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303110351,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466432407,
     "wof:name":"Albert Goven",
     "wof:parent_id":85879537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.415997,28.539079,-81.415997,28.539079],
+  "bbox": [
+    -81.415997,
+    28.539079,
+    -81.415997,
+    28.539079
+],
   "geometry": {"coordinates":[-81.415997,28.539079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403842053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.30719,26.73775,-80.30719,26.73775",
     "geom:latitude":26.73775,
     "geom:longitude":-80.30719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16319 Sycamore Dr E",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403842053,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466441820,
     "wof:name":"Arthur Thompson Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.30719,26.73775,-80.30719,26.73775],
-  "geometry": {"coordinates":[-80.30719,26.73775],"type":"Point"}
+  "bbox": [
+    -80.30719,
+    26.73775,
+    -80.30719,
+    26.73775
+],
+  "geometry": {"coordinates":[-80.30719000000001,26.73775],"type":"Point"}
 }

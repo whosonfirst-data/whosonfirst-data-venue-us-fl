@@ -2,13 +2,14 @@
   "id": 202923173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751828,30.303842,-81.751828,30.303842",
     "geom:latitude":30.303842,
     "geom:longitude":-81.751828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Lane Ave S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202923173,
-    "wof:lastmodified":1449062555,
+    "wof:lastmodified":1466433910,
     "wof:name":"Pediatric Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.751828,30.303842,-81.751828,30.303842],
+  "bbox": [
+    -81.751828,
+    30.303842,
+    -81.751828,
+    30.303842
+],
   "geometry": {"coordinates":[-81.751828,30.303842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303624683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695349,30.307015,-81.695349,30.307015",
     "geom:latitude":30.307015,
     "geom:longitude":-81.695349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Oak St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303624683,
-    "wof:lastmodified":1448999795,
+    "wof:lastmodified":1466441274,
     "wof:name":"Neighbor Networks",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-81.695349,30.307015,-81.695349,30.307015],
-  "geometry": {"coordinates":[-81.695349,30.307015],"type":"Point"}
+  "bbox": [
+    -81.695349,
+    30.307015,
+    -81.695349,
+    30.307015
+],
+  "geometry": {"coordinates":[-81.69534899999999,30.307015],"type":"Point"}
 }

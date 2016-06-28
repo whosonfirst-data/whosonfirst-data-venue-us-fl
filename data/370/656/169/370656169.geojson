@@ -2,13 +2,14 @@
   "id": 370656169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.646451,30.263352,-81.646451,30.263352",
     "geom:latitude":30.263352,
     "geom:longitude":-81.646451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5443 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370656169,
-    "wof:lastmodified":1449031279,
+    "wof:lastmodified":1466444232,
     "wof:name":"Watson Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.646451,30.263352,-81.646451,30.263352],
+  "bbox": [
+    -81.646451,
+    30.263352,
+    -81.646451,
+    30.263352
+],
   "geometry": {"coordinates":[-81.646451,30.263352],"type":"Point"}
 }

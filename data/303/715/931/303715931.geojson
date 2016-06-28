@@ -2,13 +2,14 @@
   "id": 303715931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056007,26.65505,-80.056007,26.65505",
     "geom:latitude":26.65505,
     "geom:longitude":-80.056007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 S Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303715931,
-    "wof:lastmodified":1449000076,
+    "wof:lastmodified":1466442895,
     "wof:name":"R V Artola MD",
     "wof:parent_id":85881817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.056007,26.65505,-80.056007,26.65505],
-  "geometry": {"coordinates":[-80.056007,26.65505],"type":"Point"}
+  "bbox": [
+    -80.056007,
+    26.65505,
+    -80.056007,
+    26.65505
+],
+  "geometry": {"coordinates":[-80.05600699999999,26.65505],"type":"Point"}
 }

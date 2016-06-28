@@ -2,13 +2,14 @@
   "id": 303114089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195259,26.248537,-80.195259,26.248537",
     "geom:latitude":26.248537,
     "geom:longitude":-80.195259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5254 NW 15th St",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303114089,
-    "wof:lastmodified":1448999137,
+    "wof:lastmodified":1466432471,
     "wof:name":"Tom's Radiator Repair",
     "wof:parent_id":85896203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-80.195259,26.248537,-80.195259,26.248537],
-  "geometry": {"coordinates":[-80.195259,26.248537],"type":"Point"}
+  "bbox": [
+    -80.195259,
+    26.248537,
+    -80.195259,
+    26.248537
+],
+  "geometry": {"coordinates":[-80.19525899999999,26.248537],"type":"Point"}
 }

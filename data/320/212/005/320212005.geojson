@@ -2,13 +2,14 @@
   "id": 320212005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.795234,26.135168,-81.795234,26.135168",
     "geom:latitude":26.135168,
     "geom:longitude":-81.795234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 8th St S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320212005,
-    "wof:lastmodified":1449013686,
+    "wof:lastmodified":1466437009,
     "wof:name":"Safenet of Naples",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-81.795234,26.135168,-81.795234,26.135168],
-  "geometry": {"coordinates":[-81.795234,26.135168],"type":"Point"}
+  "bbox": [
+    -81.795234,
+    26.135168,
+    -81.795234,
+    26.135168
+],
+  "geometry": {"coordinates":[-81.79523399999999,26.135168],"type":"Point"}
 }

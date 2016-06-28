@@ -2,13 +2,14 @@
   "id": 202602761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.586608,27.515149,-82.586608,27.515149",
     "geom:latitude":27.515149,
     "geom:longitude":-82.586608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 5th St W",
     "sg:city":"Palmetto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202602761,
-    "wof:lastmodified":1449061314,
+    "wof:lastmodified":1466429711,
     "wof:name":"J Herner Trucking",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.586608,27.515149,-82.586608,27.515149],
+  "bbox": [
+    -82.586608,
+    27.515149,
+    -82.586608,
+    27.515149
+],
   "geometry": {"coordinates":[-82.586608,27.515149],"type":"Point"}
 }

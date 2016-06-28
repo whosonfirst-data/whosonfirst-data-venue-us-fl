@@ -2,13 +2,14 @@
   "id": 270325299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.304775,30.433239,-84.304775,30.433239",
     "geom:latitude":30.433239,
     "geom:longitude":-84.304775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Airport Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270325299,
-    "wof:lastmodified":1449009584,
+    "wof:lastmodified":1466435024,
     "wof:name":"Grady Maxwell Investigations",
     "wof:parent_id":85881365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-84.304775,30.433239,-84.304775,30.433239],
-  "geometry": {"coordinates":[-84.304775,30.433239],"type":"Point"}
+  "bbox": [
+    -84.304775,
+    30.433239,
+    -84.304775,
+    30.433239
+],
+  "geometry": {"coordinates":[-84.30477500000001,30.433239],"type":"Point"}
 }

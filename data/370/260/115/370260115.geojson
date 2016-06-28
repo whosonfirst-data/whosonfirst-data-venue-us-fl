@@ -2,13 +2,14 @@
   "id": 370260115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583621,28.557281,-81.583621,28.557281",
     "geom:latitude":28.557281,
     "geom:longitude":-81.583621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 S Dillard St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370260115,
-    "wof:lastmodified":1449029648,
+    "wof:lastmodified":1466438168,
     "wof:name":"Panaderia Mexicana El Tadeo",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-81.583621,28.557281,-81.583621,28.557281],
-  "geometry": {"coordinates":[-81.583621,28.557281],"type":"Point"}
+  "bbox": [
+    -81.583621,
+    28.557281,
+    -81.583621,
+    28.557281
+],
+  "geometry": {"coordinates":[-81.58362099999999,28.557281],"type":"Point"}
 }

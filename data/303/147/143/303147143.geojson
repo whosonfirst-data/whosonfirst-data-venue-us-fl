@@ -2,13 +2,14 @@
   "id": 303147143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.22517,30.502934,-87.22517,30.502934",
     "geom:latitude":30.502934,
     "geom:longitude":-87.22517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7260 Plantation Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303147143,
-    "wof:lastmodified":1449000304,
+    "wof:lastmodified":1466433059,
     "wof:name":"Sysco",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.22517,30.502934,-87.22517,30.502934],
-  "geometry": {"coordinates":[-87.22517,30.502934],"type":"Point"}
+  "bbox": [
+    -87.22517,
+    30.502934,
+    -87.22517,
+    30.502934
+],
+  "geometry": {"coordinates":[-87.22517000000001,30.502934],"type":"Point"}
 }

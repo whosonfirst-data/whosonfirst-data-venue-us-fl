@@ -2,13 +2,14 @@
   "id": 253582347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.796652,26.191525,-81.796652,26.191525",
     "geom:latitude":26.191525,
     "geom:longitude":-81.796652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Hollygate Ln",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253582347,
-    "wof:lastmodified":1449064423,
+    "wof:lastmodified":1466437104,
     "wof:name":"Butterflies In Flight",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butterfly"
     ]
 },
-  "bbox": [-81.796652,26.191525,-81.796652,26.191525],
-  "geometry": {"coordinates":[-81.796652,26.191525],"type":"Point"}
+  "bbox": [
+    -81.796652,
+    26.191525,
+    -81.796652,
+    26.191525
+],
+  "geometry": {"coordinates":[-81.79665199999999,26.191525],"type":"Point"}
 }

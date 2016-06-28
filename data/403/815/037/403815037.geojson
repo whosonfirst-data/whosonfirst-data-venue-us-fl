@@ -2,13 +2,14 @@
   "id": 403815037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.30657,28.331762,-82.30657,28.331762",
     "geom:latitude":28.331762,
     "geom:longitude":-82.30657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30908 Warder St",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403815037,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1466441368,
     "wof:name":"Pasco County Public Works",
     "wof:parent_id":85889567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.30657,28.331762,-82.30657,28.331762],
-  "geometry": {"coordinates":[-82.30657,28.331762],"type":"Point"}
+  "bbox": [
+    -82.30657,
+    28.331762,
+    -82.30657,
+    28.331762
+],
+  "geometry": {"coordinates":[-82.30656999999999,28.331762],"type":"Point"}
 }

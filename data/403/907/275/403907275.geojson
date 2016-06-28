@@ -2,13 +2,14 @@
   "id": 403907275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.429998,25.638431,-80.429998,25.638431",
     "geom:latitude":25.638431,
     "geom:longitude":-80.429998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13960 SW 144th Avenue Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403907275,
-    "wof:lastmodified":1449055862,
+    "wof:lastmodified":1466442836,
     "wof:name":"Trans Florida Development",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.429998,25.638431,-80.429998,25.638431],
+  "bbox": [
+    -80.429998,
+    25.638431,
+    -80.429998,
+    25.638431
+],
   "geometry": {"coordinates":[-80.429998,25.638431],"type":"Point"}
 }

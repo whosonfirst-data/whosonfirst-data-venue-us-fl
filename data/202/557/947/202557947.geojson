@@ -2,13 +2,14 @@
   "id": 202557947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.265183,28.626825,-81.265183,28.626825",
     "geom:latitude":28.626825,
     "geom:longitude":-81.265183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Parker Ct",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202557947,
-    "wof:lastmodified":1449061906,
+    "wof:lastmodified":1466429122,
     "wof:name":"Gus Miller Real Estate Inc",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.265183,28.626825,-81.265183,28.626825],
-  "geometry": {"coordinates":[-81.265183,28.626825],"type":"Point"}
+  "bbox": [
+    -81.265183,
+    28.626825,
+    -81.265183,
+    28.626825
+],
+  "geometry": {"coordinates":[-81.26518299999999,28.626825],"type":"Point"}
 }

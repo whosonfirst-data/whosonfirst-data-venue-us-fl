@@ -2,13 +2,14 @@
   "id": 353705261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.32995,29.876665,-81.32995,29.876665",
     "geom:latitude":29.876665,
     "geom:longitude":-81.32995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 State Hwy 207",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353705261,
-    "wof:lastmodified":1449020806,
+    "wof:lastmodified":1466439469,
     "wof:name":"Steve Poulos DDS",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.32995,29.876665,-81.32995,29.876665],
+  "bbox": [
+    -81.32995,
+    29.876665,
+    -81.32995,
+    29.876665
+],
   "geometry": {"coordinates":[-81.32995,29.876665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186470303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.514507,27.590905,-81.514507,27.590905",
     "geom:latitude":27.590905,
     "geom:longitude":-81.514507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 US Hwy 27",
     "sg:city":"Avon Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186470303,
-    "wof:lastmodified":1449051041,
+    "wof:lastmodified":1466432435,
     "wof:name":"Olympic Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cuisine"
     ]
 },
-  "bbox": [-81.514507,27.590905,-81.514507,27.590905],
-  "geometry": {"coordinates":[-81.514507,27.590905],"type":"Point"}
+  "bbox": [
+    -81.514507,
+    27.590905,
+    -81.514507,
+    27.590905
+],
+  "geometry": {"coordinates":[-81.51450699999999,27.590905],"type":"Point"}
 }

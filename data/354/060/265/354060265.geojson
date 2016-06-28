@@ -2,13 +2,14 @@
   "id": 354060265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09017,26.527619,-80.09017,26.527619",
     "geom:latitude":26.527619,
     "geom:longitude":-80.09017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 W Boynton Beach Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354060265,
-    "wof:lastmodified":1449067510,
+    "wof:lastmodified":1466437004,
     "wof:name":"Elan Salon",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.09017,26.527619,-80.09017,26.527619],
+  "bbox": [
+    -80.09017,
+    26.527619,
+    -80.09017,
+    26.527619
+],
   "geometry": {"coordinates":[-80.09017,26.527619],"type":"Point"}
 }

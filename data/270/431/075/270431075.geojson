@@ -2,13 +2,14 @@
   "id": 270431075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.735169,28.368223,-80.735169,28.368223",
     "geom:latitude":28.368223,
     "geom:longitude":-80.735169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Cocoa Blvd",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270431075,
-    "wof:lastmodified":1449008974,
+    "wof:lastmodified":1466436828,
     "wof:name":"Space Coast Plastics",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plastic"
     ]
 },
-  "bbox": [-80.735169,28.368223,-80.735169,28.368223],
+  "bbox": [
+    -80.735169,
+    28.368223,
+    -80.735169,
+    28.368223
+],
   "geometry": {"coordinates":[-80.735169,28.368223],"type":"Point"}
 }

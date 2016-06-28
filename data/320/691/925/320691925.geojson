@@ -2,13 +2,14 @@
   "id": 320691925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.627062,30.18975,-81.627062,30.18975",
     "geom:latitude":30.18975,
     "geom:longitude":-81.627062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10325 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320691925,
-    "wof:lastmodified":1449011552,
+    "wof:lastmodified":1466445349,
     "wof:name":"Jacksonville Bank",
     "wof:parent_id":85870721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.627062,30.18975,-81.627062,30.18975],
+  "bbox": [
+    -81.627062,
+    30.18975,
+    -81.627062,
+    30.18975
+],
   "geometry": {"coordinates":[-81.627062,30.18975],"type":"Point"}
 }

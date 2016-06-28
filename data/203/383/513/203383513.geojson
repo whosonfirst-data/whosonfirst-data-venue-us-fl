@@ -2,13 +2,14 @@
   "id": 203383513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541227,30.181897,-81.541227,30.181897",
     "geom:latitude":30.181897,
     "geom:longitude":-81.541227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7748 Spaner Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203383513,
-    "wof:lastmodified":1449025731,
+    "wof:lastmodified":1466431205,
     "wof:name":"Florida Nurserymen & Growers",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-81.541227,30.181897,-81.541227,30.181897],
-  "geometry": {"coordinates":[-81.541227,30.181897],"type":"Point"}
+  "bbox": [
+    -81.541227,
+    30.181897,
+    -81.541227,
+    30.181897
+],
+  "geometry": {"coordinates":[-81.54122700000001,30.181897],"type":"Point"}
 }

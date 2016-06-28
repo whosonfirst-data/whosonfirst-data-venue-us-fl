@@ -2,13 +2,14 @@
   "id": 203213811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380272,28.512789,-81.380272,28.512789",
     "geom:latitude":28.512789,
     "geom:longitude":-81.380272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 W Michigan St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203213811,
-    "wof:lastmodified":1449024960,
+    "wof:lastmodified":1466429074,
     "wof:name":"Destiny Community Church",
     "wof:parent_id":85879517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.380272,28.512789,-81.380272,28.512789],
-  "geometry": {"coordinates":[-81.380272,28.512789],"type":"Point"}
+  "bbox": [
+    -81.380272,
+    28.512789,
+    -81.380272,
+    28.512789
+],
+  "geometry": {"coordinates":[-81.38027200000001,28.512789],"type":"Point"}
 }

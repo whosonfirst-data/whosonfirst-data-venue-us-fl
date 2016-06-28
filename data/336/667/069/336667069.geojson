@@ -2,13 +2,14 @@
   "id": 336667069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.221624,30.453513,-87.221624,30.453513",
     "geom:latitude":30.453513,
     "geom:longitude":-87.221624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3936 N Davis Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336667069,
-    "wof:lastmodified":1448997636,
+    "wof:lastmodified":1466436138,
     "wof:name":"John Zaluski DC",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.221624,30.453513,-87.221624,30.453513],
-  "geometry": {"coordinates":[-87.221624,30.453513],"type":"Point"}
+  "bbox": [
+    -87.221624,
+    30.453513,
+    -87.221624,
+    30.453513
+],
+  "geometry": {"coordinates":[-87.22162400000001,30.453513],"type":"Point"}
 }

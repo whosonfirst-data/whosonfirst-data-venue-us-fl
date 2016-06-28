@@ -2,13 +2,14 @@
   "id": 202502613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.32344,29.786962,-81.32344,29.786962",
     "geom:latitude":29.786962,
     "geom:longitude":-81.32344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5570 Datil Pepper Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202502613,
-    "wof:lastmodified":1449061289,
+    "wof:lastmodified":1466428387,
     "wof:name":"Gms Air Conditioning & Refrig",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.32344,29.786962,-81.32344,29.786962],
-  "geometry": {"coordinates":[-81.32344,29.786962],"type":"Point"}
+  "bbox": [
+    -81.32344,
+    29.786962,
+    -81.32344,
+    29.786962
+],
+  "geometry": {"coordinates":[-81.32344000000001,29.786962],"type":"Point"}
 }

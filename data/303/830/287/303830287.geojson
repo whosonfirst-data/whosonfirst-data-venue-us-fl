@@ -2,13 +2,14 @@
   "id": 303830287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.250625,29.406012,-82.250625,29.406012",
     "geom:latitude":29.406012,
     "geom:longitude":-82.250625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7570 W Hwy 318",
     "sg:city":"Reddick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303830287,
-    "wof:lastmodified":1448998632,
+    "wof:lastmodified":1466444823,
     "wof:name":"B T Service Center",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-82.250625,29.406012,-82.250625,29.406012],
+  "bbox": [
+    -82.250625,
+    29.406012,
+    -82.250625,
+    29.406012
+],
   "geometry": {"coordinates":[-82.250625,29.406012],"type":"Point"}
 }

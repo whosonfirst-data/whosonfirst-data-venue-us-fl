@@ -2,13 +2,14 @@
   "id": 220189611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480779,30.523307,-86.480779,30.523307",
     "geom:latitude":30.523307,
     "geom:longitude":-86.480779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Davis Dr",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220189611,
-    "wof:lastmodified":1449074616,
+    "wof:lastmodified":1466429432,
     "wof:name":"Bob's Electric",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.480779,30.523307,-86.480779,30.523307],
+  "bbox": [
+    -86.480779,
+    30.523307,
+    -86.480779,
+    30.523307
+],
   "geometry": {"coordinates":[-86.480779,30.523307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370760663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.337258,28.618957,-81.337258,28.618957",
     "geom:latitude":28.618957,
     "geom:longitude":-81.337258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Sharon Pl",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370760663,
-    "wof:lastmodified":1449032347,
+    "wof:lastmodified":1466445848,
     "wof:name":"Cardinal Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.337258,28.618957,-81.337258,28.618957],
-  "geometry": {"coordinates":[-81.337258,28.618957],"type":"Point"}
+  "bbox": [
+    -81.337258,
+    28.618957,
+    -81.337258,
+    28.618957
+],
+  "geometry": {"coordinates":[-81.33725800000001,28.618957],"type":"Point"}
 }

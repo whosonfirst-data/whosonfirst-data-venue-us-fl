@@ -2,13 +2,14 @@
   "id": 320528465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.243749,28.335053,-82.243749,28.335053",
     "geom:latitude":28.335053,
     "geom:longitude":-82.243749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12118 Shakespeare Trl",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320528465,
-    "wof:lastmodified":1449012260,
+    "wof:lastmodified":1466442521,
     "wof:name":"Gopher LLC",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.243749,28.335053,-82.243749,28.335053],
-  "geometry": {"coordinates":[-82.243749,28.335053],"type":"Point"}
+  "bbox": [
+    -82.243749,
+    28.335053,
+    -82.243749,
+    28.335053
+],
+  "geometry": {"coordinates":[-82.24374899999999,28.335053],"type":"Point"}
 }

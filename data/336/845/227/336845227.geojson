@@ -2,13 +2,14 @@
   "id": 336845227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.624496,30.209211,-81.624496,30.209211",
     "geom:latitude":30.209211,
     "geom:longitude":-81.624496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 Beauclerc Woods Ln N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336845227,
-    "wof:lastmodified":1448997118,
+    "wof:lastmodified":1466439245,
     "wof:name":"Kent J Susice",
     "wof:parent_id":85822237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.624496,30.209211,-81.624496,30.209211],
-  "geometry": {"coordinates":[-81.624496,30.209211],"type":"Point"}
+  "bbox": [
+    -81.624496,
+    30.209211,
+    -81.624496,
+    30.209211
+],
+  "geometry": {"coordinates":[-81.62449599999999,30.209211],"type":"Point"}
 }

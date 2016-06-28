@@ -2,13 +2,14 @@
   "id": 370678273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.287601,28.535781,-81.287601,28.535781",
     "geom:latitude":28.535781,
     "geom:longitude":-81.287601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 Faber Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370678273,
-    "wof:lastmodified":1449030724,
+    "wof:lastmodified":1466444568,
     "wof:name":"Edgar C Lutz Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-81.287601,28.535781,-81.287601,28.535781],
+  "bbox": [
+    -81.287601,
+    28.535781,
+    -81.287601,
+    28.535781
+],
   "geometry": {"coordinates":[-81.287601,28.535781],"type":"Point"}
 }

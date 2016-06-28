@@ -2,13 +2,14 @@
   "id": 353475201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344198,28.648186,-81.344198,28.648186",
     "geom:latitude":28.648186,
     "geom:longitude":-81.344198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Meadowood Blvd",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353475201,
-    "wof:lastmodified":1449019308,
+    "wof:lastmodified":1466435845,
     "wof:name":"Dean Fritchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.344198,28.648186,-81.344198,28.648186],
-  "geometry": {"coordinates":[-81.344198,28.648186],"type":"Point"}
+  "bbox": [
+    -81.344198,
+    28.648186,
+    -81.344198,
+    28.648186
+],
+  "geometry": {"coordinates":[-81.34419800000001,28.648186],"type":"Point"}
 }

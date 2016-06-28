@@ -2,13 +2,14 @@
   "id": 404097547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24536,26.181747,-80.24536,26.181747",
     "geom:latitude":26.181747,
     "geom:longitude":-80.24536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 NW 46th St",
     "sg:city":"Lauderhill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404097547,
-    "wof:lastmodified":1449039505,
+    "wof:lastmodified":1466441744,
     "wof:name":"Southeast Yacht Refinishing",
     "wof:parent_id":85896111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.24536,26.181747,-80.24536,26.181747],
-  "geometry": {"coordinates":[-80.24536,26.181747],"type":"Point"}
+  "bbox": [
+    -80.24536,
+    26.181747,
+    -80.24536,
+    26.181747
+],
+  "geometry": {"coordinates":[-80.24536000000001,26.181747],"type":"Point"}
 }

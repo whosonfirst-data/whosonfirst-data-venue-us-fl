@@ -2,13 +2,14 @@
   "id": 253576949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.470285,27.338879,-82.470285,27.338879",
     "geom:latitude":27.338879,
     "geom:longitude":-82.470285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Houle Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253576949,
-    "wof:lastmodified":1449065073,
+    "wof:lastmodified":1466437006,
     "wof:name":"Maintenance Systems of US",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-82.470285,27.338879,-82.470285,27.338879],
+  "bbox": [
+    -82.470285,
+    27.338879,
+    -82.470285,
+    27.338879
+],
   "geometry": {"coordinates":[-82.470285,27.338879],"type":"Point"}
 }

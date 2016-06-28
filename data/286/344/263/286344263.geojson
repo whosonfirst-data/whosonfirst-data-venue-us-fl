@@ -2,13 +2,14 @@
   "id": 286344263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193722,26.193982,-80.193722,26.193982",
     "geom:latitude":26.193982,
     "geom:longitude":-80.193722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 NW 55th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286344263,
-    "wof:lastmodified":1449015323,
+    "wof:lastmodified":1466431092,
     "wof:name":"Tampa Bay Engineering Inc",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.193722,26.193982,-80.193722,26.193982],
-  "geometry": {"coordinates":[-80.193722,26.193982],"type":"Point"}
+  "bbox": [
+    -80.193722,
+    26.193982,
+    -80.193722,
+    26.193982
+],
+  "geometry": {"coordinates":[-80.19372199999999,26.193982],"type":"Point"}
 }

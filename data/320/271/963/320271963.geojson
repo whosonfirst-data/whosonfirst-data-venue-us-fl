@@ -2,13 +2,14 @@
   "id": 320271963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.695816,30.189851,-85.695816,30.189851",
     "geom:latitude":30.189851,
     "geom:longitude":-85.695816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 W 23rd St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320271963,
-    "wof:lastmodified":1449013212,
+    "wof:lastmodified":1466438043,
     "wof:name":"Bay Cycle & Fitness",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.695816,30.189851,-85.695816,30.189851],
-  "geometry": {"coordinates":[-85.695816,30.189851],"type":"Point"}
+  "bbox": [
+    -85.695816,
+    30.189851,
+    -85.695816,
+    30.189851
+],
+  "geometry": {"coordinates":[-85.69581599999999,30.189851],"type":"Point"}
 }

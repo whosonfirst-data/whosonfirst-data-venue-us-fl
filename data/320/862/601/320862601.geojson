@@ -2,13 +2,14 @@
   "id": 320862601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695628,30.412428,-81.695628,30.412428",
     "geom:latitude":30.412428,
     "geom:longitude":-81.695628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2354 Jayson Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320862601,
-    "wof:lastmodified":1449015050,
+    "wof:lastmodified":1466447593,
     "wof:name":"Appliance Service Ctr",
     "wof:parent_id":85845125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.695628,30.412428,-81.695628,30.412428],
+  "bbox": [
+    -81.695628,
+    30.412428,
+    -81.695628,
+    30.412428
+],
   "geometry": {"coordinates":[-81.695628,30.412428],"type":"Point"}
 }

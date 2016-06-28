@@ -2,13 +2,14 @@
   "id": 303830589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813701,29.628908,-81.813701,29.628908",
     "geom:latitude":29.628908,
     "geom:longitude":-81.813701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 State Hwy 20",
     "sg:city":"Hollister",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303830589,
-    "wof:lastmodified":1448998635,
+    "wof:lastmodified":1466444828,
     "wof:name":"Holland's Auto Parts",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-81.813701,29.628908,-81.813701,29.628908],
-  "geometry": {"coordinates":[-81.813701,29.628908],"type":"Point"}
+  "bbox": [
+    -81.813701,
+    29.628908,
+    -81.813701,
+    29.628908
+],
+  "geometry": {"coordinates":[-81.81370099999999,29.628908],"type":"Point"}
 }

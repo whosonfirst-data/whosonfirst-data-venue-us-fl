@@ -2,13 +2,14 @@
   "id": 336614915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.450505,25.085871,-80.450505,25.085871",
     "geom:latitude":25.085871,
     "geom:longitude":-80.450505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98710 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336614915,
-    "wof:lastmodified":1448998052,
+    "wof:lastmodified":1466435239,
     "wof:name":"Everglades National Park",
     "wof:parent_id":85852175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "park"
     ]
 },
-  "bbox": [-80.450505,25.085871,-80.450505,25.085871],
-  "geometry": {"coordinates":[-80.450505,25.085871],"type":"Point"}
+  "bbox": [
+    -80.450505,
+    25.085871,
+    -80.450505,
+    25.085871
+],
+  "geometry": {"coordinates":[-80.45050500000001,25.085871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236313845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.256659,28.42585,-81.256659,28.42585",
     "geom:latitude":28.42585,
     "geom:longitude":-81.256659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9250 Northlake Pkwy",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236313845,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466432860,
     "wof:name":"Legacy Towncar",
     "wof:parent_id":85879487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-81.256659,28.42585,-81.256659,28.42585],
+  "bbox": [
+    -81.256659,
+    28.42585,
+    -81.256659,
+    28.42585
+],
   "geometry": {"coordinates":[-81.256659,28.42585],"type":"Point"}
 }

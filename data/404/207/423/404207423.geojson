@@ -2,13 +2,14 @@
   "id": 404207423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.338811,28.328305,-81.338811,28.328305",
     "geom:latitude":28.328305,
     "geom:longitude":-81.338811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 Uxbridge Ln",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404207423,
-    "wof:lastmodified":1449039965,
+    "wof:lastmodified":1466443456,
     "wof:name":"Dave Schwieder Painting",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.338811,28.328305,-81.338811,28.328305],
-  "geometry": {"coordinates":[-81.338811,28.328305],"type":"Point"}
+  "bbox": [
+    -81.338811,
+    28.328305,
+    -81.338811,
+    28.328305
+],
+  "geometry": {"coordinates":[-81.33881100000001,28.328305],"type":"Point"}
 }

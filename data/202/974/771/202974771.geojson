@@ -2,13 +2,14 @@
   "id": 202974771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.338324,28.270649,-81.338324,28.270649",
     "geom:latitude":28.270649,
     "geom:longitude":-81.338324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Patricia St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202974771,
-    "wof:lastmodified":1449062326,
+    "wof:lastmodified":1466434600,
     "wof:name":"Unity Productions Inc",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "producer"
     ]
 },
-  "bbox": [-81.338324,28.270649,-81.338324,28.270649],
+  "bbox": [
+    -81.338324,
+    28.270649,
+    -81.338324,
+    28.270649
+],
   "geometry": {"coordinates":[-81.338324,28.270649],"type":"Point"}
 }

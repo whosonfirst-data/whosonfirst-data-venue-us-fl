@@ -2,13 +2,14 @@
   "id": 269736755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.159524,26.195074,-80.159524,26.195074",
     "geom:latitude":26.195074,
     "geom:longitude":-80.159524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 NW 12th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269736755,
-    "wof:lastmodified":1449038922,
+    "wof:lastmodified":1466432982,
     "wof:name":"Eastgroup Properties",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.159524,26.195074,-80.159524,26.195074],
+  "bbox": [
+    -80.159524,
+    26.195074,
+    -80.159524,
+    26.195074
+],
   "geometry": {"coordinates":[-80.159524,26.195074],"type":"Point"}
 }

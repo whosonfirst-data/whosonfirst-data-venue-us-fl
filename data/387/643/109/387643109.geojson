@@ -2,13 +2,14 @@
   "id": 387643109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.29224,28.775811,-81.29224,28.775811",
     "geom:latitude":28.775811,
     "geom:longitude":-81.29224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Stonebrook Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387643109,
-    "wof:lastmodified":1449059414,
+    "wof:lastmodified":1466447615,
     "wof:name":"Gs Wireless Inc",
     "wof:parent_id":85815205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-81.29224,28.775811,-81.29224,28.775811],
-  "geometry": {"coordinates":[-81.29224,28.775811],"type":"Point"}
+  "bbox": [
+    -81.29224,
+    28.775811,
+    -81.29224,
+    28.775811
+],
+  "geometry": {"coordinates":[-81.29224000000001,28.775811],"type":"Point"}
 }

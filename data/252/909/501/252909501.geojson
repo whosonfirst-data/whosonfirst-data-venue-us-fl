@@ -2,13 +2,14 @@
   "id": 252909501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.801315,28.50899,-80.801315,28.50899",
     "geom:latitude":28.50899,
     "geom:longitude":-80.801315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7017 Challenger Ave",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252909501,
-    "wof:lastmodified":1449006231,
+    "wof:lastmodified":1466431342,
     "wof:name":"Air Scan Inc",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-80.801315,28.50899,-80.801315,28.50899],
+  "bbox": [
+    -80.801315,
+    28.50899,
+    -80.801315,
+    28.50899
+],
   "geometry": {"coordinates":[-80.801315,28.50899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270269745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.482093,26.497652,-81.482093,26.497652",
     "geom:latitude":26.497652,
     "geom:longitude":-81.482093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 State Hwy 82",
     "sg:city":"Immokalee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270269745,
-    "wof:lastmodified":1449010187,
+    "wof:lastmodified":1466434077,
     "wof:name":"Harvest Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.482093,26.497652,-81.482093,26.497652],
-  "geometry": {"coordinates":[-81.482093,26.497652],"type":"Point"}
+  "bbox": [
+    -81.482093,
+    26.497652,
+    -81.482093,
+    26.497652
+],
+  "geometry": {"coordinates":[-81.48209300000001,26.497652],"type":"Point"}
 }

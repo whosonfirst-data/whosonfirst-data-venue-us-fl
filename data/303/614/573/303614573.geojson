@@ -2,13 +2,14 @@
   "id": 303614573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.266411,29.7613,-81.266411,29.7613",
     "geom:latitude":29.7613,
     "geom:longitude":-81.266411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 State Hwy 206 E",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303614573,
-    "wof:lastmodified":1449000637,
+    "wof:lastmodified":1466441101,
     "wof:name":"Palmera Nursery",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-81.266411,29.7613,-81.266411,29.7613],
-  "geometry": {"coordinates":[-81.266411,29.7613],"type":"Point"}
+  "bbox": [
+    -81.266411,
+    29.7613,
+    -81.266411,
+    29.7613
+],
+  "geometry": {"coordinates":[-81.26641100000001,29.7613],"type":"Point"}
 }

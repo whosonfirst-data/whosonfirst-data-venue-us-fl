@@ -2,13 +2,14 @@
   "id": 320101127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.908665,26.5341,-81.908665,26.5341",
     "geom:latitude":26.5341,
     "geom:longitude":-81.908665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 Hazeltine Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320101127,
-    "wof:lastmodified":1449013226,
+    "wof:lastmodified":1466435108,
     "wof:name":"Wilcox Dental Lab",
     "wof:parent_id":85888783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-81.908665,26.5341,-81.908665,26.5341],
+  "bbox": [
+    -81.908665,
+    26.5341,
+    -81.908665,
+    26.5341
+],
   "geometry": {"coordinates":[-81.908665,26.5341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270475067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512025,27.402815,-82.512025,27.402815",
     "geom:latitude":27.402815,
     "geom:longitude":-82.512025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7705 40th Ct E",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270475067,
-    "wof:lastmodified":1449009659,
+    "wof:lastmodified":1466437576,
     "wof:name":"Hill Wynn PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.512025,27.402815,-82.512025,27.402815],
-  "geometry": {"coordinates":[-82.512025,27.402815],"type":"Point"}
+  "bbox": [
+    -82.512025,
+    27.402815,
+    -82.512025,
+    27.402815
+],
+  "geometry": {"coordinates":[-82.51202499999999,27.402815],"type":"Point"}
 }

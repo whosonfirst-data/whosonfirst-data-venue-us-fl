@@ -2,13 +2,14 @@
   "id": 270203299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136443,25.850865,-80.136443,25.850865",
     "geom:latitude":25.850865,
     "geom:longitude":-80.136443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Biarritz Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270203299,
-    "wof:lastmodified":1449009721,
+    "wof:lastmodified":1466432944,
     "wof:name":"Pete Refrigeration",
     "wof:parent_id":85878925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-80.136443,25.850865,-80.136443,25.850865],
+  "bbox": [
+    -80.136443,
+    25.850865,
+    -80.136443,
+    25.850865
+],
   "geometry": {"coordinates":[-80.136443,25.850865],"type":"Point"}
 }

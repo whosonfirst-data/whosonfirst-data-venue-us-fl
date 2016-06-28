@@ -2,13 +2,14 @@
   "id": 253387729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515509,30.215815,-81.515509,30.215815",
     "geom:latitude":30.215815,
     "geom:longitude":-81.515509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10920 Baymeadows Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253387729,
-    "wof:lastmodified":1449065375,
+    "wof:lastmodified":1466433653,
     "wof:name":"United Service Connection Inc",
     "wof:parent_id":85870699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-81.515509,30.215815,-81.515509,30.215815],
-  "geometry": {"coordinates":[-81.515509,30.215815],"type":"Point"}
+  "bbox": [
+    -81.515509,
+    30.215815,
+    -81.515509,
+    30.215815
+],
+  "geometry": {"coordinates":[-81.51550899999999,30.215815],"type":"Point"}
 }

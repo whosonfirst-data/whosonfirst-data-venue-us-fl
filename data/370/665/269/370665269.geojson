@@ -2,13 +2,14 @@
   "id": 370665269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.900781,28.958404,-80.900781,28.958404",
     "geom:latitude":28.958404,
     "geom:longitude":-80.900781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Kumquat Dr",
     "sg:city":"Edgewater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370665269,
-    "wof:lastmodified":1449030133,
+    "wof:lastmodified":1466444367,
     "wof:name":"Trolleys N' Dollies",
     "wof:parent_id":85896105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.900781,28.958404,-80.900781,28.958404],
-  "geometry": {"coordinates":[-80.900781,28.958404],"type":"Point"}
+  "bbox": [
+    -80.900781,
+    28.958404,
+    -80.900781,
+    28.958404
+],
+  "geometry": {"coordinates":[-80.90078099999999,28.958404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404112737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.88706,29.531005,-82.88706,29.531005",
     "geom:latitude":29.531005,
     "geom:longitude":-82.88706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6751 NW 138 Pl",
     "sg:city":"Chiefland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404112737,
-    "wof:lastmodified":1449039558,
+    "wof:lastmodified":1466441986,
     "wof:name":"Chiefland Locksmith",
     "wof:parent_id":85823917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.88706,29.531005,-82.88706,29.531005],
-  "geometry": {"coordinates":[-82.88706,29.531005],"type":"Point"}
+  "bbox": [
+    -82.88706,
+    29.531005,
+    -82.88706,
+    29.531005
+],
+  "geometry": {"coordinates":[-82.88706000000001,29.531005],"type":"Point"}
 }

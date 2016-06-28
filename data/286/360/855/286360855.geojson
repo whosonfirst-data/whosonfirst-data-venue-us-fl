@@ -2,13 +2,14 @@
   "id": 286360855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525795,30.29874,-81.525795,30.29874",
     "geom:latitude":30.29874,
     "geom:longitude":-81.525795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Saint Johns Bluff Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286360855,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466431380,
     "wof:name":"North Florida Off Road",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.525795,30.29874,-81.525795,30.29874],
+  "bbox": [
+    -81.525795,
+    30.29874,
+    -81.525795,
+    30.29874
+],
   "geometry": {"coordinates":[-81.525795,30.29874],"type":"Point"}
 }

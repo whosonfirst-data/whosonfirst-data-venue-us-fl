@@ -2,13 +2,14 @@
   "id": 203100501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.347907,28.547054,-81.347907,28.547054",
     "geom:latitude":28.547054,
     "geom:longitude":-81.347907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 N Primrose Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203100501,
-    "wof:lastmodified":1449026366,
+    "wof:lastmodified":1466445293,
     "wof:name":"Clt Meetings International",
     "wof:parent_id":85879437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "meeting"
     ]
 },
-  "bbox": [-81.347907,28.547054,-81.347907,28.547054],
-  "geometry": {"coordinates":[-81.347907,28.547054],"type":"Point"}
+  "bbox": [
+    -81.347907,
+    28.547054,
+    -81.347907,
+    28.547054
+],
+  "geometry": {"coordinates":[-81.34790700000001,28.547054],"type":"Point"}
 }

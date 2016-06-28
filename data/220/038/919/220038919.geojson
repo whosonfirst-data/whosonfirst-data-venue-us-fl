@@ -2,13 +2,14 @@
   "id": 220038919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.433783,28.502673,-81.433783,28.502673",
     "geom:latitude":28.502673,
     "geom:longitude":-81.433783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4651 36th St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220038919,
-    "wof:lastmodified":1449074571,
+    "wof:lastmodified":1466444531,
     "wof:name":"2 Scoops Cafe Franchise Dev",
     "wof:parent_id":85879495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.433783,28.502673,-81.433783,28.502673],
-  "geometry": {"coordinates":[-81.433783,28.502673],"type":"Point"}
+  "bbox": [
+    -81.433783,
+    28.502673,
+    -81.433783,
+    28.502673
+],
+  "geometry": {"coordinates":[-81.43378300000001,28.502673],"type":"Point"}
 }

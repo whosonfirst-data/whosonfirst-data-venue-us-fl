@@ -2,13 +2,14 @@
   "id": 252992623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.439253,27.960337,-82.439253,27.960337",
     "geom:latitude":27.960337,
     "geom:longitude":-82.439253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E 7th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252992623,
-    "wof:lastmodified":1449005919,
+    "wof:lastmodified":1466432537,
     "wof:name":"Berninis Restaurant",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.439253,27.960337,-82.439253,27.960337],
-  "geometry": {"coordinates":[-82.439253,27.960337],"type":"Point"}
+  "bbox": [
+    -82.439253,
+    27.960337,
+    -82.439253,
+    27.960337
+],
+  "geometry": {"coordinates":[-82.43925299999999,27.960337],"type":"Point"}
 }

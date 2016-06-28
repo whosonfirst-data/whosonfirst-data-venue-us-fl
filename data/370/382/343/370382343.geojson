@@ -2,13 +2,14 @@
   "id": 370382343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.219681,30.504534,-84.219681,30.504534",
     "geom:latitude":30.504534,
     "geom:longitude":-84.219681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Earl Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370382343,
-    "wof:lastmodified":1449030007,
+    "wof:lastmodified":1466440033,
     "wof:name":"FEC Intl",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.219681,30.504534,-84.219681,30.504534],
-  "geometry": {"coordinates":[-84.219681,30.504534],"type":"Point"}
+  "bbox": [
+    -84.219681,
+    30.504534,
+    -84.219681,
+    30.504534
+],
+  "geometry": {"coordinates":[-84.21968099999999,30.504534],"type":"Point"}
 }

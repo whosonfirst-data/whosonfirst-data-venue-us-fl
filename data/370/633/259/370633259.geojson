@@ -2,13 +2,14 @@
   "id": 370633259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.445534,27.088912,-82.445534,27.088912",
     "geom:latitude":27.088912,
     "geom:longitude":-82.445534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Nokomis Ave S",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370633259,
-    "wof:lastmodified":1449032438,
+    "wof:lastmodified":1466443884,
     "wof:name":"Florida Cardiac Consultants",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.445534,27.088912,-82.445534,27.088912],
-  "geometry": {"coordinates":[-82.445534,27.088912],"type":"Point"}
+  "bbox": [
+    -82.445534,
+    27.088912,
+    -82.445534,
+    27.088912
+],
+  "geometry": {"coordinates":[-82.44553399999999,27.088912],"type":"Point"}
 }

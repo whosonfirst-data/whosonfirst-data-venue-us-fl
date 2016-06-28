@@ -2,13 +2,14 @@
   "id": 370857719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.887459,30.614686,-86.887459,30.614686",
     "geom:latitude":30.614686,
     "geom:longitude":-86.887459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 E Lake Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370857719,
-    "wof:lastmodified":1449031269,
+    "wof:lastmodified":1466446901,
     "wof:name":"Country Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-86.887459,30.614686,-86.887459,30.614686],
-  "geometry": {"coordinates":[-86.887459,30.614686],"type":"Point"}
+  "bbox": [
+    -86.887459,
+    30.614686,
+    -86.887459,
+    30.614686
+],
+  "geometry": {"coordinates":[-86.88745900000001,30.614686],"type":"Point"}
 }

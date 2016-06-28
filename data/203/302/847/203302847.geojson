@@ -2,13 +2,14 @@
   "id": 203302847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.721965,30.30346,-81.721965,30.30346",
     "geom:latitude":30.30346,
     "geom:longitude":-81.721965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1193 Hamilton St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302847,
-    "wof:lastmodified":1449025551,
+    "wof:lastmodified":1466430209,
     "wof:name":"Mikes Stucco",
     "wof:parent_id":85836085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.721965,30.30346,-81.721965,30.30346],
+  "bbox": [
+    -81.721965,
+    30.30346,
+    -81.721965,
+    30.30346
+],
   "geometry": {"coordinates":[-81.721965,30.30346],"type":"Point"}
 }

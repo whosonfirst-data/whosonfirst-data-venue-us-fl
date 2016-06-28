@@ -2,13 +2,14 @@
   "id": 270191875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250121,28.181744,-81.250121,28.181744",
     "geom:latitude":28.181744,
     "geom:longitude":-81.250121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4714 Mallard Dr",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270191875,
-    "wof:lastmodified":1449010115,
+    "wof:lastmodified":1466432751,
     "wof:name":"Quality Cleaning",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.250121,28.181744,-81.250121,28.181744],
-  "geometry": {"coordinates":[-81.250121,28.181744],"type":"Point"}
+  "bbox": [
+    -81.250121,
+    28.181744,
+    -81.250121,
+    28.181744
+],
+  "geometry": {"coordinates":[-81.25012099999999,28.181744],"type":"Point"}
 }

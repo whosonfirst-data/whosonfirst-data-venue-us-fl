@@ -2,13 +2,14 @@
   "id": 270513235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.657338,28.121743,-80.657338,28.121743",
     "geom:latitude":28.121743,
     "geom:longitude":-80.657338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Sarno Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270513235,
-    "wof:lastmodified":1449010285,
+    "wof:lastmodified":1466438249,
     "wof:name":"Sarno Restaurant & Pizzeria",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.657338,28.121743,-80.657338,28.121743],
+  "bbox": [
+    -80.657338,
+    28.121743,
+    -80.657338,
+    28.121743
+],
   "geometry": {"coordinates":[-80.657338,28.121743],"type":"Point"}
 }

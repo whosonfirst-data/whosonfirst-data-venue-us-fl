@@ -2,13 +2,14 @@
   "id": 336861709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.852398,27.925623,-81.852398,27.925623",
     "geom:latitude":27.925623,
     "geom:longitude":-81.852398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 US Hwy 98",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336861709,
-    "wof:lastmodified":1448997999,
+    "wof:lastmodified":1466439545,
     "wof:name":"Bartow Ford Rentals",
     "wof:parent_id":85888549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-81.852398,27.925623,-81.852398,27.925623],
-  "geometry": {"coordinates":[-81.852398,27.925623],"type":"Point"}
+  "bbox": [
+    -81.852398,
+    27.925623,
+    -81.852398,
+    27.925623
+],
+  "geometry": {"coordinates":[-81.85239799999999,27.925623],"type":"Point"}
 }

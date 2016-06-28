@@ -2,13 +2,14 @@
   "id": 320566937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.67027,30.418302,-86.67027,30.418302",
     "geom:latitude":30.418302,
     "geom:longitude":-86.67027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Ready Ave NW",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320566937,
-    "wof:lastmodified":1449011333,
+    "wof:lastmodified":1466443216,
     "wof:name":"PMI",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.67027,30.418302,-86.67027,30.418302],
+  "bbox": [
+    -86.67027,
+    30.418302,
+    -86.67027,
+    30.418302
+],
   "geometry": {"coordinates":[-86.67027,30.418302],"type":"Point"}
 }

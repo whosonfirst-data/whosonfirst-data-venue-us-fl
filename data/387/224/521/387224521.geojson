@@ -2,13 +2,14 @@
   "id": 387224521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335757,25.745841,-80.335757,25.745841",
     "geom:latitude":25.745841,
     "geom:longitude":-80.335757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 SW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":387224521,
-    "wof:lastmodified":1449058893,
+    "wof:lastmodified":1466442174,
     "wof:name":"Miami Behavioral Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "health"
     ]
 },
-  "bbox": [-80.335757,25.745841,-80.335757,25.745841],
+  "bbox": [
+    -80.335757,
+    25.745841,
+    -80.335757,
+    25.745841
+],
   "geometry": {"coordinates":[-80.335757,25.745841],"type":"Point"}
 }

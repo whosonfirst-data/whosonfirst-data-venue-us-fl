@@ -2,13 +2,14 @@
   "id": 403751119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.668,30.415386,-86.668,30.415386",
     "geom:latitude":30.415386,
     "geom:longitude":-86.668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Hill Ave NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403751119,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1466440341,
     "wof:name":"Spectrum Sciences & Software",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-86.668,30.415386,-86.668,30.415386],
-  "geometry": {"coordinates":[-86.668,30.415386],"type":"Point"}
+  "bbox": [
+    -86.668,
+    30.415386,
+    -86.668,
+    30.415386
+],
+  "geometry": {"coordinates":[-86.66800000000001,30.415386],"type":"Point"}
 }

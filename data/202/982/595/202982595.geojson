@@ -2,13 +2,14 @@
   "id": 202982595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.09265,26.501535,-80.09265,26.501535",
     "geom:latitude":26.501535,
     "geom:longitude":-80.09265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2668 SW Cranbrook Dr",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202982595,
-    "wof:lastmodified":1449060532,
+    "wof:lastmodified":1466434694,
     "wof:name":"Palm Coast Vending Inc",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.09265,26.501535,-80.09265,26.501535],
-  "geometry": {"coordinates":[-80.09265,26.501535],"type":"Point"}
+  "bbox": [
+    -80.09265,
+    26.501535,
+    -80.09265,
+    26.501535
+],
+  "geometry": {"coordinates":[-80.09265000000001,26.501535],"type":"Point"}
 }

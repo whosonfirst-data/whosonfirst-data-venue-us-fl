@@ -2,13 +2,14 @@
   "id": 320454403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.290344,30.50417,-84.290344,30.50417",
     "geom:latitude":30.50417,
     "geom:longitude":-84.290344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3368 E Lakeshore Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320454403,
-    "wof:lastmodified":1449014612,
+    "wof:lastmodified":1466441211,
     "wof:name":"Racquet Shop",
     "wof:parent_id":85817667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.290344,30.50417,-84.290344,30.50417],
+  "bbox": [
+    -84.290344,
+    30.50417,
+    -84.290344,
+    30.50417
+],
   "geometry": {"coordinates":[-84.290344,30.50417],"type":"Point"}
 }

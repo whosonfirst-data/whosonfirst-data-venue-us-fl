@@ -2,13 +2,14 @@
   "id": 320754353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192058,25.850557,-80.192058,25.850557",
     "geom:latitude":25.850557,
     "geom:longitude":-80.192058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8352 NE 2nd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320754353,
-    "wof:lastmodified":1449013714,
+    "wof:lastmodified":1466446377,
     "wof:name":"Dental Plan",
     "wof:parent_id":85831005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.192058,25.850557,-80.192058,25.850557],
+  "bbox": [
+    -80.192058,
+    25.850557,
+    -80.192058,
+    25.850557
+],
   "geometry": {"coordinates":[-80.192058,25.850557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303076893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.352562,28.796505,-82.352562,28.796505",
     "geom:latitude":28.796505,
     "geom:longitude":-82.352562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 E Arbor St",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303076893,
-    "wof:lastmodified":1449000039,
+    "wof:lastmodified":1466431798,
     "wof:name":"Arobor Street Grill & Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.352562,28.796505,-82.352562,28.796505],
-  "geometry": {"coordinates":[-82.352562,28.796505],"type":"Point"}
+  "bbox": [
+    -82.352562,
+    28.796505,
+    -82.352562,
+    28.796505
+],
+  "geometry": {"coordinates":[-82.35256200000001,28.796505],"type":"Point"}
 }

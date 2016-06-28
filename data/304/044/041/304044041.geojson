@@ -2,13 +2,14 @@
   "id": 304044041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.531732,28.579382,-81.531732,28.579382",
     "geom:latitude":28.579382,
     "geom:longitude":-81.531732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Starke Lake Cir",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304044041,
-    "wof:lastmodified":1449043881,
+    "wof:lastmodified":1466432581,
     "wof:name":"Bill Delaney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.531732,28.579382,-81.531732,28.579382],
-  "geometry": {"coordinates":[-81.531732,28.579382],"type":"Point"}
+  "bbox": [
+    -81.531732,
+    28.579382,
+    -81.531732,
+    28.579382
+],
+  "geometry": {"coordinates":[-81.53173200000001,28.579382],"type":"Point"}
 }

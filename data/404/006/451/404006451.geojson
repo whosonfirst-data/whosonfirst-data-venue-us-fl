@@ -2,13 +2,14 @@
   "id": 404006451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.267896,26.149206,-80.267896,26.149206",
     "geom:latitude":26.149206,
     "geom:longitude":-80.267896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 N Pine Island Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404006451,
-    "wof:lastmodified":1449040049,
+    "wof:lastmodified":1466440367,
     "wof:name":"We Care Animal Clinic",
     "wof:parent_id":85896113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.267896,26.149206,-80.267896,26.149206],
-  "geometry": {"coordinates":[-80.267896,26.149206],"type":"Point"}
+  "bbox": [
+    -80.267896,
+    26.149206,
+    -80.267896,
+    26.149206
+],
+  "geometry": {"coordinates":[-80.26789599999999,26.149206],"type":"Point"}
 }

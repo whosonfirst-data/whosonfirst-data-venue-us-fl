@@ -2,13 +2,14 @@
   "id": 320648045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801748,26.180376,-81.801748,26.180376",
     "geom:latitude":26.180376,
     "geom:longitude":-81.801748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Harbour Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320648045,
-    "wof:lastmodified":1449012276,
+    "wof:lastmodified":1466444606,
     "wof:name":"Harbour DA Elevator",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.801748,26.180376,-81.801748,26.180376],
+  "bbox": [
+    -81.801748,
+    26.180376,
+    -81.801748,
+    26.180376
+],
   "geometry": {"coordinates":[-81.801748,26.180376],"type":"Point"}
 }

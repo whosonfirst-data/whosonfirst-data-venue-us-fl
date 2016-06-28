@@ -2,13 +2,14 @@
   "id": 320665269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.078545,26.305468,-80.078545,26.305468",
     "geom:latitude":26.305468,
     "geom:longitude":-80.078545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 SE 19th Ave",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320665269,
-    "wof:lastmodified":1449012410,
+    "wof:lastmodified":1466444901,
     "wof:name":"Coconut Bay Apartments",
     "wof:parent_id":85804665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.078545,26.305468,-80.078545,26.305468],
-  "geometry": {"coordinates":[-80.078545,26.305468],"type":"Point"}
+  "bbox": [
+    -80.078545,
+    26.305468,
+    -80.078545,
+    26.305468
+],
+  "geometry": {"coordinates":[-80.07854500000001,26.305468],"type":"Point"}
 }

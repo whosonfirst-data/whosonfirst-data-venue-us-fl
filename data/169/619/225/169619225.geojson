@@ -2,13 +2,14 @@
   "id": 169619225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.202616,26.357173,-80.202616,26.357173",
     "geom:latitude":26.357173,
     "geom:longitude":-80.202616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9980 N Central Park Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169619225,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466442789,
     "wof:name":"Roger Levy",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.202616,26.357173,-80.202616,26.357173],
-  "geometry": {"coordinates":[-80.202616,26.357173],"type":"Point"}
+  "bbox": [
+    -80.202616,
+    26.357173,
+    -80.202616,
+    26.357173
+],
+  "geometry": {"coordinates":[-80.20261600000001,26.357173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387479393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583465,28.562098,-81.583465,28.562098",
     "geom:latitude":28.562098,
     "geom:longitude":-81.583465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Dillard St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387479393,
-    "wof:lastmodified":1449058712,
+    "wof:lastmodified":1466446057,
     "wof:name":"Magic Wand",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.583465,28.562098,-81.583465,28.562098],
+  "bbox": [
+    -81.583465,
+    28.562098,
+    -81.583465,
+    28.562098
+],
   "geometry": {"coordinates":[-81.583465,28.562098],"type":"Point"}
 }

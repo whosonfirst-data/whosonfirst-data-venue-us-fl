@@ -2,13 +2,14 @@
   "id": 320232593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147911,26.299154,-80.147911,26.299154",
     "geom:latitude":26.299154,
     "geom:longitude":-80.147911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 SW 32nd Way",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320232593,
-    "wof:lastmodified":1449012475,
+    "wof:lastmodified":1466437364,
     "wof:name":"Web Service Co Inc",
     "wof:parent_id":85806695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lease"
     ]
 },
-  "bbox": [-80.147911,26.299154,-80.147911,26.299154],
-  "geometry": {"coordinates":[-80.147911,26.299154],"type":"Point"}
+  "bbox": [
+    -80.147911,
+    26.299154,
+    -80.147911,
+    26.299154
+],
+  "geometry": {"coordinates":[-80.14791099999999,26.299154],"type":"Point"}
 }

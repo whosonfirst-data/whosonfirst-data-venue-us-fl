@@ -2,13 +2,14 @@
   "id": 269755071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.566207,30.134916,-81.566207,30.134916",
     "geom:latitude":30.134916,
     "geom:longitude":-81.566207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5245 Treeway Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269755071,
-    "wof:lastmodified":1449036837,
+    "wof:lastmodified":1466433300,
     "wof:name":"Waterplex",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-81.566207,30.134916,-81.566207,30.134916],
-  "geometry": {"coordinates":[-81.566207,30.134916],"type":"Point"}
+  "bbox": [
+    -81.566207,
+    30.134916,
+    -81.566207,
+    30.134916
+],
+  "geometry": {"coordinates":[-81.56620700000001,30.134916],"type":"Point"}
 }

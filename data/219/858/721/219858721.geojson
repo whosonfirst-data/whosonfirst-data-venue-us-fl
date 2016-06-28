@@ -2,13 +2,14 @@
   "id": 219858721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178957,26.106187,-80.178957,26.106187",
     "geom:latitude":26.106187,
     "geom:longitude":-80.178957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2734 Davie Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219858721,
-    "wof:lastmodified":1449070742,
+    "wof:lastmodified":1466436257,
     "wof:name":"Yarly's Bakery",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.178957,26.106187,-80.178957,26.106187],
+  "bbox": [
+    -80.178957,
+    26.106187,
+    -80.178957,
+    26.106187
+],
   "geometry": {"coordinates":[-80.178957,26.106187],"type":"Point"}
 }

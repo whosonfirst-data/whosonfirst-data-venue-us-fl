@@ -2,13 +2,14 @@
   "id": 320300059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158335,26.355766,-80.158335,26.355766",
     "geom:latitude":26.355766,
     "geom:longitude":-80.158335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7064 San Sebastian Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320300059,
-    "wof:lastmodified":1449013360,
+    "wof:lastmodified":1466438511,
     "wof:name":"Besser Enterprises",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.158335,26.355766,-80.158335,26.355766],
-  "geometry": {"coordinates":[-80.158335,26.355766],"type":"Point"}
+  "bbox": [
+    -80.158335,
+    26.355766,
+    -80.158335,
+    26.355766
+],
+  "geometry": {"coordinates":[-80.15833499999999,26.355766],"type":"Point"}
 }

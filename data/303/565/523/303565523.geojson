@@ -2,13 +2,14 @@
   "id": 303565523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.689027,30.310215,-81.689027,30.310215",
     "geom:latitude":30.310215,
     "geom:longitude":-81.689027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 Oak St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303565523,
-    "wof:lastmodified":1449000348,
+    "wof:lastmodified":1466440271,
     "wof:name":"A C M Surveying Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-81.689027,30.310215,-81.689027,30.310215],
+  "bbox": [
+    -81.689027,
+    30.310215,
+    -81.689027,
+    30.310215
+],
   "geometry": {"coordinates":[-81.689027,30.310215],"type":"Point"}
 }

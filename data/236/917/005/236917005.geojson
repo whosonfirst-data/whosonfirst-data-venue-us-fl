@@ -2,13 +2,14 @@
   "id": 236917005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73032,30.291339,-81.73032,30.291339",
     "geom:latitude":30.291339,
     "geom:longitude":-81.73032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Cassat Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236917005,
-    "wof:lastmodified":1449004723,
+    "wof:lastmodified":1466441469,
     "wof:name":"Clean Car Car Wash",
     "wof:parent_id":85870733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-81.73032,30.291339,-81.73032,30.291339],
-  "geometry": {"coordinates":[-81.73032,30.291339],"type":"Point"}
+  "bbox": [
+    -81.73032,
+    30.291339,
+    -81.73032,
+    30.291339
+],
+  "geometry": {"coordinates":[-81.73032000000001,30.291339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303312117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.408536,25.652915,-80.408536,25.652915",
     "geom:latitude":25.652915,
     "geom:longitude":-80.408536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12350 SW 132nd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303312117,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466435914,
     "wof:name":"Eastern Import Export USA",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.408536,25.652915,-80.408536,25.652915],
+  "bbox": [
+    -80.408536,
+    25.652915,
+    -80.408536,
+    25.652915
+],
   "geometry": {"coordinates":[-80.408536,25.652915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203004965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.607818,30.161016,-85.607818,30.161016",
     "geom:latitude":30.161016,
     "geom:longitude":-85.607818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Transmitter Rd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203004965,
-    "wof:lastmodified":1449025607,
+    "wof:lastmodified":1466429607,
     "wof:name":"Slb Investments",
     "wof:parent_id":85804791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "site"
     ]
 },
-  "bbox": [-85.607818,30.161016,-85.607818,30.161016],
-  "geometry": {"coordinates":[-85.607818,30.161016],"type":"Point"}
+  "bbox": [
+    -85.607818,
+    30.161016,
+    -85.607818,
+    30.161016
+],
+  "geometry": {"coordinates":[-85.60781799999999,30.161016],"type":"Point"}
 }

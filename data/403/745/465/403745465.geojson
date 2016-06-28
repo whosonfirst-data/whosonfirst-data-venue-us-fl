@@ -2,13 +2,14 @@
   "id": 403745465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.358665,28.753289,-81.358665,28.753289",
     "geom:latitude":28.753289,
     "geom:longitude":-81.358665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3677 Lake Emma Rd",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403745465,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1466440252,
     "wof:name":"County Of Seminole",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.358665,28.753289,-81.358665,28.753289],
+  "bbox": [
+    -81.358665,
+    28.753289,
+    -81.358665,
+    28.753289
+],
   "geometry": {"coordinates":[-81.358665,28.753289],"type":"Point"}
 }

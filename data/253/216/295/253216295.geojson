@@ -2,13 +2,14 @@
   "id": 253216295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.055737,29.324002,-81.055737,29.324002",
     "geom:latitude":29.324002,
     "geom:longitude":-81.055737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Ocean Shore Blvd",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253216295,
-    "wof:lastmodified":1449065439,
+    "wof:lastmodified":1466430952,
     "wof:name":"Portias Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.055737,29.324002,-81.055737,29.324002],
-  "geometry": {"coordinates":[-81.055737,29.324002],"type":"Point"}
+  "bbox": [
+    -81.055737,
+    29.324002,
+    -81.055737,
+    29.324002
+],
+  "geometry": {"coordinates":[-81.05573699999999,29.324002],"type":"Point"}
 }

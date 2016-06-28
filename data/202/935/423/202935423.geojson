@@ -2,13 +2,14 @@
   "id": 202935423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.728608,26.671228,-81.728608,26.671228",
     "geom:latitude":26.671228,
     "geom:longitude":-81.728608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 Muddy Ln",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202935423,
-    "wof:lastmodified":1449062214,
+    "wof:lastmodified":1466434072,
     "wof:name":"RLM Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.728608,26.671228,-81.728608,26.671228],
-  "geometry": {"coordinates":[-81.728608,26.671228],"type":"Point"}
+  "bbox": [
+    -81.728608,
+    26.671228,
+    -81.728608,
+    26.671228
+],
+  "geometry": {"coordinates":[-81.72860799999999,26.671228],"type":"Point"}
 }

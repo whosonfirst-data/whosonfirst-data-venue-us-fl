@@ -2,13 +2,14 @@
   "id": 403975135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056291,26.645331,-80.056291,26.645331",
     "geom:latitude":26.645331,
     "geom:longitude":-80.056291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 S Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403975135,
-    "wof:lastmodified":1449055782,
+    "wof:lastmodified":1466443921,
     "wof:name":"Bama Towing",
     "wof:parent_id":85881817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.056291,26.645331,-80.056291,26.645331],
+  "bbox": [
+    -80.056291,
+    26.645331,
+    -80.056291,
+    26.645331
+],
   "geometry": {"coordinates":[-80.056291,26.645331],"type":"Point"}
 }

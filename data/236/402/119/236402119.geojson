@@ -2,13 +2,14 @@
   "id": 236402119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.401525,30.640395,-85.401525,30.640395",
     "geom:latitude":30.640395,
     "geom:longitude":-85.401525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Sorrento Ave",
     "sg:city":"Alford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236402119,
-    "wof:lastmodified":1449002554,
+    "wof:lastmodified":1466434079,
     "wof:name":"Chipola Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.401525,30.640395,-85.401525,30.640395],
-  "geometry": {"coordinates":[-85.401525,30.640395],"type":"Point"}
+  "bbox": [
+    -85.401525,
+    30.640395,
+    -85.401525,
+    30.640395
+],
+  "geometry": {"coordinates":[-85.40152500000001,30.640395],"type":"Point"}
 }

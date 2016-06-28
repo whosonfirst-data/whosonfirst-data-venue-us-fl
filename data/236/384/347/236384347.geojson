@@ -2,13 +2,14 @@
   "id": 236384347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.46845,25.476395,-80.46845,25.476395",
     "geom:latitude":25.476395,
     "geom:longitude":-80.46845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 NE 1st Rd",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236384347,
-    "wof:lastmodified":1449001985,
+    "wof:lastmodified":1466433828,
     "wof:name":"Homestead Electric & Water",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.46845,25.476395,-80.46845,25.476395],
+  "bbox": [
+    -80.46845,
+    25.476395,
+    -80.46845,
+    25.476395
+],
   "geometry": {"coordinates":[-80.46845,25.476395],"type":"Point"}
 }

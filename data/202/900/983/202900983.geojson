@@ -2,13 +2,14 @@
   "id": 202900983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.313481,28.328142,-82.313481,28.328142",
     "geom:latitude":28.328142,
     "geom:longitude":-82.313481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30435 Commerce Dr",
     "sg:city":"San Antonio",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202900983,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466433619,
     "wof:name":"Tri-State Hospital Supply Corp",
     "wof:parent_id":85889567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-82.313481,28.328142,-82.313481,28.328142],
+  "bbox": [
+    -82.313481,
+    28.328142,
+    -82.313481,
+    28.328142
+],
   "geometry": {"coordinates":[-82.313481,28.328142],"type":"Point"}
 }

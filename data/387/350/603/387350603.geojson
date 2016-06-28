@@ -2,13 +2,14 @@
   "id": 387350603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.600051,28.012245,-82.600051,28.012245",
     "geom:latitude":28.012245,
     "geom:longitude":-82.600051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10306 Roundtree Ct",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387350603,
-    "wof:lastmodified":1449058049,
+    "wof:lastmodified":1466444101,
     "wof:name":"Vertex Worldwide Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-82.600051,28.012245,-82.600051,28.012245],
-  "geometry": {"coordinates":[-82.600051,28.012245],"type":"Point"}
+  "bbox": [
+    -82.600051,
+    28.012245,
+    -82.600051,
+    28.012245
+],
+  "geometry": {"coordinates":[-82.60005099999999,28.012245],"type":"Point"}
 }

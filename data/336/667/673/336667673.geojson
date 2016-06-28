@@ -2,13 +2,14 @@
   "id": 336667673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.247831,29.088558,-82.247831,29.088558",
     "geom:latitude":29.088558,
     "geom:longitude":-82.247831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9048 SW Hwy 200",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336667673,
-    "wof:lastmodified":1448997633,
+    "wof:lastmodified":1466436147,
     "wof:name":"Marion County Sheriff Ofc",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.247831,29.088558,-82.247831,29.088558],
-  "geometry": {"coordinates":[-82.247831,29.088558],"type":"Point"}
+  "bbox": [
+    -82.247831,
+    29.088558,
+    -82.247831,
+    29.088558
+],
+  "geometry": {"coordinates":[-82.24783100000001,29.088558],"type":"Point"}
 }

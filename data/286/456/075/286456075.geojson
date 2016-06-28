@@ -2,13 +2,14 @@
   "id": 286456075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.663077,30.422353,-86.663077,30.422353",
     "geom:latitude":30.422353,
     "geom:longitude":-86.663077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 Anchors St NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286456075,
-    "wof:lastmodified":1449016065,
+    "wof:lastmodified":1466433009,
     "wof:name":"Fleet Maintenance",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-86.663077,30.422353,-86.663077,30.422353],
+  "bbox": [
+    -86.663077,
+    30.422353,
+    -86.663077,
+    30.422353
+],
   "geometry": {"coordinates":[-86.663077,30.422353],"type":"Point"}
 }

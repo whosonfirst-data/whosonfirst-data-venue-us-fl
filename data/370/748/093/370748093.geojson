@@ -2,13 +2,14 @@
   "id": 370748093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700513,28.080795,-80.700513,28.080795",
     "geom:latitude":28.080795,
     "geom:longitude":-80.700513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 Rogers Pl",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370748093,
-    "wof:lastmodified":1449031629,
+    "wof:lastmodified":1466445648,
     "wof:name":"Howard D Hitt",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.700513,28.080795,-80.700513,28.080795],
+  "bbox": [
+    -80.700513,
+    28.080795,
+    -80.700513,
+    28.080795
+],
   "geometry": {"coordinates":[-80.700513,28.080795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353737033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.755721,30.320213,-81.755721,30.320213",
     "geom:latitude":30.320213,
     "geom:longitude":-81.755721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6659 Highway Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353737033,
-    "wof:lastmodified":1449018831,
+    "wof:lastmodified":1466439961,
     "wof:name":"Kosmos Cement Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-81.755721,30.320213,-81.755721,30.320213],
-  "geometry": {"coordinates":[-81.755721,30.320213],"type":"Point"}
+  "bbox": [
+    -81.755721,
+    30.320213,
+    -81.755721,
+    30.320213
+],
+  "geometry": {"coordinates":[-81.75572099999999,30.320213],"type":"Point"}
 }

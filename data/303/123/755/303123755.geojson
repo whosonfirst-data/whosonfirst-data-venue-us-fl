@@ -2,13 +2,14 @@
   "id": 303123755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.319197,27.324216,-80.319197,27.324216",
     "geom:latitude":27.324216,
     "geom:longitude":-80.319197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7446 US Hwy 1",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303123755,
-    "wof:lastmodified":1448998847,
+    "wof:lastmodified":1466432648,
     "wof:name":"ABA Bartending Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trade"
     ]
 },
-  "bbox": [-80.319197,27.324216,-80.319197,27.324216],
+  "bbox": [
+    -80.319197,
+    27.324216,
+    -80.319197,
+    27.324216
+],
   "geometry": {"coordinates":[-80.319197,27.324216],"type":"Point"}
 }

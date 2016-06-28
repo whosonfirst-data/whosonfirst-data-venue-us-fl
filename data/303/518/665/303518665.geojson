@@ -2,13 +2,14 @@
   "id": 303518665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.25169,29.470679,-81.25169,29.470679",
     "geom:latitude":29.470679,
     "geom:longitude":-81.25169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Lemon St",
     "sg:city":"Bunnell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303518665,
-    "wof:lastmodified":1448999502,
+    "wof:lastmodified":1466439484,
     "wof:name":"Flagler Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "facility"
     ]
 },
-  "bbox": [-81.25169,29.470679,-81.25169,29.470679],
+  "bbox": [
+    -81.25169,
+    29.470679,
+    -81.25169,
+    29.470679
+],
   "geometry": {"coordinates":[-81.25169,29.470679],"type":"Point"}
 }

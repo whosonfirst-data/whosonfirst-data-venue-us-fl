@@ -2,13 +2,14 @@
   "id": 270021503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590212,28.568324,-81.590212,28.568324",
     "geom:latitude":28.568324,
     "geom:longitude":-81.590212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Apopka St",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270021503,
-    "wof:lastmodified":1449010197,
+    "wof:lastmodified":1466429819,
     "wof:name":"KUHL & Brinkman Inc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.590212,28.568324,-81.590212,28.568324],
-  "geometry": {"coordinates":[-81.590212,28.568324],"type":"Point"}
+  "bbox": [
+    -81.590212,
+    28.568324,
+    -81.590212,
+    28.568324
+],
+  "geometry": {"coordinates":[-81.59021199999999,28.568324],"type":"Point"}
 }

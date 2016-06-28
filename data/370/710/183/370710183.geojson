@@ -2,13 +2,14 @@
   "id": 370710183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153457,25.890603,-80.153457,25.890603",
     "geom:latitude":25.890603,
     "geom:longitude":-80.153457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 NE 124th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370710183,
-    "wof:lastmodified":1449029290,
+    "wof:lastmodified":1466445047,
     "wof:name":"Miami Lodge 554",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.153457,25.890603,-80.153457,25.890603],
+  "bbox": [
+    -80.153457,
+    25.890603,
+    -80.153457,
+    25.890603
+],
   "geometry": {"coordinates":[-80.153457,25.890603],"type":"Point"}
 }

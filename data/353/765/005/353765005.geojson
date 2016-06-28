@@ -2,13 +2,14 @@
   "id": 353765005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.615052,27.79277,-82.615052,27.79277",
     "geom:latitude":27.79277,
     "geom:longitude":-82.615052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Brightwaters Blvd NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353765005,
-    "wof:lastmodified":1449019743,
+    "wof:lastmodified":1466440386,
     "wof:name":"Georgia Belle Hotel",
     "wof:parent_id":85881945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.615052,27.79277,-82.615052,27.79277],
-  "geometry": {"coordinates":[-82.615052,27.79277],"type":"Point"}
+  "bbox": [
+    -82.615052,
+    27.79277,
+    -82.615052,
+    27.79277
+],
+  "geometry": {"coordinates":[-82.61505200000001,27.79277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303435269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331099,25.873317,-80.331099,25.873317",
     "geom:latitude":25.873317,
     "geom:longitude":-80.331099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 W 56th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303435269,
-    "wof:lastmodified":1449000339,
+    "wof:lastmodified":1466438024,
     "wof:name":"Cromet Dental Lab Inc",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-80.331099,25.873317,-80.331099,25.873317],
-  "geometry": {"coordinates":[-80.331099,25.873317],"type":"Point"}
+  "bbox": [
+    -80.331099,
+    25.873317,
+    -80.331099,
+    25.873317
+],
+  "geometry": {"coordinates":[-80.33109899999999,25.873317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303735797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.355736,28.078004,-82.355736,28.078004",
     "geom:latitude":28.078004,
     "geom:longitude":-82.355736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14025 Riveredge Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303735797,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1466443229,
     "wof:name":"Members Trust Co",
     "wof:parent_id":85889755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.355736,28.078004,-82.355736,28.078004],
-  "geometry": {"coordinates":[-82.355736,28.078004],"type":"Point"}
+  "bbox": [
+    -82.355736,
+    28.078004,
+    -82.355736,
+    28.078004
+],
+  "geometry": {"coordinates":[-82.35573599999999,28.078004],"type":"Point"}
 }

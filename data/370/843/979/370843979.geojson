@@ -2,13 +2,14 @@
   "id": 370843979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45095,28.447243,-82.45095,28.447243",
     "geom:latitude":28.447243,
     "geom:longitude":-82.45095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Meta Rd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370843979,
-    "wof:lastmodified":1449029384,
+    "wof:lastmodified":1466446760,
     "wof:name":"Expert Mortgage Processing",
     "wof:parent_id":85832825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-82.45095,28.447243,-82.45095,28.447243],
-  "geometry": {"coordinates":[-82.45095,28.447243],"type":"Point"}
+  "bbox": [
+    -82.45095,
+    28.447243,
+    -82.45095,
+    28.447243
+],
+  "geometry": {"coordinates":[-82.45095000000001,28.447243],"type":"Point"}
 }

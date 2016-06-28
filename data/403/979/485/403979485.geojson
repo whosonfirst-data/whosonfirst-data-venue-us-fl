@@ -2,13 +2,14 @@
   "id": 403979485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422253,29.656122,-82.422253,29.656122",
     "geom:latitude":29.656122,
     "geom:longitude":-82.422253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7321 NW 4 Blvd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403979485,
-    "wof:lastmodified":1449055551,
+    "wof:lastmodified":1466443989,
     "wof:name":"Mattress Zone USA",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-82.422253,29.656122,-82.422253,29.656122],
+  "bbox": [
+    -82.422253,
+    29.656122,
+    -82.422253,
+    29.656122
+],
   "geometry": {"coordinates":[-82.422253,29.656122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320201191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.433219,25.61308,-80.433219,25.61308",
     "geom:latitude":25.61308,
     "geom:longitude":-80.433219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14865 SW 166th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320201191,
-    "wof:lastmodified":1449014471,
+    "wof:lastmodified":1466436828,
     "wof:name":"Oswald Levermore",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.433219,25.61308,-80.433219,25.61308],
-  "geometry": {"coordinates":[-80.433219,25.61308],"type":"Point"}
+  "bbox": [
+    -80.433219,
+    25.61308,
+    -80.433219,
+    25.61308
+],
+  "geometry": {"coordinates":[-80.43321899999999,25.61308],"type":"Point"}
 }

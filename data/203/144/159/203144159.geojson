@@ -2,13 +2,14 @@
   "id": 203144159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.413561,30.299374,-81.413561,30.299374",
     "geom:latitude":30.299374,
     "geom:longitude":-81.413561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2488 Oak Forest Dr",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203144159,
-    "wof:lastmodified":1449026358,
+    "wof:lastmodified":1466445985,
     "wof:name":"MOS",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plant"
     ]
 },
-  "bbox": [-81.413561,30.299374,-81.413561,30.299374],
+  "bbox": [
+    -81.413561,
+    30.299374,
+    -81.413561,
+    30.299374
+],
   "geometry": {"coordinates":[-81.413561,30.299374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202725467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.769247,28.515782,-81.769247,28.515782",
     "geom:latitude":28.515782,
     "geom:longitude":-81.769247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11209 Harder Rd",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202725467,
-    "wof:lastmodified":1449060733,
+    "wof:lastmodified":1466431304,
     "wof:name":"Determinators Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sales"
     ]
 },
-  "bbox": [-81.769247,28.515782,-81.769247,28.515782],
-  "geometry": {"coordinates":[-81.769247,28.515782],"type":"Point"}
+  "bbox": [
+    -81.769247,
+    28.515782,
+    -81.769247,
+    28.515782
+],
+  "geometry": {"coordinates":[-81.76924699999999,28.515782],"type":"Point"}
 }

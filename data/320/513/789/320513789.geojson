@@ -2,13 +2,14 @@
   "id": 320513789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.710479,30.185035,-85.710479,30.185035",
     "geom:latitude":30.185035,
     "geom:longitude":-85.710479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Pritchard St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320513789,
-    "wof:lastmodified":1449013743,
+    "wof:lastmodified":1466442264,
     "wof:name":"Little Debbie Snack Cakes",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-85.710479,30.185035,-85.710479,30.185035],
-  "geometry": {"coordinates":[-85.710479,30.185035],"type":"Point"}
+  "bbox": [
+    -85.710479,
+    30.185035,
+    -85.710479,
+    30.185035
+],
+  "geometry": {"coordinates":[-85.71047900000001,30.185035],"type":"Point"}
 }

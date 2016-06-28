@@ -2,13 +2,14 @@
   "id": 270317505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258352,25.732253,-80.258352,25.732253",
     "geom:latitude":25.732253,
     "geom:longitude":-80.258352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4203 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270317505,
-    "wof:lastmodified":1449009749,
+    "wof:lastmodified":1466434895,
     "wof:name":"Out Of The Woods",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.258352,25.732253,-80.258352,25.732253],
+  "bbox": [
+    -80.258352,
+    25.732253,
+    -80.258352,
+    25.732253
+],
   "geometry": {"coordinates":[-80.258352,25.732253],"type":"Point"}
 }

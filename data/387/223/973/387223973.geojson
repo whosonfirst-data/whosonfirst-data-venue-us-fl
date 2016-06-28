@@ -2,13 +2,14 @@
   "id": 387223973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.307578,25.710685,-80.307578,25.710685",
     "geom:latitude":25.710685,
     "geom:longitude":-80.307578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7160 SW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387223973,
-    "wof:lastmodified":1449056374,
+    "wof:lastmodified":1466442164,
     "wof:name":"Zeta Energy",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "provider"
     ]
 },
-  "bbox": [-80.307578,25.710685,-80.307578,25.710685],
-  "geometry": {"coordinates":[-80.307578,25.710685],"type":"Point"}
+  "bbox": [
+    -80.307578,
+    25.710685,
+    -80.307578,
+    25.710685
+],
+  "geometry": {"coordinates":[-80.30757800000001,25.710685],"type":"Point"}
 }

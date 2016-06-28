@@ -2,13 +2,14 @@
   "id": 303388701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.847068,28.564993,-80.847068,28.564993",
     "geom:latitude":28.564993,
     "geom:longitude":-80.847068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 South St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303388701,
-    "wof:lastmodified":1448998211,
+    "wof:lastmodified":1466437227,
     "wof:name":"Central Florida Safety Council",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.847068,28.564993,-80.847068,28.564993],
-  "geometry": {"coordinates":[-80.847068,28.564993],"type":"Point"}
+  "bbox": [
+    -80.847068,
+    28.564993,
+    -80.847068,
+    28.564993
+],
+  "geometry": {"coordinates":[-80.84706799999999,28.564993],"type":"Point"}
 }

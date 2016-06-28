@@ -2,13 +2,14 @@
   "id": 186115861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.357998,28.360129,-82.357998,28.360129",
     "geom:latitude":28.360129,
     "geom:longitude":-82.357998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13710 Bellamy Brothers Blvd",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186115861,
-    "wof:lastmodified":1449050231,
+    "wof:lastmodified":1466445892,
     "wof:name":"Proaction of Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.357998,28.360129,-82.357998,28.360129],
-  "geometry": {"coordinates":[-82.357998,28.360129],"type":"Point"}
+  "bbox": [
+    -82.357998,
+    28.360129,
+    -82.357998,
+    28.360129
+],
+  "geometry": {"coordinates":[-82.35799799999999,28.360129],"type":"Point"}
 }

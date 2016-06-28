@@ -2,13 +2,14 @@
   "id": 286405639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523659,28.606999,-82.523659,28.606999",
     "geom:latitude":28.606999,
     "geom:longitude":-82.523659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12431 Indigo Bunting Rd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286405639,
-    "wof:lastmodified":1449017856,
+    "wof:lastmodified":1466432144,
     "wof:name":"Epyonix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.523659,28.606999,-82.523659,28.606999],
-  "geometry": {"coordinates":[-82.523659,28.606999],"type":"Point"}
+  "bbox": [
+    -82.523659,
+    28.606999,
+    -82.523659,
+    28.606999
+],
+  "geometry": {"coordinates":[-82.52365899999999,28.606999],"type":"Point"}
 }

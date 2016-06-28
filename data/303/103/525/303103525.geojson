@@ -2,13 +2,14 @@
   "id": 303103525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.670858,26.682243,-80.670858,26.682243",
     "geom:latitude":26.682243,
     "geom:longitude":-80.670858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 SW Ave E",
     "sg:city":"Belle Glade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303103525,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1466432278,
     "wof:name":"One Stop Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.670858,26.682243,-80.670858,26.682243],
+  "bbox": [
+    -80.670858,
+    26.682243,
+    -80.670858,
+    26.682243
+],
   "geometry": {"coordinates":[-80.670858,26.682243],"type":"Point"}
 }

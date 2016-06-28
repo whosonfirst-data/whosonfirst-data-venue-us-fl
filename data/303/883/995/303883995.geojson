@@ -2,13 +2,14 @@
   "id": 303883995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.152656,26.377184,-80.152656,26.377184",
     "geom:latitude":26.377184,
     "geom:longitude":-80.152656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20361 Boca West Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303883995,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466445770,
     "wof:name":"Tool Planet",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.152656,26.377184,-80.152656,26.377184],
-  "geometry": {"coordinates":[-80.152656,26.377184],"type":"Point"}
+  "bbox": [
+    -80.152656,
+    26.377184,
+    -80.152656,
+    26.377184
+],
+  "geometry": {"coordinates":[-80.15265599999999,26.377184],"type":"Point"}
 }

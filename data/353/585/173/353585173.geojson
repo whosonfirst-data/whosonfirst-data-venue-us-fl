@@ -2,13 +2,14 @@
   "id": 353585173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.697296,30.169781,-85.697296,30.169781",
     "geom:latitude":30.169781,
     "geom:longitude":-85.697296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Hickory Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353585173,
-    "wof:lastmodified":1449019942,
+    "wof:lastmodified":1466437565,
     "wof:name":"Osceola Painting",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.697296,30.169781,-85.697296,30.169781],
-  "geometry": {"coordinates":[-85.697296,30.169781],"type":"Point"}
+  "bbox": [
+    -85.697296,
+    30.169781,
+    -85.697296,
+    30.169781
+],
+  "geometry": {"coordinates":[-85.69729599999999,30.169781],"type":"Point"}
 }

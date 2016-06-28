@@ -2,13 +2,14 @@
   "id": 353420335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335169,25.831751,-80.335169,25.831751",
     "geom:latitude":25.831751,
     "geom:longitude":-80.335169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8483 NW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353420335,
-    "wof:lastmodified":1449019489,
+    "wof:lastmodified":1466435522,
     "wof:name":"City Monument Co",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-80.335169,25.831751,-80.335169,25.831751],
-  "geometry": {"coordinates":[-80.335169,25.831751],"type":"Point"}
+  "bbox": [
+    -80.335169,
+    25.831751,
+    -80.335169,
+    25.831751
+],
+  "geometry": {"coordinates":[-80.33516899999999,25.831751],"type":"Point"}
 }

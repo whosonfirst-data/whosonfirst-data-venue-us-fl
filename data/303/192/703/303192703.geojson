@@ -2,13 +2,14 @@
   "id": 303192703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.606957,28.086373,-80.606957,28.086373",
     "geom:latitude":28.086373,
     "geom:longitude":-80.606957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 S Harbor City Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303192703,
-    "wof:lastmodified":1448999848,
+    "wof:lastmodified":1466433868,
     "wof:name":"Prestige Volkswagen",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.606957,28.086373,-80.606957,28.086373],
-  "geometry": {"coordinates":[-80.606957,28.086373],"type":"Point"}
+  "bbox": [
+    -80.606957,
+    28.086373,
+    -80.606957,
+    28.086373
+],
+  "geometry": {"coordinates":[-80.60695699999999,28.086373],"type":"Point"}
 }

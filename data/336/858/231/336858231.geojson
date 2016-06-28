@@ -2,13 +2,14 @@
   "id": 336858231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245719,25.894992,-80.245719,25.894992",
     "geom:latitude":25.894992,
     "geom:longitude":-80.245719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 NW 132nd Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336858231,
-    "wof:lastmodified":1448997041,
+    "wof:lastmodified":1466439487,
     "wof:name":"Alto Moving Corp",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "express"
     ]
 },
-  "bbox": [-80.245719,25.894992,-80.245719,25.894992],
-  "geometry": {"coordinates":[-80.245719,25.894992],"type":"Point"}
+  "bbox": [
+    -80.245719,
+    25.894992,
+    -80.245719,
+    25.894992
+],
+  "geometry": {"coordinates":[-80.24571899999999,25.894992],"type":"Point"}
 }

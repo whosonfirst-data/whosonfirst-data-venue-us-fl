@@ -2,13 +2,14 @@
   "id": 269934115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317104,25.806026,-80.317104,25.806026",
     "geom:latitude":25.806026,
     "geom:longitude":-80.317104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 NW 74th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269934115,
-    "wof:lastmodified":1449036249,
+    "wof:lastmodified":1466436398,
     "wof:name":"International",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snack"
     ]
 },
-  "bbox": [-80.317104,25.806026,-80.317104,25.806026],
+  "bbox": [
+    -80.317104,
+    25.806026,
+    -80.317104,
+    25.806026
+],
   "geometry": {"coordinates":[-80.317104,25.806026],"type":"Point"}
 }

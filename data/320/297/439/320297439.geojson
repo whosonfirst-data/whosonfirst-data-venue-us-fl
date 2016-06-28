@@ -2,13 +2,14 @@
   "id": 320297439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.660396,30.332274,-81.660396,30.332274",
     "geom:latitude":30.332274,
     "geom:longitude":-81.660396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Julia St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320297439,
-    "wof:lastmodified":1449013635,
+    "wof:lastmodified":1466438469,
     "wof:name":"WEWC",
     "wof:parent_id":85888915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.660396,30.332274,-81.660396,30.332274],
-  "geometry": {"coordinates":[-81.660396,30.332274],"type":"Point"}
+  "bbox": [
+    -81.660396,
+    30.332274,
+    -81.660396,
+    30.332274
+],
+  "geometry": {"coordinates":[-81.66039600000001,30.332274],"type":"Point"}
 }

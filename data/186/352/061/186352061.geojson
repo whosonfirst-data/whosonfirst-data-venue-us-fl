@@ -2,13 +2,14 @@
   "id": 186352061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.180526,27.223729,-80.180526,27.223729",
     "geom:latitude":27.223729,
     "geom:longitude":-80.180526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 NE Ocean Blvd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186352061,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466430934,
     "wof:name":"Elevator Line",
     "wof:parent_id":85889627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-80.180526,27.223729,-80.180526,27.223729],
+  "bbox": [
+    -80.180526,
+    27.223729,
+    -80.180526,
+    27.223729
+],
   "geometry": {"coordinates":[-80.180526,27.223729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403814973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25221,25.888243,-80.25221,25.888243",
     "geom:latitude":25.888243,
     "geom:longitude":-80.25221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3595 NW 125th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403814973,
-    "wof:lastmodified":1449054874,
+    "wof:lastmodified":1466441366,
     "wof:name":"Phase II Furniture & Str Fixs",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mica"
     ]
 },
-  "bbox": [-80.25221,25.888243,-80.25221,25.888243],
-  "geometry": {"coordinates":[-80.25221,25.888243],"type":"Point"}
+  "bbox": [
+    -80.25221,
+    25.888243,
+    -80.25221,
+    25.888243
+],
+  "geometry": {"coordinates":[-80.25221000000001,25.888243],"type":"Point"}
 }

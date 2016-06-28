@@ -2,13 +2,14 @@
   "id": 219818201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.425047,27.291981,-80.425047,27.291981",
     "geom:latitude":27.291981,
     "geom:longitude":-80.425047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2553 SW Galiano Rd",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219818201,
-    "wof:lastmodified":1449072109,
+    "wof:lastmodified":1466435712,
     "wof:name":"Martin J Hannan Trucking",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.425047,27.291981,-80.425047,27.291981],
-  "geometry": {"coordinates":[-80.425047,27.291981],"type":"Point"}
+  "bbox": [
+    -80.425047,
+    27.291981,
+    -80.425047,
+    27.291981
+],
+  "geometry": {"coordinates":[-80.42504700000001,27.291981],"type":"Point"}
 }

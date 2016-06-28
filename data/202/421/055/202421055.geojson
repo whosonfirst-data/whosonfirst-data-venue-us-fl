@@ -2,13 +2,14 @@
   "id": 202421055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.610896,27.998506,-80.610896,27.998506",
     "geom:latitude":27.998506,
     "geom:longitude":-80.610896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Medplex Pkwy",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202421055,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466444065,
     "wof:name":"William Childs Hospice House",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-80.610896,27.998506,-80.610896,27.998506],
+  "bbox": [
+    -80.610896,
+    27.998506,
+    -80.610896,
+    27.998506
+],
   "geometry": {"coordinates":[-80.610896,27.998506],"type":"Point"}
 }

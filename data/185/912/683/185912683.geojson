@@ -2,13 +2,14 @@
   "id": 185912683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.827318,27.978707,-82.827318,27.978707",
     "geom:latitude":27.978707,
     "geom:longitude":-82.827318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Mandalay Ave",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185912683,
-    "wof:lastmodified":1449007420,
+    "wof:lastmodified":1466430060,
     "wof:name":"Surfing USA",
     "wof:parent_id":85888693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.827318,27.978707,-82.827318,27.978707],
-  "geometry": {"coordinates":[-82.827318,27.978707],"type":"Point"}
+  "bbox": [
+    -82.827318,
+    27.978707,
+    -82.827318,
+    27.978707
+],
+  "geometry": {"coordinates":[-82.82731800000001,27.978707],"type":"Point"}
 }

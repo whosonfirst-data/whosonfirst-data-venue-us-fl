@@ -2,13 +2,14 @@
   "id": 219907919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.573516,30.201524,-81.573516,30.201524",
     "geom:latitude":30.201524,
     "geom:longitude":-81.573516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9143 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219907919,
-    "wof:lastmodified":1449073641,
+    "wof:lastmodified":1466436929,
     "wof:name":"American Oncology Resources",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-81.573516,30.201524,-81.573516,30.201524],
+  "bbox": [
+    -81.573516,
+    30.201524,
+    -81.573516,
+    30.201524
+],
   "geometry": {"coordinates":[-81.573516,30.201524],"type":"Point"}
 }

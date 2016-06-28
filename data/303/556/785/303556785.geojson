@@ -2,13 +2,14 @@
   "id": 303556785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.646189,28.756089,-81.646189,28.756089",
     "geom:latitude":28.756089,
     "geom:longitude":-81.646189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4931 Dora Dr",
     "sg:city":"Mt Dora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303556785,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1466440125,
     "wof:name":"Cafe Stella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.646189,28.756089,-81.646189,28.756089],
-  "geometry": {"coordinates":[-81.646189,28.756089],"type":"Point"}
+  "bbox": [
+    -81.646189,
+    28.756089,
+    -81.646189,
+    28.756089
+],
+  "geometry": {"coordinates":[-81.64618900000001,28.756089],"type":"Point"}
 }

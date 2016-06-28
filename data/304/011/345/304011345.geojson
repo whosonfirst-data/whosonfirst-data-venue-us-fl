@@ -2,13 +2,14 @@
   "id": 304011345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.330014,25.780444,-80.330014,25.780444",
     "geom:latitude":25.780444,
     "geom:longitude":-80.330014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8340 NW 10th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":304011345,
-    "wof:lastmodified":1449044050,
+    "wof:lastmodified":1466432003,
     "wof:name":"E & I Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-80.330014,25.780444,-80.330014,25.780444],
-  "geometry": {"coordinates":[-80.330014,25.780444],"type":"Point"}
+  "bbox": [
+    -80.330014,
+    25.780444,
+    -80.330014,
+    25.780444
+],
+  "geometry": {"coordinates":[-80.33001400000001,25.780444],"type":"Point"}
 }

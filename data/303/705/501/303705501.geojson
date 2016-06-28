@@ -2,13 +2,14 @@
   "id": 303705501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.03101,29.166341,-81.03101,29.166341",
     "geom:latitude":29.166341,
     "geom:longitude":-81.03101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 Gary Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303705501,
-    "wof:lastmodified":1449000583,
+    "wof:lastmodified":1466442720,
     "wof:name":"Scott Click",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-81.03101,29.166341,-81.03101,29.166341],
-  "geometry": {"coordinates":[-81.03101,29.166341],"type":"Point"}
+  "bbox": [
+    -81.03101,
+    29.166341,
+    -81.03101,
+    29.166341
+],
+  "geometry": {"coordinates":[-81.03100999999999,29.166341],"type":"Point"}
 }

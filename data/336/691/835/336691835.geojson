@@ -2,13 +2,14 @@
   "id": 336691835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.323405,28.600775,-81.323405,28.600775",
     "geom:latitude":28.600775,
     "geom:longitude":-81.323405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2377 Aloma Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336691835,
-    "wof:lastmodified":1448997014,
+    "wof:lastmodified":1466436574,
     "wof:name":"Aloma Liquor",
     "wof:parent_id":85889923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.323405,28.600775,-81.323405,28.600775],
-  "geometry": {"coordinates":[-81.323405,28.600775],"type":"Point"}
+  "bbox": [
+    -81.323405,
+    28.600775,
+    -81.323405,
+    28.600775
+],
+  "geometry": {"coordinates":[-81.32340499999999,28.600775],"type":"Point"}
 }

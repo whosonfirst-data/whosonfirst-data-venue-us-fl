@@ -2,13 +2,14 @@
   "id": 303497565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.588108,28.077105,-82.588108,28.077105",
     "geom:latitude":28.077105,
     "geom:longitude":-82.588108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8910 Hixon Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303497565,
-    "wof:lastmodified":1449000532,
+    "wof:lastmodified":1466439112,
     "wof:name":"Glisson's Livestock Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.588108,28.077105,-82.588108,28.077105],
-  "geometry": {"coordinates":[-82.588108,28.077105],"type":"Point"}
+  "bbox": [
+    -82.588108,
+    28.077105,
+    -82.588108,
+    28.077105
+],
+  "geometry": {"coordinates":[-82.58810800000001,28.077105],"type":"Point"}
 }

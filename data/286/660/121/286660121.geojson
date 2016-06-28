@@ -2,13 +2,14 @@
   "id": 286660121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.192578,28.584637,-81.192578,28.584637",
     "geom:latitude":28.584637,
     "geom:longitude":-81.192578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Discovery Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286660121,
-    "wof:lastmodified":1449017789,
+    "wof:lastmodified":1466436624,
     "wof:name":"Alcon",
     "wof:parent_id":85889401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-81.192578,28.584637,-81.192578,28.584637],
+  "bbox": [
+    -81.192578,
+    28.584637,
+    -81.192578,
+    28.584637
+],
   "geometry": {"coordinates":[-81.192578,28.584637],"type":"Point"}
 }

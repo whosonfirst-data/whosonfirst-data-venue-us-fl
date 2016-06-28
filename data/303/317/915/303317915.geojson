@@ -2,13 +2,14 @@
   "id": 303317915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692253,28.245249,-80.692253,28.245249",
     "geom:latitude":28.245249,
     "geom:longitude":-80.692253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Coral Springs St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303317915,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466436017,
     "wof:name":"B & B Test Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.692253,28.245249,-80.692253,28.245249],
-  "geometry": {"coordinates":[-80.692253,28.245249],"type":"Point"}
+  "bbox": [
+    -80.692253,
+    28.245249,
+    -80.692253,
+    28.245249
+],
+  "geometry": {"coordinates":[-80.69225299999999,28.245249],"type":"Point"}
 }

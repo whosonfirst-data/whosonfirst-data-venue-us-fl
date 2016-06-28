@@ -2,13 +2,14 @@
   "id": 320028431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.317958,27.937613,-82.317958,27.937613",
     "geom:latitude":27.937613,
     "geom:longitude":-82.317958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 W Brandon Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320028431,
-    "wof:lastmodified":1449013281,
+    "wof:lastmodified":1466433883,
     "wof:name":"Dental Health Svc",
     "wof:parent_id":85888597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.317958,27.937613,-82.317958,27.937613],
+  "bbox": [
+    -82.317958,
+    27.937613,
+    -82.317958,
+    27.937613
+],
   "geometry": {"coordinates":[-82.317958,27.937613],"type":"Point"}
 }

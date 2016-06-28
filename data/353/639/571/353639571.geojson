@@ -2,13 +2,14 @@
   "id": 353639571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372526,29.99085,-81.372526,29.99085",
     "geom:latitude":29.99085,
     "geom:longitude":-81.372526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6470 US Hwy 1 N",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353639571,
-    "wof:lastmodified":1449020777,
+    "wof:lastmodified":1466438427,
     "wof:name":"English Village Motel",
     "wof:parent_id":85889517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.372526,29.99085,-81.372526,29.99085],
-  "geometry": {"coordinates":[-81.372526,29.99085],"type":"Point"}
+  "bbox": [
+    -81.372526,
+    29.99085,
+    -81.372526,
+    29.99085
+],
+  "geometry": {"coordinates":[-81.37252599999999,29.99085],"type":"Point"}
 }

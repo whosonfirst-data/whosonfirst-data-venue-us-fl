@@ -2,13 +2,14 @@
   "id": 303948231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165247,26.534759,-80.165247,26.534759",
     "geom:latitude":26.534759,
     "geom:longitude":-80.165247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9624 Crescent View Dr N",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303948231,
-    "wof:lastmodified":1449000059,
+    "wof:lastmodified":1466446850,
     "wof:name":"P C Gotham",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.165247,26.534759,-80.165247,26.534759],
-  "geometry": {"coordinates":[-80.165247,26.534759],"type":"Point"}
+  "bbox": [
+    -80.165247,
+    26.534759,
+    -80.165247,
+    26.534759
+],
+  "geometry": {"coordinates":[-80.16524699999999,26.534759],"type":"Point"}
 }

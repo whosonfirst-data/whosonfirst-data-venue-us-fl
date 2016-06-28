@@ -2,13 +2,14 @@
   "id": 336806319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.768617,26.218916,-81.768617,26.218916",
     "geom:latitude":26.218916,
     "geom:longitude":-81.768617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6275 Naples Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336806319,
-    "wof:lastmodified":1448996917,
+    "wof:lastmodified":1466438556,
     "wof:name":"Costco Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.768617,26.218916,-81.768617,26.218916],
-  "geometry": {"coordinates":[-81.768617,26.218916],"type":"Point"}
+  "bbox": [
+    -81.768617,
+    26.218916,
+    -81.768617,
+    26.218916
+],
+  "geometry": {"coordinates":[-81.76861700000001,26.218916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303251033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.532091,30.195952,-81.532091,30.195952",
     "geom:latitude":30.195952,
     "geom:longitude":-81.532091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9104 Woodjack Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303251033,
-    "wof:lastmodified":1448998164,
+    "wof:lastmodified":1466434864,
     "wof:name":"North Florida Recycling Inc",
     "wof:parent_id":85888927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-81.532091,30.195952,-81.532091,30.195952],
-  "geometry": {"coordinates":[-81.532091,30.195952],"type":"Point"}
+  "bbox": [
+    -81.532091,
+    30.195952,
+    -81.532091,
+    30.195952
+],
+  "geometry": {"coordinates":[-81.53209099999999,30.195952],"type":"Point"}
 }

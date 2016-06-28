@@ -2,13 +2,14 @@
   "id": 403846141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.100265,26.19051,-80.100265,26.19051",
     "geom:latitude":26.19051,
     "geom:longitude":-80.100265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4419 Trade Winds Ave E",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403846141,
-    "wof:lastmodified":1449055672,
+    "wof:lastmodified":1466441893,
     "wof:name":"National Save A Sea Turtle",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.100265,26.19051,-80.100265,26.19051],
-  "geometry": {"coordinates":[-80.100265,26.19051],"type":"Point"}
+  "bbox": [
+    -80.100265,
+    26.19051,
+    -80.100265,
+    26.19051
+],
+  "geometry": {"coordinates":[-80.10026499999999,26.19051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270065839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.235768,28.532645,-81.235768,28.532645",
     "geom:latitude":28.532645,
     "geom:longitude":-81.235768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10303 Lecon Branch Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270065839,
-    "wof:lastmodified":1449011107,
+    "wof:lastmodified":1466430578,
     "wof:name":"Central Florida Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.235768,28.532645,-81.235768,28.532645],
-  "geometry": {"coordinates":[-81.235768,28.532645],"type":"Point"}
+  "bbox": [
+    -81.235768,
+    28.532645,
+    -81.235768,
+    28.532645
+],
+  "geometry": {"coordinates":[-81.23576799999999,28.532645],"type":"Point"}
 }

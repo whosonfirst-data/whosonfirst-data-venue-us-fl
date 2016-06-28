@@ -2,13 +2,14 @@
   "id": 270105703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223825,26.355243,-80.223825,26.355243",
     "geom:latitude":26.355243,
     "geom:longitude":-80.223825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21726 Little Bear Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270105703,
-    "wof:lastmodified":1449009573,
+    "wof:lastmodified":1466431249,
     "wof:name":"All Carpet Mill",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.223825,26.355243,-80.223825,26.355243],
-  "geometry": {"coordinates":[-80.223825,26.355243],"type":"Point"}
+  "bbox": [
+    -80.223825,
+    26.355243,
+    -80.223825,
+    26.355243
+],
+  "geometry": {"coordinates":[-80.22382500000001,26.355243],"type":"Point"}
 }

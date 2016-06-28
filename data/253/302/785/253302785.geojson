@@ -2,13 +2,14 @@
   "id": 253302785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.700645,28.373422,-80.700645,28.373422",
     "geom:latitude":28.373422,
     "geom:longitude":-80.700645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 N Courtenay Pkwy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253302785,
-    "wof:lastmodified":1449063819,
+    "wof:lastmodified":1466432256,
     "wof:name":"Neovision Laser Ctr",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.700645,28.373422,-80.700645,28.373422],
-  "geometry": {"coordinates":[-80.700645,28.373422],"type":"Point"}
+  "bbox": [
+    -80.700645,
+    28.373422,
+    -80.700645,
+    28.373422
+],
+  "geometry": {"coordinates":[-80.70064499999999,28.373422],"type":"Point"}
 }

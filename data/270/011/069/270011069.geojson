@@ -2,13 +2,14 @@
   "id": 270011069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.412577,27.970378,-82.412577,27.970378",
     "geom:latitude":27.970378,
     "geom:longitude":-82.412577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 E 21st Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270011069,
-    "wof:lastmodified":1449010621,
+    "wof:lastmodified":1466429641,
     "wof:name":"A B Express",
     "wof:parent_id":85889773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-82.412577,27.970378,-82.412577,27.970378],
+  "bbox": [
+    -82.412577,
+    27.970378,
+    -82.412577,
+    27.970378
+],
   "geometry": {"coordinates":[-82.412577,27.970378],"type":"Point"}
 }

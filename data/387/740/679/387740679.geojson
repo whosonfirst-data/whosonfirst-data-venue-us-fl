@@ -2,13 +2,14 @@
   "id": 387740679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.539173,28.643002,-81.539173,28.643002",
     "geom:latitude":28.643002,
     "geom:longitude":-81.539173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 Ocoee Apopka Rd",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387740679,
-    "wof:lastmodified":1449057823,
+    "wof:lastmodified":1466448572,
     "wof:name":"Car Openers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.539173,28.643002,-81.539173,28.643002],
-  "geometry": {"coordinates":[-81.539173,28.643002],"type":"Point"}
+  "bbox": [
+    -81.539173,
+    28.643002,
+    -81.539173,
+    28.643002
+],
+  "geometry": {"coordinates":[-81.53917300000001,28.643002],"type":"Point"}
 }

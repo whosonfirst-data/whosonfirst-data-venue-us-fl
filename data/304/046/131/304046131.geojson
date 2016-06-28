@@ -2,13 +2,14 @@
   "id": 304046131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.150923,26.111165,-80.150923,26.111165",
     "geom:latitude":26.111165,
     "geom:longitude":-80.150923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 SW 8th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304046131,
-    "wof:lastmodified":1449043928,
+    "wof:lastmodified":1466432619,
     "wof:name":"Gaddis Asset Management Enterp",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.150923,26.111165,-80.150923,26.111165],
-  "geometry": {"coordinates":[-80.150923,26.111165],"type":"Point"}
+  "bbox": [
+    -80.150923,
+    26.111165,
+    -80.150923,
+    26.111165
+],
+  "geometry": {"coordinates":[-80.15092300000001,26.111165],"type":"Point"}
 }

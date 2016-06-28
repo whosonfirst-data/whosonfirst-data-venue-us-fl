@@ -2,13 +2,14 @@
   "id": 353610029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.871558,30.212965,-85.871558,30.212965",
     "geom:latitude":30.212965,
     "geom:longitude":-85.871558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15817 Front Beach Rd",
     "sg:city":"Panama City Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353610029,
-    "wof:lastmodified":1449020734,
+    "wof:lastmodified":1466437973,
     "wof:name":"Edwards Electric Svc Job",
     "wof:parent_id":85839645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.871558,30.212965,-85.871558,30.212965],
-  "geometry": {"coordinates":[-85.871558,30.212965],"type":"Point"}
+  "bbox": [
+    -85.871558,
+    30.212965,
+    -85.871558,
+    30.212965
+],
+  "geometry": {"coordinates":[-85.87155799999999,30.212965],"type":"Point"}
 }

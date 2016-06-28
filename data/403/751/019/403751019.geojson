@@ -2,13 +2,14 @@
   "id": 403751019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.72253,28.238827,-82.72253,28.238827",
     "geom:latitude":28.238827,
     "geom:longitude":-82.72253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5534 Gulf Dr",
     "sg:city":"New Port Richey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403751019,
-    "wof:lastmodified":1449054704,
+    "wof:lastmodified":1466440339,
     "wof:name":"Amaravadi & Amaravadi MD PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-82.72253,28.238827,-82.72253,28.238827],
-  "geometry": {"coordinates":[-82.72253,28.238827],"type":"Point"}
+  "bbox": [
+    -82.72253,
+    28.238827,
+    -82.72253,
+    28.238827
+],
+  "geometry": {"coordinates":[-82.72253000000001,28.238827],"type":"Point"}
 }

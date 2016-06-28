@@ -2,13 +2,14 @@
   "id": 203159471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.274926,30.526721,-87.274926,30.526721",
     "geom:latitude":30.526721,
     "geom:longitude":-87.274926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9006 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203159471,
-    "wof:lastmodified":1449025173,
+    "wof:lastmodified":1466446182,
     "wof:name":"Fire Mountain",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.274926,30.526721,-87.274926,30.526721],
-  "geometry": {"coordinates":[-87.274926,30.526721],"type":"Point"}
+  "bbox": [
+    -87.274926,
+    30.526721,
+    -87.274926,
+    30.526721
+],
+  "geometry": {"coordinates":[-87.27492599999999,30.526721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403855873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.683246,27.719064,-82.683246,27.719064",
     "geom:latitude":27.719064,
     "geom:longitude":-82.683246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 54th Ave S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403855873,
-    "wof:lastmodified":1449055593,
+    "wof:lastmodified":1466442048,
     "wof:name":"St Petersburg Wastewater Trmnt",
     "wof:parent_id":85880549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-82.683246,27.719064,-82.683246,27.719064],
+  "bbox": [
+    -82.683246,
+    27.719064,
+    -82.683246,
+    27.719064
+],
   "geometry": {"coordinates":[-82.683246,27.719064],"type":"Point"}
 }

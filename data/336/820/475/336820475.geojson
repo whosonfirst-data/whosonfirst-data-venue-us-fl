@@ -2,13 +2,14 @@
   "id": 336820475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.67136,27.80179,-82.67136,27.80179",
     "geom:latitude":27.80179,
     "geom:longitude":-82.67136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 28th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336820475,
-    "wof:lastmodified":1448997514,
+    "wof:lastmodified":1466438800,
     "wof:name":"Infrastructure Repair",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-82.67136,27.80179,-82.67136,27.80179],
-  "geometry": {"coordinates":[-82.67136,27.80179],"type":"Point"}
+  "bbox": [
+    -82.67136,
+    27.80179,
+    -82.67136,
+    27.80179
+],
+  "geometry": {"coordinates":[-82.67136000000001,27.80179],"type":"Point"}
 }

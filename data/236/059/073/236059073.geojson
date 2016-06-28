@@ -2,13 +2,14 @@
   "id": 236059073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.245461,28.626342,-81.245461,28.626342",
     "geom:latitude":28.626342,
     "geom:longitude":-81.245461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Kananwood Ct",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236059073,
-    "wof:lastmodified":1449002368,
+    "wof:lastmodified":1466429213,
     "wof:name":"Sather Construction Inc",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.245461,28.626342,-81.245461,28.626342],
-  "geometry": {"coordinates":[-81.245461,28.626342],"type":"Point"}
+  "bbox": [
+    -81.245461,
+    28.626342,
+    -81.245461,
+    28.626342
+],
+  "geometry": {"coordinates":[-81.24546100000001,28.626342],"type":"Point"}
 }

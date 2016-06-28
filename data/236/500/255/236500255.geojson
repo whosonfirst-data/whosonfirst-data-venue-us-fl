@@ -2,13 +2,14 @@
   "id": 236500255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.534544,30.163266,-81.534544,30.163266",
     "geom:latitude":30.163266,
     "geom:longitude":-81.534544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11328 Bus Park Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236500255,
-    "wof:lastmodified":1449002298,
+    "wof:lastmodified":1466435463,
     "wof:name":"Creative Environs",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.534544,30.163266,-81.534544,30.163266],
+  "bbox": [
+    -81.534544,
+    30.163266,
+    -81.534544,
+    30.163266
+],
   "geometry": {"coordinates":[-81.534544,30.163266],"type":"Point"}
 }

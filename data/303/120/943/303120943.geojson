@@ -2,13 +2,14 @@
   "id": 303120943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.149336,25.983298,-80.149336,25.983298",
     "geom:latitude":25.983298,
     "geom:longitude":-80.149336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 SW 1st Ave",
     "sg:city":"Hallandale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303120943,
-    "wof:lastmodified":1449000209,
+    "wof:lastmodified":1466432601,
     "wof:name":"Inyx Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exporting"
     ]
 },
-  "bbox": [-80.149336,25.983298,-80.149336,25.983298],
-  "geometry": {"coordinates":[-80.149336,25.983298],"type":"Point"}
+  "bbox": [
+    -80.149336,
+    25.983298,
+    -80.149336,
+    25.983298
+],
+  "geometry": {"coordinates":[-80.14933600000001,25.983298],"type":"Point"}
 }

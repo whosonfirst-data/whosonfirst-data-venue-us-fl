@@ -2,13 +2,14 @@
   "id": 287297385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156709,26.110719,-80.156709,26.110719",
     "geom:latitude":26.110719,
     "geom:longitude":-80.156709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Coconut Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287297385,
-    "wof:lastmodified":1449001248,
+    "wof:lastmodified":1466435042,
     "wof:name":"Vessel Safety Management",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-80.156709,26.110719,-80.156709,26.110719],
-  "geometry": {"coordinates":[-80.156709,26.110719],"type":"Point"}
+  "bbox": [
+    -80.156709,
+    26.110719,
+    -80.156709,
+    26.110719
+],
+  "geometry": {"coordinates":[-80.15670900000001,26.110719],"type":"Point"}
 }

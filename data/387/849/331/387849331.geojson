@@ -2,13 +2,14 @@
   "id": 387849331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.424911,29.689542,-82.424911,29.689542",
     "geom:latitude":29.689542,
     "geom:longitude":-82.424911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7511 NW 40 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387849331,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1466449313,
     "wof:name":"Family Practice Assoc",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.424911,29.689542,-82.424911,29.689542],
-  "geometry": {"coordinates":[-82.424911,29.689542],"type":"Point"}
+  "bbox": [
+    -82.424911,
+    29.689542,
+    -82.424911,
+    29.689542
+],
+  "geometry": {"coordinates":[-82.42491099999999,29.689542],"type":"Point"}
 }

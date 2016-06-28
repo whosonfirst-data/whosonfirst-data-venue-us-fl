@@ -2,13 +2,14 @@
   "id": 370529891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.221039,30.411956,-87.221039,30.411956",
     "geom:latitude":30.411956,
     "geom:longitude":-87.221039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 W Garden St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370529891,
-    "wof:lastmodified":1449030573,
+    "wof:lastmodified":1466442295,
     "wof:name":"Lawyer Referral Svc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.221039,30.411956,-87.221039,30.411956],
+  "bbox": [
+    -87.221039,
+    30.411956,
+    -87.221039,
+    30.411956
+],
   "geometry": {"coordinates":[-87.221039,30.411956],"type":"Point"}
 }

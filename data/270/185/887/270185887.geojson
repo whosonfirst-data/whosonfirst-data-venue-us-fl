@@ -2,13 +2,14 @@
   "id": 270185887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283475,28.248684,-81.283475,28.248684",
     "geom:latitude":28.248684,
     "geom:longitude":-81.283475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 New York Ave",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270185887,
-    "wof:lastmodified":1449009037,
+    "wof:lastmodified":1466432646,
     "wof:name":"Hunter Arms",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.283475,28.248684,-81.283475,28.248684],
+  "bbox": [
+    -81.283475,
+    28.248684,
+    -81.283475,
+    28.248684
+],
   "geometry": {"coordinates":[-81.283475,28.248684],"type":"Point"}
 }

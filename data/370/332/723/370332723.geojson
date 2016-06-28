@@ -2,13 +2,14 @@
   "id": 370332723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.747553,26.138606,-81.747553,26.138606",
     "geom:latitude":26.138606,
     "geom:longitude":-81.747553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Davis Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370332723,
-    "wof:lastmodified":1449030949,
+    "wof:lastmodified":1466439256,
     "wof:name":"Cheeburger Cheeburger",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.747553,26.138606,-81.747553,26.138606],
+  "bbox": [
+    -81.747553,
+    26.138606,
+    -81.747553,
+    26.138606
+],
   "geometry": {"coordinates":[-81.747553,26.138606],"type":"Point"}
 }

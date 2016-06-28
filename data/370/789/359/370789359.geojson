@@ -2,13 +2,14 @@
   "id": 370789359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193548,26.62183,-80.193548,26.62183",
     "geom:latitude":26.62183,
     "geom:longitude":-80.193548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3760 Moss Pointe Cir",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370789359,
-    "wof:lastmodified":1449030621,
+    "wof:lastmodified":1466446266,
     "wof:name":"Dennis Gershwin Dr",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.193548,26.62183,-80.193548,26.62183],
-  "geometry": {"coordinates":[-80.193548,26.62183],"type":"Point"}
+  "bbox": [
+    -80.193548,
+    26.62183,
+    -80.193548,
+    26.62183
+],
+  "geometry": {"coordinates":[-80.19354800000001,26.62183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203221639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284019,25.706073,-80.284019,25.706073",
     "geom:latitude":25.706073,
     "geom:longitude":-80.284019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 San Remo Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203221639,
-    "wof:lastmodified":1449025749,
+    "wof:lastmodified":1466429168,
     "wof:name":"Alvaro Lacayo MD",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.284019,25.706073,-80.284019,25.706073],
+  "bbox": [
+    -80.284019,
+    25.706073,
+    -80.284019,
+    25.706073
+],
   "geometry": {"coordinates":[-80.284019,25.706073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336707047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.530915,30.16646,-81.530915,30.16646",
     "geom:latitude":30.16646,
     "geom:longitude":-81.530915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6966 Bus Park Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336707047,
-    "wof:lastmodified":1448997866,
+    "wof:lastmodified":1466436830,
     "wof:name":"Southeastern Supply Company",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-81.530915,30.16646,-81.530915,30.16646],
-  "geometry": {"coordinates":[-81.530915,30.16646],"type":"Point"}
+  "bbox": [
+    -81.530915,
+    30.16646,
+    -81.530915,
+    30.16646
+],
+  "geometry": {"coordinates":[-81.53091499999999,30.16646],"type":"Point"}
 }

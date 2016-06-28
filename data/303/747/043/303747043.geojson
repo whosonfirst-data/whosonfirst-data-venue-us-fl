@@ -2,13 +2,14 @@
   "id": 303747043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148102,25.897766,-80.148102,25.897766",
     "geom:latitude":25.897766,
     "geom:longitude":-80.148102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13200 Keystone Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303747043,
-    "wof:lastmodified":1448998564,
+    "wof:lastmodified":1466443419,
     "wof:name":"Golden Tile Inc",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.148102,25.897766,-80.148102,25.897766],
-  "geometry": {"coordinates":[-80.148102,25.897766],"type":"Point"}
+  "bbox": [
+    -80.148102,
+    25.897766,
+    -80.148102,
+    25.897766
+],
+  "geometry": {"coordinates":[-80.14810199999999,25.897766],"type":"Point"}
 }

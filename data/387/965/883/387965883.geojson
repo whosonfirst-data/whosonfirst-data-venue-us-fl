@@ -2,13 +2,14 @@
   "id": 387965883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.398873,30.270878,-81.398873,30.270878",
     "geom:latitude":30.270878,
     "geom:longitude":-81.398873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Seabreeze Ave",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387965883,
-    "wof:lastmodified":1449058769,
+    "wof:lastmodified":1466449953,
     "wof:name":"Communication Server Services",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-81.398873,30.270878,-81.398873,30.270878],
-  "geometry": {"coordinates":[-81.398873,30.270878],"type":"Point"}
+  "bbox": [
+    -81.398873,
+    30.270878,
+    -81.398873,
+    30.270878
+],
+  "geometry": {"coordinates":[-81.39887299999999,30.270878],"type":"Point"}
 }

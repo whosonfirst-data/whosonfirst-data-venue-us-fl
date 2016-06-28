@@ -2,13 +2,14 @@
   "id": 219329509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.327099,30.467415,-84.327099,30.467415",
     "geom:latitude":30.467415,
     "geom:longitude":-84.327099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Ivan Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219329509,
-    "wof:lastmodified":1449071383,
+    "wof:lastmodified":1466429176,
     "wof:name":"Important Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.327099,30.467415,-84.327099,30.467415],
+  "bbox": [
+    -84.327099,
+    30.467415,
+    -84.327099,
+    30.467415
+],
   "geometry": {"coordinates":[-84.327099,30.467415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387224267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.684633,30.313052,-81.684633,30.313052",
     "geom:latitude":30.313052,
     "geom:longitude":-81.684633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387224267,
-    "wof:lastmodified":1449058892,
+    "wof:lastmodified":1466442170,
     "wof:name":"Riverside Counseling Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-81.684633,30.313052,-81.684633,30.313052],
-  "geometry": {"coordinates":[-81.684633,30.313052],"type":"Point"}
+  "bbox": [
+    -81.684633,
+    30.313052,
+    -81.684633,
+    30.313052
+],
+  "geometry": {"coordinates":[-81.68463300000001,30.313052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219361879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.421405,28.383309,-81.421405,28.383309",
     "geom:latitude":28.383309,
     "geom:longitude":-81.421405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12620 Crayford Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219361879,
-    "wof:lastmodified":1449072970,
+    "wof:lastmodified":1466429600,
     "wof:name":"Villanueva Vlanderick",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.421405,28.383309,-81.421405,28.383309],
-  "geometry": {"coordinates":[-81.421405,28.383309],"type":"Point"}
+  "bbox": [
+    -81.421405,
+    28.383309,
+    -81.421405,
+    28.383309
+],
+  "geometry": {"coordinates":[-81.42140499999999,28.383309],"type":"Point"}
 }

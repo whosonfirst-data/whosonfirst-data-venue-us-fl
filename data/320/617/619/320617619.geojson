@@ -2,13 +2,14 @@
   "id": 320617619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.64485,30.278814,-81.64485,30.278814",
     "geom:latitude":30.278814,
     "geom:longitude":-81.64485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Wright Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320617619,
-    "wof:lastmodified":1449011389,
+    "wof:lastmodified":1466444097,
     "wof:name":"American Waterproofing Of N Fl",
     "wof:parent_id":85870711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.64485,30.278814,-81.64485,30.278814],
-  "geometry": {"coordinates":[-81.64485,30.278814],"type":"Point"}
+  "bbox": [
+    -81.64485,
+    30.278814,
+    -81.64485,
+    30.278814
+],
+  "geometry": {"coordinates":[-81.64485000000001,30.278814],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286472267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.532871,30.323425,-81.532871,30.323425",
     "geom:latitude":30.323425,
     "geom:longitude":-81.532871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10258 Atlantic Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286472267,
-    "wof:lastmodified":1449015410,
+    "wof:lastmodified":1466433290,
     "wof:name":"Atlantic Boulevard Baptist Chr",
     "wof:parent_id":85870695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.532871,30.323425,-81.532871,30.323425],
+  "bbox": [
+    -81.532871,
+    30.323425,
+    -81.532871,
+    30.323425
+],
   "geometry": {"coordinates":[-81.532871,30.323425],"type":"Point"}
 }

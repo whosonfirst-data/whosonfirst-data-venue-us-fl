@@ -2,13 +2,14 @@
   "id": 270418731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.765905,28.019555,-82.765905,28.019555",
     "geom:latitude":28.019555,
     "geom:longitude":-82.765905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Main St",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270418731,
-    "wof:lastmodified":1449010526,
+    "wof:lastmodified":1466436613,
     "wof:name":"Bay Area Appliance",
     "wof:parent_id":85888757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-82.765905,28.019555,-82.765905,28.019555],
+  "bbox": [
+    -82.765905,
+    28.019555,
+    -82.765905,
+    28.019555
+],
   "geometry": {"coordinates":[-82.765905,28.019555],"type":"Point"}
 }

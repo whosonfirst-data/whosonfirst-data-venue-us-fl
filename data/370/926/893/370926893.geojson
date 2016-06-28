@@ -2,13 +2,14 @@
   "id": 370926893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.274189,28.81339,-81.274189,28.81339",
     "geom:latitude":28.81339,
     "geom:longitude":-81.274189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Maple Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370926893,
-    "wof:lastmodified":1449030277,
+    "wof:lastmodified":1466447725,
     "wof:name":"CMC Automotive",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.274189,28.81339,-81.274189,28.81339],
-  "geometry": {"coordinates":[-81.274189,28.81339],"type":"Point"}
+  "bbox": [
+    -81.274189,
+    28.81339,
+    -81.274189,
+    28.81339
+],
+  "geometry": {"coordinates":[-81.27418900000001,28.81339],"type":"Point"}
 }

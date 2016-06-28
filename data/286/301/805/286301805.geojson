@@ -2,13 +2,14 @@
   "id": 286301805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.293656,28.623745,-81.293656,28.623745",
     "geom:latitude":28.623745,
     "geom:longitude":-81.293656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 Howell Branch Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286301805,
-    "wof:lastmodified":1449015923,
+    "wof:lastmodified":1466430347,
     "wof:name":"Winter Park Farm",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-81.293656,28.623745,-81.293656,28.623745],
+  "bbox": [
+    -81.293656,
+    28.623745,
+    -81.293656,
+    28.623745
+],
   "geometry": {"coordinates":[-81.293656,28.623745],"type":"Point"}
 }

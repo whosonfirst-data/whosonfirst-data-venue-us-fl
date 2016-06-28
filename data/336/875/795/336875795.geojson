@@ -2,13 +2,14 @@
   "id": 336875795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75338,30.241523,-81.75338,30.241523",
     "geom:latitude":30.241523,
     "geom:longitude":-81.75338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5834 W Norde Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336875795,
-    "wof:lastmodified":1448997738,
+    "wof:lastmodified":1466439796,
     "wof:name":"Kitchens Cabinets & More Inc",
     "wof:parent_id":85809975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-81.75338,30.241523,-81.75338,30.241523],
-  "geometry": {"coordinates":[-81.75338,30.241523],"type":"Point"}
+  "bbox": [
+    -81.75338,
+    30.241523,
+    -81.75338,
+    30.241523
+],
+  "geometry": {"coordinates":[-81.75338000000001,30.241523],"type":"Point"}
 }

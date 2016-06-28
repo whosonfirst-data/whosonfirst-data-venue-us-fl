@@ -2,13 +2,14 @@
   "id": 219377397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.306887,26.164114,-80.306887,26.164114",
     "geom:latitude":26.164114,
     "geom:longitude":-80.306887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 NW 30th Pl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219377397,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466429836,
     "wof:name":"First Class Private Car/Limo",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-80.306887,26.164114,-80.306887,26.164114],
+  "bbox": [
+    -80.306887,
+    26.164114,
+    -80.306887,
+    26.164114
+],
   "geometry": {"coordinates":[-80.306887,26.164114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320845481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153693,26.010054,-80.153693,26.010054",
     "geom:latitude":26.010054,
     "geom:longitude":-80.153693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2243 Van Buren St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320845481,
-    "wof:lastmodified":1449011868,
+    "wof:lastmodified":1466447303,
     "wof:name":"American Computing Solutions",
     "wof:parent_id":85878183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.153693,26.010054,-80.153693,26.010054],
+  "bbox": [
+    -80.153693,
+    26.010054,
+    -80.153693,
+    26.010054
+],
   "geometry": {"coordinates":[-80.153693,26.010054],"type":"Point"}
 }

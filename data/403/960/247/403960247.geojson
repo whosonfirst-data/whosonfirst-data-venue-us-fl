@@ -2,13 +2,14 @@
   "id": 403960247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170294,25.874814,-80.170294,25.874814",
     "geom:latitude":25.874814,
     "geom:longitude":-80.170294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403960247,
-    "wof:lastmodified":1449055564,
+    "wof:lastmodified":1466443690,
     "wof:name":"Texaco",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "station"
     ]
 },
-  "bbox": [-80.170294,25.874814,-80.170294,25.874814],
+  "bbox": [
+    -80.170294,
+    25.874814,
+    -80.170294,
+    25.874814
+],
   "geometry": {"coordinates":[-80.170294,25.874814],"type":"Point"}
 }

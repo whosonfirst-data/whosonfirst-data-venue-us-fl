@@ -2,13 +2,14 @@
   "id": 370399925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.814245,30.056027,-81.814245,30.056027",
     "geom:latitude":30.056027,
     "geom:longitude":-81.814245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Cokesbury Ct",
     "sg:city":"Green Cove Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370399925,
-    "wof:lastmodified":1449029686,
+    "wof:lastmodified":1466440296,
     "wof:name":"American Standard Dealer",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.814245,30.056027,-81.814245,30.056027],
+  "bbox": [
+    -81.814245,
+    30.056027,
+    -81.814245,
+    30.056027
+],
   "geometry": {"coordinates":[-81.814245,30.056027],"type":"Point"}
 }

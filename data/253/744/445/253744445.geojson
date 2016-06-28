@@ -2,13 +2,14 @@
   "id": 253744445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.290433,29.009349,-81.290433,29.009349",
     "geom:latitude":29.009349,
     "geom:longitude":-81.290433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S Boston Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253744445,
-    "wof:lastmodified":1449063892,
+    "wof:lastmodified":1466439969,
     "wof:name":"Hot Dogs & Cool Cats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.290433,29.009349,-81.290433,29.009349],
-  "geometry": {"coordinates":[-81.290433,29.009349],"type":"Point"}
+  "bbox": [
+    -81.290433,
+    29.009349,
+    -81.290433,
+    29.009349
+],
+  "geometry": {"coordinates":[-81.29043299999999,29.009349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320492641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.223475,28.610311,-81.223475,28.610311",
     "geom:latitude":28.610311,
     "geom:longitude":-81.223475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 Riverbank Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320492641,
-    "wof:lastmodified":1449011260,
+    "wof:lastmodified":1466441899,
     "wof:name":"Holly Falls Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.223475,28.610311,-81.223475,28.610311],
-  "geometry": {"coordinates":[-81.223475,28.610311],"type":"Point"}
+  "bbox": [
+    -81.223475,
+    28.610311,
+    -81.223475,
+    28.610311
+],
+  "geometry": {"coordinates":[-81.22347499999999,28.610311],"type":"Point"}
 }

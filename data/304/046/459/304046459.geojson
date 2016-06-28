@@ -2,13 +2,14 @@
   "id": 304046459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73368,28.567194,-81.73368,28.567194",
     "geom:latitude":28.567194,
     "geom:longitude":-81.73368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Commons Ct",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304046459,
-    "wof:lastmodified":1449043927,
+    "wof:lastmodified":1466432626,
     "wof:name":"Triple Fish",
     "wof:parent_id":85888697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.73368,28.567194,-81.73368,28.567194],
-  "geometry": {"coordinates":[-81.73368,28.567194],"type":"Point"}
+  "bbox": [
+    -81.73368,
+    28.567194,
+    -81.73368,
+    28.567194
+],
+  "geometry": {"coordinates":[-81.73368000000001,28.567194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303327221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895485,28.048728,-81.895485,28.048728",
     "geom:latitude":28.048728,
     "geom:longitude":-81.895485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Fish Hatchery Rd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303327221,
-    "wof:lastmodified":1448998304,
+    "wof:lastmodified":1466436176,
     "wof:name":"J & S Mobile Diesel Svc",
     "wof:parent_id":85889093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-81.895485,28.048728,-81.895485,28.048728],
-  "geometry": {"coordinates":[-81.895485,28.048728],"type":"Point"}
+  "bbox": [
+    -81.895485,
+    28.048728,
+    -81.895485,
+    28.048728
+],
+  "geometry": {"coordinates":[-81.89548499999999,28.048728],"type":"Point"}
 }

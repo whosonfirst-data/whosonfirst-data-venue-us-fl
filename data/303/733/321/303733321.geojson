@@ -2,13 +2,14 @@
   "id": 303733321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.963602,26.554768,-81.963602,26.554768",
     "geom:latitude":26.554768,
     "geom:longitude":-81.963602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5252 Pocatella Ct",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303733321,
-    "wof:lastmodified":1448998458,
+    "wof:lastmodified":1466443187,
     "wof:name":"Jerry's Aluminum",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.963602,26.554768,-81.963602,26.554768],
-  "geometry": {"coordinates":[-81.963602,26.554768],"type":"Point"}
+  "bbox": [
+    -81.963602,
+    26.554768,
+    -81.963602,
+    26.554768
+],
+  "geometry": {"coordinates":[-81.96360199999999,26.554768],"type":"Point"}
 }

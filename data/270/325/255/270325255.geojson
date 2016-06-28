@@ -2,13 +2,14 @@
   "id": 270325255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.058731,24.721555,-81.058731,24.721555",
     "geom:latitude":24.721555,
     "geom:longitude":-81.058731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7849 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270325255,
-    "wof:lastmodified":1449009586,
+    "wof:lastmodified":1466435022,
     "wof:name":"Weekly Newspapers",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-81.058731,24.721555,-81.058731,24.721555],
-  "geometry": {"coordinates":[-81.058731,24.721555],"type":"Point"}
+  "bbox": [
+    -81.058731,
+    24.721555,
+    -81.058731,
+    24.721555
+],
+  "geometry": {"coordinates":[-81.05873099999999,24.721555],"type":"Point"}
 }

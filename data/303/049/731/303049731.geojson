@@ -2,13 +2,14 @@
   "id": 303049731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.308624,26.720115,-80.308624,26.720115",
     "geom:latitude":26.720115,
     "geom:longitude":-80.308624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16701 Trafalgar Dr W",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303049731,
-    "wof:lastmodified":1448999330,
+    "wof:lastmodified":1466431306,
     "wof:name":"Rodriguez",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.308624,26.720115,-80.308624,26.720115],
-  "geometry": {"coordinates":[-80.308624,26.720115],"type":"Point"}
+  "bbox": [
+    -80.308624,
+    26.720115,
+    -80.308624,
+    26.720115
+],
+  "geometry": {"coordinates":[-80.30862399999999,26.720115],"type":"Point"}
 }

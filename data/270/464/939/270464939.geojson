@@ -2,13 +2,14 @@
   "id": 270464939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.06154,29.204773,-81.06154,29.204773",
     "geom:latitude":29.204773,
     "geom:longitude":-81.06154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 National Health Care Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270464939,
-    "wof:lastmodified":1449009273,
+    "wof:lastmodified":1466437403,
     "wof:name":"HEALTH Center Of Daytona Beach",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-81.06154,29.204773,-81.06154,29.204773],
-  "geometry": {"coordinates":[-81.06154,29.204773],"type":"Point"}
+  "bbox": [
+    -81.06154,
+    29.204773,
+    -81.06154,
+    29.204773
+],
+  "geometry": {"coordinates":[-81.06153999999999,29.204773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202923025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405715,27.342203,-82.405715,27.342203",
     "geom:latitude":27.342203,
     "geom:longitude":-82.405715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sarasota Center Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202923025,
-    "wof:lastmodified":1449062559,
+    "wof:lastmodified":1466433907,
     "wof:name":"MPL Properties",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-82.405715,27.342203,-82.405715,27.342203],
+  "bbox": [
+    -82.405715,
+    27.342203,
+    -82.405715,
+    27.342203
+],
   "geometry": {"coordinates":[-82.405715,27.342203],"type":"Point"}
 }

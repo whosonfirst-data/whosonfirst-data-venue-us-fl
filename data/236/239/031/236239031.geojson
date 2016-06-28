@@ -2,13 +2,14 @@
   "id": 236239031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.456386,28.313111,-81.456386,28.313111",
     "geom:latitude":28.313111,
     "geom:longitude":-81.456386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 White Oak Cir",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236239031,
-    "wof:lastmodified":1449001913,
+    "wof:lastmodified":1466431791,
     "wof:name":"Peter Catterick",
     "wof:parent_id":85878519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.456386,28.313111,-81.456386,28.313111],
-  "geometry": {"coordinates":[-81.456386,28.313111],"type":"Point"}
+  "bbox": [
+    -81.456386,
+    28.313111,
+    -81.456386,
+    28.313111
+],
+  "geometry": {"coordinates":[-81.45638599999999,28.313111],"type":"Point"}
 }

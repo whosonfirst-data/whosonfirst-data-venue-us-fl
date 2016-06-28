@@ -2,13 +2,14 @@
   "id": 303038691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559198,27.386248,-82.559198,27.386248",
     "geom:latitude":27.386248,
     "geom:longitude":-82.559198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Bay Shore Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303038691,
-    "wof:lastmodified":1448999683,
+    "wof:lastmodified":1466431109,
     "wof:name":"John & Mable Ringling Art Libr",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "interest"
     ]
 },
-  "bbox": [-82.559198,27.386248,-82.559198,27.386248],
-  "geometry": {"coordinates":[-82.559198,27.386248],"type":"Point"}
+  "bbox": [
+    -82.559198,
+    27.386248,
+    -82.559198,
+    27.386248
+],
+  "geometry": {"coordinates":[-82.55919799999999,27.386248],"type":"Point"}
 }

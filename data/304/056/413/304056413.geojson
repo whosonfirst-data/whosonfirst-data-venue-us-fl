@@ -2,13 +2,14 @@
   "id": 304056413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.470737,28.453143,-81.470737,28.453143",
     "geom:latitude":28.453143,
     "geom:longitude":-81.470737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7623 International Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304056413,
-    "wof:lastmodified":1449043718,
+    "wof:lastmodified":1466432793,
     "wof:name":"Tourist Info",
     "wof:parent_id":85866879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [-81.470737,28.453143,-81.470737,28.453143],
+  "bbox": [
+    -81.470737,
+    28.453143,
+    -81.470737,
+    28.453143
+],
   "geometry": {"coordinates":[-81.470737,28.453143],"type":"Point"}
 }

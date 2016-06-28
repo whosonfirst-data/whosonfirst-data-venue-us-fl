@@ -2,13 +2,14 @@
   "id": 303980227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.796296,26.152049,-81.796296,26.152049",
     "geom:latitude":26.152049,
     "geom:longitude":-81.796296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303980227,
-    "wof:lastmodified":1448998283,
+    "wof:lastmodified":1466447276,
     "wof:name":"KDN Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-81.796296,26.152049,-81.796296,26.152049],
+  "bbox": [
+    -81.796296,
+    26.152049,
+    -81.796296,
+    26.152049
+],
   "geometry": {"coordinates":[-81.796296,26.152049],"type":"Point"}
 }

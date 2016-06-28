@@ -2,13 +2,14 @@
   "id": 202728619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191159,26.350303,-80.191159,26.350303",
     "geom:latitude":26.350303,
     "geom:longitude":-80.191159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21929 Pine Trce",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202728619,
-    "wof:lastmodified":1449060697,
+    "wof:lastmodified":1466431345,
     "wof:name":"ADIC",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.191159,26.350303,-80.191159,26.350303],
+  "bbox": [
+    -80.191159,
+    26.350303,
+    -80.191159,
+    26.350303
+],
   "geometry": {"coordinates":[-80.191159,26.350303],"type":"Point"}
 }

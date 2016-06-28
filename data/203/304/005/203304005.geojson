@@ -2,13 +2,14 @@
   "id": 203304005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082658,26.409086,-80.082658,26.409086",
     "geom:latitude":26.409086,
     "geom:longitude":-80.082658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6461 NW 2nd Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203304005,
-    "wof:lastmodified":1449026377,
+    "wof:lastmodified":1466430224,
     "wof:name":"Marietta Corp",
     "wof:parent_id":85859309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.082658,26.409086,-80.082658,26.409086],
+  "bbox": [
+    -80.082658,
+    26.409086,
+    -80.082658,
+    26.409086
+],
   "geometry": {"coordinates":[-80.082658,26.409086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202554293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.18615,28.253742,-82.18615,28.253742",
     "geom:latitude":28.253742,
     "geom:longitude":-82.18615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38135 Market Sq",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202554293,
-    "wof:lastmodified":1449060635,
+    "wof:lastmodified":1466429071,
     "wof:name":"Florida Med Clinic",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.18615,28.253742,-82.18615,28.253742],
+  "bbox": [
+    -82.18615,
+    28.253742,
+    -82.18615,
+    28.253742
+],
   "geometry": {"coordinates":[-82.18615,28.253742],"type":"Point"}
 }

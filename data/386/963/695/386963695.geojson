@@ -2,13 +2,14 @@
   "id": 386963695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401097,30.288302,-81.401097,30.288302",
     "geom:latitude":30.288302,
     "geom:longitude":-81.401097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1157 Beach Blvd",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386963695,
-    "wof:lastmodified":1449028660,
+    "wof:lastmodified":1466438922,
     "wof:name":"Tom Griffin CPA",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.401097,30.288302,-81.401097,30.288302],
-  "geometry": {"coordinates":[-81.401097,30.288302],"type":"Point"}
+  "bbox": [
+    -81.401097,
+    30.288302,
+    -81.401097,
+    30.288302
+],
+  "geometry": {"coordinates":[-81.40109699999999,30.288302],"type":"Point"}
 }

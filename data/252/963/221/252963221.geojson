@@ -2,13 +2,14 @@
   "id": 252963221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.730077,30.164519,-81.730077,30.164519",
     "geom:latitude":30.164519,
     "geom:longitude":-81.730077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Kingsley Ave",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252963221,
-    "wof:lastmodified":1449005520,
+    "wof:lastmodified":1466432114,
     "wof:name":"Family Orthopaedics",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.730077,30.164519,-81.730077,30.164519],
-  "geometry": {"coordinates":[-81.730077,30.164519],"type":"Point"}
+  "bbox": [
+    -81.730077,
+    30.164519,
+    -81.730077,
+    30.164519
+],
+  "geometry": {"coordinates":[-81.73007699999999,30.164519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320240759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.549115,27.359678,-82.549115,27.359678",
     "geom:latitude":27.359678,
     "geom:longitude":-82.549115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320240759,
-    "wof:lastmodified":1449011630,
+    "wof:lastmodified":1466437508,
     "wof:name":"Suncoast Oil Co",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-82.549115,27.359678,-82.549115,27.359678],
+  "bbox": [
+    -82.549115,
+    27.359678,
+    -82.549115,
+    27.359678
+],
   "geometry": {"coordinates":[-82.549115,27.359678],"type":"Point"}
 }

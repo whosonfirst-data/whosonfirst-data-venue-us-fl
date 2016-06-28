@@ -2,13 +2,14 @@
   "id": 370694661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.581635,30.227426,-81.581635,30.227426",
     "geom:latitude":30.227426,
     "geom:longitude":-81.581635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7933 Baymeadows Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370694661,
-    "wof:lastmodified":1449030060,
+    "wof:lastmodified":1466444817,
     "wof:name":"ING Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [-81.581635,30.227426,-81.581635,30.227426],
-  "geometry": {"coordinates":[-81.581635,30.227426],"type":"Point"}
+  "bbox": [
+    -81.581635,
+    30.227426,
+    -81.581635,
+    30.227426
+],
+  "geometry": {"coordinates":[-81.58163500000001,30.227426],"type":"Point"}
 }

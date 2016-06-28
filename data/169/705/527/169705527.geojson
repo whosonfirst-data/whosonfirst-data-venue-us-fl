@@ -2,13 +2,14 @@
   "id": 169705527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.742997,30.25119,-81.742997,30.25119",
     "geom:latitude":30.25119,
     "geom:longitude":-81.742997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Blanding Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169705527,
-    "wof:lastmodified":1449035990,
+    "wof:lastmodified":1466445586,
     "wof:name":"Blanding Boulevard Baptist Chr",
     "wof:parent_id":85809975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.742997,30.25119,-81.742997,30.25119],
+  "bbox": [
+    -81.742997,
+    30.25119,
+    -81.742997,
+    30.25119
+],
   "geometry": {"coordinates":[-81.742997,30.25119],"type":"Point"}
 }

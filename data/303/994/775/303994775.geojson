@@ -2,13 +2,14 @@
   "id": 303994775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.422925,25.63418,-80.422925,25.63418",
     "geom:latitude":25.63418,
     "geom:longitude":-80.422925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14378 SW 142nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303994775,
-    "wof:lastmodified":1448998237,
+    "wof:lastmodified":1466447186,
     "wof:name":"Fishing Rods Etc",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-80.422925,25.63418,-80.422925,25.63418],
-  "geometry": {"coordinates":[-80.422925,25.63418],"type":"Point"}
+  "bbox": [
+    -80.422925,
+    25.63418,
+    -80.422925,
+    25.63418
+],
+  "geometry": {"coordinates":[-80.42292500000001,25.63418],"type":"Point"}
 }

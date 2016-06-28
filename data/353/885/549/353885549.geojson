@@ -2,13 +2,14 @@
   "id": 353885549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.301961,27.838751,-82.301961,27.838751",
     "geom:latitude":27.838751,
     "geom:longitude":-82.301961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11249 McMullen Rd",
     "sg:city":"Riverview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353885549,
-    "wof:lastmodified":1449019614,
+    "wof:lastmodified":1466442246,
     "wof:name":"Camp Frontier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-82.301961,27.838751,-82.301961,27.838751],
-  "geometry": {"coordinates":[-82.301961,27.838751],"type":"Point"}
+  "bbox": [
+    -82.301961,
+    27.838751,
+    -82.301961,
+    27.838751
+],
+  "geometry": {"coordinates":[-82.30196100000001,27.838751],"type":"Point"}
 }

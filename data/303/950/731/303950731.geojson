@@ -2,13 +2,14 @@
   "id": 303950731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.425092,29.635866,-82.425092,29.635866",
     "geom:latitude":29.635866,
     "geom:longitude":-82.425092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 SW 77 Ter",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303950731,
-    "wof:lastmodified":1448999070,
+    "wof:lastmodified":1466446893,
     "wof:name":"Consult Pharmacists",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.425092,29.635866,-82.425092,29.635866],
-  "geometry": {"coordinates":[-82.425092,29.635866],"type":"Point"}
+  "bbox": [
+    -82.425092,
+    29.635866,
+    -82.425092,
+    29.635866
+],
+  "geometry": {"coordinates":[-82.42509200000001,29.635866],"type":"Point"}
 }

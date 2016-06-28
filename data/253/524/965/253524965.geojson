@@ -2,13 +2,14 @@
   "id": 253524965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.961247,28.048293,-81.961247,28.048293",
     "geom:latitude":28.048293,
     "geom:longitude":-81.961247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Martin L King Jr Ave",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253524965,
-    "wof:lastmodified":1449062797,
+    "wof:lastmodified":1466436050,
     "wof:name":"Franklin Benjamin MD",
     "wof:parent_id":85889099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.961247,28.048293,-81.961247,28.048293],
+  "bbox": [
+    -81.961247,
+    28.048293,
+    -81.961247,
+    28.048293
+],
   "geometry": {"coordinates":[-81.961247,28.048293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185746281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053621,26.496092,-80.053621,26.496092",
     "geom:latitude":26.496092,
     "geom:longitude":-80.053621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 N Ocean Blvd",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185746281,
-    "wof:lastmodified":1449006584,
+    "wof:lastmodified":1466428446,
     "wof:name":"Gulfstream Properties",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.053621,26.496092,-80.053621,26.496092],
-  "geometry": {"coordinates":[-80.053621,26.496092],"type":"Point"}
+  "bbox": [
+    -80.053621,
+    26.496092,
+    -80.053621,
+    26.496092
+],
+  "geometry": {"coordinates":[-80.05362100000001,26.496092],"type":"Point"}
 }

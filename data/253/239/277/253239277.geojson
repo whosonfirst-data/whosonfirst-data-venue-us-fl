@@ -2,13 +2,14 @@
   "id": 253239277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128593,26.317953,-80.128593,26.317953",
     "geom:latitude":26.317953,
     "geom:longitude":-80.128593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1868 W Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253239277,
-    "wof:lastmodified":1449063087,
+    "wof:lastmodified":1466431286,
     "wof:name":"All Nursing Services",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-80.128593,26.317953,-80.128593,26.317953],
+  "bbox": [
+    -80.128593,
+    26.317953,
+    -80.128593,
+    26.317953
+],
   "geometry": {"coordinates":[-80.128593,26.317953],"type":"Point"}
 }

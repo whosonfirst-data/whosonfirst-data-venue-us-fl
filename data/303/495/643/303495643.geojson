@@ -2,13 +2,14 @@
   "id": 303495643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.87011,30.542744,-83.87011,30.542744",
     "geom:latitude":30.542744,
     "geom:longitude":-83.87011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 S Jefferson St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303495643,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466439076,
     "wof:name":"Delta Land Surveyors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-83.87011,30.542744,-83.87011,30.542744],
+  "bbox": [
+    -83.87011,
+    30.542744,
+    -83.87011,
+    30.542744
+],
   "geometry": {"coordinates":[-83.87011,30.542744],"type":"Point"}
 }

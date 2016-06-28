@@ -2,13 +2,14 @@
   "id": 303589265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530735,27.418205,-82.530735,27.418205",
     "geom:latitude":27.418205,
     "geom:longitude":-82.530735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 Whitfield Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303589265,
-    "wof:lastmodified":1448999425,
+    "wof:lastmodified":1466440675,
     "wof:name":"Community Electric",
     "wof:parent_id":85889573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.530735,27.418205,-82.530735,27.418205],
-  "geometry": {"coordinates":[-82.530735,27.418205],"type":"Point"}
+  "bbox": [
+    -82.530735,
+    27.418205,
+    -82.530735,
+    27.418205
+],
+  "geometry": {"coordinates":[-82.53073500000001,27.418205],"type":"Point"}
 }

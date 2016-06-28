@@ -2,13 +2,14 @@
   "id": 286683155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.519303,30.356415,-81.519303,30.356415",
     "geom:latitude":30.356415,
     "geom:longitude":-81.519303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10949 McCormick Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286683155,
-    "wof:lastmodified":1449016265,
+    "wof:lastmodified":1466437037,
     "wof:name":"Atlantic Coast Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.519303,30.356415,-81.519303,30.356415],
-  "geometry": {"coordinates":[-81.519303,30.356415],"type":"Point"}
+  "bbox": [
+    -81.519303,
+    30.356415,
+    -81.519303,
+    30.356415
+],
+  "geometry": {"coordinates":[-81.51930299999999,30.356415],"type":"Point"}
 }

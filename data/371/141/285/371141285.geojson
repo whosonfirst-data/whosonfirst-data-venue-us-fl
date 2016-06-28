@@ -2,13 +2,14 @@
   "id": 371141285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.082657,29.282872,-81.082657,29.282872",
     "geom:latitude":29.282872,
     "geom:longitude":-81.082657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 N Nova Rd",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371141285,
-    "wof:lastmodified":1449049374,
+    "wof:lastmodified":1466439720,
     "wof:name":"White House/Black Market",
     "wof:parent_id":85889433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-81.082657,29.282872,-81.082657,29.282872],
+  "bbox": [
+    -81.082657,
+    29.282872,
+    -81.082657,
+    29.282872
+],
   "geometry": {"coordinates":[-81.082657,29.282872],"type":"Point"}
 }

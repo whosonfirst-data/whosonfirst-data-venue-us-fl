@@ -2,13 +2,14 @@
   "id": 303054421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451257,28.060129,-82.451257,28.060129",
     "geom:latitude":28.060129,
     "geom:longitude":-82.451257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12302 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303054421,
-    "wof:lastmodified":1448999271,
+    "wof:lastmodified":1466431394,
     "wof:name":"Simpson Mechanical Inc",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.451257,28.060129,-82.451257,28.060129],
+  "bbox": [
+    -82.451257,
+    28.060129,
+    -82.451257,
+    28.060129
+],
   "geometry": {"coordinates":[-82.451257,28.060129],"type":"Point"}
 }

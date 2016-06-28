@@ -2,13 +2,14 @@
   "id": 404156465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.234213,30.42995,-84.234213,30.42995",
     "geom:latitude":30.42995,
     "geom:longitude":-84.234213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2956 Woodrich Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404156465,
-    "wof:lastmodified":1449039290,
+    "wof:lastmodified":1466442672,
     "wof:name":"Ellis Family Apts",
     "wof:parent_id":85881349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-84.234213,30.42995,-84.234213,30.42995],
+  "bbox": [
+    -84.234213,
+    30.42995,
+    -84.234213,
+    30.42995
+],
   "geometry": {"coordinates":[-84.234213,30.42995],"type":"Point"}
 }

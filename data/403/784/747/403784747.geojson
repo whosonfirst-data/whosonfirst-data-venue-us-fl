@@ -2,13 +2,14 @@
   "id": 403784747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.547255,27.344997,-82.547255,27.344997",
     "geom:latitude":27.344997,
     "geom:longitude":-82.547255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 10th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403784747,
-    "wof:lastmodified":1449055500,
+    "wof:lastmodified":1466440868,
     "wof:name":"Coast Guard Auxiliary",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "coast"
     ]
 },
-  "bbox": [-82.547255,27.344997,-82.547255,27.344997],
-  "geometry": {"coordinates":[-82.547255,27.344997],"type":"Point"}
+  "bbox": [
+    -82.547255,
+    27.344997,
+    -82.547255,
+    27.344997
+],
+  "geometry": {"coordinates":[-82.54725500000001,27.344997],"type":"Point"}
 }

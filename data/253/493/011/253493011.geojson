@@ -2,13 +2,14 @@
   "id": 253493011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317727,27.259263,-80.317727,27.259263",
     "geom:latitude":27.259263,
     "geom:longitude":-80.317727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 SE Pruitt Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253493011,
-    "wof:lastmodified":1449063761,
+    "wof:lastmodified":1466435505,
     "wof:name":"America's Health Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.317727,27.259263,-80.317727,27.259263],
+  "bbox": [
+    -80.317727,
+    27.259263,
+    -80.317727,
+    27.259263
+],
   "geometry": {"coordinates":[-80.317727,27.259263],"type":"Point"}
 }

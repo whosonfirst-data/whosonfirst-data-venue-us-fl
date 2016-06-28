@@ -2,13 +2,14 @@
   "id": 320273839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33888,25.869877,-80.33888,25.869877",
     "geom:latitude":25.869877,
     "geom:longitude":-80.33888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5225 NW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320273839,
-    "wof:lastmodified":1449013197,
+    "wof:lastmodified":1466438076,
     "wof:name":"Cima Telecom",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-80.33888,25.869877,-80.33888,25.869877],
+  "bbox": [
+    -80.33888,
+    25.869877,
+    -80.33888,
+    25.869877
+],
   "geometry": {"coordinates":[-80.33888,25.869877],"type":"Point"}
 }

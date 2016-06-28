@@ -2,13 +2,14 @@
   "id": 403890503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.389775,28.407581,-81.389775,28.407581",
     "geom:latitude":28.407581,
     "geom:longitude":-81.389775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 Central Florida Pkwy",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403890503,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1466442578,
     "wof:name":"Precision Polymers",
     "wof:parent_id":85879421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "floor"
     ]
 },
-  "bbox": [-81.389775,28.407581,-81.389775,28.407581],
+  "bbox": [
+    -81.389775,
+    28.407581,
+    -81.389775,
+    28.407581
+],
   "geometry": {"coordinates":[-81.389775,28.407581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253312919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.175232,25.984748,-80.175232,25.984748",
     "geom:latitude":25.984748,
     "geom:longitude":-80.175232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 W Hallandale Beach Blvd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253312919,
-    "wof:lastmodified":1449064318,
+    "wof:lastmodified":1466432418,
     "wof:name":"Broward Sheriff's Office",
     "wof:parent_id":85896131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-80.175232,25.984748,-80.175232,25.984748],
-  "geometry": {"coordinates":[-80.175232,25.984748],"type":"Point"}
+  "bbox": [
+    -80.175232,
+    25.984748,
+    -80.175232,
+    25.984748
+],
+  "geometry": {"coordinates":[-80.17523199999999,25.984748],"type":"Point"}
 }

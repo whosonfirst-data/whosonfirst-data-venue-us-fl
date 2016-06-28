@@ -2,13 +2,14 @@
   "id": 252726721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.360806,25.566694,-80.360806,25.566694",
     "geom:latitude":25.566694,
     "geom:longitude":-80.360806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10479 SW 216th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252726721,
-    "wof:lastmodified":1449006138,
+    "wof:lastmodified":1466428698,
     "wof:name":"South Dade AAA Taxi",
     "wof:parent_id":85820543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-80.360806,25.566694,-80.360806,25.566694],
+  "bbox": [
+    -80.360806,
+    25.566694,
+    -80.360806,
+    25.566694
+],
   "geometry": {"coordinates":[-80.360806,25.566694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303961199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083571,26.388741,-80.083571,26.388741",
     "geom:latitude":26.388741,
     "geom:longitude":-80.083571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Oak Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303961199,
-    "wof:lastmodified":1449000518,
+    "wof:lastmodified":1466447037,
     "wof:name":"Spanish River Collision",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.083571,26.388741,-80.083571,26.388741],
-  "geometry": {"coordinates":[-80.083571,26.388741],"type":"Point"}
+  "bbox": [
+    -80.083571,
+    26.388741,
+    -80.083571,
+    26.388741
+],
+  "geometry": {"coordinates":[-80.08357100000001,26.388741],"type":"Point"}
 }

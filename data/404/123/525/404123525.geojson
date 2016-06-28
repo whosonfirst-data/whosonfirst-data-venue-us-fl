@@ -2,13 +2,14 @@
   "id": 404123525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.751879,27.96379,-82.751879,27.96379",
     "geom:latitude":27.96379,
     "geom:longitude":-82.751879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Mercury Ave",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404123525,
-    "wof:lastmodified":1449039378,
+    "wof:lastmodified":1466442158,
     "wof:name":"Clearwater Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.751879,27.96379,-82.751879,27.96379],
+  "bbox": [
+    -82.751879,
+    27.96379,
+    -82.751879,
+    27.96379
+],
   "geometry": {"coordinates":[-82.751879,27.96379],"type":"Point"}
 }

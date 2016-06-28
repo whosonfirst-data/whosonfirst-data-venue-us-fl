@@ -2,13 +2,14 @@
   "id": 387685883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.159968,30.357565,-87.159968,30.357565",
     "geom:latitude":30.357565,
     "geom:longitude":-87.159968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Gulf Breeze Pkwy",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387685883,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1466448325,
     "wof:name":"Consignment Furniture Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [-87.159968,30.357565,-87.159968,30.357565],
-  "geometry": {"coordinates":[-87.159968,30.357565],"type":"Point"}
+  "bbox": [
+    -87.159968,
+    30.357565,
+    -87.159968,
+    30.357565
+],
+  "geometry": {"coordinates":[-87.15996800000001,30.357565],"type":"Point"}
 }

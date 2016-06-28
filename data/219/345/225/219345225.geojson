@@ -2,13 +2,14 @@
   "id": 219345225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088128,26.368096,-80.088128,26.368096",
     "geom:latitude":26.368096,
     "geom:longitude":-80.088128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 NW 20th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219345225,
-    "wof:lastmodified":1449073635,
+    "wof:lastmodified":1466429394,
     "wof:name":"Mr Beverage",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "wine"
     ]
 },
-  "bbox": [-80.088128,26.368096,-80.088128,26.368096],
+  "bbox": [
+    -80.088128,
+    26.368096,
+    -80.088128,
+    26.368096
+],
   "geometry": {"coordinates":[-80.088128,26.368096],"type":"Point"}
 }

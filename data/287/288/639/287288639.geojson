@@ -2,13 +2,14 @@
   "id": 287288639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559322,27.996485,-82.559322,27.996485",
     "geom:latitude":27.996485,
     "geom:longitude":-82.559322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7030 W Hillsborough Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287288639,
-    "wof:lastmodified":1449000749,
+    "wof:lastmodified":1466434899,
     "wof:name":"Pine Tree Karaoke Cafe",
     "wof:parent_id":85889775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-82.559322,27.996485,-82.559322,27.996485],
-  "geometry": {"coordinates":[-82.559322,27.996485],"type":"Point"}
+  "bbox": [
+    -82.559322,
+    27.996485,
+    -82.559322,
+    27.996485
+],
+  "geometry": {"coordinates":[-82.55932199999999,27.996485],"type":"Point"}
 }

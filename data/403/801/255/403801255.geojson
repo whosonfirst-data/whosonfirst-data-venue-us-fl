@@ -2,13 +2,14 @@
   "id": 403801255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.353452,30.329736,-87.353452,30.329736",
     "geom:latitude":30.329736,
     "geom:longitude":-87.353452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 Moonraker Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403801255,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1466441138,
     "wof:name":"Wts",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.353452,30.329736,-87.353452,30.329736],
+  "bbox": [
+    -87.353452,
+    30.329736,
+    -87.353452,
+    30.329736
+],
   "geometry": {"coordinates":[-87.353452,30.329736],"type":"Point"}
 }

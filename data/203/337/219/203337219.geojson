@@ -2,13 +2,14 @@
   "id": 203337219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.149199,26.180259,-80.149199,26.180259",
     "geom:latitude":26.180259,
     "geom:longitude":-80.149199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 NW 43rd Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203337219,
-    "wof:lastmodified":1449025809,
+    "wof:lastmodified":1466430629,
     "wof:name":"Crisis Shelter",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organization"
     ]
 },
-  "bbox": [-80.149199,26.180259,-80.149199,26.180259],
+  "bbox": [
+    -80.149199,
+    26.180259,
+    -80.149199,
+    26.180259
+],
   "geometry": {"coordinates":[-80.149199,26.180259],"type":"Point"}
 }

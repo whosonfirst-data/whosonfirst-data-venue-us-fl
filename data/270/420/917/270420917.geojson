@@ -2,13 +2,14 @@
   "id": 270420917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.609175,27.812965,-82.609175,27.812965",
     "geom:latitude":27.812965,
     "geom:longitude":-82.609175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Shore Acres Blvd NE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270420917,
-    "wof:lastmodified":1449009806,
+    "wof:lastmodified":1466436655,
     "wof:name":"Northeast Presbyterian Church",
     "wof:parent_id":85848575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [-82.609175,27.812965,-82.609175,27.812965],
-  "geometry": {"coordinates":[-82.609175,27.812965],"type":"Point"}
+  "bbox": [
+    -82.609175,
+    27.812965,
+    -82.609175,
+    27.812965
+],
+  "geometry": {"coordinates":[-82.60917499999999,27.812965],"type":"Point"}
 }

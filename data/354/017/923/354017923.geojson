@@ -2,13 +2,14 @@
   "id": 354017923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.42136,25.682482,-80.42136,25.682482",
     "geom:latitude":25.682482,
     "geom:longitude":-80.42136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9042 SW 142nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354017923,
-    "wof:lastmodified":1449066846,
+    "wof:lastmodified":1466436336,
     "wof:name":"Florida Neurodiagnostic Spec",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.42136,25.682482,-80.42136,25.682482],
-  "geometry": {"coordinates":[-80.42136,25.682482],"type":"Point"}
+  "bbox": [
+    -80.42136,
+    25.682482,
+    -80.42136,
+    25.682482
+],
+  "geometry": {"coordinates":[-80.42136000000001,25.682482],"type":"Point"}
 }

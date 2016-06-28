@@ -2,13 +2,14 @@
   "id": 202516043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.638612,30.200582,-81.638612,30.200582",
     "geom:latitude":30.200582,
     "geom:longitude":-81.638612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2742 Beauclerc Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202516043,
-    "wof:lastmodified":1449060599,
+    "wof:lastmodified":1466428562,
     "wof:name":"Jacksonville Oncology Group",
     "wof:parent_id":85842435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.638612,30.200582,-81.638612,30.200582],
-  "geometry": {"coordinates":[-81.638612,30.200582],"type":"Point"}
+  "bbox": [
+    -81.638612,
+    30.200582,
+    -81.638612,
+    30.200582
+],
+  "geometry": {"coordinates":[-81.63861199999999,30.200582],"type":"Point"}
 }

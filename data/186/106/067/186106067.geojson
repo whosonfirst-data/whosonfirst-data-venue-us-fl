@@ -2,13 +2,14 @@
   "id": 186106067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333394,25.835344,-80.333394,25.835344",
     "geom:latitude":25.835344,
     "geom:longitude":-80.333394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8237 NW 68th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186106067,
-    "wof:lastmodified":1449050202,
+    "wof:lastmodified":1466445691,
     "wof:name":"Servimar",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.333394,25.835344,-80.333394,25.835344],
+  "bbox": [
+    -80.333394,
+    25.835344,
+    -80.333394,
+    25.835344
+],
   "geometry": {"coordinates":[-80.333394,25.835344],"type":"Point"}
 }

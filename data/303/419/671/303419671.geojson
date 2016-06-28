@@ -2,13 +2,14 @@
   "id": 303419671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401569,27.977027,-82.401569,27.977027",
     "geom:latitude":27.977027,
     "geom:longitude":-82.401569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3645 N 50th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303419671,
-    "wof:lastmodified":1449000520,
+    "wof:lastmodified":1466437762,
     "wof:name":"Spivey Mower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-82.401569,27.977027,-82.401569,27.977027],
-  "geometry": {"coordinates":[-82.401569,27.977027],"type":"Point"}
+  "bbox": [
+    -82.401569,
+    27.977027,
+    -82.401569,
+    27.977027
+],
+  "geometry": {"coordinates":[-82.40156899999999,27.977027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286801387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.333072,30.518144,-84.333072,30.518144",
     "geom:latitude":30.518144,
     "geom:longitude":-84.333072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Shady Oaks Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286801387,
-    "wof:lastmodified":1449017609,
+    "wof:lastmodified":1466439120,
     "wof:name":"Southeastern Medical Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.333072,30.518144,-84.333072,30.518144],
+  "bbox": [
+    -84.333072,
+    30.518144,
+    -84.333072,
+    30.518144
+],
   "geometry": {"coordinates":[-84.333072,30.518144],"type":"Point"}
 }

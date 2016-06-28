@@ -2,13 +2,14 @@
   "id": 286370647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.527505,30.281363,-81.527505,30.281363",
     "geom:latitude":30.281363,
     "geom:longitude":-81.527505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11221 St Johns Industrial Pkwy N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286370647,
-    "wof:lastmodified":1449016786,
+    "wof:lastmodified":1466431543,
     "wof:name":"Parson's Transportation",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.527505,30.281363,-81.527505,30.281363],
+  "bbox": [
+    -81.527505,
+    30.281363,
+    -81.527505,
+    30.281363
+],
   "geometry": {"coordinates":[-81.527505,30.281363],"type":"Point"}
 }

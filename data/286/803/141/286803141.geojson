@@ -2,13 +2,14 @@
   "id": 286803141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.388899,27.049859,-82.388899,27.049859",
     "geom:latitude":27.049859,
     "geom:longitude":-82.388899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Tamiami Trl",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286803141,
-    "wof:lastmodified":1449018117,
+    "wof:lastmodified":1466439151,
     "wof:name":"Beall's Outlet",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.388899,27.049859,-82.388899,27.049859],
-  "geometry": {"coordinates":[-82.388899,27.049859],"type":"Point"}
+  "bbox": [
+    -82.388899,
+    27.049859,
+    -82.388899,
+    27.049859
+],
+  "geometry": {"coordinates":[-82.38889899999999,27.049859],"type":"Point"}
 }

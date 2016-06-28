@@ -2,13 +2,14 @@
   "id": 219625595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396014,25.632083,-80.396014,25.632083",
     "geom:latitude":25.632083,
     "geom:longitude":-80.396014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14452 SW 124th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":219625595,
-    "wof:lastmodified":1449073982,
+    "wof:lastmodified":1466433139,
     "wof:name":"Building Testing & Inspection",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.396014,25.632083,-80.396014,25.632083],
-  "geometry": {"coordinates":[-80.396014,25.632083],"type":"Point"}
+  "bbox": [
+    -80.396014,
+    25.632083,
+    -80.396014,
+    25.632083
+],
+  "geometry": {"coordinates":[-80.39601399999999,25.632083],"type":"Point"}
 }

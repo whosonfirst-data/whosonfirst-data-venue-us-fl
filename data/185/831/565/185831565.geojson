@@ -2,13 +2,14 @@
   "id": 185831565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.373105,28.578498,-81.373105,28.578498",
     "geom:latitude":28.578498,
     "geom:longitude":-81.373105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Hazel St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185831565,
-    "wof:lastmodified":1449007558,
+    "wof:lastmodified":1466429313,
     "wof:name":"Back 2 Backs Physical Therapy",
     "wof:parent_id":85879499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.373105,28.578498,-81.373105,28.578498],
+  "bbox": [
+    -81.373105,
+    28.578498,
+    -81.373105,
+    28.578498
+],
   "geometry": {"coordinates":[-81.373105,28.578498],"type":"Point"}
 }

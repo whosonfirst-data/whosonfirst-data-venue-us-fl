@@ -2,13 +2,14 @@
   "id": 253461327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.393779,28.055091,-82.393779,28.055091",
     "geom:latitude":28.055091,
     "geom:longitude":-82.393779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12108 N 56th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253461327,
-    "wof:lastmodified":1449063948,
+    "wof:lastmodified":1466434931,
     "wof:name":"Emdee Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "developer"
     ]
 },
-  "bbox": [-82.393779,28.055091,-82.393779,28.055091],
-  "geometry": {"coordinates":[-82.393779,28.055091],"type":"Point"}
+  "bbox": [
+    -82.393779,
+    28.055091,
+    -82.393779,
+    28.055091
+],
+  "geometry": {"coordinates":[-82.39377899999999,28.055091],"type":"Point"}
 }

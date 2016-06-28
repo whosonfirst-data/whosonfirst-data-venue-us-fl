@@ -2,13 +2,14 @@
   "id": 253487499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.302881,26.809236,-80.302881,26.809236",
     "geom:latitude":26.809236,
     "geom:longitude":-80.302881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16526 Hamlin Blvd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253487499,
-    "wof:lastmodified":1449063791,
+    "wof:lastmodified":1466435407,
     "wof:name":"Baseball City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "baseball"
     ]
 },
-  "bbox": [-80.302881,26.809236,-80.302881,26.809236],
+  "bbox": [
+    -80.302881,
+    26.809236,
+    -80.302881,
+    26.809236
+],
   "geometry": {"coordinates":[-80.302881,26.809236],"type":"Point"}
 }

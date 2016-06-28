@@ -2,13 +2,14 @@
   "id": 354255819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.608102,30.446452,-86.608102,30.446452",
     "geom:latitude":30.446452,
     "geom:longitude":-86.608102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Racetrack Rd NE",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354255819,
-    "wof:lastmodified":1449066684,
+    "wof:lastmodified":1466440035,
     "wof:name":"Air Doctor",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-86.608102,30.446452,-86.608102,30.446452],
+  "bbox": [
+    -86.608102,
+    30.446452,
+    -86.608102,
+    30.446452
+],
   "geometry": {"coordinates":[-86.608102,30.446452],"type":"Point"}
 }

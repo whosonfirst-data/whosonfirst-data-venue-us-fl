@@ -2,13 +2,14 @@
   "id": 320394119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.406758,27.996102,-82.406758,27.996102",
     "geom:latitude":27.996102,
     "geom:longitude":-82.406758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 E Hillsborough Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320394119,
-    "wof:lastmodified":1449011985,
+    "wof:lastmodified":1466440129,
     "wof:name":"Hillsborough Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-82.406758,27.996102,-82.406758,27.996102],
+  "bbox": [
+    -82.406758,
+    27.996102,
+    -82.406758,
+    27.996102
+],
   "geometry": {"coordinates":[-82.406758,27.996102],"type":"Point"}
 }

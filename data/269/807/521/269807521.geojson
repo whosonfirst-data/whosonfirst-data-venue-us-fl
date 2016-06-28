@@ -2,13 +2,14 @@
   "id": 269807521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.650529,30.285796,-81.650529,30.285796",
     "geom:latitude":30.285796,
     "geom:longitude":-81.650529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3647 Hendricks Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269807521,
-    "wof:lastmodified":1449036765,
+    "wof:lastmodified":1466434241,
     "wof:name":"Sol G Brotman DDS",
     "wof:parent_id":85841485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.650529,30.285796,-81.650529,30.285796],
-  "geometry": {"coordinates":[-81.650529,30.285796],"type":"Point"}
+  "bbox": [
+    -81.650529,
+    30.285796,
+    -81.650529,
+    30.285796
+],
+  "geometry": {"coordinates":[-81.65052900000001,30.285796],"type":"Point"}
 }

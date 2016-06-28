@@ -2,13 +2,14 @@
   "id": 387915491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241825,25.728217,-80.241825,25.728217",
     "geom:latitude":25.728217,
     "geom:longitude":-80.241825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Grand Ave",
     "sg:city":"Coconut Grove",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387915491,
-    "wof:lastmodified":1449059880,
+    "wof:lastmodified":1466449613,
     "wof:name":"Coco Cigar",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.241825,25.728217,-80.241825,25.728217],
-  "geometry": {"coordinates":[-80.241825,25.728217],"type":"Point"}
+  "bbox": [
+    -80.241825,
+    25.728217,
+    -80.241825,
+    25.728217
+],
+  "geometry": {"coordinates":[-80.24182500000001,25.728217],"type":"Point"}
 }

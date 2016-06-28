@@ -2,13 +2,14 @@
   "id": 186050875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.66281,30.425457,-86.66281,30.425457",
     "geom:latitude":30.425457,
     "geom:longitude":-86.66281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Burnette Ave NW",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186050875,
-    "wof:lastmodified":1449051858,
+    "wof:lastmodified":1466444243,
     "wof:name":"Sunflower Apartments",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-86.66281,30.425457,-86.66281,30.425457],
-  "geometry": {"coordinates":[-86.66281,30.425457],"type":"Point"}
+  "bbox": [
+    -86.66281,
+    30.425457,
+    -86.66281,
+    30.425457
+],
+  "geometry": {"coordinates":[-86.66280999999999,30.425457],"type":"Point"}
 }

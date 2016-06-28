@@ -2,13 +2,14 @@
   "id": 203421245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.536675,30.275744,-81.536675,30.275744",
     "geom:latitude":30.275744,
     "geom:longitude":-81.536675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3868 Grand Central Pl W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203421245,
-    "wof:lastmodified":1449026179,
+    "wof:lastmodified":1466431714,
     "wof:name":"Us Alarm Of North Florida",
     "wof:parent_id":85866895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.536675,30.275744,-81.536675,30.275744],
+  "bbox": [
+    -81.536675,
+    30.275744,
+    -81.536675,
+    30.275744
+],
   "geometry": {"coordinates":[-81.536675,30.275744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354204179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405053,27.985235,-82.405053,27.985235",
     "geom:latitude":27.985235,
     "geom:longitude":-82.405053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 E Chelsea St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354204179,
-    "wof:lastmodified":1449067705,
+    "wof:lastmodified":1466439241,
     "wof:name":"Rose Hill Park Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-82.405053,27.985235,-82.405053,27.985235],
+  "bbox": [
+    -82.405053,
+    27.985235,
+    -82.405053,
+    27.985235
+],
   "geometry": {"coordinates":[-82.405053,27.985235],"type":"Point"}
 }

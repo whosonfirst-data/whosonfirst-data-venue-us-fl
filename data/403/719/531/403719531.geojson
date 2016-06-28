@@ -2,13 +2,14 @@
   "id": 403719531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.201046,30.48952,-87.201046,30.48952",
     "geom:latitude":30.48952,
     "geom:longitude":-87.201046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6381 Schwab Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403719531,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1466439852,
     "wof:name":"Stephen Briggs Tax Service",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-87.201046,30.48952,-87.201046,30.48952],
-  "geometry": {"coordinates":[-87.201046,30.48952],"type":"Point"}
+  "bbox": [
+    -87.201046,
+    30.48952,
+    -87.201046,
+    30.48952
+],
+  "geometry": {"coordinates":[-87.20104600000001,30.48952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185860983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.579171,30.586082,-84.579171,30.586082",
     "geom:latitude":30.586082,
     "geom:longitude":-84.579171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Jackson St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185860983,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1466429600,
     "wof:name":"North Florida Educational Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-84.579171,30.586082,-84.579171,30.586082],
+  "bbox": [
+    -84.579171,
+    30.586082,
+    -84.579171,
+    30.586082
+],
   "geometry": {"coordinates":[-84.579171,30.586082],"type":"Point"}
 }

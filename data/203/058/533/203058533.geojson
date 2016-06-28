@@ -2,13 +2,14 @@
   "id": 203058533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.504669,28.421181,-81.504669,28.421181",
     "geom:latitude":28.421181,
     "geom:longitude":-81.504669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9732 Camberley Cir",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203058533,
-    "wof:lastmodified":1449025213,
+    "wof:lastmodified":1466444318,
     "wof:name":"Summerfield Homes Inc",
     "wof:parent_id":85889275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-81.504669,28.421181,-81.504669,28.421181],
-  "geometry": {"coordinates":[-81.504669,28.421181],"type":"Point"}
+  "bbox": [
+    -81.504669,
+    28.421181,
+    -81.504669,
+    28.421181
+],
+  "geometry": {"coordinates":[-81.50466900000001,28.421181],"type":"Point"}
 }

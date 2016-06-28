@@ -2,13 +2,14 @@
   "id": 370729655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220657,25.839357,-80.220657,25.839357",
     "geom:latitude":25.839357,
     "geom:longitude":-80.220657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 NW 71st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370729655,
-    "wof:lastmodified":1449030787,
+    "wof:lastmodified":1466445349,
     "wof:name":"Early Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.220657,25.839357,-80.220657,25.839357],
+  "bbox": [
+    -80.220657,
+    25.839357,
+    -80.220657,
+    25.839357
+],
   "geometry": {"coordinates":[-80.220657,25.839357],"type":"Point"}
 }

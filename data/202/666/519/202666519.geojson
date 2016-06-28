@@ -2,13 +2,14 @@
   "id": 202666519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110264,26.153333,-80.110264,26.153333",
     "geom:latitude":26.153333,
     "geom:longitude":-80.110264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2733 NE 21st Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202666519,
-    "wof:lastmodified":1449061041,
+    "wof:lastmodified":1466430553,
     "wof:name":"Super Yachts Intl",
     "wof:parent_id":85849329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-80.110264,26.153333,-80.110264,26.153333],
+  "bbox": [
+    -80.110264,
+    26.153333,
+    -80.110264,
+    26.153333
+],
   "geometry": {"coordinates":[-80.110264,26.153333],"type":"Point"}
 }

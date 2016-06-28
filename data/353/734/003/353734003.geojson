@@ -2,13 +2,14 @@
   "id": 353734003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.166137,25.887093,-80.166137,25.887093",
     "geom:latitude":25.887093,
     "geom:longitude":-80.166137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 NE 16th Ave",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353734003,
-    "wof:lastmodified":1449020488,
+    "wof:lastmodified":1466439914,
     "wof:name":"Palm Trailer Park",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [-80.166137,25.887093,-80.166137,25.887093],
-  "geometry": {"coordinates":[-80.166137,25.887093],"type":"Point"}
+  "bbox": [
+    -80.166137,
+    25.887093,
+    -80.166137,
+    25.887093
+],
+  "geometry": {"coordinates":[-80.16613700000001,25.887093],"type":"Point"}
 }

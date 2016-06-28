@@ -2,13 +2,14 @@
   "id": 403986169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085561,26.965569,-80.085561,26.965569",
     "geom:latitude":26.965569,
     "geom:longitude":-80.085561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19600 US Hwy 1",
     "sg:city":"Tequesta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403986169,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1466444093,
     "wof:name":"Global Auto Sales",
     "wof:parent_id":85888941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.085561,26.965569,-80.085561,26.965569],
+  "bbox": [
+    -80.085561,
+    26.965569,
+    -80.085561,
+    26.965569
+],
   "geometry": {"coordinates":[-80.085561,26.965569],"type":"Point"}
 }

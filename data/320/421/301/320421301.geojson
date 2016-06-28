@@ -2,13 +2,14 @@
   "id": 320421301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.226521,28.885047,-81.226521,28.885047",
     "geom:latitude":28.885047,
     "geom:longitude":-81.226521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Nantucket St",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320421301,
-    "wof:lastmodified":1449013630,
+    "wof:lastmodified":1466440621,
     "wof:name":"Chris Anderson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.226521,28.885047,-81.226521,28.885047],
-  "geometry": {"coordinates":[-81.226521,28.885047],"type":"Point"}
+  "bbox": [
+    -81.226521,
+    28.885047,
+    -81.226521,
+    28.885047
+],
+  "geometry": {"coordinates":[-81.22652100000001,28.885047],"type":"Point"}
 }

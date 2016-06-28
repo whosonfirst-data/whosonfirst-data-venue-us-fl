@@ -2,13 +2,14 @@
   "id": 236092055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326993,25.863818,-80.326993,25.863818",
     "geom:latitude":25.863818,
     "geom:longitude":-80.326993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9910 NW 80th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236092055,
-    "wof:lastmodified":1449004502,
+    "wof:lastmodified":1466429679,
     "wof:name":"MJX2 Elevator",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-80.326993,25.863818,-80.326993,25.863818],
+  "bbox": [
+    -80.326993,
+    25.863818,
+    -80.326993,
+    25.863818
+],
   "geometry": {"coordinates":[-80.326993,25.863818],"type":"Point"}
 }

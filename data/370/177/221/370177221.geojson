@@ -2,13 +2,14 @@
   "id": 370177221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.887611,26.596529,-81.887611,26.596529",
     "geom:latitude":26.596529,
     "geom:longitude":-81.887611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 Colonial Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370177221,
-    "wof:lastmodified":1449032470,
+    "wof:lastmodified":1466436865,
     "wof:name":"Second Act Boutique",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.887611,26.596529,-81.887611,26.596529],
-  "geometry": {"coordinates":[-81.887611,26.596529],"type":"Point"}
+  "bbox": [
+    -81.887611,
+    26.596529,
+    -81.887611,
+    26.596529
+],
+  "geometry": {"coordinates":[-81.88761100000001,26.596529],"type":"Point"}
 }

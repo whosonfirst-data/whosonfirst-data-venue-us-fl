@@ -2,13 +2,14 @@
   "id": 320538183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.059307,30.524592,-84.059307,30.524592",
     "geom:latitude":30.524592,
     "geom:longitude":-84.059307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 Fairhill Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320538183,
-    "wof:lastmodified":1449011720,
+    "wof:lastmodified":1466442695,
     "wof:name":"Crutchfield Garage Doors",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-84.059307,30.524592,-84.059307,30.524592],
+  "bbox": [
+    -84.059307,
+    30.524592,
+    -84.059307,
+    30.524592
+],
   "geometry": {"coordinates":[-84.059307,30.524592],"type":"Point"}
 }

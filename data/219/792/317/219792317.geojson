@@ -2,13 +2,14 @@
   "id": 219792317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21702,26.916464,-80.21702,26.916464",
     "geom:latitude":26.916464,
     "geom:longitude":-80.21702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11552 162nd Pl N",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219792317,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466435337,
     "wof:name":"David Couch Carpentry",
     "wof:parent_id":85888943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-80.21702,26.916464,-80.21702,26.916464],
-  "geometry": {"coordinates":[-80.21702,26.916464],"type":"Point"}
+  "bbox": [
+    -80.21702,
+    26.916464,
+    -80.21702,
+    26.916464
+],
+  "geometry": {"coordinates":[-80.21702000000001,26.916464],"type":"Point"}
 }

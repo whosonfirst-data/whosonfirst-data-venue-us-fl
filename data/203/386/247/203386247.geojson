@@ -2,13 +2,14 @@
   "id": 203386247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.178973,30.430789,-84.178973,30.430789",
     "geom:latitude":30.430789,
     "geom:longitude":-84.178973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1292 Mount Sinai Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203386247,
-    "wof:lastmodified":1449025935,
+    "wof:lastmodified":1466431238,
     "wof:name":"Levis Concrete LLC",
     "wof:parent_id":85881331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.178973,30.430789,-84.178973,30.430789],
+  "bbox": [
+    -84.178973,
+    30.430789,
+    -84.178973,
+    30.430789
+],
   "geometry": {"coordinates":[-84.178973,30.430789],"type":"Point"}
 }

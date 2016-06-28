@@ -2,13 +2,14 @@
   "id": 202456883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.39527,29.703182,-82.39527,29.703182",
     "geom:latitude":29.703182,
     "geom:longitude":-82.39527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4727 NW 53 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202456883,
-    "wof:lastmodified":1449060869,
+    "wof:lastmodified":1466445032,
     "wof:name":"Shaolin Deng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-82.39527,29.703182,-82.39527,29.703182],
+  "bbox": [
+    -82.39527,
+    29.703182,
+    -82.39527,
+    29.703182
+],
   "geometry": {"coordinates":[-82.39527,29.703182],"type":"Point"}
 }

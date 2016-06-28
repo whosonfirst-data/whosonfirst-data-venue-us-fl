@@ -2,13 +2,14 @@
   "id": 252851693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131089,26.37872,-80.131089,26.37872",
     "geom:latitude":26.37872,
     "geom:longitude":-80.131089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2358 NW 30th Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252851693,
-    "wof:lastmodified":1449006115,
+    "wof:lastmodified":1466430500,
     "wof:name":"Jersey Shore Software",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-80.131089,26.37872,-80.131089,26.37872],
+  "bbox": [
+    -80.131089,
+    26.37872,
+    -80.131089,
+    26.37872
+],
   "geometry": {"coordinates":[-80.131089,26.37872],"type":"Point"}
 }

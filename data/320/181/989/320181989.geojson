@@ -2,13 +2,14 @@
   "id": 320181989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.264803,28.558818,-81.264803,28.558818",
     "geom:latitude":28.558818,
     "geom:longitude":-81.264803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8719 Pinestraw Ln",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320181989,
-    "wof:lastmodified":1449013544,
+    "wof:lastmodified":1466436505,
     "wof:name":"Planet Digital",
     "wof:parent_id":85889393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.264803,28.558818,-81.264803,28.558818],
+  "bbox": [
+    -81.264803,
+    28.558818,
+    -81.264803,
+    28.558818
+],
   "geometry": {"coordinates":[-81.264803,28.558818],"type":"Point"}
 }

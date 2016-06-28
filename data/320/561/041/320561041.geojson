@@ -2,13 +2,14 @@
   "id": 320561041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627023,27.739112,-82.627023,27.739112",
     "geom:latitude":27.739112,
     "geom:longitude":-82.627023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3891 Coquina Key Dr SE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320561041,
-    "wof:lastmodified":1449013911,
+    "wof:lastmodified":1466443105,
     "wof:name":"Ocean Properties Clearwater",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.627023,27.739112,-82.627023,27.739112],
-  "geometry": {"coordinates":[-82.627023,27.739112],"type":"Point"}
+  "bbox": [
+    -82.627023,
+    27.739112,
+    -82.627023,
+    27.739112
+],
+  "geometry": {"coordinates":[-82.62702299999999,27.739112],"type":"Point"}
 }

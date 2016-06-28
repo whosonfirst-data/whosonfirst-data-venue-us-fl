@@ -2,13 +2,14 @@
   "id": 203380775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378344,28.509209,-81.378344,28.509209",
     "geom:latitude":28.509209,
     "geom:longitude":-81.378344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Pineloch Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380775,
-    "wof:lastmodified":1449025796,
+    "wof:lastmodified":1466431165,
     "wof:name":"Central Shops",
     "wof:parent_id":85889383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.378344,28.509209,-81.378344,28.509209],
+  "bbox": [
+    -81.378344,
+    28.509209,
+    -81.378344,
+    28.509209
+],
   "geometry": {"coordinates":[-81.378344,28.509209],"type":"Point"}
 }

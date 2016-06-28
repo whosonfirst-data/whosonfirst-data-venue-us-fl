@@ -2,13 +2,14 @@
   "id": 353868743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.318328,28.621215,-81.318328,28.621215",
     "geom:latitude":28.621215,
     "geom:longitude":-81.318328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2181 Linden Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353868743,
-    "wof:lastmodified":1449018360,
+    "wof:lastmodified":1466441996,
     "wof:name":"Winter Park Artists",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-81.318328,28.621215,-81.318328,28.621215],
-  "geometry": {"coordinates":[-81.318328,28.621215],"type":"Point"}
+  "bbox": [
+    -81.318328,
+    28.621215,
+    -81.318328,
+    28.621215
+],
+  "geometry": {"coordinates":[-81.31832799999999,28.621215],"type":"Point"}
 }

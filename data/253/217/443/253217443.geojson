@@ -2,13 +2,14 @@
   "id": 253217443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.955418,30.406038,-86.955418,30.406038",
     "geom:latitude":30.406038,
     "geom:longitude":-86.955418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1899 Reserve Blvd",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253217443,
-    "wof:lastmodified":1449065617,
+    "wof:lastmodified":1466430965,
     "wof:name":"Indoff Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handling"
     ]
 },
-  "bbox": [-86.955418,30.406038,-86.955418,30.406038],
-  "geometry": {"coordinates":[-86.955418,30.406038],"type":"Point"}
+  "bbox": [
+    -86.955418,
+    30.406038,
+    -86.955418,
+    30.406038
+],
+  "geometry": {"coordinates":[-86.95541799999999,30.406038],"type":"Point"}
 }

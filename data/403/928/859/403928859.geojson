@@ -2,13 +2,14 @@
   "id": 403928859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.300153,29.282271,-82.300153,29.282271",
     "geom:latitude":29.282271,
     "geom:longitude":-82.300153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10964 W Hwy 326",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403928859,
-    "wof:lastmodified":1449055782,
+    "wof:lastmodified":1466443182,
     "wof:name":"Buena Vista Farm",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-82.300153,29.282271,-82.300153,29.282271],
-  "geometry": {"coordinates":[-82.300153,29.282271],"type":"Point"}
+  "bbox": [
+    -82.300153,
+    29.282271,
+    -82.300153,
+    29.282271
+],
+  "geometry": {"coordinates":[-82.30015299999999,29.282271],"type":"Point"}
 }

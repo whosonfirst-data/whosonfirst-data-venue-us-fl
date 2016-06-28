@@ -2,13 +2,14 @@
   "id": 270020875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600749,30.632009,-81.600749,30.632009",
     "geom:latitude":30.632009,
     "geom:longitude":-81.600749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1643 E State Rd 200",
     "sg:city":"Yulee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270020875,
-    "wof:lastmodified":1449009779,
+    "wof:lastmodified":1466429807,
     "wof:name":"Nassau Answering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "answering"
     ]
 },
-  "bbox": [-81.600749,30.632009,-81.600749,30.632009],
-  "geometry": {"coordinates":[-81.600749,30.632009],"type":"Point"}
+  "bbox": [
+    -81.600749,
+    30.632009,
+    -81.600749,
+    30.632009
+],
+  "geometry": {"coordinates":[-81.60074899999999,30.632009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219815751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.821683,26.323332,-81.821683,26.323332",
     "geom:latitude":26.323332,
     "geom:longitude":-81.821683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 8th St",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219815751,
-    "wof:lastmodified":1449072103,
+    "wof:lastmodified":1466435675,
     "wof:name":"Tom Melko Physical Therapy",
     "wof:parent_id":85806665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-81.821683,26.323332,-81.821683,26.323332],
-  "geometry": {"coordinates":[-81.821683,26.323332],"type":"Point"}
+  "bbox": [
+    -81.821683,
+    26.323332,
+    -81.821683,
+    26.323332
+],
+  "geometry": {"coordinates":[-81.82168299999999,26.323332],"type":"Point"}
 }

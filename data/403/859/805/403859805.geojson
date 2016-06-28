@@ -2,13 +2,14 @@
   "id": 403859805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.244947,25.933653,-80.244947,25.933653",
     "geom:latitude":25.933653,
     "geom:longitude":-80.244947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17325 NW 27th Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403859805,
-    "wof:lastmodified":1449055558,
+    "wof:lastmodified":1466442103,
     "wof:name":"Precision Medical Tech",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.244947,25.933653,-80.244947,25.933653],
+  "bbox": [
+    -80.244947,
+    25.933653,
+    -80.244947,
+    25.933653
+],
   "geometry": {"coordinates":[-80.244947,25.933653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303925621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.818627,28.610845,-80.818627,28.610845",
     "geom:latitude":28.610845,
     "geom:longitude":-80.818627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 S Park Ave",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303925621,
-    "wof:lastmodified":1448998136,
+    "wof:lastmodified":1466446749,
     "wof:name":"South Park Grocery Inc",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.818627,28.610845,-80.818627,28.610845],
-  "geometry": {"coordinates":[-80.818627,28.610845],"type":"Point"}
+  "bbox": [
+    -80.818627,
+    28.610845,
+    -80.818627,
+    28.610845
+],
+  "geometry": {"coordinates":[-80.81862700000001,28.610845],"type":"Point"}
 }

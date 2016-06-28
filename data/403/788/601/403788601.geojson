@@ -2,13 +2,14 @@
   "id": 403788601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52035,28.83089,-82.52035,28.83089",
     "geom:latitude":28.83089,
     "geom:longitude":-82.52035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5203 W Homosassa Trl",
     "sg:city":"Lecanto",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403788601,
-    "wof:lastmodified":1449055330,
+    "wof:lastmodified":1466440930,
     "wof:name":"Spot Family Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-82.52035,28.83089,-82.52035,28.83089],
-  "geometry": {"coordinates":[-82.52035,28.83089],"type":"Point"}
+  "bbox": [
+    -82.52035,
+    28.83089,
+    -82.52035,
+    28.83089
+],
+  "geometry": {"coordinates":[-82.52034999999999,28.83089],"type":"Point"}
 }

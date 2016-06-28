@@ -2,13 +2,14 @@
   "id": 186442637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.291754,25.846258,-80.291754,25.846258",
     "geom:latitude":25.846258,
     "geom:longitude":-80.291754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 W 27th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186442637,
-    "wof:lastmodified":1449051549,
+    "wof:lastmodified":1466432067,
     "wof:name":"X Rays R US",
     "wof:parent_id":85878155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.291754,25.846258,-80.291754,25.846258],
+  "bbox": [
+    -80.291754,
+    25.846258,
+    -80.291754,
+    25.846258
+],
   "geometry": {"coordinates":[-80.291754,25.846258],"type":"Point"}
 }

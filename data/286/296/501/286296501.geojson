@@ -2,13 +2,14 @@
   "id": 286296501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223509,26.393255,-80.223509,26.393255",
     "geom:latitude":26.393255,
     "geom:longitude":-80.223509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11199 Sea Grass Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286296501,
-    "wof:lastmodified":1449017577,
+    "wof:lastmodified":1466430257,
     "wof:name":"Amcon Enterprises",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.223509,26.393255,-80.223509,26.393255],
-  "geometry": {"coordinates":[-80.223509,26.393255],"type":"Point"}
+  "bbox": [
+    -80.223509,
+    26.393255,
+    -80.223509,
+    26.393255
+],
+  "geometry": {"coordinates":[-80.22350900000001,26.393255],"type":"Point"}
 }

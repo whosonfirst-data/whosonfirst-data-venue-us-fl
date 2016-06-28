@@ -2,13 +2,14 @@
   "id": 303145185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.46736,27.811883,-80.46736,27.811883",
     "geom:latitude":27.811883,
     "geom:longitude":-80.46736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 US Hwy 1",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303145185,
-    "wof:lastmodified":1448998860,
+    "wof:lastmodified":1466433026,
     "wof:name":"Florida Lifestyle Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.46736,27.811883,-80.46736,27.811883],
+  "bbox": [
+    -80.46736,
+    27.811883,
+    -80.46736,
+    27.811883
+],
   "geometry": {"coordinates":[-80.46736,27.811883],"type":"Point"}
 }

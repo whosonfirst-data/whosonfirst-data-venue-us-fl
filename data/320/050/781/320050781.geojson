@@ -2,13 +2,14 @@
   "id": 320050781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.511525,28.672843,-81.511525,28.672843",
     "geom:latitude":28.672843,
     "geom:longitude":-81.511525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 S Central Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320050781,
-    "wof:lastmodified":1449013320,
+    "wof:lastmodified":1466434258,
     "wof:name":"South Central Food & Meat Mkt",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.511525,28.672843,-81.511525,28.672843],
-  "geometry": {"coordinates":[-81.511525,28.672843],"type":"Point"}
+  "bbox": [
+    -81.511525,
+    28.672843,
+    -81.511525,
+    28.672843
+],
+  "geometry": {"coordinates":[-81.51152500000001,28.672843],"type":"Point"}
 }

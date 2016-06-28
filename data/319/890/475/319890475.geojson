@@ -2,13 +2,14 @@
   "id": 319890475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057808,26.854079,-80.057808,26.854079",
     "geom:latitude":26.854079,
     "geom:longitude":-80.057808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12120 US Hwy 1",
     "sg:city":"Juno Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319890475,
-    "wof:lastmodified":1449024270,
+    "wof:lastmodified":1466434053,
     "wof:name":"Firestone Tire & Svc Ctr",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.057808,26.854079,-80.057808,26.854079],
-  "geometry": {"coordinates":[-80.057808,26.854079],"type":"Point"}
+  "bbox": [
+    -80.057808,
+    26.854079,
+    -80.057808,
+    26.854079
+],
+  "geometry": {"coordinates":[-80.05780799999999,26.854079],"type":"Point"}
 }

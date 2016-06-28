@@ -2,13 +2,14 @@
   "id": 287269427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.59095,27.842655,-81.59095,27.842655",
     "geom:latitude":27.842655,
     "geom:longitude":-81.59095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 ABC Rd",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287269427,
-    "wof:lastmodified":1449001230,
+    "wof:lastmodified":1466434571,
     "wof:name":"Chemical Containers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plastic"
     ]
 },
-  "bbox": [-81.59095,27.842655,-81.59095,27.842655],
-  "geometry": {"coordinates":[-81.59095,27.842655],"type":"Point"}
+  "bbox": [
+    -81.59095,
+    27.842655,
+    -81.59095,
+    27.842655
+],
+  "geometry": {"coordinates":[-81.59095000000001,27.842655],"type":"Point"}
 }

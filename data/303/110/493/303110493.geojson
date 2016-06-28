@@ -2,13 +2,14 @@
   "id": 303110493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097381,26.207648,-80.097381,26.207648",
     "geom:latitude":26.207648,
     "geom:longitude":-80.097381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 SE 18th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303110493,
-    "wof:lastmodified":1448998918,
+    "wof:lastmodified":1466432409,
     "wof:name":"Boxx Investments Inc",
     "wof:parent_id":85842619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-80.097381,26.207648,-80.097381,26.207648],
+  "bbox": [
+    -80.097381,
+    26.207648,
+    -80.097381,
+    26.207648
+],
   "geometry": {"coordinates":[-80.097381,26.207648],"type":"Point"}
 }

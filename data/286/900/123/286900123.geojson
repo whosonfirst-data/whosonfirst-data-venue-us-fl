@@ -2,13 +2,14 @@
   "id": 286900123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259926,25.745428,-80.259926,25.745428",
     "geom:latitude":25.745428,
     "geom:longitude":-80.259926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Palermo Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286900123,
-    "wof:lastmodified":1449016452,
+    "wof:lastmodified":1466440893,
     "wof:name":"National Insurance",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.259926,25.745428,-80.259926,25.745428],
-  "geometry": {"coordinates":[-80.259926,25.745428],"type":"Point"}
+  "bbox": [
+    -80.259926,
+    25.745428,
+    -80.259926,
+    25.745428
+],
+  "geometry": {"coordinates":[-80.25992599999999,25.745428],"type":"Point"}
 }

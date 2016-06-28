@@ -2,13 +2,14 @@
   "id": 370715433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076478,26.382925,-80.076478,26.382925",
     "geom:latitude":26.382925,
     "geom:longitude":-80.076478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715433,
-    "wof:lastmodified":1449031798,
+    "wof:lastmodified":1466445127,
     "wof:name":"Charles G White Attorney",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.076478,26.382925,-80.076478,26.382925],
-  "geometry": {"coordinates":[-80.076478,26.382925],"type":"Point"}
+  "bbox": [
+    -80.076478,
+    26.382925,
+    -80.076478,
+    26.382925
+],
+  "geometry": {"coordinates":[-80.07647799999999,26.382925],"type":"Point"}
 }

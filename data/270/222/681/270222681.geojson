@@ -2,13 +2,14 @@
   "id": 270222681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.040331,29.779007,-82.040331,29.779007",
     "geom:latitude":29.779007,
     "geom:longitude":-82.040331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Orchid Ave",
     "sg:city":"Keystone Heights",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270222681,
-    "wof:lastmodified":1449010298,
+    "wof:lastmodified":1466433279,
     "wof:name":"Keystone Heights Jr Sr High",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.040331,29.779007,-82.040331,29.779007],
-  "geometry": {"coordinates":[-82.040331,29.779007],"type":"Point"}
+  "bbox": [
+    -82.040331,
+    29.779007,
+    -82.040331,
+    29.779007
+],
+  "geometry": {"coordinates":[-82.04033099999999,29.779007],"type":"Point"}
 }

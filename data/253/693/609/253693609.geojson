@@ -2,13 +2,14 @@
   "id": 253693609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589554,30.2548,-81.589554,30.2548",
     "geom:latitude":30.2548,
     "geom:longitude":-81.589554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Southpoint Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253693609,
-    "wof:lastmodified":1449062990,
+    "wof:lastmodified":1466439048,
     "wof:name":"United Food Group",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-81.589554,30.2548,-81.589554,30.2548],
-  "geometry": {"coordinates":[-81.589554,30.2548],"type":"Point"}
+  "bbox": [
+    -81.589554,
+    30.2548,
+    -81.589554,
+    30.2548
+],
+  "geometry": {"coordinates":[-81.58955400000001,30.2548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236313871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258293,25.896797,-80.258293,25.896797",
     "geom:latitude":25.896797,
     "geom:longitude":-80.258293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 NW 135th St",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236313871,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466432861,
     "wof:name":"Miller Auto Sales Inc",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-80.258293,25.896797,-80.258293,25.896797],
-  "geometry": {"coordinates":[-80.258293,25.896797],"type":"Point"}
+  "bbox": [
+    -80.258293,
+    25.896797,
+    -80.258293,
+    25.896797
+],
+  "geometry": {"coordinates":[-80.25829299999999,25.896797],"type":"Point"}
 }

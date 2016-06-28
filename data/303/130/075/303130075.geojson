@@ -2,13 +2,14 @@
   "id": 303130075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.176403,29.179872,-82.176403,29.179872",
     "geom:latitude":29.179872,
     "geom:longitude":-82.176403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 SW 7th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303130075,
-    "wof:lastmodified":1448998957,
+    "wof:lastmodified":1466432753,
     "wof:name":"Air Borne",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-82.176403,29.179872,-82.176403,29.179872],
-  "geometry": {"coordinates":[-82.176403,29.179872],"type":"Point"}
+  "bbox": [
+    -82.176403,
+    29.179872,
+    -82.176403,
+    29.179872
+],
+  "geometry": {"coordinates":[-82.17640299999999,29.179872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270203691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130651,26.165153,-80.130651,26.165153",
     "geom:latitude":26.165153,
     "geom:longitude":-80.130651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 NE 12th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270203691,
-    "wof:lastmodified":1449009721,
+    "wof:lastmodified":1466432954,
     "wof:name":"Measuring and Control Engrg",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vibration"
     ]
 },
-  "bbox": [-80.130651,26.165153,-80.130651,26.165153],
+  "bbox": [
+    -80.130651,
+    26.165153,
+    -80.130651,
+    26.165153
+],
   "geometry": {"coordinates":[-80.130651,26.165153],"type":"Point"}
 }

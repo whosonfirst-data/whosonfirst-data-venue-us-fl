@@ -2,13 +2,14 @@
   "id": 202626455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.291643,25.810527,-80.291643,25.810527",
     "geom:latitude":25.810527,
     "geom:longitude":-80.291643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 NW 58th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202626455,
-    "wof:lastmodified":1449062653,
+    "wof:lastmodified":1466430036,
     "wof:name":"E T Plastering Inc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "nonmetallic"
     ]
 },
-  "bbox": [-80.291643,25.810527,-80.291643,25.810527],
-  "geometry": {"coordinates":[-80.291643,25.810527],"type":"Point"}
+  "bbox": [
+    -80.291643,
+    25.810527,
+    -80.291643,
+    25.810527
+],
+  "geometry": {"coordinates":[-80.29164299999999,25.810527],"type":"Point"}
 }

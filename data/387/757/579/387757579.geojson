@@ -2,13 +2,14 @@
   "id": 387757579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900829,28.850738,-81.900829,28.850738",
     "geom:latitude":28.850738,
     "geom:longitude":-81.900829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3277 US Hwy 27",
     "sg:city":"Fruitland Park",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387757579,
-    "wof:lastmodified":1449058253,
+    "wof:lastmodified":1466448532,
     "wof:name":"Texaco Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.900829,28.850738,-81.900829,28.850738],
+  "bbox": [
+    -81.900829,
+    28.850738,
+    -81.900829,
+    28.850738
+],
   "geometry": {"coordinates":[-81.900829,28.850738],"type":"Point"}
 }

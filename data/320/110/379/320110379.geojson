@@ -2,13 +2,14 @@
   "id": 320110379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255134,25.880262,-80.255134,25.880262",
     "geom:latitude":25.880262,
     "geom:longitude":-80.255134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3345 NW 116th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320110379,
-    "wof:lastmodified":1449012501,
+    "wof:lastmodified":1466435267,
     "wof:name":"Promptus",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.255134,25.880262,-80.255134,25.880262],
+  "bbox": [
+    -80.255134,
+    25.880262,
+    -80.255134,
+    25.880262
+],
   "geometry": {"coordinates":[-80.255134,25.880262],"type":"Point"}
 }

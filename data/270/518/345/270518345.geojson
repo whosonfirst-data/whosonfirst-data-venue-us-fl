@@ -2,13 +2,14 @@
   "id": 270518345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.270598,30.437132,-84.270598,30.437132",
     "geom:latitude":30.437132,
     "geom:longitude":-84.270598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 E Lafayette St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270518345,
-    "wof:lastmodified":1449010037,
+    "wof:lastmodified":1466438335,
     "wof:name":"Tpke Toll Operations",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "toll"
     ]
 },
-  "bbox": [-84.270598,30.437132,-84.270598,30.437132],
-  "geometry": {"coordinates":[-84.270598,30.437132],"type":"Point"}
+  "bbox": [
+    -84.270598,
+    30.437132,
+    -84.270598,
+    30.437132
+],
+  "geometry": {"coordinates":[-84.27059800000001,30.437132],"type":"Point"}
 }

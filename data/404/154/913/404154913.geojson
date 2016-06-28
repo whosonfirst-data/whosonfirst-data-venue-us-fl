@@ -2,13 +2,14 @@
   "id": 404154913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109545,26.201289,-80.109545,26.201289",
     "geom:latitude":26.201289,
     "geom:longitude":-80.109545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5975 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404154913,
-    "wof:lastmodified":1449040339,
+    "wof:lastmodified":1466442650,
     "wof:name":"Hooters",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.109545,26.201289,-80.109545,26.201289],
+  "bbox": [
+    -80.109545,
+    26.201289,
+    -80.109545,
+    26.201289
+],
   "geometry": {"coordinates":[-80.109545,26.201289],"type":"Point"}
 }

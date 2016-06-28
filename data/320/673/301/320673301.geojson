@@ -2,13 +2,14 @@
   "id": 320673301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.28342,26.295178,-80.28342,26.295178",
     "geom:latitude":26.295178,
     "geom:longitude":-80.28342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4833 NW 117th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320673301,
-    "wof:lastmodified":1449012715,
+    "wof:lastmodified":1466445031,
     "wof:name":"Coral Springs Plumbing Inc",
     "wof:parent_id":85876909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.28342,26.295178,-80.28342,26.295178],
-  "geometry": {"coordinates":[-80.28342,26.295178],"type":"Point"}
+  "bbox": [
+    -80.28342,
+    26.295178,
+    -80.28342,
+    26.295178
+],
+  "geometry": {"coordinates":[-80.28342000000001,26.295178],"type":"Point"}
 }

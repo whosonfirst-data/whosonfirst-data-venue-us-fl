@@ -2,13 +2,14 @@
   "id": 387959001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314175,25.809224,-80.314175,25.809224",
     "geom:latitude":25.809224,
     "geom:longitude":-80.314175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7370 NW 36th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387959001,
-    "wof:lastmodified":1449059534,
+    "wof:lastmodified":1466449892,
     "wof:name":"Csr",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-80.314175,25.809224,-80.314175,25.809224],
-  "geometry": {"coordinates":[-80.314175,25.809224],"type":"Point"}
+  "bbox": [
+    -80.314175,
+    25.809224,
+    -80.314175,
+    25.809224
+],
+  "geometry": {"coordinates":[-80.31417500000001,25.809224],"type":"Point"}
 }

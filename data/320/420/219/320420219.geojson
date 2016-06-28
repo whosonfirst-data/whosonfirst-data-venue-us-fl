@@ -2,13 +2,14 @@
   "id": 320420219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23869,26.200705,-80.23869,26.200705",
     "geom:latitude":26.200705,
     "geom:longitude":-80.23869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2338 SW 82nd Ter",
     "sg:city":"North Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320420219,
-    "wof:lastmodified":1449013044,
+    "wof:lastmodified":1466440600,
     "wof:name":"R & R Con Enterprise",
     "wof:parent_id":85896107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-80.23869,26.200705,-80.23869,26.200705],
-  "geometry": {"coordinates":[-80.23869,26.200705],"type":"Point"}
+  "bbox": [
+    -80.23869,
+    26.200705,
+    -80.23869,
+    26.200705
+],
+  "geometry": {"coordinates":[-80.23869000000001,26.200705],"type":"Point"}
 }

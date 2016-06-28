@@ -2,13 +2,14 @@
   "id": 220101145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085028,26.386098,-80.085028,26.386098",
     "geom:latitude":26.386098,
     "geom:longitude":-80.085028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 NW Boca Raton Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220101145,
-    "wof:lastmodified":1449074465,
+    "wof:lastmodified":1466445899,
     "wof:name":"Transactions Network Svc",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.085028,26.386098,-80.085028,26.386098],
-  "geometry": {"coordinates":[-80.085028,26.386098],"type":"Point"}
+  "bbox": [
+    -80.085028,
+    26.386098,
+    -80.085028,
+    26.386098
+],
+  "geometry": {"coordinates":[-80.08502799999999,26.386098],"type":"Point"}
 }

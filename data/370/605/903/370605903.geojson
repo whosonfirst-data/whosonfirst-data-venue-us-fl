@@ -2,13 +2,14 @@
   "id": 370605903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.648818,30.307,-81.648818,30.307",
     "geom:latitude":30.307,
     "geom:longitude":-81.648818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Atlantic Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370605903,
-    "wof:lastmodified":1449030740,
+    "wof:lastmodified":1466443462,
     "wof:name":"Lucas Herndon Hyers Pennywitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-81.648818,30.307,-81.648818,30.307],
-  "geometry": {"coordinates":[-81.648818,30.307],"type":"Point"}
+  "bbox": [
+    -81.648818,
+    30.307,
+    -81.648818,
+    30.307
+],
+  "geometry": {"coordinates":[-81.64881800000001,30.307],"type":"Point"}
 }

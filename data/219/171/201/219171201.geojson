@@ -2,13 +2,14 @@
   "id": 219171201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79985,26.187459,-81.79985,26.187459",
     "geom:latitude":26.187459,
     "geom:longitude":-81.79985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219171201,
-    "wof:lastmodified":1449073933,
+    "wof:lastmodified":1466442536,
     "wof:name":"Life Works Of Naples",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-81.79985,26.187459,-81.79985,26.187459],
-  "geometry": {"coordinates":[-81.79985,26.187459],"type":"Point"}
+  "bbox": [
+    -81.79985,
+    26.187459,
+    -81.79985,
+    26.187459
+],
+  "geometry": {"coordinates":[-81.79985000000001,26.187459],"type":"Point"}
 }

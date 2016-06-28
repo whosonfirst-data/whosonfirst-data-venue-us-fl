@@ -2,13 +2,14 @@
   "id": 370365197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.439228,27.961684,-82.439228,27.961684",
     "geom:latitude":27.961684,
     "geom:longitude":-82.439228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E 9th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370365197,
-    "wof:lastmodified":1449029633,
+    "wof:lastmodified":1466439761,
     "wof:name":"Hilton",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-82.439228,27.961684,-82.439228,27.961684],
+  "bbox": [
+    -82.439228,
+    27.961684,
+    -82.439228,
+    27.961684
+],
   "geometry": {"coordinates":[-82.439228,27.961684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270154583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316216,26.140229,-80.316216,26.140229",
     "geom:latitude":26.140229,
     "geom:longitude":-80.316216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 NW 125th Ter",
     "sg:city":"Sunrise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270154583,
-    "wof:lastmodified":1449011141,
+    "wof:lastmodified":1466432091,
     "wof:name":"DPA Processing Svc",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-80.316216,26.140229,-80.316216,26.140229],
+  "bbox": [
+    -80.316216,
+    26.140229,
+    -80.316216,
+    26.140229
+],
   "geometry": {"coordinates":[-80.316216,26.140229],"type":"Point"}
 }

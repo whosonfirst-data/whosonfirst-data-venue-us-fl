@@ -2,13 +2,14 @@
   "id": 303162227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.434698,27.946509,-82.434698,27.946509",
     "geom:latitude":27.946509,
     "geom:longitude":-82.434698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S 22nd St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303162227,
-    "wof:lastmodified":1449000203,
+    "wof:lastmodified":1466433326,
     "wof:name":"Convenience Center",
     "wof:parent_id":85873241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.434698,27.946509,-82.434698,27.946509],
+  "bbox": [
+    -82.434698,
+    27.946509,
+    -82.434698,
+    27.946509
+],
   "geometry": {"coordinates":[-82.434698,27.946509],"type":"Point"}
 }

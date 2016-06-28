@@ -2,13 +2,14 @@
   "id": 336900685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.632646,30.138827,-81.632646,30.138827",
     "geom:latitude":30.138827,
     "geom:longitude":-81.632646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12646 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336900685,
-    "wof:lastmodified":1448997416,
+    "wof:lastmodified":1466440204,
     "wof:name":"Remax",
     "wof:parent_id":85816563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.632646,30.138827,-81.632646,30.138827],
-  "geometry": {"coordinates":[-81.632646,30.138827],"type":"Point"}
+  "bbox": [
+    -81.632646,
+    30.138827,
+    -81.632646,
+    30.138827
+],
+  "geometry": {"coordinates":[-81.63264599999999,30.138827],"type":"Point"}
 }

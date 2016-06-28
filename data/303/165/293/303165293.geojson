@@ -2,13 +2,14 @@
   "id": 303165293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603357,30.269576,-81.603357,30.269576",
     "geom:latitude":30.269576,
     "geom:longitude":-81.603357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3138 Skipper Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303165293,
-    "wof:lastmodified":1449000569,
+    "wof:lastmodified":1466433380,
     "wof:name":"Dewitt Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.603357,30.269576,-81.603357,30.269576],
+  "bbox": [
+    -81.603357,
+    30.269576,
+    -81.603357,
+    30.269576
+],
   "geometry": {"coordinates":[-81.603357,30.269576],"type":"Point"}
 }

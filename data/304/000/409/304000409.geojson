@@ -2,13 +2,14 @@
   "id": 304000409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.999795,26.580546,-81.999795,26.580546",
     "geom:latitude":26.580546,
     "geom:longitude":-81.999795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1142 SW 38th Ter",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304000409,
-    "wof:lastmodified":1449043647,
+    "wof:lastmodified":1466446251,
     "wof:name":"St Bay Tile",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.999795,26.580546,-81.999795,26.580546],
-  "geometry": {"coordinates":[-81.999795,26.580546],"type":"Point"}
+  "bbox": [
+    -81.999795,
+    26.580546,
+    -81.999795,
+    26.580546
+],
+  "geometry": {"coordinates":[-81.99979500000001,26.580546],"type":"Point"}
 }

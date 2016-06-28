@@ -2,13 +2,14 @@
   "id": 354338077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.498725,25.476218,-80.498725,25.476218",
     "geom:latitude":25.476218,
     "geom:longitude":-80.498725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18954 SW 313th St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354338077,
-    "wof:lastmodified":1449066504,
+    "wof:lastmodified":1466441289,
     "wof:name":"Coronado Gregorio",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.498725,25.476218,-80.498725,25.476218],
-  "geometry": {"coordinates":[-80.498725,25.476218],"type":"Point"}
+  "bbox": [
+    -80.498725,
+    25.476218,
+    -80.498725,
+    25.476218
+],
+  "geometry": {"coordinates":[-80.49872499999999,25.476218],"type":"Point"}
 }

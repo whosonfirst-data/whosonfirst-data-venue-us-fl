@@ -2,13 +2,14 @@
   "id": 320779335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261365,25.847313,-80.261365,25.847313",
     "geom:latitude":25.847313,
     "geom:longitude":-80.261365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1063 E 27th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320779335,
-    "wof:lastmodified":1449011827,
+    "wof:lastmodified":1466446822,
     "wof:name":"Master Machine Shop",
     "wof:parent_id":85878147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing"
     ]
 },
-  "bbox": [-80.261365,25.847313,-80.261365,25.847313],
+  "bbox": [
+    -80.261365,
+    25.847313,
+    -80.261365,
+    25.847313
+],
   "geometry": {"coordinates":[-80.261365,25.847313],"type":"Point"}
 }

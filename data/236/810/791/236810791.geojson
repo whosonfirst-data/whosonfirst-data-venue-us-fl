@@ -2,13 +2,14 @@
   "id": 236810791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.470774,28.450146,-81.470774,28.450146",
     "geom:latitude":28.450146,
     "geom:longitude":-81.470774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7231 International Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236810791,
-    "wof:lastmodified":1449002436,
+    "wof:lastmodified":1466439991,
     "wof:name":"ABC Investments LLC",
     "wof:parent_id":85866879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-81.470774,28.450146,-81.470774,28.450146],
-  "geometry": {"coordinates":[-81.470774,28.450146],"type":"Point"}
+  "bbox": [
+    -81.470774,
+    28.450146,
+    -81.470774,
+    28.450146
+],
+  "geometry": {"coordinates":[-81.47077400000001,28.450146],"type":"Point"}
 }

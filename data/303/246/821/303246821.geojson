@@ -2,13 +2,14 @@
   "id": 303246821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780245,26.138221,-81.780245,26.138221",
     "geom:latitude":26.138221,
     "geom:longitude":-81.780245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Davis Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303246821,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466434794,
     "wof:name":"Nae Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.780245,26.138221,-81.780245,26.138221],
-  "geometry": {"coordinates":[-81.780245,26.138221],"type":"Point"}
+  "bbox": [
+    -81.780245,
+    26.138221,
+    -81.780245,
+    26.138221
+],
+  "geometry": {"coordinates":[-81.78024499999999,26.138221],"type":"Point"}
 }

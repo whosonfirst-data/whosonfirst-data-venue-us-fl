@@ -2,13 +2,14 @@
   "id": 387940971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.652319,30.463003,-86.652319,30.463003",
     "geom:latitude":30.463003,
     "geom:longitude":-86.652319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Little Crescent St",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387940971,
-    "wof:lastmodified":1449057033,
+    "wof:lastmodified":1466449808,
     "wof:name":"BJS Cleaning Svc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-86.652319,30.463003,-86.652319,30.463003],
-  "geometry": {"coordinates":[-86.652319,30.463003],"type":"Point"}
+  "bbox": [
+    -86.652319,
+    30.463003,
+    -86.652319,
+    30.463003
+],
+  "geometry": {"coordinates":[-86.65231900000001,30.463003],"type":"Point"}
 }

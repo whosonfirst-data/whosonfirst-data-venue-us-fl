@@ -2,13 +2,14 @@
   "id": 354163097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404471,28.383003,-81.404471,28.383003",
     "geom:latitude":28.383003,
     "geom:longitude":-81.404471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12421 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354163097,
-    "wof:lastmodified":1449067646,
+    "wof:lastmodified":1466438601,
     "wof:name":"Backstage Billiards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billiard"
     ]
 },
-  "bbox": [-81.404471,28.383003,-81.404471,28.383003],
+  "bbox": [
+    -81.404471,
+    28.383003,
+    -81.404471,
+    28.383003
+],
   "geometry": {"coordinates":[-81.404471,28.383003],"type":"Point"}
 }

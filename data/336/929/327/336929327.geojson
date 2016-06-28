@@ -2,13 +2,14 @@
   "id": 336929327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33056,25.626189,-80.33056,25.626189",
     "geom:latitude":25.626189,
     "geom:longitude":-80.33056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8440 SW 155th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336929327,
-    "wof:lastmodified":1448997359,
+    "wof:lastmodified":1466440667,
     "wof:name":"Sun Bay Manor Inc",
     "wof:parent_id":85845433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "residential"
     ]
 },
-  "bbox": [-80.33056,25.626189,-80.33056,25.626189],
-  "geometry": {"coordinates":[-80.33056,25.626189],"type":"Point"}
+  "bbox": [
+    -80.33056,
+    25.626189,
+    -80.33056,
+    25.626189
+],
+  "geometry": {"coordinates":[-80.33056000000001,25.626189],"type":"Point"}
 }

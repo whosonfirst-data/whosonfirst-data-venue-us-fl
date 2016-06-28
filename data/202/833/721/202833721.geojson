@@ -2,13 +2,14 @@
   "id": 202833721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.046771,29.255539,-81.046771,29.255539",
     "geom:latitude":29.255539,
     "geom:longitude":-81.046771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Ridgewood Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202833721,
-    "wof:lastmodified":1449060431,
+    "wof:lastmodified":1466432703,
     "wof:name":"Daytona Institute Of Massage",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.046771,29.255539,-81.046771,29.255539],
-  "geometry": {"coordinates":[-81.046771,29.255539],"type":"Point"}
+  "bbox": [
+    -81.046771,
+    29.255539,
+    -81.046771,
+    29.255539
+],
+  "geometry": {"coordinates":[-81.04677100000001,29.255539],"type":"Point"}
 }

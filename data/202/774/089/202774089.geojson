@@ -2,13 +2,14 @@
   "id": 202774089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.804876,30.220699,-81.804876,30.220699",
     "geom:latitude":30.220699,
     "geom:longitude":-81.804876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7027 Harrisburg Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202774089,
-    "wof:lastmodified":1449061101,
+    "wof:lastmodified":1466431928,
     "wof:name":"Buettgen Consulting",
     "wof:parent_id":85870747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.804876,30.220699,-81.804876,30.220699],
-  "geometry": {"coordinates":[-81.804876,30.220699],"type":"Point"}
+  "bbox": [
+    -81.804876,
+    30.220699,
+    -81.804876,
+    30.220699
+],
+  "geometry": {"coordinates":[-81.80487599999999,30.220699],"type":"Point"}
 }

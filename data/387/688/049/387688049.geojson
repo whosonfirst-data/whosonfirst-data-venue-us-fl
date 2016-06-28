@@ -2,13 +2,14 @@
   "id": 387688049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169528,25.927441,-80.169528,25.927441",
     "geom:latitude":25.927441,
     "geom:longitude":-80.169528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1572 NE 165th St",
     "sg:city":"North Miami Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387688049,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1466447980,
     "wof:name":"Millenium Bakery",
     "wof:parent_id":85879295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-80.169528,25.927441,-80.169528,25.927441],
+  "bbox": [
+    -80.169528,
+    25.927441,
+    -80.169528,
+    25.927441
+],
   "geometry": {"coordinates":[-80.169528,25.927441],"type":"Point"}
 }

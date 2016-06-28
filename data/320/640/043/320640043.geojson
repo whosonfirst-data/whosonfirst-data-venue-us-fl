@@ -2,13 +2,14 @@
   "id": 320640043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.422469,29.655187,-82.422469,29.655187",
     "geom:latitude":29.655187,
     "geom:longitude":-82.422469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 NW 75 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320640043,
-    "wof:lastmodified":1449012873,
+    "wof:lastmodified":1466444468,
     "wof:name":"Bullard Homes",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.422469,29.655187,-82.422469,29.655187],
-  "geometry": {"coordinates":[-82.422469,29.655187],"type":"Point"}
+  "bbox": [
+    -82.422469,
+    29.655187,
+    -82.422469,
+    29.655187
+],
+  "geometry": {"coordinates":[-82.42246900000001,29.655187],"type":"Point"}
 }

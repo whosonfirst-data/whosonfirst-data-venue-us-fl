@@ -2,13 +2,14 @@
   "id": 253100805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165689,25.883232,-80.165689,25.883232",
     "geom:latitude":25.883232,
     "geom:longitude":-80.165689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11755 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253100805,
-    "wof:lastmodified":1449065014,
+    "wof:lastmodified":1466429896,
     "wof:name":"South Beach",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.165689,25.883232,-80.165689,25.883232],
+  "bbox": [
+    -80.165689,
+    25.883232,
+    -80.165689,
+    25.883232
+],
   "geometry": {"coordinates":[-80.165689,25.883232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336654893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.638281,30.161745,-85.638281,30.161745",
     "geom:latitude":30.161745,
     "geom:longitude":-85.638281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 E 7th Plz",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336654893,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466435928,
     "wof:name":"Cephas Concrete Inc",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.638281,30.161745,-85.638281,30.161745],
-  "geometry": {"coordinates":[-85.638281,30.161745],"type":"Point"}
+  "bbox": [
+    -85.638281,
+    30.161745,
+    -85.638281,
+    30.161745
+],
+  "geometry": {"coordinates":[-85.63828100000001,30.161745],"type":"Point"}
 }

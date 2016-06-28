@@ -2,13 +2,14 @@
   "id": 270002227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20427,25.926102,-80.20427,25.926102",
     "geom:latitude":25.926102,
     "geom:longitude":-80.20427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16400 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270002227,
-    "wof:lastmodified":1449010623,
+    "wof:lastmodified":1466429491,
     "wof:name":"Simonson & Olson",
     "wof:parent_id":85852993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.20427,25.926102,-80.20427,25.926102],
-  "geometry": {"coordinates":[-80.20427,25.926102],"type":"Point"}
+  "bbox": [
+    -80.20427,
+    25.926102,
+    -80.20427,
+    25.926102
+],
+  "geometry": {"coordinates":[-80.20426999999999,25.926102],"type":"Point"}
 }

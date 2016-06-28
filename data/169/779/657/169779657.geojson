@@ -2,13 +2,14 @@
   "id": 169779657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.333117,28.787227,-81.333117,28.787227",
     "geom:latitude":28.787227,
     "geom:longitude":-81.333117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Kaywood Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169779657,
-    "wof:lastmodified":1449033196,
+    "wof:lastmodified":1466428786,
     "wof:name":"Central Florida Custom Tile In",
     "wof:parent_id":85831111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.333117,28.787227,-81.333117,28.787227],
+  "bbox": [
+    -81.333117,
+    28.787227,
+    -81.333117,
+    28.787227
+],
   "geometry": {"coordinates":[-81.333117,28.787227],"type":"Point"}
 }

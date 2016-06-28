@@ -2,13 +2,14 @@
   "id": 286677077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.508935,30.388163,-81.508935,30.388163",
     "geom:latitude":30.388163,
     "geom:longitude":-81.508935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4947 Wild Heron Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286677077,
-    "wof:lastmodified":1449016241,
+    "wof:lastmodified":1466436932,
     "wof:name":"Mikes Pressure Washing",
     "wof:parent_id":85805021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-81.508935,30.388163,-81.508935,30.388163],
-  "geometry": {"coordinates":[-81.508935,30.388163],"type":"Point"}
+  "bbox": [
+    -81.508935,
+    30.388163,
+    -81.508935,
+    30.388163
+],
+  "geometry": {"coordinates":[-81.50893499999999,30.388163],"type":"Point"}
 }

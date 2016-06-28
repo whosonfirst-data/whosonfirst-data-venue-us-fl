@@ -2,13 +2,14 @@
   "id": 219683201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259093,27.121343,-80.259093,27.121343",
     "geom:latitude":27.121343,
     "geom:longitude":-80.259093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 SW Salerno Rd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219683201,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466433873,
     "wof:name":"Network Specialists LLC",
     "wof:parent_id":85889617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-80.259093,27.121343,-80.259093,27.121343],
-  "geometry": {"coordinates":[-80.259093,27.121343],"type":"Point"}
+  "bbox": [
+    -80.259093,
+    27.121343,
+    -80.259093,
+    27.121343
+],
+  "geometry": {"coordinates":[-80.25909299999999,27.121343],"type":"Point"}
 }

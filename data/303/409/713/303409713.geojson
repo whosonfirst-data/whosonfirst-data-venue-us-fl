@@ -2,13 +2,14 @@
   "id": 303409713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.329699,30.60809,-87.329699,30.60809",
     "geom:latitude":30.60809,
     "geom:longitude":-87.329699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Muscogee Rd",
     "sg:city":"Cantonment",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303409713,
-    "wof:lastmodified":1448999123,
+    "wof:lastmodified":1466437591,
     "wof:name":"Sand Dollar",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.329699,30.60809,-87.329699,30.60809],
-  "geometry": {"coordinates":[-87.329699,30.60809],"type":"Point"}
+  "bbox": [
+    -87.329699,
+    30.60809,
+    -87.329699,
+    30.60809
+],
+  "geometry": {"coordinates":[-87.32969900000001,30.60809],"type":"Point"}
 }

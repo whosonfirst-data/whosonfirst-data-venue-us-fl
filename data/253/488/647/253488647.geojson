@@ -2,13 +2,14 @@
   "id": 253488647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.609243,28.355971,-80.609243,28.355971",
     "geom:latitude":28.355971,
     "geom:longitude":-80.609243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Canaveral Plaza Blvd",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253488647,
-    "wof:lastmodified":1449065727,
+    "wof:lastmodified":1466435425,
     "wof:name":"Island Sensations",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.609243,28.355971,-80.609243,28.355971],
-  "geometry": {"coordinates":[-80.609243,28.355971],"type":"Point"}
+  "bbox": [
+    -80.609243,
+    28.355971,
+    -80.609243,
+    28.355971
+],
+  "geometry": {"coordinates":[-80.60924300000001,28.355971],"type":"Point"}
 }

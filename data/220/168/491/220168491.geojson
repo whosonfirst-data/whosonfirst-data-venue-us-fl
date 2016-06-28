@@ -2,13 +2,14 @@
   "id": 220168491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.598923,30.291717,-81.598923,30.291717",
     "geom:latitude":30.291717,
     "geom:longitude":-81.598923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6241 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220168491,
-    "wof:lastmodified":1449074458,
+    "wof:lastmodified":1466429165,
     "wof:name":"Sunshine State Wrecker Sales",
     "wof:parent_id":85868537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-81.598923,30.291717,-81.598923,30.291717],
+  "bbox": [
+    -81.598923,
+    30.291717,
+    -81.598923,
+    30.291717
+],
   "geometry": {"coordinates":[-81.598923,30.291717],"type":"Point"}
 }

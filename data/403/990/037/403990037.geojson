@@ -2,13 +2,14 @@
   "id": 403990037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.267665,26.1703,-80.267665,26.1703",
     "geom:latitude":26.1703,
     "geom:longitude":-80.267665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3531 N Pine Island Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403990037,
-    "wof:lastmodified":1449055510,
+    "wof:lastmodified":1466444149,
     "wof:name":"Steven J Kusnick DDS",
     "wof:parent_id":85896109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.267665,26.1703,-80.267665,26.1703],
-  "geometry": {"coordinates":[-80.267665,26.1703],"type":"Point"}
+  "bbox": [
+    -80.267665,
+    26.1703,
+    -80.267665,
+    26.1703
+],
+  "geometry": {"coordinates":[-80.26766499999999,26.1703],"type":"Point"}
 }

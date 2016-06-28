@@ -2,13 +2,14 @@
   "id": 253094689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.813618,28.573116,-80.813618,28.573116",
     "geom:latitude":28.573116,
     "geom:longitude":-80.813618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3667 Muirfield Dr",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253094689,
-    "wof:lastmodified":1449064672,
+    "wof:lastmodified":1466429812,
     "wof:name":"McHenry Steel Co",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "works"
     ]
 },
-  "bbox": [-80.813618,28.573116,-80.813618,28.573116],
-  "geometry": {"coordinates":[-80.813618,28.573116],"type":"Point"}
+  "bbox": [
+    -80.813618,
+    28.573116,
+    -80.813618,
+    28.573116
+],
+  "geometry": {"coordinates":[-80.81361800000001,28.573116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287241087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.298426,30.438801,-84.298426,30.438801",
     "geom:latitude":30.438801,
     "geom:longitude":-84.298426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 W Pensacola St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287241087,
-    "wof:lastmodified":1449001573,
+    "wof:lastmodified":1466434105,
     "wof:name":"Jeffwood Apts",
     "wof:parent_id":85889635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-84.298426,30.438801,-84.298426,30.438801],
-  "geometry": {"coordinates":[-84.298426,30.438801],"type":"Point"}
+  "bbox": [
+    -84.298426,
+    30.438801,
+    -84.298426,
+    30.438801
+],
+  "geometry": {"coordinates":[-84.29842600000001,30.438801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320782235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.430643,25.703276,-80.430643,25.703276",
     "geom:latitude":25.703276,
     "geom:longitude":-80.430643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 SW 147th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320782235,
-    "wof:lastmodified":1449011245,
+    "wof:lastmodified":1466446687,
     "wof:name":"Sovereigns Condo",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.430643,25.703276,-80.430643,25.703276],
+  "bbox": [
+    -80.430643,
+    25.703276,
+    -80.430643,
+    25.703276
+],
   "geometry": {"coordinates":[-80.430643,25.703276],"type":"Point"}
 }

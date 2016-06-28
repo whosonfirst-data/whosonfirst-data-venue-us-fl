@@ -2,13 +2,14 @@
   "id": 370510523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241954,30.429151,-87.241954,30.429151",
     "geom:latitude":30.429151,
     "geom:longitude":-87.241954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 N P St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370510523,
-    "wof:lastmodified":1449031118,
+    "wof:lastmodified":1466442002,
     "wof:name":"Rufus Hicks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.241954,30.429151,-87.241954,30.429151],
-  "geometry": {"coordinates":[-87.241954,30.429151],"type":"Point"}
+  "bbox": [
+    -87.241954,
+    30.429151,
+    -87.241954,
+    30.429151
+],
+  "geometry": {"coordinates":[-87.24195400000001,30.429151],"type":"Point"}
 }

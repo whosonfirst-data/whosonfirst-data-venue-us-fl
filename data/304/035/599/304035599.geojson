@@ -2,13 +2,14 @@
   "id": 304035599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.816905,30.210734,-81.816905,30.210734",
     "geom:latitude":30.210734,
     "geom:longitude":-81.816905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Taylor Field Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304035599,
-    "wof:lastmodified":1449044037,
+    "wof:lastmodified":1466432430,
     "wof:name":"Florida Landmark & Association",
     "wof:parent_id":85870747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-81.816905,30.210734,-81.816905,30.210734],
-  "geometry": {"coordinates":[-81.816905,30.210734],"type":"Point"}
+  "bbox": [
+    -81.816905,
+    30.210734,
+    -81.816905,
+    30.210734
+],
+  "geometry": {"coordinates":[-81.81690500000001,30.210734],"type":"Point"}
 }

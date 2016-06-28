@@ -2,13 +2,14 @@
   "id": 320176439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.505525,27.595837,-81.505525,27.595837",
     "geom:latitude":27.595837,
     "geom:longitude":-81.505525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 N Museum Ave",
     "sg:city":"Avon Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320176439,
-    "wof:lastmodified":1449013708,
+    "wof:lastmodified":1466436406,
     "wof:name":"Avon Park City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gallery"
     ]
 },
-  "bbox": [-81.505525,27.595837,-81.505525,27.595837],
-  "geometry": {"coordinates":[-81.505525,27.595837],"type":"Point"}
+  "bbox": [
+    -81.505525,
+    27.595837,
+    -81.505525,
+    27.595837
+],
+  "geometry": {"coordinates":[-81.50552500000001,27.595837],"type":"Point"}
 }

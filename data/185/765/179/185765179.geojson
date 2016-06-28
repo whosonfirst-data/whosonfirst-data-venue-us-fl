@@ -2,13 +2,14 @@
   "id": 185765179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.493739,27.944864,-82.493739,27.944864",
     "geom:latitude":27.944864,
     "geom:longitude":-82.493739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 W Kennedy Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185765179,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466428639,
     "wof:name":"Etruscan Tile & Bath",
     "wof:parent_id":85889815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tile"
     ]
 },
-  "bbox": [-82.493739,27.944864,-82.493739,27.944864],
-  "geometry": {"coordinates":[-82.493739,27.944864],"type":"Point"}
+  "bbox": [
+    -82.493739,
+    27.944864,
+    -82.493739,
+    27.944864
+],
+  "geometry": {"coordinates":[-82.49373900000001,27.944864],"type":"Point"}
 }

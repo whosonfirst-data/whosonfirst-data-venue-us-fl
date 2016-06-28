@@ -2,13 +2,14 @@
   "id": 169678169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351127,28.6853,-81.351127,28.6853",
     "geom:latitude":28.6853,
     "geom:longitude":-81.351127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Poyner Dr",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169678169,
-    "wof:lastmodified":1449034275,
+    "wof:lastmodified":1466445227,
     "wof:name":"Logical Air Solutions Inc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.351127,28.6853,-81.351127,28.6853],
-  "geometry": {"coordinates":[-81.351127,28.6853],"type":"Point"}
+  "bbox": [
+    -81.351127,
+    28.6853,
+    -81.351127,
+    28.6853
+],
+  "geometry": {"coordinates":[-81.35112700000001,28.6853],"type":"Point"}
 }

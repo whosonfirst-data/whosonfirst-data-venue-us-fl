@@ -2,13 +2,14 @@
   "id": 320510281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.961571,26.549288,-81.961571,26.549288",
     "geom:latitude":26.549288,
     "geom:longitude":-81.961571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5314 Darby Ct",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320510281,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466442197,
     "wof:name":"Alenco Systems Inc",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.961571,26.549288,-81.961571,26.549288],
-  "geometry": {"coordinates":[-81.961571,26.549288],"type":"Point"}
+  "bbox": [
+    -81.961571,
+    26.549288,
+    -81.961571,
+    26.549288
+],
+  "geometry": {"coordinates":[-81.96157100000001,26.549288],"type":"Point"}
 }

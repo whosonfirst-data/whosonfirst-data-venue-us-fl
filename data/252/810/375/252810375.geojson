@@ -2,13 +2,14 @@
   "id": 252810375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690114,30.745538,-86.690114,30.745538",
     "geom:latitude":30.745538,
     "geom:longitude":-86.690114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5056 Keyser Mill Rd",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252810375,
-    "wof:lastmodified":1449005735,
+    "wof:lastmodified":1466429911,
     "wof:name":"Heath Enterprises",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.690114,30.745538,-86.690114,30.745538],
-  "geometry": {"coordinates":[-86.690114,30.745538],"type":"Point"}
+  "bbox": [
+    -86.690114,
+    30.745538,
+    -86.690114,
+    30.745538
+],
+  "geometry": {"coordinates":[-86.69011399999999,30.745538],"type":"Point"}
 }

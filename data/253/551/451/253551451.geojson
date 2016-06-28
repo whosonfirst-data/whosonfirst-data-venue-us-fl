@@ -2,13 +2,14 @@
   "id": 253551451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.223352,30.48128,-87.223352,30.48128",
     "geom:latitude":30.48128,
     "geom:longitude":-87.223352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5827 N Davis Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253551451,
-    "wof:lastmodified":1449063409,
+    "wof:lastmodified":1466436534,
     "wof:name":"Florida Rock & Tank Lines Inc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-87.223352,30.48128,-87.223352,30.48128],
-  "geometry": {"coordinates":[-87.223352,30.48128],"type":"Point"}
+  "bbox": [
+    -87.223352,
+    30.48128,
+    -87.223352,
+    30.48128
+],
+  "geometry": {"coordinates":[-87.22335200000001,30.48128],"type":"Point"}
 }

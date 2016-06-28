@@ -2,13 +2,14 @@
   "id": 252961039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.207225,26.204167,-80.207225,26.204167",
     "geom:latitude":26.204167,
     "geom:longitude":-80.207225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 SW 62nd Ave",
     "sg:city":"North Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252961039,
-    "wof:lastmodified":1449006480,
+    "wof:lastmodified":1466432082,
     "wof:name":"Broadview Children's Ctr",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.207225,26.204167,-80.207225,26.204167],
-  "geometry": {"coordinates":[-80.207225,26.204167],"type":"Point"}
+  "bbox": [
+    -80.207225,
+    26.204167,
+    -80.207225,
+    26.204167
+],
+  "geometry": {"coordinates":[-80.20722499999999,26.204167],"type":"Point"}
 }

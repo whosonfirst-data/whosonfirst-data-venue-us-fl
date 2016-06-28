@@ -2,13 +2,14 @@
   "id": 370847845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.124285,27.984023,-82.124285,27.984023",
     "geom:latitude":27.984023,
     "geom:longitude":-82.124285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Park Springs Cir",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370847845,
-    "wof:lastmodified":1449030317,
+    "wof:lastmodified":1466446999,
     "wof:name":"Park Springs Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.124285,27.984023,-82.124285,27.984023],
+  "bbox": [
+    -82.124285,
+    27.984023,
+    -82.124285,
+    27.984023
+],
   "geometry": {"coordinates":[-82.124285,27.984023],"type":"Point"}
 }

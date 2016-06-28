@@ -2,13 +2,14 @@
   "id": 370721003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248488,26.034605,-80.248488,26.034605",
     "geom:latitude":26.034605,
     "geom:longitude":-80.248488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2776 N University Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370721003,
-    "wof:lastmodified":1449032460,
+    "wof:lastmodified":1466445215,
     "wof:name":"Artcuts",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.248488,26.034605,-80.248488,26.034605],
-  "geometry": {"coordinates":[-80.248488,26.034605],"type":"Point"}
+  "bbox": [
+    -80.248488,
+    26.034605,
+    -80.248488,
+    26.034605
+],
+  "geometry": {"coordinates":[-80.24848799999999,26.034605],"type":"Point"}
 }

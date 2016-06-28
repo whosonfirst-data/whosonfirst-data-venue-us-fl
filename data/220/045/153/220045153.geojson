@@ -2,13 +2,14 @@
   "id": 220045153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.867653,26.611281,-81.867653,26.611281",
     "geom:latitude":26.611281,
     "geom:longitude":-81.867653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3594 Broadway",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220045153,
-    "wof:lastmodified":1449074779,
+    "wof:lastmodified":1466444680,
     "wof:name":"United Urgent Care Clinic",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.867653,26.611281,-81.867653,26.611281],
+  "bbox": [
+    -81.867653,
+    26.611281,
+    -81.867653,
+    26.611281
+],
   "geometry": {"coordinates":[-81.867653,26.611281],"type":"Point"}
 }

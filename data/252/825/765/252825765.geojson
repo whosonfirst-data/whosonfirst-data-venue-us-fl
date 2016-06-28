@@ -2,13 +2,14 @@
   "id": 252825765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.487102,28.459032,-81.487102,28.459032",
     "geom:latitude":28.459032,
     "geom:longitude":-81.487102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7051 Phillips Cove Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252825765,
-    "wof:lastmodified":1449005439,
+    "wof:lastmodified":1466430138,
     "wof:name":"Elegant Homes & Interiors",
     "wof:parent_id":85889399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.487102,28.459032,-81.487102,28.459032],
-  "geometry": {"coordinates":[-81.487102,28.459032],"type":"Point"}
+  "bbox": [
+    -81.487102,
+    28.459032,
+    -81.487102,
+    28.459032
+],
+  "geometry": {"coordinates":[-81.48710199999999,28.459032],"type":"Point"}
 }

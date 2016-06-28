@@ -2,13 +2,14 @@
   "id": 219195003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.358366,30.448595,-84.358366,30.448595",
     "geom:latitude":30.448595,
     "geom:longitude":-84.358366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4855 Gum Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219195003,
-    "wof:lastmodified":1449072706,
+    "wof:lastmodified":1466444068,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85889645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.358366,30.448595,-84.358366,30.448595],
+  "bbox": [
+    -84.358366,
+    30.448595,
+    -84.358366,
+    30.448595
+],
   "geometry": {"coordinates":[-84.358366,30.448595],"type":"Point"}
 }

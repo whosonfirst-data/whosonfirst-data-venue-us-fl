@@ -2,13 +2,14 @@
   "id": 253645753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.727503,27.770748,-82.727503,27.770748",
     "geom:latitude":27.770748,
     "geom:longitude":-82.727503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Central Ave",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253645753,
-    "wof:lastmodified":1449063104,
+    "wof:lastmodified":1466438225,
     "wof:name":"National Billing Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.727503,27.770748,-82.727503,27.770748],
+  "bbox": [
+    -82.727503,
+    27.770748,
+    -82.727503,
+    27.770748
+],
   "geometry": {"coordinates":[-82.727503,27.770748],"type":"Point"}
 }

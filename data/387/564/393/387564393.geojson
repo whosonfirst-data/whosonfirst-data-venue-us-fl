@@ -2,13 +2,14 @@
   "id": 387564393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590443,30.354433,-81.590443,30.354433",
     "geom:latitude":30.354433,
     "geom:longitude":-81.590443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2837 Oak Cove Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387564393,
-    "wof:lastmodified":1449059694,
+    "wof:lastmodified":1466446912,
     "wof:name":"Holland Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "server"
     ]
 },
-  "bbox": [-81.590443,30.354433,-81.590443,30.354433],
-  "geometry": {"coordinates":[-81.590443,30.354433],"type":"Point"}
+  "bbox": [
+    -81.590443,
+    30.354433,
+    -81.590443,
+    30.354433
+],
+  "geometry": {"coordinates":[-81.59044299999999,30.354433],"type":"Point"}
 }

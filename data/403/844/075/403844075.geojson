@@ -2,13 +2,14 @@
   "id": 403844075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.079422,26.365731,-80.079422,26.365731",
     "geom:latitude":26.365731,
     "geom:longitude":-80.079422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403844075,
-    "wof:lastmodified":1449055200,
+    "wof:lastmodified":1466441856,
     "wof:name":"Waterways & Fairways",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.079422,26.365731,-80.079422,26.365731],
-  "geometry": {"coordinates":[-80.079422,26.365731],"type":"Point"}
+  "bbox": [
+    -80.079422,
+    26.365731,
+    -80.079422,
+    26.365731
+],
+  "geometry": {"coordinates":[-80.07942199999999,26.365731],"type":"Point"}
 }

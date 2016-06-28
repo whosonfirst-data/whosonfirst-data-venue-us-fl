@@ -2,13 +2,14 @@
   "id": 404002141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.188734,26.096352,-80.188734,26.096352",
     "geom:latitude":26.096352,
     "geom:longitude":-80.188734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 SW 20th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404002141,
-    "wof:lastmodified":1449040080,
+    "wof:lastmodified":1466440301,
     "wof:name":"Aaron Alexis Construction",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.188734,26.096352,-80.188734,26.096352],
+  "bbox": [
+    -80.188734,
+    26.096352,
+    -80.188734,
+    26.096352
+],
   "geometry": {"coordinates":[-80.188734,26.096352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387673665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.80021,27.935162,-82.80021,27.935162",
     "geom:latitude":27.935162,
     "geom:longitude":-82.80021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Ponce de Leon Blvd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387673665,
-    "wof:lastmodified":1449057580,
+    "wof:lastmodified":1466448149,
     "wof:name":"Belleair Towers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "establishment"
     ]
 },
-  "bbox": [-82.80021,27.935162,-82.80021,27.935162],
-  "geometry": {"coordinates":[-82.80021,27.935162],"type":"Point"}
+  "bbox": [
+    -82.80021,
+    27.935162,
+    -82.80021,
+    27.935162
+],
+  "geometry": {"coordinates":[-82.80021000000001,27.935162],"type":"Point"}
 }

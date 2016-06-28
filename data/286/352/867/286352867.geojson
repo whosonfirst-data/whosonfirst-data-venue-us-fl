@@ -2,13 +2,14 @@
   "id": 286352867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.089525,29.088483,-82.089525,29.088483",
     "geom:latitude":29.088483,
     "geom:longitude":-82.089525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 SE 92nd St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286352867,
-    "wof:lastmodified":1449017008,
+    "wof:lastmodified":1466431239,
     "wof:name":"Speedys Setup and Transport",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.089525,29.088483,-82.089525,29.088483],
-  "geometry": {"coordinates":[-82.089525,29.088483],"type":"Point"}
+  "bbox": [
+    -82.089525,
+    29.088483,
+    -82.089525,
+    29.088483
+],
+  "geometry": {"coordinates":[-82.08952499999999,29.088483],"type":"Point"}
 }

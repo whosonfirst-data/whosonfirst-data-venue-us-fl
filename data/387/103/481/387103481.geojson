@@ -2,13 +2,14 @@
   "id": 387103481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652549,27.811159,-82.652549,27.811159",
     "geom:latitude":27.811159,
     "geom:longitude":-82.652549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 43rd Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387103481,
-    "wof:lastmodified":1449058486,
+    "wof:lastmodified":1466440290,
     "wof:name":"Mica",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-82.652549,27.811159,-82.652549,27.811159],
-  "geometry": {"coordinates":[-82.652549,27.811159],"type":"Point"}
+  "bbox": [
+    -82.652549,
+    27.811159,
+    -82.652549,
+    27.811159
+],
+  "geometry": {"coordinates":[-82.65254899999999,27.811159],"type":"Point"}
 }

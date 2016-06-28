@@ -2,13 +2,14 @@
   "id": 286519825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085236,26.313651,-80.085236,26.313651",
     "geom:latitude":26.313651,
     "geom:longitude":-80.085236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 SE 3rd Ct",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286519825,
-    "wof:lastmodified":1449017895,
+    "wof:lastmodified":1466434108,
     "wof:name":"A M Grainger Realty",
     "wof:parent_id":85804665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.085236,26.313651,-80.085236,26.313651],
-  "geometry": {"coordinates":[-80.085236,26.313651],"type":"Point"}
+  "bbox": [
+    -80.085236,
+    26.313651,
+    -80.085236,
+    26.313651
+],
+  "geometry": {"coordinates":[-80.08523599999999,26.313651],"type":"Point"}
 }

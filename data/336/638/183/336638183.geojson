@@ -2,13 +2,14 @@
   "id": 336638183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.557049,28.06631,-80.557049,28.06631",
     "geom:latitude":28.06631,
     "geom:longitude":-80.557049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 2nd Ave",
     "sg:city":"Melbourne Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336638183,
-    "wof:lastmodified":1448996975,
+    "wof:lastmodified":1466435639,
     "wof:name":"IDS Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-80.557049,28.06631,-80.557049,28.06631],
-  "geometry": {"coordinates":[-80.557049,28.06631],"type":"Point"}
+  "bbox": [
+    -80.557049,
+    28.06631,
+    -80.557049,
+    28.06631
+],
+  "geometry": {"coordinates":[-80.55704900000001,28.06631],"type":"Point"}
 }

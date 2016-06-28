@@ -2,13 +2,14 @@
   "id": 202689935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.11986,26.200758,-80.11986,26.200758",
     "geom:latitude":26.200758,
     "geom:longitude":-80.11986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 NE 20th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202689935,
-    "wof:lastmodified":1449062236,
+    "wof:lastmodified":1466430860,
     "wof:name":"Maraki Inc",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.11986,26.200758,-80.11986,26.200758],
+  "bbox": [
+    -80.11986,
+    26.200758,
+    -80.11986,
+    26.200758
+],
   "geometry": {"coordinates":[-80.11986,26.200758],"type":"Point"}
 }

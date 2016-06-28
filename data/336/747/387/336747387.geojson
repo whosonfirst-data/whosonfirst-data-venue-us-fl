@@ -2,13 +2,14 @@
   "id": 336747387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.571436,27.99804,-82.571436,27.99804",
     "geom:latitude":27.99804,
     "geom:longitude":-82.571436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5605 Santa Monica Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336747387,
-    "wof:lastmodified":1448997142,
+    "wof:lastmodified":1466437522,
     "wof:name":"United Healthcare Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-82.571436,27.99804,-82.571436,27.99804],
-  "geometry": {"coordinates":[-82.571436,27.99804],"type":"Point"}
+  "bbox": [
+    -82.571436,
+    27.99804,
+    -82.571436,
+    27.99804
+],
+  "geometry": {"coordinates":[-82.57143600000001,27.99804],"type":"Point"}
 }

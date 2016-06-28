@@ -2,13 +2,14 @@
   "id": 320505815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.091242,26.315769,-80.091242,26.315769",
     "geom:latitude":26.315769,
     "geom:longitude":-80.091242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 S Federal Hwy",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320505815,
-    "wof:lastmodified":1449014366,
+    "wof:lastmodified":1466442125,
     "wof:name":"De Sierra Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.091242,26.315769,-80.091242,26.315769],
-  "geometry": {"coordinates":[-80.091242,26.315769],"type":"Point"}
+  "bbox": [
+    -80.091242,
+    26.315769,
+    -80.091242,
+    26.315769
+],
+  "geometry": {"coordinates":[-80.09124199999999,26.315769],"type":"Point"}
 }

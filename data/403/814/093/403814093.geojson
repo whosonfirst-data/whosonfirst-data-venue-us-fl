@@ -2,13 +2,14 @@
   "id": 403814093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.792549,28.051029,-81.792549,28.051029",
     "geom:latitude":28.051029,
     "geom:longitude":-81.792549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Recker Hwy",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403814093,
-    "wof:lastmodified":1449054871,
+    "wof:lastmodified":1466441352,
     "wof:name":"Sewer Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-81.792549,28.051029,-81.792549,28.051029],
-  "geometry": {"coordinates":[-81.792549,28.051029],"type":"Point"}
+  "bbox": [
+    -81.792549,
+    28.051029,
+    -81.792549,
+    28.051029
+],
+  "geometry": {"coordinates":[-81.79254899999999,28.051029],"type":"Point"}
 }

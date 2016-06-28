@@ -2,13 +2,14 @@
   "id": 353688847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.690982,30.438885,-81.690982,30.438885",
     "geom:latitude":30.438885,
     "geom:longitude":-81.690982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2763 Dunn Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353688847,
-    "wof:lastmodified":1449019216,
+    "wof:lastmodified":1466439197,
     "wof:name":"Open Arms Christian",
     "wof:parent_id":85821005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.690982,30.438885,-81.690982,30.438885],
-  "geometry": {"coordinates":[-81.690982,30.438885],"type":"Point"}
+  "bbox": [
+    -81.690982,
+    30.438885,
+    -81.690982,
+    30.438885
+],
+  "geometry": {"coordinates":[-81.69098200000001,30.438885],"type":"Point"}
 }

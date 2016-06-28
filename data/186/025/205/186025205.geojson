@@ -2,13 +2,14 @@
   "id": 186025205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325449,25.740809,-80.325449,25.740809",
     "geom:latitude":25.740809,
     "geom:longitude":-80.325449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 SW 80th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186025205,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466442819,
     "wof:name":"Florida Home Systems Inc",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.325449,25.740809,-80.325449,25.740809],
-  "geometry": {"coordinates":[-80.325449,25.740809],"type":"Point"}
+  "bbox": [
+    -80.325449,
+    25.740809,
+    -80.325449,
+    25.740809
+],
+  "geometry": {"coordinates":[-80.32544900000001,25.740809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269844311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.050812,29.17292,-81.050812,29.17292",
     "geom:latitude":29.17292,
     "geom:longitude":-81.050812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 Bellevue Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269844311,
-    "wof:lastmodified":1449037153,
+    "wof:lastmodified":1466434872,
     "wof:name":"Masco Contractor",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.050812,29.17292,-81.050812,29.17292],
-  "geometry": {"coordinates":[-81.050812,29.17292],"type":"Point"}
+  "bbox": [
+    -81.050812,
+    29.17292,
+    -81.050812,
+    29.17292
+],
+  "geometry": {"coordinates":[-81.05081199999999,29.17292],"type":"Point"}
 }

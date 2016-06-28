@@ -2,13 +2,14 @@
   "id": 387610707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396884,28.491875,-81.396884,28.491875",
     "geom:latitude":28.491875,
     "geom:longitude":-81.396884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4702 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387610707,
-    "wof:lastmodified":1449059861,
+    "wof:lastmodified":1466447367,
     "wof:name":"Rent Rite Inc",
     "wof:parent_id":85879507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.396884,28.491875,-81.396884,28.491875],
+  "bbox": [
+    -81.396884,
+    28.491875,
+    -81.396884,
+    28.491875
+],
   "geometry": {"coordinates":[-81.396884,28.491875],"type":"Point"}
 }

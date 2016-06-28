@@ -2,13 +2,14 @@
   "id": 387047677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.413862,28.331781,-81.413862,28.331781",
     "geom:latitude":28.331781,
     "geom:longitude":-81.413862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Regatta Bay Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387047677,
-    "wof:lastmodified":1449058566,
+    "wof:lastmodified":1466439443,
     "wof:name":"Kissimmee Fire Dept",
     "wof:parent_id":85878533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.413862,28.331781,-81.413862,28.331781],
-  "geometry": {"coordinates":[-81.413862,28.331781],"type":"Point"}
+  "bbox": [
+    -81.413862,
+    28.331781,
+    -81.413862,
+    28.331781
+],
+  "geometry": {"coordinates":[-81.41386199999999,28.331781],"type":"Point"}
 }

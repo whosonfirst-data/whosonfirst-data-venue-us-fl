@@ -2,13 +2,14 @@
   "id": 202424003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.444145,28.66295,-81.444145,28.66295",
     "geom:latitude":28.66295,
     "geom:longitude":-81.444145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3517 W Lina Ln",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202424003,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1466446351,
     "wof:name":"Central Florida Audio Video",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-81.444145,28.66295,-81.444145,28.66295],
-  "geometry": {"coordinates":[-81.444145,28.66295],"type":"Point"}
+  "bbox": [
+    -81.444145,
+    28.66295,
+    -81.444145,
+    28.66295
+],
+  "geometry": {"coordinates":[-81.44414500000001,28.66295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320860453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.195545,30.523449,-84.195545,30.523449",
     "geom:latitude":30.523449,
     "geom:longitude":-84.195545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4134 Tralee Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320860453,
-    "wof:lastmodified":1449012913,
+    "wof:lastmodified":1466447717,
     "wof:name":"Ted Mitchell Construction",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.195545,30.523449,-84.195545,30.523449],
+  "bbox": [
+    -84.195545,
+    30.523449,
+    -84.195545,
+    30.523449
+],
   "geometry": {"coordinates":[-84.195545,30.523449],"type":"Point"}
 }

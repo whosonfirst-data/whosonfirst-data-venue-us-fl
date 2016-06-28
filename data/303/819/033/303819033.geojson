@@ -2,13 +2,14 @@
   "id": 303819033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.733882,30.276206,-81.733882,30.276206",
     "geom:latitude":30.276206,
     "geom:longitude":-81.733882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2352 Lake Shore Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303819033,
-    "wof:lastmodified":1448998692,
+    "wof:lastmodified":1466444631,
     "wof:name":"Lake Shore Woman's Club",
     "wof:parent_id":85829203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-81.733882,30.276206,-81.733882,30.276206],
-  "geometry": {"coordinates":[-81.733882,30.276206],"type":"Point"}
+  "bbox": [
+    -81.733882,
+    30.276206,
+    -81.733882,
+    30.276206
+],
+  "geometry": {"coordinates":[-81.73388199999999,30.276206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336633713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.622065,30.504206,-81.622065,30.504206",
     "geom:latitude":30.504206,
     "geom:longitude":-81.622065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14652 Zachary Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336633713,
-    "wof:lastmodified":1448997999,
+    "wof:lastmodified":1466435568,
     "wof:name":"American Homebuilders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.622065,30.504206,-81.622065,30.504206],
-  "geometry": {"coordinates":[-81.622065,30.504206],"type":"Point"}
+  "bbox": [
+    -81.622065,
+    30.504206,
+    -81.622065,
+    30.504206
+],
+  "geometry": {"coordinates":[-81.62206500000001,30.504206],"type":"Point"}
 }

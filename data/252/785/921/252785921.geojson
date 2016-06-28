@@ -2,13 +2,14 @@
   "id": 252785921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.641675,28.214256,-80.641675,28.214256",
     "geom:latitude":28.214256,
     "geom:longitude":-80.641675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8055 S Tropical Trl",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252785921,
-    "wof:lastmodified":1449006329,
+    "wof:lastmodified":1466429559,
     "wof:name":"Beerensson Piano Tuning",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-80.641675,28.214256,-80.641675,28.214256],
-  "geometry": {"coordinates":[-80.641675,28.214256],"type":"Point"}
+  "bbox": [
+    -80.641675,
+    28.214256,
+    -80.641675,
+    28.214256
+],
+  "geometry": {"coordinates":[-80.64167500000001,28.214256],"type":"Point"}
 }

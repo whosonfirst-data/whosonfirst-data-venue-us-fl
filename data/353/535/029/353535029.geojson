@@ -2,13 +2,14 @@
   "id": 353535029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.337826,30.444327,-84.337826,30.444327",
     "geom:latitude":30.444327,
     "geom:longitude":-84.337826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Appleyard Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353535029,
-    "wof:lastmodified":1449018709,
+    "wof:lastmodified":1466436711,
     "wof:name":"Elite Care",
     "wof:parent_id":85881377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.337826,30.444327,-84.337826,30.444327],
-  "geometry": {"coordinates":[-84.337826,30.444327],"type":"Point"}
+  "bbox": [
+    -84.337826,
+    30.444327,
+    -84.337826,
+    30.444327
+],
+  "geometry": {"coordinates":[-84.33782600000001,30.444327],"type":"Point"}
 }

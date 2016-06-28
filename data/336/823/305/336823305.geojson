@@ -2,13 +2,14 @@
   "id": 336823305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525895,30.30516,-81.525895,30.30516",
     "geom:latitude":30.30516,
     "geom:longitude":-81.525895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Saint Johns Bluff Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336823305,
-    "wof:lastmodified":1448997993,
+    "wof:lastmodified":1466438851,
     "wof:name":"Al Furqan Academy",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.525895,30.30516,-81.525895,30.30516],
-  "geometry": {"coordinates":[-81.525895,30.30516],"type":"Point"}
+  "bbox": [
+    -81.525895,
+    30.30516,
+    -81.525895,
+    30.30516
+],
+  "geometry": {"coordinates":[-81.52589500000001,30.30516],"type":"Point"}
 }

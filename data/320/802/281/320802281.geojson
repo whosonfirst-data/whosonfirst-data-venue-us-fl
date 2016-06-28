@@ -2,13 +2,14 @@
   "id": 320802281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.523783,28.02356,-82.523783,28.02356",
     "geom:latitude":28.02356,
     "geom:longitude":-82.523783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8192 Woodland Center Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320802281,
-    "wof:lastmodified":1449014269,
+    "wof:lastmodified":1466447027,
     "wof:name":"Underwriters Laboratories Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.523783,28.02356,-82.523783,28.02356],
-  "geometry": {"coordinates":[-82.523783,28.02356],"type":"Point"}
+  "bbox": [
+    -82.523783,
+    28.02356,
+    -82.523783,
+    28.02356
+],
+  "geometry": {"coordinates":[-82.52378299999999,28.02356],"type":"Point"}
 }

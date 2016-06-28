@@ -2,13 +2,14 @@
   "id": 253260375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.327506,28.692427,-81.327506,28.692427",
     "geom:latitude":28.692427,
     "geom:longitude":-81.327506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 US Hwy 92",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253260375,
-    "wof:lastmodified":1449063305,
+    "wof:lastmodified":1466431594,
     "wof:name":"Interior Place",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-81.327506,28.692427,-81.327506,28.692427],
+  "bbox": [
+    -81.327506,
+    28.692427,
+    -81.327506,
+    28.692427
+],
   "geometry": {"coordinates":[-81.327506,28.692427],"type":"Point"}
 }

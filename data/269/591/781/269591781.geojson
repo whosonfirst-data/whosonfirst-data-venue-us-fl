@@ -2,13 +2,14 @@
   "id": 269591781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134983,25.818653,-80.134983,25.818653",
     "geom:latitude":25.818653,
     "geom:longitude":-80.134983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Nautilus Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":269591781,
-    "wof:lastmodified":1449037423,
+    "wof:lastmodified":1466430408,
     "wof:name":"Travel Ed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.134983,25.818653,-80.134983,25.818653],
-  "geometry": {"coordinates":[-80.134983,25.818653],"type":"Point"}
+  "bbox": [
+    -80.134983,
+    25.818653,
+    -80.134983,
+    25.818653
+],
+  "geometry": {"coordinates":[-80.13498300000001,25.818653],"type":"Point"}
 }

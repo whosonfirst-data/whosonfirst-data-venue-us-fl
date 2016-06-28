@@ -2,13 +2,14 @@
   "id": 252885323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.287343,30.314612,-84.287343,30.314612",
     "geom:latitude":30.314612,
     "geom:longitude":-84.287343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9096 Warbler Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252885323,
-    "wof:lastmodified":1449005995,
+    "wof:lastmodified":1466430975,
     "wof:name":"Tom Greene Environmental Cnslt",
     "wof:parent_id":85829339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-84.287343,30.314612,-84.287343,30.314612],
-  "geometry": {"coordinates":[-84.287343,30.314612],"type":"Point"}
+  "bbox": [
+    -84.287343,
+    30.314612,
+    -84.287343,
+    30.314612
+],
+  "geometry": {"coordinates":[-84.28734300000001,30.314612],"type":"Point"}
 }

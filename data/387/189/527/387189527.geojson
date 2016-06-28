@@ -2,13 +2,14 @@
   "id": 387189527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.41537,25.647282,-80.41537,25.647282",
     "geom:latitude":25.647282,
     "geom:longitude":-80.41537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13205 SW 137th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387189527,
-    "wof:lastmodified":1449058798,
+    "wof:lastmodified":1466441626,
     "wof:name":"Statewide Professional Svcs",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.41537,25.647282,-80.41537,25.647282],
+  "bbox": [
+    -80.41537,
+    25.647282,
+    -80.41537,
+    25.647282
+],
   "geometry": {"coordinates":[-80.41537,25.647282],"type":"Point"}
 }

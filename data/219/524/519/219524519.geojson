@@ -2,13 +2,14 @@
   "id": 219524519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6588,30.32882,-81.6588,30.32882",
     "geom:latitude":30.32882,
     "geom:longitude":-81.6588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 W Monroe St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219524519,
-    "wof:lastmodified":1449070345,
+    "wof:lastmodified":1466431829,
     "wof:name":"Main & Monroe Street Garage",
     "wof:parent_id":85888913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-81.6588,30.32882,-81.6588,30.32882],
+  "bbox": [
+    -81.6588,
+    30.32882,
+    -81.6588,
+    30.32882
+],
   "geometry": {"coordinates":[-81.6588,30.32882],"type":"Point"}
 }

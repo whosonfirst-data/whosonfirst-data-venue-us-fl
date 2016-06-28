@@ -2,13 +2,14 @@
   "id": 219805811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.621435,30.207975,-81.621435,30.207975",
     "geom:latitude":30.207975,
     "geom:longitude":-81.621435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3558 Lita Rd E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219805811,
-    "wof:lastmodified":1449071576,
+    "wof:lastmodified":1466435531,
     "wof:name":"Shelco",
     "wof:parent_id":85822237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-81.621435,30.207975,-81.621435,30.207975],
-  "geometry": {"coordinates":[-81.621435,30.207975],"type":"Point"}
+  "bbox": [
+    -81.621435,
+    30.207975,
+    -81.621435,
+    30.207975
+],
+  "geometry": {"coordinates":[-81.62143500000001,30.207975],"type":"Point"}
 }

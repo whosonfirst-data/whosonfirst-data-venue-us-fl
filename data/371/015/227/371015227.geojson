@@ -2,13 +2,14 @@
   "id": 371015227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.450493,30.287835,-81.450493,30.287835",
     "geom:latitude":30.287835,
     "geom:longitude":-81.450493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13947 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371015227,
-    "wof:lastmodified":1449049282,
+    "wof:lastmodified":1466437811,
     "wof:name":"Kumon Intracoastal",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-81.450493,30.287835,-81.450493,30.287835],
-  "geometry": {"coordinates":[-81.450493,30.287835],"type":"Point"}
+  "bbox": [
+    -81.450493,
+    30.287835,
+    -81.450493,
+    30.287835
+],
+  "geometry": {"coordinates":[-81.45049299999999,30.287835],"type":"Point"}
 }

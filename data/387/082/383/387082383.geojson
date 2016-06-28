@@ -2,13 +2,14 @@
   "id": 387082383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.843525,27.910092,-81.843525,27.910092",
     "geom:latitude":27.910092,
     "geom:longitude":-81.843525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 N Broadway Ave",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387082383,
-    "wof:lastmodified":1449056216,
+    "wof:lastmodified":1466439969,
     "wof:name":"BCI Engineers & Scientists",
     "wof:parent_id":85888549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.843525,27.910092,-81.843525,27.910092],
+  "bbox": [
+    -81.843525,
+    27.910092,
+    -81.843525,
+    27.910092
+],
   "geometry": {"coordinates":[-81.843525,27.910092],"type":"Point"}
 }

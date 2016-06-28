@@ -2,13 +2,14 @@
   "id": 336866619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.46125,30.67102,-81.46125,30.67102",
     "geom:latitude":30.67102,
     "geom:longitude":-81.46125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Centre St",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336866619,
-    "wof:lastmodified":1448997462,
+    "wof:lastmodified":1466439631,
     "wof:name":"McCranie Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.46125,30.67102,-81.46125,30.67102],
-  "geometry": {"coordinates":[-81.46125,30.67102],"type":"Point"}
+  "bbox": [
+    -81.46125,
+    30.67102,
+    -81.46125,
+    30.67102
+],
+  "geometry": {"coordinates":[-81.46125000000001,30.67102],"type":"Point"}
 }

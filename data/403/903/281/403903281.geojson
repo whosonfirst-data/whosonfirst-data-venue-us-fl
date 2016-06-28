@@ -2,13 +2,14 @@
   "id": 403903281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.435747,27.296763,-82.435747,27.296763",
     "geom:latitude":27.296763,
     "geom:longitude":-82.435747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6787 Friendship Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403903281,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466442777,
     "wof:name":"World's Best Painters",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-82.435747,27.296763,-82.435747,27.296763],
-  "geometry": {"coordinates":[-82.435747,27.296763],"type":"Point"}
+  "bbox": [
+    -82.435747,
+    27.296763,
+    -82.435747,
+    27.296763
+],
+  "geometry": {"coordinates":[-82.43574700000001,27.296763],"type":"Point"}
 }

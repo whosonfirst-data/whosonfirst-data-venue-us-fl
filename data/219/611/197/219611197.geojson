@@ -2,13 +2,14 @@
   "id": 219611197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090148,26.617434,-80.090148,26.617434",
     "geom:latitude":26.617434,
     "geom:longitude":-80.090148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3199 Lake Worth Rd",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219611197,
-    "wof:lastmodified":1449073186,
+    "wof:lastmodified":1466432946,
     "wof:name":"Eric J Weiner MD",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.090148,26.617434,-80.090148,26.617434],
+  "bbox": [
+    -80.090148,
+    26.617434,
+    -80.090148,
+    26.617434
+],
   "geometry": {"coordinates":[-80.090148,26.617434],"type":"Point"}
 }

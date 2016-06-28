@@ -2,13 +2,14 @@
   "id": 270496443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.324272,28.705847,-81.324272,28.705847",
     "geom:latitude":28.705847,
     "geom:longitude":-81.324272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Delaney Dr",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270496443,
-    "wof:lastmodified":1449010708,
+    "wof:lastmodified":1466437956,
     "wof:name":"Wm Dearolf Well/Pump",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-81.324272,28.705847,-81.324272,28.705847],
-  "geometry": {"coordinates":[-81.324272,28.705847],"type":"Point"}
+  "bbox": [
+    -81.324272,
+    28.705847,
+    -81.324272,
+    28.705847
+],
+  "geometry": {"coordinates":[-81.32427199999999,28.705847],"type":"Point"}
 }

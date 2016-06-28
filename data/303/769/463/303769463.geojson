@@ -2,13 +2,14 @@
   "id": 303769463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.724967,28.007586,-81.724967,28.007586",
     "geom:latitude":28.007586,
     "geom:longitude":-81.724967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Ave O SE",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303769463,
-    "wof:lastmodified":1448998927,
+    "wof:lastmodified":1466443795,
     "wof:name":"Heart Of Florida Ob/Gyn",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.724967,28.007586,-81.724967,28.007586],
-  "geometry": {"coordinates":[-81.724967,28.007586],"type":"Point"}
+  "bbox": [
+    -81.724967,
+    28.007586,
+    -81.724967,
+    28.007586
+],
+  "geometry": {"coordinates":[-81.72496700000001,28.007586],"type":"Point"}
 }

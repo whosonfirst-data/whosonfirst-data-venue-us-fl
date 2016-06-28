@@ -2,13 +2,14 @@
   "id": 186524931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.383597,28.039499,-82.383597,28.039499",
     "geom:latitude":28.039499,
     "geom:longitude":-82.383597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Bannockburn Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186524931,
-    "wof:lastmodified":1449050227,
+    "wof:lastmodified":1466433125,
     "wof:name":"Joseph C Bondi Dr",
     "wof:parent_id":85896235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.383597,28.039499,-82.383597,28.039499],
-  "geometry": {"coordinates":[-82.383597,28.039499],"type":"Point"}
+  "bbox": [
+    -82.383597,
+    28.039499,
+    -82.383597,
+    28.039499
+],
+  "geometry": {"coordinates":[-82.38359699999999,28.039499],"type":"Point"}
 }

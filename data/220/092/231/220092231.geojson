@@ -2,13 +2,14 @@
   "id": 220092231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505029,28.00507,-82.505029,28.00507",
     "geom:latitude":28.00507,
     "geom:longitude":-82.505029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6035 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220092231,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1466445637,
     "wof:name":"Pay-Less Oil Co",
     "wof:parent_id":85889723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-82.505029,28.00507,-82.505029,28.00507],
-  "geometry": {"coordinates":[-82.505029,28.00507],"type":"Point"}
+  "bbox": [
+    -82.505029,
+    28.00507,
+    -82.505029,
+    28.00507
+],
+  "geometry": {"coordinates":[-82.50502899999999,28.00507],"type":"Point"}
 }

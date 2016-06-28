@@ -2,13 +2,14 @@
   "id": 270460207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.619115,27.809307,-82.619115,27.809307",
     "geom:latitude":27.809307,
     "geom:longitude":-82.619115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 41st Ave NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270460207,
-    "wof:lastmodified":1449010978,
+    "wof:lastmodified":1466437323,
     "wof:name":"Kennedy Properties Tampa Bay",
     "wof:parent_id":85848575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.619115,27.809307,-82.619115,27.809307],
-  "geometry": {"coordinates":[-82.619115,27.809307],"type":"Point"}
+  "bbox": [
+    -82.619115,
+    27.809307,
+    -82.619115,
+    27.809307
+],
+  "geometry": {"coordinates":[-82.61911499999999,27.809307],"type":"Point"}
 }

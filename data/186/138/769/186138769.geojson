@@ -2,13 +2,14 @@
   "id": 186138769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.44307,27.973502,-82.44307,27.973502",
     "geom:latitude":27.973502,
     "geom:longitude":-82.44307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 E 25th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186138769,
-    "wof:lastmodified":1449051148,
+    "wof:lastmodified":1466428405,
     "wof:name":"Sosa Painting",
     "wof:parent_id":85873265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.44307,27.973502,-82.44307,27.973502],
-  "geometry": {"coordinates":[-82.44307,27.973502],"type":"Point"}
+  "bbox": [
+    -82.44307,
+    27.973502,
+    -82.44307,
+    27.973502
+],
+  "geometry": {"coordinates":[-82.44307000000001,27.973502],"type":"Point"}
 }

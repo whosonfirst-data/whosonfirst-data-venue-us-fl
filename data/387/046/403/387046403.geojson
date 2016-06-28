@@ -2,13 +2,14 @@
   "id": 387046403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.254099,30.427669,-84.254099,30.427669",
     "geom:latitude":30.427669,
     "geom:longitude":-84.254099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Chowkeebin Nene",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387046403,
-    "wof:lastmodified":1449058223,
+    "wof:lastmodified":1466439425,
     "wof:name":"Metrolan",
     "wof:parent_id":85881345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-84.254099,30.427669,-84.254099,30.427669],
+  "bbox": [
+    -84.254099,
+    30.427669,
+    -84.254099,
+    30.427669
+],
   "geometry": {"coordinates":[-84.254099,30.427669],"type":"Point"}
 }

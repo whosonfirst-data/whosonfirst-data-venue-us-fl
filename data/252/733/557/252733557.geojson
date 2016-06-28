@@ -2,13 +2,14 @@
   "id": 252733557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.285604,26.183363,-80.285604,26.183363",
     "geom:latitude":26.183363,
     "geom:longitude":-80.285604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10236 NW 47th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252733557,
-    "wof:lastmodified":1449005550,
+    "wof:lastmodified":1466428791,
     "wof:name":"Westmorland Protection Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "provides"
     ]
 },
-  "bbox": [-80.285604,26.183363,-80.285604,26.183363],
-  "geometry": {"coordinates":[-80.285604,26.183363],"type":"Point"}
+  "bbox": [
+    -80.285604,
+    26.183363,
+    -80.285604,
+    26.183363
+],
+  "geometry": {"coordinates":[-80.28560400000001,26.183363],"type":"Point"}
 }

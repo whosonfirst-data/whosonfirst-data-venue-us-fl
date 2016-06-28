@@ -2,13 +2,14 @@
   "id": 220085525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.382115,28.662302,-81.382115,28.662302",
     "geom:latitude":28.662302,
     "geom:longitude":-81.382115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Altamonte Dr",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220085525,
-    "wof:lastmodified":1449074235,
+    "wof:lastmodified":1466445446,
     "wof:name":"A V Shack",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-81.382115,28.662302,-81.382115,28.662302],
+  "bbox": [
+    -81.382115,
+    28.662302,
+    -81.382115,
+    28.662302
+],
   "geometry": {"coordinates":[-81.382115,28.662302],"type":"Point"}
 }

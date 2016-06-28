@@ -2,13 +2,14 @@
   "id": 404050819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.278815,25.922761,-80.278815,25.922761",
     "geom:latitude":25.922761,
     "geom:longitude":-80.278815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15966 NW 48th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404050819,
-    "wof:lastmodified":1449039794,
+    "wof:lastmodified":1466441048,
     "wof:name":"Arnies Auto Dealer",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.278815,25.922761,-80.278815,25.922761],
-  "geometry": {"coordinates":[-80.278815,25.922761],"type":"Point"}
+  "bbox": [
+    -80.278815,
+    25.922761,
+    -80.278815,
+    25.922761
+],
+  "geometry": {"coordinates":[-80.27881499999999,25.922761],"type":"Point"}
 }

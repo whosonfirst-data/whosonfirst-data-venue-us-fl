@@ -2,13 +2,14 @@
   "id": 270445039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.277031,30.460652,-87.277031,30.460652",
     "geom:latitude":30.460652,
     "geom:longitude":-87.277031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 W Michigan Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270445039,
-    "wof:lastmodified":1449008971,
+    "wof:lastmodified":1466437063,
     "wof:name":"Carlos' Paint & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-87.277031,30.460652,-87.277031,30.460652],
-  "geometry": {"coordinates":[-87.277031,30.460652],"type":"Point"}
+  "bbox": [
+    -87.277031,
+    30.460652,
+    -87.277031,
+    30.460652
+],
+  "geometry": {"coordinates":[-87.27703099999999,30.460652],"type":"Point"}
 }

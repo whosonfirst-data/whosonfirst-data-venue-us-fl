@@ -2,13 +2,14 @@
   "id": 303877213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.578888,30.307509,-81.578888,30.307509",
     "geom:latitude":30.307509,
     "geom:longitude":-81.578888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Holiday Hill Cir E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303877213,
-    "wof:lastmodified":1448999834,
+    "wof:lastmodified":1466445653,
     "wof:name":"Lundy Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.578888,30.307509,-81.578888,30.307509],
-  "geometry": {"coordinates":[-81.578888,30.307509],"type":"Point"}
+  "bbox": [
+    -81.578888,
+    30.307509,
+    -81.578888,
+    30.307509
+],
+  "geometry": {"coordinates":[-81.57888800000001,30.307509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336704191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.609958,30.160643,-81.609958,30.160643",
     "geom:latitude":30.160643,
     "geom:longitude":-81.609958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3858 Schoenwald Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336704191,
-    "wof:lastmodified":1448997229,
+    "wof:lastmodified":1466436783,
     "wof:name":"EIS Construction Co",
     "wof:parent_id":85831429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.609958,30.160643,-81.609958,30.160643],
-  "geometry": {"coordinates":[-81.609958,30.160643],"type":"Point"}
+  "bbox": [
+    -81.609958,
+    30.160643,
+    -81.609958,
+    30.160643
+],
+  "geometry": {"coordinates":[-81.60995800000001,30.160643],"type":"Point"}
 }

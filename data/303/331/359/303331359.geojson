@@ -2,13 +2,14 @@
   "id": 303331359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.882938,29.010645,-80.882938,29.010645",
     "geom:latitude":29.010645,
     "geom:longitude":-80.882938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 E 24th Ave",
     "sg:city":"New Smyrna Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303331359,
-    "wof:lastmodified":1448999605,
+    "wof:lastmodified":1466436243,
     "wof:name":"Naturally Maid",
     "wof:parent_id":85896105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maid"
     ]
 },
-  "bbox": [-80.882938,29.010645,-80.882938,29.010645],
+  "bbox": [
+    -80.882938,
+    29.010645,
+    -80.882938,
+    29.010645
+],
   "geometry": {"coordinates":[-80.882938,29.010645],"type":"Point"}
 }

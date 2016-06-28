@@ -2,13 +2,14 @@
   "id": 185938565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534219,28.043721,-82.534219,28.043721",
     "geom:latitude":28.043721,
     "geom:longitude":-82.534219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5422 Lynn Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185938565,
-    "wof:lastmodified":1449007802,
+    "wof:lastmodified":1466430382,
     "wof:name":"AKKA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.534219,28.043721,-82.534219,28.043721],
-  "geometry": {"coordinates":[-82.534219,28.043721],"type":"Point"}
+  "bbox": [
+    -82.534219,
+    28.043721,
+    -82.534219,
+    28.043721
+],
+  "geometry": {"coordinates":[-82.53421899999999,28.043721],"type":"Point"}
 }

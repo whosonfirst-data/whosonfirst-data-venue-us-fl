@@ -2,13 +2,14 @@
   "id": 186069993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.41849,27.705498,-80.41849,27.705498",
     "geom:latitude":27.705498,
     "geom:longitude":-80.41849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 Old Dixie Hwy",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186069993,
-    "wof:lastmodified":1449052065,
+    "wof:lastmodified":1466444678,
     "wof:name":"Solid Surface of Vero Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "counter"
     ]
 },
-  "bbox": [-80.41849,27.705498,-80.41849,27.705498],
-  "geometry": {"coordinates":[-80.41849,27.705498],"type":"Point"}
+  "bbox": [
+    -80.41849,
+    27.705498,
+    -80.41849,
+    27.705498
+],
+  "geometry": {"coordinates":[-80.41849000000001,27.705498],"type":"Point"}
 }

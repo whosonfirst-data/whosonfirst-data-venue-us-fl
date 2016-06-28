@@ -2,13 +2,14 @@
   "id": 185808659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.480111,30.976754,-87.480111,30.976754",
     "geom:latitude":30.976754,
     "geom:longitude":-87.480111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Nokomis Rd",
     "sg:city":"Mc David",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185808659,
-    "wof:lastmodified":1449006652,
+    "wof:lastmodified":1466429079,
     "wof:name":"Trimco Cabinets",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.480111,30.976754,-87.480111,30.976754],
-  "geometry": {"coordinates":[-87.480111,30.976754],"type":"Point"}
+  "bbox": [
+    -87.480111,
+    30.976754,
+    -87.480111,
+    30.976754
+],
+  "geometry": {"coordinates":[-87.48011099999999,30.976754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370621911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.721517,27.916199,-82.721517,27.916199",
     "geom:latitude":27.916199,
     "geom:longitude":-82.721517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15508 62nd St N",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370621911,
-    "wof:lastmodified":1449032074,
+    "wof:lastmodified":1466443717,
     "wof:name":"Southern Well Svc",
     "wof:parent_id":85868535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-82.721517,27.916199,-82.721517,27.916199],
-  "geometry": {"coordinates":[-82.721517,27.916199],"type":"Point"}
+  "bbox": [
+    -82.721517,
+    27.916199,
+    -82.721517,
+    27.916199
+],
+  "geometry": {"coordinates":[-82.72151700000001,27.916199],"type":"Point"}
 }

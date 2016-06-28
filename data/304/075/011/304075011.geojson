@@ -2,13 +2,14 @@
   "id": 304075011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73301,28.023227,-81.73301,28.023227",
     "geom:latitude":28.023227,
     "geom:longitude":-81.73301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 6th St NW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304075011,
-    "wof:lastmodified":1449043916,
+    "wof:lastmodified":1466433134,
     "wof:name":"Palisades Custom Homes & Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.73301,28.023227,-81.73301,28.023227],
-  "geometry": {"coordinates":[-81.73301,28.023227],"type":"Point"}
+  "bbox": [
+    -81.73301,
+    28.023227,
+    -81.73301,
+    28.023227
+],
+  "geometry": {"coordinates":[-81.73300999999999,28.023227],"type":"Point"}
 }

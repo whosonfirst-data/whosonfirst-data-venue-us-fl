@@ -2,13 +2,14 @@
   "id": 370787707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.241684,30.490816,-84.241684,30.490816",
     "geom:latitude":30.490816,
     "geom:longitude":-84.241684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 Capital Cir NE",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370787707,
-    "wof:lastmodified":1449030628,
+    "wof:lastmodified":1466446246,
     "wof:name":"Service Plus & Office Machine",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-84.241684,30.490816,-84.241684,30.490816],
-  "geometry": {"coordinates":[-84.241684,30.490816],"type":"Point"}
+  "bbox": [
+    -84.241684,
+    30.490816,
+    -84.241684,
+    30.490816
+],
+  "geometry": {"coordinates":[-84.24168400000001,30.490816],"type":"Point"}
 }

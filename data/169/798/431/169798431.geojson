@@ -2,13 +2,14 @@
   "id": 169798431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260239,25.732181,-80.260239,25.732181",
     "geom:latitude":25.732181,
     "geom:longitude":-80.260239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Salzedo St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169798431,
-    "wof:lastmodified":1449033300,
+    "wof:lastmodified":1466429001,
     "wof:name":"Water & Sewer",
     "wof:parent_id":85889185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.260239,25.732181,-80.260239,25.732181],
+  "bbox": [
+    -80.260239,
+    25.732181,
+    -80.260239,
+    25.732181
+],
   "geometry": {"coordinates":[-80.260239,25.732181],"type":"Point"}
 }

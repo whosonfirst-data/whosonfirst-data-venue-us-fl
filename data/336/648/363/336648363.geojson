@@ -2,13 +2,14 @@
   "id": 336648363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.762284,27.875192,-82.762284,27.875192",
     "geom:latitude":27.875192,
     "geom:longitude":-82.762284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11331 Starkey Rd",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336648363,
-    "wof:lastmodified":1448997242,
+    "wof:lastmodified":1466435814,
     "wof:name":"Starkey Food Store",
     "wof:parent_id":85853001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.762284,27.875192,-82.762284,27.875192],
-  "geometry": {"coordinates":[-82.762284,27.875192],"type":"Point"}
+  "bbox": [
+    -82.762284,
+    27.875192,
+    -82.762284,
+    27.875192
+],
+  "geometry": {"coordinates":[-82.76228399999999,27.875192],"type":"Point"}
 }

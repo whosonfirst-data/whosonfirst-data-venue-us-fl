@@ -2,13 +2,14 @@
   "id": 387690945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.577333,27.49429,-82.577333,27.49429",
     "geom:latitude":27.49429,
     "geom:longitude":-82.577333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 6th Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387690945,
-    "wof:lastmodified":1449058121,
+    "wof:lastmodified":1466448020,
     "wof:name":"Straight Line Svc",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-82.577333,27.49429,-82.577333,27.49429],
+  "bbox": [
+    -82.577333,
+    27.49429,
+    -82.577333,
+    27.49429
+],
   "geometry": {"coordinates":[-82.577333,27.49429],"type":"Point"}
 }

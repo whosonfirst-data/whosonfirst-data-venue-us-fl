@@ -2,13 +2,14 @@
   "id": 303242365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.607887,30.156494,-85.607887,30.156494",
     "geom:latitude":30.156494,
     "geom:longitude":-85.607887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Transmitter Rd",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303242365,
-    "wof:lastmodified":1449000276,
+    "wof:lastmodified":1466434717,
     "wof:name":"Rock Depot",
     "wof:parent_id":85804791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-85.607887,30.156494,-85.607887,30.156494],
-  "geometry": {"coordinates":[-85.607887,30.156494],"type":"Point"}
+  "bbox": [
+    -85.607887,
+    30.156494,
+    -85.607887,
+    30.156494
+],
+  "geometry": {"coordinates":[-85.60788700000001,30.156494],"type":"Point"}
 }

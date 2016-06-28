@@ -2,13 +2,14 @@
   "id": 370726817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.206701,30.537084,-84.206701,30.537084",
     "geom:latitude":30.537084,
     "geom:longitude":-84.206701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6524 Alan-A-Dale Trl",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":370726817,
-    "wof:lastmodified":1449031397,
+    "wof:lastmodified":1466445305,
     "wof:name":"Tropical Pool Of Tallahassee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-84.206701,30.537084,-84.206701,30.537084],
+  "bbox": [
+    -84.206701,
+    30.537084,
+    -84.206701,
+    30.537084
+],
   "geometry": {"coordinates":[-84.206701,30.537084],"type":"Point"}
 }

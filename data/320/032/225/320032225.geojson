@@ -2,13 +2,14 @@
   "id": 320032225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.534664,27.338929,-82.534664,27.338929",
     "geom:latitude":27.338929,
     "geom:longitude":-82.534664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320032225,
-    "wof:lastmodified":1449013092,
+    "wof:lastmodified":1466433941,
     "wof:name":"Rafael Martinez Lawn Care",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-82.534664,27.338929,-82.534664,27.338929],
-  "geometry": {"coordinates":[-82.534664,27.338929],"type":"Point"}
+  "bbox": [
+    -82.534664,
+    27.338929,
+    -82.534664,
+    27.338929
+],
+  "geometry": {"coordinates":[-82.53466400000001,27.338929],"type":"Point"}
 }

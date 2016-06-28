@@ -2,13 +2,14 @@
   "id": 353467279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077508,26.417776,-80.077508,26.417776",
     "geom:latitude":26.417776,
     "geom:longitude":-80.077508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 W Hidden Valley Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353467279,
-    "wof:lastmodified":1449020273,
+    "wof:lastmodified":1466435798,
     "wof:name":"David Itkin's Locksmith",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.077508,26.417776,-80.077508,26.417776],
-  "geometry": {"coordinates":[-80.077508,26.417776],"type":"Point"}
+  "bbox": [
+    -80.077508,
+    26.417776,
+    -80.077508,
+    26.417776
+],
+  "geometry": {"coordinates":[-80.07750799999999,26.417776],"type":"Point"}
 }

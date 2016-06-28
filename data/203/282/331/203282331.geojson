@@ -2,13 +2,14 @@
   "id": 203282331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.327086,28.69645,-81.327086,28.69645",
     "geom:latitude":28.69645,
     "geom:longitude":-81.327086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 US Hwy 92",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203282331,
-    "wof:lastmodified":1449026139,
+    "wof:lastmodified":1466429950,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-81.327086,28.69645,-81.327086,28.69645],
-  "geometry": {"coordinates":[-81.327086,28.69645],"type":"Point"}
+  "bbox": [
+    -81.327086,
+    28.69645,
+    -81.327086,
+    28.69645
+],
+  "geometry": {"coordinates":[-81.32708599999999,28.69645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203293225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.41081,30.462344,-83.41081,30.462344",
     "geom:latitude":30.462344,
     "geom:longitude":-83.41081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Millinor St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203293225,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466430084,
     "wof:name":"Madison Fast Break",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.41081,30.462344,-83.41081,30.462344],
+  "bbox": [
+    -83.41081,
+    30.462344,
+    -83.41081,
+    30.462344
+],
   "geometry": {"coordinates":[-83.41081,30.462344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286322871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.46842,30.60541,-84.46842,30.60541",
     "geom:latitude":30.60541,
     "geom:longitude":-84.46842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Audubon Dr",
     "sg:city":"Havana",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286322871,
-    "wof:lastmodified":1449015133,
+    "wof:lastmodified":1466430720,
     "wof:name":"Paw Pourri",
     "wof:parent_id":85888887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.46842,30.60541,-84.46842,30.60541],
-  "geometry": {"coordinates":[-84.46842,30.60541],"type":"Point"}
+  "bbox": [
+    -84.46842,
+    30.60541,
+    -84.46842,
+    30.60541
+],
+  "geometry": {"coordinates":[-84.46841999999999,30.60541],"type":"Point"}
 }

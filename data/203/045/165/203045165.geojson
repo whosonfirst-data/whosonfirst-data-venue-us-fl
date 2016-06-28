@@ -2,13 +2,14 @@
   "id": 203045165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.274313,30.404945,-87.274313,30.404945",
     "geom:latitude":30.404945,
     "geom:longitude":-87.274313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 S Old Corry Field Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203045165,
-    "wof:lastmodified":1449026649,
+    "wof:lastmodified":1466444021,
     "wof:name":"Hewitt Roofing",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.274313,30.404945,-87.274313,30.404945],
-  "geometry": {"coordinates":[-87.274313,30.404945],"type":"Point"}
+  "bbox": [
+    -87.274313,
+    30.404945,
+    -87.274313,
+    30.404945
+],
+  "geometry": {"coordinates":[-87.27431300000001,30.404945],"type":"Point"}
 }

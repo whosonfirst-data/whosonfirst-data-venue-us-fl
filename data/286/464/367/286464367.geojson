@@ -2,13 +2,14 @@
   "id": 286464367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.299308,28.245311,-81.299308,28.245311",
     "geom:latitude":28.245311,
     "geom:longitude":-81.299308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Louisiana Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286464367,
-    "wof:lastmodified":1449015975,
+    "wof:lastmodified":1466433150,
     "wof:name":"Shirt Designs",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-81.299308,28.245311,-81.299308,28.245311],
+  "bbox": [
+    -81.299308,
+    28.245311,
+    -81.299308,
+    28.245311
+],
   "geometry": {"coordinates":[-81.299308,28.245311],"type":"Point"}
 }

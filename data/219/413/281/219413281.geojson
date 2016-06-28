@@ -2,13 +2,14 @@
   "id": 219413281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334206,25.895165,-80.334206,25.895165",
     "geom:latitude":25.895165,
     "geom:longitude":-80.334206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W 80th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219413281,
-    "wof:lastmodified":1449070949,
+    "wof:lastmodified":1466430375,
     "wof:name":"Hold Everything",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.334206,25.895165,-80.334206,25.895165],
-  "geometry": {"coordinates":[-80.334206,25.895165],"type":"Point"}
+  "bbox": [
+    -80.334206,
+    25.895165,
+    -80.334206,
+    25.895165
+],
+  "geometry": {"coordinates":[-80.33420599999999,25.895165],"type":"Point"}
 }

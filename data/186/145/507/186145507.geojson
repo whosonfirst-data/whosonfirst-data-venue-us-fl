@@ -2,13 +2,14 @@
   "id": 186145507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.487168,27.296256,-82.487168,27.296256",
     "geom:latitude":27.296256,
     "geom:longitude":-82.487168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4041 Sawyer Ct",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186145507,
-    "wof:lastmodified":1449051192,
+    "wof:lastmodified":1466428480,
     "wof:name":"Sawyer Court Storage",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-82.487168,27.296256,-82.487168,27.296256],
+  "bbox": [
+    -82.487168,
+    27.296256,
+    -82.487168,
+    27.296256
+],
   "geometry": {"coordinates":[-82.487168,27.296256],"type":"Point"}
 }

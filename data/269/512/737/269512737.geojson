@@ -2,13 +2,14 @@
   "id": 269512737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.659647,27.73136,-82.659647,27.73136",
     "geom:latitude":27.73136,
     "geom:longitude":-82.659647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Country Club Way S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":269512737,
-    "wof:lastmodified":1449037968,
+    "wof:lastmodified":1466428998,
     "wof:name":"Saint Petersburg Country Club",
     "wof:parent_id":85880543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "membership"
     ]
 },
-  "bbox": [-82.659647,27.73136,-82.659647,27.73136],
-  "geometry": {"coordinates":[-82.659647,27.73136],"type":"Point"}
+  "bbox": [
+    -82.659647,
+    27.73136,
+    -82.659647,
+    27.73136
+],
+  "geometry": {"coordinates":[-82.65964700000001,27.73136],"type":"Point"}
 }

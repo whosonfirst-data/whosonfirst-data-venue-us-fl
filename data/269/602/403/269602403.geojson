@@ -2,13 +2,14 @@
   "id": 269602403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354183,27.433491,-80.354183,27.433491",
     "geom:latitude":27.433491,
     "geom:longitude":-80.354183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 S 29th St",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269602403,
-    "wof:lastmodified":1449037261,
+    "wof:lastmodified":1466430612,
     "wof:name":"Las Gardenias",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.354183,27.433491,-80.354183,27.433491],
-  "geometry": {"coordinates":[-80.354183,27.433491],"type":"Point"}
+  "bbox": [
+    -80.354183,
+    27.433491,
+    -80.354183,
+    27.433491
+],
+  "geometry": {"coordinates":[-80.35418300000001,27.433491],"type":"Point"}
 }

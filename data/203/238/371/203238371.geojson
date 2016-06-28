@@ -2,13 +2,14 @@
   "id": 203238371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.703893,28.166993,-80.703893,28.166993",
     "geom:latitude":28.166993,
     "geom:longitude":-80.703893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 Harlock Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203238371,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466429396,
     "wof:name":"Classic Painting Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.703893,28.166993,-80.703893,28.166993],
-  "geometry": {"coordinates":[-80.703893,28.166993],"type":"Point"}
+  "bbox": [
+    -80.703893,
+    28.166993,
+    -80.703893,
+    28.166993
+],
+  "geometry": {"coordinates":[-80.70389299999999,28.166993],"type":"Point"}
 }

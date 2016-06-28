@@ -2,13 +2,14 @@
   "id": 303136895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314675,25.673636,-80.314675,25.673636",
     "geom:latitude":25.673636,
     "geom:longitude":-80.314675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 SW 74th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303136895,
-    "wof:lastmodified":1449000528,
+    "wof:lastmodified":1466432876,
     "wof:name":"Car Check Inc",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-80.314675,25.673636,-80.314675,25.673636],
-  "geometry": {"coordinates":[-80.314675,25.673636],"type":"Point"}
+  "bbox": [
+    -80.314675,
+    25.673636,
+    -80.314675,
+    25.673636
+],
+  "geometry": {"coordinates":[-80.31467499999999,25.673636],"type":"Point"}
 }

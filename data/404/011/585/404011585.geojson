@@ -2,13 +2,14 @@
   "id": 404011585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.65583,30.375135,-81.65583,30.375135",
     "geom:latitude":30.375135,
     "geom:longitude":-81.65583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 Silver Plz",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404011585,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466440442,
     "wof:name":"North Shore Elementary School",
     "wof:parent_id":85807217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-81.65583,30.375135,-81.65583,30.375135],
-  "geometry": {"coordinates":[-81.65583,30.375135],"type":"Point"}
+  "bbox": [
+    -81.65583,
+    30.375135,
+    -81.65583,
+    30.375135
+],
+  "geometry": {"coordinates":[-81.65582999999999,30.375135],"type":"Point"}
 }

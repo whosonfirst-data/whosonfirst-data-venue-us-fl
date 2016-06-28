@@ -2,13 +2,14 @@
   "id": 304002661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506745,27.503593,-82.506745,27.503593",
     "geom:latitude":27.503593,
     "geom:longitude":-82.506745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Swordfish Dr",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304002661,
-    "wof:lastmodified":1449044058,
+    "wof:lastmodified":1466431855,
     "wof:name":"A Blue Horizon",
     "wof:parent_id":85888761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.506745,27.503593,-82.506745,27.503593],
+  "bbox": [
+    -82.506745,
+    27.503593,
+    -82.506745,
+    27.503593
+],
   "geometry": {"coordinates":[-82.506745,27.503593],"type":"Point"}
 }

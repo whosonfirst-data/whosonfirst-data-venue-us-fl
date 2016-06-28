@@ -2,13 +2,14 @@
   "id": 169735225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.088425,30.469299,-84.088425,30.469299",
     "geom:latitude":30.469299,
     "geom:longitude":-84.088425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11071 Bexhill Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169735225,
-    "wof:lastmodified":1449035889,
+    "wof:lastmodified":1466446138,
     "wof:name":"Georgia Florida Fire Equipment",
     "wof:parent_id":85881331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-84.088425,30.469299,-84.088425,30.469299],
+  "bbox": [
+    -84.088425,
+    30.469299,
+    -84.088425,
+    30.469299
+],
   "geometry": {"coordinates":[-84.088425,30.469299],"type":"Point"}
 }

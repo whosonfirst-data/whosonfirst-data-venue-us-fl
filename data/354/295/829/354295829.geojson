@@ -2,13 +2,14 @@
   "id": 354295829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45122,27.988561,-82.45122,27.988561",
     "geom:latitude":27.988561,
     "geom:longitude":-82.45122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4724 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354295829,
-    "wof:lastmodified":1449066609,
+    "wof:lastmodified":1466440630,
     "wof:name":"Florida Arts School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dance"
     ]
 },
-  "bbox": [-82.45122,27.988561,-82.45122,27.988561],
-  "geometry": {"coordinates":[-82.45122,27.988561],"type":"Point"}
+  "bbox": [
+    -82.45122,
+    27.988561,
+    -82.45122,
+    27.988561
+],
+  "geometry": {"coordinates":[-82.45122000000001,27.988561],"type":"Point"}
 }

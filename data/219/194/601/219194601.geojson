@@ -2,13 +2,14 @@
   "id": 219194601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.809045,28.611417,-80.809045,28.611417",
     "geom:latitude":28.611417,
     "geom:longitude":-80.809045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Julia St",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219194601,
-    "wof:lastmodified":1449073406,
+    "wof:lastmodified":1466444051,
     "wof:name":"Canaveral National Seashore",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-80.809045,28.611417,-80.809045,28.611417],
+  "bbox": [
+    -80.809045,
+    28.611417,
+    -80.809045,
+    28.611417
+],
   "geometry": {"coordinates":[-80.809045,28.611417],"type":"Point"}
 }

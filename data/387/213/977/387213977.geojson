@@ -2,13 +2,14 @@
   "id": 387213977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.350383,27.429401,-80.350383,27.429401",
     "geom:latitude":27.429401,
     "geom:longitude":-80.350383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 Rhode Island Ave",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387213977,
-    "wof:lastmodified":1449056167,
+    "wof:lastmodified":1466442010,
     "wof:name":"Pulmonary Medical Assoc",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.350383,27.429401,-80.350383,27.429401],
-  "geometry": {"coordinates":[-80.350383,27.429401],"type":"Point"}
+  "bbox": [
+    -80.350383,
+    27.429401,
+    -80.350383,
+    27.429401
+],
+  "geometry": {"coordinates":[-80.35038299999999,27.429401],"type":"Point"}
 }

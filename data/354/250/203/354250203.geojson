@@ -2,13 +2,14 @@
   "id": 354250203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.375244,29.624447,-82.375244,29.624447",
     "geom:latitude":29.624447,
     "geom:longitude":-82.375244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 SW Archer Rd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354250203,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1466439947,
     "wof:name":"CVS",
     "wof:parent_id":85845299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-82.375244,29.624447,-82.375244,29.624447],
+  "bbox": [
+    -82.375244,
+    29.624447,
+    -82.375244,
+    29.624447
+],
   "geometry": {"coordinates":[-82.375244,29.624447],"type":"Point"}
 }

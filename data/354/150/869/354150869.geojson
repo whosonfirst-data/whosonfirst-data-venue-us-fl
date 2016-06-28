@@ -2,13 +2,14 @@
   "id": 354150869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15779,26.114261,-80.15779,26.114261",
     "geom:latitude":26.114261,
     "geom:longitude":-80.15779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 SW 12th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354150869,
-    "wof:lastmodified":1449065954,
+    "wof:lastmodified":1466438416,
     "wof:name":"Bayside Food Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.15779,26.114261,-80.15779,26.114261],
-  "geometry": {"coordinates":[-80.15779,26.114261],"type":"Point"}
+  "bbox": [
+    -80.15779,
+    26.114261,
+    -80.15779,
+    26.114261
+],
+  "geometry": {"coordinates":[-80.15779000000001,26.114261],"type":"Point"}
 }

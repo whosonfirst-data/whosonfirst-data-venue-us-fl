@@ -2,13 +2,14 @@
   "id": 269817571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299051,25.91166,-80.299051,25.91166",
     "geom:latitude":25.91166,
     "geom:longitude":-80.299051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15207 NW 60th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269817571,
-    "wof:lastmodified":1449038367,
+    "wof:lastmodified":1466434413,
     "wof:name":"MLSI Meditech",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-80.299051,25.91166,-80.299051,25.91166],
-  "geometry": {"coordinates":[-80.299051,25.91166],"type":"Point"}
+  "bbox": [
+    -80.299051,
+    25.91166,
+    -80.299051,
+    25.91166
+],
+  "geometry": {"coordinates":[-80.29905100000001,25.91166],"type":"Point"}
 }

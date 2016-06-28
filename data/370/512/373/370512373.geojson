@@ -2,13 +2,14 @@
   "id": 370512373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.860025,27.215481,-81.860025,27.215481",
     "geom:latitude":27.215481,
     "geom:longitude":-81.860025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 N Desoto Ave",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370512373,
-    "wof:lastmodified":1449031557,
+    "wof:lastmodified":1466442032,
     "wof:name":"Gonzalez Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.860025,27.215481,-81.860025,27.215481],
-  "geometry": {"coordinates":[-81.860025,27.215481],"type":"Point"}
+  "bbox": [
+    -81.860025,
+    27.215481,
+    -81.860025,
+    27.215481
+],
+  "geometry": {"coordinates":[-81.86002499999999,27.215481],"type":"Point"}
 }

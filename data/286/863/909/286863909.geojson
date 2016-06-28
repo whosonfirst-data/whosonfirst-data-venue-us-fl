@@ -2,13 +2,14 @@
   "id": 286863909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325367,25.831735,-80.325367,25.831735",
     "geom:latitude":25.831735,
     "geom:longitude":-80.325367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7923 NW 64th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286863909,
-    "wof:lastmodified":1449017217,
+    "wof:lastmodified":1466440264,
     "wof:name":"Solar Printing Svc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.325367,25.831735,-80.325367,25.831735],
+  "bbox": [
+    -80.325367,
+    25.831735,
+    -80.325367,
+    25.831735
+],
   "geometry": {"coordinates":[-80.325367,25.831735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286720483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.701483,27.755515,-82.701483,27.755515",
     "geom:latitude":27.755515,
     "geom:longitude":-82.701483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4936 15th Ave S",
     "sg:city":"Gulfport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286720483,
-    "wof:lastmodified":1449015869,
+    "wof:lastmodified":1466437707,
     "wof:name":"Gulfport Transmission Svc",
     "wof:parent_id":85878003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-82.701483,27.755515,-82.701483,27.755515],
+  "bbox": [
+    -82.701483,
+    27.755515,
+    -82.701483,
+    27.755515
+],
   "geometry": {"coordinates":[-82.701483,27.755515],"type":"Point"}
 }

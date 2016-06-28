@@ -2,13 +2,14 @@
   "id": 287087609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.379112,28.542169,-81.379112,28.542169",
     "geom:latitude":28.542169,
     "geom:longitude":-81.379112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287087609,
-    "wof:lastmodified":1449001066,
+    "wof:lastmodified":1466431383,
     "wof:name":"Ppha",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "networking"
     ]
 },
-  "bbox": [-81.379112,28.542169,-81.379112,28.542169],
-  "geometry": {"coordinates":[-81.379112,28.542169],"type":"Point"}
+  "bbox": [
+    -81.379112,
+    28.542169,
+    -81.379112,
+    28.542169
+],
+  "geometry": {"coordinates":[-81.37911200000001,28.542169],"type":"Point"}
 }

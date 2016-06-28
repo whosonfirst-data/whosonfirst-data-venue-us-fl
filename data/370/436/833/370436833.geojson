@@ -2,13 +2,14 @@
   "id": 370436833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110593,26.167333,-80.110593,26.167333",
     "geom:latitude":26.167333,
     "geom:longitude":-80.110593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370436833,
-    "wof:lastmodified":1449032150,
+    "wof:lastmodified":1466440881,
     "wof:name":"La Bare",
     "wof:parent_id":85812259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.110593,26.167333,-80.110593,26.167333],
-  "geometry": {"coordinates":[-80.110593,26.167333],"type":"Point"}
+  "bbox": [
+    -80.110593,
+    26.167333,
+    -80.110593,
+    26.167333
+],
+  "geometry": {"coordinates":[-80.11059299999999,26.167333],"type":"Point"}
 }

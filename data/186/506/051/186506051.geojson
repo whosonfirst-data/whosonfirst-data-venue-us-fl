@@ -2,13 +2,14 @@
   "id": 186506051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.673589,29.64135,-81.673589,29.64135",
     "geom:latitude":29.64135,
     "geom:longitude":-81.673589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Crill Ave",
     "sg:city":"Palatka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186506051,
-    "wof:lastmodified":1449050322,
+    "wof:lastmodified":1466432881,
     "wof:name":"Brake Shop",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-81.673589,29.64135,-81.673589,29.64135],
-  "geometry": {"coordinates":[-81.673589,29.64135],"type":"Point"}
+  "bbox": [
+    -81.673589,
+    29.64135,
+    -81.673589,
+    29.64135
+],
+  "geometry": {"coordinates":[-81.67358900000001,29.64135],"type":"Point"}
 }

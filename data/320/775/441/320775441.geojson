@@ -2,13 +2,14 @@
   "id": 320775441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104611,26.189865,-80.104611,26.189865",
     "geom:latitude":26.189865,
     "geom:longitude":-80.104611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3091 E Commercial Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320775441,
-    "wof:lastmodified":1449014015,
+    "wof:lastmodified":1466446608,
     "wof:name":"Hair/Bean",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "beauty"
     ]
 },
-  "bbox": [-80.104611,26.189865,-80.104611,26.189865],
-  "geometry": {"coordinates":[-80.104611,26.189865],"type":"Point"}
+  "bbox": [
+    -80.104611,
+    26.189865,
+    -80.104611,
+    26.189865
+],
+  "geometry": {"coordinates":[-80.10461100000001,26.189865],"type":"Point"}
 }

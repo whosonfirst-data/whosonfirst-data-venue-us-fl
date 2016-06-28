@@ -2,13 +2,14 @@
   "id": 303175745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.28172,30.439866,-87.28172,30.439866",
     "geom:latitude":30.439866,
     "geom:longitude":-87.28172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 Mobile Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303175745,
-    "wof:lastmodified":1448999812,
+    "wof:lastmodified":1466433569,
     "wof:name":"Housing Management Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-87.28172,30.439866,-87.28172,30.439866],
-  "geometry": {"coordinates":[-87.28172,30.439866],"type":"Point"}
+  "bbox": [
+    -87.28172,
+    30.439866,
+    -87.28172,
+    30.439866
+],
+  "geometry": {"coordinates":[-87.28172000000001,30.439866],"type":"Point"}
 }

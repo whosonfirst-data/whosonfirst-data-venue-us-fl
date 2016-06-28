@@ -2,13 +2,14 @@
   "id": 287256805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.114306,26.049074,-80.114306,26.049074",
     "geom:latitude":26.049074,
     "geom:longitude":-80.114306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Elm St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287256805,
-    "wof:lastmodified":1449001346,
+    "wof:lastmodified":1466434369,
     "wof:name":"Elm Apartment",
     "wof:parent_id":85881949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.114306,26.049074,-80.114306,26.049074],
+  "bbox": [
+    -80.114306,
+    26.049074,
+    -80.114306,
+    26.049074
+],
   "geometry": {"coordinates":[-80.114306,26.049074],"type":"Point"}
 }

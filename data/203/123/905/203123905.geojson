@@ -2,13 +2,14 @@
   "id": 203123905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.313769,28.804964,-81.313769,28.804964",
     "geom:latitude":28.804964,
     "geom:longitude":-81.313769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Loren Ct",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203123905,
-    "wof:lastmodified":1449025477,
+    "wof:lastmodified":1466445715,
     "wof:name":"Tailored Foam of Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "masonry"
     ]
 },
-  "bbox": [-81.313769,28.804964,-81.313769,28.804964],
-  "geometry": {"coordinates":[-81.313769,28.804964],"type":"Point"}
+  "bbox": [
+    -81.313769,
+    28.804964,
+    -81.313769,
+    28.804964
+],
+  "geometry": {"coordinates":[-81.31376899999999,28.804964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387583287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.585247,30.171072,-81.585247,30.171072",
     "geom:latitude":30.171072,
     "geom:longitude":-81.585247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 Wethersfield Pl W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387583287,
-    "wof:lastmodified":1449059110,
+    "wof:lastmodified":1466447314,
     "wof:name":"Liberty Leasing",
     "wof:parent_id":85831429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-81.585247,30.171072,-81.585247,30.171072],
+  "bbox": [
+    -81.585247,
+    30.171072,
+    -81.585247,
+    30.171072
+],
   "geometry": {"coordinates":[-81.585247,30.171072],"type":"Point"}
 }

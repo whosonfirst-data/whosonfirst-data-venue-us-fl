@@ -2,13 +2,14 @@
   "id": 353993431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.151971,26.203317,-80.151971,26.203317",
     "geom:latitude":26.203317,
     "geom:longitude":-80.151971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Cypress Creek Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353993431,
-    "wof:lastmodified":1449019389,
+    "wof:lastmodified":1466443888,
     "wof:name":"Smith Companies",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.151971,26.203317,-80.151971,26.203317],
+  "bbox": [
+    -80.151971,
+    26.203317,
+    -80.151971,
+    26.203317
+],
   "geometry": {"coordinates":[-80.151971,26.203317],"type":"Point"}
 }

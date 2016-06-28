@@ -2,13 +2,14 @@
   "id": 303775293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.797008,26.157287,-81.797008,26.157287",
     "geom:latitude":26.157287,
     "geom:longitude":-81.797008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303775293,
-    "wof:lastmodified":1448999925,
+    "wof:lastmodified":1466443889,
     "wof:name":"Naples Optical Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.797008,26.157287,-81.797008,26.157287],
-  "geometry": {"coordinates":[-81.797008,26.157287],"type":"Point"}
+  "bbox": [
+    -81.797008,
+    26.157287,
+    -81.797008,
+    26.157287
+],
+  "geometry": {"coordinates":[-81.79700800000001,26.157287],"type":"Point"}
 }

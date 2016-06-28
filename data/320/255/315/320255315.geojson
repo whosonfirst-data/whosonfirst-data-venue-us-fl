@@ -2,13 +2,14 @@
   "id": 320255315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.011693,29.233762,-81.011693,29.233762",
     "geom:latitude":29.233762,
     "geom:longitude":-81.011693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 N Atlantic Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320255315,
-    "wof:lastmodified":1449012958,
+    "wof:lastmodified":1466437766,
     "wof:name":"King's Sportswear",
     "wof:parent_id":85847529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-81.011693,29.233762,-81.011693,29.233762],
-  "geometry": {"coordinates":[-81.011693,29.233762],"type":"Point"}
+  "bbox": [
+    -81.011693,
+    29.233762,
+    -81.011693,
+    29.233762
+],
+  "geometry": {"coordinates":[-81.01169299999999,29.233762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354308125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.575246,27.484576,-82.575246,27.484576",
     "geom:latitude":27.484576,
     "geom:longitude":-82.575246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 14th St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354308125,
-    "wof:lastmodified":1449067695,
+    "wof:lastmodified":1466440826,
     "wof:name":"Andrew's Limousine Svc",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-82.575246,27.484576,-82.575246,27.484576],
-  "geometry": {"coordinates":[-82.575246,27.484576],"type":"Point"}
+  "bbox": [
+    -82.575246,
+    27.484576,
+    -82.575246,
+    27.484576
+],
+  "geometry": {"coordinates":[-82.57524600000001,27.484576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287055489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.751309,27.975574,-82.751309,27.975574",
     "geom:latitude":27.975574,
     "geom:longitude":-82.751309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1162 Kapp Dr",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287055489,
-    "wof:lastmodified":1449000860,
+    "wof:lastmodified":1466430781,
     "wof:name":"SDM Assembly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.751309,27.975574,-82.751309,27.975574],
-  "geometry": {"coordinates":[-82.751309,27.975574],"type":"Point"}
+  "bbox": [
+    -82.751309,
+    27.975574,
+    -82.751309,
+    27.975574
+],
+  "geometry": {"coordinates":[-82.75130900000001,27.975574],"type":"Point"}
 }

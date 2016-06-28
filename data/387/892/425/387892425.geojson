@@ -2,13 +2,14 @@
   "id": 387892425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.780837,26.331046,-81.780837,26.331046",
     "geom:latitude":26.331046,
     "geom:longitude":-81.780837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10380 Bonita Beach Rd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387892425,
-    "wof:lastmodified":1449056665,
+    "wof:lastmodified":1466449541,
     "wof:name":"Sunshine Buick Bonita Springs",
     "wof:parent_id":85888567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.780837,26.331046,-81.780837,26.331046],
-  "geometry": {"coordinates":[-81.780837,26.331046],"type":"Point"}
+  "bbox": [
+    -81.780837,
+    26.331046,
+    -81.780837,
+    26.331046
+],
+  "geometry": {"coordinates":[-81.78083700000001,26.331046],"type":"Point"}
 }

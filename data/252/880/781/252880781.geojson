@@ -2,13 +2,14 @@
   "id": 252880781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695775,27.995666,-82.695775,27.995666",
     "geom:latitude":27.995666,
     "geom:longitude":-82.695775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Packard Ct",
     "sg:city":"Safety Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252880781,
-    "wof:lastmodified":1449006519,
+    "wof:lastmodified":1466430913,
     "wof:name":"Cox Manufacturing",
     "wof:parent_id":85896233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-82.695775,27.995666,-82.695775,27.995666],
+  "bbox": [
+    -82.695775,
+    27.995666,
+    -82.695775,
+    27.995666
+],
   "geometry": {"coordinates":[-82.695775,27.995666],"type":"Point"}
 }

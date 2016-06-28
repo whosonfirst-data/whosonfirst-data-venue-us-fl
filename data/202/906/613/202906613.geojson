@@ -2,13 +2,14 @@
   "id": 202906613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.833948,30.236256,-81.833948,30.236256",
     "geom:latitude":30.236256,
     "geom:longitude":-81.833948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10497 Innisbrook Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202906613,
-    "wof:lastmodified":1449061076,
+    "wof:lastmodified":1466433686,
     "wof:name":"Chem-Dry Of Jacksonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-81.833948,30.236256,-81.833948,30.236256],
-  "geometry": {"coordinates":[-81.833948,30.236256],"type":"Point"}
+  "bbox": [
+    -81.833948,
+    30.236256,
+    -81.833948,
+    30.236256
+],
+  "geometry": {"coordinates":[-81.83394800000001,30.236256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303318123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316583,26.007779,-80.316583,26.007779",
     "geom:latitude":26.007779,
     "geom:longitude":-80.316583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12596 Pines Blvd",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303318123,
-    "wof:lastmodified":1448998656,
+    "wof:lastmodified":1466436022,
     "wof:name":"Sunrise Medical Group MRI",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.316583,26.007779,-80.316583,26.007779],
-  "geometry": {"coordinates":[-80.316583,26.007779],"type":"Point"}
+  "bbox": [
+    -80.316583,
+    26.007779,
+    -80.316583,
+    26.007779
+],
+  "geometry": {"coordinates":[-80.31658299999999,26.007779],"type":"Point"}
 }

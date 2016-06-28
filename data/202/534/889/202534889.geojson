@@ -2,13 +2,14 @@
   "id": 202534889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451231,27.962287,-82.451231,27.962287",
     "geom:latitude":27.962287,
     "geom:longitude":-82.451231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202534889,
-    "wof:lastmodified":1449060771,
+    "wof:lastmodified":1466428810,
     "wof:name":"Food Machinery Exchange",
     "wof:parent_id":85873251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-82.451231,27.962287,-82.451231,27.962287],
-  "geometry": {"coordinates":[-82.451231,27.962287],"type":"Point"}
+  "bbox": [
+    -82.451231,
+    27.962287,
+    -82.451231,
+    27.962287
+],
+  "geometry": {"coordinates":[-82.45123100000001,27.962287],"type":"Point"}
 }

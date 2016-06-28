@@ -2,13 +2,14 @@
   "id": 387409721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.345313,28.672348,-81.345313,28.672348",
     "geom:latitude":28.672348,
     "geom:longitude":-81.345313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Melody Ln W",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387409721,
-    "wof:lastmodified":1449057669,
+    "wof:lastmodified":1466444995,
     "wof:name":"Florida Assoc-Electrical Cntrt",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.345313,28.672348,-81.345313,28.672348],
+  "bbox": [
+    -81.345313,
+    28.672348,
+    -81.345313,
+    28.672348
+],
   "geometry": {"coordinates":[-81.345313,28.672348],"type":"Point"}
 }

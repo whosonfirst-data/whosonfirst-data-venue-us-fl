@@ -2,13 +2,14 @@
   "id": 220102487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.604012,30.408593,-86.604012,30.408593",
     "geom:latitude":30.408593,
     "geom:longitude":-86.604012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Eglin Pkwy S",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220102487,
-    "wof:lastmodified":1449074827,
+    "wof:lastmodified":1466445960,
     "wof:name":"Jimmy's Pawn Shop",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-86.604012,30.408593,-86.604012,30.408593],
+  "bbox": [
+    -86.604012,
+    30.408593,
+    -86.604012,
+    30.408593
+],
   "geometry": {"coordinates":[-86.604012,30.408593],"type":"Point"}
 }

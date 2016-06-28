@@ -2,13 +2,14 @@
   "id": 220051523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.702098,30.220591,-81.702098,30.220591",
     "geom:latitude":30.220591,
     "geom:longitude":-81.702098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Roosevelt Blvd",
     "sg:city":"Jacksonville Nas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220051523,
-    "wof:lastmodified":1449074533,
+    "wof:lastmodified":1466444791,
     "wof:name":"Access Logic Inc",
     "wof:parent_id":85859447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "related"
     ]
 },
-  "bbox": [-81.702098,30.220591,-81.702098,30.220591],
-  "geometry": {"coordinates":[-81.702098,30.220591],"type":"Point"}
+  "bbox": [
+    -81.702098,
+    30.220591,
+    -81.702098,
+    30.220591
+],
+  "geometry": {"coordinates":[-81.70209800000001,30.220591],"type":"Point"}
 }

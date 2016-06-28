@@ -2,13 +2,14 @@
   "id": 270105547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250591,25.809601,-80.250591,25.809601",
     "geom:latitude":25.809601,
     "geom:longitude":-80.250591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 NW 37th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270105547,
-    "wof:lastmodified":1449009570,
+    "wof:lastmodified":1466431247,
     "wof:name":"Miami Design Builders",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.250591,25.809601,-80.250591,25.809601],
+  "bbox": [
+    -80.250591,
+    25.809601,
+    -80.250591,
+    25.809601
+],
   "geometry": {"coordinates":[-80.250591,25.809601],"type":"Point"}
 }

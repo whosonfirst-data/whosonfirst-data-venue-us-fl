@@ -2,13 +2,14 @@
   "id": 186284539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.412001,25.661338,-80.412001,25.661338",
     "geom:latitude":25.661338,
     "geom:longitude":-80.412001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11424 SW 134th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186284539,
-    "wof:lastmodified":1449052033,
+    "wof:lastmodified":1466430110,
     "wof:name":"Verezco",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.412001,25.661338,-80.412001,25.661338],
+  "bbox": [
+    -80.412001,
+    25.661338,
+    -80.412001,
+    25.661338
+],
   "geometry": {"coordinates":[-80.412001,25.661338],"type":"Point"}
 }

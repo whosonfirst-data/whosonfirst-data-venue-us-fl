@@ -2,13 +2,14 @@
   "id": 236918355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24105,26.284827,-80.24105,26.284827",
     "geom:latitude":26.284827,
     "geom:longitude":-80.24105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8503 NW 45th St",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236918355,
-    "wof:lastmodified":1449003986,
+    "wof:lastmodified":1466441486,
     "wof:name":"Cruise One",
     "wof:parent_id":85876863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-80.24105,26.284827,-80.24105,26.284827],
+  "bbox": [
+    -80.24105,
+    26.284827,
+    -80.24105,
+    26.284827
+],
   "geometry": {"coordinates":[-80.24105,26.284827],"type":"Point"}
 }

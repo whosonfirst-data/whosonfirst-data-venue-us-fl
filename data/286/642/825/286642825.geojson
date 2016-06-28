@@ -2,13 +2,14 @@
   "id": 286642825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.251111,29.235667,-82.251111,29.235667",
     "geom:latitude":29.235667,
     "geom:longitude":-82.251111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4727 NW 80th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286642825,
-    "wof:lastmodified":1449015343,
+    "wof:lastmodified":1466436315,
     "wof:name":"Canine Chronicle",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "publisher"
     ]
 },
-  "bbox": [-82.251111,29.235667,-82.251111,29.235667],
-  "geometry": {"coordinates":[-82.251111,29.235667],"type":"Point"}
+  "bbox": [
+    -82.251111,
+    29.235667,
+    -82.251111,
+    29.235667
+],
+  "geometry": {"coordinates":[-82.25111099999999,29.235667],"type":"Point"}
 }

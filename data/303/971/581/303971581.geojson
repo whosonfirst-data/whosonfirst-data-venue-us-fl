@@ -2,13 +2,14 @@
   "id": 303971581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.004752,30.631496,-87.004752,30.631496",
     "geom:latitude":30.631496,
     "geom:longitude":-87.004752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7555 Christy St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303971581,
-    "wof:lastmodified":1448999355,
+    "wof:lastmodified":1466447182,
     "wof:name":"Advertising Advantage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-87.004752,30.631496,-87.004752,30.631496],
+  "bbox": [
+    -87.004752,
+    30.631496,
+    -87.004752,
+    30.631496
+],
   "geometry": {"coordinates":[-87.004752,30.631496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270223583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.092567,26.9653,-80.092567,26.9653",
     "geom:latitude":26.9653,
     "geom:longitude":-80.092567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Cypress Dr",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270223583,
-    "wof:lastmodified":1449008821,
+    "wof:lastmodified":1466433296,
     "wof:name":"Acme Lighting",
     "wof:parent_id":85888941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.092567,26.9653,-80.092567,26.9653],
+  "bbox": [
+    -80.092567,
+    26.9653,
+    -80.092567,
+    26.9653
+],
   "geometry": {"coordinates":[-80.092567,26.9653],"type":"Point"}
 }

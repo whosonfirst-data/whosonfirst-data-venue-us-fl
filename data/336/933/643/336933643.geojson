@@ -2,13 +2,14 @@
   "id": 336933643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.777521,26.218442,-81.777521,26.218442",
     "geom:latitude":26.218442,
     "geom:longitude":-81.777521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Yahl St",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336933643,
-    "wof:lastmodified":1448997170,
+    "wof:lastmodified":1466440738,
     "wof:name":"Florida Mechanical AC",
     "wof:parent_id":85889221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.777521,26.218442,-81.777521,26.218442],
-  "geometry": {"coordinates":[-81.777521,26.218442],"type":"Point"}
+  "bbox": [
+    -81.777521,
+    26.218442,
+    -81.777521,
+    26.218442
+],
+  "geometry": {"coordinates":[-81.77752099999999,26.218442],"type":"Point"}
 }

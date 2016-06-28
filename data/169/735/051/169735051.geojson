@@ -2,13 +2,14 @@
   "id": 169735051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.635115,29.648205,-81.635115,29.648205",
     "geom:latitude":29.648205,
     "geom:longitude":-81.635115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 State Hwy 100",
     "sg:city":"Palatka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169735051,
-    "wof:lastmodified":1449035892,
+    "wof:lastmodified":1466446450,
     "wof:name":"Roberts Hunting Camp",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-81.635115,29.648205,-81.635115,29.648205],
+  "bbox": [
+    -81.635115,
+    29.648205,
+    -81.635115,
+    29.648205
+],
   "geometry": {"coordinates":[-81.635115,29.648205],"type":"Point"}
 }

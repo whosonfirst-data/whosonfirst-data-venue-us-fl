@@ -2,13 +2,14 @@
   "id": 354136415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138728,26.181014,-80.138728,26.181014",
     "geom:latitude":26.181014,
     "geom:longitude":-80.138728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4336 NE 6th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354136415,
-    "wof:lastmodified":1449067656,
+    "wof:lastmodified":1466438189,
     "wof:name":"Imperial Fence",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.138728,26.181014,-80.138728,26.181014],
+  "bbox": [
+    -80.138728,
+    26.181014,
+    -80.138728,
+    26.181014
+],
   "geometry": {"coordinates":[-80.138728,26.181014],"type":"Point"}
 }

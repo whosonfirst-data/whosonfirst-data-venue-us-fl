@@ -2,13 +2,14 @@
   "id": 320137511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.416285,25.742663,-80.416285,25.742663",
     "geom:latitude":25.742663,
     "geom:longitude":-80.416285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 SW 137th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320137511,
-    "wof:lastmodified":1449014457,
+    "wof:lastmodified":1466435746,
     "wof:name":"Lord Medical Ctr",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.416285,25.742663,-80.416285,25.742663],
+  "bbox": [
+    -80.416285,
+    25.742663,
+    -80.416285,
+    25.742663
+],
   "geometry": {"coordinates":[-80.416285,25.742663],"type":"Point"}
 }

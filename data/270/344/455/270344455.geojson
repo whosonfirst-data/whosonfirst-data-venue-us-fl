@@ -2,13 +2,14 @@
   "id": 270344455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503766,28.057649,-82.503766,28.057649",
     "geom:latitude":28.057649,
     "geom:longitude":-82.503766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270344455,
-    "wof:lastmodified":1449008796,
+    "wof:lastmodified":1466435361,
     "wof:name":"Edward Jones 09706",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-82.503766,28.057649,-82.503766,28.057649],
+  "bbox": [
+    -82.503766,
+    28.057649,
+    -82.503766,
+    28.057649
+],
   "geometry": {"coordinates":[-82.503766,28.057649],"type":"Point"}
 }

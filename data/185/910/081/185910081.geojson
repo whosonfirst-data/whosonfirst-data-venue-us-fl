@@ -2,13 +2,14 @@
   "id": 185910081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.688459,26.195348,-81.688459,26.195348",
     "geom:latitude":26.195348,
     "geom:longitude":-81.688459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 40th Ter SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185910081,
-    "wof:lastmodified":1449007272,
+    "wof:lastmodified":1466430029,
     "wof:name":"Golden Gate Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.688459,26.195348,-81.688459,26.195348],
-  "geometry": {"coordinates":[-81.688459,26.195348],"type":"Point"}
+  "bbox": [
+    -81.688459,
+    26.195348,
+    -81.688459,
+    26.195348
+],
+  "geometry": {"coordinates":[-81.68845899999999,26.195348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354394929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.953205,28.0736,-81.953205,28.0736",
     "geom:latitude":28.0736,
     "geom:longitude":-81.953205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 Lakeland Hills Blvd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354394929,
-    "wof:lastmodified":1449066260,
+    "wof:lastmodified":1466442129,
     "wof:name":"Detroit Tigers",
     "wof:parent_id":85889067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "baseball"
     ]
 },
-  "bbox": [-81.953205,28.0736,-81.953205,28.0736],
+  "bbox": [
+    -81.953205,
+    28.0736,
+    -81.953205,
+    28.0736
+],
   "geometry": {"coordinates":[-81.953205,28.0736],"type":"Point"}
 }

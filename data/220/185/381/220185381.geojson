@@ -2,13 +2,14 @@
   "id": 220185381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.770243,26.211575,-81.770243,26.211575",
     "geom:latitude":26.211575,
     "geom:longitude":-81.770243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2368 Pine Ridge Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220185381,
-    "wof:lastmodified":1449074172,
+    "wof:lastmodified":1466429371,
     "wof:name":"Bealls 62",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.770243,26.211575,-81.770243,26.211575],
-  "geometry": {"coordinates":[-81.770243,26.211575],"type":"Point"}
+  "bbox": [
+    -81.770243,
+    26.211575,
+    -81.770243,
+    26.211575
+],
+  "geometry": {"coordinates":[-81.77024299999999,26.211575],"type":"Point"}
 }

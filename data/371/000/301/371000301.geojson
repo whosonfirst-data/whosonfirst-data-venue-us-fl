@@ -2,13 +2,14 @@
   "id": 371000301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.38275,28.507492,-81.38275,28.507492",
     "geom:latitude":28.507492,
     "geom:longitude":-81.38275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Albert St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371000301,
-    "wof:lastmodified":1449049196,
+    "wof:lastmodified":1466446268,
     "wof:name":"Clearview Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lake"
     ]
 },
-  "bbox": [-81.38275,28.507492,-81.38275,28.507492],
+  "bbox": [
+    -81.38275,
+    28.507492,
+    -81.38275,
+    28.507492
+],
   "geometry": {"coordinates":[-81.38275,28.507492],"type":"Point"}
 }

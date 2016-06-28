@@ -2,13 +2,14 @@
   "id": 236741655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.670988,30.325578,-81.670988,30.325578",
     "geom:latitude":30.325578,
     "geom:longitude":-81.670988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Oak St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236741655,
-    "wof:lastmodified":1449001810,
+    "wof:lastmodified":1466439006,
     "wof:name":"Mount Moriah AME Church",
     "wof:parent_id":85870689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.670988,30.325578,-81.670988,30.325578],
-  "geometry": {"coordinates":[-81.670988,30.325578],"type":"Point"}
+  "bbox": [
+    -81.670988,
+    30.325578,
+    -81.670988,
+    30.325578
+],
+  "geometry": {"coordinates":[-81.67098799999999,30.325578],"type":"Point"}
 }

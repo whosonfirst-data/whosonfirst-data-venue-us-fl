@@ -2,13 +2,14 @@
   "id": 320219655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695495,30.364531,-81.695495,30.364531",
     "geom:latitude":30.364531,
     "geom:longitude":-81.695495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 Spring Grove Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320219655,
-    "wof:lastmodified":1449014810,
+    "wof:lastmodified":1466437139,
     "wof:name":"True Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.695495,30.364531,-81.695495,30.364531],
-  "geometry": {"coordinates":[-81.695495,30.364531],"type":"Point"}
+  "bbox": [
+    -81.695495,
+    30.364531,
+    -81.695495,
+    30.364531
+],
+  "geometry": {"coordinates":[-81.69549499999999,30.364531],"type":"Point"}
 }

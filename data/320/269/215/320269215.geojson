@@ -2,13 +2,14 @@
   "id": 320269215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538513,27.33023,-82.538513,27.33023",
     "geom:latitude":27.33023,
     "geom:longitude":-82.538513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 S Orange Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320269215,
-    "wof:lastmodified":1449013601,
+    "wof:lastmodified":1466437999,
     "wof:name":"Specs Scientific Instruments",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "scientific"
     ]
 },
-  "bbox": [-82.538513,27.33023,-82.538513,27.33023],
-  "geometry": {"coordinates":[-82.538513,27.33023],"type":"Point"}
+  "bbox": [
+    -82.538513,
+    27.33023,
+    -82.538513,
+    27.33023
+],
+  "geometry": {"coordinates":[-82.53851299999999,27.33023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320400101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.217205,30.568351,-84.217205,30.568351",
     "geom:latitude":30.568351,
     "geom:longitude":-84.217205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7128 Beech Ridge Trl",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320400101,
-    "wof:lastmodified":1449011603,
+    "wof:lastmodified":1466440235,
     "wof:name":"H H Wang MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-84.217205,30.568351,-84.217205,30.568351],
-  "geometry": {"coordinates":[-84.217205,30.568351],"type":"Point"}
+  "bbox": [
+    -84.217205,
+    30.568351,
+    -84.217205,
+    30.568351
+],
+  "geometry": {"coordinates":[-84.21720500000001,30.568351],"type":"Point"}
 }

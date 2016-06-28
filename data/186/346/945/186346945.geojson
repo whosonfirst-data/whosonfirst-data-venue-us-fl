@@ -2,13 +2,14 @@
   "id": 186346945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.107135,29.244527,-82.107135,29.244527",
     "geom:latitude":29.244527,
     "geom:longitude":-82.107135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5544 NE 22nd Ter",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186346945,
-    "wof:lastmodified":1449050238,
+    "wof:lastmodified":1466430866,
     "wof:name":"Bird's Cleaning Svc",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.107135,29.244527,-82.107135,29.244527],
+  "bbox": [
+    -82.107135,
+    29.244527,
+    -82.107135,
+    29.244527
+],
   "geometry": {"coordinates":[-82.107135,29.244527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269570933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.323848,29.919146,-81.323848,29.919146",
     "geom:latitude":29.919146,
     "geom:longitude":-81.323848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mc Millan St",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269570933,
-    "wof:lastmodified":1449037566,
+    "wof:lastmodified":1466430030,
     "wof:name":"Trust Data Svc",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-81.323848,29.919146,-81.323848,29.919146],
+  "bbox": [
+    -81.323848,
+    29.919146,
+    -81.323848,
+    29.919146
+],
   "geometry": {"coordinates":[-81.323848,29.919146],"type":"Point"}
 }

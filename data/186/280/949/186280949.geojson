@@ -2,13 +2,14 @@
   "id": 186280949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.605528,28.031229,-80.605528,28.031229",
     "geom:latitude":28.031229,
     "geom:longitude":-80.605528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 Clearmont St NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186280949,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1466430064,
     "wof:name":"Dave's Routine Maintenance",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.605528,28.031229,-80.605528,28.031229],
-  "geometry": {"coordinates":[-80.605528,28.031229],"type":"Point"}
+  "bbox": [
+    -80.605528,
+    28.031229,
+    -80.605528,
+    28.031229
+],
+  "geometry": {"coordinates":[-80.60552800000001,28.031229],"type":"Point"}
 }

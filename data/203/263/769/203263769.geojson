@@ -2,13 +2,14 @@
   "id": 203263769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116064,26.162033,-80.116064,26.162033",
     "geom:latitude":26.162033,
     "geom:longitude":-80.116064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203263769,
-    "wof:lastmodified":1449026820,
+    "wof:lastmodified":1466429723,
     "wof:name":"Miami Carpet & Tile",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile"
     ]
 },
-  "bbox": [-80.116064,26.162033,-80.116064,26.162033],
-  "geometry": {"coordinates":[-80.116064,26.162033],"type":"Point"}
+  "bbox": [
+    -80.116064,
+    26.162033,
+    -80.116064,
+    26.162033
+],
+  "geometry": {"coordinates":[-80.11606399999999,26.162033],"type":"Point"}
 }

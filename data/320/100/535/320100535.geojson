@@ -2,13 +2,14 @@
   "id": 320100535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.29324,30.540502,-87.29324,30.540502",
     "geom:latitude":30.540502,
     "geom:longitude":-87.29324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8636 Messick Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320100535,
-    "wof:lastmodified":1449014023,
+    "wof:lastmodified":1466435099,
     "wof:name":"B Brown Heating & AC",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.29324,30.540502,-87.29324,30.540502],
+  "bbox": [
+    -87.29324,
+    30.540502,
+    -87.29324,
+    30.540502
+],
   "geometry": {"coordinates":[-87.29324,30.540502],"type":"Point"}
 }

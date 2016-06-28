@@ -2,13 +2,14 @@
   "id": 203024145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.353001,28.663171,-81.353001,28.663171",
     "geom:latitude":28.663171,
     "geom:longitude":-81.353001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 E Altamonte Dr",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203024145,
-    "wof:lastmodified":1449025827,
+    "wof:lastmodified":1466442380,
     "wof:name":"WWD Assoc Of Central Florida",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-81.353001,28.663171,-81.353001,28.663171],
-  "geometry": {"coordinates":[-81.353001,28.663171],"type":"Point"}
+  "bbox": [
+    -81.353001,
+    28.663171,
+    -81.353001,
+    28.663171
+],
+  "geometry": {"coordinates":[-81.35300100000001,28.663171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320510159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.541755,30.197058,-81.541755,30.197058",
     "geom:latitude":30.197058,
     "geom:longitude":-81.541755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7854 Timberland Park Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320510159,
-    "wof:lastmodified":1449013497,
+    "wof:lastmodified":1466442194,
     "wof:name":"Online Grocery Coupons Inc",
     "wof:parent_id":85888927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.541755,30.197058,-81.541755,30.197058],
-  "geometry": {"coordinates":[-81.541755,30.197058],"type":"Point"}
+  "bbox": [
+    -81.541755,
+    30.197058,
+    -81.541755,
+    30.197058
+],
+  "geometry": {"coordinates":[-81.54175499999999,30.197058],"type":"Point"}
 }

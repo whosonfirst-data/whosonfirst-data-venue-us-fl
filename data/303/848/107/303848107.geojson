@@ -2,13 +2,14 @@
   "id": 303848107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.1237,26.811823,-80.1237,26.811823",
     "geom:latitude":26.811823,
     "geom:longitude":-80.1237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5560 Cypress Tree Ct",
     "sg:city":"Palm Beach Gardens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303848107,
-    "wof:lastmodified":1448998460,
+    "wof:lastmodified":1466445129,
     "wof:name":"Geo Golf",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.1237,26.811823,-80.1237,26.811823],
+  "bbox": [
+    -80.1237,
+    26.811823,
+    -80.1237,
+    26.811823
+],
   "geometry": {"coordinates":[-80.1237,26.811823],"type":"Point"}
 }

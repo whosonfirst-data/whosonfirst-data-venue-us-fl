@@ -2,13 +2,14 @@
   "id": 404096307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.161448,25.965668,-80.161448,25.965668",
     "geom:latitude":25.965668,
     "geom:longitude":-80.161448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20520 NE 20th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404096307,
-    "wof:lastmodified":1449039403,
+    "wof:lastmodified":1466441727,
     "wof:name":"Gus Alonso Apartments",
     "wof:parent_id":85825175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.161448,25.965668,-80.161448,25.965668],
-  "geometry": {"coordinates":[-80.161448,25.965668],"type":"Point"}
+  "bbox": [
+    -80.161448,
+    25.965668,
+    -80.161448,
+    25.965668
+],
+  "geometry": {"coordinates":[-80.16144799999999,25.965668],"type":"Point"}
 }

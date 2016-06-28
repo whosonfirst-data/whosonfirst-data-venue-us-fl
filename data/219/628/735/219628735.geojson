@@ -2,13 +2,14 @@
   "id": 219628735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.400469,25.537145,-80.400469,25.537145",
     "geom:latitude":25.537145,
     "geom:longitude":-80.400469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24445 SW 129th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219628735,
-    "wof:lastmodified":1449073256,
+    "wof:lastmodified":1466433176,
     "wof:name":"Pine Island Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipper"
     ]
 },
-  "bbox": [-80.400469,25.537145,-80.400469,25.537145],
+  "bbox": [
+    -80.400469,
+    25.537145,
+    -80.400469,
+    25.537145
+],
   "geometry": {"coordinates":[-80.400469,25.537145],"type":"Point"}
 }

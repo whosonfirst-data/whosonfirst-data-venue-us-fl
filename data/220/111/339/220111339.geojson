@@ -2,13 +2,14 @@
   "id": 220111339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503414,27.296001,-82.503414,27.296001",
     "geom:latitude":27.296001,
     "geom:longitude":-82.503414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Nelson Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220111339,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466446204,
     "wof:name":"B & D Mobile Repair Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.503414,27.296001,-82.503414,27.296001],
-  "geometry": {"coordinates":[-82.503414,27.296001],"type":"Point"}
+  "bbox": [
+    -82.503414,
+    27.296001,
+    -82.503414,
+    27.296001
+],
+  "geometry": {"coordinates":[-82.50341400000001,27.296001],"type":"Point"}
 }

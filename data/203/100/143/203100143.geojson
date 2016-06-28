@@ -2,13 +2,14 @@
   "id": 203100143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227393,27.244632,-80.227393,27.244632",
     "geom:latitude":27.244632,
     "geom:longitude":-80.227393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 NE Ricou Ter",
     "sg:city":"Jensen Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203100143,
-    "wof:lastmodified":1449026367,
+    "wof:lastmodified":1466445287,
     "wof:name":"Jensen Bch Chamber of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commerce"
     ]
 },
-  "bbox": [-80.227393,27.244632,-80.227393,27.244632],
-  "geometry": {"coordinates":[-80.227393,27.244632],"type":"Point"}
+  "bbox": [
+    -80.227393,
+    27.244632,
+    -80.227393,
+    27.244632
+],
+  "geometry": {"coordinates":[-80.22739300000001,27.244632],"type":"Point"}
 }

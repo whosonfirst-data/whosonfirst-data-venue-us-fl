@@ -2,13 +2,14 @@
   "id": 370799049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.45162,28.580084,-81.45162,28.580084",
     "geom:latitude":28.580084,
     "geom:longitude":-81.45162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 N Pine Hills Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370799049,
-    "wof:lastmodified":1449032490,
+    "wof:lastmodified":1466446533,
     "wof:name":"Tire Super Ctr",
     "wof:parent_id":85879529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-81.45162,28.580084,-81.45162,28.580084],
-  "geometry": {"coordinates":[-81.45162,28.580084],"type":"Point"}
+  "bbox": [
+    -81.45162,
+    28.580084,
+    -81.45162,
+    28.580084
+],
+  "geometry": {"coordinates":[-81.45162000000001,28.580084],"type":"Point"}
 }

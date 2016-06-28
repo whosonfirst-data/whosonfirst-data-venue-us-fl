@@ -2,13 +2,14 @@
   "id": 320542415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.671339,27.790992,-82.671339,27.790992",
     "geom:latitude":27.790992,
     "geom:longitude":-82.671339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 28th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320542415,
-    "wof:lastmodified":1449014131,
+    "wof:lastmodified":1466442776,
     "wof:name":"Sanitation Collection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitation"
     ]
 },
-  "bbox": [-82.671339,27.790992,-82.671339,27.790992],
+  "bbox": [
+    -82.671339,
+    27.790992,
+    -82.671339,
+    27.790992
+],
   "geometry": {"coordinates":[-82.671339,27.790992],"type":"Point"}
 }

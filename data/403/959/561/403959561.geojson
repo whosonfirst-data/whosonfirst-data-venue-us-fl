@@ -2,13 +2,14 @@
   "id": 403959561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205196,26.709382,-80.205196,26.709382",
     "geom:latitude":26.709382,
     "geom:longitude":-80.205196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10701 Okeechobee Blvd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403959561,
-    "wof:lastmodified":1449055834,
+    "wof:lastmodified":1466443679,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.205196,26.709382,-80.205196,26.709382],
+  "bbox": [
+    -80.205196,
+    26.709382,
+    -80.205196,
+    26.709382
+],
   "geometry": {"coordinates":[-80.205196,26.709382],"type":"Point"}
 }

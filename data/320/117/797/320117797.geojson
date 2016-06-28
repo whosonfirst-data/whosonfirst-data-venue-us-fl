@@ -2,13 +2,14 @@
   "id": 320117797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.417513,30.288181,-81.417513,30.288181",
     "geom:latitude":30.288181,
     "geom:longitude":-81.417513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Beach Blvd",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320117797,
-    "wof:lastmodified":1449013812,
+    "wof:lastmodified":1466435400,
     "wof:name":"Billys",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-81.417513,30.288181,-81.417513,30.288181],
+  "bbox": [
+    -81.417513,
+    30.288181,
+    -81.417513,
+    30.288181
+],
   "geometry": {"coordinates":[-81.417513,30.288181],"type":"Point"}
 }

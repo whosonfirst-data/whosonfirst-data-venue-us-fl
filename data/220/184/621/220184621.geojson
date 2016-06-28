@@ -2,13 +2,14 @@
   "id": 220184621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.641511,28.133879,-80.641511,28.133879",
     "geom:latitude":28.133879,
     "geom:longitude":-80.641511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 Aurora Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220184621,
-    "wof:lastmodified":1449074179,
+    "wof:lastmodified":1466429361,
     "wof:name":"Marrs AC & Refrig",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.641511,28.133879,-80.641511,28.133879],
-  "geometry": {"coordinates":[-80.641511,28.133879],"type":"Point"}
+  "bbox": [
+    -80.641511,
+    28.133879,
+    -80.641511,
+    28.133879
+],
+  "geometry": {"coordinates":[-80.64151099999999,28.133879],"type":"Point"}
 }

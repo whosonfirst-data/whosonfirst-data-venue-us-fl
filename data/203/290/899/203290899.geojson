@@ -2,13 +2,14 @@
   "id": 203290899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.604008,30.174792,-81.604008,30.174792",
     "geom:latitude":30.174792,
     "geom:longitude":-81.604008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11060 Old Saint Augustine Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203290899,
-    "wof:lastmodified":1449025741,
+    "wof:lastmodified":1466430053,
     "wof:name":"Akshay Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.604008,30.174792,-81.604008,30.174792],
-  "geometry": {"coordinates":[-81.604008,30.174792],"type":"Point"}
+  "bbox": [
+    -81.604008,
+    30.174792,
+    -81.604008,
+    30.174792
+],
+  "geometry": {"coordinates":[-81.60400799999999,30.174792],"type":"Point"}
 }

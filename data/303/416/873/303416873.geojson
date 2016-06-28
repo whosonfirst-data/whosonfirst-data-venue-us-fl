@@ -2,13 +2,14 @@
   "id": 303416873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12176,26.211062,-80.12176,26.211062",
     "geom:latitude":26.211062,
     "geom:longitude":-80.12176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 E McNab Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303416873,
-    "wof:lastmodified":1448999218,
+    "wof:lastmodified":1466437713,
     "wof:name":"Abba Moving and Delivery Inc",
     "wof:parent_id":85813331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.12176,26.211062,-80.12176,26.211062],
-  "geometry": {"coordinates":[-80.12176,26.211062],"type":"Point"}
+  "bbox": [
+    -80.12176,
+    26.211062,
+    -80.12176,
+    26.211062
+],
+  "geometry": {"coordinates":[-80.12175999999999,26.211062],"type":"Point"}
 }

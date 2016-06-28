@@ -2,13 +2,14 @@
   "id": 303298395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038615,26.704296,-80.038615,26.704296",
     "geom:latitude":26.704296,
     "geom:longitude":-80.038615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Brazilian Ave",
     "sg:city":"Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303298395,
-    "wof:lastmodified":1448998773,
+    "wof:lastmodified":1466435682,
     "wof:name":"Ross Co",
     "wof:parent_id":85881799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.038615,26.704296,-80.038615,26.704296],
-  "geometry": {"coordinates":[-80.038615,26.704296],"type":"Point"}
+  "bbox": [
+    -80.038615,
+    26.704296,
+    -80.038615,
+    26.704296
+],
+  "geometry": {"coordinates":[-80.03861499999999,26.704296],"type":"Point"}
 }

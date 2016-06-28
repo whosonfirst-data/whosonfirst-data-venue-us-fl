@@ -2,13 +2,14 @@
   "id": 186389201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.485752,28.53341,-81.485752,28.53341",
     "geom:latitude":28.53341,
     "geom:longitude":-81.485752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Summer Lakes Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186389201,
-    "wof:lastmodified":1449052463,
+    "wof:lastmodified":1466431380,
     "wof:name":"Realty Inspection Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inspection"
     ]
 },
-  "bbox": [-81.485752,28.53341,-81.485752,28.53341],
-  "geometry": {"coordinates":[-81.485752,28.53341],"type":"Point"}
+  "bbox": [
+    -81.485752,
+    28.53341,
+    -81.485752,
+    28.53341
+],
+  "geometry": {"coordinates":[-81.48575200000001,28.53341],"type":"Point"}
 }

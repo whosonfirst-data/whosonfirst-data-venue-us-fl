@@ -2,13 +2,14 @@
   "id": 403804003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334404,25.979351,-80.334404,25.979351",
     "geom:latitude":25.979351,
     "geom:longitude":-80.334404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14051 SW 32nd St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403804003,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1466441182,
     "wof:name":"John & Lori Derosa Vending",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-80.334404,25.979351,-80.334404,25.979351],
-  "geometry": {"coordinates":[-80.334404,25.979351],"type":"Point"}
+  "bbox": [
+    -80.334404,
+    25.979351,
+    -80.334404,
+    25.979351
+],
+  "geometry": {"coordinates":[-80.33440400000001,25.979351],"type":"Point"}
 }

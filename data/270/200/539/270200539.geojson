@@ -2,13 +2,14 @@
   "id": 270200539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.783066,28.525666,-80.783066,28.525666",
     "geom:latitude":28.525666,
     "geom:longitude":-80.783066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6225 Vectorspace Blvd",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270200539,
-    "wof:lastmodified":1449009615,
+    "wof:lastmodified":1466432902,
     "wof:name":"U S Astronauts Hall of Fame",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.783066,28.525666,-80.783066,28.525666],
-  "geometry": {"coordinates":[-80.783066,28.525666],"type":"Point"}
+  "bbox": [
+    -80.783066,
+    28.525666,
+    -80.783066,
+    28.525666
+],
+  "geometry": {"coordinates":[-80.78306600000001,28.525666],"type":"Point"}
 }

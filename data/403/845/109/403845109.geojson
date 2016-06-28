@@ -2,13 +2,14 @@
   "id": 403845109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.239243,30.428381,-84.239243,30.428381",
     "geom:latitude":30.428381,
     "geom:longitude":-84.239243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403845109,
-    "wof:lastmodified":1449054846,
+    "wof:lastmodified":1466441874,
     "wof:name":"William Dean Homes",
     "wof:parent_id":85881349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.239243,30.428381,-84.239243,30.428381],
+  "bbox": [
+    -84.239243,
+    30.428381,
+    -84.239243,
+    30.428381
+],
   "geometry": {"coordinates":[-84.239243,30.428381],"type":"Point"}
 }

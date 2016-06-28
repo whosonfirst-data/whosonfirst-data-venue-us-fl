@@ -2,13 +2,14 @@
   "id": 404105035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.709196,27.839122,-82.709196,27.839122",
     "geom:latitude":27.839122,
     "geom:longitude":-82.709196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5580 Park Blvd",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404105035,
-    "wof:lastmodified":1449039485,
+    "wof:lastmodified":1466441862,
     "wof:name":"Why Realty",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.709196,27.839122,-82.709196,27.839122],
-  "geometry": {"coordinates":[-82.709196,27.839122],"type":"Point"}
+  "bbox": [
+    -82.709196,
+    27.839122,
+    -82.709196,
+    27.839122
+],
+  "geometry": {"coordinates":[-82.70919600000001,27.839122],"type":"Point"}
 }

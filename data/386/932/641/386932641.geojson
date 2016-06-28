@@ -2,13 +2,14 @@
   "id": 386932641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.60389,28.371031,-80.60389,28.371031",
     "geom:latitude":28.371031,
     "geom:longitude":-80.60389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Ridgewood Ave",
     "sg:city":"Cocoa Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386932641,
-    "wof:lastmodified":1449028743,
+    "wof:lastmodified":1466438430,
     "wof:name":"Living Waters Aquarium",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquarium"
     ]
 },
-  "bbox": [-80.60389,28.371031,-80.60389,28.371031],
-  "geometry": {"coordinates":[-80.60389,28.371031],"type":"Point"}
+  "bbox": [
+    -80.60389,
+    28.371031,
+    -80.60389,
+    28.371031
+],
+  "geometry": {"coordinates":[-80.60389000000001,28.371031],"type":"Point"}
 }

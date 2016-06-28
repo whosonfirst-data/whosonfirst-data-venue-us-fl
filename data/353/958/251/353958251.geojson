@@ -2,13 +2,14 @@
   "id": 353958251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033307,26.702331,-80.033307,26.702331",
     "geom:latitude":26.702331,
     "geom:longitude":-80.033307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Ocean Blvd",
     "sg:city":"Palm Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353958251,
-    "wof:lastmodified":1449020259,
+    "wof:lastmodified":1466443353,
     "wof:name":"Drake Bierly Assoc Inc",
     "wof:parent_id":85881799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.033307,26.702331,-80.033307,26.702331],
-  "geometry": {"coordinates":[-80.033307,26.702331],"type":"Point"}
+  "bbox": [
+    -80.033307,
+    26.702331,
+    -80.033307,
+    26.702331
+],
+  "geometry": {"coordinates":[-80.03330699999999,26.702331],"type":"Point"}
 }

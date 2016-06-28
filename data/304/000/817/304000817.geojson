@@ -2,13 +2,14 @@
   "id": 304000817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512171,27.906022,-82.512171,27.906022",
     "geom:latitude":27.906022,
     "geom:longitude":-82.512171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 W Bay Vista Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304000817,
-    "wof:lastmodified":1449043648,
+    "wof:lastmodified":1466446258,
     "wof:name":"Family Title",
     "wof:parent_id":85873217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-82.512171,27.906022,-82.512171,27.906022],
+  "bbox": [
+    -82.512171,
+    27.906022,
+    -82.512171,
+    27.906022
+],
   "geometry": {"coordinates":[-82.512171,27.906022],"type":"Point"}
 }

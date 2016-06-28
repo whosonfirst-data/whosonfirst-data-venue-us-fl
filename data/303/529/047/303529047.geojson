@@ -2,13 +2,14 @@
   "id": 303529047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396886,28.504512,-81.396886,28.504512",
     "geom:latitude":28.504512,
     "geom:longitude":-81.396886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303529047,
-    "wof:lastmodified":1448999188,
+    "wof:lastmodified":1466439659,
     "wof:name":"Checkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.396886,28.504512,-81.396886,28.504512],
-  "geometry": {"coordinates":[-81.396886,28.504512],"type":"Point"}
+  "bbox": [
+    -81.396886,
+    28.504512,
+    -81.396886,
+    28.504512
+],
+  "geometry": {"coordinates":[-81.39688599999999,28.504512],"type":"Point"}
 }

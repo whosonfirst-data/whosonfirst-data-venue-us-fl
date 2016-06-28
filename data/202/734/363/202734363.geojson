@@ -2,13 +2,14 @@
   "id": 202734363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.255587,28.17324,-81.255587,28.17324",
     "geom:latitude":28.17324,
     "geom:longitude":-81.255587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 Packard Ave",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202734363,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466431417,
     "wof:name":"Liner Farm",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tree"
     ]
 },
-  "bbox": [-81.255587,28.17324,-81.255587,28.17324],
-  "geometry": {"coordinates":[-81.255587,28.17324],"type":"Point"}
+  "bbox": [
+    -81.255587,
+    28.17324,
+    -81.255587,
+    28.17324
+],
+  "geometry": {"coordinates":[-81.25558700000001,28.17324],"type":"Point"}
 }

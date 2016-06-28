@@ -2,13 +2,14 @@
   "id": 303052633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.155605,28.235225,-81.155605,28.235225",
     "geom:latitude":28.235225,
     "geom:longitude":-81.155605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6990 Ranchero Ct",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303052633,
-    "wof:lastmodified":1448999230,
+    "wof:lastmodified":1466431361,
     "wof:name":"Extreme Carpentry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.155605,28.235225,-81.155605,28.235225],
-  "geometry": {"coordinates":[-81.155605,28.235225],"type":"Point"}
+  "bbox": [
+    -81.155605,
+    28.235225,
+    -81.155605,
+    28.235225
+],
+  "geometry": {"coordinates":[-81.15560499999999,28.235225],"type":"Point"}
 }

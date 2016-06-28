@@ -2,13 +2,14 @@
   "id": 370575663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.500813,25.479201,-80.500813,25.479201",
     "geom:latitude":25.479201,
     "geom:longitude":-80.500813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30960 SW 191st Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370575663,
-    "wof:lastmodified":1449030085,
+    "wof:lastmodified":1466443005,
     "wof:name":"David & Kathy Ledford",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.500813,25.479201,-80.500813,25.479201],
-  "geometry": {"coordinates":[-80.500813,25.479201],"type":"Point"}
+  "bbox": [
+    -80.500813,
+    25.479201,
+    -80.500813,
+    25.479201
+],
+  "geometry": {"coordinates":[-80.50081299999999,25.479201],"type":"Point"}
 }

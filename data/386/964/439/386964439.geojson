@@ -2,13 +2,14 @@
   "id": 386964439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.304257,27.95004,-82.304257,27.95004",
     "geom:latitude":27.95004,
     "geom:longitude":-82.304257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Limona Rd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386964439,
-    "wof:lastmodified":1449028874,
+    "wof:lastmodified":1466438935,
     "wof:name":"Able Fire & Safety",
     "wof:parent_id":85830565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-82.304257,27.95004,-82.304257,27.95004],
-  "geometry": {"coordinates":[-82.304257,27.95004],"type":"Point"}
+  "bbox": [
+    -82.304257,
+    27.95004,
+    -82.304257,
+    27.95004
+],
+  "geometry": {"coordinates":[-82.30425700000001,27.95004],"type":"Point"}
 }

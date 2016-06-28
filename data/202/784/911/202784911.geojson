@@ -2,13 +2,14 @@
   "id": 202784911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.137881,29.176859,-82.137881,29.176859",
     "geom:latitude":29.176859,
     "geom:longitude":-82.137881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 SW 1st Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202784911,
-    "wof:lastmodified":1449061783,
+    "wof:lastmodified":1466432065,
     "wof:name":"Diabetes Center",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diabetes"
     ]
 },
-  "bbox": [-82.137881,29.176859,-82.137881,29.176859],
-  "geometry": {"coordinates":[-82.137881,29.176859],"type":"Point"}
+  "bbox": [
+    -82.137881,
+    29.176859,
+    -82.137881,
+    29.176859
+],
+  "geometry": {"coordinates":[-82.13788099999999,29.176859],"type":"Point"}
 }

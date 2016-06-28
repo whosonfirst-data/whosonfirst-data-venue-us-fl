@@ -2,13 +2,14 @@
   "id": 320797335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401338,28.527955,-81.401338,28.527955",
     "geom:latitude":28.527955,
     "geom:longitude":-81.401338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 S Rio Grande Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320797335,
-    "wof:lastmodified":1449014592,
+    "wof:lastmodified":1466446787,
     "wof:name":"Vengard",
     "wof:parent_id":85879429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiator"
     ]
 },
-  "bbox": [-81.401338,28.527955,-81.401338,28.527955],
+  "bbox": [
+    -81.401338,
+    28.527955,
+    -81.401338,
+    28.527955
+],
   "geometry": {"coordinates":[-81.401338,28.527955],"type":"Point"}
 }

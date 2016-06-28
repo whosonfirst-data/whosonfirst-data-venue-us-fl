@@ -2,13 +2,14 @@
   "id": 286680671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.268029,25.789267,-80.268029,25.789267",
     "geom:latitude":25.789267,
     "geom:longitude":-80.268029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 NW 18th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286680671,
-    "wof:lastmodified":1449017245,
+    "wof:lastmodified":1466436992,
     "wof:name":"Airport Villas & Apartments",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.268029,25.789267,-80.268029,25.789267],
+  "bbox": [
+    -80.268029,
+    25.789267,
+    -80.268029,
+    25.789267
+],
   "geometry": {"coordinates":[-80.268029,25.789267],"type":"Point"}
 }

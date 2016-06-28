@@ -2,13 +2,14 @@
   "id": 336863189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.312688,25.993645,-80.312688,25.993645",
     "geom:latitude":25.993645,
     "geom:longitude":-80.312688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12651 SW 16th Ct",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336863189,
-    "wof:lastmodified":1448997674,
+    "wof:lastmodified":1466439571,
     "wof:name":"Water Damage Wizard",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-80.312688,25.993645,-80.312688,25.993645],
-  "geometry": {"coordinates":[-80.312688,25.993645],"type":"Point"}
+  "bbox": [
+    -80.312688,
+    25.993645,
+    -80.312688,
+    25.993645
+],
+  "geometry": {"coordinates":[-80.31268799999999,25.993645],"type":"Point"}
 }

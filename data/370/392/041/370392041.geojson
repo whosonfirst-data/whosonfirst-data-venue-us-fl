@@ -2,13 +2,14 @@
   "id": 370392041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.496643,29.70958,-82.496643,29.70958",
     "geom:latitude":29.70958,
     "geom:longitude":-82.496643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15306 NW 60th Ave",
     "sg:city":"Alachua",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370392041,
-    "wof:lastmodified":1449031804,
+    "wof:lastmodified":1466440181,
     "wof:name":"Horseshoe Farm",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.496643,29.70958,-82.496643,29.70958],
-  "geometry": {"coordinates":[-82.496643,29.70958],"type":"Point"}
+  "bbox": [
+    -82.496643,
+    29.70958,
+    -82.496643,
+    29.70958
+],
+  "geometry": {"coordinates":[-82.49664300000001,29.70958],"type":"Point"}
 }

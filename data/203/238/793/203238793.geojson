@@ -2,13 +2,14 @@
   "id": 203238793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.327357,29.651926,-82.327357,29.651926",
     "geom:latitude":29.651926,
     "geom:longitude":-82.327357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 W University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203238793,
-    "wof:lastmodified":1449025627,
+    "wof:lastmodified":1466429402,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85877639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-82.327357,29.651926,-82.327357,29.651926],
-  "geometry": {"coordinates":[-82.327357,29.651926],"type":"Point"}
+  "bbox": [
+    -82.327357,
+    29.651926,
+    -82.327357,
+    29.651926
+],
+  "geometry": {"coordinates":[-82.32735700000001,29.651926],"type":"Point"}
 }

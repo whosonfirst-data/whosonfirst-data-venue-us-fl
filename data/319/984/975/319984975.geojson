@@ -2,13 +2,14 @@
   "id": 319984975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201315,25.841885,-80.201315,25.841885",
     "geom:latitude":25.841885,
     "geom:longitude":-80.201315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 NW 73rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319984975,
-    "wof:lastmodified":1449024526,
+    "wof:lastmodified":1466435729,
     "wof:name":"Mica Inc",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.201315,25.841885,-80.201315,25.841885],
-  "geometry": {"coordinates":[-80.201315,25.841885],"type":"Point"}
+  "bbox": [
+    -80.201315,
+    25.841885,
+    -80.201315,
+    25.841885
+],
+  "geometry": {"coordinates":[-80.20131499999999,25.841885],"type":"Point"}
 }

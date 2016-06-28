@@ -2,13 +2,14 @@
   "id": 387736643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.10787,27.011282,-82.10787,27.011282",
     "geom:latitude":27.011282,
     "geom:longitude":-82.10787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Dorchester St",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387736643,
-    "wof:lastmodified":1449059879,
+    "wof:lastmodified":1466448448,
     "wof:name":"Quality Residuals Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-82.10787,27.011282,-82.10787,27.011282],
-  "geometry": {"coordinates":[-82.10787,27.011282],"type":"Point"}
+  "bbox": [
+    -82.10787,
+    27.011282,
+    -82.10787,
+    27.011282
+],
+  "geometry": {"coordinates":[-82.10787000000001,27.011282],"type":"Point"}
 }

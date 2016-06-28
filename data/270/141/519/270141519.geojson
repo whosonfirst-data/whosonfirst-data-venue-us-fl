@@ -2,13 +2,14 @@
   "id": 270141519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368365,28.663825,-81.368365,28.663825",
     "geom:latitude":28.663825,
     "geom:longitude":-81.368365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 E Altamonte Dr",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270141519,
-    "wof:lastmodified":1449009501,
+    "wof:lastmodified":1466431875,
     "wof:name":"Clec Software Inc",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.368365,28.663825,-81.368365,28.663825],
+  "bbox": [
+    -81.368365,
+    28.663825,
+    -81.368365,
+    28.663825
+],
   "geometry": {"coordinates":[-81.368365,28.663825],"type":"Point"}
 }

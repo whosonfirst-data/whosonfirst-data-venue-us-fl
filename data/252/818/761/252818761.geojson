@@ -2,13 +2,14 @@
   "id": 252818761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.007247,26.627326,-82.007247,26.627326",
     "geom:latitude":26.627326,
     "geom:longitude":-82.007247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 SW 13th Ter",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252818761,
-    "wof:lastmodified":1449005946,
+    "wof:lastmodified":1466430036,
     "wof:name":"Aqua Industrial Svc Inc",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.007247,26.627326,-82.007247,26.627326],
-  "geometry": {"coordinates":[-82.007247,26.627326],"type":"Point"}
+  "bbox": [
+    -82.007247,
+    26.627326,
+    -82.007247,
+    26.627326
+],
+  "geometry": {"coordinates":[-82.00724700000001,26.627326],"type":"Point"}
 }

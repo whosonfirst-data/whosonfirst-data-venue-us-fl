@@ -2,13 +2,14 @@
   "id": 319869607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333481,25.861406,-80.333481,25.861406",
     "geom:latitude":25.861406,
     "geom:longitude":-80.333481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9690 NW South River Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319869607,
-    "wof:lastmodified":1449024820,
+    "wof:lastmodified":1466433675,
     "wof:name":"South River Used Auto Sales",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-80.333481,25.861406,-80.333481,25.861406],
-  "geometry": {"coordinates":[-80.333481,25.861406],"type":"Point"}
+  "bbox": [
+    -80.333481,
+    25.861406,
+    -80.333481,
+    25.861406
+],
+  "geometry": {"coordinates":[-80.33348100000001,25.861406],"type":"Point"}
 }

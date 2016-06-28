@@ -2,13 +2,14 @@
   "id": 236193099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.579151,30.21,-81.579151,30.21",
     "geom:latitude":30.21,
     "geom:longitude":-81.579151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8863 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236193099,
-    "wof:lastmodified":1449002077,
+    "wof:lastmodified":1466431122,
     "wof:name":"Black Tie Limousine",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-81.579151,30.21,-81.579151,30.21],
+  "bbox": [
+    -81.579151,
+    30.21,
+    -81.579151,
+    30.21
+],
   "geometry": {"coordinates":[-81.579151,30.21],"type":"Point"}
 }

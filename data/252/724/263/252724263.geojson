@@ -2,13 +2,14 @@
   "id": 252724263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.286318,25.701936,-80.286318,25.701936",
     "geom:latitude":25.701936,
     "geom:longitude":-80.286318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 SW 57th Ct",
     "sg:city":"South Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252724263,
-    "wof:lastmodified":1449006478,
+    "wof:lastmodified":1466428665,
     "wof:name":"Big Tomato",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.286318,25.701936,-80.286318,25.701936],
-  "geometry": {"coordinates":[-80.286318,25.701936],"type":"Point"}
+  "bbox": [
+    -80.286318,
+    25.701936,
+    -80.286318,
+    25.701936
+],
+  "geometry": {"coordinates":[-80.28631799999999,25.701936],"type":"Point"}
 }

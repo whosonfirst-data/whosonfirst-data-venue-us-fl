@@ -2,13 +2,14 @@
   "id": 202773955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.440554,27.086324,-82.440554,27.086324",
     "geom:latitude":27.086324,
     "geom:longitude":-82.440554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"738 Tamiami Trl",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202773955,
-    "wof:lastmodified":1449060425,
+    "wof:lastmodified":1466431925,
     "wof:name":"Osprey Car Wash Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-82.440554,27.086324,-82.440554,27.086324],
-  "geometry": {"coordinates":[-82.440554,27.086324],"type":"Point"}
+  "bbox": [
+    -82.440554,
+    27.086324,
+    -82.440554,
+    27.086324
+],
+  "geometry": {"coordinates":[-82.44055400000001,27.086324],"type":"Point"}
 }

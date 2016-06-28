@@ -2,13 +2,14 @@
   "id": 303979429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.40211,25.630293,-80.40211,25.630293",
     "geom:latitude":25.630293,
     "geom:longitude":-80.40211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14710 SW 129th Place Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303979429,
-    "wof:lastmodified":1448999841,
+    "wof:lastmodified":1466447022,
     "wof:name":"Jonathan L Williams",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.40211,25.630293,-80.40211,25.630293],
-  "geometry": {"coordinates":[-80.40211,25.630293],"type":"Point"}
+  "bbox": [
+    -80.40211,
+    25.630293,
+    -80.40211,
+    25.630293
+],
+  "geometry": {"coordinates":[-80.40210999999999,25.630293],"type":"Point"}
 }

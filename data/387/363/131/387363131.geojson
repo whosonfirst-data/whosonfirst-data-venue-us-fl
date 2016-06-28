@@ -2,13 +2,14 @@
   "id": 387363131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.762087,30.181453,-85.762087,30.181453",
     "geom:latitude":30.181453,
     "geom:longitude":-85.762087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Commerce Dr",
     "sg:city":"Panama City Bch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387363131,
-    "wof:lastmodified":1449059456,
+    "wof:lastmodified":1466444281,
     "wof:name":"Coastal AC Supply",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.762087,30.181453,-85.762087,30.181453],
-  "geometry": {"coordinates":[-85.762087,30.181453],"type":"Point"}
+  "bbox": [
+    -85.762087,
+    30.181453,
+    -85.762087,
+    30.181453
+],
+  "geometry": {"coordinates":[-85.76208699999999,30.181453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354399001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099561,26.714099,-80.099561,26.714099",
     "geom:latitude":26.714099,
     "geom:longitude":-80.099561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Village Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354399001,
-    "wof:lastmodified":1449066235,
+    "wof:lastmodified":1466442196,
     "wof:name":"Eldercare At Home",
     "wof:parent_id":85840235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-80.099561,26.714099,-80.099561,26.714099],
-  "geometry": {"coordinates":[-80.099561,26.714099],"type":"Point"}
+  "bbox": [
+    -80.099561,
+    26.714099,
+    -80.099561,
+    26.714099
+],
+  "geometry": {"coordinates":[-80.09956099999999,26.714099],"type":"Point"}
 }

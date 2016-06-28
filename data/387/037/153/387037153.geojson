@@ -2,13 +2,14 @@
   "id": 387037153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.498213,28.10955,-82.498213,28.10955",
     "geom:latitude":28.10955,
     "geom:longitude":-82.498213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Pleasant Lake Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387037153,
-    "wof:lastmodified":1449059987,
+    "wof:lastmodified":1466439277,
     "wof:name":"Matts Italian Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.498213,28.10955,-82.498213,28.10955],
-  "geometry": {"coordinates":[-82.498213,28.10955],"type":"Point"}
+  "bbox": [
+    -82.498213,
+    28.10955,
+    -82.498213,
+    28.10955
+],
+  "geometry": {"coordinates":[-82.49821300000001,28.10955],"type":"Point"}
 }

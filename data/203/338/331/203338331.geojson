@@ -2,13 +2,14 @@
   "id": 203338331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.327052,25.83356,-80.327052,25.83356",
     "geom:latitude":25.83356,
     "geom:longitude":-80.327052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8041 NW 66th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203338331,
-    "wof:lastmodified":1449025575,
+    "wof:lastmodified":1466430642,
     "wof:name":"Memory Cargo Express",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.327052,25.83356,-80.327052,25.83356],
-  "geometry": {"coordinates":[-80.327052,25.83356],"type":"Point"}
+  "bbox": [
+    -80.327052,
+    25.83356,
+    -80.327052,
+    25.83356
+],
+  "geometry": {"coordinates":[-80.32705199999999,25.83356],"type":"Point"}
 }

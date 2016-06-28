@@ -2,13 +2,14 @@
   "id": 219261157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585976,30.434543,-86.585976,30.434543",
     "geom:latitude":30.434543,
     "geom:longitude":-86.585976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Snug Harbour Dr",
     "sg:city":"Shalimar",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219261157,
-    "wof:lastmodified":1449070429,
+    "wof:lastmodified":1466445776,
     "wof:name":"Dave's Bayside Airport Shuttle",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-86.585976,30.434543,-86.585976,30.434543],
+  "bbox": [
+    -86.585976,
+    30.434543,
+    -86.585976,
+    30.434543
+],
   "geometry": {"coordinates":[-86.585976,30.434543],"type":"Point"}
 }

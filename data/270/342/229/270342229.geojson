@@ -2,13 +2,14 @@
   "id": 270342229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49376,28.22527,-81.49376,28.22527",
     "geom:latitude":28.22527,
     "geom:longitude":-81.49376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 Jasmine Trace Dr",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270342229,
-    "wof:lastmodified":1449010933,
+    "wof:lastmodified":1466435323,
     "wof:name":"GMS Technologies",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cable"
     ]
 },
-  "bbox": [-81.49376,28.22527,-81.49376,28.22527],
-  "geometry": {"coordinates":[-81.49376,28.22527],"type":"Point"}
+  "bbox": [
+    -81.49376,
+    28.22527,
+    -81.49376,
+    28.22527
+],
+  "geometry": {"coordinates":[-81.49375999999999,28.22527],"type":"Point"}
 }

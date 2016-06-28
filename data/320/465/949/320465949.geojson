@@ -2,13 +2,14 @@
   "id": 320465949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.457889,30.55106,-81.457889,30.55106",
     "geom:latitude":30.55106,
     "geom:longitude":-81.457889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sandhill Crane Rd",
     "sg:city":"Fernandina Beach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320465949,
-    "wof:lastmodified":1449013782,
+    "wof:lastmodified":1466441417,
     "wof:name":"Your Hearts Desire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.457889,30.55106,-81.457889,30.55106],
-  "geometry": {"coordinates":[-81.457889,30.55106],"type":"Point"}
+  "bbox": [
+    -81.457889,
+    30.55106,
+    -81.457889,
+    30.55106
+],
+  "geometry": {"coordinates":[-81.45788899999999,30.55106],"type":"Point"}
 }

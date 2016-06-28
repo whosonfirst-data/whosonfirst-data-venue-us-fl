@@ -2,13 +2,14 @@
   "id": 370715763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530619,27.29876,-82.530619,27.29876",
     "geom:latitude":27.29876,
     "geom:longitude":-82.530619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Bay Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370715763,
-    "wof:lastmodified":1449031804,
+    "wof:lastmodified":1466445131,
     "wof:name":"N F T Travel",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-82.530619,27.29876,-82.530619,27.29876],
+  "bbox": [
+    -82.530619,
+    27.29876,
+    -82.530619,
+    27.29876
+],
   "geometry": {"coordinates":[-82.530619,27.29876],"type":"Point"}
 }

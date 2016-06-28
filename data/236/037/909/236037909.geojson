@@ -2,13 +2,14 @@
   "id": 236037909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.746986,30.330006,-82.746986,30.330006",
     "geom:latitude":30.330006,
     "geom:longitude":-82.746986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16750 Spring St",
     "sg:city":"White Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236037909,
-    "wof:lastmodified":1449005319,
+    "wof:lastmodified":1466428919,
     "wof:name":"Country Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.746986,30.330006,-82.746986,30.330006],
-  "geometry": {"coordinates":[-82.746986,30.330006],"type":"Point"}
+  "bbox": [
+    -82.746986,
+    30.330006,
+    -82.746986,
+    30.330006
+],
+  "geometry": {"coordinates":[-82.74698600000001,30.330006],"type":"Point"}
 }

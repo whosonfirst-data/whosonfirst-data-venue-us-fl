@@ -2,13 +2,14 @@
   "id": 252809383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.397039,27.267219,-80.397039,27.267219",
     "geom:latitude":27.267219,
     "geom:longitude":-80.397039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 SW McDonald St",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252809383,
-    "wof:lastmodified":1449006317,
+    "wof:lastmodified":1466429896,
     "wof:name":"First Family Limousine",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-80.397039,27.267219,-80.397039,27.267219],
-  "geometry": {"coordinates":[-80.397039,27.267219],"type":"Point"}
+  "bbox": [
+    -80.397039,
+    27.267219,
+    -80.397039,
+    27.267219
+],
+  "geometry": {"coordinates":[-80.39703900000001,27.267219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220199347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129354,26.119305,-80.129354,26.119305",
     "geom:latitude":26.119305,
     "geom:longitude":-80.129354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 E Las Olas Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220199347,
-    "wof:lastmodified":1449074112,
+    "wof:lastmodified":1466429570,
     "wof:name":"Colee Station",
     "wof:parent_id":85877491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "us"
     ]
 },
-  "bbox": [-80.129354,26.119305,-80.129354,26.119305],
-  "geometry": {"coordinates":[-80.129354,26.119305],"type":"Point"}
+  "bbox": [
+    -80.129354,
+    26.119305,
+    -80.129354,
+    26.119305
+],
+  "geometry": {"coordinates":[-80.12935400000001,26.119305],"type":"Point"}
 }

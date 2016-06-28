@@ -2,13 +2,14 @@
   "id": 202768823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.975574,29.123503,-80.975574,29.123503",
     "geom:latitude":29.123503,
     "geom:longitude":-80.975574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5380 Riverside Dr",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202768823,
-    "wof:lastmodified":1449061094,
+    "wof:lastmodified":1466431862,
     "wof:name":"GP & P Inc",
     "wof:parent_id":85823875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.975574,29.123503,-80.975574,29.123503],
-  "geometry": {"coordinates":[-80.975574,29.123503],"type":"Point"}
+  "bbox": [
+    -80.975574,
+    29.123503,
+    -80.975574,
+    29.123503
+],
+  "geometry": {"coordinates":[-80.97557399999999,29.123503],"type":"Point"}
 }

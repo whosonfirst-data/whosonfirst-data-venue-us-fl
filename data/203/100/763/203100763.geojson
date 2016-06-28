@@ -2,13 +2,14 @@
   "id": 203100763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242021,26.123871,-80.242021,26.123871",
     "geom:latitude":26.123871,
     "geom:longitude":-80.242021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7061 Cypress Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203100763,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466445297,
     "wof:name":"Kru Medical Ventures LLC",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.242021,26.123871,-80.242021,26.123871],
-  "geometry": {"coordinates":[-80.242021,26.123871],"type":"Point"}
+  "bbox": [
+    -80.242021,
+    26.123871,
+    -80.242021,
+    26.123871
+],
+  "geometry": {"coordinates":[-80.24202099999999,26.123871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220001783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.792999,26.153313,-81.792999,26.153313",
     "geom:latitude":26.153313,
     "geom:longitude":-81.792999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 5th Ave N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220001783,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466442951,
     "wof:name":"Fleming & Assoc Arch Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.792999,26.153313,-81.792999,26.153313],
-  "geometry": {"coordinates":[-81.792999,26.153313],"type":"Point"}
+  "bbox": [
+    -81.792999,
+    26.153313,
+    -81.792999,
+    26.153313
+],
+  "geometry": {"coordinates":[-81.79299899999999,26.153313],"type":"Point"}
 }

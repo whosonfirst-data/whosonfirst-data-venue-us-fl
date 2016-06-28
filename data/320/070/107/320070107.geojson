@@ -2,13 +2,14 @@
   "id": 320070107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.346308,30.508581,-84.346308,30.508581",
     "geom:latitude":30.508581,
     "geom:longitude":-84.346308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3968 Perkins Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320070107,
-    "wof:lastmodified":1449013083,
+    "wof:lastmodified":1466434588,
     "wof:name":"Southern Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "deck"
     ]
 },
-  "bbox": [-84.346308,30.508581,-84.346308,30.508581],
-  "geometry": {"coordinates":[-84.346308,30.508581],"type":"Point"}
+  "bbox": [
+    -84.346308,
+    30.508581,
+    -84.346308,
+    30.508581
+],
+  "geometry": {"coordinates":[-84.34630799999999,30.508581],"type":"Point"}
 }

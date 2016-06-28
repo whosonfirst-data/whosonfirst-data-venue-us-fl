@@ -2,13 +2,14 @@
   "id": 236827347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.015459,29.10684,-81.015459,29.10684",
     "geom:latitude":29.10684,
     "geom:longitude":-81.015459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5826 Nob Hill Blvd",
     "sg:city":"Port Orange",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236827347,
-    "wof:lastmodified":1449002703,
+    "wof:lastmodified":1466440221,
     "wof:name":"Chase Roofing",
     "wof:parent_id":85823875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.015459,29.10684,-81.015459,29.10684],
-  "geometry": {"coordinates":[-81.015459,29.10684],"type":"Point"}
+  "bbox": [
+    -81.015459,
+    29.10684,
+    -81.015459,
+    29.10684
+],
+  "geometry": {"coordinates":[-81.01545900000001,29.10684],"type":"Point"}
 }

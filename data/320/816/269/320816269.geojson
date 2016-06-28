@@ -2,13 +2,14 @@
   "id": 320816269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.419547,25.744174,-80.419547,25.744174",
     "geom:latitude":25.744174,
     "geom:longitude":-80.419547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2471 SW 138th Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320816269,
-    "wof:lastmodified":1449013433,
+    "wof:lastmodified":1466447001,
     "wof:name":"As Medical Center Inc",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.419547,25.744174,-80.419547,25.744174],
-  "geometry": {"coordinates":[-80.419547,25.744174],"type":"Point"}
+  "bbox": [
+    -80.419547,
+    25.744174,
+    -80.419547,
+    25.744174
+],
+  "geometry": {"coordinates":[-80.41954699999999,25.744174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253182151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.347004,28.745728,-81.347004,28.745728",
     "geom:latitude":28.745728,
     "geom:longitude":-81.347004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Greenwood Blvd",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253182151,
-    "wof:lastmodified":1449064692,
+    "wof:lastmodified":1466430442,
     "wof:name":"CSI Group",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-81.347004,28.745728,-81.347004,28.745728],
+  "bbox": [
+    -81.347004,
+    28.745728,
+    -81.347004,
+    28.745728
+],
   "geometry": {"coordinates":[-81.347004,28.745728],"type":"Point"}
 }

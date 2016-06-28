@@ -2,13 +2,14 @@
   "id": 253606623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141903,26.106288,-80.141903,26.106288",
     "geom:latitude":26.106288,
     "geom:longitude":-80.141903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 SE 1st Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253606623,
-    "wof:lastmodified":1449063273,
+    "wof:lastmodified":1466437529,
     "wof:name":"Eisenberg & Associates",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.141903,26.106288,-80.141903,26.106288],
+  "bbox": [
+    -80.141903,
+    26.106288,
+    -80.141903,
+    26.106288
+],
   "geometry": {"coordinates":[-80.141903,26.106288],"type":"Point"}
 }

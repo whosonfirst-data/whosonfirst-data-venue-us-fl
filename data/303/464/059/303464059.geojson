@@ -2,13 +2,14 @@
   "id": 303464059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.200787,25.840341,-80.200787,25.840341",
     "geom:latitude":25.840341,
     "geom:longitude":-80.200787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7130 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303464059,
-    "wof:lastmodified":1448998769,
+    "wof:lastmodified":1466438550,
     "wof:name":"Doctor Waste",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "waste"
     ]
 },
-  "bbox": [-80.200787,25.840341,-80.200787,25.840341],
-  "geometry": {"coordinates":[-80.200787,25.840341],"type":"Point"}
+  "bbox": [
+    -80.200787,
+    25.840341,
+    -80.200787,
+    25.840341
+],
+  "geometry": {"coordinates":[-80.20078700000001,25.840341],"type":"Point"}
 }

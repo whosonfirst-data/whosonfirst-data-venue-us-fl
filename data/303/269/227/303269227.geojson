@@ -2,13 +2,14 @@
   "id": 303269227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.38897,29.678545,-82.38897,29.678545",
     "geom:latitude":29.678545,
     "geom:longitude":-82.38897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 NW 43 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303269227,
-    "wof:lastmodified":1448999654,
+    "wof:lastmodified":1466435191,
     "wof:name":"Jenkins & Tubb Attorneys",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.38897,29.678545,-82.38897,29.678545],
+  "bbox": [
+    -82.38897,
+    29.678545,
+    -82.38897,
+    29.678545
+],
   "geometry": {"coordinates":[-82.38897,29.678545],"type":"Point"}
 }

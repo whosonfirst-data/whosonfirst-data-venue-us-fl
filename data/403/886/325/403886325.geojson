@@ -2,13 +2,14 @@
   "id": 403886325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27282,25.81094,-80.27282,25.81094",
     "geom:latitude":25.81094,
     "geom:longitude":-80.27282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 East Dr",
     "sg:city":"Miami Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403886325,
-    "wof:lastmodified":1449055371,
+    "wof:lastmodified":1466442515,
     "wof:name":"Stafford Park",
     "wof:parent_id":85878161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-80.27282,25.81094,-80.27282,25.81094],
+  "bbox": [
+    -80.27282,
+    25.81094,
+    -80.27282,
+    25.81094
+],
   "geometry": {"coordinates":[-80.27282,25.81094],"type":"Point"}
 }

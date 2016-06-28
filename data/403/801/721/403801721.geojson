@@ -2,13 +2,14 @@
   "id": 403801721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.405679,28.290164,-81.405679,28.290164",
     "geom:latitude":28.290164,
     "geom:longitude":-81.405679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Ruby Ave",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403801721,
-    "wof:lastmodified":1449055742,
+    "wof:lastmodified":1466441147,
     "wof:name":"Land Title Of Central Florida",
     "wof:parent_id":85878525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-81.405679,28.290164,-81.405679,28.290164],
-  "geometry": {"coordinates":[-81.405679,28.290164],"type":"Point"}
+  "bbox": [
+    -81.405679,
+    28.290164,
+    -81.405679,
+    28.290164
+],
+  "geometry": {"coordinates":[-81.40567900000001,28.290164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220110727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.401836,25.983416,-80.401836,25.983416",
     "geom:latitude":25.983416,
     "geom:longitude":-80.401836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19169 SW 29th Ct",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220110727,
-    "wof:lastmodified":1449074281,
+    "wof:lastmodified":1466446204,
     "wof:name":"Fat Mikes Deliveries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.401836,25.983416,-80.401836,25.983416],
+  "bbox": [
+    -80.401836,
+    25.983416,
+    -80.401836,
+    25.983416
+],
   "geometry": {"coordinates":[-80.401836,25.983416],"type":"Point"}
 }

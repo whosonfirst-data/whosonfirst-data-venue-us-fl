@@ -2,13 +2,14 @@
   "id": 303051903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.649184,27.952366,-80.649184,27.952366",
     "geom:latitude":27.952366,
     "geom:longitude":-80.649184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1972 SE Windbrook Dr",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303051903,
-    "wof:lastmodified":1448999629,
+    "wof:lastmodified":1466431348,
     "wof:name":"Dennis Lee Huff",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-80.649184,27.952366,-80.649184,27.952366],
-  "geometry": {"coordinates":[-80.649184,27.952366],"type":"Point"}
+  "bbox": [
+    -80.649184,
+    27.952366,
+    -80.649184,
+    27.952366
+],
+  "geometry": {"coordinates":[-80.64918400000001,27.952366],"type":"Point"}
 }

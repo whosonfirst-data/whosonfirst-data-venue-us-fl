@@ -2,13 +2,14 @@
   "id": 303724533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.271915,28.876218,-81.271915,28.876218",
     "geom:latitude":28.876218,
     "geom:longitude":-81.271915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Enterprise Rd",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303724533,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466443038,
     "wof:name":"Deltona Water Dept",
     "wof:parent_id":85805767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-81.271915,28.876218,-81.271915,28.876218],
-  "geometry": {"coordinates":[-81.271915,28.876218],"type":"Point"}
+  "bbox": [
+    -81.271915,
+    28.876218,
+    -81.271915,
+    28.876218
+],
+  "geometry": {"coordinates":[-81.27191500000001,28.876218],"type":"Point"}
 }

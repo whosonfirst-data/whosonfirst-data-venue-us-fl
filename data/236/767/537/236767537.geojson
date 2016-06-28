@@ -2,13 +2,14 @@
   "id": 236767537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.603192,28.106689,-81.603192,28.106689",
     "geom:latitude":28.106689,
     "geom:longitude":-81.603192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3491 E Hinson Ave",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236767537,
-    "wof:lastmodified":1449002410,
+    "wof:lastmodified":1466439393,
     "wof:name":"Haines City Fire Extinguisher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hydrant"
     ]
 },
-  "bbox": [-81.603192,28.106689,-81.603192,28.106689],
-  "geometry": {"coordinates":[-81.603192,28.106689],"type":"Point"}
+  "bbox": [
+    -81.603192,
+    28.106689,
+    -81.603192,
+    28.106689
+],
+  "geometry": {"coordinates":[-81.60319200000001,28.106689],"type":"Point"}
 }

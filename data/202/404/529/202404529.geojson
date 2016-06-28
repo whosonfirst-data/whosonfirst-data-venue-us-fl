@@ -2,13 +2,14 @@
   "id": 202404529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.286262,26.798439,-80.286262,26.798439",
     "geom:latitude":26.798439,
     "geom:longitude":-80.286262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15542 82nd St N",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202404529,
-    "wof:lastmodified":1449061771,
+    "wof:lastmodified":1466443150,
     "wof:name":"Alberto Cartagena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.286262,26.798439,-80.286262,26.798439],
-  "geometry": {"coordinates":[-80.286262,26.798439],"type":"Point"}
+  "bbox": [
+    -80.286262,
+    26.798439,
+    -80.286262,
+    26.798439
+],
+  "geometry": {"coordinates":[-80.28626199999999,26.798439],"type":"Point"}
 }

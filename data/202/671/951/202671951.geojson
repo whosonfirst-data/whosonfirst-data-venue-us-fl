@@ -2,13 +2,14 @@
   "id": 202671951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.825728,30.302055,-81.825728,30.302055",
     "geom:latitude":30.302055,
     "geom:longitude":-81.825728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10151 Crystal Springs Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202671951,
-    "wof:lastmodified":1449060687,
+    "wof:lastmodified":1466430621,
     "wof:name":"Jacksonville Crystal Springs",
     "wof:parent_id":85870751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.825728,30.302055,-81.825728,30.302055],
+  "bbox": [
+    -81.825728,
+    30.302055,
+    -81.825728,
+    30.302055
+],
   "geometry": {"coordinates":[-81.825728,30.302055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370808347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.416135,25.742668,-80.416135,25.742668",
     "geom:latitude":25.742668,
     "geom:longitude":-80.416135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 SW 137th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370808347,
-    "wof:lastmodified":1449029232,
+    "wof:lastmodified":1466446622,
     "wof:name":"Market Appraisers",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.416135,25.742668,-80.416135,25.742668],
+  "bbox": [
+    -80.416135,
+    25.742668,
+    -80.416135,
+    25.742668
+],
   "geometry": {"coordinates":[-80.416135,25.742668],"type":"Point"}
 }

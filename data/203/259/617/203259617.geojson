@@ -2,13 +2,14 @@
   "id": 203259617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.695648,30.309259,-81.695648,30.309259",
     "geom:latitude":30.309259,
     "geom:longitude":-81.695648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203259617,
-    "wof:lastmodified":1449025369,
+    "wof:lastmodified":1466429673,
     "wof:name":"Southern Crossing Antique Mall",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.695648,30.309259,-81.695648,30.309259],
-  "geometry": {"coordinates":[-81.695648,30.309259],"type":"Point"}
+  "bbox": [
+    -81.695648,
+    30.309259,
+    -81.695648,
+    30.309259
+],
+  "geometry": {"coordinates":[-81.69564800000001,30.309259],"type":"Point"}
 }

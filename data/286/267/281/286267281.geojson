@@ -2,13 +2,14 @@
   "id": 286267281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.933927,26.445313,-81.933927,26.445313",
     "geom:latitude":26.445313,
     "geom:longitude":-81.933927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Voorhis St",
     "sg:city":"Fort Myers Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286267281,
-    "wof:lastmodified":1449017829,
+    "wof:lastmodified":1466429748,
     "wof:name":"Fort Myers Beach Fire Control",
     "wof:parent_id":85888841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.933927,26.445313,-81.933927,26.445313],
+  "bbox": [
+    -81.933927,
+    26.445313,
+    -81.933927,
+    26.445313
+],
   "geometry": {"coordinates":[-81.933927,26.445313],"type":"Point"}
 }

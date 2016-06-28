@@ -2,13 +2,14 @@
   "id": 286664645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.851914,26.618212,-81.851914,26.618212",
     "geom:latitude":26.618212,
     "geom:longitude":-81.851914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Metro Pkwy",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286664645,
-    "wof:lastmodified":1449016266,
+    "wof:lastmodified":1466436706,
     "wof:name":"Garden Street",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processor"
     ]
 },
-  "bbox": [-81.851914,26.618212,-81.851914,26.618212],
-  "geometry": {"coordinates":[-81.851914,26.618212],"type":"Point"}
+  "bbox": [
+    -81.851914,
+    26.618212,
+    -81.851914,
+    26.618212
+],
+  "geometry": {"coordinates":[-81.85191399999999,26.618212],"type":"Point"}
 }

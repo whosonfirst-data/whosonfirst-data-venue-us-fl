@@ -2,13 +2,14 @@
   "id": 253355675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.33898,29.682879,-82.33898,29.682879",
     "geom:latitude":29.682879,
     "geom:longitude":-82.33898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 NW 13th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253355675,
-    "wof:lastmodified":1449063640,
+    "wof:lastmodified":1466433107,
     "wof:name":"Comtech Electronics",
     "wof:parent_id":85877651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.33898,29.682879,-82.33898,29.682879],
-  "geometry": {"coordinates":[-82.33898,29.682879],"type":"Point"}
+  "bbox": [
+    -82.33898,
+    29.682879,
+    -82.33898,
+    29.682879
+],
+  "geometry": {"coordinates":[-82.33898000000001,29.682879],"type":"Point"}
 }

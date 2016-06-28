@@ -2,13 +2,14 @@
   "id": 403888903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430321,28.010581,-82.430321,28.010581",
     "geom:latitude":28.010581,
     "geom:longitude":-82.430321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 E Sligh Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403888903,
-    "wof:lastmodified":1449055471,
+    "wof:lastmodified":1466442553,
     "wof:name":"Century Oak Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.430321,28.010581,-82.430321,28.010581],
-  "geometry": {"coordinates":[-82.430321,28.010581],"type":"Point"}
+  "bbox": [
+    -82.430321,
+    28.010581,
+    -82.430321,
+    28.010581
+],
+  "geometry": {"coordinates":[-82.43032100000001,28.010581],"type":"Point"}
 }

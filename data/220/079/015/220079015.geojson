@@ -2,13 +2,14 @@
   "id": 220079015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.865344,28.657802,-81.865344,28.657802",
     "geom:latitude":28.657802,
     "geom:longitude":-81.865344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 St Andrews Ark",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220079015,
-    "wof:lastmodified":1449074726,
+    "wof:lastmodified":1466446410,
     "wof:name":"Monarch Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "golf"
     ]
 },
-  "bbox": [-81.865344,28.657802,-81.865344,28.657802],
-  "geometry": {"coordinates":[-81.865344,28.657802],"type":"Point"}
+  "bbox": [
+    -81.865344,
+    28.657802,
+    -81.865344,
+    28.657802
+],
+  "geometry": {"coordinates":[-81.86534399999999,28.657802],"type":"Point"}
 }

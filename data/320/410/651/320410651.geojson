@@ -2,13 +2,14 @@
   "id": 320410651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165709,26.373145,-80.165709,26.373145",
     "geom:latitude":26.373145,
     "geom:longitude":-80.165709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Bridgewood Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320410651,
-    "wof:lastmodified":1449011310,
+    "wof:lastmodified":1466440425,
     "wof:name":"Homes Etc Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.165709,26.373145,-80.165709,26.373145],
-  "geometry": {"coordinates":[-80.165709,26.373145],"type":"Point"}
+  "bbox": [
+    -80.165709,
+    26.373145,
+    -80.165709,
+    26.373145
+],
+  "geometry": {"coordinates":[-80.16570900000001,26.373145],"type":"Point"}
 }

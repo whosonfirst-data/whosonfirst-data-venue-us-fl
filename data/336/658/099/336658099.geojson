@@ -2,13 +2,14 @@
   "id": 336658099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.933591,26.61654,-81.933591,26.61654",
     "geom:latitude":26.61654,
     "geom:longitude":-81.933591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 SE 19th Ln",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336658099,
-    "wof:lastmodified":1448996899,
+    "wof:lastmodified":1466435986,
     "wof:name":"Ponce Used Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.933591,26.61654,-81.933591,26.61654],
-  "geometry": {"coordinates":[-81.933591,26.61654],"type":"Point"}
+  "bbox": [
+    -81.933591,
+    26.61654,
+    -81.933591,
+    26.61654
+],
+  "geometry": {"coordinates":[-81.93359100000001,26.61654],"type":"Point"}
 }

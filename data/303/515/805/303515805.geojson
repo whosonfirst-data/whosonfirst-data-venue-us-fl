@@ -2,13 +2,14 @@
   "id": 303515805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.749527,27.742455,-82.749527,27.742455",
     "geom:latitude":27.742455,
     "geom:longitude":-82.749527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Corey Ave",
     "sg:city":"St Pete Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303515805,
-    "wof:lastmodified":1448998677,
+    "wof:lastmodified":1466439435,
     "wof:name":"Simply Perfect",
     "wof:parent_id":85889533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.749527,27.742455,-82.749527,27.742455],
+  "bbox": [
+    -82.749527,
+    27.742455,
+    -82.749527,
+    27.742455
+],
   "geometry": {"coordinates":[-82.749527,27.742455],"type":"Point"}
 }

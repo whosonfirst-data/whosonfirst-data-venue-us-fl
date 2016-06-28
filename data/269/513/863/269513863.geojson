@@ -2,13 +2,14 @@
   "id": 269513863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.348542,28.325583,-81.348542,28.325583",
     "geom:latitude":28.325583,
     "geom:longitude":-81.348542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Buenaventura Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269513863,
-    "wof:lastmodified":1449037708,
+    "wof:lastmodified":1466429017,
     "wof:name":"Miguel Antuna",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.348542,28.325583,-81.348542,28.325583],
-  "geometry": {"coordinates":[-81.348542,28.325583],"type":"Point"}
+  "bbox": [
+    -81.348542,
+    28.325583,
+    -81.348542,
+    28.325583
+],
+  "geometry": {"coordinates":[-81.34854199999999,28.325583],"type":"Point"}
 }

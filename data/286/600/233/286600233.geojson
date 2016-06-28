@@ -2,13 +2,14 @@
   "id": 286600233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.61922,30.302929,-81.61922,30.302929",
     "geom:latitude":30.302929,
     "geom:longitude":-81.61922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4049 Woodcock Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":286600233,
-    "wof:lastmodified":1449015458,
+    "wof:lastmodified":1466435545,
     "wof:name":"Volunteer Jacksonville Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-81.61922,30.302929,-81.61922,30.302929],
+  "bbox": [
+    -81.61922,
+    30.302929,
+    -81.61922,
+    30.302929
+],
   "geometry": {"coordinates":[-81.61922,30.302929],"type":"Point"}
 }

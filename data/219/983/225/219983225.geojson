@@ -2,13 +2,14 @@
   "id": 219983225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18989,26.402137,-80.18989,26.402137",
     "geom:latitude":26.402137,
     "geom:longitude":-80.18989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9230 Saddlecreek Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219983225,
-    "wof:lastmodified":1449073624,
+    "wof:lastmodified":1466437987,
     "wof:name":"Parker Lawn & Landscape",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-80.18989,26.402137,-80.18989,26.402137],
-  "geometry": {"coordinates":[-80.18989,26.402137],"type":"Point"}
+  "bbox": [
+    -80.18989,
+    26.402137,
+    -80.18989,
+    26.402137
+],
+  "geometry": {"coordinates":[-80.18989000000001,26.402137],"type":"Point"}
 }

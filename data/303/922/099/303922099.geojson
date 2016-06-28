@@ -2,13 +2,14 @@
   "id": 303922099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.337251,26.961934,-82.337251,26.961934",
     "geom:latitude":26.961934,
     "geom:longitude":-82.337251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 S River Rd",
     "sg:city":"Englewood",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303922099,
-    "wof:lastmodified":1448998342,
+    "wof:lastmodified":1466446550,
     "wof:name":"MTI Equipment Inc",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "used"
     ]
 },
-  "bbox": [-82.337251,26.961934,-82.337251,26.961934],
-  "geometry": {"coordinates":[-82.337251,26.961934],"type":"Point"}
+  "bbox": [
+    -82.337251,
+    26.961934,
+    -82.337251,
+    26.961934
+],
+  "geometry": {"coordinates":[-82.33725099999999,26.961934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169785029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.119671,26.177174,-80.119671,26.177174",
     "geom:latitude":26.177174,
     "geom:longitude":-80.119671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 N Federal Hwy",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169785029,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466428853,
     "wof:name":"Academy Animal Hospital",
     "wof:parent_id":85812269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.119671,26.177174,-80.119671,26.177174],
+  "bbox": [
+    -80.119671,
+    26.177174,
+    -80.119671,
+    26.177174
+],
   "geometry": {"coordinates":[-80.119671,26.177174],"type":"Point"}
 }

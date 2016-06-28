@@ -2,13 +2,14 @@
   "id": 286813243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210664,25.747214,-80.210664,25.747214",
     "geom:latitude":25.747214,
     "geom:longitude":-80.210664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 S Miami Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286813243,
-    "wof:lastmodified":1449015928,
+    "wof:lastmodified":1466439341,
     "wof:name":"Youth Encounter",
     "wof:parent_id":85896187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.210664,25.747214,-80.210664,25.747214],
-  "geometry": {"coordinates":[-80.210664,25.747214],"type":"Point"}
+  "bbox": [
+    -80.210664,
+    25.747214,
+    -80.210664,
+    25.747214
+],
+  "geometry": {"coordinates":[-80.21066399999999,25.747214],"type":"Point"}
 }

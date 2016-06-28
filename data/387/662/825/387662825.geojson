@@ -2,13 +2,14 @@
   "id": 387662825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351245,27.338783,-80.351245,27.338783",
     "geom:latitude":27.338783,
     "geom:longitude":-80.351245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6951 NW Hershy Cir",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387662825,
-    "wof:lastmodified":1449058677,
+    "wof:lastmodified":1466447923,
     "wof:name":"ABC Bussing Inc",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.351245,27.338783,-80.351245,27.338783],
-  "geometry": {"coordinates":[-80.351245,27.338783],"type":"Point"}
+  "bbox": [
+    -80.351245,
+    27.338783,
+    -80.351245,
+    27.338783
+],
+  "geometry": {"coordinates":[-80.35124500000001,27.338783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336957855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097015,26.257949,-80.097015,26.257949",
     "geom:latitude":26.257949,
     "geom:longitude":-80.097015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 NE 22nd Ct",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336957855,
-    "wof:lastmodified":1448997874,
+    "wof:lastmodified":1466441143,
     "wof:name":"America's Medical Benefits",
     "wof:parent_id":85811837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.097015,26.257949,-80.097015,26.257949],
+  "bbox": [
+    -80.097015,
+    26.257949,
+    -80.097015,
+    26.257949
+],
   "geometry": {"coordinates":[-80.097015,26.257949],"type":"Point"}
 }

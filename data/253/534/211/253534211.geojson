@@ -2,13 +2,14 @@
   "id": 253534211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.675418,30.38018,-81.675418,30.38018",
     "geom:latitude":30.38018,
     "geom:longitude":-81.675418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Carvill Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253534211,
-    "wof:lastmodified":1449063582,
+    "wof:lastmodified":1466436215,
     "wof:name":"Jacksonville Carvill Ctr",
     "wof:parent_id":85838513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-81.675418,30.38018,-81.675418,30.38018],
-  "geometry": {"coordinates":[-81.675418,30.38018],"type":"Point"}
+  "bbox": [
+    -81.675418,
+    30.38018,
+    -81.675418,
+    30.38018
+],
+  "geometry": {"coordinates":[-81.67541799999999,30.38018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236103131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.1847,28.344206,-82.1847,28.344206",
     "geom:latitude":28.344206,
     "geom:longitude":-82.1847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12771 Candlewood Cir",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236103131,
-    "wof:lastmodified":1449003761,
+    "wof:lastmodified":1466429830,
     "wof:name":"Candlewood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.1847,28.344206,-82.1847,28.344206],
-  "geometry": {"coordinates":[-82.1847,28.344206],"type":"Point"}
+  "bbox": [
+    -82.1847,
+    28.344206,
+    -82.1847,
+    28.344206
+],
+  "geometry": {"coordinates":[-82.18470000000001,28.344206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202846645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323793,25.646862,-80.323793,25.646862",
     "geom:latitude":25.646862,
     "geom:longitude":-80.323793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13301 SW 80th Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202846645,
-    "wof:lastmodified":1449062090,
+    "wof:lastmodified":1466432885,
     "wof:name":"Tumblebees Gymnastics",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.323793,25.646862,-80.323793,25.646862],
-  "geometry": {"coordinates":[-80.323793,25.646862],"type":"Point"}
+  "bbox": [
+    -80.323793,
+    25.646862,
+    -80.323793,
+    25.646862
+],
+  "geometry": {"coordinates":[-80.32379299999999,25.646862],"type":"Point"}
 }

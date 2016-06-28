@@ -2,13 +2,14 @@
   "id": 320380589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.485195,28.225606,-82.485195,28.225606",
     "geom:latitude":28.225606,
     "geom:longitude":-82.485195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 Mitchell Rd",
     "sg:city":"Land O Lakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320380589,
-    "wof:lastmodified":1449012987,
+    "wof:lastmodified":1466439906,
     "wof:name":"Precision Elevator Svc",
     "wof:parent_id":85889105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-82.485195,28.225606,-82.485195,28.225606],
+  "bbox": [
+    -82.485195,
+    28.225606,
+    -82.485195,
+    28.225606
+],
   "geometry": {"coordinates":[-82.485195,28.225606],"type":"Point"}
 }

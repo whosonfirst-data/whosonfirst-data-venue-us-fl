@@ -2,13 +2,14 @@
   "id": 270421147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.581403,28.533785,-81.581403,28.533785",
     "geom:latitude":28.533785,
     "geom:longitude":-81.581403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Home Grove Dr",
     "sg:city":"Winter Garden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270421147,
-    "wof:lastmodified":1449010219,
+    "wof:lastmodified":1466436660,
     "wof:name":"M/I Homes",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.581403,28.533785,-81.581403,28.533785],
-  "geometry": {"coordinates":[-81.581403,28.533785],"type":"Point"}
+  "bbox": [
+    -81.581403,
+    28.533785,
+    -81.581403,
+    28.533785
+],
+  "geometry": {"coordinates":[-81.58140299999999,28.533785],"type":"Point"}
 }

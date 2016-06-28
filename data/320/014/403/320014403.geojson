@@ -2,13 +2,14 @@
   "id": 320014403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.176601,26.106546,-80.176601,26.106546",
     "geom:latitude":26.106546,
     "geom:longitude":-80.176601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Davie Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320014403,
-    "wof:lastmodified":1449013098,
+    "wof:lastmodified":1466433651,
     "wof:name":"Dollar Express",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.176601,26.106546,-80.176601,26.106546],
-  "geometry": {"coordinates":[-80.176601,26.106546],"type":"Point"}
+  "bbox": [
+    -80.176601,
+    26.106546,
+    -80.176601,
+    26.106546
+],
+  "geometry": {"coordinates":[-80.17660100000001,26.106546],"type":"Point"}
 }

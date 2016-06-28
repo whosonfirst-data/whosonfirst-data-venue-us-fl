@@ -2,13 +2,14 @@
   "id": 185629921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359494,25.818168,-80.359494,25.818168",
     "geom:latitude":25.818168,
     "geom:longitude":-80.359494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 NW 102nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185629921,
-    "wof:lastmodified":1449007854,
+    "wof:lastmodified":1466444007,
     "wof:name":"Bms Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.359494,25.818168,-80.359494,25.818168],
+  "bbox": [
+    -80.359494,
+    25.818168,
+    -80.359494,
+    25.818168
+],
   "geometry": {"coordinates":[-80.359494,25.818168],"type":"Point"}
 }

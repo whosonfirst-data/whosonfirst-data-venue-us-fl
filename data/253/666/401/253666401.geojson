@@ -2,13 +2,14 @@
   "id": 253666401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.263785,25.775518,-80.263785,25.775518",
     "geom:latitude":25.775518,
     "geom:longitude":-80.263785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 NW 42nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253666401,
-    "wof:lastmodified":1449063911,
+    "wof:lastmodified":1466438588,
     "wof:name":"Medical Diagnostic Svc",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.263785,25.775518,-80.263785,25.775518],
+  "bbox": [
+    -80.263785,
+    25.775518,
+    -80.263785,
+    25.775518
+],
   "geometry": {"coordinates":[-80.263785,25.775518],"type":"Point"}
 }

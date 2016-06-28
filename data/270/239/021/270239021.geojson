@@ -2,13 +2,14 @@
   "id": 270239021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544689,27.336151,-82.544689,27.336151",
     "geom:latitude":27.336151,
     "geom:longitude":-82.544689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 N Palm Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270239021,
-    "wof:lastmodified":1449008882,
+    "wof:lastmodified":1466433556,
     "wof:name":"Admiral Travel",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-82.544689,27.336151,-82.544689,27.336151],
-  "geometry": {"coordinates":[-82.544689,27.336151],"type":"Point"}
+  "bbox": [
+    -82.544689,
+    27.336151,
+    -82.544689,
+    27.336151
+],
+  "geometry": {"coordinates":[-82.54468900000001,27.336151],"type":"Point"}
 }

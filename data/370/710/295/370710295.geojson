@@ -2,13 +2,14 @@
   "id": 370710295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.200395,28.676648,-81.200395,28.676648",
     "geom:latitude":28.676648,
     "geom:longitude":-81.200395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Geneva Dr",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370710295,
-    "wof:lastmodified":1449029290,
+    "wof:lastmodified":1466445049,
     "wof:name":"University Church of Nazarene",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.200395,28.676648,-81.200395,28.676648],
+  "bbox": [
+    -81.200395,
+    28.676648,
+    -81.200395,
+    28.676648
+],
   "geometry": {"coordinates":[-81.200395,28.676648],"type":"Point"}
 }

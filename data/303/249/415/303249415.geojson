@@ -2,13 +2,14 @@
   "id": 303249415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.092891,26.351242,-80.092891,26.351242",
     "geom:latitude":26.351242,
     "geom:longitude":-80.092891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 NW 3rd Ct",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303249415,
-    "wof:lastmodified":1448998246,
+    "wof:lastmodified":1466434839,
     "wof:name":"Rick Haggard's Classic Trax",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-80.092891,26.351242,-80.092891,26.351242],
-  "geometry": {"coordinates":[-80.092891,26.351242],"type":"Point"}
+  "bbox": [
+    -80.092891,
+    26.351242,
+    -80.092891,
+    26.351242
+],
+  "geometry": {"coordinates":[-80.09289099999999,26.351242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370633771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116806,26.778363,-80.116806,26.778363",
     "geom:latitude":26.778363,
     "geom:longitude":-80.116806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4881 Dyer Blvd",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370633771,
-    "wof:lastmodified":1449032439,
+    "wof:lastmodified":1466443893,
     "wof:name":"Verizon Communications",
     "wof:parent_id":85889897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-80.116806,26.778363,-80.116806,26.778363],
+  "bbox": [
+    -80.116806,
+    26.778363,
+    -80.116806,
+    26.778363
+],
   "geometry": {"coordinates":[-80.116806,26.778363],"type":"Point"}
 }

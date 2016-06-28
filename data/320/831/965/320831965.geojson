@@ -2,13 +2,14 @@
   "id": 320831965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040487,26.790348,-80.040487,26.790348",
     "geom:latitude":26.790348,
     "geom:longitude":-80.040487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Singer Dr",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320831965,
-    "wof:lastmodified":1449013452,
+    "wof:lastmodified":1466447209,
     "wof:name":"Clarus Consulting",
     "wof:parent_id":85840233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-80.040487,26.790348,-80.040487,26.790348],
+  "bbox": [
+    -80.040487,
+    26.790348,
+    -80.040487,
+    26.790348
+],
   "geometry": {"coordinates":[-80.040487,26.790348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219417065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.954343,26.657243,-81.954343,26.657243",
     "geom:latitude":26.657243,
     "geom:longitude":-81.954343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NE 10th Ave",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219417065,
-    "wof:lastmodified":1449071837,
+    "wof:lastmodified":1466430419,
     "wof:name":"Ramon Renteria Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-81.954343,26.657243,-81.954343,26.657243],
-  "geometry": {"coordinates":[-81.954343,26.657243],"type":"Point"}
+  "bbox": [
+    -81.954343,
+    26.657243,
+    -81.954343,
+    26.657243
+],
+  "geometry": {"coordinates":[-81.95434299999999,26.657243],"type":"Point"}
 }

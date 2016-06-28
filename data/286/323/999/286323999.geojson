@@ -2,13 +2,14 @@
   "id": 286323999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.807949,30.19487,-81.807949,30.19487",
     "geom:latitude":30.19487,
     "geom:longitude":-81.807949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9083 Sable Ridge Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286323999,
-    "wof:lastmodified":1449015439,
+    "wof:lastmodified":1466430740,
     "wof:name":"Credit Services-Jacksonville",
     "wof:parent_id":85870747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-81.807949,30.19487,-81.807949,30.19487],
-  "geometry": {"coordinates":[-81.807949,30.19487],"type":"Point"}
+  "bbox": [
+    -81.807949,
+    30.19487,
+    -81.807949,
+    30.19487
+],
+  "geometry": {"coordinates":[-81.80794899999999,30.19487],"type":"Point"}
 }

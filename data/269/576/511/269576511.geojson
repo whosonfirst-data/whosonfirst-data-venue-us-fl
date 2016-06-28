@@ -2,13 +2,14 @@
   "id": 269576511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352482,25.809486,-80.352482,25.809486",
     "geom:latitude":25.809486,
     "geom:longitude":-80.352482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 NW 40th Street Rd",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":269576511,
-    "wof:lastmodified":1449038273,
+    "wof:lastmodified":1466430132,
     "wof:name":"Stor-All Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "storage"
     ]
 },
-  "bbox": [-80.352482,25.809486,-80.352482,25.809486],
-  "geometry": {"coordinates":[-80.352482,25.809486],"type":"Point"}
+  "bbox": [
+    -80.352482,
+    25.809486,
+    -80.352482,
+    25.809486
+],
+  "geometry": {"coordinates":[-80.35248199999999,25.809486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336745095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341047,25.785986,-80.341047,25.785986",
     "geom:latitude":25.785986,
     "geom:longitude":-80.341047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 NW 89th Ct",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":336745095,
-    "wof:lastmodified":1448997955,
+    "wof:lastmodified":1466437483,
     "wof:name":"Sunset Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-80.341047,25.785986,-80.341047,25.785986],
+  "bbox": [
+    -80.341047,
+    25.785986,
+    -80.341047,
+    25.785986
+],
   "geometry": {"coordinates":[-80.341047,25.785986],"type":"Point"}
 }

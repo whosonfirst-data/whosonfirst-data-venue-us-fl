@@ -2,13 +2,14 @@
   "id": 220024293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.32298,29.865386,-81.32298,29.865386",
     "geom:latitude":29.865386,
     "geom:longitude":-81.32298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1960 US Hwy 1 S",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220024293,
-    "wof:lastmodified":1449074407,
+    "wof:lastmodified":1466444185,
     "wof:name":"Town Cntry Instructional Trim",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.32298,29.865386,-81.32298,29.865386],
+  "bbox": [
+    -81.32298,
+    29.865386,
+    -81.32298,
+    29.865386
+],
   "geometry": {"coordinates":[-81.32298,29.865386],"type":"Point"}
 }

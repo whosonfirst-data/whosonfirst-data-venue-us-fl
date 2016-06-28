@@ -2,13 +2,14 @@
   "id": 303709071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800018,26.1369,-81.800018,26.1369",
     "geom:latitude":26.1369,
     "geom:longitude":-81.800018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 9th Ave S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303709071,
-    "wof:lastmodified":1448998604,
+    "wof:lastmodified":1466442780,
     "wof:name":"Robin's Sunshine Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.800018,26.1369,-81.800018,26.1369],
-  "geometry": {"coordinates":[-81.800018,26.1369],"type":"Point"}
+  "bbox": [
+    -81.800018,
+    26.1369,
+    -81.800018,
+    26.1369
+],
+  "geometry": {"coordinates":[-81.80001799999999,26.1369],"type":"Point"}
 }

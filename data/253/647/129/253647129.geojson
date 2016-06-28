@@ -2,13 +2,14 @@
   "id": 253647129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.480972,30.270001,-81.480972,30.270001",
     "geom:latitude":30.270001,
     "geom:longitude":-81.480972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12769 Ellis Island Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253647129,
-    "wof:lastmodified":1449064226,
+    "wof:lastmodified":1466438253,
     "wof:name":"Phillip Johnson Appraiser",
     "wof:parent_id":85847107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.480972,30.270001,-81.480972,30.270001],
-  "geometry": {"coordinates":[-81.480972,30.270001],"type":"Point"}
+  "bbox": [
+    -81.480972,
+    30.270001,
+    -81.480972,
+    30.270001
+],
+  "geometry": {"coordinates":[-81.48097199999999,30.270001],"type":"Point"}
 }

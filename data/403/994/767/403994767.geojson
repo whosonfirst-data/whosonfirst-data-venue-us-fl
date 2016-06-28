@@ -2,13 +2,14 @@
   "id": 403994767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.423963,25.678114,-80.423963,25.678114",
     "geom:latitude":25.678114,
     "geom:longitude":-80.423963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14321 SW 96th Ln",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403994767,
-    "wof:lastmodified":1449054688,
+    "wof:lastmodified":1466444222,
     "wof:name":"America Soccer Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-80.423963,25.678114,-80.423963,25.678114],
+  "bbox": [
+    -80.423963,
+    25.678114,
+    -80.423963,
+    25.678114
+],
   "geometry": {"coordinates":[-80.423963,25.678114],"type":"Point"}
 }

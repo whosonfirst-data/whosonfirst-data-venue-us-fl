@@ -2,13 +2,14 @@
   "id": 203022653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.927568,28.878788,-81.927568,28.878788",
     "geom:latitude":28.878788,
     "geom:longitude":-81.927568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36301 Piney Ridge Blvd",
     "sg:city":"Fruitland Park",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203022653,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466441377,
     "wof:name":"Windmill Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.927568,28.878788,-81.927568,28.878788],
-  "geometry": {"coordinates":[-81.927568,28.878788],"type":"Point"}
+  "bbox": [
+    -81.927568,
+    28.878788,
+    -81.927568,
+    28.878788
+],
+  "geometry": {"coordinates":[-81.92756799999999,28.878788],"type":"Point"}
 }

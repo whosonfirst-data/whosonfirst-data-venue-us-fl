@@ -2,13 +2,14 @@
   "id": 354050795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19952,25.888862,-80.19952,25.888862",
     "geom:latitude":25.888862,
     "geom:longitude":-80.19952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12300 NW Miami Ct",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354050795,
-    "wof:lastmodified":1449066878,
+    "wof:lastmodified":1466436847,
     "wof:name":"Professional Engraving & Trphy",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "silverware"
     ]
 },
-  "bbox": [-80.19952,25.888862,-80.19952,25.888862],
-  "geometry": {"coordinates":[-80.19952,25.888862],"type":"Point"}
+  "bbox": [
+    -80.19952,
+    25.888862,
+    -80.19952,
+    25.888862
+],
+  "geometry": {"coordinates":[-80.19952000000001,25.888862],"type":"Point"}
 }

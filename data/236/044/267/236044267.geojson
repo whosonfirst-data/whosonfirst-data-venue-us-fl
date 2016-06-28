@@ -2,13 +2,14 @@
   "id": 236044267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.494779,30.287253,-81.494779,30.287253",
     "geom:latitude":30.287253,
     "geom:longitude":-81.494779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12620 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236044267,
-    "wof:lastmodified":1449003358,
+    "wof:lastmodified":1466429008,
     "wof:name":"Mark Perce Chiropractic Clinic",
     "wof:parent_id":85850321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.494779,30.287253,-81.494779,30.287253],
-  "geometry": {"coordinates":[-81.494779,30.287253],"type":"Point"}
+  "bbox": [
+    -81.494779,
+    30.287253,
+    -81.494779,
+    30.287253
+],
+  "geometry": {"coordinates":[-81.49477899999999,30.287253],"type":"Point"}
 }

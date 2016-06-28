@@ -2,13 +2,14 @@
   "id": 269669035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.249423,30.425186,-84.249423,30.425186",
     "geom:latitude":30.425186,
     "geom:longitude":-84.249423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Blairstone Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269669035,
-    "wof:lastmodified":1449036420,
+    "wof:lastmodified":1466431814,
     "wof:name":"Blairstone Dental Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.249423,30.425186,-84.249423,30.425186],
-  "geometry": {"coordinates":[-84.249423,30.425186],"type":"Point"}
+  "bbox": [
+    -84.249423,
+    30.425186,
+    -84.249423,
+    30.425186
+],
+  "geometry": {"coordinates":[-84.24942299999999,30.425186],"type":"Point"}
 }

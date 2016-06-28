@@ -2,13 +2,14 @@
   "id": 303207945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.274645,30.525487,-87.274645,30.525487",
     "geom:latitude":30.525487,
     "geom:longitude":-87.274645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303207945,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466434124,
     "wof:name":"Stripes & More LLC",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-87.274645,30.525487,-87.274645,30.525487],
-  "geometry": {"coordinates":[-87.274645,30.525487],"type":"Point"}
+  "bbox": [
+    -87.274645,
+    30.525487,
+    -87.274645,
+    30.525487
+],
+  "geometry": {"coordinates":[-87.27464500000001,30.525487],"type":"Point"}
 }

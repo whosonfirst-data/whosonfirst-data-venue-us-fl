@@ -2,13 +2,14 @@
   "id": 354002653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.223963,30.50876,-84.223963,30.50876",
     "geom:latitude":30.50876,
     "geom:longitude":-84.223963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2856 Fitzpatrick Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354002653,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1466436099,
     "wof:name":"Golden Corral",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-84.223963,30.50876,-84.223963,30.50876],
+  "bbox": [
+    -84.223963,
+    30.50876,
+    -84.223963,
+    30.50876
+],
   "geometry": {"coordinates":[-84.223963,30.50876],"type":"Point"}
 }

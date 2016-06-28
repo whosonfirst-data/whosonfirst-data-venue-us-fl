@@ -2,13 +2,14 @@
   "id": 404043565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235706,25.879185,-80.235706,25.879185",
     "geom:latitude":25.879185,
     "geom:longitude":-80.235706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 NW 115th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404043565,
-    "wof:lastmodified":1449040007,
+    "wof:lastmodified":1466440940,
     "wof:name":"Donahue Henry",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.235706,25.879185,-80.235706,25.879185],
-  "geometry": {"coordinates":[-80.235706,25.879185],"type":"Point"}
+  "bbox": [
+    -80.235706,
+    25.879185,
+    -80.235706,
+    25.879185
+],
+  "geometry": {"coordinates":[-80.23570599999999,25.879185],"type":"Point"}
 }

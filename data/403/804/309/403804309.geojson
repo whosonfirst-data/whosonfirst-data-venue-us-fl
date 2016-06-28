@@ -2,13 +2,14 @@
   "id": 403804309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.522853,30.340715,-81.522853,30.340715",
     "geom:latitude":30.340715,
     "geom:longitude":-81.522853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10760 Karen Gale Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403804309,
-    "wof:lastmodified":1449055534,
+    "wof:lastmodified":1466441189,
     "wof:name":"Sons of Norway",
     "wof:parent_id":85803499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-81.522853,30.340715,-81.522853,30.340715],
+  "bbox": [
+    -81.522853,
+    30.340715,
+    -81.522853,
+    30.340715
+],
   "geometry": {"coordinates":[-81.522853,30.340715],"type":"Point"}
 }

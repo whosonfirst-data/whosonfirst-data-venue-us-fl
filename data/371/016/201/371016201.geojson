@@ -2,13 +2,14 @@
   "id": 371016201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.306687,25.858263,-80.306687,25.858263",
     "geom:latitude":25.858263,
     "geom:longitude":-80.306687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4058 W 12th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371016201,
-    "wof:lastmodified":1449049224,
+    "wof:lastmodified":1466437827,
     "wof:name":"L P Medical Ctr",
     "wof:parent_id":85878149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-80.306687,25.858263,-80.306687,25.858263],
+  "bbox": [
+    -80.306687,
+    25.858263,
+    -80.306687,
+    25.858263
+],
   "geometry": {"coordinates":[-80.306687,25.858263],"type":"Point"}
 }

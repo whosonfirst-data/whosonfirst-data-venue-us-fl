@@ -2,13 +2,14 @@
   "id": 304050965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.825131,26.266521,-81.825131,26.266521",
     "geom:latitude":26.266521,
     "geom:longitude":-81.825131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11030 Gulfshore Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":304050965,
-    "wof:lastmodified":1449043926,
+    "wof:lastmodified":1466432703,
     "wof:name":"Vanderbilt Yacht & Racquet CLB",
     "wof:parent_id":85889235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.825131,26.266521,-81.825131,26.266521],
+  "bbox": [
+    -81.825131,
+    26.266521,
+    -81.825131,
+    26.266521
+],
   "geometry": {"coordinates":[-81.825131,26.266521],"type":"Point"}
 }

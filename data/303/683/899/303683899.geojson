@@ -2,13 +2,14 @@
   "id": 303683899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.633743,30.443566,-86.633743,30.443566",
     "geom:latitude":30.443566,
     "geom:longitude":-86.633743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Yancey St",
     "sg:city":"Fort Walton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303683899,
-    "wof:lastmodified":1448999017,
+    "wof:lastmodified":1466442326,
     "wof:name":"Y/M Services",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-86.633743,30.443566,-86.633743,30.443566],
+  "bbox": [
+    -86.633743,
+    30.443566,
+    -86.633743,
+    30.443566
+],
   "geometry": {"coordinates":[-86.633743,30.443566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303828793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.501652,28.340111,-82.501652,28.340111",
     "geom:latitude":28.340111,
     "geom:longitude":-82.501652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12925 US Hwy 41",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303828793,
-    "wof:lastmodified":1448999357,
+    "wof:lastmodified":1466444793,
     "wof:name":"Williams Realty & Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.501652,28.340111,-82.501652,28.340111],
-  "geometry": {"coordinates":[-82.501652,28.340111],"type":"Point"}
+  "bbox": [
+    -82.501652,
+    28.340111,
+    -82.501652,
+    28.340111
+],
+  "geometry": {"coordinates":[-82.50165200000001,28.340111],"type":"Point"}
 }

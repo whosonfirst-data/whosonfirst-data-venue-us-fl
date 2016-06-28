@@ -2,13 +2,14 @@
   "id": 219563659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314705,25.778581,-80.314705,25.778581",
     "geom:latitude":25.778581,
     "geom:longitude":-80.314705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7361 NW 8th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":219563659,
-    "wof:lastmodified":1449070421,
+    "wof:lastmodified":1466432330,
     "wof:name":"Signalize",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.314705,25.778581,-80.314705,25.778581],
+  "bbox": [
+    -80.314705,
+    25.778581,
+    -80.314705,
+    25.778581
+],
   "geometry": {"coordinates":[-80.314705,25.778581],"type":"Point"}
 }

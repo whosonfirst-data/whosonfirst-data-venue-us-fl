@@ -2,13 +2,14 @@
   "id": 286858129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.270494,28.570805,-81.270494,28.570805",
     "geom:latitude":28.570805,
     "geom:longitude":-81.270494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8619 Chelinche Ln",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286858129,
-    "wof:lastmodified":1449015475,
+    "wof:lastmodified":1466440155,
     "wof:name":"KCS",
     "wof:parent_id":85889393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.270494,28.570805,-81.270494,28.570805],
+  "bbox": [
+    -81.270494,
+    28.570805,
+    -81.270494,
+    28.570805
+],
   "geometry": {"coordinates":[-81.270494,28.570805],"type":"Point"}
 }

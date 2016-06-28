@@ -2,13 +2,14 @@
   "id": 354128083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.139603,29.160479,-82.139603,29.160479",
     "geom:latitude":29.160479,
     "geom:longitude":-82.139603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 SW 3rd Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354128083,
-    "wof:lastmodified":1449066574,
+    "wof:lastmodified":1466438058,
     "wof:name":"Norris Raenell Landscape",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-82.139603,29.160479,-82.139603,29.160479],
-  "geometry": {"coordinates":[-82.139603,29.160479],"type":"Point"}
+  "bbox": [
+    -82.139603,
+    29.160479,
+    -82.139603,
+    29.160479
+],
+  "geometry": {"coordinates":[-82.13960299999999,29.160479],"type":"Point"}
 }

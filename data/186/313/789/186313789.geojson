@@ -2,13 +2,14 @@
   "id": 186313789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.282367,26.096085,-80.282367,26.096085",
     "geom:latitude":26.096085,
     "geom:longitude":-80.282367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1848 SW 101st Ave",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186313789,
-    "wof:lastmodified":1449050345,
+    "wof:lastmodified":1466430468,
     "wof:name":"Athletes In Progress",
     "wof:parent_id":85865217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-80.282367,26.096085,-80.282367,26.096085],
-  "geometry": {"coordinates":[-80.282367,26.096085],"type":"Point"}
+  "bbox": [
+    -80.282367,
+    26.096085,
+    -80.282367,
+    26.096085
+],
+  "geometry": {"coordinates":[-80.28236699999999,26.096085],"type":"Point"}
 }

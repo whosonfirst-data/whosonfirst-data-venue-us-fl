@@ -2,13 +2,14 @@
   "id": 320380559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.122636,30.358084,-83.122636,30.358084",
     "geom:latitude":30.358084,
     "geom:longitude":-83.122636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18313 US Hwy 90",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320380559,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466439906,
     "wof:name":"Falmouth Fire Rescue",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-83.122636,30.358084,-83.122636,30.358084],
+  "bbox": [
+    -83.122636,
+    30.358084,
+    -83.122636,
+    30.358084
+],
   "geometry": {"coordinates":[-83.122636,30.358084],"type":"Point"}
 }

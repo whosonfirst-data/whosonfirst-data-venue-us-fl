@@ -2,13 +2,14 @@
   "id": 270340881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.074501,29.186295,-82.074501,29.186295",
     "geom:latitude":29.186295,
     "geom:longitude":-82.074501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 E Fort King St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270340881,
-    "wof:lastmodified":1449010504,
+    "wof:lastmodified":1466435300,
     "wof:name":"Barnes Advertising",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-82.074501,29.186295,-82.074501,29.186295],
+  "bbox": [
+    -82.074501,
+    29.186295,
+    -82.074501,
+    29.186295
+],
   "geometry": {"coordinates":[-82.074501,29.186295],"type":"Point"}
 }

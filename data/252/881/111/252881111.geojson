@@ -2,13 +2,14 @@
   "id": 252881111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503357,27.271533,-82.503357,27.271533",
     "geom:latitude":27.271533,
     "geom:longitude":-82.503357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5680 Blount Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252881111,
-    "wof:lastmodified":1449006050,
+    "wof:lastmodified":1466430917,
     "wof:name":"Environmental Site Prep Inc",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "erosion"
     ]
 },
-  "bbox": [-82.503357,27.271533,-82.503357,27.271533],
-  "geometry": {"coordinates":[-82.503357,27.271533],"type":"Point"}
+  "bbox": [
+    -82.503357,
+    27.271533,
+    -82.503357,
+    27.271533
+],
+  "geometry": {"coordinates":[-82.50335699999999,27.271533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186093461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.005333,29.173565,-81.005333,29.173565",
     "geom:latitude":29.173565,
     "geom:longitude":-81.005333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Big Tree Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186093461,
-    "wof:lastmodified":1449050257,
+    "wof:lastmodified":1466445435,
     "wof:name":"Cournoyer Painting Co Inc",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.005333,29.173565,-81.005333,29.173565],
-  "geometry": {"coordinates":[-81.005333,29.173565],"type":"Point"}
+  "bbox": [
+    -81.005333,
+    29.173565,
+    -81.005333,
+    29.173565
+],
+  "geometry": {"coordinates":[-81.00533299999999,29.173565],"type":"Point"}
 }

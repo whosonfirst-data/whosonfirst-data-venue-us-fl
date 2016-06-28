@@ -2,13 +2,14 @@
   "id": 202962133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23315,26.721543,-80.23315,26.721543",
     "geom:latitude":26.721543,
     "geom:longitude":-80.23315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2456 Westmont Pl",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202962133,
-    "wof:lastmodified":1449061608,
+    "wof:lastmodified":1466434431,
     "wof:name":"Palm Computers",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.23315,26.721543,-80.23315,26.721543],
-  "geometry": {"coordinates":[-80.23315,26.721543],"type":"Point"}
+  "bbox": [
+    -80.23315,
+    26.721543,
+    -80.23315,
+    26.721543
+],
+  "geometry": {"coordinates":[-80.23314999999999,26.721543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253583851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.05326,29.23133,-81.05326,29.23133",
     "geom:latitude":29.23133,
     "geom:longitude":-81.05326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 N Nova Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253583851,
-    "wof:lastmodified":1449065138,
+    "wof:lastmodified":1466437131,
     "wof:name":"Nova Road Transmissions Inc",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.05326,29.23133,-81.05326,29.23133],
-  "geometry": {"coordinates":[-81.05326,29.23133],"type":"Point"}
+  "bbox": [
+    -81.05326,
+    29.23133,
+    -81.05326,
+    29.23133
+],
+  "geometry": {"coordinates":[-81.05325999999999,29.23133],"type":"Point"}
 }

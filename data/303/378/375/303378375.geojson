@@ -2,13 +2,14 @@
   "id": 303378375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.509898,27.930211,-82.509898,27.930211",
     "geom:latitude":27.930211,
     "geom:longitude":-82.509898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 Henderson Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303378375,
-    "wof:lastmodified":1448999767,
+    "wof:lastmodified":1466437046,
     "wof:name":"Thinkids Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.509898,27.930211,-82.509898,27.930211],
-  "geometry": {"coordinates":[-82.509898,27.930211],"type":"Point"}
+  "bbox": [
+    -82.509898,
+    27.930211,
+    -82.509898,
+    27.930211
+],
+  "geometry": {"coordinates":[-82.50989800000001,27.930211],"type":"Point"}
 }

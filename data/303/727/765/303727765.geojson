@@ -2,13 +2,14 @@
   "id": 303727765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.450031,27.099892,-82.450031,27.099892",
     "geom:latitude":27.099892,
     "geom:longitude":-82.450031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Venice Ave",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303727765,
-    "wof:lastmodified":1448998489,
+    "wof:lastmodified":1466443091,
     "wof:name":"City Of Venice City Hall",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-82.450031,27.099892,-82.450031,27.099892],
+  "bbox": [
+    -82.450031,
+    27.099892,
+    -82.450031,
+    27.099892
+],
   "geometry": {"coordinates":[-82.450031,27.099892],"type":"Point"}
 }

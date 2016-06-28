@@ -2,13 +2,14 @@
   "id": 387658457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.260462,30.501642,-87.260462,30.501642",
     "geom:latitude":30.501642,
     "geom:longitude":-87.260462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Terry Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387658457,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1466447814,
     "wof:name":"Total Construction",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.260462,30.501642,-87.260462,30.501642],
+  "bbox": [
+    -87.260462,
+    30.501642,
+    -87.260462,
+    30.501642
+],
   "geometry": {"coordinates":[-87.260462,30.501642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303467891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.609552,30.271345,-81.609552,30.271345",
     "geom:latitude":30.271345,
     "geom:longitude":-81.609552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5607 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303467891,
-    "wof:lastmodified":1449000042,
+    "wof:lastmodified":1466438614,
     "wof:name":"Michael R Moore DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.609552,30.271345,-81.609552,30.271345],
-  "geometry": {"coordinates":[-81.609552,30.271345],"type":"Point"}
+  "bbox": [
+    -81.609552,
+    30.271345,
+    -81.609552,
+    30.271345
+],
+  "geometry": {"coordinates":[-81.60955199999999,30.271345],"type":"Point"}
 }

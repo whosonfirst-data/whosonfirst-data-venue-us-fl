@@ -2,13 +2,14 @@
   "id": 353552619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.353568,29.821096,-81.353568,29.821096",
     "geom:latitude":29.821096,
     "geom:longitude":-81.353568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Arrowhead Dr",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353552619,
-    "wof:lastmodified":1449019313,
+    "wof:lastmodified":1466436992,
     "wof:name":"Web Exploration Group LLC",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-81.353568,29.821096,-81.353568,29.821096],
+  "bbox": [
+    -81.353568,
+    29.821096,
+    -81.353568,
+    29.821096
+],
   "geometry": {"coordinates":[-81.353568,29.821096],"type":"Point"}
 }

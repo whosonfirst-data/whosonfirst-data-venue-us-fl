@@ -2,13 +2,14 @@
   "id": 320809241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337963,25.835374,-80.337963,25.835374",
     "geom:latitude":25.835374,
     "geom:longitude":-80.337963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 NW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320809241,
-    "wof:lastmodified":1449014303,
+    "wof:lastmodified":1466447132,
     "wof:name":"Certified Auto Ctr",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.337963,25.835374,-80.337963,25.835374],
+  "bbox": [
+    -80.337963,
+    25.835374,
+    -80.337963,
+    25.835374
+],
   "geometry": {"coordinates":[-80.337963,25.835374],"type":"Point"}
 }

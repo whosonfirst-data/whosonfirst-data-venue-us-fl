@@ -2,13 +2,14 @@
   "id": 370950477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280723,30.425004,-84.280723,30.425004",
     "geom:latitude":30.425004,
     "geom:longitude":-84.280723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370950477,
-    "wof:lastmodified":1449030402,
+    "wof:lastmodified":1466448052,
     "wof:name":"Keith's Kids Christian Academy",
     "wof:parent_id":85881325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.280723,30.425004,-84.280723,30.425004],
-  "geometry": {"coordinates":[-84.280723,30.425004],"type":"Point"}
+  "bbox": [
+    -84.280723,
+    30.425004,
+    -84.280723,
+    30.425004
+],
+  "geometry": {"coordinates":[-84.28072299999999,30.425004],"type":"Point"}
 }

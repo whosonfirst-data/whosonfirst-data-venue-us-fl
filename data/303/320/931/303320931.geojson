@@ -2,13 +2,14 @@
   "id": 303320931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.786919,30.300881,-81.786919,30.300881",
     "geom:latitude":30.300881,
     "geom:longitude":-81.786919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 Santiago Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303320931,
-    "wof:lastmodified":1448998732,
+    "wof:lastmodified":1466436074,
     "wof:name":"Seven Bridges Tile Inc",
     "wof:parent_id":85870749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.786919,30.300881,-81.786919,30.300881],
+  "bbox": [
+    -81.786919,
+    30.300881,
+    -81.786919,
+    30.300881
+],
   "geometry": {"coordinates":[-81.786919,30.300881],"type":"Point"}
 }

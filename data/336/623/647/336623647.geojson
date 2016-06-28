@@ -2,13 +2,14 @@
   "id": 336623647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270828,26.161977,-80.270828,26.161977",
     "geom:latitude":26.161977,
     "geom:longitude":-80.270828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Sunrise Lakes Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336623647,
-    "wof:lastmodified":1448997690,
+    "wof:lastmodified":1466435398,
     "wof:name":"Bonnie Wilsker PA",
     "wof:parent_id":85896113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.270828,26.161977,-80.270828,26.161977],
-  "geometry": {"coordinates":[-80.270828,26.161977],"type":"Point"}
+  "bbox": [
+    -80.270828,
+    26.161977,
+    -80.270828,
+    26.161977
+],
+  "geometry": {"coordinates":[-80.27082799999999,26.161977],"type":"Point"}
 }

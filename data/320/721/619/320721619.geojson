@@ -2,13 +2,14 @@
   "id": 320721619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.0704,29.191784,-81.0704,29.191784",
     "geom:latitude":29.191784,
     "geom:longitude":-81.0704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Volusia Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320721619,
-    "wof:lastmodified":1449014956,
+    "wof:lastmodified":1466445848,
     "wof:name":"WNDB",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.0704,29.191784,-81.0704,29.191784],
-  "geometry": {"coordinates":[-81.0704,29.191784],"type":"Point"}
+  "bbox": [
+    -81.0704,
+    29.191784,
+    -81.0704,
+    29.191784
+],
+  "geometry": {"coordinates":[-81.07040000000001,29.191784],"type":"Point"}
 }

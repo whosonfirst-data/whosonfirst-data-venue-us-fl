@@ -2,13 +2,14 @@
   "id": 202798583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191949,25.773496,-80.191949,25.773496",
     "geom:latitude":25.773496,
     "geom:longitude":-80.191949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 SE 1st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202798583,
-    "wof:lastmodified":1449060584,
+    "wof:lastmodified":1466432239,
     "wof:name":"Singer Downtown Miami",
     "wof:parent_id":85896175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-80.191949,25.773496,-80.191949,25.773496],
-  "geometry": {"coordinates":[-80.191949,25.773496],"type":"Point"}
+  "bbox": [
+    -80.191949,
+    25.773496,
+    -80.191949,
+    25.773496
+],
+  "geometry": {"coordinates":[-80.19194899999999,25.773496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219455105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.423353,27.995349,-82.423353,27.995349",
     "geom:latitude":27.995349,
     "geom:longitude":-82.423353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 E Giddens Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219455105,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466430918,
     "wof:name":"Hilsbora Stat Care",
     "wof:parent_id":85873233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.423353,27.995349,-82.423353,27.995349],
-  "geometry": {"coordinates":[-82.423353,27.995349],"type":"Point"}
+  "bbox": [
+    -82.423353,
+    27.995349,
+    -82.423353,
+    27.995349
+],
+  "geometry": {"coordinates":[-82.42335300000001,27.995349],"type":"Point"}
 }

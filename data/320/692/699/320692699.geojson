@@ -2,13 +2,14 @@
   "id": 320692699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482921,27.939973,-82.482921,27.939973",
     "geom:latitude":27.939973,
     "geom:longitude":-82.482921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Howard Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320692699,
-    "wof:lastmodified":1449012245,
+    "wof:lastmodified":1466445363,
     "wof:name":"Mean Time",
     "wof:parent_id":85873289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-82.482921,27.939973,-82.482921,27.939973],
+  "bbox": [
+    -82.482921,
+    27.939973,
+    -82.482921,
+    27.939973
+],
   "geometry": {"coordinates":[-82.482921,27.939973],"type":"Point"}
 }

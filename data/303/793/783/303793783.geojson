@@ -2,13 +2,14 @@
   "id": 303793783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.677549,30.321998,-81.677549,30.321998",
     "geom:latitude":30.321998,
     "geom:longitude":-81.677549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303793783,
-    "wof:lastmodified":1448999465,
+    "wof:lastmodified":1466444205,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-81.677549,30.321998,-81.677549,30.321998],
+  "bbox": [
+    -81.677549,
+    30.321998,
+    -81.677549,
+    30.321998
+],
   "geometry": {"coordinates":[-81.677549,30.321998],"type":"Point"}
 }

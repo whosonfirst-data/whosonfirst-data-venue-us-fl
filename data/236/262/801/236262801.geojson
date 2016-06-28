@@ -2,13 +2,14 @@
   "id": 236262801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140946,25.77911,-80.140946,25.77911",
     "geom:latitude":25.77911,
     "geom:longitude":-80.140946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Alton Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236262801,
-    "wof:lastmodified":1449003739,
+    "wof:lastmodified":1466432134,
     "wof:name":"South Bay Club",
     "wof:parent_id":85882053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.140946,25.77911,-80.140946,25.77911],
+  "bbox": [
+    -80.140946,
+    25.77911,
+    -80.140946,
+    25.77911
+],
   "geometry": {"coordinates":[-80.140946,25.77911],"type":"Point"}
 }

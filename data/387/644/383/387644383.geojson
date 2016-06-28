@@ -2,13 +2,14 @@
   "id": 387644383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.299439,26.79817,-81.299439,26.79817",
     "geom:latitude":26.79817,
     "geom:longitude":-81.299439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12525 Williams Rd",
     "sg:city":"Moore Haven",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387644383,
-    "wof:lastmodified":1449058283,
+    "wof:lastmodified":1466447631,
     "wof:name":"Meadowlark Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.299439,26.79817,-81.299439,26.79817],
-  "geometry": {"coordinates":[-81.299439,26.79817],"type":"Point"}
+  "bbox": [
+    -81.299439,
+    26.79817,
+    -81.299439,
+    26.79817
+],
+  "geometry": {"coordinates":[-81.29943900000001,26.79817],"type":"Point"}
 }

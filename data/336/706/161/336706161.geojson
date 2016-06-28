@@ -2,13 +2,14 @@
   "id": 336706161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.678907,28.083164,-80.678907,28.083164",
     "geom:latitude":28.083164,
     "geom:longitude":-80.678907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Gray Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336706161,
-    "wof:lastmodified":1448997001,
+    "wof:lastmodified":1466436815,
     "wof:name":"Third Party Specs",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.678907,28.083164,-80.678907,28.083164],
+  "bbox": [
+    -80.678907,
+    28.083164,
+    -80.678907,
+    28.083164
+],
   "geometry": {"coordinates":[-80.678907,28.083164],"type":"Point"}
 }

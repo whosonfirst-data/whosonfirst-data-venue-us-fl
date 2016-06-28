@@ -2,13 +2,14 @@
   "id": 387082543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.795149,28.059036,-81.795149,28.059036",
     "geom:latitude":28.059036,
     "geom:longitude":-81.795149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1052 US Hwy 92",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387082543,
-    "wof:lastmodified":1449056216,
+    "wof:lastmodified":1466439973,
     "wof:name":"Trader's Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-81.795149,28.059036,-81.795149,28.059036],
-  "geometry": {"coordinates":[-81.795149,28.059036],"type":"Point"}
+  "bbox": [
+    -81.795149,
+    28.059036,
+    -81.795149,
+    28.059036
+],
+  "geometry": {"coordinates":[-81.79514899999999,28.059036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404052397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236528,26.258016,-80.236528,26.258016",
     "geom:latitude":26.258016,
     "geom:longitude":-80.236528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8381 Royal Palm Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404052397,
-    "wof:lastmodified":1449039555,
+    "wof:lastmodified":1466441073,
     "wof:name":"R B Maintenance Inc",
     "wof:parent_id":85876885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.236528,26.258016,-80.236528,26.258016],
-  "geometry": {"coordinates":[-80.236528,26.258016],"type":"Point"}
+  "bbox": [
+    -80.236528,
+    26.258016,
+    -80.236528,
+    26.258016
+],
+  "geometry": {"coordinates":[-80.23652800000001,26.258016],"type":"Point"}
 }

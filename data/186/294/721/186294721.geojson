@@ -2,13 +2,14 @@
   "id": 186294721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.631891,30.469458,-81.631891,30.469458",
     "geom:latitude":30.469458,
     "geom:longitude":-81.631891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12839 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186294721,
-    "wof:lastmodified":1449052270,
+    "wof:lastmodified":1466430239,
     "wof:name":"Airport Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-81.631891,30.469458,-81.631891,30.469458],
+  "bbox": [
+    -81.631891,
+    30.469458,
+    -81.631891,
+    30.469458
+],
   "geometry": {"coordinates":[-81.631891,30.469458],"type":"Point"}
 }

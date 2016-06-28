@@ -2,13 +2,14 @@
   "id": 253315579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.75678,28.155369,-82.75678,28.155369",
     "geom:latitude":28.155369,
     "geom:longitude":-82.75678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 N Pinellas Ave",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253315579,
-    "wof:lastmodified":1449065644,
+    "wof:lastmodified":1466432454,
     "wof:name":"Saroukos Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.75678,28.155369,-82.75678,28.155369],
-  "geometry": {"coordinates":[-82.75678,28.155369],"type":"Point"}
+  "bbox": [
+    -82.75678,
+    28.155369,
+    -82.75678,
+    28.155369
+],
+  "geometry": {"coordinates":[-82.75678000000001,28.155369],"type":"Point"}
 }

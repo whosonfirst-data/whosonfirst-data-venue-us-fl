@@ -2,13 +2,14 @@
   "id": 286440419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.585207,30.307966,-81.585207,30.307966",
     "geom:latitude":30.307966,
     "geom:longitude":-81.585207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6931 Crane Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286440419,
-    "wof:lastmodified":1449016225,
+    "wof:lastmodified":1466432745,
     "wof:name":"LTD Tile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.585207,30.307966,-81.585207,30.307966],
+  "bbox": [
+    -81.585207,
+    30.307966,
+    -81.585207,
+    30.307966
+],
   "geometry": {"coordinates":[-81.585207,30.307966],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269582645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141658,26.320086,-80.141658,26.320086",
     "geom:latitude":26.320086,
     "geom:longitude":-80.141658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Deer Creek Country Club Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269582645,
-    "wof:lastmodified":1449037424,
+    "wof:lastmodified":1466430244,
     "wof:name":"Care Alliance",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.141658,26.320086,-80.141658,26.320086],
-  "geometry": {"coordinates":[-80.141658,26.320086],"type":"Point"}
+  "bbox": [
+    -80.141658,
+    26.320086,
+    -80.141658,
+    26.320086
+],
+  "geometry": {"coordinates":[-80.14165800000001,26.320086],"type":"Point"}
 }

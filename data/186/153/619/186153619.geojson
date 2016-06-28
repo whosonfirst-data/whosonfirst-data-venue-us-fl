@@ -2,13 +2,14 @@
   "id": 186153619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.946042,26.562461,-81.946042,26.562461",
     "geom:latitude":26.562461,
     "geom:longitude":-81.946042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 E Cape Coral Pkwy",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186153619,
-    "wof:lastmodified":1449052218,
+    "wof:lastmodified":1466428577,
     "wof:name":"Satellite Plus",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "installation"
     ]
 },
-  "bbox": [-81.946042,26.562461,-81.946042,26.562461],
-  "geometry": {"coordinates":[-81.946042,26.562461],"type":"Point"}
+  "bbox": [
+    -81.946042,
+    26.562461,
+    -81.946042,
+    26.562461
+],
+  "geometry": {"coordinates":[-81.94604200000001,26.562461],"type":"Point"}
 }

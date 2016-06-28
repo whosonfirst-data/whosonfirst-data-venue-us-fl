@@ -2,13 +2,14 @@
   "id": 219324835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260416,25.744558,-80.260416,25.744558",
     "geom:latitude":25.744558,
     "geom:longitude":-80.260416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3081 Salzedo St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219324835,
-    "wof:lastmodified":1449072440,
+    "wof:lastmodified":1466429108,
     "wof:name":"Ambrose Realty Corporation",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "client"
     ]
 },
-  "bbox": [-80.260416,25.744558,-80.260416,25.744558],
-  "geometry": {"coordinates":[-80.260416,25.744558],"type":"Point"}
+  "bbox": [
+    -80.260416,
+    25.744558,
+    -80.260416,
+    25.744558
+],
+  "geometry": {"coordinates":[-80.26041600000001,25.744558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270526629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234192,25.909826,-80.234192,25.909826",
     "geom:latitude":25.909826,
     "geom:longitude":-80.234192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Ali Baba Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270526629,
-    "wof:lastmodified":1449009363,
+    "wof:lastmodified":1466438479,
     "wof:name":"One Anothers Grocery",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.234192,25.909826,-80.234192,25.909826],
-  "geometry": {"coordinates":[-80.234192,25.909826],"type":"Point"}
+  "bbox": [
+    -80.234192,
+    25.909826,
+    -80.234192,
+    25.909826
+],
+  "geometry": {"coordinates":[-80.23419199999999,25.909826],"type":"Point"}
 }

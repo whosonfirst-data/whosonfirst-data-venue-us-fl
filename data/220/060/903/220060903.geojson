@@ -2,13 +2,14 @@
   "id": 220060903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.745115,28.388027,-80.745115,28.388027",
     "geom:latitude":28.388027,
     "geom:longitude":-80.745115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 N Cocoa Blvd",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220060903,
-    "wof:lastmodified":1449074801,
+    "wof:lastmodified":1466445005,
     "wof:name":"Spare Time Hobbies",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.745115,28.388027,-80.745115,28.388027],
+  "bbox": [
+    -80.745115,
+    28.388027,
+    -80.745115,
+    28.388027
+],
   "geometry": {"coordinates":[-80.745115,28.388027],"type":"Point"}
 }

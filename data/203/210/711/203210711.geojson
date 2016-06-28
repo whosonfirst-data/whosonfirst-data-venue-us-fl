@@ -2,13 +2,14 @@
   "id": 203210711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380564,27.977334,-81.380564,27.977334",
     "geom:latitude":27.977334,
     "geom:longitude":-81.380564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14240 Reese Dr",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203210711,
-    "wof:lastmodified":1449025557,
+    "wof:lastmodified":1466429037,
     "wof:name":"Vital Signs of Ridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.380564,27.977334,-81.380564,27.977334],
-  "geometry": {"coordinates":[-81.380564,27.977334],"type":"Point"}
+  "bbox": [
+    -81.380564,
+    27.977334,
+    -81.380564,
+    27.977334
+],
+  "geometry": {"coordinates":[-81.38056400000001,27.977334],"type":"Point"}
 }

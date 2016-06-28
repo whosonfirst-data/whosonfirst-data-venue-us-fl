@@ -2,13 +2,14 @@
   "id": 270506485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255077,25.763001,-80.255077,25.763001",
     "geom:latitude":25.763001,
     "geom:longitude":-80.255077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Douglas Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270506485,
-    "wof:lastmodified":1449008719,
+    "wof:lastmodified":1466438133,
     "wof:name":"William Hamilton Arthur PA",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.255077,25.763001,-80.255077,25.763001],
+  "bbox": [
+    -80.255077,
+    25.763001,
+    -80.255077,
+    25.763001
+],
   "geometry": {"coordinates":[-80.255077,25.763001],"type":"Point"}
 }

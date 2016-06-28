@@ -2,13 +2,14 @@
   "id": 186182741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.50633,28.035186,-82.50633,28.035186",
     "geom:latitude":28.035186,
     "geom:longitude":-82.50633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9116 Lazy Ln",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186182741,
-    "wof:lastmodified":1449052069,
+    "wof:lastmodified":1466428902,
     "wof:name":"Gulf Coast Svc",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.50633,28.035186,-82.50633,28.035186],
-  "geometry": {"coordinates":[-82.50633,28.035186],"type":"Point"}
+  "bbox": [
+    -82.50633,
+    28.035186,
+    -82.50633,
+    28.035186
+],
+  "geometry": {"coordinates":[-82.50633000000001,28.035186],"type":"Point"}
 }

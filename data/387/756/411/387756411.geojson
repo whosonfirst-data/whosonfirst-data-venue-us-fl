@@ -2,13 +2,14 @@
   "id": 387756411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.289096,28.679613,-81.289096,28.679613",
     "geom:latitude":28.679613,
     "geom:longitude":-81.289096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Seville Chase Dr",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387756411,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1466448733,
     "wof:name":"WAC",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.289096,28.679613,-81.289096,28.679613],
+  "bbox": [
+    -81.289096,
+    28.679613,
+    -81.289096,
+    28.679613
+],
   "geometry": {"coordinates":[-81.289096,28.679613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320746587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.73108,28.815051,-81.73108,28.815051",
     "geom:latitude":28.815051,
     "geom:longitude":-81.73108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 N Sinclair Ave",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320746587,
-    "wof:lastmodified":1449011228,
+    "wof:lastmodified":1466446280,
     "wof:name":"Thomas Richardson Residential",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.73108,28.815051,-81.73108,28.815051],
-  "geometry": {"coordinates":[-81.73108,28.815051],"type":"Point"}
+  "bbox": [
+    -81.73108,
+    28.815051,
+    -81.73108,
+    28.815051
+],
+  "geometry": {"coordinates":[-81.73108000000001,28.815051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370179165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.573806,30.138409,-81.573806,30.138409",
     "geom:latitude":30.138409,
     "geom:longitude":-81.573806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12751 Caron Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370179165,
-    "wof:lastmodified":1449032132,
+    "wof:lastmodified":1466436896,
     "wof:name":"General Motors",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.573806,30.138409,-81.573806,30.138409],
+  "bbox": [
+    -81.573806,
+    30.138409,
+    -81.573806,
+    30.138409
+],
   "geometry": {"coordinates":[-81.573806,30.138409],"type":"Point"}
 }

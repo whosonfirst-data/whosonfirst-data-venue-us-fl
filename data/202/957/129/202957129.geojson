@@ -2,13 +2,14 @@
   "id": 202957129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31189,26.000716,-80.31189,26.000716",
     "geom:latitude":26.000716,
     "geom:longitude":-80.31189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 S Flamingo Rd",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202957129,
-    "wof:lastmodified":1449062280,
+    "wof:lastmodified":1466434363,
     "wof:name":"Dolphin Liquor Store",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.31189,26.000716,-80.31189,26.000716],
-  "geometry": {"coordinates":[-80.31189,26.000716],"type":"Point"}
+  "bbox": [
+    -80.31189,
+    26.000716,
+    -80.31189,
+    26.000716
+],
+  "geometry": {"coordinates":[-80.31189000000001,26.000716],"type":"Point"}
 }

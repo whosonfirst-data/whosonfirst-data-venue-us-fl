@@ -2,13 +2,14 @@
   "id": 387769955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505328,28.001793,-82.505328,28.001793",
     "geom:latitude":28.001793,
     "geom:longitude":-82.505328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5852 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387769955,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1466448726,
     "wof:name":"Lexus Of Tampa Bay",
     "wof:parent_id":85889723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.505328,28.001793,-82.505328,28.001793],
-  "geometry": {"coordinates":[-82.505328,28.001793],"type":"Point"}
+  "bbox": [
+    -82.505328,
+    28.001793,
+    -82.505328,
+    28.001793
+],
+  "geometry": {"coordinates":[-82.50532800000001,28.001793],"type":"Point"}
 }

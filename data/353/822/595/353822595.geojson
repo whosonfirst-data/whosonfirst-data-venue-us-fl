@@ -2,13 +2,14 @@
   "id": 353822595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22517,26.347218,-80.22517,26.347218",
     "geom:latitude":26.347218,
     "geom:longitude":-80.22517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22098 Woodset Way",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353822595,
-    "wof:lastmodified":1449020700,
+    "wof:lastmodified":1466441290,
     "wof:name":"TMG",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-80.22517,26.347218,-80.22517,26.347218],
-  "geometry": {"coordinates":[-80.22517,26.347218],"type":"Point"}
+  "bbox": [
+    -80.22517,
+    26.347218,
+    -80.22517,
+    26.347218
+],
+  "geometry": {"coordinates":[-80.22517000000001,26.347218],"type":"Point"}
 }

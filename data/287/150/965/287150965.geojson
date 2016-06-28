@@ -2,13 +2,14 @@
   "id": 287150965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.136201,29.165926,-82.136201,29.165926",
     "geom:latitude":29.165926,
     "geom:longitude":-82.136201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 S Pine Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287150965,
-    "wof:lastmodified":1449000678,
+    "wof:lastmodified":1466432508,
     "wof:name":"ERA",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-82.136201,29.165926,-82.136201,29.165926],
+  "bbox": [
+    -82.136201,
+    29.165926,
+    -82.136201,
+    29.165926
+],
   "geometry": {"coordinates":[-82.136201,29.165926],"type":"Point"}
 }

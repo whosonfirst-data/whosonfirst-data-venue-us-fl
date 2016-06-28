@@ -2,13 +2,14 @@
   "id": 202563223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.632511,30.164451,-81.632511,30.164451",
     "geom:latitude":30.164451,
     "geom:longitude":-81.632511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11475 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202563223,
-    "wof:lastmodified":1449060144,
+    "wof:lastmodified":1466429193,
     "wof:name":"Cheers Atm",
     "wof:parent_id":85816563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-81.632511,30.164451,-81.632511,30.164451],
-  "geometry": {"coordinates":[-81.632511,30.164451],"type":"Point"}
+  "bbox": [
+    -81.632511,
+    30.164451,
+    -81.632511,
+    30.164451
+],
+  "geometry": {"coordinates":[-81.63251099999999,30.164451],"type":"Point"}
 }

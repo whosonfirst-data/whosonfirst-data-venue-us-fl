@@ -2,13 +2,14 @@
   "id": 252913647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.565399,27.489076,-82.565399,27.489076",
     "geom:latitude":27.489076,
     "geom:longitude":-82.565399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 3rd St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252913647,
-    "wof:lastmodified":1449005829,
+    "wof:lastmodified":1466431402,
     "wof:name":"Jan Smith & Company",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-82.565399,27.489076,-82.565399,27.489076],
+  "bbox": [
+    -82.565399,
+    27.489076,
+    -82.565399,
+    27.489076
+],
   "geometry": {"coordinates":[-82.565399,27.489076],"type":"Point"}
 }

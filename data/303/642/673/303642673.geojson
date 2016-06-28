@@ -2,13 +2,14 @@
   "id": 303642673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.699981,27.792734,-82.699981,27.792734",
     "geom:latitude":27.792734,
     "geom:longitude":-82.699981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 49th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303642673,
-    "wof:lastmodified":1448998261,
+    "wof:lastmodified":1466441586,
     "wof:name":"Tampa Bay Endodontics",
     "wof:parent_id":85880521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.699981,27.792734,-82.699981,27.792734],
-  "geometry": {"coordinates":[-82.699981,27.792734],"type":"Point"}
+  "bbox": [
+    -82.699981,
+    27.792734,
+    -82.699981,
+    27.792734
+],
+  "geometry": {"coordinates":[-82.69998099999999,27.792734],"type":"Point"}
 }

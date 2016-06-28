@@ -2,13 +2,14 @@
   "id": 370600799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.277095,30.416504,-84.277095,30.416504",
     "geom:latitude":30.416504,
     "geom:longitude":-84.277095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Putnam Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370600799,
-    "wof:lastmodified":1449029400,
+    "wof:lastmodified":1466443391,
     "wof:name":"Cottages Of Magnolia",
     "wof:parent_id":85889639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-84.277095,30.416504,-84.277095,30.416504],
+  "bbox": [
+    -84.277095,
+    30.416504,
+    -84.277095,
+    30.416504
+],
   "geometry": {"coordinates":[-84.277095,30.416504],"type":"Point"}
 }

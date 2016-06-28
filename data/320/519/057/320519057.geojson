@@ -2,13 +2,14 @@
   "id": 320519057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.585387,30.233218,-81.585387,30.233218",
     "geom:latitude":30.233218,
     "geom:longitude":-81.585387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8130 Baymeadows Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320519057,
-    "wof:lastmodified":1449014712,
+    "wof:lastmodified":1466442356,
     "wof:name":"Healthcare Information Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-81.585387,30.233218,-81.585387,30.233218],
+  "bbox": [
+    -81.585387,
+    30.233218,
+    -81.585387,
+    30.233218
+],
   "geometry": {"coordinates":[-81.585387,30.233218],"type":"Point"}
 }

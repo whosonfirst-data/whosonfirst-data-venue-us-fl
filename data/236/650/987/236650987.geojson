@@ -2,13 +2,14 @@
   "id": 236650987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.90556,28.803054,-81.90556,28.803054",
     "geom:latitude":28.803054,
     "geom:longitude":-81.90556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 South St",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236650987,
-    "wof:lastmodified":1449003706,
+    "wof:lastmodified":1466437638,
     "wof:name":"Cooke Rental",
     "wof:parent_id":85889123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-81.90556,28.803054,-81.90556,28.803054],
-  "geometry": {"coordinates":[-81.90556,28.803054],"type":"Point"}
+  "bbox": [
+    -81.90556,
+    28.803054,
+    -81.90556,
+    28.803054
+],
+  "geometry": {"coordinates":[-81.90555999999999,28.803054],"type":"Point"}
 }

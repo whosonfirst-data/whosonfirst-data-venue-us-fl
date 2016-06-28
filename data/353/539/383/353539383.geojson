@@ -2,13 +2,14 @@
   "id": 353539383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192411,25.869785,-80.192411,25.869785",
     "geom:latitude":25.869785,
     "geom:longitude":-80.192411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 NE 103rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353539383,
-    "wof:lastmodified":1449020858,
+    "wof:lastmodified":1466436779,
     "wof:name":"Lady Dis Royalty Apts",
     "wof:parent_id":85833929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.192411,25.869785,-80.192411,25.869785],
-  "geometry": {"coordinates":[-80.192411,25.869785],"type":"Point"}
+  "bbox": [
+    -80.192411,
+    25.869785,
+    -80.192411,
+    25.869785
+],
+  "geometry": {"coordinates":[-80.19241100000001,25.869785],"type":"Point"}
 }

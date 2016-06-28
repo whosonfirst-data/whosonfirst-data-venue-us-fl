@@ -2,13 +2,14 @@
   "id": 270525989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.513244,27.973953,-82.513244,27.973953",
     "geom:latitude":27.973953,
     "geom:longitude":-82.513244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3818 W Tampa Bay Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":270525989,
-    "wof:lastmodified":1449010545,
+    "wof:lastmodified":1466438467,
     "wof:name":"Tampa Police Dept",
     "wof:parent_id":85873235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.513244,27.973953,-82.513244,27.973953],
+  "bbox": [
+    -82.513244,
+    27.973953,
+    -82.513244,
+    27.973953
+],
   "geometry": {"coordinates":[-82.513244,27.973953],"type":"Point"}
 }

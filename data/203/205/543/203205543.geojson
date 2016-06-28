@@ -2,13 +2,14 @@
   "id": 203205543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333742,25.825969,-80.333742,25.825969",
     "geom:latitude":25.825969,
     "geom:longitude":-80.333742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 NW 84th Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203205543,
-    "wof:lastmodified":1449026075,
+    "wof:lastmodified":1466428973,
     "wof:name":"QPS Duplication",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-80.333742,25.825969,-80.333742,25.825969],
+  "bbox": [
+    -80.333742,
+    25.825969,
+    -80.333742,
+    25.825969
+],
   "geometry": {"coordinates":[-80.333742,25.825969],"type":"Point"}
 }

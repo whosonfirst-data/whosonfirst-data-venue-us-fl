@@ -2,13 +2,14 @@
   "id": 303983327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.515295,28.055358,-82.515295,28.055358",
     "geom:latitude":28.055358,
     "geom:longitude":-82.515295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 Meadow Hill Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303983327,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466447049,
     "wof:name":"Condo Vacations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-82.515295,28.055358,-82.515295,28.055358],
-  "geometry": {"coordinates":[-82.515295,28.055358],"type":"Point"}
+  "bbox": [
+    -82.515295,
+    28.055358,
+    -82.515295,
+    28.055358
+],
+  "geometry": {"coordinates":[-82.51529499999999,28.055358],"type":"Point"}
 }

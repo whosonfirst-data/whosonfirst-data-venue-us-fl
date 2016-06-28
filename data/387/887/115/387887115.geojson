@@ -2,13 +2,14 @@
   "id": 387887115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.600951,30.145527,-85.600951,30.145527",
     "geom:latitude":30.145527,
     "geom:longitude":-85.600951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Cherry St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387887115,
-    "wof:lastmodified":1449059160,
+    "wof:lastmodified":1466449423,
     "wof:name":"Alex-Way",
     "wof:parent_id":85804791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.600951,30.145527,-85.600951,30.145527],
-  "geometry": {"coordinates":[-85.600951,30.145527],"type":"Point"}
+  "bbox": [
+    -85.600951,
+    30.145527,
+    -85.600951,
+    30.145527
+],
+  "geometry": {"coordinates":[-85.60095099999999,30.145527],"type":"Point"}
 }

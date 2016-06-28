@@ -2,13 +2,14 @@
   "id": 303072293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.486108,27.981222,-82.486108,27.981222",
     "geom:latitude":27.981222,
     "geom:longitude":-82.486108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 W Martin Luther King Jr Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303072293,
-    "wof:lastmodified":1448999409,
+    "wof:lastmodified":1466431716,
     "wof:name":"Health Point Management Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-82.486108,27.981222,-82.486108,27.981222],
+  "bbox": [
+    -82.486108,
+    27.981222,
+    -82.486108,
+    27.981222
+],
   "geometry": {"coordinates":[-82.486108,27.981222],"type":"Point"}
 }

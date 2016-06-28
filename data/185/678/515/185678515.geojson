@@ -2,13 +2,14 @@
   "id": 185678515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401389,28.531403,-81.401389,28.531403",
     "geom:latitude":28.531403,
     "geom:longitude":-81.401389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"798 S Rio Grande Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185678515,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1466445133,
     "wof:name":"Orlando Sports Campus",
     "wof:parent_id":85879489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.401389,28.531403,-81.401389,28.531403],
-  "geometry": {"coordinates":[-81.401389,28.531403],"type":"Point"}
+  "bbox": [
+    -81.401389,
+    28.531403,
+    -81.401389,
+    28.531403
+],
+  "geometry": {"coordinates":[-81.40138899999999,28.531403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219320833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.430292,27.640405,-80.430292,27.640405",
     "geom:latitude":27.640405,
     "geom:longitude":-80.430292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 43rd Ave",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219320833,
-    "wof:lastmodified":1449071286,
+    "wof:lastmodified":1466429056,
     "wof:name":"Sensubeans",
     "wof:parent_id":85889873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "candy"
     ]
 },
-  "bbox": [-80.430292,27.640405,-80.430292,27.640405],
-  "geometry": {"coordinates":[-80.430292,27.640405],"type":"Point"}
+  "bbox": [
+    -80.430292,
+    27.640405,
+    -80.430292,
+    27.640405
+],
+  "geometry": {"coordinates":[-80.43029199999999,27.640405],"type":"Point"}
 }

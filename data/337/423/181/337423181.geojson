@@ -2,13 +2,14 @@
   "id": 337423181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12426,26.078565,-80.12426,26.078565",
     "geom:latitude":26.078565,
     "geom:longitude":-80.12426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 McIntosh Rd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337423181,
-    "wof:lastmodified":1449027061,
+    "wof:lastmodified":1466435593,
     "wof:name":"Toyota Tsusho America Inc",
     "wof:parent_id":85842791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "automotive"
     ]
 },
-  "bbox": [-80.12426,26.078565,-80.12426,26.078565],
-  "geometry": {"coordinates":[-80.12426,26.078565],"type":"Point"}
+  "bbox": [
+    -80.12426,
+    26.078565,
+    -80.12426,
+    26.078565
+],
+  "geometry": {"coordinates":[-80.12426000000001,26.078565],"type":"Point"}
 }

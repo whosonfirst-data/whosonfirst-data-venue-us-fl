@@ -2,13 +2,14 @@
   "id": 203106805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.430716,28.069158,-82.430716,28.069158",
     "geom:latitude":28.069158,
     "geom:longitude":-82.430716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 E Fletcher Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203106805,
-    "wof:lastmodified":1449024919,
+    "wof:lastmodified":1466445355,
     "wof:name":"Manhattan Beauty School",
     "wof:parent_id":85889713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-82.430716,28.069158,-82.430716,28.069158],
+  "bbox": [
+    -82.430716,
+    28.069158,
+    -82.430716,
+    28.069158
+],
   "geometry": {"coordinates":[-82.430716,28.069158],"type":"Point"}
 }

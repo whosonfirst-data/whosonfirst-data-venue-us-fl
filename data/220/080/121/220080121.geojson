@@ -2,13 +2,14 @@
   "id": 220080121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.208438,26.333921,-80.208438,26.333921",
     "geom:latitude":26.333921,
     "geom:longitude":-80.208438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10282 Boca Entrada Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220080121,
-    "wof:lastmodified":1449074856,
+    "wof:lastmodified":1466445370,
     "wof:name":"James Lawing",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-80.208438,26.333921,-80.208438,26.333921],
+  "bbox": [
+    -80.208438,
+    26.333921,
+    -80.208438,
+    26.333921
+],
   "geometry": {"coordinates":[-80.208438,26.333921],"type":"Point"}
 }

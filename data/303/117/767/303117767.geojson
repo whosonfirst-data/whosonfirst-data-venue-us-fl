@@ -2,13 +2,14 @@
   "id": 303117767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.922087,29.840409,-81.922087,29.840409",
     "geom:latitude":29.840409,
     "geom:longitude":-81.922087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5255 Wolverine Ln",
     "sg:city":"Keystone Heights",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303117767,
-    "wof:lastmodified":1448999775,
+    "wof:lastmodified":1466432540,
     "wof:name":"North Florida Equine Ranch",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-81.922087,29.840409,-81.922087,29.840409],
+  "bbox": [
+    -81.922087,
+    29.840409,
+    -81.922087,
+    29.840409
+],
   "geometry": {"coordinates":[-81.922087,29.840409],"type":"Point"}
 }

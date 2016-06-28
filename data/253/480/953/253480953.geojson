@@ -2,13 +2,14 @@
   "id": 253480953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.758447,26.156189,-81.758447,26.156189",
     "geom:latitude":26.156189,
     "geom:longitude":-81.758447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4328 Corporate Sq",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253480953,
-    "wof:lastmodified":1449063791,
+    "wof:lastmodified":1466435289,
     "wof:name":"Attorneys Collection Svc",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.758447,26.156189,-81.758447,26.156189],
+  "bbox": [
+    -81.758447,
+    26.156189,
+    -81.758447,
+    26.156189
+],
   "geometry": {"coordinates":[-81.758447,26.156189],"type":"Point"}
 }

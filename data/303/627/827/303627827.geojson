@@ -2,13 +2,14 @@
   "id": 303627827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.663125,27.766562,-82.663125,27.766562",
     "geom:latitude":27.766562,
     "geom:longitude":-82.663125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 22nd St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303627827,
-    "wof:lastmodified":1449000618,
+    "wof:lastmodified":1466441329,
     "wof:name":"Pet Pal Rescue",
     "wof:parent_id":85880533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-82.663125,27.766562,-82.663125,27.766562],
-  "geometry": {"coordinates":[-82.663125,27.766562],"type":"Point"}
+  "bbox": [
+    -82.663125,
+    27.766562,
+    -82.663125,
+    27.766562
+],
+  "geometry": {"coordinates":[-82.66312499999999,27.766562],"type":"Point"}
 }

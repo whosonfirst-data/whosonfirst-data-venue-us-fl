@@ -2,13 +2,14 @@
   "id": 353878343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.490659,27.825543,-80.490659,27.825543",
     "geom:latitude":27.825543,
     "geom:longitude":-80.490659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12850 78th Ave",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353878343,
-    "wof:lastmodified":1449019596,
+    "wof:lastmodified":1466442138,
     "wof:name":"Charlie's Lawn & Sweeper Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.490659,27.825543,-80.490659,27.825543],
-  "geometry": {"coordinates":[-80.490659,27.825543],"type":"Point"}
+  "bbox": [
+    -80.490659,
+    27.825543,
+    -80.490659,
+    27.825543
+],
+  "geometry": {"coordinates":[-80.49065899999999,27.825543],"type":"Point"}
 }

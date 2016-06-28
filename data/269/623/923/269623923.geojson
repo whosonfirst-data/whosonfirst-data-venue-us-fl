@@ -2,13 +2,14 @@
   "id": 269623923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.284954,29.65195,-82.284954,29.65195",
     "geom:latitude":29.65195,
     "geom:longitude":-82.284954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 E University Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269623923,
-    "wof:lastmodified":1449037830,
+    "wof:lastmodified":1466431003,
     "wof:name":"US Wildlife Research",
     "wof:parent_id":85846489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-82.284954,29.65195,-82.284954,29.65195],
+  "bbox": [
+    -82.284954,
+    29.65195,
+    -82.284954,
+    29.65195
+],
   "geometry": {"coordinates":[-82.284954,29.65195],"type":"Point"}
 }

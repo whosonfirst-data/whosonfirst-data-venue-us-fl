@@ -2,13 +2,14 @@
   "id": 219405795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.99987,27.922603,-81.99987,27.922603",
     "geom:latitude":27.922603,
     "geom:longitude":-81.99987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3748 Sapphire Ln",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219405795,
-    "wof:lastmodified":1449073628,
+    "wof:lastmodified":1466430271,
     "wof:name":"Bob's Custom Carpentry",
     "wof:parent_id":85889207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-81.99987,27.922603,-81.99987,27.922603],
+  "bbox": [
+    -81.99987,
+    27.922603,
+    -81.99987,
+    27.922603
+],
   "geometry": {"coordinates":[-81.99987,27.922603],"type":"Point"}
 }

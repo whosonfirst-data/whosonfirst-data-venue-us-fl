@@ -2,13 +2,14 @@
   "id": 320299939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6715,30.324324,-81.6715,30.324324",
     "geom:latitude":30.324324,
     "geom:longitude":-81.6715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Stonewall St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320299939,
-    "wof:lastmodified":1449012210,
+    "wof:lastmodified":1466438509,
     "wof:name":"Exclamation Points",
     "wof:parent_id":85870689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-81.6715,30.324324,-81.6715,30.324324],
-  "geometry": {"coordinates":[-81.6715,30.324324],"type":"Point"}
+  "bbox": [
+    -81.6715,
+    30.324324,
+    -81.6715,
+    30.324324
+],
+  "geometry": {"coordinates":[-81.67149999999999,30.324324],"type":"Point"}
 }

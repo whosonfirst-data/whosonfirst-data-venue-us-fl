@@ -2,13 +2,14 @@
   "id": 403964167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241139,30.40262,-87.241139,30.40262",
     "geom:latitude":30.40262,
     "geom:longitude":-87.241139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1897 Cypress St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403964167,
-    "wof:lastmodified":1449055629,
+    "wof:lastmodified":1466443750,
     "wof:name":"Pensacola Yacht Club",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-87.241139,30.40262,-87.241139,30.40262],
+  "bbox": [
+    -87.241139,
+    30.40262,
+    -87.241139,
+    30.40262
+],
   "geometry": {"coordinates":[-87.241139,30.40262],"type":"Point"}
 }

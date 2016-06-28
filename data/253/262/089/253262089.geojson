@@ -2,13 +2,14 @@
   "id": 253262089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.32577,29.642228,-82.32577,29.642228",
     "geom:latitude":29.642228,
     "geom:longitude":-82.32577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 S Main St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253262089,
-    "wof:lastmodified":1449064645,
+    "wof:lastmodified":1466431619,
     "wof:name":"Kanapaha Highland Subdivisions",
     "wof:parent_id":85877641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-82.32577,29.642228,-82.32577,29.642228],
-  "geometry": {"coordinates":[-82.32577,29.642228],"type":"Point"}
+  "bbox": [
+    -82.32577,
+    29.642228,
+    -82.32577,
+    29.642228
+],
+  "geometry": {"coordinates":[-82.32577000000001,29.642228],"type":"Point"}
 }

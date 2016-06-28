@@ -2,13 +2,14 @@
   "id": 403794523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517199,27.279964,-82.517199,27.279964",
     "geom:latitude":27.279964,
     "geom:longitude":-82.517199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5187 Lords Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403794523,
-    "wof:lastmodified":1449055267,
+    "wof:lastmodified":1466441023,
     "wof:name":"John Dohertys Energy Sol",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.517199,27.279964,-82.517199,27.279964],
-  "geometry": {"coordinates":[-82.517199,27.279964],"type":"Point"}
+  "bbox": [
+    -82.517199,
+    27.279964,
+    -82.517199,
+    27.279964
+],
+  "geometry": {"coordinates":[-82.51719900000001,27.279964],"type":"Point"}
 }

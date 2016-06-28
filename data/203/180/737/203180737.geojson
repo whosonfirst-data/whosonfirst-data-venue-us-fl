@@ -2,13 +2,14 @@
   "id": 203180737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.761085,26.738857,-81.761085,26.738857",
     "geom:latitude":26.738857,
     "geom:longitude":-81.761085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18931 State Hwy 31",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203180737,
-    "wof:lastmodified":1449025029,
+    "wof:lastmodified":1466428651,
     "wof:name":"Waters Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.761085,26.738857,-81.761085,26.738857],
-  "geometry": {"coordinates":[-81.761085,26.738857],"type":"Point"}
+  "bbox": [
+    -81.761085,
+    26.738857,
+    -81.761085,
+    26.738857
+],
+  "geometry": {"coordinates":[-81.76108499999999,26.738857],"type":"Point"}
 }

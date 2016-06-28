@@ -2,13 +2,14 @@
   "id": 286934449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.148129,26.982127,-82.148129,26.982127",
     "geom:latitude":26.982127,
     "geom:longitude":-82.148129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18265 Poston Ave",
     "sg:city":"Port Charlotte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286934449,
-    "wof:lastmodified":1449015318,
+    "wof:lastmodified":1466441526,
     "wof:name":"Precision Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-82.148129,26.982127,-82.148129,26.982127],
+  "bbox": [
+    -82.148129,
+    26.982127,
+    -82.148129,
+    26.982127
+],
   "geometry": {"coordinates":[-82.148129,26.982127],"type":"Point"}
 }

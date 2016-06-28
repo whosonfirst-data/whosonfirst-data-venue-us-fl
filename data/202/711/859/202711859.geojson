@@ -2,13 +2,14 @@
   "id": 202711859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.571175,30.141507,-81.571175,30.141507",
     "geom:latitude":30.141507,
     "geom:longitude":-81.571175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5178 Pond View Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202711859,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466431135,
     "wof:name":"Adorn Movers",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-81.571175,30.141507,-81.571175,30.141507],
+  "bbox": [
+    -81.571175,
+    30.141507,
+    -81.571175,
+    30.141507
+],
   "geometry": {"coordinates":[-81.571175,30.141507],"type":"Point"}
 }

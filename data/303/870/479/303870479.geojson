@@ -2,13 +2,14 @@
   "id": 303870479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.279274,26.308989,-80.279274,26.308989",
     "geom:latitude":26.308989,
     "geom:longitude":-80.279274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11575 Heron Bay Blvd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303870479,
-    "wof:lastmodified":1448998755,
+    "wof:lastmodified":1466445531,
     "wof:name":"Austin & Payne",
     "wof:parent_id":85876887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.279274,26.308989,-80.279274,26.308989],
+  "bbox": [
+    -80.279274,
+    26.308989,
+    -80.279274,
+    26.308989
+],
   "geometry": {"coordinates":[-80.279274,26.308989],"type":"Point"}
 }

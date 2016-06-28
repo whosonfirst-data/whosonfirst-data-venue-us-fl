@@ -2,13 +2,14 @@
   "id": 320772283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253841,25.838593,-80.253841,25.838593",
     "geom:latitude":25.838593,
     "geom:longitude":-80.253841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7121 NW 35th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320772283,
-    "wof:lastmodified":1449012926,
+    "wof:lastmodified":1466446577,
     "wof:name":"My Family Cafeteria Corp",
     "wof:parent_id":85856921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.253841,25.838593,-80.253841,25.838593],
-  "geometry": {"coordinates":[-80.253841,25.838593],"type":"Point"}
+  "bbox": [
+    -80.253841,
+    25.838593,
+    -80.253841,
+    25.838593
+],
+  "geometry": {"coordinates":[-80.25384099999999,25.838593],"type":"Point"}
 }

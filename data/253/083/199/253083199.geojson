@@ -2,13 +2,14 @@
   "id": 253083199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.987833,27.876299,-80.987833,27.876299",
     "geom:latitude":27.876299,
     "geom:longitude":-80.987833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 S Kenansville Rd",
     "sg:city":"Kenansville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253083199,
-    "wof:lastmodified":1449064228,
+    "wof:lastmodified":1466429652,
     "wof:name":"Kenansville Country Store",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.987833,27.876299,-80.987833,27.876299],
-  "geometry": {"coordinates":[-80.987833,27.876299],"type":"Point"}
+  "bbox": [
+    -80.987833,
+    27.876299,
+    -80.987833,
+    27.876299
+],
+  "geometry": {"coordinates":[-80.98783299999999,27.876299],"type":"Point"}
 }

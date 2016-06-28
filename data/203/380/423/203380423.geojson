@@ -2,13 +2,14 @@
   "id": 203380423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.65312,30.438503,-86.65312,30.438503",
     "geom:latitude":30.438503,
     "geom:longitude":-86.65312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Laurel Dr",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203380423,
-    "wof:lastmodified":1449025796,
+    "wof:lastmodified":1466431162,
     "wof:name":"Hospital Plaza Florist",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.65312,30.438503,-86.65312,30.438503],
+  "bbox": [
+    -86.65312,
+    30.438503,
+    -86.65312,
+    30.438503
+],
   "geometry": {"coordinates":[-86.65312,30.438503],"type":"Point"}
 }

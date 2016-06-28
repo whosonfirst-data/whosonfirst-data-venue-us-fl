@@ -2,13 +2,14 @@
   "id": 387667601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.608506,27.833595,-82.608506,27.833595",
     "geom:latitude":27.833595,
     "geom:longitude":-82.608506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6527 Bayou Grande Blvd NE",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387667601,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1466448035,
     "wof:name":"Austin & Gunn Outfitters",
     "wof:parent_id":85880535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artifact"
     ]
 },
-  "bbox": [-82.608506,27.833595,-82.608506,27.833595],
-  "geometry": {"coordinates":[-82.608506,27.833595],"type":"Point"}
+  "bbox": [
+    -82.608506,
+    27.833595,
+    -82.608506,
+    27.833595
+],
+  "geometry": {"coordinates":[-82.60850600000001,27.833595],"type":"Point"}
 }

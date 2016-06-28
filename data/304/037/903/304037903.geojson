@@ -2,13 +2,14 @@
   "id": 304037903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121856,25.878051,-80.121856,25.878051",
     "geom:latitude":25.878051,
     "geom:longitude":-80.121856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9008 Collins Ave",
     "sg:city":"Surfside",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304037903,
-    "wof:lastmodified":1449044163,
+    "wof:lastmodified":1466432472,
     "wof:name":"Artlight Creations Inc",
     "wof:parent_id":85851629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lighting"
     ]
 },
-  "bbox": [-80.121856,25.878051,-80.121856,25.878051],
-  "geometry": {"coordinates":[-80.121856,25.878051],"type":"Point"}
+  "bbox": [
+    -80.121856,
+    25.878051,
+    -80.121856,
+    25.878051
+],
+  "geometry": {"coordinates":[-80.12185599999999,25.878051],"type":"Point"}
 }

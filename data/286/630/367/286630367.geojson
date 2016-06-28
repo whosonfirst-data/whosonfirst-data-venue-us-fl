@@ -2,13 +2,14 @@
   "id": 286630367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.268299,28.180915,-81.268299,28.180915",
     "geom:latitude":28.180915,
     "geom:longitude":-81.268299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4265 Deer Run Rd",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286630367,
-    "wof:lastmodified":1449016237,
+    "wof:lastmodified":1466436082,
     "wof:name":"Hitching Post Grocery",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.268299,28.180915,-81.268299,28.180915],
+  "bbox": [
+    -81.268299,
+    28.180915,
+    -81.268299,
+    28.180915
+],
   "geometry": {"coordinates":[-81.268299,28.180915],"type":"Point"}
 }

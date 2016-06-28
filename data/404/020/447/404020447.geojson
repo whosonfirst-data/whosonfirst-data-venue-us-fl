@@ -2,13 +2,14 @@
   "id": 404020447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.485161,28.014175,-82.485161,28.014175",
     "geom:latitude":28.014175,
     "geom:longitude":-82.485161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7109 N Armenia Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404020447,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1466440582,
     "wof:name":"Vascular Ultrasound Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-82.485161,28.014175,-82.485161,28.014175],
-  "geometry": {"coordinates":[-82.485161,28.014175],"type":"Point"}
+  "bbox": [
+    -82.485161,
+    28.014175,
+    -82.485161,
+    28.014175
+],
+  "geometry": {"coordinates":[-82.48516100000001,28.014175],"type":"Point"}
 }

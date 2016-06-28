@@ -2,13 +2,14 @@
   "id": 354363815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156658,26.026077,-80.156658,26.026077",
     "geom:latitude":26.026077,
     "geom:longitude":-80.156658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 Taft St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354363815,
-    "wof:lastmodified":1449067465,
+    "wof:lastmodified":1466441671,
     "wof:name":"Caribbean Produce",
     "wof:parent_id":85878177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-80.156658,26.026077,-80.156658,26.026077],
-  "geometry": {"coordinates":[-80.156658,26.026077],"type":"Point"}
+  "bbox": [
+    -80.156658,
+    26.026077,
+    -80.156658,
+    26.026077
+],
+  "geometry": {"coordinates":[-80.15665799999999,26.026077],"type":"Point"}
 }

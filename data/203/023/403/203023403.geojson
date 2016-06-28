@@ -2,13 +2,14 @@
   "id": 203023403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328613,26.125055,-80.328613,26.125055",
     "geom:latitude":26.125055,
     "geom:longitude":-80.328613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13481 NW 4th Ct",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203023403,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466441469,
     "wof:name":"Eastern Sound Company",
     "wof:parent_id":85833709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "circuit"
     ]
 },
-  "bbox": [-80.328613,26.125055,-80.328613,26.125055],
+  "bbox": [
+    -80.328613,
+    26.125055,
+    -80.328613,
+    26.125055
+],
   "geometry": {"coordinates":[-80.328613,26.125055],"type":"Point"}
 }

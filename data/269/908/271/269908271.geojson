@@ -2,13 +2,14 @@
   "id": 269908271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.010025,28.155049,-82.010025,28.155049",
     "geom:latitude":28.155049,
     "geom:longitude":-82.010025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8523 Cherry Hill Dr",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269908271,
-    "wof:lastmodified":1449037497,
+    "wof:lastmodified":1466435973,
     "wof:name":"S Snyder Air Conditioning",
     "wof:parent_id":85889013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.010025,28.155049,-82.010025,28.155049],
+  "bbox": [
+    -82.010025,
+    28.155049,
+    -82.010025,
+    28.155049
+],
   "geometry": {"coordinates":[-82.010025,28.155049],"type":"Point"}
 }

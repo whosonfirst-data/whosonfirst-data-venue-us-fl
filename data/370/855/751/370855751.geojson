@@ -2,13 +2,14 @@
   "id": 370855751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.304625,30.412604,-84.304625,30.412604",
     "geom:latitude":30.412604,
     "geom:longitude":-84.304625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 W Orange Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370855751,
-    "wof:lastmodified":1449031588,
+    "wof:lastmodified":1466446892,
     "wof:name":"Striker",
     "wof:parent_id":85881371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.304625,30.412604,-84.304625,30.412604],
+  "bbox": [
+    -84.304625,
+    30.412604,
+    -84.304625,
+    30.412604
+],
   "geometry": {"coordinates":[-84.304625,30.412604],"type":"Point"}
 }

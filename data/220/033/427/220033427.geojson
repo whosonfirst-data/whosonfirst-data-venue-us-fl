@@ -2,13 +2,14 @@
   "id": 220033427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280239,30.473094,-84.280239,30.473094",
     "geom:latitude":30.473094,
     "geom:longitude":-84.280239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Delta Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220033427,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466444438,
     "wof:name":"R B Oppenheim Associates",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-84.280239,30.473094,-84.280239,30.473094],
-  "geometry": {"coordinates":[-84.280239,30.473094],"type":"Point"}
+  "bbox": [
+    -84.280239,
+    30.473094,
+    -84.280239,
+    30.473094
+],
+  "geometry": {"coordinates":[-84.28023899999999,30.473094],"type":"Point"}
 }

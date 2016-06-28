@@ -2,13 +2,14 @@
   "id": 253605091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.20116,28.538456,-81.20116,28.538456",
     "geom:latitude":28.538456,
     "geom:longitude":-81.20116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12544 Boggs Way",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253605091,
-    "wof:lastmodified":1449064254,
+    "wof:lastmodified":1466437502,
     "wof:name":"Natures Way of Central FL",
     "wof:parent_id":85889317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-81.20116,28.538456,-81.20116,28.538456],
+  "bbox": [
+    -81.20116,
+    28.538456,
+    -81.20116,
+    28.538456
+],
   "geometry": {"coordinates":[-81.20116,28.538456],"type":"Point"}
 }

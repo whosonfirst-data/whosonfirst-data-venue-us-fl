@@ -2,13 +2,14 @@
   "id": 303794173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.485937,28.486383,-81.485937,28.486383",
     "geom:latitude":28.486383,
     "geom:longitude":-81.485937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5613 Baybrook Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303794173,
-    "wof:lastmodified":1448999292,
+    "wof:lastmodified":1466444211,
     "wof:name":"Doodlebug Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "house"
     ]
 },
-  "bbox": [-81.485937,28.486383,-81.485937,28.486383],
-  "geometry": {"coordinates":[-81.485937,28.486383],"type":"Point"}
+  "bbox": [
+    -81.485937,
+    28.486383,
+    -81.485937,
+    28.486383
+],
+  "geometry": {"coordinates":[-81.48593700000001,28.486383],"type":"Point"}
 }

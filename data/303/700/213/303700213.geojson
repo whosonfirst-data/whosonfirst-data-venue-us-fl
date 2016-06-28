@@ -2,13 +2,14 @@
   "id": 303700213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.582101,27.474207,-82.582101,27.474207",
     "geom:latitude":27.474207,
     "geom:longitude":-82.582101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2039 29th Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303700213,
-    "wof:lastmodified":1449000351,
+    "wof:lastmodified":1466442624,
     "wof:name":"John S Liner Rev",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.582101,27.474207,-82.582101,27.474207],
-  "geometry": {"coordinates":[-82.582101,27.474207],"type":"Point"}
+  "bbox": [
+    -82.582101,
+    27.474207,
+    -82.582101,
+    27.474207
+],
+  "geometry": {"coordinates":[-82.58210099999999,27.474207],"type":"Point"}
 }

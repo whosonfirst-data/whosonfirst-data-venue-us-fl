@@ -2,13 +2,14 @@
   "id": 303672151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.63805,30.340146,-81.63805,30.340146",
     "geom:latitude":30.340146,
     "geom:longitude":-81.63805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Bridier St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303672151,
-    "wof:lastmodified":1448998273,
+    "wof:lastmodified":1466442105,
     "wof:name":"Teresa's Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.63805,30.340146,-81.63805,30.340146],
-  "geometry": {"coordinates":[-81.63805,30.340146],"type":"Point"}
+  "bbox": [
+    -81.63805,
+    30.340146,
+    -81.63805,
+    30.340146
+],
+  "geometry": {"coordinates":[-81.63805000000001,30.340146],"type":"Point"}
 }

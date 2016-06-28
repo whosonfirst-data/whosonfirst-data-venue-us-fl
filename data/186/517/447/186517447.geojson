@@ -2,13 +2,14 @@
   "id": 186517447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.129111,30.555995,-84.129111,30.555995",
     "geom:latitude":30.555995,
     "geom:longitude":-84.129111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9039 Deep Well Trl",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186517447,
-    "wof:lastmodified":1449051915,
+    "wof:lastmodified":1466433033,
     "wof:name":"Westbrook Project Management",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.129111,30.555995,-84.129111,30.555995],
-  "geometry": {"coordinates":[-84.129111,30.555995],"type":"Point"}
+  "bbox": [
+    -84.129111,
+    30.555995,
+    -84.129111,
+    30.555995
+],
+  "geometry": {"coordinates":[-84.12911099999999,30.555995],"type":"Point"}
 }

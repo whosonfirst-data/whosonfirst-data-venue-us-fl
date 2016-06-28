@@ -2,13 +2,14 @@
   "id": 387034467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.643611,30.326047,-81.643611,30.326047",
     "geom:latitude":30.326047,
     "geom:longitude":-81.643611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 A Philip Randolph Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387034467,
-    "wof:lastmodified":1449056535,
+    "wof:lastmodified":1466439235,
     "wof:name":"Jacksonville Memorial Coliseum",
     "wof:parent_id":85888931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.643611,30.326047,-81.643611,30.326047],
-  "geometry": {"coordinates":[-81.643611,30.326047],"type":"Point"}
+  "bbox": [
+    -81.643611,
+    30.326047,
+    -81.643611,
+    30.326047
+],
+  "geometry": {"coordinates":[-81.64361100000001,30.326047],"type":"Point"}
 }

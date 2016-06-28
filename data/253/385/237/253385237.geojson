@@ -2,13 +2,14 @@
   "id": 253385237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.286634,26.181849,-80.286634,26.181849",
     "geom:latitude":26.181849,
     "geom:longitude":-80.286634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10161 NW 46th St",
     "sg:city":"Sunrise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253385237,
-    "wof:lastmodified":1449064570,
+    "wof:lastmodified":1466433607,
     "wof:name":"Bit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shipping"
     ]
 },
-  "bbox": [-80.286634,26.181849,-80.286634,26.181849],
-  "geometry": {"coordinates":[-80.286634,26.181849],"type":"Point"}
+  "bbox": [
+    -80.286634,
+    26.181849,
+    -80.286634,
+    26.181849
+],
+  "geometry": {"coordinates":[-80.28663400000001,26.181849],"type":"Point"}
 }

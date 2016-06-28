@@ -2,13 +2,14 @@
   "id": 303169803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300447,25.695528,-80.300447,25.695528",
     "geom:latitude":25.695528,
     "geom:longitude":-80.300447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6619 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303169803,
-    "wof:lastmodified":1448999629,
+    "wof:lastmodified":1466433458,
     "wof:name":"Engineered Mechanical Svc",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.300447,25.695528,-80.300447,25.695528],
-  "geometry": {"coordinates":[-80.300447,25.695528],"type":"Point"}
+  "bbox": [
+    -80.300447,
+    25.695528,
+    -80.300447,
+    25.695528
+],
+  "geometry": {"coordinates":[-80.30044700000001,25.695528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370861679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.329411,29.09165,-81.329411,29.09165",
     "geom:latitude":29.09165,
     "geom:longitude":-81.329411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 N US Hwy 17",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370861679,
-    "wof:lastmodified":1449032443,
+    "wof:lastmodified":1466447221,
     "wof:name":"Savannah's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "night"
     ]
 },
-  "bbox": [-81.329411,29.09165,-81.329411,29.09165],
-  "geometry": {"coordinates":[-81.329411,29.09165],"type":"Point"}
+  "bbox": [
+    -81.329411,
+    29.09165,
+    -81.329411,
+    29.09165
+],
+  "geometry": {"coordinates":[-81.32941099999999,29.09165],"type":"Point"}
 }

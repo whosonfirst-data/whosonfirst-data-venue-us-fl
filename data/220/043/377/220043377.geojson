@@ -2,13 +2,14 @@
   "id": 220043377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.42601,25.68004,-80.42601,25.68004",
     "geom:latitude":25.68004,
     "geom:longitude":-80.42601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9530 SW 143rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220043377,
-    "wof:lastmodified":1449074644,
+    "wof:lastmodified":1466444638,
     "wof:name":"Dac Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.42601,25.68004,-80.42601,25.68004],
-  "geometry": {"coordinates":[-80.42601,25.68004],"type":"Point"}
+  "bbox": [
+    -80.42601,
+    25.68004,
+    -80.42601,
+    25.68004
+],
+  "geometry": {"coordinates":[-80.42601000000001,25.68004],"type":"Point"}
 }

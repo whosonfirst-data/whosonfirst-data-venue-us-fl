@@ -2,13 +2,14 @@
   "id": 220182145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.292572,25.963399,-80.292572,25.963399",
     "geom:latitude":25.963399,
     "geom:longitude":-80.292572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 NW 206th Ter",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220182145,
-    "wof:lastmodified":1449074564,
+    "wof:lastmodified":1466429329,
     "wof:name":"C & O Cargo",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.292572,25.963399,-80.292572,25.963399],
-  "geometry": {"coordinates":[-80.292572,25.963399],"type":"Point"}
+  "bbox": [
+    -80.292572,
+    25.963399,
+    -80.292572,
+    25.963399
+],
+  "geometry": {"coordinates":[-80.29257200000001,25.963399],"type":"Point"}
 }

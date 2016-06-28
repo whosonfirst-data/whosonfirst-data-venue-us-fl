@@ -2,13 +2,14 @@
   "id": 303099353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.665056,30.373125,-81.665056,30.373125",
     "geom:latitude":30.373125,
     "geom:longitude":-81.665056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5523 Norwood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303099353,
-    "wof:lastmodified":1448999709,
+    "wof:lastmodified":1466432206,
     "wof:name":"Jax City Motors Inc",
     "wof:parent_id":85838513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-81.665056,30.373125,-81.665056,30.373125],
-  "geometry": {"coordinates":[-81.665056,30.373125],"type":"Point"}
+  "bbox": [
+    -81.665056,
+    30.373125,
+    -81.665056,
+    30.373125
+],
+  "geometry": {"coordinates":[-81.66505600000001,30.373125],"type":"Point"}
 }

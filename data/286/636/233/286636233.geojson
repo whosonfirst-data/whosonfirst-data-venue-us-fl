@@ -2,13 +2,14 @@
   "id": 286636233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.77905,26.665177,-81.77905,26.665177",
     "geom:latitude":26.665177,
     "geom:longitude":-81.77905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5460 Carter Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286636233,
-    "wof:lastmodified":1449016352,
+    "wof:lastmodified":1466436189,
     "wof:name":"Frame A Stock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-81.77905,26.665177,-81.77905,26.665177],
+  "bbox": [
+    -81.77905,
+    26.665177,
+    -81.77905,
+    26.665177
+],
   "geometry": {"coordinates":[-81.77905,26.665177],"type":"Point"}
 }

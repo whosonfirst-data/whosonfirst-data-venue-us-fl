@@ -2,13 +2,14 @@
   "id": 303572849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087487,26.417566,-80.087487,26.417566",
     "geom:latitude":26.417566,
     "geom:longitude":-80.087487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7555 W Country Club Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303572849,
-    "wof:lastmodified":1448999616,
+    "wof:lastmodified":1466440404,
     "wof:name":"One Link",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.087487,26.417566,-80.087487,26.417566],
+  "bbox": [
+    -80.087487,
+    26.417566,
+    -80.087487,
+    26.417566
+],
   "geometry": {"coordinates":[-80.087487,26.417566],"type":"Point"}
 }

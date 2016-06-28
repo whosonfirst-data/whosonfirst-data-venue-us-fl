@@ -2,13 +2,14 @@
   "id": 202404353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125109,25.843975,-80.125109,25.843975",
     "geom:latitude":25.843975,
     "geom:longitude":-80.125109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 W 63rd St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202404353,
-    "wof:lastmodified":1449061771,
+    "wof:lastmodified":1466443147,
     "wof:name":"Miami Heart Institute N Campus",
     "wof:parent_id":85882057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.125109,25.843975,-80.125109,25.843975],
-  "geometry": {"coordinates":[-80.125109,25.843975],"type":"Point"}
+  "bbox": [
+    -80.125109,
+    25.843975,
+    -80.125109,
+    25.843975
+],
+  "geometry": {"coordinates":[-80.12510899999999,25.843975],"type":"Point"}
 }

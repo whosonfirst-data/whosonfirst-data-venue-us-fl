@@ -2,13 +2,14 @@
   "id": 303234907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.39042,30.266959,-81.39042,30.266959",
     "geom:latitude":30.266959,
     "geom:longitude":-81.39042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 Isabella Blvd",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303234907,
-    "wof:lastmodified":1449000432,
+    "wof:lastmodified":1466434590,
     "wof:name":"Schneider Eye Ctr",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.39042,30.266959,-81.39042,30.266959],
-  "geometry": {"coordinates":[-81.39042,30.266959],"type":"Point"}
+  "bbox": [
+    -81.39042,
+    30.266959,
+    -81.39042,
+    30.266959
+],
+  "geometry": {"coordinates":[-81.39042000000001,30.266959],"type":"Point"}
 }

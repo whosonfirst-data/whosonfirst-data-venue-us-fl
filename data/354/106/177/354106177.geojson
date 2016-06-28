@@ -2,13 +2,14 @@
   "id": 354106177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.700217,27.854573,-82.700217,27.854573",
     "geom:latitude":27.854573,
     "geom:longitude":-82.700217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8980 49th St N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354106177,
-    "wof:lastmodified":1449065910,
+    "wof:lastmodified":1466437723,
     "wof:name":"Park Place Of Pinellas Park",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "residential"
     ]
 },
-  "bbox": [-82.700217,27.854573,-82.700217,27.854573],
-  "geometry": {"coordinates":[-82.700217,27.854573],"type":"Point"}
+  "bbox": [
+    -82.700217,
+    27.854573,
+    -82.700217,
+    27.854573
+],
+  "geometry": {"coordinates":[-82.70021699999999,27.854573],"type":"Point"}
 }

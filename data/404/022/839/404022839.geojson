@@ -2,13 +2,14 @@
   "id": 404022839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255077,25.763001,-80.255077,25.763001",
     "geom:latitude":25.763001,
     "geom:longitude":-80.255077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Douglas Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404022839,
-    "wof:lastmodified":1449039416,
+    "wof:lastmodified":1466440616,
     "wof:name":"Coca-Cola",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-80.255077,25.763001,-80.255077,25.763001],
+  "bbox": [
+    -80.255077,
+    25.763001,
+    -80.255077,
+    25.763001
+],
   "geometry": {"coordinates":[-80.255077,25.763001],"type":"Point"}
 }

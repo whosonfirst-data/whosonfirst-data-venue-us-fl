@@ -2,13 +2,14 @@
   "id": 370554135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317076,27.313908,-80.317076,27.313908",
     "geom:latitude":27.313908,
     "geom:longitude":-80.317076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8245 Bus Park Dr",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370554135,
-    "wof:lastmodified":1449029790,
+    "wof:lastmodified":1466442673,
     "wof:name":"Time Temperature & Weather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forecast"
     ]
 },
-  "bbox": [-80.317076,27.313908,-80.317076,27.313908],
+  "bbox": [
+    -80.317076,
+    27.313908,
+    -80.317076,
+    27.313908
+],
   "geometry": {"coordinates":[-80.317076,27.313908],"type":"Point"}
 }

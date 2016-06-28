@@ -2,13 +2,14 @@
   "id": 185608141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.77675,27.775898,-82.77675,27.775898",
     "geom:latitude":27.775898,
     "geom:longitude":-82.77675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11860 Gulf Blvd",
     "sg:city":"Treasure Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185608141,
-    "wof:lastmodified":1449007296,
+    "wof:lastmodified":1466439491,
     "wof:name":"Voyager Beach Club",
     "wof:parent_id":85851605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-82.77675,27.775898,-82.77675,27.775898],
-  "geometry": {"coordinates":[-82.77675,27.775898],"type":"Point"}
+  "bbox": [
+    -82.77675,
+    27.775898,
+    -82.77675,
+    27.775898
+],
+  "geometry": {"coordinates":[-82.77675000000001,27.775898],"type":"Point"}
 }

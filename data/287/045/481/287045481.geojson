@@ -2,13 +2,14 @@
   "id": 287045481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.517925,30.324579,-81.517925,30.324579",
     "geom:latitude":30.324579,
     "geom:longitude":-81.517925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Mindanao Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287045481,
-    "wof:lastmodified":1449001477,
+    "wof:lastmodified":1466430601,
     "wof:name":"Johnson Housing",
     "wof:parent_id":85846989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-81.517925,30.324579,-81.517925,30.324579],
-  "geometry": {"coordinates":[-81.517925,30.324579],"type":"Point"}
+  "bbox": [
+    -81.517925,
+    30.324579,
+    -81.517925,
+    30.324579
+],
+  "geometry": {"coordinates":[-81.51792500000001,30.324579],"type":"Point"}
 }

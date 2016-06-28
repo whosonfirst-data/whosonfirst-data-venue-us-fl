@@ -2,13 +2,14 @@
   "id": 320784001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.357899,28.697748,-81.357899,28.697748",
     "geom:latitude":28.697748,
     "geom:longitude":-81.357899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 W State Rd 434",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320784001,
-    "wof:lastmodified":1449013763,
+    "wof:lastmodified":1466447054,
     "wof:name":"Bob's Window Tinting",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-81.357899,28.697748,-81.357899,28.697748],
+  "bbox": [
+    -81.357899,
+    28.697748,
+    -81.357899,
+    28.697748
+],
   "geometry": {"coordinates":[-81.357899,28.697748],"type":"Point"}
 }

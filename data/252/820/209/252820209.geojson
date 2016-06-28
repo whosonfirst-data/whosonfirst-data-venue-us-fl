@@ -2,13 +2,14 @@
   "id": 252820209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.63105,26.863617,-80.63105,26.863617",
     "geom:latitude":26.863617,
     "geom:longitude":-80.63105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12570 N Canal St",
     "sg:city":"Canal Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252820209,
-    "wof:lastmodified":1449005986,
+    "wof:lastmodified":1466430056,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.63105,26.863617,-80.63105,26.863617],
+  "bbox": [
+    -80.63105,
+    26.863617,
+    -80.63105,
+    26.863617
+],
   "geometry": {"coordinates":[-80.63105,26.863617],"type":"Point"}
 }

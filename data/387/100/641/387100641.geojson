@@ -2,13 +2,14 @@
   "id": 387100641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.380918,29.152923,-82.380918,29.152923",
     "geom:latitude":29.152923,
     "geom:longitude":-82.380918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15800 SW 36 St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387100641,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1466440243,
     "wof:name":"Te Redmond Trucking Inc",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.380918,29.152923,-82.380918,29.152923],
-  "geometry": {"coordinates":[-82.380918,29.152923],"type":"Point"}
+  "bbox": [
+    -82.380918,
+    29.152923,
+    -82.380918,
+    29.152923
+],
+  "geometry": {"coordinates":[-82.38091799999999,29.152923],"type":"Point"}
 }

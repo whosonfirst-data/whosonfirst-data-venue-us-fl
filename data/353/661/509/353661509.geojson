@@ -2,13 +2,14 @@
   "id": 353661509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.678586,30.312433,-81.678586,30.312433",
     "geom:latitude":30.312433,
     "geom:longitude":-81.678586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Riverside Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353661509,
-    "wof:lastmodified":1449020531,
+    "wof:lastmodified":1466438761,
     "wof:name":"Frazier & Frazier",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.678586,30.312433,-81.678586,30.312433],
+  "bbox": [
+    -81.678586,
+    30.312433,
+    -81.678586,
+    30.312433
+],
   "geometry": {"coordinates":[-81.678586,30.312433],"type":"Point"}
 }

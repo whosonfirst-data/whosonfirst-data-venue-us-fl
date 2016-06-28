@@ -2,13 +2,14 @@
   "id": 270504517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.280711,25.758335,-80.280711,25.758335",
     "geom:latitude":25.758335,
     "geom:longitude":-80.280711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Genoa St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":270504517,
-    "wof:lastmodified":1449009068,
+    "wof:lastmodified":1466438100,
     "wof:name":"Wilderness Air & Land Trnspt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-80.280711,25.758335,-80.280711,25.758335],
+  "bbox": [
+    -80.280711,
+    25.758335,
+    -80.280711,
+    25.758335
+],
   "geometry": {"coordinates":[-80.280711,25.758335],"type":"Point"}
 }

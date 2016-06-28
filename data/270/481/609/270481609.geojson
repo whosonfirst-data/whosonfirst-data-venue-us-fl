@@ -2,13 +2,14 @@
   "id": 270481609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.626612,28.117394,-80.626612,28.117394",
     "geom:latitude":28.117394,
     "geom:longitude":-80.626612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N Harbor City Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270481609,
-    "wof:lastmodified":1449010773,
+    "wof:lastmodified":1466437697,
     "wof:name":"Mcwilliams Realty",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.626612,28.117394,-80.626612,28.117394],
-  "geometry": {"coordinates":[-80.626612,28.117394],"type":"Point"}
+  "bbox": [
+    -80.626612,
+    28.117394,
+    -80.626612,
+    28.117394
+],
+  "geometry": {"coordinates":[-80.62661199999999,28.117394],"type":"Point"}
 }

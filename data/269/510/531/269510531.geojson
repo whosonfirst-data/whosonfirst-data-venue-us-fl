@@ -2,13 +2,14 @@
   "id": 269510531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64976,27.828579,-82.64976,27.828579",
     "geom:latitude":27.828579,
     "geom:longitude":-82.64976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 62nd Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269510531,
-    "wof:lastmodified":1449037599,
+    "wof:lastmodified":1466428962,
     "wof:name":"Coast Dental Svc Inc",
     "wof:parent_id":85880551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.64976,27.828579,-82.64976,27.828579],
+  "bbox": [
+    -82.64976,
+    27.828579,
+    -82.64976,
+    27.828579
+],
   "geometry": {"coordinates":[-82.64976,27.828579],"type":"Point"}
 }

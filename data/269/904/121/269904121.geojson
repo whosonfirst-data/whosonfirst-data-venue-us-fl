@@ -2,13 +2,14 @@
   "id": 269904121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.658076,27.781034,-82.658076,27.781034",
     "geom:latitude":27.781034,
     "geom:longitude":-82.658076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1744 9th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269904121,
-    "wof:lastmodified":1449039041,
+    "wof:lastmodified":1466435893,
     "wof:name":"St Petersburg Transportation",
     "wof:parent_id":85868435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-82.658076,27.781034,-82.658076,27.781034],
-  "geometry": {"coordinates":[-82.658076,27.781034],"type":"Point"}
+  "bbox": [
+    -82.658076,
+    27.781034,
+    -82.658076,
+    27.781034
+],
+  "geometry": {"coordinates":[-82.65807599999999,27.781034],"type":"Point"}
 }

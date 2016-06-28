@@ -2,13 +2,14 @@
   "id": 303111263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288895,29.853362,-81.288895,29.853362",
     "geom:latitude":29.853362,
     "geom:longitude":-81.288895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Compass Row",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303111263,
-    "wof:lastmodified":1449000649,
+    "wof:lastmodified":1466432420,
     "wof:name":"Steve Poulos DDS",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.288895,29.853362,-81.288895,29.853362],
+  "bbox": [
+    -81.288895,
+    29.853362,
+    -81.288895,
+    29.853362
+],
   "geometry": {"coordinates":[-81.288895,29.853362],"type":"Point"}
 }

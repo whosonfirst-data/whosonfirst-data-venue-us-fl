@@ -2,13 +2,14 @@
   "id": 303777777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813386,26.190261,-81.813386,26.190261",
     "geom:latitude":26.190261,
     "geom:longitude":-81.813386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303777777,
-    "wof:lastmodified":1448999412,
+    "wof:lastmodified":1466443931,
     "wof:name":"H T Chittum & Co",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-81.813386,26.190261,-81.813386,26.190261],
-  "geometry": {"coordinates":[-81.813386,26.190261],"type":"Point"}
+  "bbox": [
+    -81.813386,
+    26.190261,
+    -81.813386,
+    26.190261
+],
+  "geometry": {"coordinates":[-81.81338599999999,26.190261],"type":"Point"}
 }

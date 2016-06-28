@@ -2,13 +2,14 @@
   "id": 287086135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527639,27.496001,-82.527639,27.496001",
     "geom:latitude":27.496001,
     "geom:longitude":-82.527639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Manatee Ave E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287086135,
-    "wof:lastmodified":1449001279,
+    "wof:lastmodified":1466431354,
     "wof:name":"Two Rivers Park",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "park"
     ]
 },
-  "bbox": [-82.527639,27.496001,-82.527639,27.496001],
-  "geometry": {"coordinates":[-82.527639,27.496001],"type":"Point"}
+  "bbox": [
+    -82.527639,
+    27.496001,
+    -82.527639,
+    27.496001
+],
+  "geometry": {"coordinates":[-82.52763899999999,27.496001],"type":"Point"}
 }

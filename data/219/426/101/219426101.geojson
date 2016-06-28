@@ -2,13 +2,14 @@
   "id": 219426101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.300288,28.243307,-81.300288,28.243307",
     "geom:latitude":28.243307,
     "geom:longitude":-81.300288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Montana Ave",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219426101,
-    "wof:lastmodified":1449071150,
+    "wof:lastmodified":1466430541,
     "wof:name":"Creative Tinting Inc",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.300288,28.243307,-81.300288,28.243307],
-  "geometry": {"coordinates":[-81.300288,28.243307],"type":"Point"}
+  "bbox": [
+    -81.300288,
+    28.243307,
+    -81.300288,
+    28.243307
+],
+  "geometry": {"coordinates":[-81.30028799999999,28.243307],"type":"Point"}
 }

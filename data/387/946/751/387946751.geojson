@@ -2,13 +2,14 @@
   "id": 387946751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430737,28.578166,-81.430737,28.578166",
     "geom:latitude":28.578166,
     "geom:longitude":-81.430737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2669 Mercy Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387946751,
-    "wof:lastmodified":1449059459,
+    "wof:lastmodified":1466449930,
     "wof:name":"Pond & Lake Control Inc",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weed"
     ]
 },
-  "bbox": [-81.430737,28.578166,-81.430737,28.578166],
-  "geometry": {"coordinates":[-81.430737,28.578166],"type":"Point"}
+  "bbox": [
+    -81.430737,
+    28.578166,
+    -81.430737,
+    28.578166
+],
+  "geometry": {"coordinates":[-81.43073699999999,28.578166],"type":"Point"}
 }

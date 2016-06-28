@@ -2,13 +2,14 @@
   "id": 269494215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.376187,28.502445,-81.376187,28.502445",
     "geom:latitude":28.502445,
     "geom:longitude":-81.376187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269494215,
-    "wof:lastmodified":1449038713,
+    "wof:lastmodified":1466428669,
     "wof:name":"Primary Care Specialists",
     "wof:parent_id":85889383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.376187,28.502445,-81.376187,28.502445],
+  "bbox": [
+    -81.376187,
+    28.502445,
+    -81.376187,
+    28.502445
+],
   "geometry": {"coordinates":[-81.376187,28.502445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303614497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731976,28.802205,-81.731976,28.802205",
     "geom:latitude":28.802205,
     "geom:longitude":-81.731976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Main St",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303614497,
-    "wof:lastmodified":1449000637,
+    "wof:lastmodified":1466441100,
     "wof:name":"Facilities Management",
     "wof:parent_id":85889837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.731976,28.802205,-81.731976,28.802205],
+  "bbox": [
+    -81.731976,
+    28.802205,
+    -81.731976,
+    28.802205
+],
   "geometry": {"coordinates":[-81.731976,28.802205],"type":"Point"}
 }

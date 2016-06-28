@@ -2,13 +2,14 @@
   "id": 202514741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458171,28.575676,-81.458171,28.575676",
     "geom:latitude":28.575676,
     "geom:longitude":-81.458171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 Pine Chase Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202514741,
-    "wof:lastmodified":1449061395,
+    "wof:lastmodified":1466428545,
     "wof:name":"Silver Pines Apartments",
     "wof:parent_id":85879529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.458171,28.575676,-81.458171,28.575676],
-  "geometry": {"coordinates":[-81.458171,28.575676],"type":"Point"}
+  "bbox": [
+    -81.458171,
+    28.575676,
+    -81.458171,
+    28.575676
+],
+  "geometry": {"coordinates":[-81.45817099999999,28.575676],"type":"Point"}
 }

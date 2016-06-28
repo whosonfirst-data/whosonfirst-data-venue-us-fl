@@ -2,13 +2,14 @@
   "id": 286808077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.282305,29.000448,-82.282305,29.000448",
     "geom:latitude":29.000448,
     "geom:longitude":-82.282305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 SW 152nd Pl",
     "sg:city":"Dunnellon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286808077,
-    "wof:lastmodified":1449015306,
+    "wof:lastmodified":1466439243,
     "wof:name":"Kenneth W Steinhorst Tree",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.282305,29.000448,-82.282305,29.000448],
-  "geometry": {"coordinates":[-82.282305,29.000448],"type":"Point"}
+  "bbox": [
+    -82.282305,
+    29.000448,
+    -82.282305,
+    29.000448
+],
+  "geometry": {"coordinates":[-82.28230499999999,29.000448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336596159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.350991,28.59921,-81.350991,28.59921",
     "geom:latitude":28.59921,
     "geom:longitude":-81.350991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 N Park Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336596159,
-    "wof:lastmodified":1448997506,
+    "wof:lastmodified":1466434914,
     "wof:name":"Caswell Massey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "item"
     ]
 },
-  "bbox": [-81.350991,28.59921,-81.350991,28.59921],
-  "geometry": {"coordinates":[-81.350991,28.59921],"type":"Point"}
+  "bbox": [
+    -81.350991,
+    28.59921,
+    -81.350991,
+    28.59921
+],
+  "geometry": {"coordinates":[-81.35099099999999,28.59921],"type":"Point"}
 }

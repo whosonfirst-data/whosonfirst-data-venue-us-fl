@@ -2,13 +2,14 @@
   "id": 219414315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.891593,26.681882,-81.891593,26.681882",
     "geom:latitude":26.681882,
     "geom:longitude":-81.891593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Pine Island Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219414315,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466430385,
     "wof:name":"Johnson Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-81.891593,26.681882,-81.891593,26.681882],
+  "bbox": [
+    -81.891593,
+    26.681882,
+    -81.891593,
+    26.681882
+],
   "geometry": {"coordinates":[-81.891593,26.681882],"type":"Point"}
 }

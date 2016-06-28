@@ -2,13 +2,14 @@
   "id": 387601607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.229469,30.430626,-87.229469,30.430626",
     "geom:latitude":30.430626,
     "geom:longitude":-87.229469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Avery St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387601607,
-    "wof:lastmodified":1449057805,
+    "wof:lastmodified":1466447266,
     "wof:name":"W Ian Rogers MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-87.229469,30.430626,-87.229469,30.430626],
-  "geometry": {"coordinates":[-87.229469,30.430626],"type":"Point"}
+  "bbox": [
+    -87.229469,
+    30.430626,
+    -87.229469,
+    30.430626
+],
+  "geometry": {"coordinates":[-87.22946899999999,30.430626],"type":"Point"}
 }

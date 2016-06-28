@@ -2,13 +2,14 @@
   "id": 236204015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13863,26.177351,-80.13863,26.177351",
     "geom:latitude":26.177351,
     "geom:longitude":-80.13863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 NE 6th Ave",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236204015,
-    "wof:lastmodified":1449005367,
+    "wof:lastmodified":1466431281,
     "wof:name":"Coverall Home Inspection",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.13863,26.177351,-80.13863,26.177351],
-  "geometry": {"coordinates":[-80.13863,26.177351],"type":"Point"}
+  "bbox": [
+    -80.13863,
+    26.177351,
+    -80.13863,
+    26.177351
+],
+  "geometry": {"coordinates":[-80.13863000000001,26.177351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303610975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.951906,28.123614,-81.951906,28.123614",
     "geom:latitude":28.123614,
     "geom:longitude":-81.951906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Padgett Pl S",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303610975,
-    "wof:lastmodified":1449000527,
+    "wof:lastmodified":1466441037,
     "wof:name":"Special Pet A",
     "wof:parent_id":85889049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.951906,28.123614,-81.951906,28.123614],
-  "geometry": {"coordinates":[-81.951906,28.123614],"type":"Point"}
+  "bbox": [
+    -81.951906,
+    28.123614,
+    -81.951906,
+    28.123614
+],
+  "geometry": {"coordinates":[-81.95190599999999,28.123614],"type":"Point"}
 }

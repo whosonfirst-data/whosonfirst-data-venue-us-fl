@@ -2,13 +2,14 @@
   "id": 320173185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.115531,26.347245,-80.115531,26.347245",
     "geom:latitude":26.347245,
     "geom:longitude":-80.115531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 SW 2nd St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320173185,
-    "wof:lastmodified":1449011978,
+    "wof:lastmodified":1466436352,
     "wof:name":"Crystal Clear",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-80.115531,26.347245,-80.115531,26.347245],
+  "bbox": [
+    -80.115531,
+    26.347245,
+    -80.115531,
+    26.347245
+],
   "geometry": {"coordinates":[-80.115531,26.347245],"type":"Point"}
 }

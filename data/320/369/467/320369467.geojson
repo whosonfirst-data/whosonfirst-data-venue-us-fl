@@ -2,13 +2,14 @@
   "id": 320369467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.558686,30.30201,-81.558686,30.30201",
     "geom:latitude":30.30201,
     "geom:longitude":-81.558686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Southside Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320369467,
-    "wof:lastmodified":1449014772,
+    "wof:lastmodified":1466439723,
     "wof:name":"Peace Presbyterian Church",
     "wof:parent_id":85804135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-81.558686,30.30201,-81.558686,30.30201],
-  "geometry": {"coordinates":[-81.558686,30.30201],"type":"Point"}
+  "bbox": [
+    -81.558686,
+    30.30201,
+    -81.558686,
+    30.30201
+],
+  "geometry": {"coordinates":[-81.55868599999999,30.30201],"type":"Point"}
 }

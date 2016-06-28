@@ -2,13 +2,14 @@
   "id": 370766471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.626145,30.494457,-81.626145,30.494457",
     "geom:latitude":30.494457,
     "geom:longitude":-81.626145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 Hyatt Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370766471,
-    "wof:lastmodified":1449029020,
+    "wof:lastmodified":1466445944,
     "wof:name":"Main St Piano Gallery",
     "wof:parent_id":85888921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.626145,30.494457,-81.626145,30.494457],
-  "geometry": {"coordinates":[-81.626145,30.494457],"type":"Point"}
+  "bbox": [
+    -81.626145,
+    30.494457,
+    -81.626145,
+    30.494457
+],
+  "geometry": {"coordinates":[-81.62614499999999,30.494457],"type":"Point"}
 }

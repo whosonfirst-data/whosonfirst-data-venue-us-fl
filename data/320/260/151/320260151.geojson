@@ -2,13 +2,14 @@
   "id": 320260151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.218359,25.944064,-80.218359,25.944064",
     "geom:latitude":25.944064,
     "geom:longitude":-80.218359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 NW 185th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320260151,
-    "wof:lastmodified":1449011882,
+    "wof:lastmodified":1466437847,
     "wof:name":"Reid Lawn Service Inc",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-80.218359,25.944064,-80.218359,25.944064],
-  "geometry": {"coordinates":[-80.218359,25.944064],"type":"Point"}
+  "bbox": [
+    -80.218359,
+    25.944064,
+    -80.218359,
+    25.944064
+],
+  "geometry": {"coordinates":[-80.21835900000001,25.944064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203177069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.740181,27.724851,-82.740181,27.724851",
     "geom:latitude":27.724851,
     "geom:longitude":-82.740181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 50th Ave E",
     "sg:city":"St Pete Beach",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203177069,
-    "wof:lastmodified":1449026862,
+    "wof:lastmodified":1466428606,
     "wof:name":"MCC & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.740181,27.724851,-82.740181,27.724851],
-  "geometry": {"coordinates":[-82.740181,27.724851],"type":"Point"}
+  "bbox": [
+    -82.740181,
+    27.724851,
+    -82.740181,
+    27.724851
+],
+  "geometry": {"coordinates":[-82.74018100000001,27.724851],"type":"Point"}
 }

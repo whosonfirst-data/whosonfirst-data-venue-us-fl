@@ -2,13 +2,14 @@
   "id": 303186009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.754933,28.355725,-80.754933,28.355725",
     "geom:latitude":28.355725,
     "geom:longitude":-80.754933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 King St",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303186009,
-    "wof:lastmodified":1449000034,
+    "wof:lastmodified":1466433743,
     "wof:name":"J & H Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.754933,28.355725,-80.754933,28.355725],
-  "geometry": {"coordinates":[-80.754933,28.355725],"type":"Point"}
+  "bbox": [
+    -80.754933,
+    28.355725,
+    -80.754933,
+    28.355725
+],
+  "geometry": {"coordinates":[-80.75493299999999,28.355725],"type":"Point"}
 }

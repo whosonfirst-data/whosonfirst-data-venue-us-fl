@@ -2,13 +2,14 @@
   "id": 219710903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459353,28.21704,-82.459353,28.21704",
     "geom:latitude":28.21704,
     "geom:longitude":-82.459353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Land O Lakes Blvd",
     "sg:city":"Land O Lakes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219710903,
-    "wof:lastmodified":1449070598,
+    "wof:lastmodified":1466434234,
     "wof:name":"Ambulance Service Non-Emrgncy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.459353,28.21704,-82.459353,28.21704],
-  "geometry": {"coordinates":[-82.459353,28.21704],"type":"Point"}
+  "bbox": [
+    -82.459353,
+    28.21704,
+    -82.459353,
+    28.21704
+],
+  "geometry": {"coordinates":[-82.45935299999999,28.21704],"type":"Point"}
 }

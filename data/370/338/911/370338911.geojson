@@ -2,13 +2,14 @@
   "id": 370338911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.516621,27.90593,-82.516621,27.90593",
     "geom:latitude":27.90593,
     "geom:longitude":-82.516621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 W Bay Vista Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370338911,
-    "wof:lastmodified":1449030273,
+    "wof:lastmodified":1466439350,
     "wof:name":"Tampa Telcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-82.516621,27.90593,-82.516621,27.90593],
+  "bbox": [
+    -82.516621,
+    27.90593,
+    -82.516621,
+    27.90593
+],
   "geometry": {"coordinates":[-82.516621,27.90593],"type":"Point"}
 }

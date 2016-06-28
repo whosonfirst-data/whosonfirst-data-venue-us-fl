@@ -2,13 +2,14 @@
   "id": 303607643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.075499,29.351358,-82.075499,29.351358",
     "geom:latitude":29.351358,
     "geom:longitude":-82.075499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4227 NE 138th Pl",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303607643,
-    "wof:lastmodified":1448998445,
+    "wof:lastmodified":1466440981,
     "wof:name":"Vanwagner Timber",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-82.075499,29.351358,-82.075499,29.351358],
-  "geometry": {"coordinates":[-82.075499,29.351358],"type":"Point"}
+  "bbox": [
+    -82.075499,
+    29.351358,
+    -82.075499,
+    29.351358
+],
+  "geometry": {"coordinates":[-82.07549899999999,29.351358],"type":"Point"}
 }

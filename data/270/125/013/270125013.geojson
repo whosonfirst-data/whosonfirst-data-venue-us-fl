@@ -2,13 +2,14 @@
   "id": 270125013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.041748,30.580243,-84.041748,30.580243",
     "geom:latitude":30.580243,
     "geom:longitude":-84.041748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14035 Godbold Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270125013,
-    "wof:lastmodified":1449011045,
+    "wof:lastmodified":1466431580,
     "wof:name":"T&S Electric",
     "wof:parent_id":85881359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.041748,30.580243,-84.041748,30.580243],
+  "bbox": [
+    -84.041748,
+    30.580243,
+    -84.041748,
+    30.580243
+],
   "geometry": {"coordinates":[-84.041748,30.580243],"type":"Point"}
 }

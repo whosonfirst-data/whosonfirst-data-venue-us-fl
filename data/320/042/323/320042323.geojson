@@ -2,13 +2,14 @@
   "id": 320042323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.362926,27.981627,-82.362926,27.981627",
     "geom:latitude":27.981627,
     "geom:longitude":-82.362926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 E Martin Luther King Jr Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320042323,
-    "wof:lastmodified":1449014064,
+    "wof:lastmodified":1466434112,
     "wof:name":"Amerada",
     "wof:parent_id":85889725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.362926,27.981627,-82.362926,27.981627],
+  "bbox": [
+    -82.362926,
+    27.981627,
+    -82.362926,
+    27.981627
+],
   "geometry": {"coordinates":[-82.362926,27.981627],"type":"Point"}
 }

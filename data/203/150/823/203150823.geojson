@@ -2,13 +2,14 @@
   "id": 203150823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.813426,26.181462,-81.813426,26.181462",
     "geom:latitude":26.181462,
     "geom:longitude":-81.813426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203150823,
-    "wof:lastmodified":1449024966,
+    "wof:lastmodified":1466446037,
     "wof:name":"Southern Clipper",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.813426,26.181462,-81.813426,26.181462],
-  "geometry": {"coordinates":[-81.813426,26.181462],"type":"Point"}
+  "bbox": [
+    -81.813426,
+    26.181462,
+    -81.813426,
+    26.181462
+],
+  "geometry": {"coordinates":[-81.81342600000001,26.181462],"type":"Point"}
 }

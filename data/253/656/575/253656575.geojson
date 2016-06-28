@@ -2,13 +2,14 @@
   "id": 253656575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.987726,30.267491,-82.987726,30.267491",
     "geom:latitude":30.267491,
     "geom:longitude":-82.987726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10235 US Hwy 129",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253656575,
-    "wof:lastmodified":1449064763,
+    "wof:lastmodified":1466438420,
     "wof:name":"Lundy's Sporting Goods",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-82.987726,30.267491,-82.987726,30.267491],
-  "geometry": {"coordinates":[-82.987726,30.267491],"type":"Point"}
+  "bbox": [
+    -82.987726,
+    30.267491,
+    -82.987726,
+    30.267491
+],
+  "geometry": {"coordinates":[-82.98772599999999,30.267491],"type":"Point"}
 }

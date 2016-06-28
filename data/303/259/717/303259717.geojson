@@ -2,13 +2,14 @@
   "id": 303259717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.660114,30.172973,-85.660114,30.172973",
     "geom:latitude":30.172973,
     "geom:longitude":-85.660114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Harrison Ave",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303259717,
-    "wof:lastmodified":1448998668,
+    "wof:lastmodified":1466435023,
     "wof:name":"Comcast Cable",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-85.660114,30.172973,-85.660114,30.172973],
-  "geometry": {"coordinates":[-85.660114,30.172973],"type":"Point"}
+  "bbox": [
+    -85.660114,
+    30.172973,
+    -85.660114,
+    30.172973
+],
+  "geometry": {"coordinates":[-85.66011399999999,30.172973],"type":"Point"}
 }

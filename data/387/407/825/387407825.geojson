@@ -2,13 +2,14 @@
   "id": 387407825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.168753,25.993623,-80.168753,25.993623",
     "geom:latitude":25.993623,
     "geom:longitude":-80.168753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 SW 31st Ave",
     "sg:city":"Hallandale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387407825,
-    "wof:lastmodified":1449058222,
+    "wof:lastmodified":1466444965,
     "wof:name":"Transpro Inc",
     "wof:parent_id":85896131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-80.168753,25.993623,-80.168753,25.993623],
+  "bbox": [
+    -80.168753,
+    25.993623,
+    -80.168753,
+    25.993623
+],
   "geometry": {"coordinates":[-80.168753,25.993623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336833011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136547,26.092954,-80.136547,26.092954",
     "geom:latitude":26.092954,
     "geom:longitude":-80.136547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 SE 24th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336833011,
-    "wof:lastmodified":1448997066,
+    "wof:lastmodified":1466439028,
     "wof:name":"Port Medical Center",
     "wof:parent_id":85877517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.136547,26.092954,-80.136547,26.092954],
-  "geometry": {"coordinates":[-80.136547,26.092954],"type":"Point"}
+  "bbox": [
+    -80.136547,
+    26.092954,
+    -80.136547,
+    26.092954
+],
+  "geometry": {"coordinates":[-80.13654699999999,26.092954],"type":"Point"}
 }

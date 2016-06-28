@@ -2,13 +2,14 @@
   "id": 320055769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351244,25.889118,-80.351244,25.889118",
     "geom:latitude":25.889118,
     "geom:longitude":-80.351244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3371 W 73rd Ter",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320055769,
-    "wof:lastmodified":1449012097,
+    "wof:lastmodified":1466434342,
     "wof:name":"Geomar Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.351244,25.889118,-80.351244,25.889118],
-  "geometry": {"coordinates":[-80.351244,25.889118],"type":"Point"}
+  "bbox": [
+    -80.351244,
+    25.889118,
+    -80.351244,
+    25.889118
+],
+  "geometry": {"coordinates":[-80.35124399999999,25.889118],"type":"Point"}
 }

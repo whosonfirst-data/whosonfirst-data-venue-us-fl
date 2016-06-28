@@ -2,13 +2,14 @@
   "id": 219680771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.634197,30.455629,-86.634197,30.455629",
     "geom:latitude":30.455629,
     "geom:longitude":-86.634197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 Hospital Rd",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219680771,
-    "wof:lastmodified":1449072868,
+    "wof:lastmodified":1466433841,
     "wof:name":"MRI Ctr",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.634197,30.455629,-86.634197,30.455629],
+  "bbox": [
+    -86.634197,
+    30.455629,
+    -86.634197,
+    30.455629
+],
   "geometry": {"coordinates":[-86.634197,30.455629],"type":"Point"}
 }

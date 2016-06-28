@@ -2,13 +2,14 @@
   "id": 387766997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227468,26.046265,-80.227468,26.046265",
     "geom:latitude":26.046265,
     "geom:longitude":-80.227468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6907 Stirling Rd",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387766997,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1466448705,
     "wof:name":"Takeout Taxi",
     "wof:parent_id":85878165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.227468,26.046265,-80.227468,26.046265],
+  "bbox": [
+    -80.227468,
+    26.046265,
+    -80.227468,
+    26.046265
+],
   "geometry": {"coordinates":[-80.227468,26.046265],"type":"Point"}
 }

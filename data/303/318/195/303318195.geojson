@@ -2,13 +2,14 @@
   "id": 303318195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.049191,29.259999,-81.049191,29.259999",
     "geom:latitude":29.259999,
     "geom:longitude":-81.049191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Ridgewood Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303318195,
-    "wof:lastmodified":1448998656,
+    "wof:lastmodified":1466436023,
     "wof:name":"Southern Auto Sales Of Daytona",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.049191,29.259999,-81.049191,29.259999],
-  "geometry": {"coordinates":[-81.049191,29.259999],"type":"Point"}
+  "bbox": [
+    -81.049191,
+    29.259999,
+    -81.049191,
+    29.259999
+],
+  "geometry": {"coordinates":[-81.04919099999999,29.259999],"type":"Point"}
 }

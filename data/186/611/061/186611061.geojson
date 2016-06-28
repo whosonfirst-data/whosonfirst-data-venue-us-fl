@@ -2,13 +2,14 @@
   "id": 186611061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260985,26.246845,-80.260985,26.246845",
     "geom:latitude":26.246845,
     "geom:longitude":-80.260985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 NW 102nd Way",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186611061,
-    "wof:lastmodified":1449052442,
+    "wof:lastmodified":1466434315,
     "wof:name":"Mics Audio",
     "wof:parent_id":85876891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.260985,26.246845,-80.260985,26.246845],
-  "geometry": {"coordinates":[-80.260985,26.246845],"type":"Point"}
+  "bbox": [
+    -80.260985,
+    26.246845,
+    -80.260985,
+    26.246845
+],
+  "geometry": {"coordinates":[-80.26098500000001,26.246845],"type":"Point"}
 }

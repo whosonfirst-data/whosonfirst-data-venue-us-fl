@@ -2,13 +2,14 @@
   "id": 371030207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.560821,30.311459,-81.560821,30.311459",
     "geom:latitude":30.311459,
     "geom:longitude":-81.560821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1885 Corporate Square Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371030207,
-    "wof:lastmodified":1449049401,
+    "wof:lastmodified":1466438039,
     "wof:name":"Jacksonville Heart Ctr",
     "wof:parent_id":85870695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.560821,30.311459,-81.560821,30.311459],
+  "bbox": [
+    -81.560821,
+    30.311459,
+    -81.560821,
+    30.311459
+],
   "geometry": {"coordinates":[-81.560821,30.311459],"type":"Point"}
 }

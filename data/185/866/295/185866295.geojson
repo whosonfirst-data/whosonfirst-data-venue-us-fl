@@ -2,13 +2,14 @@
   "id": 185866295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112621,26.350818,-80.112621,26.350818",
     "geom:latitude":26.350818,
     "geom:longitude":-80.112621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1489 W Palmetto Park Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185866295,
-    "wof:lastmodified":1449007384,
+    "wof:lastmodified":1466429652,
     "wof:name":"Paragon Appraisal",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-80.112621,26.350818,-80.112621,26.350818],
+  "bbox": [
+    -80.112621,
+    26.350818,
+    -80.112621,
+    26.350818
+],
   "geometry": {"coordinates":[-80.112621,26.350818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303173313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133626,26.187027,-80.133626,26.187027",
     "geom:latitude":26.187027,
     "geom:longitude":-80.133626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 NE 10th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303173313,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466433522,
     "wof:name":"Proietto Painting Inc",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.133626,26.187027,-80.133626,26.187027],
-  "geometry": {"coordinates":[-80.133626,26.187027],"type":"Point"}
+  "bbox": [
+    -80.133626,
+    26.187027,
+    -80.133626,
+    26.187027
+],
+  "geometry": {"coordinates":[-80.13362600000001,26.187027],"type":"Point"}
 }

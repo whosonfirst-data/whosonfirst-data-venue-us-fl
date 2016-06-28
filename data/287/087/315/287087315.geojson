@@ -2,13 +2,14 @@
   "id": 287087315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13406,26.116294,-80.13406,26.116294",
     "geom:latitude":26.116294,
     "geom:longitude":-80.13406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 SE 9th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287087315,
-    "wof:lastmodified":1449001068,
+    "wof:lastmodified":1466431376,
     "wof:name":"Riverview Publishing",
     "wof:parent_id":85877491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.13406,26.116294,-80.13406,26.116294],
-  "geometry": {"coordinates":[-80.13406,26.116294],"type":"Point"}
+  "bbox": [
+    -80.13406,
+    26.116294,
+    -80.13406,
+    26.116294
+],
+  "geometry": {"coordinates":[-80.13406000000001,26.116294],"type":"Point"}
 }

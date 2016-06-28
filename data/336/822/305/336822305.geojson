@@ -2,13 +2,14 @@
   "id": 336822305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.181178,26.094246,-80.181178,26.094246",
     "geom:latitude":26.094246,
     "geom:longitude":-80.181178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 SW 28th Way",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336822305,
-    "wof:lastmodified":1448997968,
+    "wof:lastmodified":1466438833,
     "wof:name":"All Pumps and Sprinklers",
     "wof:parent_id":85877515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-80.181178,26.094246,-80.181178,26.094246],
+  "bbox": [
+    -80.181178,
+    26.094246,
+    -80.181178,
+    26.094246
+],
   "geometry": {"coordinates":[-80.181178,26.094246],"type":"Point"}
 }

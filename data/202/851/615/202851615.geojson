@@ -2,13 +2,14 @@
   "id": 202851615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525431,28.332753,-81.525431,28.332753",
     "geom:latitude":28.332753,
     "geom:longitude":-81.525431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6073 W US Hwy 192",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202851615,
-    "wof:lastmodified":1449061756,
+    "wof:lastmodified":1466432951,
     "wof:name":"Water Mania",
     "wof:parent_id":85889321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourist"
     ]
 },
-  "bbox": [-81.525431,28.332753,-81.525431,28.332753],
+  "bbox": [
+    -81.525431,
+    28.332753,
+    -81.525431,
+    28.332753
+],
   "geometry": {"coordinates":[-81.525431,28.332753],"type":"Point"}
 }

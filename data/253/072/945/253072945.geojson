@@ -2,13 +2,14 @@
   "id": 253072945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.273491,30.346471,-87.273491,30.346471",
     "geom:latitude":30.346471,
     "geom:longitude":-87.273491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Radford Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253072945,
-    "wof:lastmodified":1449064380,
+    "wof:lastmodified":1466429504,
     "wof:name":"Ducks Club",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-87.273491,30.346471,-87.273491,30.346471],
-  "geometry": {"coordinates":[-87.273491,30.346471],"type":"Point"}
+  "bbox": [
+    -87.273491,
+    30.346471,
+    -87.273491,
+    30.346471
+],
+  "geometry": {"coordinates":[-87.27349100000001,30.346471],"type":"Point"}
 }

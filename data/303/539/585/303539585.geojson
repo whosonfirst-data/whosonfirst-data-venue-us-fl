@@ -2,13 +2,14 @@
   "id": 303539585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.746428,27.806324,-82.746428,27.806324",
     "geom:latitude":27.806324,
     "geom:longitude":-82.746428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7830 38th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303539585,
-    "wof:lastmodified":1449000616,
+    "wof:lastmodified":1466439837,
     "wof:name":"SPKC By Bryan Maieritsch",
     "wof:parent_id":85880541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-82.746428,27.806324,-82.746428,27.806324],
-  "geometry": {"coordinates":[-82.746428,27.806324],"type":"Point"}
+  "bbox": [
+    -82.746428,
+    27.806324,
+    -82.746428,
+    27.806324
+],
+  "geometry": {"coordinates":[-82.74642799999999,27.806324],"type":"Point"}
 }

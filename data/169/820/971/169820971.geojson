@@ -2,13 +2,14 @@
   "id": 169820971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147875,26.130585,-80.147875,26.130585",
     "geom:latitude":26.130585,
     "geom:longitude":-80.147875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 NW 4th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":169820971,
-    "wof:lastmodified":1449034387,
+    "wof:lastmodified":1466429249,
     "wof:name":"Dixie Box & Crating of FL",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "crate"
     ]
 },
-  "bbox": [-80.147875,26.130585,-80.147875,26.130585],
+  "bbox": [
+    -80.147875,
+    26.130585,
+    -80.147875,
+    26.130585
+],
   "geometry": {"coordinates":[-80.147875,26.130585],"type":"Point"}
 }

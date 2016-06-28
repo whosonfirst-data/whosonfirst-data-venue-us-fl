@@ -2,13 +2,14 @@
   "id": 320143307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241509,30.416721,-87.241509,30.416721",
     "geom:latitude":30.416721,
     "geom:longitude":-87.241509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Pace Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320143307,
-    "wof:lastmodified":1449014341,
+    "wof:lastmodified":1466435845,
     "wof:name":"Merritt Rentals",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-87.241509,30.416721,-87.241509,30.416721],
-  "geometry": {"coordinates":[-87.241509,30.416721],"type":"Point"}
+  "bbox": [
+    -87.241509,
+    30.416721,
+    -87.241509,
+    30.416721
+],
+  "geometry": {"coordinates":[-87.24150899999999,30.416721],"type":"Point"}
 }

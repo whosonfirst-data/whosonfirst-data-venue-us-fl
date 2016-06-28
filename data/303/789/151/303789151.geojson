@@ -2,13 +2,14 @@
   "id": 303789151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143527,26.086154,-80.143527,26.086154",
     "geom:latitude":26.086154,
     "geom:longitude":-80.143527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 SW 31st St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303789151,
-    "wof:lastmodified":1448999221,
+    "wof:lastmodified":1466444126,
     "wof:name":"Rory's Marine Canvas & Uphlstr",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cover"
     ]
 },
-  "bbox": [-80.143527,26.086154,-80.143527,26.086154],
-  "geometry": {"coordinates":[-80.143527,26.086154],"type":"Point"}
+  "bbox": [
+    -80.143527,
+    26.086154,
+    -80.143527,
+    26.086154
+],
+  "geometry": {"coordinates":[-80.14352700000001,26.086154],"type":"Point"}
 }

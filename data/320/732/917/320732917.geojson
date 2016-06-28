@@ -2,13 +2,14 @@
   "id": 320732917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515946,28.486781,-81.515946,28.486781",
     "geom:latitude":28.486781,
     "geom:longitude":-81.515946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Palm Tree Dr",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320732917,
-    "wof:lastmodified":1449015077,
+    "wof:lastmodified":1466446053,
     "wof:name":"Island Management",
     "wof:parent_id":85889429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.515946,28.486781,-81.515946,28.486781],
+  "bbox": [
+    -81.515946,
+    28.486781,
+    -81.515946,
+    28.486781
+],
   "geometry": {"coordinates":[-81.515946,28.486781],"type":"Point"}
 }

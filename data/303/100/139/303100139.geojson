@@ -2,13 +2,14 @@
   "id": 303100139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.57183,27.491902,-82.57183,27.491902",
     "geom:latitude":27.491902,
     "geom:longitude":-82.57183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 9th Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303100139,
-    "wof:lastmodified":1448999930,
+    "wof:lastmodified":1466432219,
     "wof:name":"Turners Donut Shop Inc",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "donut"
     ]
 },
-  "bbox": [-82.57183,27.491902,-82.57183,27.491902],
-  "geometry": {"coordinates":[-82.57183,27.491902],"type":"Point"}
+  "bbox": [
+    -82.57183,
+    27.491902,
+    -82.57183,
+    27.491902
+],
+  "geometry": {"coordinates":[-82.57183000000001,27.491902],"type":"Point"}
 }

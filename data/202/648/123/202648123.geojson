@@ -2,13 +2,14 @@
   "id": 202648123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.752037,27.746089,-82.752037,27.746089",
     "geom:latitude":27.746089,
     "geom:longitude":-82.752037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 79th Ave",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202648123,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466430318,
     "wof:name":"Sneaky DS",
     "wof:parent_id":85889533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-82.752037,27.746089,-82.752037,27.746089],
+  "bbox": [
+    -82.752037,
+    27.746089,
+    -82.752037,
+    27.746089
+],
   "geometry": {"coordinates":[-82.752037,27.746089],"type":"Point"}
 }

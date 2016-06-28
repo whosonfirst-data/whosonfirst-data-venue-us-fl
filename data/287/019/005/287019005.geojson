@@ -2,13 +2,14 @@
   "id": 287019005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.405093,30.273445,-81.405093,30.273445",
     "geom:latitude":30.273445,
     "geom:longitude":-81.405093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Quail Ln",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287019005,
-    "wof:lastmodified":1449001188,
+    "wof:lastmodified":1466430142,
     "wof:name":"Florida Realty USA Inc",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.405093,30.273445,-81.405093,30.273445],
-  "geometry": {"coordinates":[-81.405093,30.273445],"type":"Point"}
+  "bbox": [
+    -81.405093,
+    30.273445,
+    -81.405093,
+    30.273445
+],
+  "geometry": {"coordinates":[-81.40509299999999,30.273445],"type":"Point"}
 }

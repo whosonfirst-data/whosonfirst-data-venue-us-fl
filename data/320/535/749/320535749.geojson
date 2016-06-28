@@ -2,13 +2,14 @@
   "id": 320535749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146339,26.162691,-80.146339,26.162691",
     "geom:latitude":26.162691,
     "geom:longitude":-80.146339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2724 N Andrews Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320535749,
-    "wof:lastmodified":1449011930,
+    "wof:lastmodified":1466442651,
     "wof:name":"Mate Restaurant",
     "wof:parent_id":85827415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.146339,26.162691,-80.146339,26.162691],
+  "bbox": [
+    -80.146339,
+    26.162691,
+    -80.146339,
+    26.162691
+],
   "geometry": {"coordinates":[-80.146339,26.162691],"type":"Point"}
 }

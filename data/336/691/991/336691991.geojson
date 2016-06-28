@@ -2,13 +2,14 @@
   "id": 336691991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.691668,26.20147,-81.691668,26.20147",
     "geom:latitude":26.20147,
     "geom:longitude":-81.691668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 15th Ave SW",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336691991,
-    "wof:lastmodified":1448997018,
+    "wof:lastmodified":1466436577,
     "wof:name":"Westcoast Lawn Svc of Naples",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.691668,26.20147,-81.691668,26.20147],
-  "geometry": {"coordinates":[-81.691668,26.20147],"type":"Point"}
+  "bbox": [
+    -81.691668,
+    26.20147,
+    -81.691668,
+    26.20147
+],
+  "geometry": {"coordinates":[-81.69166800000001,26.20147],"type":"Point"}
 }

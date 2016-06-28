@@ -2,13 +2,14 @@
   "id": 370923249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156612,26.166211,-80.156612,26.166211",
     "geom:latitude":26.166211,
     "geom:longitude":-80.156612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370923249,
-    "wof:lastmodified":1449032355,
+    "wof:lastmodified":1466447535,
     "wof:name":"Chevron",
     "wof:parent_id":85827415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-80.156612,26.166211,-80.156612,26.166211],
+  "bbox": [
+    -80.156612,
+    26.166211,
+    -80.156612,
+    26.166211
+],
   "geometry": {"coordinates":[-80.156612,26.166211],"type":"Point"}
 }

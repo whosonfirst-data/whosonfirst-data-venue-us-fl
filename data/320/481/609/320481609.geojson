@@ -2,13 +2,14 @@
   "id": 320481609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.194325,26.120987,-80.194325,26.120987",
     "geom:latitude":26.120987,
     "geom:longitude":-80.194325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3516 W Broward Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320481609,
-    "wof:lastmodified":1449014485,
+    "wof:lastmodified":1466441696,
     "wof:name":"Larocher Restaurant",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.194325,26.120987,-80.194325,26.120987],
-  "geometry": {"coordinates":[-80.194325,26.120987],"type":"Point"}
+  "bbox": [
+    -80.194325,
+    26.120987,
+    -80.194325,
+    26.120987
+],
+  "geometry": {"coordinates":[-80.19432500000001,26.120987],"type":"Point"}
 }

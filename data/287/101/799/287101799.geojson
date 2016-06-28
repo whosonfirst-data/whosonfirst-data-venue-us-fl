@@ -2,13 +2,14 @@
   "id": 287101799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.499805,28.536077,-82.499805,28.536077",
     "geom:latitude":28.536077,
     "geom:longitude":-82.499805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7292 Sunshine Grove Rd",
     "sg:city":"Weeki Wachee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287101799,
-    "wof:lastmodified":1449001137,
+    "wof:lastmodified":1466431642,
     "wof:name":"ABC Uniforms",
     "wof:parent_id":85888603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-82.499805,28.536077,-82.499805,28.536077],
-  "geometry": {"coordinates":[-82.499805,28.536077],"type":"Point"}
+  "bbox": [
+    -82.499805,
+    28.536077,
+    -82.499805,
+    28.536077
+],
+  "geometry": {"coordinates":[-82.49980499999999,28.536077],"type":"Point"}
 }

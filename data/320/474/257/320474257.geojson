@@ -2,13 +2,14 @@
   "id": 320474257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293416,26.208223,-80.293416,26.208223",
     "geom:latitude":26.208223,
     "geom:longitude":-80.293416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10086 W McNab Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320474257,
-    "wof:lastmodified":1449011419,
+    "wof:lastmodified":1466441564,
     "wof:name":"Magnifying Center",
     "wof:parent_id":85876901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.293416,26.208223,-80.293416,26.208223],
-  "geometry": {"coordinates":[-80.293416,26.208223],"type":"Point"}
+  "bbox": [
+    -80.293416,
+    26.208223,
+    -80.293416,
+    26.208223
+],
+  "geometry": {"coordinates":[-80.29341599999999,26.208223],"type":"Point"}
 }

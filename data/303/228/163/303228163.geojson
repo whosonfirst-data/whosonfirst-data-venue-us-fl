@@ -2,13 +2,14 @@
   "id": 303228163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.430371,25.620153,-80.430371,25.620153",
     "geom:latitude":25.620153,
     "geom:longitude":-80.430371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15837 SW 147th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303228163,
-    "wof:lastmodified":1448998882,
+    "wof:lastmodified":1466434477,
     "wof:name":"Enrique Rodriguez",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "peddler"
     ]
 },
-  "bbox": [-80.430371,25.620153,-80.430371,25.620153],
-  "geometry": {"coordinates":[-80.430371,25.620153],"type":"Point"}
+  "bbox": [
+    -80.430371,
+    25.620153,
+    -80.430371,
+    25.620153
+],
+  "geometry": {"coordinates":[-80.43037099999999,25.620153],"type":"Point"}
 }

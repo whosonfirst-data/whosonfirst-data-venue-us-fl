@@ -2,13 +2,14 @@
   "id": 220200495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.781017,26.215501,-81.781017,26.215501",
     "geom:latitude":26.215501,
     "geom:longitude":-81.781017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Seward Ave",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220200495,
-    "wof:lastmodified":1449074356,
+    "wof:lastmodified":1466429588,
     "wof:name":"Terry Kramer Enterprises",
     "wof:parent_id":85889221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.781017,26.215501,-81.781017,26.215501],
-  "geometry": {"coordinates":[-81.781017,26.215501],"type":"Point"}
+  "bbox": [
+    -81.781017,
+    26.215501,
+    -81.781017,
+    26.215501
+],
+  "geometry": {"coordinates":[-81.78101700000001,26.215501],"type":"Point"}
 }

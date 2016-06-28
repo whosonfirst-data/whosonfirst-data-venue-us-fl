@@ -2,13 +2,14 @@
   "id": 219495547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112079,26.1673,-80.112079,26.1673",
     "geom:latitude":26.1673,
     "geom:longitude":-80.112079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219495547,
-    "wof:lastmodified":1449071948,
+    "wof:lastmodified":1466431461,
     "wof:name":"Bob Hodges & Sons",
     "wof:parent_id":85812259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.112079,26.1673,-80.112079,26.1673],
-  "geometry": {"coordinates":[-80.112079,26.1673],"type":"Point"}
+  "bbox": [
+    -80.112079,
+    26.1673,
+    -80.112079,
+    26.1673
+],
+  "geometry": {"coordinates":[-80.11207899999999,26.1673],"type":"Point"}
 }

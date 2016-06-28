@@ -2,13 +2,14 @@
   "id": 252954793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.68298,30.319437,-81.68298,30.319437",
     "geom:latitude":30.319437,
     "geom:longitude":-81.68298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Margaret St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252954793,
-    "wof:lastmodified":1449006376,
+    "wof:lastmodified":1466431994,
     "wof:name":"Time",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.68298,30.319437,-81.68298,30.319437],
+  "bbox": [
+    -81.68298,
+    30.319437,
+    -81.68298,
+    30.319437
+],
   "geometry": {"coordinates":[-81.68298,30.319437],"type":"Point"}
 }

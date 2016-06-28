@@ -2,13 +2,14 @@
   "id": 202442539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.403996,28.438588,-81.403996,28.438588",
     "geom:latitude":28.438588,
     "geom:longitude":-81.403996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202442539,
-    "wof:lastmodified":1449061239,
+    "wof:lastmodified":1466444641,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85889431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.403996,28.438588,-81.403996,28.438588],
-  "geometry": {"coordinates":[-81.403996,28.438588],"type":"Point"}
+  "bbox": [
+    -81.403996,
+    28.438588,
+    -81.403996,
+    28.438588
+],
+  "geometry": {"coordinates":[-81.40399600000001,28.438588],"type":"Point"}
 }

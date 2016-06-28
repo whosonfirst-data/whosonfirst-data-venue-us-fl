@@ -2,13 +2,14 @@
   "id": 202405857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.535604,27.371751,-82.535604,27.371751",
     "geom:latitude":27.371751,
     "geom:longitude":-82.535604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1743 Independence Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202405857,
-    "wof:lastmodified":1449062446,
+    "wof:lastmodified":1466443277,
     "wof:name":"Oasis Oxygen Bars",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.535604,27.371751,-82.535604,27.371751],
-  "geometry": {"coordinates":[-82.535604,27.371751],"type":"Point"}
+  "bbox": [
+    -82.535604,
+    27.371751,
+    -82.535604,
+    27.371751
+],
+  "geometry": {"coordinates":[-82.53560400000001,27.371751],"type":"Point"}
 }

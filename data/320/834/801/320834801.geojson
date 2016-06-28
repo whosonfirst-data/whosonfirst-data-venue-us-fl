@@ -2,13 +2,14 @@
   "id": 320834801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15576,26.20703,-80.15576,26.20703",
     "geom:latitude":26.20703,
     "geom:longitude":-80.15576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 Powerline Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320834801,
-    "wof:lastmodified":1449011584,
+    "wof:lastmodified":1466447409,
     "wof:name":"Dry Cleaning Depot",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.15576,26.20703,-80.15576,26.20703],
+  "bbox": [
+    -80.15576,
+    26.20703,
+    -80.15576,
+    26.20703
+],
   "geometry": {"coordinates":[-80.15576,26.20703],"type":"Point"}
 }

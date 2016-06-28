@@ -2,13 +2,14 @@
   "id": 370546833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525563,27.353767,-82.525563,27.353767",
     "geom:latitude":27.353767,
     "geom:longitude":-82.525563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2239 19th St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370546833,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1466442554,
     "wof:name":"Morgan Services",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "repair"
     ]
 },
-  "bbox": [-82.525563,27.353767,-82.525563,27.353767],
-  "geometry": {"coordinates":[-82.525563,27.353767],"type":"Point"}
+  "bbox": [
+    -82.525563,
+    27.353767,
+    -82.525563,
+    27.353767
+],
+  "geometry": {"coordinates":[-82.52556300000001,27.353767],"type":"Point"}
 }

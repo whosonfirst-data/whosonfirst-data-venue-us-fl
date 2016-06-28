@@ -2,13 +2,14 @@
   "id": 202880533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.659208,28.063987,-80.659208,28.063987",
     "geom:latitude":28.063987,
     "geom:longitude":-80.659208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Whistler St",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202880533,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1466433344,
     "wof:name":"Prompt Security",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-80.659208,28.063987,-80.659208,28.063987],
-  "geometry": {"coordinates":[-80.659208,28.063987],"type":"Point"}
+  "bbox": [
+    -80.659208,
+    28.063987,
+    -80.659208,
+    28.063987
+],
+  "geometry": {"coordinates":[-80.65920800000001,28.063987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219573071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.152003,29.252256,-82.152003,29.252256",
     "geom:latitude":29.252256,
     "geom:longitude":-82.152003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 N US Hwy 441",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219573071,
-    "wof:lastmodified":1449073009,
+    "wof:lastmodified":1466432447,
     "wof:name":"Ring Rent",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-82.152003,29.252256,-82.152003,29.252256],
-  "geometry": {"coordinates":[-82.152003,29.252256],"type":"Point"}
+  "bbox": [
+    -82.152003,
+    29.252256,
+    -82.152003,
+    29.252256
+],
+  "geometry": {"coordinates":[-82.15200299999999,29.252256],"type":"Point"}
 }

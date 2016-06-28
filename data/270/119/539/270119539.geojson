@@ -2,13 +2,14 @@
   "id": 270119539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132759,26.185301,-80.132759,26.185301",
     "geom:latitude":26.185301,
     "geom:longitude":-80.132759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4797 NE 11th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270119539,
-    "wof:lastmodified":1449010404,
+    "wof:lastmodified":1466431480,
     "wof:name":"Al Siefert Electric",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.132759,26.185301,-80.132759,26.185301],
-  "geometry": {"coordinates":[-80.132759,26.185301],"type":"Point"}
+  "bbox": [
+    -80.132759,
+    26.185301,
+    -80.132759,
+    26.185301
+],
+  "geometry": {"coordinates":[-80.13275899999999,26.185301],"type":"Point"}
 }

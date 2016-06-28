@@ -2,13 +2,14 @@
   "id": 286401143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.390909,27.258033,-80.390909,27.258033",
     "geom:latitude":27.258033,
     "geom:longitude":-80.390909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2881 SW Ortega St",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286401143,
-    "wof:lastmodified":1449017679,
+    "wof:lastmodified":1466432072,
     "wof:name":"Marina D Paredes",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.390909,27.258033,-80.390909,27.258033],
-  "geometry": {"coordinates":[-80.390909,27.258033],"type":"Point"}
+  "bbox": [
+    -80.390909,
+    27.258033,
+    -80.390909,
+    27.258033
+],
+  "geometry": {"coordinates":[-80.39090899999999,27.258033],"type":"Point"}
 }

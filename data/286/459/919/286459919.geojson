@@ -2,13 +2,14 @@
   "id": 286459919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.270968,28.807192,-81.270968,28.807192",
     "geom:latitude":28.807192,
     "geom:longitude":-81.270968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 W 6th St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286459919,
-    "wof:lastmodified":1449016375,
+    "wof:lastmodified":1466433075,
     "wof:name":"Robbins Tree Svc",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-81.270968,28.807192,-81.270968,28.807192],
+  "bbox": [
+    -81.270968,
+    28.807192,
+    -81.270968,
+    28.807192
+],
   "geometry": {"coordinates":[-81.270968,28.807192],"type":"Point"}
 }

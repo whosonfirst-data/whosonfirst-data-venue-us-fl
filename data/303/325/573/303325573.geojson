@@ -2,13 +2,14 @@
   "id": 303325573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.663338,28.256053,-80.663338,28.256053",
     "geom:latitude":28.256053,
     "geom:longitude":-80.663338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Crispin St",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303325573,
-    "wof:lastmodified":1448999079,
+    "wof:lastmodified":1466436149,
     "wof:name":"Atlantis Aircraft Co Inc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-80.663338,28.256053,-80.663338,28.256053],
+  "bbox": [
+    -80.663338,
+    28.256053,
+    -80.663338,
+    28.256053
+],
   "geometry": {"coordinates":[-80.663338,28.256053],"type":"Point"}
 }

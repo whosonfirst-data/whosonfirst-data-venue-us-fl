@@ -2,13 +2,14 @@
   "id": 320147815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156636,26.228886,-80.156636,26.228886",
     "geom:latitude":26.228886,
     "geom:longitude":-80.156636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 S Pompano Pkwy",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320147815,
-    "wof:lastmodified":1449014556,
+    "wof:lastmodified":1466435926,
     "wof:name":"Seymour Klein DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.156636,26.228886,-80.156636,26.228886],
-  "geometry": {"coordinates":[-80.156636,26.228886],"type":"Point"}
+  "bbox": [
+    -80.156636,
+    26.228886,
+    -80.156636,
+    26.228886
+],
+  "geometry": {"coordinates":[-80.15663600000001,26.228886],"type":"Point"}
 }

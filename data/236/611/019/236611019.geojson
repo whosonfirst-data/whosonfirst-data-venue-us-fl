@@ -2,13 +2,14 @@
   "id": 236611019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.526655,28.328108,-81.526655,28.328108",
     "geom:latitude":28.328108,
     "geom:longitude":-81.526655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Clayton Ave",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236611019,
-    "wof:lastmodified":1449004405,
+    "wof:lastmodified":1466437064,
     "wof:name":"Cool Blue Spa & Pool",
     "wof:parent_id":85889321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [-81.526655,28.328108,-81.526655,28.328108],
-  "geometry": {"coordinates":[-81.526655,28.328108],"type":"Point"}
+  "bbox": [
+    -81.526655,
+    28.328108,
+    -81.526655,
+    28.328108
+],
+  "geometry": {"coordinates":[-81.52665500000001,28.328108],"type":"Point"}
 }

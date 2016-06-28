@@ -2,13 +2,14 @@
   "id": 303108503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192676,26.090285,-80.192676,26.090285",
     "geom:latitude":26.090285,
     "geom:longitude":-80.192676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2643 Gulfstream Ln",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303108503,
-    "wof:lastmodified":1448998161,
+    "wof:lastmodified":1466432373,
     "wof:name":"Atlantic Coast Constr Inc",
     "wof:parent_id":85868425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.192676,26.090285,-80.192676,26.090285],
-  "geometry": {"coordinates":[-80.192676,26.090285],"type":"Point"}
+  "bbox": [
+    -80.192676,
+    26.090285,
+    -80.192676,
+    26.090285
+],
+  "geometry": {"coordinates":[-80.19267600000001,26.090285],"type":"Point"}
 }

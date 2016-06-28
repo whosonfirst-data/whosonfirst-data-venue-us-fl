@@ -2,13 +2,14 @@
   "id": 370225673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23638,28.863491,-81.23638,28.863491",
     "geom:latitude":28.863491,
     "geom:longitude":-81.23638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 Braddock Rd",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370225673,
-    "wof:lastmodified":1449030150,
+    "wof:lastmodified":1466437623,
     "wof:name":"Geneva Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-81.23638,28.863491,-81.23638,28.863491],
+  "bbox": [
+    -81.23638,
+    28.863491,
+    -81.23638,
+    28.863491
+],
   "geometry": {"coordinates":[-81.23638,28.863491],"type":"Point"}
 }

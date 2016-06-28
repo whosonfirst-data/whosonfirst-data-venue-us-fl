@@ -2,13 +2,14 @@
   "id": 220128351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458135,28.656053,-81.458135,28.656053",
     "geom:latitude":28.656053,
     "geom:longitude":-81.458135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Rose Ter",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220128351,
-    "wof:lastmodified":1449074348,
+    "wof:lastmodified":1466428618,
     "wof:name":"Haight Inc",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.458135,28.656053,-81.458135,28.656053],
+  "bbox": [
+    -81.458135,
+    28.656053,
+    -81.458135,
+    28.656053
+],
   "geometry": {"coordinates":[-81.458135,28.656053],"type":"Point"}
 }

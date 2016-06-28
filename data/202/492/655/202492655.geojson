@@ -2,13 +2,14 @@
   "id": 202492655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135996,26.966365,-80.135996,26.966365",
     "geom:latitude":26.966365,
     "geom:longitude":-80.135996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6738 195th Pl N",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202492655,
-    "wof:lastmodified":1449060112,
+    "wof:lastmodified":1466445923,
     "wof:name":"Jupiter Bobcat Svc",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.135996,26.966365,-80.135996,26.966365],
-  "geometry": {"coordinates":[-80.135996,26.966365],"type":"Point"}
+  "bbox": [
+    -80.135996,
+    26.966365,
+    -80.135996,
+    26.966365
+],
+  "geometry": {"coordinates":[-80.13599600000001,26.966365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.047216,30.639335,-87.047216,30.639335",
     "geom:latitude":30.639335,
     "geom:longitude":-87.047216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5668 Byrom St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185653021,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466444651,
     "wof:name":"Milton Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-87.047216,30.639335,-87.047216,30.639335],
-  "geometry": {"coordinates":[-87.047216,30.639335],"type":"Point"}
+  "bbox": [
+    -87.047216,
+    30.639335,
+    -87.047216,
+    30.639335
+],
+  "geometry": {"coordinates":[-87.04721600000001,30.639335],"type":"Point"}
 }

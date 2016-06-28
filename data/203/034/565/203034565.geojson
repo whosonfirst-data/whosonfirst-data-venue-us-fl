@@ -2,13 +2,14 @@
   "id": 203034565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080012,26.351563,-80.080012,26.351563",
     "geom:latitude":26.351563,
     "geom:longitude":-80.080012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Boca Raton Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203034565,
-    "wof:lastmodified":1449025155,
+    "wof:lastmodified":1466443403,
     "wof:name":"A Beyers Plumbing",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.080012,26.351563,-80.080012,26.351563],
+  "bbox": [
+    -80.080012,
+    26.351563,
+    -80.080012,
+    26.351563
+],
   "geometry": {"coordinates":[-80.080012,26.351563],"type":"Point"}
 }

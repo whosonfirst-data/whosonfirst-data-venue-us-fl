@@ -2,13 +2,14 @@
   "id": 286586377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.166223,26.39795,-80.166223,26.39795",
     "geom:latitude":26.39795,
     "geom:longitude":-80.166223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5678 NW 40th Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286586377,
-    "wof:lastmodified":1449017761,
+    "wof:lastmodified":1466435299,
     "wof:name":"Albert E Rodriguez MD",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.166223,26.39795,-80.166223,26.39795],
+  "bbox": [
+    -80.166223,
+    26.39795,
+    -80.166223,
+    26.39795
+],
   "geometry": {"coordinates":[-80.166223,26.39795],"type":"Point"}
 }

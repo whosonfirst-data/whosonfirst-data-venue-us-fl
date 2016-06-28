@@ -2,13 +2,14 @@
   "id": 354377045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.491639,30.507736,-86.491639,30.507736",
     "geom:latitude":30.507736,
     "geom:longitude":-86.491639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Chicago Ave",
     "sg:city":"Valparaiso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354377045,
-    "wof:lastmodified":1449066560,
+    "wof:lastmodified":1466441863,
     "wof:name":"Sewing Machines Industrial",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-86.491639,30.507736,-86.491639,30.507736],
-  "geometry": {"coordinates":[-86.491639,30.507736],"type":"Point"}
+  "bbox": [
+    -86.491639,
+    30.507736,
+    -86.491639,
+    30.507736
+],
+  "geometry": {"coordinates":[-86.49163900000001,30.507736],"type":"Point"}
 }

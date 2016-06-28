@@ -2,13 +2,14 @@
   "id": 304063885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.678618,30.312154,-81.678618,30.312154",
     "geom:latitude":30.312154,
     "geom:longitude":-81.678618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Lancaster St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":304063885,
-    "wof:lastmodified":1449043613,
+    "wof:lastmodified":1466432932,
     "wof:name":"White Publishing Co",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.678618,30.312154,-81.678618,30.312154],
+  "bbox": [
+    -81.678618,
+    30.312154,
+    -81.678618,
+    30.312154
+],
   "geometry": {"coordinates":[-81.678618,30.312154],"type":"Point"}
 }

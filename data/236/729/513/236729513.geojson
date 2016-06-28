@@ -2,13 +2,14 @@
   "id": 236729513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.402105,30.34335,-87.402105,30.34335",
     "geom:latitude":30.34335,
     "geom:longitude":-87.402105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1738 Beachside Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236729513,
-    "wof:lastmodified":1449003287,
+    "wof:lastmodified":1466438830,
     "wof:name":"Ciba Cleaning Solutions",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-87.402105,30.34335,-87.402105,30.34335],
-  "geometry": {"coordinates":[-87.402105,30.34335],"type":"Point"}
+  "bbox": [
+    -87.402105,
+    30.34335,
+    -87.402105,
+    30.34335
+],
+  "geometry": {"coordinates":[-87.40210500000001,30.34335],"type":"Point"}
 }

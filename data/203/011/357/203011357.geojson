@@ -2,13 +2,14 @@
   "id": 203011357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088001,26.44698,-80.088001,26.44698",
     "geom:latitude":26.44698,
     "geom:longitude":-80.088001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 SW 10th St",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203011357,
-    "wof:lastmodified":1449026491,
+    "wof:lastmodified":1466435275,
     "wof:name":"U-Haul",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-80.088001,26.44698,-80.088001,26.44698],
-  "geometry": {"coordinates":[-80.088001,26.44698],"type":"Point"}
+  "bbox": [
+    -80.088001,
+    26.44698,
+    -80.088001,
+    26.44698
+],
+  "geometry": {"coordinates":[-80.08800100000001,26.44698],"type":"Point"}
 }

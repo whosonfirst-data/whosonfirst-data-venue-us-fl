@@ -2,13 +2,14 @@
   "id": 219198217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.544064,27.389019,-82.544064,27.389019",
     "geom:latitude":27.389019,
     "geom:longitude":-82.544064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 W University Pkwy",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219198217,
-    "wof:lastmodified":1449071672,
+    "wof:lastmodified":1466444139,
     "wof:name":"A Security First Storage",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-82.544064,27.389019,-82.544064,27.389019],
-  "geometry": {"coordinates":[-82.544064,27.389019],"type":"Point"}
+  "bbox": [
+    -82.544064,
+    27.389019,
+    -82.544064,
+    27.389019
+],
+  "geometry": {"coordinates":[-82.54406400000001,27.389019],"type":"Point"}
 }

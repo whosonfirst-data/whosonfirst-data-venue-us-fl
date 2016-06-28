@@ -2,13 +2,14 @@
   "id": 303413793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.45574,27.276979,-82.45574,27.276979",
     "geom:latitude":27.276979,
     "geom:longitude":-82.45574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Camelot Dr W",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303413793,
-    "wof:lastmodified":1448998505,
+    "wof:lastmodified":1466437661,
     "wof:name":"Camelot Lakes",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-82.45574,27.276979,-82.45574,27.276979],
-  "geometry": {"coordinates":[-82.45574,27.276979],"type":"Point"}
+  "bbox": [
+    -82.45574,
+    27.276979,
+    -82.45574,
+    27.276979
+],
+  "geometry": {"coordinates":[-82.45574000000001,27.276979],"type":"Point"}
 }

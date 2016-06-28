@@ -2,13 +2,14 @@
   "id": 287093427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.659676,27.771905,-82.659676,27.771905",
     "geom:latitude":27.771905,
     "geom:longitude":-82.659676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 1st Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287093427,
-    "wof:lastmodified":1449000656,
+    "wof:lastmodified":1466431491,
     "wof:name":"American Votes",
     "wof:parent_id":85880533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.659676,27.771905,-82.659676,27.771905],
+  "bbox": [
+    -82.659676,
+    27.771905,
+    -82.659676,
+    27.771905
+],
   "geometry": {"coordinates":[-82.659676,27.771905],"type":"Point"}
 }

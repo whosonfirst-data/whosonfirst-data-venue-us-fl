@@ -2,13 +2,14 @@
   "id": 370980719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.092751,26.750908,-80.092751,26.750908",
     "geom:latitude":26.750908,
     "geom:longitude":-80.092751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 1st Way",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370980719,
-    "wof:lastmodified":1449029307,
+    "wof:lastmodified":1466448055,
     "wof:name":"Travel With ME",
     "wof:parent_id":85829407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.092751,26.750908,-80.092751,26.750908],
-  "geometry": {"coordinates":[-80.092751,26.750908],"type":"Point"}
+  "bbox": [
+    -80.092751,
+    26.750908,
+    -80.092751,
+    26.750908
+],
+  "geometry": {"coordinates":[-80.09275100000001,26.750908],"type":"Point"}
 }

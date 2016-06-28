@@ -2,13 +2,14 @@
   "id": 370400425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.334358,28.553527,-81.334358,28.553527",
     "geom:latitude":28.553527,
     "geom:longitude":-81.334358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4007 E Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370400425,
-    "wof:lastmodified":1449029420,
+    "wof:lastmodified":1466440304,
     "wof:name":"Magic Carpet Limousine Service",
     "wof:parent_id":85879433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-81.334358,28.553527,-81.334358,28.553527],
-  "geometry": {"coordinates":[-81.334358,28.553527],"type":"Point"}
+  "bbox": [
+    -81.334358,
+    28.553527,
+    -81.334358,
+    28.553527
+],
+  "geometry": {"coordinates":[-81.33435799999999,28.553527],"type":"Point"}
 }

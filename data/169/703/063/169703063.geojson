@@ -2,13 +2,14 @@
   "id": 169703063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.341073,29.829883,-82.341073,29.829883",
     "geom:latitude":29.829883,
     "geom:longitude":-82.341073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 NW 192nd Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169703063,
-    "wof:lastmodified":1449033686,
+    "wof:lastmodified":1466445517,
     "wof:name":"Lubee Foundation Inc",
     "wof:parent_id":85877601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "conservation"
     ]
 },
-  "bbox": [-82.341073,29.829883,-82.341073,29.829883],
-  "geometry": {"coordinates":[-82.341073,29.829883],"type":"Point"}
+  "bbox": [
+    -82.341073,
+    29.829883,
+    -82.341073,
+    29.829883
+],
+  "geometry": {"coordinates":[-82.34107299999999,29.829883],"type":"Point"}
 }

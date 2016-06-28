@@ -2,13 +2,14 @@
   "id": 320759801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855568,26.73326,-81.855568,26.73326",
     "geom:latitude":26.73326,
     "geom:longitude":-81.855568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18601 Matt Rd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320759801,
-    "wof:lastmodified":1449015022,
+    "wof:lastmodified":1466446429,
     "wof:name":"New Process Furn Stripping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-81.855568,26.73326,-81.855568,26.73326],
-  "geometry": {"coordinates":[-81.855568,26.73326],"type":"Point"}
+  "bbox": [
+    -81.855568,
+    26.73326,
+    -81.855568,
+    26.73326
+],
+  "geometry": {"coordinates":[-81.85556800000001,26.73326],"type":"Point"}
 }

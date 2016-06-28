@@ -2,13 +2,14 @@
   "id": 219333517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.538761,28.015307,-82.538761,28.015307",
     "geom:latitude":28.015307,
     "geom:longitude":-82.538761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5454 W Crenshaw St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219333517,
-    "wof:lastmodified":1449073657,
+    "wof:lastmodified":1466429233,
     "wof:name":"CBSI Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meter"
     ]
 },
-  "bbox": [-82.538761,28.015307,-82.538761,28.015307],
-  "geometry": {"coordinates":[-82.538761,28.015307],"type":"Point"}
+  "bbox": [
+    -82.538761,
+    28.015307,
+    -82.538761,
+    28.015307
+],
+  "geometry": {"coordinates":[-82.53876099999999,28.015307],"type":"Point"}
 }

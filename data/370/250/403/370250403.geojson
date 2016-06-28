@@ -2,13 +2,14 @@
   "id": 370250403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.411531,25.741894,-80.411531,25.741894",
     "geom:latitude":25.741894,
     "geom:longitude":-80.411531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13361 SW 28th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370250403,
-    "wof:lastmodified":1449031001,
+    "wof:lastmodified":1466438022,
     "wof:name":"General Diagnostic Center",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.411531,25.741894,-80.411531,25.741894],
+  "bbox": [
+    -80.411531,
+    25.741894,
+    -80.411531,
+    25.741894
+],
   "geometry": {"coordinates":[-80.411531,25.741894],"type":"Point"}
 }

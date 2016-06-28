@@ -2,13 +2,14 @@
   "id": 269764729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.38997,28.554623,-81.38997,28.554623",
     "geom:latitude":28.554623,
     "geom:longitude":-81.38997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Seminole Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269764729,
-    "wof:lastmodified":1449038847,
+    "wof:lastmodified":1466433478,
     "wof:name":"Paolo Longo Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.38997,28.554623,-81.38997,28.554623],
-  "geometry": {"coordinates":[-81.38997,28.554623],"type":"Point"}
+  "bbox": [
+    -81.38997,
+    28.554623,
+    -81.38997,
+    28.554623
+],
+  "geometry": {"coordinates":[-81.38997000000001,28.554623],"type":"Point"}
 }

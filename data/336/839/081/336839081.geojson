@@ -2,13 +2,14 @@
   "id": 336839081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.319201,29.835746,-81.319201,29.835746",
     "geom:latitude":29.835746,
     "geom:longitude":-81.319201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 Shore Dr",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336839081,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466439135,
     "wof:name":"Arc Of St Johns Inc",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dev"
     ]
 },
-  "bbox": [-81.319201,29.835746,-81.319201,29.835746],
-  "geometry": {"coordinates":[-81.319201,29.835746],"type":"Point"}
+  "bbox": [
+    -81.319201,
+    29.835746,
+    -81.319201,
+    29.835746
+],
+  "geometry": {"coordinates":[-81.31920100000001,29.835746],"type":"Point"}
 }

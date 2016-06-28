@@ -2,13 +2,14 @@
   "id": 202501875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.273007,28.794014,-81.273007,28.794014",
     "geom:latitude":28.794014,
     "geom:longitude":-81.273007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W 20th St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202501875,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466446193,
     "wof:name":"Computer & Networking Solution",
     "wof:parent_id":85847101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.273007,28.794014,-81.273007,28.794014],
-  "geometry": {"coordinates":[-81.273007,28.794014],"type":"Point"}
+  "bbox": [
+    -81.273007,
+    28.794014,
+    -81.273007,
+    28.794014
+],
+  "geometry": {"coordinates":[-81.27300700000001,28.794014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354078241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.361731,25.806347,-80.361731,25.806347",
     "geom:latitude":25.806347,
     "geom:longitude":-80.361731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 Torremolinos Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354078241,
-    "wof:lastmodified":1449067387,
+    "wof:lastmodified":1466437285,
     "wof:name":"Sunrise Chemical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.361731,25.806347,-80.361731,25.806347],
-  "geometry": {"coordinates":[-80.361731,25.806347],"type":"Point"}
+  "bbox": [
+    -80.361731,
+    25.806347,
+    -80.361731,
+    25.806347
+],
+  "geometry": {"coordinates":[-80.36173100000001,25.806347],"type":"Point"}
 }

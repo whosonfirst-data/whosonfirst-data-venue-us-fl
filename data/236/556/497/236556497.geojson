@@ -2,13 +2,14 @@
   "id": 236556497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.474725,27.937238,-82.474725,27.937238",
     "geom:latitude":27.937238,
     "geom:longitude":-82.474725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 W Swann Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236556497,
-    "wof:lastmodified":1449002294,
+    "wof:lastmodified":1466436291,
     "wof:name":"LDC Intl Inc",
     "wof:parent_id":85873223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.474725,27.937238,-82.474725,27.937238],
-  "geometry": {"coordinates":[-82.474725,27.937238],"type":"Point"}
+  "bbox": [
+    -82.474725,
+    27.937238,
+    -82.474725,
+    27.937238
+],
+  "geometry": {"coordinates":[-82.47472500000001,27.937238],"type":"Point"}
 }

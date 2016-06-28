@@ -2,13 +2,14 @@
   "id": 253030625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.299911,28.747044,-81.299911,28.747044",
     "geom:latitude":28.747044,
     "geom:longitude":-81.299911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Bush Blvd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253030625,
-    "wof:lastmodified":1449063915,
+    "wof:lastmodified":1466428910,
     "wof:name":"Rape Victim Assistance Ctr",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.299911,28.747044,-81.299911,28.747044],
-  "geometry": {"coordinates":[-81.299911,28.747044],"type":"Point"}
+  "bbox": [
+    -81.299911,
+    28.747044,
+    -81.299911,
+    28.747044
+],
+  "geometry": {"coordinates":[-81.29991099999999,28.747044],"type":"Point"}
 }

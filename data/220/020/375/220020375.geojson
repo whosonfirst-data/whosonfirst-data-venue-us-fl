@@ -2,13 +2,14 @@
   "id": 220020375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.348415,28.6984,-81.348415,28.6984",
     "geom:latitude":28.6984,
     "geom:longitude":-81.348415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Wilma St",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220020375,
-    "wof:lastmodified":1449074394,
+    "wof:lastmodified":1466444065,
     "wof:name":"Something Old Something New",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.348415,28.6984,-81.348415,28.6984],
+  "bbox": [
+    -81.348415,
+    28.6984,
+    -81.348415,
+    28.6984
+],
   "geometry": {"coordinates":[-81.348415,28.6984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353726141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.313324,30.528745,-87.313324,30.528745",
     "geom:latitude":30.528745,
     "geom:longitude":-87.313324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Pine Forest Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353726141,
-    "wof:lastmodified":1449019987,
+    "wof:lastmodified":1466439798,
     "wof:name":"Tall Oak's Campground Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.313324,30.528745,-87.313324,30.528745],
-  "geometry": {"coordinates":[-87.313324,30.528745],"type":"Point"}
+  "bbox": [
+    -87.313324,
+    30.528745,
+    -87.313324,
+    30.528745
+],
+  "geometry": {"coordinates":[-87.31332399999999,30.528745],"type":"Point"}
 }

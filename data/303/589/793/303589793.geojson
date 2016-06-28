@@ -2,13 +2,14 @@
   "id": 303589793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.475198,28.0335,-82.475198,28.0335",
     "geom:latitude":28.0335,
     "geom:longitude":-82.475198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 W Busch Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303589793,
-    "wof:lastmodified":1448999427,
+    "wof:lastmodified":1466440685,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.475198,28.0335,-82.475198,28.0335],
-  "geometry": {"coordinates":[-82.475198,28.0335],"type":"Point"}
+  "bbox": [
+    -82.475198,
+    28.0335,
+    -82.475198,
+    28.0335
+],
+  "geometry": {"coordinates":[-82.47519800000001,28.0335],"type":"Point"}
 }

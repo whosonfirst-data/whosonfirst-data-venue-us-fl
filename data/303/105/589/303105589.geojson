@@ -2,13 +2,14 @@
   "id": 303105589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.792021,30.253122,-81.792021,30.253122",
     "geom:latitude":30.253122,
     "geom:longitude":-81.792021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8407 Nussbaum Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303105589,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466432316,
     "wof:name":"James Coffey Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.792021,30.253122,-81.792021,30.253122],
-  "geometry": {"coordinates":[-81.792021,30.253122],"type":"Point"}
+  "bbox": [
+    -81.792021,
+    30.253122,
+    -81.792021,
+    30.253122
+],
+  "geometry": {"coordinates":[-81.79202100000001,30.253122],"type":"Point"}
 }

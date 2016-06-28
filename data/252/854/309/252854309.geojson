@@ -2,13 +2,14 @@
   "id": 252854309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.686783,30.312643,-81.686783,30.312643",
     "geom:latitude":30.312643,
     "geom:longitude":-81.686783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Osceola St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":252854309,
-    "wof:lastmodified":1449006457,
+    "wof:lastmodified":1466430542,
     "wof:name":"Mike Hutchens & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.686783,30.312643,-81.686783,30.312643],
-  "geometry": {"coordinates":[-81.686783,30.312643],"type":"Point"}
+  "bbox": [
+    -81.686783,
+    30.312643,
+    -81.686783,
+    30.312643
+],
+  "geometry": {"coordinates":[-81.68678300000001,30.312643],"type":"Point"}
 }

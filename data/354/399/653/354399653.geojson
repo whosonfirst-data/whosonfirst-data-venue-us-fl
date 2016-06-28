@@ -2,13 +2,14 @@
   "id": 354399653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.031405,29.223252,-81.031405,29.223252",
     "geom:latitude":29.223252,
     "geom:longitude":-81.031405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 N Seagrave St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354399653,
-    "wof:lastmodified":1449066235,
+    "wof:lastmodified":1466442205,
     "wof:name":"Jerry's Air Conditioning",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.031405,29.223252,-81.031405,29.223252],
-  "geometry": {"coordinates":[-81.031405,29.223252],"type":"Point"}
+  "bbox": [
+    -81.031405,
+    29.223252,
+    -81.031405,
+    29.223252
+],
+  "geometry": {"coordinates":[-81.03140500000001,29.223252],"type":"Point"}
 }

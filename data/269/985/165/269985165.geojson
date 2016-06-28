@@ -2,13 +2,14 @@
   "id": 269985165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.04139,30.627001,-87.04139,30.627001",
     "geom:latitude":30.627001,
     "geom:longitude":-87.04139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Madison St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269985165,
-    "wof:lastmodified":1449037332,
+    "wof:lastmodified":1466437265,
     "wof:name":"Capture It Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-87.04139,30.627001,-87.04139,30.627001],
-  "geometry": {"coordinates":[-87.04139,30.627001],"type":"Point"}
+  "bbox": [
+    -87.04139,
+    30.627001,
+    -87.04139,
+    30.627001
+],
+  "geometry": {"coordinates":[-87.04139000000001,30.627001],"type":"Point"}
 }

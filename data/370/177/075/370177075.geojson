@@ -2,13 +2,14 @@
   "id": 370177075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.582805,30.219468,-81.582805,30.219468",
     "geom:latitude":30.219468,
     "geom:longitude":-81.582805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8385 Bayberry Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370177075,
-    "wof:lastmodified":1449032469,
+    "wof:lastmodified":1466436863,
     "wof:name":"Imagination Medical Inc",
     "wof:parent_id":85870717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.582805,30.219468,-81.582805,30.219468],
-  "geometry": {"coordinates":[-81.582805,30.219468],"type":"Point"}
+  "bbox": [
+    -81.582805,
+    30.219468,
+    -81.582805,
+    30.219468
+],
+  "geometry": {"coordinates":[-81.58280499999999,30.219468],"type":"Point"}
 }

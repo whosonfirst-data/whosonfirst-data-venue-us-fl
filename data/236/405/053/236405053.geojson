@@ -2,13 +2,14 @@
   "id": 236405053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335483,25.603324,-80.335483,25.603324",
     "geom:latitude":25.603324,
     "geom:longitude":-80.335483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18042 SW 88th Pl",
     "sg:city":"Palmetto Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236405053,
-    "wof:lastmodified":1449004915,
+    "wof:lastmodified":1466434120,
     "wof:name":"Interiors By Pilar",
     "wof:parent_id":85868533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.335483,25.603324,-80.335483,25.603324],
+  "bbox": [
+    -80.335483,
+    25.603324,
+    -80.335483,
+    25.603324
+],
   "geometry": {"coordinates":[-80.335483,25.603324],"type":"Point"}
 }

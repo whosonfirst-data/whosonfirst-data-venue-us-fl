@@ -2,13 +2,14 @@
   "id": 202737145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.974483,30.312418,-82.974483,30.312418",
     "geom:latitude":30.312418,
     "geom:longitude":-82.974483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Grande St",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202737145,
-    "wof:lastmodified":1449060685,
+    "wof:lastmodified":1466431457,
     "wof:name":"Rob Cathcart",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.974483,30.312418,-82.974483,30.312418],
-  "geometry": {"coordinates":[-82.974483,30.312418],"type":"Point"}
+  "bbox": [
+    -82.974483,
+    30.312418,
+    -82.974483,
+    30.312418
+],
+  "geometry": {"coordinates":[-82.97448300000001,30.312418],"type":"Point"}
 }

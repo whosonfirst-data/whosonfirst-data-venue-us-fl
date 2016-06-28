@@ -2,13 +2,14 @@
   "id": 404202603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.33486,29.644999,-82.33486,29.644999",
     "geom:latitude":29.644999,
     "geom:longitude":-82.33486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 SW 8 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404202603,
-    "wof:lastmodified":1449040169,
+    "wof:lastmodified":1466443380,
     "wof:name":"La Mancha Apartments Inc",
     "wof:parent_id":85877659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.33486,29.644999,-82.33486,29.644999],
-  "geometry": {"coordinates":[-82.33486,29.644999],"type":"Point"}
+  "bbox": [
+    -82.33486,
+    29.644999,
+    -82.33486,
+    29.644999
+],
+  "geometry": {"coordinates":[-82.33486000000001,29.644999],"type":"Point"}
 }

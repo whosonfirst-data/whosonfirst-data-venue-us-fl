@@ -2,13 +2,14 @@
   "id": 203041003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.787169,28.063775,-81.787169,28.063775",
     "geom:latitude":28.063775,
     "geom:longitude":-81.787169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Center St",
     "sg:city":"Loughman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203041003,
-    "wof:lastmodified":1449025599,
+    "wof:lastmodified":1466446337,
     "wof:name":"Guaranteed Weatherproof Roof",
     "wof:parent_id":85888547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.787169,28.063775,-81.787169,28.063775],
-  "geometry": {"coordinates":[-81.787169,28.063775],"type":"Point"}
+  "bbox": [
+    -81.787169,
+    28.063775,
+    -81.787169,
+    28.063775
+],
+  "geometry": {"coordinates":[-81.78716900000001,28.063775],"type":"Point"}
 }

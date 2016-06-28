@@ -2,13 +2,14 @@
   "id": 219313237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.59377,27.480026,-82.59377,27.480026",
     "geom:latitude":27.480026,
     "geom:longitude":-82.59377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 22nd Ave W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219313237,
-    "wof:lastmodified":1449070473,
+    "wof:lastmodified":1466428953,
     "wof:name":"Rcs Lawn Service",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.59377,27.480026,-82.59377,27.480026],
-  "geometry": {"coordinates":[-82.59377,27.480026],"type":"Point"}
+  "bbox": [
+    -82.59377,
+    27.480026,
+    -82.59377,
+    27.480026
+],
+  "geometry": {"coordinates":[-82.59377000000001,27.480026],"type":"Point"}
 }

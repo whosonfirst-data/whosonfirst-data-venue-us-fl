@@ -2,13 +2,14 @@
   "id": 370825941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515054,28.702051,-81.515054,28.702051",
     "geom:latitude":28.702051,
     "geom:longitude":-81.515054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Foxforrest Cir",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370825941,
-    "wof:lastmodified":1449029198,
+    "wof:lastmodified":1466446761,
     "wof:name":"Dornier Medical Systems",
     "wof:parent_id":85888545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.515054,28.702051,-81.515054,28.702051],
-  "geometry": {"coordinates":[-81.515054,28.702051],"type":"Point"}
+  "bbox": [
+    -81.515054,
+    28.702051,
+    -81.515054,
+    28.702051
+],
+  "geometry": {"coordinates":[-81.51505400000001,28.702051],"type":"Point"}
 }

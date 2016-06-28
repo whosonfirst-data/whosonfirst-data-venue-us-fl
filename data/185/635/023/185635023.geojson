@@ -2,13 +2,14 @@
   "id": 185635023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.451257,28.047388,-82.451257,28.047388",
     "geom:latitude":28.047388,
     "geom:longitude":-82.451257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11112 N Nebraska Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185635023,
-    "wof:lastmodified":1449007313,
+    "wof:lastmodified":1466446351,
     "wof:name":"Paul Howard Wrecker Svc",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.451257,28.047388,-82.451257,28.047388],
+  "bbox": [
+    -82.451257,
+    28.047388,
+    -82.451257,
+    28.047388
+],
   "geometry": {"coordinates":[-82.451257,28.047388],"type":"Point"}
 }

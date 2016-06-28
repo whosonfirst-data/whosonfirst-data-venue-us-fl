@@ -2,13 +2,14 @@
   "id": 336640831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.139693,26.125114,-80.139693,26.125114",
     "geom:latitude":26.125114,
     "geom:longitude":-80.139693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 NE 3rd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336640831,
-    "wof:lastmodified":1448997423,
+    "wof:lastmodified":1466435686,
     "wof:name":"County of Broward",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "administrative"
     ]
 },
-  "bbox": [-80.139693,26.125114,-80.139693,26.125114],
-  "geometry": {"coordinates":[-80.139693,26.125114],"type":"Point"}
+  "bbox": [
+    -80.139693,
+    26.125114,
+    -80.139693,
+    26.125114
+],
+  "geometry": {"coordinates":[-80.13969299999999,26.125114],"type":"Point"}
 }

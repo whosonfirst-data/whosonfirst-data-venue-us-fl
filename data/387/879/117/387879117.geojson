@@ -2,13 +2,14 @@
   "id": 387879117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.760619,30.147784,-85.760619,30.147784",
     "geom:latitude":30.147784,
     "geom:longitude":-85.760619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Thomas Dr",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387879117,
-    "wof:lastmodified":1449056148,
+    "wof:lastmodified":1466449335,
     "wof:name":"Lowe's Discount Liquors",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.760619,30.147784,-85.760619,30.147784],
-  "geometry": {"coordinates":[-85.760619,30.147784],"type":"Point"}
+  "bbox": [
+    -85.760619,
+    30.147784,
+    -85.760619,
+    30.147784
+],
+  "geometry": {"coordinates":[-85.76061900000001,30.147784],"type":"Point"}
 }

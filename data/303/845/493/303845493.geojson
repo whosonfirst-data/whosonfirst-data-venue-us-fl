@@ -2,13 +2,14 @@
   "id": 303845493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.601429,28.390403,-80.601429,28.390403",
     "geom:latitude":28.390403,
     "geom:longitude":-80.601429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Adams Ave",
     "sg:city":"Cape Canaveral",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303845493,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1466445080,
     "wof:name":"Multi Builders Inc",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.601429,28.390403,-80.601429,28.390403],
+  "bbox": [
+    -80.601429,
+    28.390403,
+    -80.601429,
+    28.390403
+],
   "geometry": {"coordinates":[-80.601429,28.390403],"type":"Point"}
 }

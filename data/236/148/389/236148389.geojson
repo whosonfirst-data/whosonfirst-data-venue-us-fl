@@ -2,13 +2,14 @@
   "id": 236148389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.734548,30.318582,-81.734548,30.318582",
     "geom:latitude":30.318582,
     "geom:longitude":-81.734548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5235 Rosselle St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236148389,
-    "wof:lastmodified":1449004627,
+    "wof:lastmodified":1466430475,
     "wof:name":"Williams Portable Welding",
     "wof:parent_id":85817537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-81.734548,30.318582,-81.734548,30.318582],
+  "bbox": [
+    -81.734548,
+    30.318582,
+    -81.734548,
+    30.318582
+],
   "geometry": {"coordinates":[-81.734548,30.318582],"type":"Point"}
 }

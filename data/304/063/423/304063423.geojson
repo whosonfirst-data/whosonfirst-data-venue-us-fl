@@ -2,13 +2,14 @@
   "id": 304063423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.675834,27.774573,-82.675834,27.774573",
     "geom:latitude":27.774573,
     "geom:longitude":-82.675834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3170 3rd Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304063423,
-    "wof:lastmodified":1449043613,
+    "wof:lastmodified":1466432923,
     "wof:name":"True Expressions Inc",
     "wof:parent_id":85880537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-82.675834,27.774573,-82.675834,27.774573],
-  "geometry": {"coordinates":[-82.675834,27.774573],"type":"Point"}
+  "bbox": [
+    -82.675834,
+    27.774573,
+    -82.675834,
+    27.774573
+],
+  "geometry": {"coordinates":[-82.67583399999999,27.774573],"type":"Point"}
 }

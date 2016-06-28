@@ -2,13 +2,14 @@
   "id": 403853613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.336435,25.650731,-80.336435,25.650731",
     "geom:latitude":25.650731,
     "geom:longitude":-80.336435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8897 SW 129th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403853613,
-    "wof:lastmodified":1449055167,
+    "wof:lastmodified":1466442013,
     "wof:name":"Ibis 49 Corp",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.336435,25.650731,-80.336435,25.650731],
-  "geometry": {"coordinates":[-80.336435,25.650731],"type":"Point"}
+  "bbox": [
+    -80.336435,
+    25.650731,
+    -80.336435,
+    25.650731
+],
+  "geometry": {"coordinates":[-80.33643499999999,25.650731],"type":"Point"}
 }

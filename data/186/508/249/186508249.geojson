@@ -2,13 +2,14 @@
   "id": 186508249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.379968,28.531045,-81.379968,28.531045",
     "geom:latitude":28.531045,
     "geom:longitude":-81.379968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 W Gore St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186508249,
-    "wof:lastmodified":1449051882,
+    "wof:lastmodified":1466432908,
     "wof:name":"Orlando Heart Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cardiology"
     ]
 },
-  "bbox": [-81.379968,28.531045,-81.379968,28.531045],
-  "geometry": {"coordinates":[-81.379968,28.531045],"type":"Point"}
+  "bbox": [
+    -81.379968,
+    28.531045,
+    -81.379968,
+    28.531045
+],
+  "geometry": {"coordinates":[-81.37996800000001,28.531045],"type":"Point"}
 }

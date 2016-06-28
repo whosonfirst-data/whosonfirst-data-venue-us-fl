@@ -2,13 +2,14 @@
   "id": 202678707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545865,28.561287,-81.545865,28.561287",
     "geom:latitude":28.561287,
     "geom:longitude":-81.545865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Columbus St",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202678707,
-    "wof:lastmodified":1449061356,
+    "wof:lastmodified":1466430708,
     "wof:name":"Marra Air Conditioning Svc",
     "wof:parent_id":85865205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.545865,28.561287,-81.545865,28.561287],
-  "geometry": {"coordinates":[-81.545865,28.561287],"type":"Point"}
+  "bbox": [
+    -81.545865,
+    28.561287,
+    -81.545865,
+    28.561287
+],
+  "geometry": {"coordinates":[-81.54586500000001,28.561287],"type":"Point"}
 }

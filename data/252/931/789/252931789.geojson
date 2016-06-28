@@ -2,13 +2,14 @@
   "id": 252931789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086555,26.364486,-80.086555,26.364486",
     "geom:latitude":26.364486,
     "geom:longitude":-80.086555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 NW 1st Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252931789,
-    "wof:lastmodified":1449006414,
+    "wof:lastmodified":1466431670,
     "wof:name":"Sebastian Group",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.086555,26.364486,-80.086555,26.364486],
+  "bbox": [
+    -80.086555,
+    26.364486,
+    -80.086555,
+    26.364486
+],
   "geometry": {"coordinates":[-80.086555,26.364486],"type":"Point"}
 }

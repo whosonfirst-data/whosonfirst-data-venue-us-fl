@@ -2,13 +2,14 @@
   "id": 169608399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.239837,30.428431,-84.239837,30.428431",
     "geom:latitude":30.428431,
     "geom:longitude":-84.239837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169608399,
-    "wof:lastmodified":1449034080,
+    "wof:lastmodified":1466439559,
     "wof:name":"Bill Williams Insurance",
     "wof:parent_id":85881349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.239837,30.428431,-84.239837,30.428431],
-  "geometry": {"coordinates":[-84.239837,30.428431],"type":"Point"}
+  "bbox": [
+    -84.239837,
+    30.428431,
+    -84.239837,
+    30.428431
+],
+  "geometry": {"coordinates":[-84.23983699999999,30.428431],"type":"Point"}
 }

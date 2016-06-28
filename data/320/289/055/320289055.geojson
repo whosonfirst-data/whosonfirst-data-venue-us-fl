@@ -2,13 +2,14 @@
   "id": 320289055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.261442,25.862587,-80.261442,25.862587",
     "geom:latitude":25.862587,
     "geom:longitude":-80.261442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 E 10th Ln",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320289055,
-    "wof:lastmodified":1449014354,
+    "wof:lastmodified":1466438327,
     "wof:name":"American Household Product",
     "wof:parent_id":85878147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-80.261442,25.862587,-80.261442,25.862587],
+  "bbox": [
+    -80.261442,
+    25.862587,
+    -80.261442,
+    25.862587
+],
   "geometry": {"coordinates":[-80.261442,25.862587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386925927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.20529,27.774824,-81.20529,27.774824",
     "geom:latitude":27.774824,
     "geom:longitude":-81.20529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25348 Canterbury Dr",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386925927,
-    "wof:lastmodified":1449028629,
+    "wof:lastmodified":1466438323,
     "wof:name":"Limoges Stamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-81.20529,27.774824,-81.20529,27.774824],
-  "geometry": {"coordinates":[-81.20529,27.774824],"type":"Point"}
+  "bbox": [
+    -81.20529,
+    27.774824,
+    -81.20529,
+    27.774824
+],
+  "geometry": {"coordinates":[-81.20529000000001,27.774824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253407403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137045,26.203799,-80.137045,26.203799",
     "geom:latitude":26.203799,
     "geom:longitude":-80.137045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 NE 62nd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253407403,
-    "wof:lastmodified":1449064471,
+    "wof:lastmodified":1466433995,
     "wof:name":"Jesters Bar & Grill",
     "wof:parent_id":85812263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-80.137045,26.203799,-80.137045,26.203799],
+  "bbox": [
+    -80.137045,
+    26.203799,
+    -80.137045,
+    26.203799
+],
   "geometry": {"coordinates":[-80.137045,26.203799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203227525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517136,27.924138,-82.517136,27.924138",
     "geom:latitude":27.924138,
     "geom:longitude":-82.517136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4343 Henderson Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203227525,
-    "wof:lastmodified":1449025332,
+    "wof:lastmodified":1466429249,
     "wof:name":"Edward Jones 13545",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-82.517136,27.924138,-82.517136,27.924138],
-  "geometry": {"coordinates":[-82.517136,27.924138],"type":"Point"}
+  "bbox": [
+    -82.517136,
+    27.924138,
+    -82.517136,
+    27.924138
+],
+  "geometry": {"coordinates":[-82.51713599999999,27.924138],"type":"Point"}
 }

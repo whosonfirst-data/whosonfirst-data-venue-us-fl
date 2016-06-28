@@ -2,13 +2,14 @@
   "id": 370874723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.243576,26.172389,-80.243576,26.172389",
     "geom:latitude":26.172389,
     "geom:longitude":-80.243576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Environ Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370874723,
-    "wof:lastmodified":1449032248,
+    "wof:lastmodified":1466447105,
     "wof:name":"Eurofloors Inc",
     "wof:parent_id":85896109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.243576,26.172389,-80.243576,26.172389],
+  "bbox": [
+    -80.243576,
+    26.172389,
+    -80.243576,
+    26.172389
+],
   "geometry": {"coordinates":[-80.243576,26.172389],"type":"Point"}
 }

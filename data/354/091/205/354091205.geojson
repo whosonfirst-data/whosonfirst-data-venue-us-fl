@@ -2,13 +2,14 @@
   "id": 354091205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589086,30.351937,-81.589086,30.351937",
     "geom:latitude":30.351937,
     "geom:longitude":-81.589086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Merrill Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354091205,
-    "wof:lastmodified":1449066099,
+    "wof:lastmodified":1466437489,
     "wof:name":"St Matthew's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.589086,30.351937,-81.589086,30.351937],
-  "geometry": {"coordinates":[-81.589086,30.351937],"type":"Point"}
+  "bbox": [
+    -81.589086,
+    30.351937,
+    -81.589086,
+    30.351937
+],
+  "geometry": {"coordinates":[-81.58908599999999,30.351937],"type":"Point"}
 }

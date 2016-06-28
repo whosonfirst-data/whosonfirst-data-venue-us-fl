@@ -2,13 +2,14 @@
   "id": 320002427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.817751,28.557678,-80.817751,28.557678",
     "geom:latitude":28.557678,
     "geom:longitude":-80.817751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Cheney Hwy",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320002427,
-    "wof:lastmodified":1449014291,
+    "wof:lastmodified":1466433447,
     "wof:name":"James M Thomas DDS",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.817751,28.557678,-80.817751,28.557678],
+  "bbox": [
+    -80.817751,
+    28.557678,
+    -80.817751,
+    28.557678
+],
   "geometry": {"coordinates":[-80.817751,28.557678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387551703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.099304,30.602386,-83.099304,30.602386",
     "geom:latitude":30.602386,
     "geom:longitude":-83.099304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 Plum St",
     "sg:city":"Jennings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387551703,
-    "wof:lastmodified":1449056862,
+    "wof:lastmodified":1466446825,
     "wof:name":"S & S Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.099304,30.602386,-83.099304,30.602386],
+  "bbox": [
+    -83.099304,
+    30.602386,
+    -83.099304,
+    30.602386
+],
   "geometry": {"coordinates":[-83.099304,30.602386],"type":"Point"}
 }

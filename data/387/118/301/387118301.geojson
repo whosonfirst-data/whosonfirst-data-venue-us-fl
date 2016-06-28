@@ -2,13 +2,14 @@
   "id": 387118301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179969,26.121433,-80.179969,26.121433",
     "geom:latitude":26.121433,
     "geom:longitude":-80.179969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 W Broward Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387118301,
-    "wof:lastmodified":1449059190,
+    "wof:lastmodified":1466440526,
     "wof:name":"Broward Moving Ctr",
     "wof:parent_id":85877519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-80.179969,26.121433,-80.179969,26.121433],
+  "bbox": [
+    -80.179969,
+    26.121433,
+    -80.179969,
+    26.121433
+],
   "geometry": {"coordinates":[-80.179969,26.121433],"type":"Point"}
 }

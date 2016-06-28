@@ -2,13 +2,14 @@
   "id": 303278377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.558983,28.807748,-81.558983,28.807748",
     "geom:latitude":28.807748,
     "geom:longitude":-81.558983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24033 State Hwy 46",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303278377,
-    "wof:lastmodified":1448999471,
+    "wof:lastmodified":1466435352,
     "wof:name":"Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-81.558983,28.807748,-81.558983,28.807748],
+  "bbox": [
+    -81.558983,
+    28.807748,
+    -81.558983,
+    28.807748
+],
   "geometry": {"coordinates":[-81.558983,28.807748],"type":"Point"}
 }

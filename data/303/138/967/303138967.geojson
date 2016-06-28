@@ -2,13 +2,14 @@
   "id": 303138967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.387631,25.765449,-80.387631,25.765449",
     "geom:latitude":25.765449,
     "geom:longitude":-80.387631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11865 SW 3rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303138967,
-    "wof:lastmodified":1448998821,
+    "wof:lastmodified":1466432912,
     "wof:name":"Maria Casa",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.387631,25.765449,-80.387631,25.765449],
+  "bbox": [
+    -80.387631,
+    25.765449,
+    -80.387631,
+    25.765449
+],
   "geometry": {"coordinates":[-80.387631,25.765449],"type":"Point"}
 }

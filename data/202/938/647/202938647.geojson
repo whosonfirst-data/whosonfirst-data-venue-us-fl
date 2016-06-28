@@ -2,13 +2,14 @@
   "id": 202938647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.692302,28.206316,-80.692302,28.206316",
     "geom:latitude":28.206316,
     "geom:longitude":-80.692302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Wildwood Dr",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202938647,
-    "wof:lastmodified":1449061995,
+    "wof:lastmodified":1466434113,
     "wof:name":"Fl Property Inspection Svc",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.692302,28.206316,-80.692302,28.206316],
+  "bbox": [
+    -80.692302,
+    28.206316,
+    -80.692302,
+    28.206316
+],
   "geometry": {"coordinates":[-80.692302,28.206316],"type":"Point"}
 }

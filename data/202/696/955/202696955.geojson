@@ -2,13 +2,14 @@
   "id": 202696955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.321193,29.918346,-81.321193,29.918346",
     "geom:latitude":29.918346,
     "geom:longitude":-81.321193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hildreth Dr",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202696955,
-    "wof:lastmodified":1449060303,
+    "wof:lastmodified":1466430947,
     "wof:name":"St Johns County Media Ctr",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.321193,29.918346,-81.321193,29.918346],
-  "geometry": {"coordinates":[-81.321193,29.918346],"type":"Point"}
+  "bbox": [
+    -81.321193,
+    29.918346,
+    -81.321193,
+    29.918346
+],
+  "geometry": {"coordinates":[-81.32119299999999,29.918346],"type":"Point"}
 }

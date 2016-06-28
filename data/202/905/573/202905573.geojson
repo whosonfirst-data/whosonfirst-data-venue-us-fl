@@ -2,13 +2,14 @@
   "id": 202905573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.817524,26.268156,-81.817524,26.268156",
     "geom:latitude":26.268156,
     "geom:longitude":-81.817524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10662 Vanderbilt Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202905573,
-    "wof:lastmodified":1449061115,
+    "wof:lastmodified":1466433672,
     "wof:name":"Apple Mortgage of SW Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-81.817524,26.268156,-81.817524,26.268156],
-  "geometry": {"coordinates":[-81.817524,26.268156],"type":"Point"}
+  "bbox": [
+    -81.817524,
+    26.268156,
+    -81.817524,
+    26.268156
+],
+  "geometry": {"coordinates":[-81.81752400000001,26.268156],"type":"Point"}
 }

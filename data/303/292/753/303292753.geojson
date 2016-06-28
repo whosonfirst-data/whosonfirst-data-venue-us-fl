@@ -2,13 +2,14 @@
   "id": 303292753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.174256,30.469443,-87.174256,30.469443",
     "geom:latitude":30.469443,
     "geom:longitude":-87.174256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4470 Spanish Trl",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303292753,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466435584,
     "wof:name":"Lawrence Reilly",
     "wof:parent_id":85820875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.174256,30.469443,-87.174256,30.469443],
+  "bbox": [
+    -87.174256,
+    30.469443,
+    -87.174256,
+    30.469443
+],
   "geometry": {"coordinates":[-87.174256,30.469443],"type":"Point"}
 }

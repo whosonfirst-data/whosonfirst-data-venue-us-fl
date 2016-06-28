@@ -2,13 +2,14 @@
   "id": 270073919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.304063,28.524926,-81.304063,28.524926",
     "geom:latitude":28.524926,
     "geom:longitude":-81.304063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5976 Wallace Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270073919,
-    "wof:lastmodified":1449008984,
+    "wof:lastmodified":1466430718,
     "wof:name":"PRMI Funding",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-81.304063,28.524926,-81.304063,28.524926],
+  "bbox": [
+    -81.304063,
+    28.524926,
+    -81.304063,
+    28.524926
+],
   "geometry": {"coordinates":[-81.304063,28.524926],"type":"Point"}
 }

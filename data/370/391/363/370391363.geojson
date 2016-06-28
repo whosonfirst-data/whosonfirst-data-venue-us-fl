@@ -2,13 +2,14 @@
   "id": 370391363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136153,26.133588,-80.136153,26.133588",
     "geom:latitude":26.133588,
     "geom:longitude":-80.136153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NE 8th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370391363,
-    "wof:lastmodified":1449031242,
+    "wof:lastmodified":1466440172,
     "wof:name":"War Memorial Auditorium",
     "wof:parent_id":85877507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.136153,26.133588,-80.136153,26.133588],
-  "geometry": {"coordinates":[-80.136153,26.133588],"type":"Point"}
+  "bbox": [
+    -80.136153,
+    26.133588,
+    -80.136153,
+    26.133588
+],
+  "geometry": {"coordinates":[-80.13615299999999,26.133588],"type":"Point"}
 }

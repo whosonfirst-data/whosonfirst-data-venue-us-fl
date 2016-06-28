@@ -2,13 +2,14 @@
   "id": 286296515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.185689,26.200412,-80.185689,26.200412",
     "geom:latitude":26.200412,
     "geom:longitude":-80.185689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2966 NW 60th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286296515,
-    "wof:lastmodified":1449017576,
+    "wof:lastmodified":1466430258,
     "wof:name":"Eagle Aircraft Svc",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "avionics"
     ]
 },
-  "bbox": [-80.185689,26.200412,-80.185689,26.200412],
+  "bbox": [
+    -80.185689,
+    26.200412,
+    -80.185689,
+    26.200412
+],
   "geometry": {"coordinates":[-80.185689,26.200412],"type":"Point"}
 }

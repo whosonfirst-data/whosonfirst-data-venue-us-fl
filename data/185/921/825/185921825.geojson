@@ -2,13 +2,14 @@
   "id": 185921825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.350912,28.294555,-81.350912,28.294555",
     "geom:latitude":28.294555,
     "geom:longitude":-81.350912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 New Beginnings Rd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185921825,
-    "wof:lastmodified":1449007629,
+    "wof:lastmodified":1466430173,
     "wof:name":"Cornerstone School",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.350912,28.294555,-81.350912,28.294555],
-  "geometry": {"coordinates":[-81.350912,28.294555],"type":"Point"}
+  "bbox": [
+    -81.350912,
+    28.294555,
+    -81.350912,
+    28.294555
+],
+  "geometry": {"coordinates":[-81.35091199999999,28.294555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387188323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.701287,30.295474,-81.701287,30.295474",
     "geom:latitude":30.295474,
     "geom:longitude":-81.701287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3591 Richmond St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387188323,
-    "wof:lastmodified":1449057995,
+    "wof:lastmodified":1466441609,
     "wof:name":"Tidewell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "lessor"
     ]
 },
-  "bbox": [-81.701287,30.295474,-81.701287,30.295474],
-  "geometry": {"coordinates":[-81.701287,30.295474],"type":"Point"}
+  "bbox": [
+    -81.701287,
+    30.295474,
+    -81.701287,
+    30.295474
+],
+  "geometry": {"coordinates":[-81.70128699999999,30.295474],"type":"Point"}
 }

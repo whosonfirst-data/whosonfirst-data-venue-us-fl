@@ -2,13 +2,14 @@
   "id": 202654171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.101791,30.592578,-87.101791,30.592578",
     "geom:latitude":30.592578,
     "geom:longitude":-87.101791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4267 W Ave de Golf",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202654171,
-    "wof:lastmodified":1449060968,
+    "wof:lastmodified":1466430396,
     "wof:name":"Real Estate Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-87.101791,30.592578,-87.101791,30.592578],
-  "geometry": {"coordinates":[-87.101791,30.592578],"type":"Point"}
+  "bbox": [
+    -87.101791,
+    30.592578,
+    -87.101791,
+    30.592578
+],
+  "geometry": {"coordinates":[-87.10179100000001,30.592578],"type":"Point"}
 }

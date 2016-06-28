@@ -2,13 +2,14 @@
   "id": 303041499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.371891,28.586684,-81.371891,28.586684",
     "geom:latitude":28.586684,
     "geom:longitude":-81.371891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 Indiana Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303041499,
-    "wof:lastmodified":1448999004,
+    "wof:lastmodified":1466431160,
     "wof:name":"Mid-Florida Appraisal Inc",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.371891,28.586684,-81.371891,28.586684],
-  "geometry": {"coordinates":[-81.371891,28.586684],"type":"Point"}
+  "bbox": [
+    -81.371891,
+    28.586684,
+    -81.371891,
+    28.586684
+],
+  "geometry": {"coordinates":[-81.37189100000001,28.586684],"type":"Point"}
 }

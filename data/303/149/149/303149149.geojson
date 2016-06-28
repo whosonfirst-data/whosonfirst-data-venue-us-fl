@@ -2,13 +2,14 @@
   "id": 303149149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.161167,26.177845,-80.161167,26.177845",
     "geom:latitude":26.177845,
     "geom:longitude":-80.161167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 NW 12th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303149149,
-    "wof:lastmodified":1448998122,
+    "wof:lastmodified":1466433097,
     "wof:name":"E-Sense Design",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-80.161167,26.177845,-80.161167,26.177845],
-  "geometry": {"coordinates":[-80.161167,26.177845],"type":"Point"}
+  "bbox": [
+    -80.161167,
+    26.177845,
+    -80.161167,
+    26.177845
+],
+  "geometry": {"coordinates":[-80.16116700000001,26.177845],"type":"Point"}
 }

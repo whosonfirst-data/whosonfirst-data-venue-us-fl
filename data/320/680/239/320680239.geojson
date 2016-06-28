@@ -2,13 +2,14 @@
   "id": 320680239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131441,26.148868,-80.131441,26.148868",
     "geom:latitude":26.148868,
     "geom:longitude":-80.131441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 NE 12th Ter",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320680239,
-    "wof:lastmodified":1449013882,
+    "wof:lastmodified":1466445150,
     "wof:name":"Mattress Giant Inc",
     "wof:parent_id":85877511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "reserve"
     ]
 },
-  "bbox": [-80.131441,26.148868,-80.131441,26.148868],
+  "bbox": [
+    -80.131441,
+    26.148868,
+    -80.131441,
+    26.148868
+],
   "geometry": {"coordinates":[-80.131441,26.148868],"type":"Point"}
 }

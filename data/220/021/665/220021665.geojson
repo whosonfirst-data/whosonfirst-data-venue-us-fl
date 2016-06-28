@@ -2,13 +2,14 @@
   "id": 220021665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086902,26.343532,-80.086902,26.343532",
     "geom:latitude":26.343532,
     "geom:longitude":-80.086902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 SE 7th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220021665,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466444096,
     "wof:name":"Pbm Development Inc",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developer"
     ]
 },
-  "bbox": [-80.086902,26.343532,-80.086902,26.343532],
-  "geometry": {"coordinates":[-80.086902,26.343532],"type":"Point"}
+  "bbox": [
+    -80.086902,
+    26.343532,
+    -80.086902,
+    26.343532
+],
+  "geometry": {"coordinates":[-80.08690199999999,26.343532],"type":"Point"}
 }

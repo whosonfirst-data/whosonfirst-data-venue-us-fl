@@ -2,13 +2,14 @@
   "id": 303743639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.15649,29.234593,-82.15649,29.234593",
     "geom:latitude":29.234593,
     "geom:longitude":-82.15649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 NW 46th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303743639,
-    "wof:lastmodified":1449000553,
+    "wof:lastmodified":1466443359,
     "wof:name":"Embroidery Shop",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-82.15649,29.234593,-82.15649,29.234593],
-  "geometry": {"coordinates":[-82.15649,29.234593],"type":"Point"}
+  "bbox": [
+    -82.15649,
+    29.234593,
+    -82.15649,
+    29.234593
+],
+  "geometry": {"coordinates":[-82.15649000000001,29.234593],"type":"Point"}
 }

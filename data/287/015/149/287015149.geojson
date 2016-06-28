@@ -2,13 +2,14 @@
   "id": 287015149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.114533,29.19487,-82.114533,29.19487",
     "geom:latitude":29.19487,
     "geom:longitude":-82.114533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 NE 7th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287015149,
-    "wof:lastmodified":1449000866,
+    "wof:lastmodified":1466430072,
     "wof:name":"Nouveau Cosmeceuticals",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.114533,29.19487,-82.114533,29.19487],
-  "geometry": {"coordinates":[-82.114533,29.19487],"type":"Point"}
+  "bbox": [
+    -82.114533,
+    29.19487,
+    -82.114533,
+    29.19487
+],
+  "geometry": {"coordinates":[-82.11453299999999,29.19487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370230451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101566,26.609745,-80.101566,26.609745",
     "geom:latitude":26.609745,
     "geom:longitude":-80.101566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 Gulfstream Rd",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370230451,
-    "wof:lastmodified":1449031608,
+    "wof:lastmodified":1466437695,
     "wof:name":"Jani-King",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.101566,26.609745,-80.101566,26.609745],
-  "geometry": {"coordinates":[-80.101566,26.609745],"type":"Point"}
+  "bbox": [
+    -80.101566,
+    26.609745,
+    -80.101566,
+    26.609745
+],
+  "geometry": {"coordinates":[-80.10156600000001,26.609745],"type":"Point"}
 }

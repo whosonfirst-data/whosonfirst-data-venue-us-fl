@@ -2,13 +2,14 @@
   "id": 303173009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.186163,30.507441,-87.186163,30.507441",
     "geom:latitude":30.507441,
     "geom:longitude":-87.186163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 King Arthur Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303173009,
-    "wof:lastmodified":1448998588,
+    "wof:lastmodified":1466433516,
     "wof:name":"Heuiser Medical Corp",
     "wof:parent_id":85806575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-87.186163,30.507441,-87.186163,30.507441],
-  "geometry": {"coordinates":[-87.186163,30.507441],"type":"Point"}
+  "bbox": [
+    -87.186163,
+    30.507441,
+    -87.186163,
+    30.507441
+],
+  "geometry": {"coordinates":[-87.18616299999999,30.507441],"type":"Point"}
 }

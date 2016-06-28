@@ -2,13 +2,14 @@
   "id": 269508403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751027,26.710002,-81.751027,26.710002",
     "geom:latitude":26.710002,
     "geom:longitude":-81.751027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Parkview Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269508403,
-    "wof:lastmodified":1449037477,
+    "wof:lastmodified":1466428922,
     "wof:name":"Morgan Casey Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.751027,26.710002,-81.751027,26.710002],
-  "geometry": {"coordinates":[-81.751027,26.710002],"type":"Point"}
+  "bbox": [
+    -81.751027,
+    26.710002,
+    -81.751027,
+    26.710002
+],
+  "geometry": {"coordinates":[-81.75102699999999,26.710002],"type":"Point"}
 }

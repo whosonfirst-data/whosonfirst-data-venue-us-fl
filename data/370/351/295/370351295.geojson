@@ -2,13 +2,14 @@
   "id": 370351295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.723711,28.81842,-81.723711,28.81842",
     "geom:latitude":28.81842,
     "geom:longitude":-81.723711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 E Burleigh Blvd",
     "sg:city":"Tavares",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370351295,
-    "wof:lastmodified":1449031959,
+    "wof:lastmodified":1466439541,
     "wof:name":"My Sweet Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.723711,28.81842,-81.723711,28.81842],
-  "geometry": {"coordinates":[-81.723711,28.81842],"type":"Point"}
+  "bbox": [
+    -81.723711,
+    28.81842,
+    -81.723711,
+    28.81842
+],
+  "geometry": {"coordinates":[-81.72371099999999,28.81842],"type":"Point"}
 }

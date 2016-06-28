@@ -2,13 +2,14 @@
   "id": 303747221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137078,26.496012,-80.137078,26.496012",
     "geom:latitude":26.496012,
     "geom:longitude":-80.137078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12164 Pasadena Way",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303747221,
-    "wof:lastmodified":1448998563,
+    "wof:lastmodified":1466443421,
     "wof:name":"Check Out My Site",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-80.137078,26.496012,-80.137078,26.496012],
+  "bbox": [
+    -80.137078,
+    26.496012,
+    -80.137078,
+    26.496012
+],
   "geometry": {"coordinates":[-80.137078,26.496012],"type":"Point"}
 }

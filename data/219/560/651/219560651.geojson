@@ -2,13 +2,14 @@
   "id": 219560651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146793,26.175724,-80.146793,26.175724",
     "geom:latitude":26.175724,
     "geom:longitude":-80.146793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 N Andrews Ave",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219560651,
-    "wof:lastmodified":1449073095,
+    "wof:lastmodified":1466432293,
     "wof:name":"Summit Dental",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.146793,26.175724,-80.146793,26.175724],
+  "bbox": [
+    -80.146793,
+    26.175724,
+    -80.146793,
+    26.175724
+],
   "geometry": {"coordinates":[-80.146793,26.175724],"type":"Point"}
 }

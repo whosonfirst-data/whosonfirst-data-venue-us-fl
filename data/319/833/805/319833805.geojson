@@ -2,13 +2,14 @@
   "id": 319833805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241014,25.911256,-80.241014,25.911256",
     "geom:latitude":25.911256,
     "geom:longitude":-80.241014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 NW 150th St",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319833805,
-    "wof:lastmodified":1449024196,
+    "wof:lastmodified":1466433030,
     "wof:name":"Alexikeit Wedding Solutions",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.241014,25.911256,-80.241014,25.911256],
-  "geometry": {"coordinates":[-80.241014,25.911256],"type":"Point"}
+  "bbox": [
+    -80.241014,
+    25.911256,
+    -80.241014,
+    25.911256
+],
+  "geometry": {"coordinates":[-80.24101400000001,25.911256],"type":"Point"}
 }

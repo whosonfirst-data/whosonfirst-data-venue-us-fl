@@ -2,13 +2,14 @@
   "id": 219209123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326012,27.410237,-80.326012,27.410237",
     "geom:latitude":27.410237,
     "geom:longitude":-80.326012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3047 S US Hwy 1",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219209123,
-    "wof:lastmodified":1449073543,
+    "wof:lastmodified":1466444421,
     "wof:name":"Doris White Realty Inc",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.326012,27.410237,-80.326012,27.410237],
-  "geometry": {"coordinates":[-80.326012,27.410237],"type":"Point"}
+  "bbox": [
+    -80.326012,
+    27.410237,
+    -80.326012,
+    27.410237
+],
+  "geometry": {"coordinates":[-80.32601200000001,27.410237],"type":"Point"}
 }

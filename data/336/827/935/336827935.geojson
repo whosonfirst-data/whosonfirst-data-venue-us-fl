@@ -2,13 +2,14 @@
   "id": 336827935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.107346,26.167403,-80.107346,26.167403",
     "geom:latitude":26.167403,
     "geom:longitude":-80.107346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336827935,
-    "wof:lastmodified":1448997316,
+    "wof:lastmodified":1466438931,
     "wof:name":"Match Point Tennis Inc",
     "wof:parent_id":85812259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tennis"
     ]
 },
-  "bbox": [-80.107346,26.167403,-80.107346,26.167403],
-  "geometry": {"coordinates":[-80.107346,26.167403],"type":"Point"}
+  "bbox": [
+    -80.107346,
+    26.167403,
+    -80.107346,
+    26.167403
+],
+  "geometry": {"coordinates":[-80.10734600000001,26.167403],"type":"Point"}
 }

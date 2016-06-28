@@ -2,13 +2,14 @@
   "id": 236273289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269021,25.760883,-80.269021,25.760883",
     "geom:latitude":25.760883,
     "geom:longitude":-80.269021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 SW 11th St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236273289,
-    "wof:lastmodified":1449003346,
+    "wof:lastmodified":1466432287,
     "wof:name":"Eduardo Garcia Installation",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-80.269021,25.760883,-80.269021,25.760883],
+  "bbox": [
+    -80.269021,
+    25.760883,
+    -80.269021,
+    25.760883
+],
   "geometry": {"coordinates":[-80.269021,25.760883],"type":"Point"}
 }

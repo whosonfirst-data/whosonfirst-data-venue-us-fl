@@ -2,13 +2,14 @@
   "id": 387871413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.287489,30.449156,-84.287489,30.449156",
     "geom:latitude":30.449156,
     "geom:longitude":-84.287489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 W Brevard St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387871413,
-    "wof:lastmodified":1449057347,
+    "wof:lastmodified":1466449529,
     "wof:name":"Greater French Town Governors",
     "wof:parent_id":85881343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.287489,30.449156,-84.287489,30.449156],
-  "geometry": {"coordinates":[-84.287489,30.449156],"type":"Point"}
+  "bbox": [
+    -84.287489,
+    30.449156,
+    -84.287489,
+    30.449156
+],
+  "geometry": {"coordinates":[-84.28748899999999,30.449156],"type":"Point"}
 }

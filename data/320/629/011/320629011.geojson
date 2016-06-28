@@ -2,13 +2,14 @@
   "id": 320629011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.588705,30.320475,-81.588705,30.320475",
     "geom:latitude":30.320475,
     "geom:longitude":-81.588705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Tidewater Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320629011,
-    "wof:lastmodified":1449014090,
+    "wof:lastmodified":1466444274,
     "wof:name":"Specialized Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.588705,30.320475,-81.588705,30.320475],
+  "bbox": [
+    -81.588705,
+    30.320475,
+    -81.588705,
+    30.320475
+],
   "geometry": {"coordinates":[-81.588705,30.320475],"type":"Point"}
 }

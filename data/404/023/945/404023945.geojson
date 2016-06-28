@@ -2,13 +2,14 @@
   "id": 404023945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.463283,30.515228,-86.463283,30.515228",
     "geom:latitude":30.515228,
     "geom:longitude":-86.463283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404023945,
-    "wof:lastmodified":1449040216,
+    "wof:lastmodified":1466440634,
     "wof:name":"Beacon Express",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-86.463283,30.515228,-86.463283,30.515228],
+  "bbox": [
+    -86.463283,
+    30.515228,
+    -86.463283,
+    30.515228
+],
   "geometry": {"coordinates":[-86.463283,30.515228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320166583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.410002,25.646922,-80.410002,25.646922",
     "geom:latitude":25.646922,
     "geom:longitude":-80.410002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12929 SW 133rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320166583,
-    "wof:lastmodified":1449013351,
+    "wof:lastmodified":1466436240,
     "wof:name":"Fantasy Gates",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gates"
     ]
 },
-  "bbox": [-80.410002,25.646922,-80.410002,25.646922],
-  "geometry": {"coordinates":[-80.410002,25.646922],"type":"Point"}
+  "bbox": [
+    -80.410002,
+    25.646922,
+    -80.410002,
+    25.646922
+],
+  "geometry": {"coordinates":[-80.41000200000001,25.646922],"type":"Point"}
 }

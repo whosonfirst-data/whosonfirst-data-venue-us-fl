@@ -2,13 +2,14 @@
   "id": 387931717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077756,26.461543,-80.077756,26.461543",
     "geom:latitude":26.461543,
     "geom:longitude":-80.077756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Atlantic Ave",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387931717,
-    "wof:lastmodified":1449059574,
+    "wof:lastmodified":1466449868,
     "wof:name":"Delray Beach Community Dev",
     "wof:parent_id":85823339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-80.077756,26.461543,-80.077756,26.461543],
-  "geometry": {"coordinates":[-80.077756,26.461543],"type":"Point"}
+  "bbox": [
+    -80.077756,
+    26.461543,
+    -80.077756,
+    26.461543
+],
+  "geometry": {"coordinates":[-80.07775599999999,26.461543],"type":"Point"}
 }

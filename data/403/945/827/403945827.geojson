@@ -2,13 +2,14 @@
   "id": 403945827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.563555,30.224122,-81.563555,30.224122",
     "geom:latitude":30.224122,
     "geom:longitude":-81.563555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8037 Baymeadows Cir E",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403945827,
-    "wof:lastmodified":1449054743,
+    "wof:lastmodified":1466443455,
     "wof:name":"Skinner's Nursery-Jacksonville",
     "wof:parent_id":85870703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-81.563555,30.224122,-81.563555,30.224122],
-  "geometry": {"coordinates":[-81.563555,30.224122],"type":"Point"}
+  "bbox": [
+    -81.563555,
+    30.224122,
+    -81.563555,
+    30.224122
+],
+  "geometry": {"coordinates":[-81.56355499999999,30.224122],"type":"Point"}
 }

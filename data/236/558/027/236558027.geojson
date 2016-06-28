@@ -2,13 +2,14 @@
   "id": 236558027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.184564,28.549068,-81.184564,28.549068",
     "geom:latitude":28.549068,
     "geom:longitude":-81.184564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Spring Island Way",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236558027,
-    "wof:lastmodified":1449002360,
+    "wof:lastmodified":1466436312,
     "wof:name":"Waterford Pediatrics",
     "wof:parent_id":85889423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.184564,28.549068,-81.184564,28.549068],
-  "geometry": {"coordinates":[-81.184564,28.549068],"type":"Point"}
+  "bbox": [
+    -81.184564,
+    28.549068,
+    -81.184564,
+    28.549068
+],
+  "geometry": {"coordinates":[-81.18456399999999,28.549068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320128435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.088463,29.205648,-81.088463,29.205648",
     "geom:latitude":29.205648,
     "geom:longitude":-81.088463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 N Williamson Blvd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320128435,
-    "wof:lastmodified":1449012728,
+    "wof:lastmodified":1466435589,
     "wof:name":"Indigo Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.088463,29.205648,-81.088463,29.205648],
+  "bbox": [
+    -81.088463,
+    29.205648,
+    -81.088463,
+    29.205648
+],
   "geometry": {"coordinates":[-81.088463,29.205648],"type":"Point"}
 }

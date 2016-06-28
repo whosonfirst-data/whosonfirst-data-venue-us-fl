@@ -2,13 +2,14 @@
   "id": 320214651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.337016,25.7953,-80.337016,25.7953",
     "geom:latitude":25.7953,
     "geom:longitude":-80.337016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2178 NW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":320214651,
-    "wof:lastmodified":1449014841,
+    "wof:lastmodified":1466437054,
     "wof:name":"Garmendias Pharmacyinc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.337016,25.7953,-80.337016,25.7953],
-  "geometry": {"coordinates":[-80.337016,25.7953],"type":"Point"}
+  "bbox": [
+    -80.337016,
+    25.7953,
+    -80.337016,
+    25.7953
+],
+  "geometry": {"coordinates":[-80.33701600000001,25.7953],"type":"Point"}
 }

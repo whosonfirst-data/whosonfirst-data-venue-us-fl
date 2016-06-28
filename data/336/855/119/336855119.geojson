@@ -2,13 +2,14 @@
   "id": 336855119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284219,27.298972,-80.284219,27.298972",
     "geom:latitude":27.298972,
     "geom:longitude":-80.284219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 SE Walton Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336855119,
-    "wof:lastmodified":1448997727,
+    "wof:lastmodified":1466439431,
     "wof:name":"Emerald Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.284219,27.298972,-80.284219,27.298972],
-  "geometry": {"coordinates":[-80.284219,27.298972],"type":"Point"}
+  "bbox": [
+    -80.284219,
+    27.298972,
+    -80.284219,
+    27.298972
+],
+  "geometry": {"coordinates":[-80.28421899999999,27.298972],"type":"Point"}
 }

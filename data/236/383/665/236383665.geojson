@@ -2,13 +2,14 @@
   "id": 236383665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241985,30.427294,-87.241985,30.427294",
     "geom:latitude":30.427294,
     "geom:longitude":-87.241985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N P St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236383665,
-    "wof:lastmodified":1449002976,
+    "wof:lastmodified":1466433818,
     "wof:name":"End Time Harvest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.241985,30.427294,-87.241985,30.427294],
+  "bbox": [
+    -87.241985,
+    30.427294,
+    -87.241985,
+    30.427294
+],
   "geometry": {"coordinates":[-87.241985,30.427294],"type":"Point"}
 }

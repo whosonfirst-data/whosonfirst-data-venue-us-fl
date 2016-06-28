@@ -2,13 +2,14 @@
   "id": 287148347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.607545,30.446398,-86.607545,30.446398",
     "geom:latitude":30.446398,
     "geom:longitude":-86.607545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Racetrack Rd NE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287148347,
-    "wof:lastmodified":1449001429,
+    "wof:lastmodified":1466432465,
     "wof:name":"MASH Medical",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.607545,30.446398,-86.607545,30.446398],
+  "bbox": [
+    -86.607545,
+    30.446398,
+    -86.607545,
+    30.446398
+],
   "geometry": {"coordinates":[-86.607545,30.446398],"type":"Point"}
 }

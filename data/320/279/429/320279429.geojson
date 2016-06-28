@@ -2,13 +2,14 @@
   "id": 320279429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.222689,30.470484,-87.222689,30.470484",
     "geom:latitude":30.470484,
     "geom:longitude":-87.222689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Amber St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320279429,
-    "wof:lastmodified":1449012969,
+    "wof:lastmodified":1466438174,
     "wof:name":"Pattersons Construction",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-87.222689,30.470484,-87.222689,30.470484],
+  "bbox": [
+    -87.222689,
+    30.470484,
+    -87.222689,
+    30.470484
+],
   "geometry": {"coordinates":[-87.222689,30.470484],"type":"Point"}
 }

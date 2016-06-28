@@ -2,13 +2,14 @@
   "id": 320195333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.341985,24.670322,-81.341985,24.670322",
     "geom:latitude":24.670322,
     "geom:longitude":-81.341985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31425 Ave B",
     "sg:city":"Big Pine Key",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320195333,
-    "wof:lastmodified":1449013727,
+    "wof:lastmodified":1466436731,
     "wof:name":"Independence Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-81.341985,24.670322,-81.341985,24.670322],
-  "geometry": {"coordinates":[-81.341985,24.670322],"type":"Point"}
+  "bbox": [
+    -81.341985,
+    24.670322,
+    -81.341985,
+    24.670322
+],
+  "geometry": {"coordinates":[-81.34198499999999,24.670322],"type":"Point"}
 }

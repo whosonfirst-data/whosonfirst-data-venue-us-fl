@@ -2,13 +2,14 @@
   "id": 252731381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.828703,27.878345,-81.828703,27.878345",
     "geom:latitude":27.878345,
     "geom:longitude":-81.828703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 S Holland Pkwy",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252731381,
-    "wof:lastmodified":1449006389,
+    "wof:lastmodified":1466428763,
     "wof:name":"Polk County Health Dept",
     "wof:parent_id":85888553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-81.828703,27.878345,-81.828703,27.878345],
+  "bbox": [
+    -81.828703,
+    27.878345,
+    -81.828703,
+    27.878345
+],
   "geometry": {"coordinates":[-81.828703,27.878345],"type":"Point"}
 }

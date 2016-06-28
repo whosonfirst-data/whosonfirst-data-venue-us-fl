@@ -2,13 +2,14 @@
   "id": 370618885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.24259,30.534971,-87.24259,30.534971",
     "geom:latitude":30.534971,
     "geom:longitude":-87.24259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Candlewood Cir",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370618885,
-    "wof:lastmodified":1449031194,
+    "wof:lastmodified":1466443667,
     "wof:name":"Corfabin LLC",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.24259,30.534971,-87.24259,30.534971],
-  "geometry": {"coordinates":[-87.24259,30.534971],"type":"Point"}
+  "bbox": [
+    -87.24259,
+    30.534971,
+    -87.24259,
+    30.534971
+],
+  "geometry": {"coordinates":[-87.24259000000001,30.534971],"type":"Point"}
 }

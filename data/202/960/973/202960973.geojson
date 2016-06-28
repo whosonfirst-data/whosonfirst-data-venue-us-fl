@@ -2,13 +2,14 @@
   "id": 202960973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.302658,29.812187,-85.302658,29.812187",
     "geom:latitude":29.812187,
     "geom:longitude":-85.302658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Reid Ave",
     "sg:city":"Port St Joe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202960973,
-    "wof:lastmodified":1449061922,
+    "wof:lastmodified":1466434418,
     "wof:name":"NHC Home Care",
     "wof:parent_id":85896229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-85.302658,29.812187,-85.302658,29.812187],
-  "geometry": {"coordinates":[-85.302658,29.812187],"type":"Point"}
+  "bbox": [
+    -85.302658,
+    29.812187,
+    -85.302658,
+    29.812187
+],
+  "geometry": {"coordinates":[-85.30265799999999,29.812187],"type":"Point"}
 }

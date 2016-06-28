@@ -2,13 +2,14 @@
   "id": 203257149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783724,27.977376,-82.783724,27.977376",
     "geom:latitude":27.977376,
     "geom:longitude":-82.783724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N Betty Ln",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203257149,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466429640,
     "wof:name":"Homeless Emergency Project",
     "wof:parent_id":85888631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-82.783724,27.977376,-82.783724,27.977376],
-  "geometry": {"coordinates":[-82.783724,27.977376],"type":"Point"}
+  "bbox": [
+    -82.783724,
+    27.977376,
+    -82.783724,
+    27.977376
+],
+  "geometry": {"coordinates":[-82.78372400000001,27.977376],"type":"Point"}
 }

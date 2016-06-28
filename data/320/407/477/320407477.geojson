@@ -2,13 +2,14 @@
   "id": 320407477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.678365,30.312868,-81.678365,30.312868",
     "geom:latitude":30.312868,
     "geom:longitude":-81.678365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Riverside Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320407477,
-    "wof:lastmodified":1449013332,
+    "wof:lastmodified":1466440368,
     "wof:name":"Coach University",
     "wof:parent_id":85807887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "program"
     ]
 },
-  "bbox": [-81.678365,30.312868,-81.678365,30.312868],
+  "bbox": [
+    -81.678365,
+    30.312868,
+    -81.678365,
+    30.312868
+],
   "geometry": {"coordinates":[-81.678365,30.312868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303601305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.351935,27.51805,-80.351935,27.51805",
     "geom:latitude":27.51805,
     "geom:longitude":-80.351935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Old Dixie Hwy",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303601305,
-    "wof:lastmodified":1448999212,
+    "wof:lastmodified":1466440877,
     "wof:name":"Riverview Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.351935,27.51805,-80.351935,27.51805],
+  "bbox": [
+    -80.351935,
+    27.51805,
+    -80.351935,
+    27.51805
+],
   "geometry": {"coordinates":[-80.351935,27.51805],"type":"Point"}
 }

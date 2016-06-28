@@ -2,13 +2,14 @@
   "id": 185810495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.787527,26.211429,-81.787527,26.211429",
     "geom:latitude":26.211429,
     "geom:longitude":-81.787527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1697 Pine Ridge Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185810495,
-    "wof:lastmodified":1449007081,
+    "wof:lastmodified":1466429100,
     "wof:name":"AmSouth",
     "wof:parent_id":85889219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-81.787527,26.211429,-81.787527,26.211429],
+  "bbox": [
+    -81.787527,
+    26.211429,
+    -81.787527,
+    26.211429
+],
   "geometry": {"coordinates":[-81.787527,26.211429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202923881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.832212,27.255965,-80.832212,27.255965",
     "geom:latitude":27.255965,
     "geom:longitude":-80.832212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 NW 12th St",
     "sg:city":"Okeechobee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202923881,
-    "wof:lastmodified":1449062557,
+    "wof:lastmodified":1466433917,
     "wof:name":"Charlie's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.832212,27.255965,-80.832212,27.255965],
+  "bbox": [
+    -80.832212,
+    27.255965,
+    -80.832212,
+    27.255965
+],
   "geometry": {"coordinates":[-80.832212,27.255965],"type":"Point"}
 }

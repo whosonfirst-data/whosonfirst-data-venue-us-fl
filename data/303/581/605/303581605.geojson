@@ -2,13 +2,14 @@
   "id": 303581605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097619,26.181767,-80.097619,26.181767",
     "geom:latitude":26.181767,
     "geom:longitude":-80.097619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4323 N Ocean Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303581605,
-    "wof:lastmodified":1448998631,
+    "wof:lastmodified":1466440550,
     "wof:name":"By The Sea Laundry",
     "wof:parent_id":85877489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-80.097619,26.181767,-80.097619,26.181767],
-  "geometry": {"coordinates":[-80.097619,26.181767],"type":"Point"}
+  "bbox": [
+    -80.097619,
+    26.181767,
+    -80.097619,
+    26.181767
+],
+  "geometry": {"coordinates":[-80.09761899999999,26.181767],"type":"Point"}
 }

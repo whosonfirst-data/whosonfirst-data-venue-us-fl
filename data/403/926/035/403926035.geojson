@@ -2,13 +2,14 @@
   "id": 403926035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.374339,29.702453,-82.374339,29.702453",
     "geom:latitude":29.702453,
     "geom:longitude":-82.374339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 NW 52 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403926035,
-    "wof:lastmodified":1449055091,
+    "wof:lastmodified":1466443135,
     "wof:name":"T C Roofing",
     "wof:parent_id":85877597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.374339,29.702453,-82.374339,29.702453],
-  "geometry": {"coordinates":[-82.374339,29.702453],"type":"Point"}
+  "bbox": [
+    -82.374339,
+    29.702453,
+    -82.374339,
+    29.702453
+],
+  "geometry": {"coordinates":[-82.37433900000001,29.702453],"type":"Point"}
 }

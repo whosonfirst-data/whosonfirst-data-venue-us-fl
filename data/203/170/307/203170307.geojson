@@ -2,13 +2,14 @@
   "id": 203170307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20807,26.330442,-80.20807,26.330442",
     "geom:latitude":26.330442,
     "geom:longitude":-80.20807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10242 Brookville Ln",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203170307,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466428517,
     "wof:name":"China Jade",
     "wof:parent_id":85855371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.20807,26.330442,-80.20807,26.330442],
-  "geometry": {"coordinates":[-80.20807,26.330442],"type":"Point"}
+  "bbox": [
+    -80.20807,
+    26.330442,
+    -80.20807,
+    26.330442
+],
+  "geometry": {"coordinates":[-80.20807000000001,26.330442],"type":"Point"}
 }

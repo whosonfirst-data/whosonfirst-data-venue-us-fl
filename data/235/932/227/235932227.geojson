@@ -2,13 +2,14 @@
   "id": 235932227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.873641,26.578313,-81.873641,26.578313",
     "geom:latitude":26.578313,
     "geom:longitude":-81.873641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1985 Custom Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235932227,
-    "wof:lastmodified":1449008383,
+    "wof:lastmodified":1466428413,
     "wof:name":"Quinn's Ice",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-81.873641,26.578313,-81.873641,26.578313],
-  "geometry": {"coordinates":[-81.873641,26.578313],"type":"Point"}
+  "bbox": [
+    -81.873641,
+    26.578313,
+    -81.873641,
+    26.578313
+],
+  "geometry": {"coordinates":[-81.87364100000001,26.578313],"type":"Point"}
 }

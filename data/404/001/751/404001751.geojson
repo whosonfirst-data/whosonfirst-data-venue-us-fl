@@ -2,13 +2,14 @@
   "id": 404001751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.601124,30.43817,-86.601124,30.43817",
     "geom:latitude":30.43817,
     "geom:longitude":-86.601124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Eglin Pkwy",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404001751,
-    "wof:lastmodified":1449039326,
+    "wof:lastmodified":1466440295,
     "wof:name":"Way & Co",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.601124,30.43817,-86.601124,30.43817],
+  "bbox": [
+    -86.601124,
+    30.43817,
+    -86.601124,
+    30.43817
+],
   "geometry": {"coordinates":[-86.601124,30.43817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286456745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.739448,30.203449,-81.739448,30.203449",
     "geom:latitude":30.203449,
     "geom:longitude":-81.739448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7911 Blanding Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286456745,
-    "wof:lastmodified":1449016067,
+    "wof:lastmodified":1466433021,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85803463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.739448,30.203449,-81.739448,30.203449],
+  "bbox": [
+    -81.739448,
+    30.203449,
+    -81.739448,
+    30.203449
+],
   "geometry": {"coordinates":[-81.739448,30.203449],"type":"Point"}
 }

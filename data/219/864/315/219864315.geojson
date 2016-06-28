@@ -2,13 +2,14 @@
   "id": 219864315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.343651,28.322382,-81.343651,28.322382",
     "geom:latitude":28.322382,
     "geom:longitude":-81.343651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Buenaventura Blvd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219864315,
-    "wof:lastmodified":1449073970,
+    "wof:lastmodified":1466436337,
     "wof:name":"Pawn Intl",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-81.343651,28.322382,-81.343651,28.322382],
-  "geometry": {"coordinates":[-81.343651,28.322382],"type":"Point"}
+  "bbox": [
+    -81.343651,
+    28.322382,
+    -81.343651,
+    28.322382
+],
+  "geometry": {"coordinates":[-81.34365099999999,28.322382],"type":"Point"}
 }

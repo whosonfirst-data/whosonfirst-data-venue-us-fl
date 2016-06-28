@@ -2,13 +2,14 @@
   "id": 252808411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.27303,30.392951,-87.27303,30.392951",
     "geom:latitude":30.392951,
     "geom:longitude":-87.27303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S Old Corry Field Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252808411,
-    "wof:lastmodified":1449005451,
+    "wof:lastmodified":1466429883,
     "wof:name":"Under Car Care",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-87.27303,30.392951,-87.27303,30.392951],
-  "geometry": {"coordinates":[-87.27303,30.392951],"type":"Point"}
+  "bbox": [
+    -87.27303,
+    30.392951,
+    -87.27303,
+    30.392951
+],
+  "geometry": {"coordinates":[-87.27303000000001,30.392951],"type":"Point"}
 }

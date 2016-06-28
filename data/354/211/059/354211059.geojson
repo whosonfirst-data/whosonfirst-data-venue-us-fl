@@ -2,13 +2,14 @@
   "id": 354211059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.754239,27.913379,-82.754239,27.913379",
     "geom:latitude":27.913379,
     "geom:longitude":-82.754239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Fulton Dr",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354211059,
-    "wof:lastmodified":1449066332,
+    "wof:lastmodified":1466439350,
     "wof:name":"Free Methodist Church",
     "wof:parent_id":85889107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.754239,27.913379,-82.754239,27.913379],
+  "bbox": [
+    -82.754239,
+    27.913379,
+    -82.754239,
+    27.913379
+],
   "geometry": {"coordinates":[-82.754239,27.913379],"type":"Point"}
 }

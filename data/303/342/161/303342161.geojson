@@ -2,13 +2,14 @@
   "id": 303342161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.394782,28.469018,-81.394782,28.469018",
     "geom:latitude":28.469018,
     "geom:longitude":-81.394782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1167 Doss Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303342161,
-    "wof:lastmodified":1449000391,
+    "wof:lastmodified":1466436432,
     "wof:name":"Orlando Wholesale",
     "wof:parent_id":85889285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-81.394782,28.469018,-81.394782,28.469018],
-  "geometry": {"coordinates":[-81.394782,28.469018],"type":"Point"}
+  "bbox": [
+    -81.394782,
+    28.469018,
+    -81.394782,
+    28.469018
+],
+  "geometry": {"coordinates":[-81.39478200000001,28.469018],"type":"Point"}
 }

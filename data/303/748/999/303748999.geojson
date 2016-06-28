@@ -2,13 +2,14 @@
   "id": 303748999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.612496,28.063758,-80.612496,28.063758",
     "geom:latitude":28.063758,
     "geom:longitude":-80.612496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 E University Blvd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303748999,
-    "wof:lastmodified":1448999954,
+    "wof:lastmodified":1466443449,
     "wof:name":"Genesis",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.612496,28.063758,-80.612496,28.063758],
-  "geometry": {"coordinates":[-80.612496,28.063758],"type":"Point"}
+  "bbox": [
+    -80.612496,
+    28.063758,
+    -80.612496,
+    28.063758
+],
+  "geometry": {"coordinates":[-80.61249599999999,28.063758],"type":"Point"}
 }

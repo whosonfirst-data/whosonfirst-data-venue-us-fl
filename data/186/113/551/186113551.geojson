@@ -2,13 +2,14 @@
   "id": 186113551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.599466,30.335548,-81.599466,30.335548",
     "geom:latitude":30.335548,
     "geom:longitude":-81.599466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Bernita St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186113551,
-    "wof:lastmodified":1449052800,
+    "wof:lastmodified":1466445874,
     "wof:name":"Arlington Wrecker Sales",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [-81.599466,30.335548,-81.599466,30.335548],
-  "geometry": {"coordinates":[-81.599466,30.335548],"type":"Point"}
+  "bbox": [
+    -81.599466,
+    30.335548,
+    -81.599466,
+    30.335548
+],
+  "geometry": {"coordinates":[-81.59946600000001,30.335548],"type":"Point"}
 }

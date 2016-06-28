@@ -2,13 +2,14 @@
   "id": 202532965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.123338,28.009244,-82.123338,28.009244",
     "geom:latitude":28.009244,
     "geom:longitude":-82.123338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 S Evers St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202532965,
-    "wof:lastmodified":1449060968,
+    "wof:lastmodified":1466428781,
     "wof:name":"Florida Meter Service",
     "wof:parent_id":85889461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "calibration"
     ]
 },
-  "bbox": [-82.123338,28.009244,-82.123338,28.009244],
+  "bbox": [
+    -82.123338,
+    28.009244,
+    -82.123338,
+    28.009244
+],
   "geometry": {"coordinates":[-82.123338,28.009244],"type":"Point"}
 }

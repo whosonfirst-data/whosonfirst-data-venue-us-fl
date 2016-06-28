@@ -2,13 +2,14 @@
   "id": 186060301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.451544,27.772005,-80.451544,27.772005",
     "geom:latitude":27.772005,
     "geom:longitude":-80.451544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6111 98th St",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186060301,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466444471,
     "wof:name":"Carl Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-80.451544,27.772005,-80.451544,27.772005],
+  "bbox": [
+    -80.451544,
+    27.772005,
+    -80.451544,
+    27.772005
+],
   "geometry": {"coordinates":[-80.451544,27.772005],"type":"Point"}
 }

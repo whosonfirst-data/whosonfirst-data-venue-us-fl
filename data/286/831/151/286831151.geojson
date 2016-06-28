@@ -2,13 +2,14 @@
   "id": 286831151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.297559,28.78704,-81.297559,28.78704",
     "geom:latitude":28.78704,
     "geom:longitude":-81.297559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 W Airport Blvd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286831151,
-    "wof:lastmodified":1449016917,
+    "wof:lastmodified":1466439669,
     "wof:name":"Education Support Annex",
     "wof:parent_id":85831111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.297559,28.78704,-81.297559,28.78704],
-  "geometry": {"coordinates":[-81.297559,28.78704],"type":"Point"}
+  "bbox": [
+    -81.297559,
+    28.78704,
+    -81.297559,
+    28.78704
+],
+  "geometry": {"coordinates":[-81.29755900000001,28.78704],"type":"Point"}
 }

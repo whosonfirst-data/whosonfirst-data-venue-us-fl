@@ -2,13 +2,14 @@
   "id": 169673051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.410914,25.477681,-80.410914,25.477681",
     "geom:latitude":25.477681,
     "geom:longitude":-80.410914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13600 SW 312th St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169673051,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466445101,
     "wof:name":"Homestead Housing Authority",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-80.410914,25.477681,-80.410914,25.477681],
-  "geometry": {"coordinates":[-80.410914,25.477681],"type":"Point"}
+  "bbox": [
+    -80.410914,
+    25.477681,
+    -80.410914,
+    25.477681
+],
+  "geometry": {"coordinates":[-80.41091400000001,25.477681],"type":"Point"}
 }

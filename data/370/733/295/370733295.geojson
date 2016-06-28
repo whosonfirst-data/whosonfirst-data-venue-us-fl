@@ -2,13 +2,14 @@
   "id": 370733295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.094501,29.163379,-82.094501,29.163379",
     "geom:latitude":29.163379,
     "geom:longitude":-82.094501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 SE Maricamp Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370733295,
-    "wof:lastmodified":1449029565,
+    "wof:lastmodified":1466445406,
     "wof:name":"AMF Galaxy East Lanes",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-82.094501,29.163379,-82.094501,29.163379],
-  "geometry": {"coordinates":[-82.094501,29.163379],"type":"Point"}
+  "bbox": [
+    -82.094501,
+    29.163379,
+    -82.094501,
+    29.163379
+],
+  "geometry": {"coordinates":[-82.09450099999999,29.163379],"type":"Point"}
 }

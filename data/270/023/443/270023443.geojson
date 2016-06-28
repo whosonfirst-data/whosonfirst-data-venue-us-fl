@@ -2,13 +2,14 @@
   "id": 270023443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105353,26.297529,-80.105353,26.297529",
     "geom:latitude":26.297529,
     "geom:longitude":-80.105353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 SW 15th St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270023443,
-    "wof:lastmodified":1449010856,
+    "wof:lastmodified":1466429852,
     "wof:name":"Eesi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "environmental"
     ]
 },
-  "bbox": [-80.105353,26.297529,-80.105353,26.297529],
-  "geometry": {"coordinates":[-80.105353,26.297529],"type":"Point"}
+  "bbox": [
+    -80.105353,
+    26.297529,
+    -80.105353,
+    26.297529
+],
+  "geometry": {"coordinates":[-80.10535299999999,26.297529],"type":"Point"}
 }

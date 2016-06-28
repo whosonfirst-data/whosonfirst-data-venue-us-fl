@@ -2,13 +2,14 @@
   "id": 403772459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.400512,28.337002,-81.400512,28.337002",
     "geom:latitude":28.337002,
     "geom:longitude":-81.400512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 E Osceola Pkwy",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403772459,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1466440675,
     "wof:name":"CAR Boutique Inc",
     "wof:parent_id":85889359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-81.400512,28.337002,-81.400512,28.337002],
-  "geometry": {"coordinates":[-81.400512,28.337002],"type":"Point"}
+  "bbox": [
+    -81.400512,
+    28.337002,
+    -81.400512,
+    28.337002
+],
+  "geometry": {"coordinates":[-81.40051200000001,28.337002],"type":"Point"}
 }

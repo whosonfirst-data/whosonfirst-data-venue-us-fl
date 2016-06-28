@@ -2,13 +2,14 @@
   "id": 370943223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.280551,26.713462,-80.280551,26.713462",
     "geom:latitude":26.713462,
     "geom:longitude":-80.280551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14900 24th Cir N",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370943223,
-    "wof:lastmodified":1449029992,
+    "wof:lastmodified":1466447838,
     "wof:name":"M & M Trees",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tract"
     ]
 },
-  "bbox": [-80.280551,26.713462,-80.280551,26.713462],
+  "bbox": [
+    -80.280551,
+    26.713462,
+    -80.280551,
+    26.713462
+],
   "geometry": {"coordinates":[-80.280551,26.713462],"type":"Point"}
 }

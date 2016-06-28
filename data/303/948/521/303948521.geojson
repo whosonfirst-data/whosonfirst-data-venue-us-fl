@@ -2,13 +2,14 @@
   "id": 303948521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110779,26.138355,-80.110779,26.138355",
     "geom:latitude":26.138355,
     "geom:longitude":-80.110779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Seminole Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303948521,
-    "wof:lastmodified":1449000059,
+    "wof:lastmodified":1466446689,
     "wof:name":"Entertainment Drive",
     "wof:parent_id":85877529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-80.110779,26.138355,-80.110779,26.138355],
-  "geometry": {"coordinates":[-80.110779,26.138355],"type":"Point"}
+  "bbox": [
+    -80.110779,
+    26.138355,
+    -80.110779,
+    26.138355
+],
+  "geometry": {"coordinates":[-80.11077899999999,26.138355],"type":"Point"}
 }

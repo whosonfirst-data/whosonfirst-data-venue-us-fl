@@ -2,13 +2,14 @@
   "id": 270003641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.888849,26.658547,-81.888849,26.658547",
     "geom:latitude":26.658547,
     "geom:longitude":-81.888849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3490 N Key Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270003641,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466429517,
     "wof:name":"Barbara D Cook Inc",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-81.888849,26.658547,-81.888849,26.658547],
-  "geometry": {"coordinates":[-81.888849,26.658547],"type":"Point"}
+  "bbox": [
+    -81.888849,
+    26.658547,
+    -81.888849,
+    26.658547
+],
+  "geometry": {"coordinates":[-81.88884899999999,26.658547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304003765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.203179,28.357161,-82.203179,28.357161",
     "geom:latitude":28.357161,
     "geom:longitude":-82.203179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13645 Sheila Lynn Ct",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304003765,
-    "wof:lastmodified":1449044124,
+    "wof:lastmodified":1466431874,
     "wof:name":"A Step Up",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.203179,28.357161,-82.203179,28.357161],
-  "geometry": {"coordinates":[-82.203179,28.357161],"type":"Point"}
+  "bbox": [
+    -82.203179,
+    28.357161,
+    -82.203179,
+    28.357161
+],
+  "geometry": {"coordinates":[-82.20317900000001,28.357161],"type":"Point"}
 }

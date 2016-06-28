@@ -2,13 +2,14 @@
   "id": 303155715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116512,26.187134,-80.116512,26.187134",
     "geom:latitude":26.187134,
     "geom:longitude":-80.116512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4875 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303155715,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1466433211,
     "wof:name":"CCS Benefits Svc",
     "wof:parent_id":85877503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "benefit"
     ]
 },
-  "bbox": [-80.116512,26.187134,-80.116512,26.187134],
+  "bbox": [
+    -80.116512,
+    26.187134,
+    -80.116512,
+    26.187134
+],
   "geometry": {"coordinates":[-80.116512,26.187134],"type":"Point"}
 }

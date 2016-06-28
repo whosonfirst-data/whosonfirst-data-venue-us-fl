@@ -2,13 +2,14 @@
   "id": 370833395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.774449,26.344486,-81.774449,26.344486",
     "geom:latitude":26.344486,
     "geom:longitude":-81.774449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27095 Leitner Ln",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370833395,
-    "wof:lastmodified":1449029529,
+    "wof:lastmodified":1466446673,
     "wof:name":"Bills Media Wiring",
     "wof:parent_id":85888567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-81.774449,26.344486,-81.774449,26.344486],
+  "bbox": [
+    -81.774449,
+    26.344486,
+    -81.774449,
+    26.344486
+],
   "geometry": {"coordinates":[-81.774449,26.344486],"type":"Point"}
 }

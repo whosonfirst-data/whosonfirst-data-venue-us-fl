@@ -2,13 +2,14 @@
   "id": 202880105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330757,29.652692,-82.330757,29.652692",
     "geom:latitude":29.652692,
     "geom:longitude":-82.330757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 NW 6 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202880105,
-    "wof:lastmodified":1449062676,
+    "wof:lastmodified":1466433338,
     "wof:name":"Sapp's Pawn Gun & Archery Shop",
     "wof:parent_id":85877639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-82.330757,29.652692,-82.330757,29.652692],
-  "geometry": {"coordinates":[-82.330757,29.652692],"type":"Point"}
+  "bbox": [
+    -82.330757,
+    29.652692,
+    -82.330757,
+    29.652692
+],
+  "geometry": {"coordinates":[-82.33075700000001,29.652692],"type":"Point"}
 }

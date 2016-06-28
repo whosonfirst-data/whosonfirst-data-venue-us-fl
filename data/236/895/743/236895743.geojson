@@ -2,13 +2,14 @@
   "id": 236895743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.226684,30.539484,-84.226684,30.539484",
     "geom:latitude":30.539484,
     "geom:longitude":-84.226684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5326 Saint Ives Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236895743,
-    "wof:lastmodified":1449002985,
+    "wof:lastmodified":1466441174,
     "wof:name":"Zozo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-84.226684,30.539484,-84.226684,30.539484],
-  "geometry": {"coordinates":[-84.226684,30.539484],"type":"Point"}
+  "bbox": [
+    -84.226684,
+    30.539484,
+    -84.226684,
+    30.539484
+],
+  "geometry": {"coordinates":[-84.22668400000001,30.539484],"type":"Point"}
 }

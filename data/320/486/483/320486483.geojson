@@ -2,13 +2,14 @@
   "id": 320486483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.507528,27.510788,-81.507528,27.510788",
     "geom:latitude":27.510788,
     "geom:longitude":-81.507528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Randall Rd",
     "sg:city":"Sebring",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320486483,
-    "wof:lastmodified":1449013347,
+    "wof:lastmodified":1466441784,
     "wof:name":"Nanus This N That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.507528,27.510788,-81.507528,27.510788],
-  "geometry": {"coordinates":[-81.507528,27.510788],"type":"Point"}
+  "bbox": [
+    -81.507528,
+    27.510788,
+    -81.507528,
+    27.510788
+],
+  "geometry": {"coordinates":[-81.50752799999999,27.510788],"type":"Point"}
 }

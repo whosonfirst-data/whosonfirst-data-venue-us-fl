@@ -2,13 +2,14 @@
   "id": 202962475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2321,25.927237,-80.2321,25.927237",
     "geom:latitude":25.927237,
     "geom:longitude":-80.2321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 NW 167th St",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202962475,
-    "wof:lastmodified":1449061607,
+    "wof:lastmodified":1466434437,
     "wof:name":"Lock Twns Cmnty Mntal Hlth Ctr",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-80.2321,25.927237,-80.2321,25.927237],
+  "bbox": [
+    -80.2321,
+    25.927237,
+    -80.2321,
+    25.927237
+],
   "geometry": {"coordinates":[-80.2321,25.927237],"type":"Point"}
 }

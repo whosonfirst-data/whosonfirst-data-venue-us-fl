@@ -2,13 +2,14 @@
   "id": 203224729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.301737,30.462606,-84.301737,30.462606",
     "geom:latitude":30.462606,
     "geom:longitude":-84.301737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Commercial Park Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203224729,
-    "wof:lastmodified":1449026354,
+    "wof:lastmodified":1466429210,
     "wof:name":"Wang Laboratory",
     "wof:parent_id":85881337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-84.301737,30.462606,-84.301737,30.462606],
+  "bbox": [
+    -84.301737,
+    30.462606,
+    -84.301737,
+    30.462606
+],
   "geometry": {"coordinates":[-84.301737,30.462606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303420751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.947482,26.604665,-81.947482,26.604665",
     "geom:latitude":26.604665,
     "geom:longitude":-81.947482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 SE 25th Ln",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303420751,
-    "wof:lastmodified":1448999289,
+    "wof:lastmodified":1466437779,
     "wof:name":"Sea Clean Boat Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-81.947482,26.604665,-81.947482,26.604665],
-  "geometry": {"coordinates":[-81.947482,26.604665],"type":"Point"}
+  "bbox": [
+    -81.947482,
+    26.604665,
+    -81.947482,
+    26.604665
+],
+  "geometry": {"coordinates":[-81.94748199999999,26.604665],"type":"Point"}
 }

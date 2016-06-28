@@ -2,13 +2,14 @@
   "id": 303443797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34229,27.442849,-80.34229,27.442849",
     "geom:latitude":27.442849,
     "geom:longitude":-80.34229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Okeechobee Rd",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303443797,
-    "wof:lastmodified":1449000115,
+    "wof:lastmodified":1466438181,
     "wof:name":"Us Installation Group",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.34229,27.442849,-80.34229,27.442849],
-  "geometry": {"coordinates":[-80.34229,27.442849],"type":"Point"}
+  "bbox": [
+    -80.34229,
+    27.442849,
+    -80.34229,
+    27.442849
+],
+  "geometry": {"coordinates":[-80.34229000000001,27.442849],"type":"Point"}
 }

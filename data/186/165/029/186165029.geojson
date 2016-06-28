@@ -2,13 +2,14 @@
   "id": 186165029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.700425,28.028209,-81.700425,28.028209",
     "geom:latitude":28.028209,
     "geom:longitude":-81.700425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Ave F NE",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186165029,
-    "wof:lastmodified":1449053034,
+    "wof:lastmodified":1466428703,
     "wof:name":"John D Smith",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-81.700425,28.028209,-81.700425,28.028209],
+  "bbox": [
+    -81.700425,
+    28.028209,
+    -81.700425,
+    28.028209
+],
   "geometry": {"coordinates":[-81.700425,28.028209],"type":"Point"}
 }

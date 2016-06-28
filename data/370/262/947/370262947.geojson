@@ -2,13 +2,14 @@
   "id": 370262947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.118474,29.146852,-82.118474,29.146852",
     "geom:latitude":29.146852,
     "geom:longitude":-82.118474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 SE 17th Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370262947,
-    "wof:lastmodified":1449031184,
+    "wof:lastmodified":1466438208,
     "wof:name":"Cool Water Of Central Florida",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "softener"
     ]
 },
-  "bbox": [-82.118474,29.146852,-82.118474,29.146852],
-  "geometry": {"coordinates":[-82.118474,29.146852],"type":"Point"}
+  "bbox": [
+    -82.118474,
+    29.146852,
+    -82.118474,
+    29.146852
+],
+  "geometry": {"coordinates":[-82.11847400000001,29.146852],"type":"Point"}
 }

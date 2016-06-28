@@ -2,13 +2,14 @@
   "id": 370844201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.404595,25.134994,-80.404595,25.134994",
     "geom:latitude":25.134994,
     "geom:longitude":-80.404595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103375 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370844201,
-    "wof:lastmodified":1449030530,
+    "wof:lastmodified":1466446761,
     "wof:name":"CFS",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.404595,25.134994,-80.404595,25.134994],
+  "bbox": [
+    -80.404595,
+    25.134994,
+    -80.404595,
+    25.134994
+],
   "geometry": {"coordinates":[-80.404595,25.134994],"type":"Point"}
 }

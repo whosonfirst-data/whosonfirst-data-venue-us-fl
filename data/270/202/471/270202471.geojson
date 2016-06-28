@@ -2,13 +2,14 @@
   "id": 270202471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.261519,28.167338,-81.261519,28.167338",
     "geom:latitude":28.167338,
     "geom:longitude":-81.261519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4451 Quail Roost Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270202471,
-    "wof:lastmodified":1449010771,
+    "wof:lastmodified":1466432931,
     "wof:name":"B & C Mower",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.261519,28.167338,-81.261519,28.167338],
-  "geometry": {"coordinates":[-81.261519,28.167338],"type":"Point"}
+  "bbox": [
+    -81.261519,
+    28.167338,
+    -81.261519,
+    28.167338
+],
+  "geometry": {"coordinates":[-81.26151900000001,28.167338],"type":"Point"}
 }

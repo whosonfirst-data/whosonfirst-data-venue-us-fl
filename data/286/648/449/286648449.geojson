@@ -2,13 +2,14 @@
   "id": 286648449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.275788,25.984101,-80.275788,25.984101",
     "geom:latitude":25.984101,
     "geom:longitude":-80.275788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9680 Glacier Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286648449,
-    "wof:lastmodified":1449015991,
+    "wof:lastmodified":1466436410,
     "wof:name":"Mail Call Plus",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-80.275788,25.984101,-80.275788,25.984101],
-  "geometry": {"coordinates":[-80.275788,25.984101],"type":"Point"}
+  "bbox": [
+    -80.275788,
+    25.984101,
+    -80.275788,
+    25.984101
+],
+  "geometry": {"coordinates":[-80.27578800000001,25.984101],"type":"Point"}
 }

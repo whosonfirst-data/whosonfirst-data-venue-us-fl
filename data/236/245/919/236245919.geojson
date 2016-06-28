@@ -2,13 +2,14 @@
   "id": 236245919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10046,26.254133,-80.10046,26.254133",
     "geom:latitude":26.254133,
     "geom:longitude":-80.10046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 N Federal Hwy",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236245919,
-    "wof:lastmodified":1449005119,
+    "wof:lastmodified":1466431891,
     "wof:name":"South Florida Models",
     "wof:parent_id":85811837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.10046,26.254133,-80.10046,26.254133],
+  "bbox": [
+    -80.10046,
+    26.254133,
+    -80.10046,
+    26.254133
+],
   "geometry": {"coordinates":[-80.10046,26.254133],"type":"Point"}
 }

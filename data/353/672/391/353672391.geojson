@@ -2,13 +2,14 @@
   "id": 353672391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.706015,27.83549,-82.706015,27.83549",
     "geom:latitude":27.83549,
     "geom:longitude":-82.706015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5290 70th Ave N",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353672391,
-    "wof:lastmodified":1449018424,
+    "wof:lastmodified":1466438936,
     "wof:name":"White Lake Apartments",
     "wof:parent_id":85889531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.706015,27.83549,-82.706015,27.83549],
-  "geometry": {"coordinates":[-82.706015,27.83549],"type":"Point"}
+  "bbox": [
+    -82.706015,
+    27.83549,
+    -82.706015,
+    27.83549
+],
+  "geometry": {"coordinates":[-82.70601499999999,27.83549],"type":"Point"}
 }

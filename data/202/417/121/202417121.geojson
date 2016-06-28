@@ -2,13 +2,14 @@
   "id": 202417121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.748365,27.817235,-82.748365,27.817235",
     "geom:latitude":27.817235,
     "geom:longitude":-82.748365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7974 50th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202417121,
-    "wof:lastmodified":1449061150,
+    "wof:lastmodified":1466443972,
     "wof:name":"Mother's Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.748365,27.817235,-82.748365,27.817235],
-  "geometry": {"coordinates":[-82.748365,27.817235],"type":"Point"}
+  "bbox": [
+    -82.748365,
+    27.817235,
+    -82.748365,
+    27.817235
+],
+  "geometry": {"coordinates":[-82.74836500000001,27.817235],"type":"Point"}
 }

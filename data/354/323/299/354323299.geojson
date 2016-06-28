@@ -2,13 +2,14 @@
   "id": 354323299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.276047,30.44177,-84.276047,30.44177",
     "geom:latitude":30.44177,
     "geom:longitude":-84.276047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 E Park Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354323299,
-    "wof:lastmodified":1449066072,
+    "wof:lastmodified":1466441057,
     "wof:name":"John C Vangieson Media",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-84.276047,30.44177,-84.276047,30.44177],
-  "geometry": {"coordinates":[-84.276047,30.44177],"type":"Point"}
+  "bbox": [
+    -84.276047,
+    30.44177,
+    -84.276047,
+    30.44177
+],
+  "geometry": {"coordinates":[-84.27604700000001,30.44177],"type":"Point"}
 }

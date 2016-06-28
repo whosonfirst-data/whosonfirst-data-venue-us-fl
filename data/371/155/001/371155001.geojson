@@ -2,13 +2,14 @@
   "id": 371155001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.639226,28.030088,-82.639226,28.030088",
     "geom:latitude":28.030088,
     "geom:longitude":-82.639226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12801 W Hillsborough Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371155001,
-    "wof:lastmodified":1449049919,
+    "wof:lastmodified":1466439929,
     "wof:name":"Classic Elegance Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-82.639226,28.030088,-82.639226,28.030088],
-  "geometry": {"coordinates":[-82.639226,28.030088],"type":"Point"}
+  "bbox": [
+    -82.639226,
+    28.030088,
+    -82.639226,
+    28.030088
+],
+  "geometry": {"coordinates":[-82.63922599999999,28.030088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235991105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.236945,28.624444,-81.236945,28.624444",
     "geom:latitude":28.624444,
     "geom:longitude":-81.236945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5653 Magnolia Bloom Ter",
     "sg:city":"Oviedo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235991105,
-    "wof:lastmodified":1449008360,
+    "wof:lastmodified":1466429259,
     "wof:name":"Alice Sulzer Realtor",
     "wof:parent_id":85889437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.236945,28.624444,-81.236945,28.624444],
-  "geometry": {"coordinates":[-81.236945,28.624444],"type":"Point"}
+  "bbox": [
+    -81.236945,
+    28.624444,
+    -81.236945,
+    28.624444
+],
+  "geometry": {"coordinates":[-81.23694500000001,28.624444],"type":"Point"}
 }

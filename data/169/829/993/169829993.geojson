@@ -2,13 +2,14 @@
   "id": 169829993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546669,27.45486,-82.546669,27.45486",
     "geom:latitude":27.45486,
     "geom:longitude":-82.546669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 15th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169829993,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1466429345,
     "wof:name":"Cruz Towing",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.546669,27.45486,-82.546669,27.45486],
-  "geometry": {"coordinates":[-82.546669,27.45486],"type":"Point"}
+  "bbox": [
+    -82.546669,
+    27.45486,
+    -82.546669,
+    27.45486
+],
+  "geometry": {"coordinates":[-82.54666899999999,27.45486],"type":"Point"}
 }

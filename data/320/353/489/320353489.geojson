@@ -2,13 +2,14 @@
   "id": 320353489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.116036,26.165161,-80.116036,26.165161",
     "geom:latitude":26.165161,
     "geom:longitude":-80.116036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 N Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320353489,
-    "wof:lastmodified":1449012335,
+    "wof:lastmodified":1466439455,
     "wof:name":"Bo's Barber Stylists",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.116036,26.165161,-80.116036,26.165161],
-  "geometry": {"coordinates":[-80.116036,26.165161],"type":"Point"}
+  "bbox": [
+    -80.116036,
+    26.165161,
+    -80.116036,
+    26.165161
+],
+  "geometry": {"coordinates":[-80.11603599999999,26.165161],"type":"Point"}
 }

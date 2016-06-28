@@ -2,13 +2,14 @@
   "id": 186317603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.120919,25.945913,-80.120919,25.945913",
     "geom:latitude":25.945913,
     "geom:longitude":-80.120919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18401 Collins Ave",
     "sg:city":"Sunny Isles Bch",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186317603,
-    "wof:lastmodified":1449051594,
+    "wof:lastmodified":1466430511,
     "wof:name":"Highpoint Group",
     "wof:parent_id":85822143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.120919,25.945913,-80.120919,25.945913],
+  "bbox": [
+    -80.120919,
+    25.945913,
+    -80.120919,
+    25.945913
+],
   "geometry": {"coordinates":[-80.120919,25.945913],"type":"Point"}
 }

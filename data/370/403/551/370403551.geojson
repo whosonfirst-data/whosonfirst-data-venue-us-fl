@@ -2,13 +2,14 @@
   "id": 370403551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459493,28.083876,-82.459493,28.083876",
     "geom:latitude":28.083876,
     "geom:longitude":-82.459493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14837 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370403551,
-    "wof:lastmodified":1449031990,
+    "wof:lastmodified":1466440350,
     "wof:name":"Renegade Classics",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.459493,28.083876,-82.459493,28.083876],
-  "geometry": {"coordinates":[-82.459493,28.083876],"type":"Point"}
+  "bbox": [
+    -82.459493,
+    28.083876,
+    -82.459493,
+    28.083876
+],
+  "geometry": {"coordinates":[-82.45949299999999,28.083876],"type":"Point"}
 }

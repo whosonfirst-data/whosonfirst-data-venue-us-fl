@@ -2,13 +2,14 @@
   "id": 270339101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.897506,26.587129,-81.897506,26.587129",
     "geom:latitude":26.587129,
     "geom:longitude":-81.897506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Logan Ln",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270339101,
-    "wof:lastmodified":1449009727,
+    "wof:lastmodified":1466435268,
     "wof:name":"Event Florals",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.897506,26.587129,-81.897506,26.587129],
-  "geometry": {"coordinates":[-81.897506,26.587129],"type":"Point"}
+  "bbox": [
+    -81.897506,
+    26.587129,
+    -81.897506,
+    26.587129
+],
+  "geometry": {"coordinates":[-81.89750600000001,26.587129],"type":"Point"}
 }

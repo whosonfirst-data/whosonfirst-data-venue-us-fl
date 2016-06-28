@@ -2,13 +2,14 @@
   "id": 202653813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085218,26.365872,-80.085218,26.365872",
     "geom:latitude":26.365872,
     "geom:longitude":-80.085218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Dixie Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202653813,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1466430391,
     "wof:name":"Boca Raton Chamber Of Commerce",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-80.085218,26.365872,-80.085218,26.365872],
+  "bbox": [
+    -80.085218,
+    26.365872,
+    -80.085218,
+    26.365872
+],
   "geometry": {"coordinates":[-80.085218,26.365872],"type":"Point"}
 }

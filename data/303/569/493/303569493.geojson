@@ -2,13 +2,14 @@
   "id": 303569493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.486737,26.498583,-81.486737,26.498583",
     "geom:latitude":26.498583,
     "geom:longitude":-81.486737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2384 Immokalee Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303569493,
-    "wof:lastmodified":1449000466,
+    "wof:lastmodified":1466440345,
     "wof:name":"Collier County Tax Collector",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "taxation"
     ]
 },
-  "bbox": [-81.486737,26.498583,-81.486737,26.498583],
-  "geometry": {"coordinates":[-81.486737,26.498583],"type":"Point"}
+  "bbox": [
+    -81.486737,
+    26.498583,
+    -81.486737,
+    26.498583
+],
+  "geometry": {"coordinates":[-81.48673700000001,26.498583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185980783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.192137,28.265347,-82.192137,28.265347",
     "geom:latitude":28.265347,
     "geom:longitude":-82.192137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37707 Oak Run Cir",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185980783,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466430858,
     "wof:name":"Oak Run Apartments",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.192137,28.265347,-82.192137,28.265347],
+  "bbox": [
+    -82.192137,
+    28.265347,
+    -82.192137,
+    28.265347
+],
   "geometry": {"coordinates":[-82.192137,28.265347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354216949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.73399,28.023469,-82.73399,28.023469",
     "geom:latitude":28.023469,
     "geom:longitude":-82.73399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2788 Summerdale Dr",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354216949,
-    "wof:lastmodified":1449067477,
+    "wof:lastmodified":1466439446,
     "wof:name":"Bay Area Ind Lock",
     "wof:parent_id":85888641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-82.73399,28.023469,-82.73399,28.023469],
-  "geometry": {"coordinates":[-82.73399,28.023469],"type":"Point"}
+  "bbox": [
+    -82.73399,
+    28.023469,
+    -82.73399,
+    28.023469
+],
+  "geometry": {"coordinates":[-82.73399000000001,28.023469],"type":"Point"}
 }

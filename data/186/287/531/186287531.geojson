@@ -2,13 +2,14 @@
   "id": 186287531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.491256,30.304493,-81.491256,30.304493",
     "geom:latitude":30.304493,
     "geom:longitude":-81.491256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12195 Basalt Dr N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186287531,
-    "wof:lastmodified":1449050425,
+    "wof:lastmodified":1466430149,
     "wof:name":"C & C Med Records Copy Svc Inc",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-81.491256,30.304493,-81.491256,30.304493],
-  "geometry": {"coordinates":[-81.491256,30.304493],"type":"Point"}
+  "bbox": [
+    -81.491256,
+    30.304493,
+    -81.491256,
+    30.304493
+],
+  "geometry": {"coordinates":[-81.49125600000001,30.304493],"type":"Point"}
 }

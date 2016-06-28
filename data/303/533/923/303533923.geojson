@@ -2,13 +2,14 @@
   "id": 303533923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.44446,27.086956,-82.44446,27.086956",
     "geom:latitude":27.086956,
     "geom:longitude":-82.44446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 The Rialto",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303533923,
-    "wof:lastmodified":1448998087,
+    "wof:lastmodified":1466439742,
     "wof:name":"Edmund Witkowski MD",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.44446,27.086956,-82.44446,27.086956],
-  "geometry": {"coordinates":[-82.44446,27.086956],"type":"Point"}
+  "bbox": [
+    -82.44446,
+    27.086956,
+    -82.44446,
+    27.086956
+],
+  "geometry": {"coordinates":[-82.44446000000001,27.086956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236364383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.373055,28.580371,-81.373055,28.580371",
     "geom:latitude":28.580371,
     "geom:longitude":-81.373055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Clay Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236364383,
-    "wof:lastmodified":1449003519,
+    "wof:lastmodified":1466433553,
     "wof:name":"Mark A Koteen",
     "wof:parent_id":85879499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.373055,28.580371,-81.373055,28.580371],
-  "geometry": {"coordinates":[-81.373055,28.580371],"type":"Point"}
+  "bbox": [
+    -81.373055,
+    28.580371,
+    -81.373055,
+    28.580371
+],
+  "geometry": {"coordinates":[-81.37305499999999,28.580371],"type":"Point"}
 }

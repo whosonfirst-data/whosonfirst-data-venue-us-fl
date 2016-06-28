@@ -2,13 +2,14 @@
   "id": 404181053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.135483,29.206044,-82.135483,29.206044",
     "geom:latitude":29.206044,
     "geom:longitude":-82.135483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1919 NE Jacksonville Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404181053,
-    "wof:lastmodified":1449039840,
+    "wof:lastmodified":1466443051,
     "wof:name":"Advantage Automotive Sales",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.135483,29.206044,-82.135483,29.206044],
-  "geometry": {"coordinates":[-82.135483,29.206044],"type":"Point"}
+  "bbox": [
+    -82.135483,
+    29.206044,
+    -82.135483,
+    29.206044
+],
+  "geometry": {"coordinates":[-82.13548299999999,29.206044],"type":"Point"}
 }

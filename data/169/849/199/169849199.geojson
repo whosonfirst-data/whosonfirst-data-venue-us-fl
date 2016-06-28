@@ -2,13 +2,14 @@
   "id": 169849199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.670482,30.351989,-81.670482,30.351989",
     "geom:latitude":30.351989,
     "geom:longitude":-81.670482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Moncrief Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169849199,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466429555,
     "wof:name":"CJ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.670482,30.351989,-81.670482,30.351989],
-  "geometry": {"coordinates":[-81.670482,30.351989],"type":"Point"}
+  "bbox": [
+    -81.670482,
+    30.351989,
+    -81.670482,
+    30.351989
+],
+  "geometry": {"coordinates":[-81.67048200000001,30.351989],"type":"Point"}
 }

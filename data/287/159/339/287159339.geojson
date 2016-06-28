@@ -2,13 +2,14 @@
   "id": 287159339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.728006,30.28317,-81.728006,30.28317",
     "geom:latitude":30.28317,
     "geom:longitude":-81.728006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Lexington Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287159339,
-    "wof:lastmodified":1449000769,
+    "wof:lastmodified":1466432657,
     "wof:name":"Gillis and Gillis Inc",
     "wof:parent_id":85870733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.728006,30.28317,-81.728006,30.28317],
-  "geometry": {"coordinates":[-81.728006,30.28317],"type":"Point"}
+  "bbox": [
+    -81.728006,
+    30.28317,
+    -81.728006,
+    30.28317
+],
+  "geometry": {"coordinates":[-81.72800599999999,30.28317],"type":"Point"}
 }

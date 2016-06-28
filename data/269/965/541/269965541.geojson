@@ -2,13 +2,14 @@
   "id": 269965541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15909,26.192039,-80.15909,26.192039",
     "geom:latitude":26.192039,
     "geom:longitude":-80.15909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 NW 53rd St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269965541,
-    "wof:lastmodified":1449037795,
+    "wof:lastmodified":1466436932,
     "wof:name":"Bobbi's World Kennels",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.15909,26.192039,-80.15909,26.192039],
-  "geometry": {"coordinates":[-80.15909,26.192039],"type":"Point"}
+  "bbox": [
+    -80.15909,
+    26.192039,
+    -80.15909,
+    26.192039
+],
+  "geometry": {"coordinates":[-80.15909000000001,26.192039],"type":"Point"}
 }

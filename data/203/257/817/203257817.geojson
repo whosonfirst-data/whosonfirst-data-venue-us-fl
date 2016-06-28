@@ -2,13 +2,14 @@
   "id": 203257817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.415562,30.339865,-81.415562,30.339865",
     "geom:latitude":30.339865,
     "geom:longitude":-81.415562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Dudley St",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203257817,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466429649,
     "wof:name":"C & C Garage",
     "wof:parent_id":85838729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.415562,30.339865,-81.415562,30.339865],
-  "geometry": {"coordinates":[-81.415562,30.339865],"type":"Point"}
+  "bbox": [
+    -81.415562,
+    30.339865,
+    -81.415562,
+    30.339865
+],
+  "geometry": {"coordinates":[-81.41556199999999,30.339865],"type":"Point"}
 }

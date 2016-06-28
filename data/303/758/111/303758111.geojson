@@ -2,13 +2,14 @@
   "id": 303758111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.254513,30.50737,-87.254513,30.50737",
     "geom:latitude":30.50737,
     "geom:longitude":-87.254513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7891 Sears Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303758111,
-    "wof:lastmodified":1448998858,
+    "wof:lastmodified":1466443600,
     "wof:name":"KMC Telecom Inc",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-87.254513,30.50737,-87.254513,30.50737],
+  "bbox": [
+    -87.254513,
+    30.50737,
+    -87.254513,
+    30.50737
+],
   "geometry": {"coordinates":[-87.254513,30.50737],"type":"Point"}
 }

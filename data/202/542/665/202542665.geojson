@@ -2,13 +2,14 @@
   "id": 202542665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.188379,26.010461,-80.188379,26.010461",
     "geom:latitude":26.010461,
     "geom:longitude":-80.188379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Hollywood Blvd",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202542665,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466428918,
     "wof:name":"Eagle Cleaners",
     "wof:parent_id":85868423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-80.188379,26.010461,-80.188379,26.010461],
+  "bbox": [
+    -80.188379,
+    26.010461,
+    -80.188379,
+    26.010461
+],
   "geometry": {"coordinates":[-80.188379,26.010461],"type":"Point"}
 }

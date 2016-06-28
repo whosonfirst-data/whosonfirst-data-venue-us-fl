@@ -2,13 +2,14 @@
   "id": 220035257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741958,28.382986,-80.741958,28.382986",
     "geom:latitude":28.382986,
     "geom:longitude":-80.741958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 N Cocoa Blvd",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220035257,
-    "wof:lastmodified":1449074690,
+    "wof:lastmodified":1466444442,
     "wof:name":"Boulevard Tire Ctr",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.741958,28.382986,-80.741958,28.382986],
+  "bbox": [
+    -80.741958,
+    28.382986,
+    -80.741958,
+    28.382986
+],
   "geometry": {"coordinates":[-80.741958,28.382986],"type":"Point"}
 }

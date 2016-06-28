@@ -2,13 +2,14 @@
   "id": 370532461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739151,28.080752,-82.739151,28.080752",
     "geom:latitude":28.080752,
     "geom:longitude":-82.739151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33855 US Hwy 19 N",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370532461,
-    "wof:lastmodified":1449030237,
+    "wof:lastmodified":1466442333,
     "wof:name":"Bagel Outlet & Delicatessen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bagel"
     ]
 },
-  "bbox": [-82.739151,28.080752,-82.739151,28.080752],
-  "geometry": {"coordinates":[-82.739151,28.080752],"type":"Point"}
+  "bbox": [
+    -82.739151,
+    28.080752,
+    -82.739151,
+    28.080752
+],
+  "geometry": {"coordinates":[-82.73915100000001,28.080752],"type":"Point"}
 }

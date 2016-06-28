@@ -2,13 +2,14 @@
   "id": 186576247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.624991,28.109519,-81.624991,28.109519",
     "geom:latitude":28.109519,
     "geom:longitude":-81.624991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Ingraham Ave",
     "sg:city":"Haines City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186576247,
-    "wof:lastmodified":1449052382,
+    "wof:lastmodified":1466433826,
     "wof:name":"Cox Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-81.624991,28.109519,-81.624991,28.109519],
-  "geometry": {"coordinates":[-81.624991,28.109519],"type":"Point"}
+  "bbox": [
+    -81.624991,
+    28.109519,
+    -81.624991,
+    28.109519
+],
+  "geometry": {"coordinates":[-81.62499099999999,28.109519],"type":"Point"}
 }

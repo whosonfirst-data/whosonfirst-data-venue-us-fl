@@ -2,13 +2,14 @@
   "id": 353723505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.602312,30.287987,-81.602312,30.287987",
     "geom:latitude":30.287987,
     "geom:longitude":-81.602312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 University Blvd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353723505,
-    "wof:lastmodified":1449019761,
+    "wof:lastmodified":1466439755,
     "wof:name":"Peter L Kovacs MD",
     "wof:parent_id":85868537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.602312,30.287987,-81.602312,30.287987],
+  "bbox": [
+    -81.602312,
+    30.287987,
+    -81.602312,
+    30.287987
+],
   "geometry": {"coordinates":[-81.602312,30.287987],"type":"Point"}
 }

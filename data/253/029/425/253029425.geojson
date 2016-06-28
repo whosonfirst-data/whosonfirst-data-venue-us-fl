@@ -2,13 +2,14 @@
   "id": 253029425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10926,26.340874,-80.10926,26.340874",
     "geom:latitude":26.340874,
     "geom:longitude":-80.10926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 SW 10th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253029425,
-    "wof:lastmodified":1449064073,
+    "wof:lastmodified":1466428892,
     "wof:name":"Manning Home Inspections",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-80.10926,26.340874,-80.10926,26.340874],
-  "geometry": {"coordinates":[-80.10926,26.340874],"type":"Point"}
+  "bbox": [
+    -80.10926,
+    26.340874,
+    -80.10926,
+    26.340874
+],
+  "geometry": {"coordinates":[-80.10926000000001,26.340874],"type":"Point"}
 }

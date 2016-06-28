@@ -2,13 +2,14 @@
   "id": 370771773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.663881,30.371492,-81.663881,30.371492",
     "geom:latitude":30.371492,
     "geom:longitude":-81.663881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Norwood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370771773,
-    "wof:lastmodified":1449030905,
+    "wof:lastmodified":1466446022,
     "wof:name":"Mad Artist",
     "wof:parent_id":85838513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-81.663881,30.371492,-81.663881,30.371492],
+  "bbox": [
+    -81.663881,
+    30.371492,
+    -81.663881,
+    30.371492
+],
   "geometry": {"coordinates":[-81.663881,30.371492],"type":"Point"}
 }

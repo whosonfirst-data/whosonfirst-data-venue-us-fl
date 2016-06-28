@@ -2,13 +2,14 @@
   "id": 286370697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134894,25.771151,-80.134894,25.771151",
     "geom:latitude":25.771151,
     "geom:longitude":-80.134894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286370697,
-    "wof:lastmodified":1449016785,
+    "wof:lastmodified":1466431545,
     "wof:name":"ITUS Inc",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.134894,25.771151,-80.134894,25.771151],
+  "bbox": [
+    -80.134894,
+    25.771151,
+    -80.134894,
+    25.771151
+],
   "geometry": {"coordinates":[-80.134894,25.771151],"type":"Point"}
 }

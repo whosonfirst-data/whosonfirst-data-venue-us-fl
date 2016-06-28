@@ -2,13 +2,14 @@
   "id": 304002363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.515521,28.651154,-81.515521,28.651154",
     "geom:latitude":28.651154,
     "geom:longitude":-81.515521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1746 S Washington Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304002363,
-    "wof:lastmodified":1449044060,
+    "wof:lastmodified":1466431850,
     "wof:name":"Mott Foster Home",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-81.515521,28.651154,-81.515521,28.651154],
-  "geometry": {"coordinates":[-81.515521,28.651154],"type":"Point"}
+  "bbox": [
+    -81.515521,
+    28.651154,
+    -81.515521,
+    28.651154
+],
+  "geometry": {"coordinates":[-81.51552100000001,28.651154],"type":"Point"}
 }

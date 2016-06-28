@@ -2,13 +2,14 @@
   "id": 303755323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.755113,26.194226,-81.755113,26.194226",
     "geom:latitude":26.194226,
     "geom:longitude":-81.755113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2956 Bellflower Ln",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303755323,
-    "wof:lastmodified":1448998801,
+    "wof:lastmodified":1466443552,
     "wof:name":"Keevan Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.755113,26.194226,-81.755113,26.194226],
-  "geometry": {"coordinates":[-81.755113,26.194226],"type":"Point"}
+  "bbox": [
+    -81.755113,
+    26.194226,
+    -81.755113,
+    26.194226
+],
+  "geometry": {"coordinates":[-81.75511299999999,26.194226],"type":"Point"}
 }

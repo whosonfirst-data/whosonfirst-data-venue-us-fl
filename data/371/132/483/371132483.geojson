@@ -2,13 +2,14 @@
   "id": 371132483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.194394,30.434149,-87.194394,30.434149",
     "geom:latitude":30.434149,
     "geom:longitude":-87.194394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 E Mallory St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371132483,
-    "wof:lastmodified":1449049519,
+    "wof:lastmodified":1466439583,
     "wof:name":"ICD Distribution",
     "wof:parent_id":85822377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-87.194394,30.434149,-87.194394,30.434149],
+  "bbox": [
+    -87.194394,
+    30.434149,
+    -87.194394,
+    30.434149
+],
   "geometry": {"coordinates":[-87.194394,30.434149],"type":"Point"}
 }

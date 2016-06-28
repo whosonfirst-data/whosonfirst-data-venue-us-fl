@@ -2,13 +2,14 @@
   "id": 236721697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.40939,25.746543,-80.40939,25.746543",
     "geom:latitude":25.746543,
     "geom:longitude":-80.40939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 SW 131st Pl",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236721697,
-    "wof:lastmodified":1449005241,
+    "wof:lastmodified":1466438705,
     "wof:name":"Jorge Garcia Delivery",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-80.40939,25.746543,-80.40939,25.746543],
+  "bbox": [
+    -80.40939,
+    25.746543,
+    -80.40939,
+    25.746543
+],
   "geometry": {"coordinates":[-80.40939,25.746543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219431539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144235,26.236584,-80.144235,26.236584",
     "geom:latitude":26.236584,
     "geom:longitude":-80.144235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 NW 15th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219431539,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466430615,
     "wof:name":"Anchorlift USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.144235,26.236584,-80.144235,26.236584],
-  "geometry": {"coordinates":[-80.144235,26.236584],"type":"Point"}
+  "bbox": [
+    -80.144235,
+    26.236584,
+    -80.144235,
+    26.236584
+],
+  "geometry": {"coordinates":[-80.14423499999999,26.236584],"type":"Point"}
 }

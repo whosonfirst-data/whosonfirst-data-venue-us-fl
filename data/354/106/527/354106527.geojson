@@ -2,13 +2,14 @@
   "id": 354106527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.639575,30.35064,-81.639575,30.35064",
     "geom:latitude":30.35064,
     "geom:longitude":-81.639575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Franklin St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354106527,
-    "wof:lastmodified":1449065909,
+    "wof:lastmodified":1466437729,
     "wof:name":"Healthy Families",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.639575,30.35064,-81.639575,30.35064],
-  "geometry": {"coordinates":[-81.639575,30.35064],"type":"Point"}
+  "bbox": [
+    -81.639575,
+    30.35064,
+    -81.639575,
+    30.35064
+],
+  "geometry": {"coordinates":[-81.63957499999999,30.35064],"type":"Point"}
 }

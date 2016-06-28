@@ -2,13 +2,14 @@
   "id": 403985825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300575,25.932977,-80.300575,25.932977",
     "geom:latitude":25.932977,
     "geom:longitude":-80.300575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17403 NW 61st Ct S",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403985825,
-    "wof:lastmodified":1449055294,
+    "wof:lastmodified":1466444088,
     "wof:name":"South Flrda-Americas Trdg",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "agent"
     ]
 },
-  "bbox": [-80.300575,25.932977,-80.300575,25.932977],
-  "geometry": {"coordinates":[-80.300575,25.932977],"type":"Point"}
+  "bbox": [
+    -80.300575,
+    25.932977,
+    -80.300575,
+    25.932977
+],
+  "geometry": {"coordinates":[-80.30057499999999,25.932977],"type":"Point"}
 }

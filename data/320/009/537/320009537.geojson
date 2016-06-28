@@ -2,13 +2,14 @@
   "id": 320009537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215408,25.900329,-80.215408,25.900329",
     "geom:latitude":25.900329,
     "geom:longitude":-80.215408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 NW 137th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320009537,
-    "wof:lastmodified":1449014893,
+    "wof:lastmodified":1466433573,
     "wof:name":"Greater Miami Jewish Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.215408,25.900329,-80.215408,25.900329],
+  "bbox": [
+    -80.215408,
+    25.900329,
+    -80.215408,
+    25.900329
+],
   "geometry": {"coordinates":[-80.215408,25.900329],"type":"Point"}
 }

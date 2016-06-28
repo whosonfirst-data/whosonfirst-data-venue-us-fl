@@ -2,13 +2,14 @@
   "id": 186115089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.33514,28.642417,-81.33514,28.642417",
     "geom:latitude":28.642417,
     "geom:longitude":-81.33514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Winston Rd",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186115089,
-    "wof:lastmodified":1449050229,
+    "wof:lastmodified":1466445881,
     "wof:name":"Enterprises",
     "wof:parent_id":85866887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.33514,28.642417,-81.33514,28.642417],
+  "bbox": [
+    -81.33514,
+    28.642417,
+    -81.33514,
+    28.642417
+],
   "geometry": {"coordinates":[-81.33514,28.642417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202751695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.319639,29.862516,-81.319639,29.862516",
     "geom:latitude":29.862516,
     "geom:longitude":-81.319639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Health Park Blvd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202751695,
-    "wof:lastmodified":1449060243,
+    "wof:lastmodified":1466431646,
     "wof:name":"Patient Centered Renal Care",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.319639,29.862516,-81.319639,29.862516],
+  "bbox": [
+    -81.319639,
+    29.862516,
+    -81.319639,
+    29.862516
+],
   "geometry": {"coordinates":[-81.319639,29.862516],"type":"Point"}
 }

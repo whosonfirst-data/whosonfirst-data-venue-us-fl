@@ -2,13 +2,14 @@
   "id": 219228727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.696304,30.175395,-85.696304,30.175395",
     "geom:latitude":30.175395,
     "geom:longitude":-85.696304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W 15th St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219228727,
-    "wof:lastmodified":1449071496,
+    "wof:lastmodified":1466444969,
     "wof:name":"Temperature Time",
     "wof:parent_id":85846625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-85.696304,30.175395,-85.696304,30.175395],
+  "bbox": [
+    -85.696304,
+    30.175395,
+    -85.696304,
+    30.175395
+],
   "geometry": {"coordinates":[-85.696304,30.175395],"type":"Point"}
 }

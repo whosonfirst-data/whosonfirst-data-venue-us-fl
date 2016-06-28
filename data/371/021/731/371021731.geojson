@@ -2,13 +2,14 @@
   "id": 371021731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241219,30.422542,-87.241219,30.422542",
     "geom:latitude":30.422542,
     "geom:longitude":-87.241219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 N Pace Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371021731,
-    "wof:lastmodified":1449049710,
+    "wof:lastmodified":1466437912,
     "wof:name":"PBM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.241219,30.422542,-87.241219,30.422542],
+  "bbox": [
+    -87.241219,
+    30.422542,
+    -87.241219,
+    30.422542
+],
   "geometry": {"coordinates":[-87.241219,30.422542],"type":"Point"}
 }

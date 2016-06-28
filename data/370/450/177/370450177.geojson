@@ -2,13 +2,14 @@
   "id": 370450177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280302,28.901678,-81.280302,28.901678",
     "geom:latitude":28.901678,
     "geom:longitude":-81.280302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Whitecap Cove Ct",
     "sg:city":"De Bary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370450177,
-    "wof:lastmodified":1449031949,
+    "wof:lastmodified":1466441090,
     "wof:name":"James R Kappocki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.280302,28.901678,-81.280302,28.901678],
-  "geometry": {"coordinates":[-81.280302,28.901678],"type":"Point"}
+  "bbox": [
+    -81.280302,
+    28.901678,
+    -81.280302,
+    28.901678
+],
+  "geometry": {"coordinates":[-81.28030200000001,28.901678],"type":"Point"}
 }

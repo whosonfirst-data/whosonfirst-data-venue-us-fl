@@ -2,13 +2,14 @@
   "id": 287035847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.223566,30.596096,-84.223566,30.596096",
     "geom:latitude":30.596096,
     "geom:longitude":-84.223566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8884 Winged Foot Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287035847,
-    "wof:lastmodified":1449001384,
+    "wof:lastmodified":1466430424,
     "wof:name":"Icubed Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-84.223566,30.596096,-84.223566,30.596096],
-  "geometry": {"coordinates":[-84.223566,30.596096],"type":"Point"}
+  "bbox": [
+    -84.223566,
+    30.596096,
+    -84.223566,
+    30.596096
+],
+  "geometry": {"coordinates":[-84.22356600000001,30.596096],"type":"Point"}
 }

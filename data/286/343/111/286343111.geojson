@@ -2,13 +2,14 @@
   "id": 286343111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228586,25.799302,-80.228586,25.799302",
     "geom:latitude":25.799302,
     "geom:longitude":-80.228586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 NW 24th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286343111,
-    "wof:lastmodified":1449017276,
+    "wof:lastmodified":1466431075,
     "wof:name":"Carri Beauty Salon",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.228586,25.799302,-80.228586,25.799302],
-  "geometry": {"coordinates":[-80.228586,25.799302],"type":"Point"}
+  "bbox": [
+    -80.228586,
+    25.799302,
+    -80.228586,
+    25.799302
+],
+  "geometry": {"coordinates":[-80.22858600000001,25.799302],"type":"Point"}
 }

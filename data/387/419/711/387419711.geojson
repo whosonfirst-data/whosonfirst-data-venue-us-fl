@@ -2,13 +2,14 @@
   "id": 387419711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193363,26.234177,-80.193363,26.234177",
     "geom:latitude":26.234177,
     "geom:longitude":-80.193363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4756 W Atlantic Blvd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387419711,
-    "wof:lastmodified":1449059852,
+    "wof:lastmodified":1466445141,
     "wof:name":"Cadexim Inc",
     "wof:parent_id":85896213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "component"
     ]
 },
-  "bbox": [-80.193363,26.234177,-80.193363,26.234177],
-  "geometry": {"coordinates":[-80.193363,26.234177],"type":"Point"}
+  "bbox": [
+    -80.193363,
+    26.234177,
+    -80.193363,
+    26.234177
+],
+  "geometry": {"coordinates":[-80.19336300000001,26.234177],"type":"Point"}
 }

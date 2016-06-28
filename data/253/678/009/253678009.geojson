@@ -2,13 +2,14 @@
   "id": 253678009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.804791,26.660455,-81.804791,26.660455",
     "geom:latitude":26.660455,
     "geom:longitude":-81.804791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Corporation Cir",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253678009,
-    "wof:lastmodified":1449064248,
+    "wof:lastmodified":1466438783,
     "wof:name":"ASC Geosciences Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.804791,26.660455,-81.804791,26.660455],
-  "geometry": {"coordinates":[-81.804791,26.660455],"type":"Point"}
+  "bbox": [
+    -81.804791,
+    26.660455,
+    -81.804791,
+    26.660455
+],
+  "geometry": {"coordinates":[-81.80479099999999,26.660455],"type":"Point"}
 }

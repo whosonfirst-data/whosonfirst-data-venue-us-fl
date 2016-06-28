@@ -2,13 +2,14 @@
   "id": 403772681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.597321,28.0379,-80.597321,28.0379",
     "geom:latitude":28.0379,
     "geom:longitude":-80.597321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Robert J Conlan Blvd NE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403772681,
-    "wof:lastmodified":1449055231,
+    "wof:lastmodified":1466440678,
     "wof:name":"Sun Microsystems Inc",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-80.597321,28.0379,-80.597321,28.0379],
-  "geometry": {"coordinates":[-80.597321,28.0379],"type":"Point"}
+  "bbox": [
+    -80.597321,
+    28.0379,
+    -80.597321,
+    28.0379
+],
+  "geometry": {"coordinates":[-80.59732099999999,28.0379],"type":"Point"}
 }

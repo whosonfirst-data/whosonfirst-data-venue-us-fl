@@ -2,13 +2,14 @@
   "id": 203206463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.417063,29.656001,-82.417063,29.656001",
     "geom:latitude":29.656001,
     "geom:longitude":-82.417063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6933 NW 4 Blvd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203206463,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466428984,
     "wof:name":"Home Showcase",
     "wof:parent_id":85855675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-82.417063,29.656001,-82.417063,29.656001],
+  "bbox": [
+    -82.417063,
+    29.656001,
+    -82.417063,
+    29.656001
+],
   "geometry": {"coordinates":[-82.417063,29.656001],"type":"Point"}
 }

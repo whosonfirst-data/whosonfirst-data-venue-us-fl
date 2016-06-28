@@ -2,13 +2,14 @@
   "id": 387656655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801241,30.090895,-81.801241,30.090895",
     "geom:latitude":30.090895,
     "geom:longitude":-81.801241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3196 Fireside Dr",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387656655,
-    "wof:lastmodified":1449058589,
+    "wof:lastmodified":1466447803,
     "wof:name":"Market News Publishing Inc",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-81.801241,30.090895,-81.801241,30.090895],
+  "bbox": [
+    -81.801241,
+    30.090895,
+    -81.801241,
+    30.090895
+],
   "geometry": {"coordinates":[-81.801241,30.090895],"type":"Point"}
 }

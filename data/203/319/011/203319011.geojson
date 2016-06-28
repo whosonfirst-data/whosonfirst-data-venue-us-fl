@@ -2,13 +2,14 @@
   "id": 203319011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.640572,27.772005,-82.640572,27.772005",
     "geom:latitude":27.772005,
     "geom:longitude":-82.640572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 1st Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203319011,
-    "wof:lastmodified":1449025690,
+    "wof:lastmodified":1466430399,
     "wof:name":"Stamp Place",
     "wof:parent_id":85889535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.640572,27.772005,-82.640572,27.772005],
-  "geometry": {"coordinates":[-82.640572,27.772005],"type":"Point"}
+  "bbox": [
+    -82.640572,
+    27.772005,
+    -82.640572,
+    27.772005
+],
+  "geometry": {"coordinates":[-82.64057200000001,27.772005],"type":"Point"}
 }

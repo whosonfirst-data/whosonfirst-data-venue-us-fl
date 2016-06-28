@@ -2,13 +2,14 @@
   "id": 186294219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.503487,27.269301,-82.503487,27.269301",
     "geom:latitude":27.269301,
     "geom:longitude":-82.503487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3307 Clark Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186294219,
-    "wof:lastmodified":1449052272,
+    "wof:lastmodified":1466430231,
     "wof:name":"BVG Seagrove LTD",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.503487,27.269301,-82.503487,27.269301],
-  "geometry": {"coordinates":[-82.503487,27.269301],"type":"Point"}
+  "bbox": [
+    -82.503487,
+    27.269301,
+    -82.503487,
+    27.269301
+],
+  "geometry": {"coordinates":[-82.50348700000001,27.269301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371021205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.692159,27.874617,-82.692159,27.874617",
     "geom:latitude":27.874617,
     "geom:longitude":-82.692159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11350 43rd St N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371021205,
-    "wof:lastmodified":1449049711,
+    "wof:lastmodified":1466437904,
     "wof:name":"St Petersburg Fire Department",
     "wof:parent_id":85889455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-82.692159,27.874617,-82.692159,27.874617],
+  "bbox": [
+    -82.692159,
+    27.874617,
+    -82.692159,
+    27.874617
+],
   "geometry": {"coordinates":[-82.692159,27.874617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304030081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.425418,28.259045,-81.425418,28.259045",
     "geom:latitude":28.259045,
     "geom:longitude":-81.425418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 Putter Pl",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304030081,
-    "wof:lastmodified":1449043781,
+    "wof:lastmodified":1466432329,
     "wof:name":"Express Realty Intl",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.425418,28.259045,-81.425418,28.259045],
-  "geometry": {"coordinates":[-81.425418,28.259045],"type":"Point"}
+  "bbox": [
+    -81.425418,
+    28.259045,
+    -81.425418,
+    28.259045
+],
+  "geometry": {"coordinates":[-81.42541799999999,28.259045],"type":"Point"}
 }

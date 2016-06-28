@@ -2,13 +2,14 @@
   "id": 303578723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125323,26.127643,-80.125323,26.127643",
     "geom:latitude":26.127643,
     "geom:longitude":-80.125323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 NE 4th Pl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303578723,
-    "wof:lastmodified":1448998729,
+    "wof:lastmodified":1466440499,
     "wof:name":"Htc Enterprises Inc",
     "wof:parent_id":85851521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.125323,26.127643,-80.125323,26.127643],
-  "geometry": {"coordinates":[-80.125323,26.127643],"type":"Point"}
+  "bbox": [
+    -80.125323,
+    26.127643,
+    -80.125323,
+    26.127643
+],
+  "geometry": {"coordinates":[-80.12532299999999,26.127643],"type":"Point"}
 }

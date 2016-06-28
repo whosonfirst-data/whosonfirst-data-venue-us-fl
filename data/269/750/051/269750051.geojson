@@ -2,13 +2,14 @@
   "id": 269750051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751837,30.306833,-81.751837,30.306833",
     "geom:latitude":30.306833,
     "geom:longitude":-81.751837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Lane Ave S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269750051,
-    "wof:lastmodified":1449037610,
+    "wof:lastmodified":1466433211,
     "wof:name":"Anthony T Dean DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.751837,30.306833,-81.751837,30.306833],
-  "geometry": {"coordinates":[-81.751837,30.306833],"type":"Point"}
+  "bbox": [
+    -81.751837,
+    30.306833,
+    -81.751837,
+    30.306833
+],
+  "geometry": {"coordinates":[-81.75183699999999,30.306833],"type":"Point"}
 }

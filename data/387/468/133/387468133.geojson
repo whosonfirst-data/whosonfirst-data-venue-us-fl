@@ -2,13 +2,14 @@
   "id": 387468133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093456,26.302531,-80.093456,26.302531",
     "geom:latitude":26.302531,
     "geom:longitude":-80.093456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 S Federal Hwy",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387468133,
-    "wof:lastmodified":1449058835,
+    "wof:lastmodified":1466445877,
     "wof:name":"CVS",
     "wof:parent_id":85848599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-80.093456,26.302531,-80.093456,26.302531],
+  "bbox": [
+    -80.093456,
+    26.302531,
+    -80.093456,
+    26.302531
+],
   "geometry": {"coordinates":[-80.093456,26.302531],"type":"Point"}
 }

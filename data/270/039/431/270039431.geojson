@@ -2,13 +2,14 @@
   "id": 270039431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.107134,26.167407,-80.107134,26.167407",
     "geom:latitude":26.167407,
     "geom:longitude":-80.107134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 E Oakland Park Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270039431,
-    "wof:lastmodified":1449010782,
+    "wof:lastmodified":1466430129,
     "wof:name":"National Cold Storage Inc",
     "wof:parent_id":85812259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-80.107134,26.167407,-80.107134,26.167407],
+  "bbox": [
+    -80.107134,
+    26.167407,
+    -80.107134,
+    26.167407
+],
   "geometry": {"coordinates":[-80.107134,26.167407],"type":"Point"}
 }

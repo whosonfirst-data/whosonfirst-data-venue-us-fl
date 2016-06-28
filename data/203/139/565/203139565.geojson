@@ -2,13 +2,14 @@
   "id": 203139565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.981313,26.575152,-81.981313,26.575152",
     "geom:latitude":26.575152,
     "geom:longitude":-81.981313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 SW 3rd Ave",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203139565,
-    "wof:lastmodified":1449025112,
+    "wof:lastmodified":1466445961,
     "wof:name":"Certified Appliance",
     "wof:parent_id":85888799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.981313,26.575152,-81.981313,26.575152],
+  "bbox": [
+    -81.981313,
+    26.575152,
+    -81.981313,
+    26.575152
+],
   "geometry": {"coordinates":[-81.981313,26.575152],"type":"Point"}
 }

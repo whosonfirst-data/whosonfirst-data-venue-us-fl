@@ -2,13 +2,14 @@
   "id": 219780377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288432,28.521648,-81.288432,28.521648",
     "geom:latitude":28.521648,
     "geom:longitude":-81.288432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7229 Gateshead Cir",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219780377,
-    "wof:lastmodified":1449073041,
+    "wof:lastmodified":1466435172,
     "wof:name":"Pressure King",
     "wof:parent_id":85889405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-81.288432,28.521648,-81.288432,28.521648],
+  "bbox": [
+    -81.288432,
+    28.521648,
+    -81.288432,
+    28.521648
+],
   "geometry": {"coordinates":[-81.288432,28.521648],"type":"Point"}
 }

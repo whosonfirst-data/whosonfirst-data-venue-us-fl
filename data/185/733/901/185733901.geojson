@@ -2,13 +2,14 @@
   "id": 185733901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430928,28.657693,-81.430928,28.657693",
     "geom:latitude":28.657693,
     "geom:longitude":-81.430928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Brantley Estates Dr",
     "sg:city":"Altamonte Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185733901,
-    "wof:lastmodified":1449006825,
+    "wof:lastmodified":1466446088,
     "wof:name":"Eagle Builder Services Inc",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.430928,28.657693,-81.430928,28.657693],
-  "geometry": {"coordinates":[-81.430928,28.657693],"type":"Point"}
+  "bbox": [
+    -81.430928,
+    28.657693,
+    -81.430928,
+    28.657693
+],
+  "geometry": {"coordinates":[-81.43092799999999,28.657693],"type":"Point"}
 }

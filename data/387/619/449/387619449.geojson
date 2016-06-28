@@ -2,13 +2,14 @@
   "id": 387619449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.744061,30.270403,-81.744061,30.270403",
     "geom:latitude":30.270403,
     "geom:longitude":-81.744061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 Wilson Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387619449,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1466447547,
     "wof:name":"Intercoastal Utilities",
     "wof:parent_id":85866897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-81.744061,30.270403,-81.744061,30.270403],
+  "bbox": [
+    -81.744061,
+    30.270403,
+    -81.744061,
+    30.270403
+],
   "geometry": {"coordinates":[-81.744061,30.270403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387599509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.984389,29.144161,-80.984389,29.144161",
     "geom:latitude":29.144161,
     "geom:longitude":-80.984389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Dunlawton Ave",
     "sg:city":"Port Orange",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387599509,
-    "wof:lastmodified":1449057869,
+    "wof:lastmodified":1466447244,
     "wof:name":"Discover Diving Dive Ctr",
     "wof:parent_id":85823875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.984389,29.144161,-80.984389,29.144161],
-  "geometry": {"coordinates":[-80.984389,29.144161],"type":"Point"}
+  "bbox": [
+    -80.984389,
+    29.144161,
+    -80.984389,
+    29.144161
+],
+  "geometry": {"coordinates":[-80.98438899999999,29.144161],"type":"Point"}
 }

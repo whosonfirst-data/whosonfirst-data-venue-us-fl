@@ -2,13 +2,14 @@
   "id": 320840713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.114121,26.350825,-80.114121,26.350825",
     "geom:latitude":26.350825,
     "geom:longitude":-80.114121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 W Palmetto Park Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320840713,
-    "wof:lastmodified":1449014125,
+    "wof:lastmodified":1466447263,
     "wof:name":"Van's Shoe Repair",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boot"
     ]
 },
-  "bbox": [-80.114121,26.350825,-80.114121,26.350825],
+  "bbox": [
+    -80.114121,
+    26.350825,
+    -80.114121,
+    26.350825
+],
   "geometry": {"coordinates":[-80.114121,26.350825],"type":"Point"}
 }

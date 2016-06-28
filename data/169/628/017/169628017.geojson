@@ -2,13 +2,14 @@
   "id": 169628017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.387279,30.260092,-81.387279,30.260092",
     "geom:latitude":30.260092,
     "geom:longitude":-81.387279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Jacksonville Dr",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169628017,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466446329,
     "wof:name":"University Of Florida Beaches",
     "wof:parent_id":85840121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.387279,30.260092,-81.387279,30.260092],
-  "geometry": {"coordinates":[-81.387279,30.260092],"type":"Point"}
+  "bbox": [
+    -81.387279,
+    30.260092,
+    -81.387279,
+    30.260092
+],
+  "geometry": {"coordinates":[-81.38727900000001,30.260092],"type":"Point"}
 }

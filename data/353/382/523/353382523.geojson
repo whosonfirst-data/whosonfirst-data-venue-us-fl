@@ -2,13 +2,14 @@
   "id": 353382523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800311,26.209217,-81.800311,26.209217",
     "geom:latitude":26.209217,
     "geom:longitude":-81.800311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353382523,
-    "wof:lastmodified":1449018947,
+    "wof:lastmodified":1466435348,
     "wof:name":"Hulce Mortgage Inc",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-81.800311,26.209217,-81.800311,26.209217],
-  "geometry": {"coordinates":[-81.800311,26.209217],"type":"Point"}
+  "bbox": [
+    -81.800311,
+    26.209217,
+    -81.800311,
+    26.209217
+],
+  "geometry": {"coordinates":[-81.80031099999999,26.209217],"type":"Point"}
 }

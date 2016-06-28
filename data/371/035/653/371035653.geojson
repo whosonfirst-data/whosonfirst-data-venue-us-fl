@@ -2,13 +2,14 @@
   "id": 371035653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.539049,27.338798,-82.539049,27.338798",
     "geom:latitude":27.338798,
     "geom:longitude":-82.539049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371035653,
-    "wof:lastmodified":1449049891,
+    "wof:lastmodified":1466438124,
     "wof:name":"Kelly's Kloset",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.539049,27.338798,-82.539049,27.338798],
-  "geometry": {"coordinates":[-82.539049,27.338798],"type":"Point"}
+  "bbox": [
+    -82.539049,
+    27.338798,
+    -82.539049,
+    27.338798
+],
+  "geometry": {"coordinates":[-82.53904900000001,27.338798],"type":"Point"}
 }

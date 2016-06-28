@@ -2,13 +2,14 @@
   "id": 186366835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.37948,27.291096,-80.37948,27.291096",
     "geom:latitude":27.291096,
     "geom:longitude":-80.37948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 SW Jacqueline Ave",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186366835,
-    "wof:lastmodified":1449052315,
+    "wof:lastmodified":1466431108,
     "wof:name":"First Federated Funding Inc",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-80.37948,27.291096,-80.37948,27.291096],
+  "bbox": [
+    -80.37948,
+    27.291096,
+    -80.37948,
+    27.291096
+],
   "geometry": {"coordinates":[-80.37948,27.291096],"type":"Point"}
 }

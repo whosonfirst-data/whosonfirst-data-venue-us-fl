@@ -2,13 +2,14 @@
   "id": 303579703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192029,25.774825,-80.192029,25.774825",
     "geom:latitude":25.774825,
     "geom:longitude":-80.192029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 NE 1st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303579703,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1466440517,
     "wof:name":"H Rhodes Miami",
     "wof:parent_id":85896175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.192029,25.774825,-80.192029,25.774825],
-  "geometry": {"coordinates":[-80.192029,25.774825],"type":"Point"}
+  "bbox": [
+    -80.192029,
+    25.774825,
+    -80.192029,
+    25.774825
+],
+  "geometry": {"coordinates":[-80.19202900000001,25.774825],"type":"Point"}
 }

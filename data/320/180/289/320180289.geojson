@@ -2,13 +2,14 @@
   "id": 320180289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211347,26.215449,-80.211347,26.215449",
     "geom:latitude":26.215449,
     "geom:longitude":-80.211347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6361 SW 10th Ct",
     "sg:city":"North Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320180289,
-    "wof:lastmodified":1449011410,
+    "wof:lastmodified":1466436476,
     "wof:name":"Prototype Pressure Cleaning",
     "wof:parent_id":85818423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-80.211347,26.215449,-80.211347,26.215449],
+  "bbox": [
+    -80.211347,
+    26.215449,
+    -80.211347,
+    26.215449
+],
   "geometry": {"coordinates":[-80.211347,26.215449],"type":"Point"}
 }

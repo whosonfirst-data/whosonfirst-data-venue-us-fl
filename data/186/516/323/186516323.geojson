@@ -2,13 +2,14 @@
   "id": 186516323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.641793,27.764119,-82.641793,27.764119",
     "geom:latitude":27.764119,
     "geom:longitude":-82.641793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 6th St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186516323,
-    "wof:lastmodified":1449050916,
+    "wof:lastmodified":1466433018,
     "wof:name":"Bayfront Medical Ctr",
     "wof:parent_id":85889549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.641793,27.764119,-82.641793,27.764119],
-  "geometry": {"coordinates":[-82.641793,27.764119],"type":"Point"}
+  "bbox": [
+    -82.641793,
+    27.764119,
+    -82.641793,
+    27.764119
+],
+  "geometry": {"coordinates":[-82.64179300000001,27.764119],"type":"Point"}
 }

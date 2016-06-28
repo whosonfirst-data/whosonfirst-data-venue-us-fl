@@ -2,13 +2,14 @@
   "id": 320098163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.799861,26.148218,-81.799861,26.148218",
     "geom:latitude":26.148218,
     "geom:longitude":-81.799861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 6th St N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320098163,
-    "wof:lastmodified":1449014571,
+    "wof:lastmodified":1466435058,
     "wof:name":"Fifth Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-81.799861,26.148218,-81.799861,26.148218],
-  "geometry": {"coordinates":[-81.799861,26.148218],"type":"Point"}
+  "bbox": [
+    -81.799861,
+    26.148218,
+    -81.799861,
+    26.148218
+],
+  "geometry": {"coordinates":[-81.79986100000001,26.148218],"type":"Point"}
 }

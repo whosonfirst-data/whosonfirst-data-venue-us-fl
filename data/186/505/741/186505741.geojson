@@ -2,13 +2,14 @@
   "id": 186505741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.519986,30.384991,-81.519986,30.384991",
     "geom:latitude":30.384991,
     "geom:longitude":-81.519986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4894 Ashley Manor Way",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186505741,
-    "wof:lastmodified":1449052568,
+    "wof:lastmodified":1466432878,
     "wof:name":"Jacksonville Electric Auth",
     "wof:parent_id":85805021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-81.519986,30.384991,-81.519986,30.384991],
+  "bbox": [
+    -81.519986,
+    30.384991,
+    -81.519986,
+    30.384991
+],
   "geometry": {"coordinates":[-81.519986,30.384991],"type":"Point"}
 }

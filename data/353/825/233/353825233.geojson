@@ -2,13 +2,14 @@
   "id": 353825233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.410519,29.693214,-82.410519,29.693214",
     "geom:latitude":29.693214,
     "geom:longitude":-82.410519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6414 NW 42 Rd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353825233,
-    "wof:lastmodified":1449018341,
+    "wof:lastmodified":1466441326,
     "wof:name":"Brent M Huber Inc",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.410519,29.693214,-82.410519,29.693214],
-  "geometry": {"coordinates":[-82.410519,29.693214],"type":"Point"}
+  "bbox": [
+    -82.410519,
+    29.693214,
+    -82.410519,
+    29.693214
+],
+  "geometry": {"coordinates":[-82.41051899999999,29.693214],"type":"Point"}
 }

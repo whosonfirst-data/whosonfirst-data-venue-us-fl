@@ -2,13 +2,14 @@
   "id": 320223603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.019483,29.21227,-81.019483,29.21227",
     "geom:latitude":29.21227,
     "geom:longitude":-81.019483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Beach St",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320223603,
-    "wof:lastmodified":1449011504,
+    "wof:lastmodified":1466437208,
     "wof:name":"Volusia/Flagler Safety Council",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "council"
     ]
 },
-  "bbox": [-81.019483,29.21227,-81.019483,29.21227],
-  "geometry": {"coordinates":[-81.019483,29.21227],"type":"Point"}
+  "bbox": [
+    -81.019483,
+    29.21227,
+    -81.019483,
+    29.21227
+],
+  "geometry": {"coordinates":[-81.01948299999999,29.21227],"type":"Point"}
 }

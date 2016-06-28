@@ -2,13 +2,14 @@
   "id": 404001255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.304118,30.480518,-84.304118,30.480518",
     "geom:latitude":30.480518,
     "geom:longitude":-84.304118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Callaway Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404001255,
-    "wof:lastmodified":1449039328,
+    "wof:lastmodified":1466440284,
     "wof:name":"Associated Marine Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.304118,30.480518,-84.304118,30.480518],
+  "bbox": [
+    -84.304118,
+    30.480518,
+    -84.304118,
+    30.480518
+],
   "geometry": {"coordinates":[-84.304118,30.480518],"type":"Point"}
 }

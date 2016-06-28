@@ -2,13 +2,14 @@
   "id": 185901311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.239793,30.493707,-84.239793,30.493707",
     "geom:latitude":30.493707,
     "geom:longitude":-84.239793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Wembley Way",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185901311,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1466429923,
     "wof:name":"Seminole Stamp Shop",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-84.239793,30.493707,-84.239793,30.493707],
-  "geometry": {"coordinates":[-84.239793,30.493707],"type":"Point"}
+  "bbox": [
+    -84.239793,
+    30.493707,
+    -84.239793,
+    30.493707
+],
+  "geometry": {"coordinates":[-84.23979300000001,30.493707],"type":"Point"}
 }

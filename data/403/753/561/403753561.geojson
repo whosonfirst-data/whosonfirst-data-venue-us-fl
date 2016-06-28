@@ -2,13 +2,14 @@
   "id": 403753561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.487108,25.469027,-80.487108,25.469027",
     "geom:latitude":25.469027,
     "geom:longitude":-80.487108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 SW 8th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":403753561,
-    "wof:lastmodified":1449054778,
+    "wof:lastmodified":1466440378,
     "wof:name":"Becker's Steel Fabricating",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "structural"
     ]
 },
-  "bbox": [-80.487108,25.469027,-80.487108,25.469027],
-  "geometry": {"coordinates":[-80.487108,25.469027],"type":"Point"}
+  "bbox": [
+    -80.487108,
+    25.469027,
+    -80.487108,
+    25.469027
+],
+  "geometry": {"coordinates":[-80.48710800000001,25.469027],"type":"Point"}
 }

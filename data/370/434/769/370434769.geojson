@@ -2,13 +2,14 @@
   "id": 370434769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.282081,30.446816,-84.282081,30.446816",
     "geom:latitude":30.446816,
     "geom:longitude":-84.282081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Adams St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370434769,
-    "wof:lastmodified":1449029827,
+    "wof:lastmodified":1466440846,
     "wof:name":"Tallahassee Zoning Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dev"
     ]
 },
-  "bbox": [-84.282081,30.446816,-84.282081,30.446816],
-  "geometry": {"coordinates":[-84.282081,30.446816],"type":"Point"}
+  "bbox": [
+    -84.282081,
+    30.446816,
+    -84.282081,
+    30.446816
+],
+  "geometry": {"coordinates":[-84.28208100000001,30.446816],"type":"Point"}
 }

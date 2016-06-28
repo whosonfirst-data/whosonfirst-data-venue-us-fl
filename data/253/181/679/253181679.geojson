@@ -2,13 +2,14 @@
   "id": 253181679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.570112,28.077495,-82.570112,28.077495",
     "geom:latitude":28.077495,
     "geom:longitude":-82.570112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7603 Gunn Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253181679,
-    "wof:lastmodified":1449064624,
+    "wof:lastmodified":1466430434,
     "wof:name":"Voltmaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.570112,28.077495,-82.570112,28.077495],
-  "geometry": {"coordinates":[-82.570112,28.077495],"type":"Point"}
+  "bbox": [
+    -82.570112,
+    28.077495,
+    -82.570112,
+    28.077495
+],
+  "geometry": {"coordinates":[-82.57011199999999,28.077495],"type":"Point"}
 }

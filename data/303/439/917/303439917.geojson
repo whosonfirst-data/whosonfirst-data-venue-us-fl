@@ -2,13 +2,14 @@
   "id": 303439917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.411398,30.32452,-81.411398,30.32452",
     "geom:latitude":30.32452,
     "geom:longitude":-81.411398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Atlantic Blvd",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303439917,
-    "wof:lastmodified":1448998788,
+    "wof:lastmodified":1466438108,
     "wof:name":"Breezes Full Service Carwash",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-81.411398,30.32452,-81.411398,30.32452],
-  "geometry": {"coordinates":[-81.411398,30.32452],"type":"Point"}
+  "bbox": [
+    -81.411398,
+    30.32452,
+    -81.411398,
+    30.32452
+],
+  "geometry": {"coordinates":[-81.41139800000001,30.32452],"type":"Point"}
 }

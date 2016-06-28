@@ -2,13 +2,14 @@
   "id": 303634947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.281647,29.057596,-81.281647,29.057596",
     "geom:latitude":29.057596,
     "geom:longitude":-81.281647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Intrepid Dr",
     "sg:city":"De Land",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303634947,
-    "wof:lastmodified":1448999288,
+    "wof:lastmodified":1466441453,
     "wof:name":"Florida Electric Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-81.281647,29.057596,-81.281647,29.057596],
-  "geometry": {"coordinates":[-81.281647,29.057596],"type":"Point"}
+  "bbox": [
+    -81.281647,
+    29.057596,
+    -81.281647,
+    29.057596
+],
+  "geometry": {"coordinates":[-81.28164700000001,29.057596],"type":"Point"}
 }

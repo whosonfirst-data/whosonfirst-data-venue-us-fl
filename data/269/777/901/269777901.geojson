@@ -2,13 +2,14 @@
   "id": 269777901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135297,25.78376,-80.135297,25.78376",
     "geom:latitude":25.78376,
     "geom:longitude":-80.135297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Euclid Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269777901,
-    "wof:lastmodified":1449037393,
+    "wof:lastmodified":1466433730,
     "wof:name":"Vercingetorix Foundatn",
     "wof:parent_id":85865233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.135297,25.78376,-80.135297,25.78376],
-  "geometry": {"coordinates":[-80.135297,25.78376],"type":"Point"}
+  "bbox": [
+    -80.135297,
+    25.78376,
+    -80.135297,
+    25.78376
+],
+  "geometry": {"coordinates":[-80.13529699999999,25.78376],"type":"Point"}
 }

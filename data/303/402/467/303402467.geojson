@@ -2,13 +2,14 @@
   "id": 303402467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.20064,25.840416,-80.20064,25.840416",
     "geom:latitude":25.840416,
     "geom:longitude":-80.20064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7149 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303402467,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466437467,
     "wof:name":"Arche De Noe Mason Lodge",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.20064,25.840416,-80.20064,25.840416],
-  "geometry": {"coordinates":[-80.20064,25.840416],"type":"Point"}
+  "bbox": [
+    -80.20064,
+    25.840416,
+    -80.20064,
+    25.840416
+],
+  "geometry": {"coordinates":[-80.20064000000001,25.840416],"type":"Point"}
 }

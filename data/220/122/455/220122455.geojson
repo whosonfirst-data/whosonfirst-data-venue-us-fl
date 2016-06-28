@@ -2,13 +2,14 @@
   "id": 220122455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.368368,25.768413,-80.368368,25.768413",
     "geom:latitude":25.768413,
     "geom:longitude":-80.368368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10514 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220122455,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466428530,
     "wof:name":"Matson Management",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.368368,25.768413,-80.368368,25.768413],
+  "bbox": [
+    -80.368368,
+    25.768413,
+    -80.368368,
+    25.768413
+],
   "geometry": {"coordinates":[-80.368368,25.768413],"type":"Point"}
 }

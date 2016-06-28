@@ -2,13 +2,14 @@
   "id": 253539115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.233451,30.438539,-84.233451,30.438539",
     "geom:latitude":30.438539,
     "geom:longitude":-84.233451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Gawain Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253539115,
-    "wof:lastmodified":1449065857,
+    "wof:lastmodified":1466436303,
     "wof:name":"Express Groceries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-84.233451,30.438539,-84.233451,30.438539],
+  "bbox": [
+    -84.233451,
+    30.438539,
+    -84.233451,
+    30.438539
+],
   "geometry": {"coordinates":[-84.233451,30.438539],"type":"Point"}
 }

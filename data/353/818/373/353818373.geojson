@@ -2,13 +2,14 @@
   "id": 353818373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.96528,30.526579,-82.96528,30.526579",
     "geom:latitude":30.526579,
     "geom:longitude":-82.96528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3827 NW 104th Pl",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353818373,
-    "wof:lastmodified":1449019509,
+    "wof:lastmodified":1466441230,
     "wof:name":"D's Medicaid Non-Emergency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.96528,30.526579,-82.96528,30.526579],
-  "geometry": {"coordinates":[-82.96528,30.526579],"type":"Point"}
+  "bbox": [
+    -82.96528,
+    30.526579,
+    -82.96528,
+    30.526579
+],
+  "geometry": {"coordinates":[-82.96528000000001,30.526579],"type":"Point"}
 }

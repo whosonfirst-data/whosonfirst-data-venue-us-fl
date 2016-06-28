@@ -2,13 +2,14 @@
   "id": 220070765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253786,25.771798,-80.253786,25.771798",
     "geom:latitude":25.771798,
     "geom:longitude":-80.253786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220070765,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466445237,
     "wof:name":"Asia Restaurant",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.253786,25.771798,-80.253786,25.771798],
-  "geometry": {"coordinates":[-80.253786,25.771798],"type":"Point"}
+  "bbox": [
+    -80.253786,
+    25.771798,
+    -80.253786,
+    25.771798
+],
+  "geometry": {"coordinates":[-80.25378600000001,25.771798],"type":"Point"}
 }

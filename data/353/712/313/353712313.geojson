@@ -2,13 +2,14 @@
   "id": 353712313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.825972,26.330475,-81.825972,26.330475",
     "geom:latitude":26.330475,
     "geom:longitude":-81.825972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 Bonita Beach Rd",
     "sg:city":"Bonita Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353712313,
-    "wof:lastmodified":1449019344,
+    "wof:lastmodified":1466439580,
     "wof:name":"Bonita Furniture & Patio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.825972,26.330475,-81.825972,26.330475],
-  "geometry": {"coordinates":[-81.825972,26.330475],"type":"Point"}
+  "bbox": [
+    -81.825972,
+    26.330475,
+    -81.825972,
+    26.330475
+],
+  "geometry": {"coordinates":[-81.82597199999999,26.330475],"type":"Point"}
 }

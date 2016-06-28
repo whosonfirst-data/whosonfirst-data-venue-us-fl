@@ -2,13 +2,14 @@
   "id": 403972781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123298,25.855476,-80.123298,25.855476",
     "geom:latitude":25.855476,
     "geom:longitude":-80.123298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6960 Byron Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403972781,
-    "wof:lastmodified":1449055308,
+    "wof:lastmodified":1466443883,
     "wof:name":"Adams Bailbonds Inc",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bond"
     ]
 },
-  "bbox": [-80.123298,25.855476,-80.123298,25.855476],
-  "geometry": {"coordinates":[-80.123298,25.855476],"type":"Point"}
+  "bbox": [
+    -80.123298,
+    25.855476,
+    -80.123298,
+    25.855476
+],
+  "geometry": {"coordinates":[-80.12329800000001,25.855476],"type":"Point"}
 }

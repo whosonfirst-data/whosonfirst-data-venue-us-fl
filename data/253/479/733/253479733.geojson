@@ -2,13 +2,14 @@
   "id": 253479733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.430642,25.637854,-80.430642,25.637854",
     "geom:latitude":25.637854,
     "geom:longitude":-80.430642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13816 SW 144th Avenue Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253479733,
-    "wof:lastmodified":1449064865,
+    "wof:lastmodified":1466435269,
     "wof:name":"01 Design System Inc",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cover"
     ]
 },
-  "bbox": [-80.430642,25.637854,-80.430642,25.637854],
-  "geometry": {"coordinates":[-80.430642,25.637854],"type":"Point"}
+  "bbox": [
+    -80.430642,
+    25.637854,
+    -80.430642,
+    25.637854
+],
+  "geometry": {"coordinates":[-80.43064200000001,25.637854],"type":"Point"}
 }

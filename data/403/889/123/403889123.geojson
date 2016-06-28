@@ -2,13 +2,14 @@
   "id": 403889123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.744638,26.274629,-81.744638,26.274629",
     "geom:latitude":26.274629,
     "geom:longitude":-81.744638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5659 Strand Ct",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403889123,
-    "wof:lastmodified":1449054608,
+    "wof:lastmodified":1466442557,
     "wof:name":"Fort Myers Court Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "court"
     ]
 },
-  "bbox": [-81.744638,26.274629,-81.744638,26.274629],
-  "geometry": {"coordinates":[-81.744638,26.274629],"type":"Point"}
+  "bbox": [
+    -81.744638,
+    26.274629,
+    -81.744638,
+    26.274629
+],
+  "geometry": {"coordinates":[-81.74463799999999,26.274629],"type":"Point"}
 }

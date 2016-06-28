@@ -2,13 +2,14 @@
   "id": 203240213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.819586,30.219832,-81.819586,30.219832",
     "geom:latitude":30.219832,
     "geom:longitude":-81.819586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9603 Grove Hill Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203240213,
-    "wof:lastmodified":1449025134,
+    "wof:lastmodified":1466429421,
     "wof:name":"Kiernan Tile",
     "wof:parent_id":85870747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.819586,30.219832,-81.819586,30.219832],
+  "bbox": [
+    -81.819586,
+    30.219832,
+    -81.819586,
+    30.219832
+],
   "geometry": {"coordinates":[-81.819586,30.219832],"type":"Point"}
 }

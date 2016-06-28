@@ -2,13 +2,14 @@
   "id": 286303301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.445309,30.492214,-86.445309,30.492214",
     "geom:latitude":30.492214,
     "geom:longitude":-86.445309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Bay Dr",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286303301,
-    "wof:lastmodified":1449015195,
+    "wof:lastmodified":1466430375,
     "wof:name":"LMC Group",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-86.445309,30.492214,-86.445309,30.492214],
-  "geometry": {"coordinates":[-86.445309,30.492214],"type":"Point"}
+  "bbox": [
+    -86.445309,
+    30.492214,
+    -86.445309,
+    30.492214
+],
+  "geometry": {"coordinates":[-86.44530899999999,30.492214],"type":"Point"}
 }

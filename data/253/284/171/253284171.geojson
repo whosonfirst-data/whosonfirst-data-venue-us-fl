@@ -2,13 +2,14 @@
   "id": 253284171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.317816,28.233785,-81.317816,28.233785",
     "geom:latitude":28.233785,
     "geom:longitude":-81.317816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 Kissimmee Park Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253284171,
-    "wof:lastmodified":1449064651,
+    "wof:lastmodified":1466431947,
     "wof:name":"Road and Bridge Maintenance",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-81.317816,28.233785,-81.317816,28.233785],
-  "geometry": {"coordinates":[-81.317816,28.233785],"type":"Point"}
+  "bbox": [
+    -81.317816,
+    28.233785,
+    -81.317816,
+    28.233785
+],
+  "geometry": {"coordinates":[-81.31781599999999,28.233785],"type":"Point"}
 }

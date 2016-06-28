@@ -2,13 +2,14 @@
   "id": 303619715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.235997,30.441487,-87.235997,30.441487",
     "geom:latitude":30.441487,
     "geom:longitude":-87.235997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Leonard St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303619715,
-    "wof:lastmodified":1448998557,
+    "wof:lastmodified":1466441192,
     "wof:name":"Sheriff's Dept-Traffic Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-87.235997,30.441487,-87.235997,30.441487],
+  "bbox": [
+    -87.235997,
+    30.441487,
+    -87.235997,
+    30.441487
+],
   "geometry": {"coordinates":[-87.235997,30.441487],"type":"Point"}
 }

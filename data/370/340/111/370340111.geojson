@@ -2,13 +2,14 @@
   "id": 370340111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546602,27.44942,-82.546602,27.44942",
     "geom:latitude":27.44942,
     "geom:longitude":-82.546602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 15th St E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370340111,
-    "wof:lastmodified":1449031714,
+    "wof:lastmodified":1466439369,
     "wof:name":"Worship Center",
     "wof:parent_id":85888581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.546602,27.44942,-82.546602,27.44942],
-  "geometry": {"coordinates":[-82.546602,27.44942],"type":"Point"}
+  "bbox": [
+    -82.546602,
+    27.44942,
+    -82.546602,
+    27.44942
+],
+  "geometry": {"coordinates":[-82.54660199999999,27.44942],"type":"Point"}
 }

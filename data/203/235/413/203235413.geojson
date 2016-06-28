@@ -2,13 +2,14 @@
   "id": 203235413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.109685,29.239917,-82.109685,29.239917",
     "geom:latitude":29.239917,
     "geom:longitude":-82.109685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 NE 51st Pl",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203235413,
-    "wof:lastmodified":1449025268,
+    "wof:lastmodified":1466429353,
     "wof:name":"Advanced Fencing",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.109685,29.239917,-82.109685,29.239917],
+  "bbox": [
+    -82.109685,
+    29.239917,
+    -82.109685,
+    29.239917
+],
   "geometry": {"coordinates":[-82.109685,29.239917],"type":"Point"}
 }

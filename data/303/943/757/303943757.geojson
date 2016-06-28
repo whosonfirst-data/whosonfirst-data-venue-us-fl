@@ -2,13 +2,14 @@
   "id": 303943757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474033,27.823407,-80.474033,27.823407",
     "geom:latitude":27.823407,
     "geom:longitude":-80.474033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 US Hwy 1",
     "sg:city":"Sebastian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303943757,
-    "wof:lastmodified":1448998759,
+    "wof:lastmodified":1466446793,
     "wof:name":"Fishermens Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.474033,27.823407,-80.474033,27.823407],
-  "geometry": {"coordinates":[-80.474033,27.823407],"type":"Point"}
+  "bbox": [
+    -80.474033,
+    27.823407,
+    -80.474033,
+    27.823407
+],
+  "geometry": {"coordinates":[-80.47403300000001,27.823407],"type":"Point"}
 }

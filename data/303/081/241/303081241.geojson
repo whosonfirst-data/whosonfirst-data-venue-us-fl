@@ -2,13 +2,14 @@
   "id": 303081241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.296793,29.678786,-82.296793,29.678786",
     "geom:latitude":29.678786,
     "geom:longitude":-82.296793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2933 NE 20 Way",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303081241,
-    "wof:lastmodified":1448998877,
+    "wof:lastmodified":1466431872,
     "wof:name":"R C Barker Engineering",
     "wof:parent_id":85877599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.296793,29.678786,-82.296793,29.678786],
-  "geometry": {"coordinates":[-82.296793,29.678786],"type":"Point"}
+  "bbox": [
+    -82.296793,
+    29.678786,
+    -82.296793,
+    29.678786
+],
+  "geometry": {"coordinates":[-82.29679299999999,29.678786],"type":"Point"}
 }

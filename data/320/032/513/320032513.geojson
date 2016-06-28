@@ -2,13 +2,14 @@
   "id": 320032513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.797114,27.980205,-82.797114,27.980205",
     "geom:latitude":27.980205,
     "geom:longitude":-82.797114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Fort Harrison Ave",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320032513,
-    "wof:lastmodified":1449013093,
+    "wof:lastmodified":1466433948,
     "wof:name":"Bill Irles Restaurant",
     "wof:parent_id":85888639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rooms"
     ]
 },
-  "bbox": [-82.797114,27.980205,-82.797114,27.980205],
-  "geometry": {"coordinates":[-82.797114,27.980205],"type":"Point"}
+  "bbox": [
+    -82.797114,
+    27.980205,
+    -82.797114,
+    27.980205
+],
+  "geometry": {"coordinates":[-82.79711399999999,27.980205],"type":"Point"}
 }

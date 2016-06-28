@@ -2,13 +2,14 @@
   "id": 370725729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374272,28.570526,-81.374272,28.570526",
     "geom:latitude":28.570526,
     "geom:longitude":-81.374272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 E Harvard St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370725729,
-    "wof:lastmodified":1449029919,
+    "wof:lastmodified":1466445288,
     "wof:name":"Galacic",
     "wof:parent_id":85879499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-81.374272,28.570526,-81.374272,28.570526],
+  "bbox": [
+    -81.374272,
+    28.570526,
+    -81.374272,
+    28.570526
+],
   "geometry": {"coordinates":[-81.374272,28.570526],"type":"Point"}
 }

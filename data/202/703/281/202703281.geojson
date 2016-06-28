@@ -2,13 +2,14 @@
   "id": 202703281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.285476,25.727196,-80.285476,25.727196",
     "geom:latitude":25.727196,
     "geom:longitude":-80.285476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Alegriano Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202703281,
-    "wof:lastmodified":1449060885,
+    "wof:lastmodified":1466431025,
     "wof:name":"Midway Villas",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.285476,25.727196,-80.285476,25.727196],
+  "bbox": [
+    -80.285476,
+    25.727196,
+    -80.285476,
+    25.727196
+],
   "geometry": {"coordinates":[-80.285476,25.727196],"type":"Point"}
 }

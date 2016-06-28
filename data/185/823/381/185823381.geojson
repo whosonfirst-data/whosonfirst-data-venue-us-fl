@@ -2,13 +2,14 @@
   "id": 185823381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260591,26.272512,-80.260591,26.272512",
     "geom:latitude":26.272512,
     "geom:longitude":-80.260591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10394 W Sample Rd",
     "sg:city":"Coral Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185823381,
-    "wof:lastmodified":1449008178,
+    "wof:lastmodified":1466429233,
     "wof:name":"Synergy Sportsmedicine-Life",
     "wof:parent_id":85876873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.260591,26.272512,-80.260591,26.272512],
-  "geometry": {"coordinates":[-80.260591,26.272512],"type":"Point"}
+  "bbox": [
+    -80.260591,
+    26.272512,
+    -80.260591,
+    26.272512
+],
+  "geometry": {"coordinates":[-80.26059100000001,26.272512],"type":"Point"}
 }

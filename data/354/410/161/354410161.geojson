@@ -2,13 +2,14 @@
   "id": 354410161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095182,26.291658,-80.095182,26.291658",
     "geom:latitude":26.291658,
     "geom:longitude":-80.095182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 NE 49th St",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354410161,
-    "wof:lastmodified":1449065955,
+    "wof:lastmodified":1466442362,
     "wof:name":"Don Pawn Shop",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.095182,26.291658,-80.095182,26.291658],
-  "geometry": {"coordinates":[-80.095182,26.291658],"type":"Point"}
+  "bbox": [
+    -80.095182,
+    26.291658,
+    -80.095182,
+    26.291658
+],
+  "geometry": {"coordinates":[-80.09518199999999,26.291658],"type":"Point"}
 }

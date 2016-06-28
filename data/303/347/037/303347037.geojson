@@ -2,13 +2,14 @@
   "id": 303347037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.175129,30.370206,-87.175129,30.370206",
     "geom:latitude":30.370206,
     "geom:longitude":-87.175129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Bay Bridge Dr",
     "sg:city":"Gulf Breeze",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303347037,
-    "wof:lastmodified":1448999302,
+    "wof:lastmodified":1466436518,
     "wof:name":"Hilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "property"
     ]
 },
-  "bbox": [-87.175129,30.370206,-87.175129,30.370206],
+  "bbox": [
+    -87.175129,
+    30.370206,
+    -87.175129,
+    30.370206
+],
   "geometry": {"coordinates":[-87.175129,30.370206],"type":"Point"}
 }

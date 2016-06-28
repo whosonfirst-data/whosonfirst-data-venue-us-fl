@@ -2,13 +2,14 @@
   "id": 220010833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.017903,29.208137,-81.017903,29.208137",
     "geom:latitude":29.208137,
     "geom:longitude":-81.017903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Orange Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220010833,
-    "wof:lastmodified":1449074536,
+    "wof:lastmodified":1466443723,
     "wof:name":"Florida State League-Baseball",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "baseball"
     ]
 },
-  "bbox": [-81.017903,29.208137,-81.017903,29.208137],
+  "bbox": [
+    -81.017903,
+    29.208137,
+    -81.017903,
+    29.208137
+],
   "geometry": {"coordinates":[-81.017903,29.208137],"type":"Point"}
 }

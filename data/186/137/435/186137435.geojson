@@ -2,13 +2,14 @@
   "id": 186137435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.158291,30.293673,-84.158291,30.293673",
     "geom:latitude":30.293673,
     "geom:longitude":-84.158291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10769 Old Plank Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186137435,
-    "wof:lastmodified":1449052647,
+    "wof:lastmodified":1466428386,
     "wof:name":"Sueaustin Co",
     "wof:parent_id":85881369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.158291,30.293673,-84.158291,30.293673],
-  "geometry": {"coordinates":[-84.158291,30.293673],"type":"Point"}
+  "bbox": [
+    -84.158291,
+    30.293673,
+    -84.158291,
+    30.293673
+],
+  "geometry": {"coordinates":[-84.15829100000001,30.293673],"type":"Point"}
 }

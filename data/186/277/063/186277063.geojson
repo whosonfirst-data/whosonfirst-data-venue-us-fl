@@ -2,13 +2,14 @@
   "id": 186277063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.783526,30.073449,-81.783526,30.073449",
     "geom:latitude":30.073449,
     "geom:longitude":-81.783526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 Silver Creek Dr",
     "sg:city":"Green Cove Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186277063,
-    "wof:lastmodified":1449050551,
+    "wof:lastmodified":1466430012,
     "wof:name":"Michael Thornton",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-81.783526,30.073449,-81.783526,30.073449],
-  "geometry": {"coordinates":[-81.783526,30.073449],"type":"Point"}
+  "bbox": [
+    -81.783526,
+    30.073449,
+    -81.783526,
+    30.073449
+],
+  "geometry": {"coordinates":[-81.78352599999999,30.073449],"type":"Point"}
 }

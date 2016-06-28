@@ -2,13 +2,14 @@
   "id": 370612685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083902,26.279641,-80.083902,26.279641",
     "geom:latitude":26.279641,
     "geom:longitude":-80.083902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 NE 39th Ct",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370612685,
-    "wof:lastmodified":1449030591,
+    "wof:lastmodified":1466443570,
     "wof:name":"Paul Flaten MD",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.083902,26.279641,-80.083902,26.279641],
-  "geometry": {"coordinates":[-80.083902,26.279641],"type":"Point"}
+  "bbox": [
+    -80.083902,
+    26.279641,
+    -80.083902,
+    26.279641
+],
+  "geometry": {"coordinates":[-80.08390199999999,26.279641],"type":"Point"}
 }

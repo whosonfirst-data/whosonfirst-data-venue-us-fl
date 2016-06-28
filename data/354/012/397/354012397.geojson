@@ -2,13 +2,14 @@
   "id": 354012397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.345968,28.756111,-81.345968,28.756111",
     "geom:latitude":28.756111,
     "geom:longitude":-81.345968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3899 W Lake Mary Blvd",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354012397,
-    "wof:lastmodified":1449067501,
+    "wof:lastmodified":1466436247,
     "wof:name":"Bank Of America",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.345968,28.756111,-81.345968,28.756111],
+  "bbox": [
+    -81.345968,
+    28.756111,
+    -81.345968,
+    28.756111
+],
   "geometry": {"coordinates":[-81.345968,28.756111],"type":"Point"}
 }

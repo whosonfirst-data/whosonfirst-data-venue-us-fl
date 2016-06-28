@@ -2,13 +2,14 @@
   "id": 387890589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.307407,28.705831,-81.307407,28.705831",
     "geom:latitude":28.705831,
     "geom:longitude":-81.307407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Lisa Loop",
     "sg:city":"Winter Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387890589,
-    "wof:lastmodified":1449056932,
+    "wof:lastmodified":1466449523,
     "wof:name":"Time Out Cleaning Svc",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.307407,28.705831,-81.307407,28.705831],
+  "bbox": [
+    -81.307407,
+    28.705831,
+    -81.307407,
+    28.705831
+],
   "geometry": {"coordinates":[-81.307407,28.705831],"type":"Point"}
 }

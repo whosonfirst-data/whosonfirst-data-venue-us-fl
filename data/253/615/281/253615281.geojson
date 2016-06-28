@@ -2,13 +2,14 @@
   "id": 253615281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148339,26.376793,-80.148339,26.376793",
     "geom:latitude":26.376793,
     "geom:longitude":-80.148339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6845 Willow Wood Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253615281,
-    "wof:lastmodified":1449063756,
+    "wof:lastmodified":1466437688,
     "wof:name":"Henry Lichter Dr",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.148339,26.376793,-80.148339,26.376793],
-  "geometry": {"coordinates":[-80.148339,26.376793],"type":"Point"}
+  "bbox": [
+    -80.148339,
+    26.376793,
+    -80.148339,
+    26.376793
+],
+  "geometry": {"coordinates":[-80.14833900000001,26.376793],"type":"Point"}
 }

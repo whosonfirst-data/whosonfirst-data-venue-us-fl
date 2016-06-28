@@ -2,13 +2,14 @@
   "id": 252955149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335017,25.75862,-80.335017,25.75862",
     "geom:latitude":25.75862,
     "geom:longitude":-80.335017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 SW 86th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":252955149,
-    "wof:lastmodified":1449006146,
+    "wof:lastmodified":1466431998,
     "wof:name":"Renaissance Ballrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "rooms"
     ]
 },
-  "bbox": [-80.335017,25.75862,-80.335017,25.75862],
-  "geometry": {"coordinates":[-80.335017,25.75862],"type":"Point"}
+  "bbox": [
+    -80.335017,
+    25.75862,
+    -80.335017,
+    25.75862
+],
+  "geometry": {"coordinates":[-80.33501699999999,25.75862],"type":"Point"}
 }

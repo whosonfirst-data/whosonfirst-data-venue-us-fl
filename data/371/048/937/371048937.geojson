@@ -2,13 +2,14 @@
   "id": 371048937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.249158,30.434445,-87.249158,30.434445",
     "geom:latitude":30.434445,
     "geom:longitude":-87.249158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 W Jordan St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371048937,
-    "wof:lastmodified":1449049370,
+    "wof:lastmodified":1466438323,
     "wof:name":"MCS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.249158,30.434445,-87.249158,30.434445],
-  "geometry": {"coordinates":[-87.249158,30.434445],"type":"Point"}
+  "bbox": [
+    -87.249158,
+    30.434445,
+    -87.249158,
+    30.434445
+],
+  "geometry": {"coordinates":[-87.24915799999999,30.434445],"type":"Point"}
 }

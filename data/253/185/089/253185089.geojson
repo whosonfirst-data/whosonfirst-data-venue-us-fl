@@ -2,13 +2,14 @@
   "id": 253185089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.365141,28.606085,-81.365141,28.606085",
     "geom:latitude":28.606085,
     "geom:longitude":-81.365141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Orlando Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253185089,
-    "wof:lastmodified":1449063298,
+    "wof:lastmodified":1466430487,
     "wof:name":"Genex Utilization Mgmt",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-81.365141,28.606085,-81.365141,28.606085],
-  "geometry": {"coordinates":[-81.365141,28.606085],"type":"Point"}
+  "bbox": [
+    -81.365141,
+    28.606085,
+    -81.365141,
+    28.606085
+],
+  "geometry": {"coordinates":[-81.36514099999999,28.606085],"type":"Point"}
 }

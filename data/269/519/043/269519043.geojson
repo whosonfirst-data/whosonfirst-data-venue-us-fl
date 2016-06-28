@@ -2,13 +2,14 @@
   "id": 269519043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.49617,27.988612,-82.49617,27.988612",
     "geom:latitude":27.988612,
     "geom:longitude":-82.49617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 Saint Vincent St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269519043,
-    "wof:lastmodified":1449038810,
+    "wof:lastmodified":1466429108,
     "wof:name":"Bay Exterminating",
     "wof:parent_id":85873243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.49617,27.988612,-82.49617,27.988612],
-  "geometry": {"coordinates":[-82.49617,27.988612],"type":"Point"}
+  "bbox": [
+    -82.49617,
+    27.988612,
+    -82.49617,
+    27.988612
+],
+  "geometry": {"coordinates":[-82.49617000000001,27.988612],"type":"Point"}
 }

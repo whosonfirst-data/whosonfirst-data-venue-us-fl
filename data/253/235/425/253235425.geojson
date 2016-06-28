@@ -2,13 +2,14 @@
   "id": 253235425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605353,30.159409,-81.605353,30.159409",
     "geom:latitude":30.159409,
     "geom:longitude":-81.605353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3990 Loretto Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253235425,
-    "wof:lastmodified":1449063324,
+    "wof:lastmodified":1466431230,
     "wof:name":"First Baptist Church-Mandarin",
     "wof:parent_id":85870725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.605353,30.159409,-81.605353,30.159409],
-  "geometry": {"coordinates":[-81.605353,30.159409],"type":"Point"}
+  "bbox": [
+    -81.605353,
+    30.159409,
+    -81.605353,
+    30.159409
+],
+  "geometry": {"coordinates":[-81.60535299999999,30.159409],"type":"Point"}
 }

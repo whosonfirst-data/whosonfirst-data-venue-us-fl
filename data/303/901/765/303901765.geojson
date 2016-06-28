@@ -2,13 +2,14 @@
   "id": 303901765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.326687,29.799375,-81.326687,29.799375",
     "geom:latitude":29.799375,
     "geom:longitude":-81.326687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Datil Pepper Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303901765,
-    "wof:lastmodified":1448999147,
+    "wof:lastmodified":1466446087,
     "wof:name":"All American Home Svc",
     "wof:parent_id":85812243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.326687,29.799375,-81.326687,29.799375],
-  "geometry": {"coordinates":[-81.326687,29.799375],"type":"Point"}
+  "bbox": [
+    -81.326687,
+    29.799375,
+    -81.326687,
+    29.799375
+],
+  "geometry": {"coordinates":[-81.32668700000001,29.799375],"type":"Point"}
 }

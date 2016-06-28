@@ -2,13 +2,14 @@
   "id": 303612653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.29062,29.643484,-82.29062,29.643484",
     "geom:latitude":29.643484,
     "geom:longitude":-82.29062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 SE Hawthorne Rd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303612653,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466441068,
     "wof:name":"Crime Trac",
     "wof:parent_id":85846489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "crime"
     ]
 },
-  "bbox": [-82.29062,29.643484,-82.29062,29.643484],
+  "bbox": [
+    -82.29062,
+    29.643484,
+    -82.29062,
+    29.643484
+],
   "geometry": {"coordinates":[-82.29062,29.643484],"type":"Point"}
 }

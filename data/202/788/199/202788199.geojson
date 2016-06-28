@@ -2,13 +2,14 @@
   "id": 202788199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.512104,27.337602,-82.512104,27.337602",
     "geom:latitude":27.337602,
     "geom:longitude":-82.512104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Fruitville Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202788199,
-    "wof:lastmodified":1449061422,
+    "wof:lastmodified":1466432106,
     "wof:name":"Strategic Alternatives",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-82.512104,27.337602,-82.512104,27.337602],
-  "geometry": {"coordinates":[-82.512104,27.337602],"type":"Point"}
+  "bbox": [
+    -82.512104,
+    27.337602,
+    -82.512104,
+    27.337602
+],
+  "geometry": {"coordinates":[-82.51210399999999,27.337602],"type":"Point"}
 }

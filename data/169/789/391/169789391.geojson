@@ -2,13 +2,14 @@
   "id": 169789391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.380666,28.545599,-81.380666,28.545599",
     "geom:latitude":28.545599,
     "geom:longitude":-81.380666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 W Robinson St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169789391,
-    "wof:lastmodified":1449034161,
+    "wof:lastmodified":1466428905,
     "wof:name":"Balloon Builders",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "balloon"
     ]
 },
-  "bbox": [-81.380666,28.545599,-81.380666,28.545599],
-  "geometry": {"coordinates":[-81.380666,28.545599],"type":"Point"}
+  "bbox": [
+    -81.380666,
+    28.545599,
+    -81.380666,
+    28.545599
+],
+  "geometry": {"coordinates":[-81.38066600000001,28.545599],"type":"Point"}
 }

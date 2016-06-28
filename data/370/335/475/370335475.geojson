@@ -2,13 +2,14 @@
   "id": 370335475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.561861,29.581653,-81.561861,29.581653",
     "geom:latitude":29.581653,
     "geom:longitude":-81.561861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pine Crest Cir",
     "sg:city":"San Mateo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370335475,
-    "wof:lastmodified":1449031307,
+    "wof:lastmodified":1466439299,
     "wof:name":"Marc Leonardi",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.561861,29.581653,-81.561861,29.581653],
-  "geometry": {"coordinates":[-81.561861,29.581653],"type":"Point"}
+  "bbox": [
+    -81.561861,
+    29.581653,
+    -81.561861,
+    29.581653
+],
+  "geometry": {"coordinates":[-81.56186099999999,29.581653],"type":"Point"}
 }

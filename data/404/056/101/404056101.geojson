@@ -2,13 +2,14 @@
   "id": 404056101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334252,25.65425,-80.334252,25.65425",
     "geom:latitude":25.65425,
     "geom:longitude":-80.334252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8515 SW 125th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404056101,
-    "wof:lastmodified":1449039356,
+    "wof:lastmodified":1466441117,
     "wof:name":"Planet Express Inc",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.334252,25.65425,-80.334252,25.65425],
-  "geometry": {"coordinates":[-80.334252,25.65425],"type":"Point"}
+  "bbox": [
+    -80.334252,
+    25.65425,
+    -80.334252,
+    25.65425
+],
+  "geometry": {"coordinates":[-80.33425200000001,25.65425],"type":"Point"}
 }

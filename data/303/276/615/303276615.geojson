@@ -2,13 +2,14 @@
   "id": 303276615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.389091,28.552916,-81.389091,28.552916",
     "geom:latitude":28.552916,
     "geom:longitude":-81.389091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 W Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303276615,
-    "wof:lastmodified":1448998206,
+    "wof:lastmodified":1466435321,
     "wof:name":"Ticket Clinic",
     "wof:parent_id":85879471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.389091,28.552916,-81.389091,28.552916],
-  "geometry": {"coordinates":[-81.389091,28.552916],"type":"Point"}
+  "bbox": [
+    -81.389091,
+    28.552916,
+    -81.389091,
+    28.552916
+],
+  "geometry": {"coordinates":[-81.38909099999999,28.552916],"type":"Point"}
 }

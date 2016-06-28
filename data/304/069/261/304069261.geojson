@@ -2,13 +2,14 @@
   "id": 304069261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.36683,27.253629,-80.36683,27.253629",
     "geom:latitude":27.253629,
     "geom:longitude":-80.36683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 SW College Park Rd",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304069261,
-    "wof:lastmodified":1449043972,
+    "wof:lastmodified":1466433033,
     "wof:name":"Bruce Vandermalle Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.36683,27.253629,-80.36683,27.253629],
-  "geometry": {"coordinates":[-80.36683,27.253629],"type":"Point"}
+  "bbox": [
+    -80.36683,
+    27.253629,
+    -80.36683,
+    27.253629
+],
+  "geometry": {"coordinates":[-80.36682999999999,27.253629],"type":"Point"}
 }

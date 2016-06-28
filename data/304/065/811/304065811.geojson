@@ -2,13 +2,14 @@
   "id": 304065811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.240488,28.591864,-81.240488,28.591864",
     "geom:latitude":28.591864,
     "geom:longitude":-81.240488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 Albin Ln",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304065811,
-    "wof:lastmodified":1449044156,
+    "wof:lastmodified":1466432966,
     "wof:name":"Sun Painting",
     "wof:parent_id":85889301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.240488,28.591864,-81.240488,28.591864],
+  "bbox": [
+    -81.240488,
+    28.591864,
+    -81.240488,
+    28.591864
+],
   "geometry": {"coordinates":[-81.240488,28.591864],"type":"Point"}
 }

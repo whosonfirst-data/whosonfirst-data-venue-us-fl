@@ -2,13 +2,14 @@
   "id": 303990619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.579744,30.206137,-81.579744,30.206137",
     "geom:latitude":30.206137,
     "geom:longitude":-81.579744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5149 Sunbeam Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303990619,
-    "wof:lastmodified":1448999754,
+    "wof:lastmodified":1466447340,
     "wof:name":"Florida Custom Landscape",
     "wof:parent_id":85870723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.579744,30.206137,-81.579744,30.206137],
-  "geometry": {"coordinates":[-81.579744,30.206137],"type":"Point"}
+  "bbox": [
+    -81.579744,
+    30.206137,
+    -81.579744,
+    30.206137
+],
+  "geometry": {"coordinates":[-81.57974400000001,30.206137],"type":"Point"}
 }

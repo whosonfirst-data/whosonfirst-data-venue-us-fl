@@ -2,13 +2,14 @@
   "id": 370723017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.517507,27.983297,-80.517507,27.983297",
     "geom:latitude":27.983297,
     "geom:longitude":-80.517507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5235 Palm Dr",
     "sg:city":"Melbourne Beach",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370723017,
-    "wof:lastmodified":1449031055,
+    "wof:lastmodified":1466445243,
     "wof:name":"MCR Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.517507,27.983297,-80.517507,27.983297],
-  "geometry": {"coordinates":[-80.517507,27.983297],"type":"Point"}
+  "bbox": [
+    -80.517507,
+    27.983297,
+    -80.517507,
+    27.983297
+],
+  "geometry": {"coordinates":[-80.51750699999999,27.983297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320354783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.377316,28.537573,-81.377316,28.537573",
     "geom:latitude":28.537573,
     "geom:longitude":-81.377316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 S Magnolia Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320354783,
-    "wof:lastmodified":1449014539,
+    "wof:lastmodified":1466439472,
     "wof:name":"Orlando Fire Dept",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-81.377316,28.537573,-81.377316,28.537573],
-  "geometry": {"coordinates":[-81.377316,28.537573],"type":"Point"}
+  "bbox": [
+    -81.377316,
+    28.537573,
+    -81.377316,
+    28.537573
+],
+  "geometry": {"coordinates":[-81.37731599999999,28.537573],"type":"Point"}
 }

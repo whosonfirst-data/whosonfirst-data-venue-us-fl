@@ -2,13 +2,14 @@
   "id": 236331613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454886,28.584206,-81.454886,28.584206",
     "geom:latitude":28.584206,
     "geom:longitude":-81.454886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5319 Via Maior",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236331613,
-    "wof:lastmodified":1449003697,
+    "wof:lastmodified":1466433108,
     "wof:name":"US Mortgage Concepts",
     "wof:parent_id":85879529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-81.454886,28.584206,-81.454886,28.584206],
+  "bbox": [
+    -81.454886,
+    28.584206,
+    -81.454886,
+    28.584206
+],
   "geometry": {"coordinates":[-81.454886,28.584206],"type":"Point"}
 }

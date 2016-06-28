@@ -2,13 +2,14 @@
   "id": 185874877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.135915,28.016014,-82.135915,28.016014",
     "geom:latitude":28.016014,
     "geom:longitude":-82.135915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Dort St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185874877,
-    "wof:lastmodified":1449008108,
+    "wof:lastmodified":1466429729,
     "wof:name":"City of Plant City",
     "wof:parent_id":85889465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-82.135915,28.016014,-82.135915,28.016014],
+  "bbox": [
+    -82.135915,
+    28.016014,
+    -82.135915,
+    28.016014
+],
   "geometry": {"coordinates":[-82.135915,28.016014],"type":"Point"}
 }

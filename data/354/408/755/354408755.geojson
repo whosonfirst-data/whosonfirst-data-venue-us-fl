@@ -2,13 +2,14 @@
   "id": 354408755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.346911,28.68781,-81.346911,28.68781",
     "geom:latitude":28.68781,
     "geom:longitude":-81.346911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 American Way",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354408755,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1466442344,
     "wof:name":"Sears Home Improvement",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "improvement"
     ]
 },
-  "bbox": [-81.346911,28.68781,-81.346911,28.68781],
-  "geometry": {"coordinates":[-81.346911,28.68781],"type":"Point"}
+  "bbox": [
+    -81.346911,
+    28.68781,
+    -81.346911,
+    28.68781
+],
+  "geometry": {"coordinates":[-81.34691100000001,28.68781],"type":"Point"}
 }

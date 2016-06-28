@@ -2,13 +2,14 @@
   "id": 253752601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.849198,28.815026,-81.849198,28.815026",
     "geom:latitude":28.815026,
     "geom:longitude":-81.849198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 E Main St",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253752601,
-    "wof:lastmodified":1449063315,
+    "wof:lastmodified":1466440106,
     "wof:name":"Conway's Home Furnishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.849198,28.815026,-81.849198,28.815026],
+  "bbox": [
+    -81.849198,
+    28.815026,
+    -81.849198,
+    28.815026
+],
   "geometry": {"coordinates":[-81.849198,28.815026],"type":"Point"}
 }

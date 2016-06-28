@@ -2,13 +2,14 @@
   "id": 403936617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.284888,30.459086,-87.284888,30.459086",
     "geom:latitude":30.459086,
     "geom:longitude":-87.284888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Esperanto Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403936617,
-    "wof:lastmodified":1449055074,
+    "wof:lastmodified":1466443310,
     "wof:name":"Creekside Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-87.284888,30.459086,-87.284888,30.459086],
+  "bbox": [
+    -87.284888,
+    30.459086,
+    -87.284888,
+    30.459086
+],
   "geometry": {"coordinates":[-87.284888,30.459086],"type":"Point"}
 }

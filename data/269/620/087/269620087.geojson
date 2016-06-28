@@ -2,13 +2,14 @@
   "id": 269620087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.68492,27.99897,-80.68492,27.99897",
     "geom:latitude":27.99897,
     "geom:longitude":-80.68492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Malabar Rd SW",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269620087,
-    "wof:lastmodified":1449038782,
+    "wof:lastmodified":1466430934,
     "wof:name":"Vestcor",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.68492,27.99897,-80.68492,27.99897],
-  "geometry": {"coordinates":[-80.68492,27.99897],"type":"Point"}
+  "bbox": [
+    -80.68492,
+    27.99897,
+    -80.68492,
+    27.99897
+],
+  "geometry": {"coordinates":[-80.68492000000001,27.99897],"type":"Point"}
 }

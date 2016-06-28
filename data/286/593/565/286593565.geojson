@@ -2,13 +2,14 @@
   "id": 286593565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.777419,26.216579,-81.777419,26.216579",
     "geom:latitude":26.216579,
     "geom:longitude":-81.777419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5790 Yahl St",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286593565,
-    "wof:lastmodified":1449017139,
+    "wof:lastmodified":1466435425,
     "wof:name":"Naples Oxygen",
     "wof:parent_id":85889221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oxygen"
     ]
 },
-  "bbox": [-81.777419,26.216579,-81.777419,26.216579],
-  "geometry": {"coordinates":[-81.777419,26.216579],"type":"Point"}
+  "bbox": [
+    -81.777419,
+    26.216579,
+    -81.777419,
+    26.216579
+],
+  "geometry": {"coordinates":[-81.77741899999999,26.216579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202392787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603895,30.408748,-86.603895,30.408748",
     "geom:latitude":30.408748,
     "geom:longitude":-86.603895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Eglin Pkwy S",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202392787,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466440591,
     "wof:name":"Encore Consignment Boutique",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-86.603895,30.408748,-86.603895,30.408748],
-  "geometry": {"coordinates":[-86.603895,30.408748],"type":"Point"}
+  "bbox": [
+    -86.603895,
+    30.408748,
+    -86.603895,
+    30.408748
+],
+  "geometry": {"coordinates":[-86.60389499999999,30.408748],"type":"Point"}
 }

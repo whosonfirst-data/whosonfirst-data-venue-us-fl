@@ -2,13 +2,14 @@
   "id": 269857711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695251,27.77377,-82.695251,27.77377",
     "geom:latitude":27.77377,
     "geom:longitude":-82.695251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Burlington Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269857711,
-    "wof:lastmodified":1449037681,
+    "wof:lastmodified":1466435095,
     "wof:name":"Coffee Cottage",
     "wof:parent_id":85880537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.695251,27.77377,-82.695251,27.77377],
+  "bbox": [
+    -82.695251,
+    27.77377,
+    -82.695251,
+    27.77377
+],
   "geometry": {"coordinates":[-82.695251,27.77377],"type":"Point"}
 }

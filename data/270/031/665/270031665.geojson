@@ -2,13 +2,14 @@
   "id": 270031665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146503,26.304286,-80.146503,26.304286",
     "geom:latitude":26.304286,
     "geom:longitude":-80.146503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3161 SW 10th St",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270031665,
-    "wof:lastmodified":1449009547,
+    "wof:lastmodified":1466429995,
     "wof:name":"XM Satellite Radio",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-80.146503,26.304286,-80.146503,26.304286],
+  "bbox": [
+    -80.146503,
+    26.304286,
+    -80.146503,
+    26.304286
+],
   "geometry": {"coordinates":[-80.146503,26.304286],"type":"Point"}
 }

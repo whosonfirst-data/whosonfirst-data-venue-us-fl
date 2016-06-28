@@ -2,13 +2,14 @@
   "id": 320646131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.622679,30.153593,-81.622679,30.153593",
     "geom:latitude":30.153593,
     "geom:longitude":-81.622679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11983 Marbon Meadows Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320646131,
-    "wof:lastmodified":1449011171,
+    "wof:lastmodified":1466444575,
     "wof:name":"Worldwide Inc",
     "wof:parent_id":85816563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.622679,30.153593,-81.622679,30.153593],
-  "geometry": {"coordinates":[-81.622679,30.153593],"type":"Point"}
+  "bbox": [
+    -81.622679,
+    30.153593,
+    -81.622679,
+    30.153593
+],
+  "geometry": {"coordinates":[-81.62267900000001,30.153593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303404595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.383248,29.653114,-82.383248,29.653114",
     "geom:latitude":29.653114,
     "geom:longitude":-82.383248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Newberry Rd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303404595,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1466437501,
     "wof:name":"Welcome Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.383248,29.653114,-82.383248,29.653114],
-  "geometry": {"coordinates":[-82.383248,29.653114],"type":"Point"}
+  "bbox": [
+    -82.383248,
+    29.653114,
+    -82.383248,
+    29.653114
+],
+  "geometry": {"coordinates":[-82.38324799999999,29.653114],"type":"Point"}
 }

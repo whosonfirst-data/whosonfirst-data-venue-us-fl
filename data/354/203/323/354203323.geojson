@@ -2,13 +2,14 @@
   "id": 354203323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.322493,29.846344,-81.322493,29.846344",
     "geom:latitude":29.846344,
     "geom:longitude":-81.322493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2692 US Hwy 1 S",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354203323,
-    "wof:lastmodified":1449066667,
+    "wof:lastmodified":1466439227,
     "wof:name":"Inspect It First Property",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.322493,29.846344,-81.322493,29.846344],
-  "geometry": {"coordinates":[-81.322493,29.846344],"type":"Point"}
+  "bbox": [
+    -81.322493,
+    29.846344,
+    -81.322493,
+    29.846344
+],
+  "geometry": {"coordinates":[-81.32249299999999,29.846344],"type":"Point"}
 }

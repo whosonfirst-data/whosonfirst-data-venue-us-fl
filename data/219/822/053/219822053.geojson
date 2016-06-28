@@ -2,13 +2,14 @@
   "id": 219822053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.591897,30.286643,-81.591897,30.286643",
     "geom:latitude":30.286643,
     "geom:longitude":-81.591897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Dean Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219822053,
-    "wof:lastmodified":1449073806,
+    "wof:lastmodified":1466435763,
     "wof:name":"Dick & Jane's Sports Cards",
     "wof:parent_id":85825853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sport"
     ]
 },
-  "bbox": [-81.591897,30.286643,-81.591897,30.286643],
+  "bbox": [
+    -81.591897,
+    30.286643,
+    -81.591897,
+    30.286643
+],
   "geometry": {"coordinates":[-81.591897,30.286643],"type":"Point"}
 }

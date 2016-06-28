@@ -2,13 +2,14 @@
   "id": 270399667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.166987,28.50932,-81.166987,28.50932",
     "geom:latitude":28.50932,
     "geom:longitude":-81.166987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 S Alafaya Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270399667,
-    "wof:lastmodified":1449009074,
+    "wof:lastmodified":1466436293,
     "wof:name":"Stoneybrook Golf",
     "wof:parent_id":85889391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-81.166987,28.50932,-81.166987,28.50932],
-  "geometry": {"coordinates":[-81.166987,28.50932],"type":"Point"}
+  "bbox": [
+    -81.166987,
+    28.50932,
+    -81.166987,
+    28.50932
+],
+  "geometry": {"coordinates":[-81.16698700000001,28.50932],"type":"Point"}
 }

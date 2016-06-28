@@ -2,13 +2,14 @@
   "id": 286653499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.250631,30.500567,-84.250631,30.500567",
     "geom:latitude":30.500567,
     "geom:longitude":-84.250631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Raymond Diehl Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286653499,
-    "wof:lastmodified":1449015387,
+    "wof:lastmodified":1466436504,
     "wof:name":"Delta Airlines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air"
     ]
 },
-  "bbox": [-84.250631,30.500567,-84.250631,30.500567],
+  "bbox": [
+    -84.250631,
+    30.500567,
+    -84.250631,
+    30.500567
+],
   "geometry": {"coordinates":[-84.250631,30.500567],"type":"Point"}
 }

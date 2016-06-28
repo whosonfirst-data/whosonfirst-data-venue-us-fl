@@ -2,13 +2,14 @@
   "id": 270256403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240062,25.729941,-80.240062,25.729941",
     "geom:latitude":25.729941,
     "geom:longitude":-80.240062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 Oak Ave",
     "sg:city":"Coconut Grove",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270256403,
-    "wof:lastmodified":1449010490,
+    "wof:lastmodified":1466433845,
     "wof:name":"Miami City",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-80.240062,25.729941,-80.240062,25.729941],
-  "geometry": {"coordinates":[-80.240062,25.729941],"type":"Point"}
+  "bbox": [
+    -80.240062,
+    25.729941,
+    -80.240062,
+    25.729941
+],
+  "geometry": {"coordinates":[-80.24006199999999,25.729941],"type":"Point"}
 }

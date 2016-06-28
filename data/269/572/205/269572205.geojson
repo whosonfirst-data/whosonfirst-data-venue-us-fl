@@ -2,13 +2,14 @@
   "id": 269572205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.332235,25.835195,-80.332235,25.835195",
     "geom:latitude":25.835195,
     "geom:longitude":-80.332235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 NW 68th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269572205,
-    "wof:lastmodified":1449037629,
+    "wof:lastmodified":1466430055,
     "wof:name":"BWS Cargo Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.332235,25.835195,-80.332235,25.835195],
+  "bbox": [
+    -80.332235,
+    25.835195,
+    -80.332235,
+    25.835195
+],
   "geometry": {"coordinates":[-80.332235,25.835195],"type":"Point"}
 }

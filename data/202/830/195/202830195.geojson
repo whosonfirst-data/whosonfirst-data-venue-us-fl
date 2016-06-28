@@ -2,13 +2,14 @@
   "id": 202830195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.741515,30.158444,-81.741515,30.158444",
     "geom:latitude":30.158444,
     "geom:longitude":-81.741515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2043 Pompano Pkwy",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202830195,
-    "wof:lastmodified":1449060658,
+    "wof:lastmodified":1466432651,
     "wof:name":"Masters Electrical Service",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.741515,30.158444,-81.741515,30.158444],
-  "geometry": {"coordinates":[-81.741515,30.158444],"type":"Point"}
+  "bbox": [
+    -81.741515,
+    30.158444,
+    -81.741515,
+    30.158444
+],
+  "geometry": {"coordinates":[-81.74151500000001,30.158444],"type":"Point"}
 }

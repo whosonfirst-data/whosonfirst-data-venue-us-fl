@@ -2,13 +2,14 @@
   "id": 387427415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.287821,29.876581,-81.287821,29.876581",
     "geom:latitude":29.876581,
     "geom:longitude":-81.287821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Franciscan Way",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387427415,
-    "wof:lastmodified":1449057243,
+    "wof:lastmodified":1466445253,
     "wof:name":"Diamond Deck Designs",
     "wof:parent_id":85803071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-81.287821,29.876581,-81.287821,29.876581],
-  "geometry": {"coordinates":[-81.287821,29.876581],"type":"Point"}
+  "bbox": [
+    -81.287821,
+    29.876581,
+    -81.287821,
+    29.876581
+],
+  "geometry": {"coordinates":[-81.28782099999999,29.876581],"type":"Point"}
 }

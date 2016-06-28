@@ -2,13 +2,14 @@
   "id": 303195927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.482986,25.466053,-80.482986,25.466053",
     "geom:latitude":25.466053,
     "geom:longitude":-80.482986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 SW 4th St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303195927,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466433917,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.482986,25.466053,-80.482986,25.466053],
+  "bbox": [
+    -80.482986,
+    25.466053,
+    -80.482986,
+    25.466053
+],
   "geometry": {"coordinates":[-80.482986,25.466053],"type":"Point"}
 }

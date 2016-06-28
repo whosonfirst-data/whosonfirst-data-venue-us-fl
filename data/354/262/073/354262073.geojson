@@ -2,13 +2,14 @@
   "id": 354262073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.625727,30.261365,-81.625727,30.261365",
     "geom:latitude":30.261365,
     "geom:longitude":-81.625727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3733 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354262073,
-    "wof:lastmodified":1449066999,
+    "wof:lastmodified":1466440125,
     "wof:name":"Reclaim",
     "wof:parent_id":85846881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-81.625727,30.261365,-81.625727,30.261365],
+  "bbox": [
+    -81.625727,
+    30.261365,
+    -81.625727,
+    30.261365
+],
   "geometry": {"coordinates":[-81.625727,30.261365],"type":"Point"}
 }

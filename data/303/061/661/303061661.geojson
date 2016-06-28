@@ -2,13 +2,14 @@
   "id": 303061661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506008,28.069701,-82.506008,28.069701",
     "geom:latitude":28.069701,
     "geom:longitude":-82.506008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13745 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303061661,
-    "wof:lastmodified":1448999885,
+    "wof:lastmodified":1466431523,
     "wof:name":"Ace Beauty Co",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [-82.506008,28.069701,-82.506008,28.069701],
-  "geometry": {"coordinates":[-82.506008,28.069701],"type":"Point"}
+  "bbox": [
+    -82.506008,
+    28.069701,
+    -82.506008,
+    28.069701
+],
+  "geometry": {"coordinates":[-82.50600799999999,28.069701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202777789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.290365,30.464855,-87.290365,30.464855",
     "geom:latitude":30.464855,
     "geom:longitude":-87.290365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Weyland Cir",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202777789,
-    "wof:lastmodified":1449061443,
+    "wof:lastmodified":1466431977,
     "wof:name":"Lc Production & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.290365,30.464855,-87.290365,30.464855],
-  "geometry": {"coordinates":[-87.290365,30.464855],"type":"Point"}
+  "bbox": [
+    -87.290365,
+    30.464855,
+    -87.290365,
+    30.464855
+],
+  "geometry": {"coordinates":[-87.29036499999999,30.464855],"type":"Point"}
 }

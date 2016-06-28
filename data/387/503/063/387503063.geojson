@@ -2,13 +2,14 @@
   "id": 387503063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.133628,28.715888,-81.133628,28.715888",
     "geom:latitude":28.715888,
     "geom:longitude":-81.133628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 Apache Dr",
     "sg:city":"Geneva",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387503063,
-    "wof:lastmodified":1449059930,
+    "wof:lastmodified":1466446520,
     "wof:name":"A Dc",
     "wof:parent_id":85829061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-81.133628,28.715888,-81.133628,28.715888],
+  "bbox": [
+    -81.133628,
+    28.715888,
+    -81.133628,
+    28.715888
+],
   "geometry": {"coordinates":[-81.133628,28.715888],"type":"Point"}
 }

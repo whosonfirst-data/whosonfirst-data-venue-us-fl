@@ -2,13 +2,14 @@
   "id": 202387655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.430359,28.50879,-81.430359,28.50879",
     "geom:latitude":28.50879,
     "geom:longitude":-81.430359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4071 L B McLeod Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202387655,
-    "wof:lastmodified":1449062314,
+    "wof:lastmodified":1466438266,
     "wof:name":"OHD Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.430359,28.50879,-81.430359,28.50879],
+  "bbox": [
+    -81.430359,
+    28.50879,
+    -81.430359,
+    28.50879
+],
   "geometry": {"coordinates":[-81.430359,28.50879],"type":"Point"}
 }

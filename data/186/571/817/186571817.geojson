@@ -2,13 +2,14 @@
   "id": 186571817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.652076,30.426161,-86.652076,30.426161",
     "geom:latitude":30.426161,
     "geom:longitude":-86.652076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Marler St NW",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186571817,
-    "wof:lastmodified":1449052203,
+    "wof:lastmodified":1466433760,
     "wof:name":"Sunflower Apartments",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.652076,30.426161,-86.652076,30.426161],
-  "geometry": {"coordinates":[-86.652076,30.426161],"type":"Point"}
+  "bbox": [
+    -86.652076,
+    30.426161,
+    -86.652076,
+    30.426161
+],
+  "geometry": {"coordinates":[-86.65207599999999,30.426161],"type":"Point"}
 }

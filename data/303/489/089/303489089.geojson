@@ -2,13 +2,14 @@
   "id": 303489089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.390613,25.634509,-80.390613,25.634509",
     "geom:latitude":25.634509,
     "geom:longitude":-80.390613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14340 SW 122nd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303489089,
-    "wof:lastmodified":1448999454,
+    "wof:lastmodified":1466438963,
     "wof:name":"Lennar",
     "wof:parent_id":85844435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-80.390613,25.634509,-80.390613,25.634509],
+  "bbox": [
+    -80.390613,
+    25.634509,
+    -80.390613,
+    25.634509
+],
   "geometry": {"coordinates":[-80.390613,25.634509],"type":"Point"}
 }

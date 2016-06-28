@@ -2,13 +2,14 @@
   "id": 303934589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.63115,30.324325,-81.63115,30.324325",
     "geom:latitude":30.324325,
     "geom:longitude":-81.63115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 E Duval St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303934589,
-    "wof:lastmodified":1448998240,
+    "wof:lastmodified":1466446505,
     "wof:name":"Sims Waters & Assoc",
     "wof:parent_id":85888919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.63115,30.324325,-81.63115,30.324325],
-  "geometry": {"coordinates":[-81.63115,30.324325],"type":"Point"}
+  "bbox": [
+    -81.63115,
+    30.324325,
+    -81.63115,
+    30.324325
+],
+  "geometry": {"coordinates":[-81.63115000000001,30.324325],"type":"Point"}
 }

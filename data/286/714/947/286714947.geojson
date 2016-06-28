@@ -2,13 +2,14 @@
   "id": 286714947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144252,26.119509,-80.144252,26.119509",
     "geom:latitude":26.119509,
     "geom:longitude":-80.144252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W Las Olas Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286714947,
-    "wof:lastmodified":1449016640,
+    "wof:lastmodified":1466437608,
     "wof:name":"Reunion Group",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "card"
     ]
 },
-  "bbox": [-80.144252,26.119509,-80.144252,26.119509],
-  "geometry": {"coordinates":[-80.144252,26.119509],"type":"Point"}
+  "bbox": [
+    -80.144252,
+    26.119509,
+    -80.144252,
+    26.119509
+],
+  "geometry": {"coordinates":[-80.14425199999999,26.119509],"type":"Point"}
 }

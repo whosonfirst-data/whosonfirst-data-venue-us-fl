@@ -2,13 +2,14 @@
   "id": 370608791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.140355,28.007248,-82.140355,28.007248",
     "geom:latitude":28.007248,
     "geom:longitude":-82.140355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Sammonds Rd",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370608791,
-    "wof:lastmodified":1449030534,
+    "wof:lastmodified":1466443510,
     "wof:name":"Brownlee Citrus",
     "wof:parent_id":85889477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "citrus"
     ]
 },
-  "bbox": [-82.140355,28.007248,-82.140355,28.007248],
+  "bbox": [
+    -82.140355,
+    28.007248,
+    -82.140355,
+    28.007248
+],
   "geometry": {"coordinates":[-82.140355,28.007248],"type":"Point"}
 }

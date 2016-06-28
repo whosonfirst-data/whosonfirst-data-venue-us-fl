@@ -2,13 +2,14 @@
   "id": 252943773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.327679,30.440558,-84.327679,30.440558",
     "geom:latitude":30.440558,
     "geom:longitude":-84.327679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Mabry St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252943773,
-    "wof:lastmodified":1449005709,
+    "wof:lastmodified":1466431841,
     "wof:name":"Mabry Village",
     "wof:parent_id":85881377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-84.327679,30.440558,-84.327679,30.440558],
+  "bbox": [
+    -84.327679,
+    30.440558,
+    -84.327679,
+    30.440558
+],
   "geometry": {"coordinates":[-84.327679,30.440558],"type":"Point"}
 }

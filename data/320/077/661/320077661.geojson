@@ -2,13 +2,14 @@
   "id": 320077661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.585018,27.898354,-81.585018,27.898354",
     "geom:latitude":27.898354,
     "geom:longitude":-81.585018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 S Scenic Hwy",
     "sg:city":"Lake Wales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320077661,
-    "wof:lastmodified":1449011850,
+    "wof:lastmodified":1466434713,
     "wof:name":"Leland Carwash",
     "wof:parent_id":85889009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-81.585018,27.898354,-81.585018,27.898354],
-  "geometry": {"coordinates":[-81.585018,27.898354],"type":"Point"}
+  "bbox": [
+    -81.585018,
+    27.898354,
+    -81.585018,
+    27.898354
+],
+  "geometry": {"coordinates":[-81.58501800000001,27.898354],"type":"Point"}
 }

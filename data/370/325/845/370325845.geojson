@@ -2,13 +2,14 @@
   "id": 370325845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.266117,25.783133,-80.266117,25.783133",
     "geom:latitude":25.783133,
     "geom:longitude":-80.266117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 NW 43rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370325845,
-    "wof:lastmodified":1449030410,
+    "wof:lastmodified":1466439155,
     "wof:name":"H & R Paving",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.266117,25.783133,-80.266117,25.783133],
-  "geometry": {"coordinates":[-80.266117,25.783133],"type":"Point"}
+  "bbox": [
+    -80.266117,
+    25.783133,
+    -80.266117,
+    25.783133
+],
+  "geometry": {"coordinates":[-80.26611699999999,25.783133],"type":"Point"}
 }

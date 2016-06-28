@@ -2,13 +2,14 @@
   "id": 202949071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.106751,26.408224,-80.106751,26.408224",
     "geom:latitude":26.408224,
     "geom:longitude":-80.106751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Clint Moore Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202949071,
-    "wof:lastmodified":1449061680,
+    "wof:lastmodified":1466434254,
     "wof:name":"Housing Adventures",
     "wof:parent_id":85888559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-80.106751,26.408224,-80.106751,26.408224],
+  "bbox": [
+    -80.106751,
+    26.408224,
+    -80.106751,
+    26.408224
+],
   "geometry": {"coordinates":[-80.106751,26.408224],"type":"Point"}
 }

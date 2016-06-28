@@ -2,13 +2,14 @@
   "id": 202550777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.731034,26.088684,-81.731034,26.088684",
     "geom:latitude":26.088684,
     "geom:longitude":-81.731034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11163 Tamiami Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202550777,
-    "wof:lastmodified":1449061481,
+    "wof:lastmodified":1466429024,
     "wof:name":"Mystic Food Mart",
     "wof:parent_id":85889237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.731034,26.088684,-81.731034,26.088684],
-  "geometry": {"coordinates":[-81.731034,26.088684],"type":"Point"}
+  "bbox": [
+    -81.731034,
+    26.088684,
+    -81.731034,
+    26.088684
+],
+  "geometry": {"coordinates":[-81.73103399999999,26.088684],"type":"Point"}
 }

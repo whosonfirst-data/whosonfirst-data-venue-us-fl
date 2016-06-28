@@ -2,13 +2,14 @@
   "id": 320560197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.423358,26.758302,-81.423358,26.758302",
     "geom:latitude":26.758302,
     "geom:longitude":-81.423358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Clark St",
     "sg:city":"Labelle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320560197,
-    "wof:lastmodified":1449014089,
+    "wof:lastmodified":1466443089,
     "wof:name":"International Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.423358,26.758302,-81.423358,26.758302],
-  "geometry": {"coordinates":[-81.423358,26.758302],"type":"Point"}
+  "bbox": [
+    -81.423358,
+    26.758302,
+    -81.423358,
+    26.758302
+],
+  "geometry": {"coordinates":[-81.42335799999999,26.758302],"type":"Point"}
 }

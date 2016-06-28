@@ -2,13 +2,14 @@
   "id": 203052467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134221,25.775783,-80.134221,25.775783",
     "geom:latitude":25.775783,
     "geom:longitude":-80.134221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 6th St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203052467,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466444184,
     "wof:name":"Floridian",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.134221,25.775783,-80.134221,25.775783],
+  "bbox": [
+    -80.134221,
+    25.775783,
+    -80.134221,
+    25.775783
+],
   "geometry": {"coordinates":[-80.134221,25.775783],"type":"Point"}
 }

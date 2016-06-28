@@ -2,13 +2,14 @@
   "id": 303438217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.876151,26.55642,-81.876151,26.55642",
     "geom:latitude":26.55642,
     "geom:longitude":-81.876151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7290 College Pkwy",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303438217,
-    "wof:lastmodified":1448998945,
+    "wof:lastmodified":1466438079,
     "wof:name":"Appraisal Services",
     "wof:parent_id":85888833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-81.876151,26.55642,-81.876151,26.55642],
-  "geometry": {"coordinates":[-81.876151,26.55642],"type":"Point"}
+  "bbox": [
+    -81.876151,
+    26.55642,
+    -81.876151,
+    26.55642
+],
+  "geometry": {"coordinates":[-81.87615099999999,26.55642],"type":"Point"}
 }

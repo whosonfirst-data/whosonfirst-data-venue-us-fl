@@ -2,13 +2,14 @@
   "id": 219729103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.977258,30.308045,-82.977258,30.308045",
     "geom:latitude":30.308045,
     "geom:longitude":-82.977258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Ohio Ave N",
     "sg:city":"Live Oak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219729103,
-    "wof:lastmodified":1449072161,
+    "wof:lastmodified":1466434483,
     "wof:name":"North Florida Chiropractic Ctr",
     "wof:parent_id":85848953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.977258,30.308045,-82.977258,30.308045],
-  "geometry": {"coordinates":[-82.977258,30.308045],"type":"Point"}
+  "bbox": [
+    -82.977258,
+    30.308045,
+    -82.977258,
+    30.308045
+],
+  "geometry": {"coordinates":[-82.97725800000001,30.308045],"type":"Point"}
 }

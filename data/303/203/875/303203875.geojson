@@ -2,13 +2,14 @@
   "id": 303203875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.141041,26.566602,-80.141041,26.566602",
     "geom:latitude":26.566602,
     "geom:longitude":-80.141041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6170 Western Way",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303203875,
-    "wof:lastmodified":1448999206,
+    "wof:lastmodified":1466434055,
     "wof:name":"Craneman Inc",
     "wof:parent_id":85803873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-80.141041,26.566602,-80.141041,26.566602],
+  "bbox": [
+    -80.141041,
+    26.566602,
+    -80.141041,
+    26.566602
+],
   "geometry": {"coordinates":[-80.141041,26.566602],"type":"Point"}
 }

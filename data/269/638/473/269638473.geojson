@@ -2,13 +2,14 @@
   "id": 269638473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.252012,28.252157,-81.252012,28.252157",
     "geom:latitude":28.252157,
     "geom:longitude":-81.252012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4742 Ashton Dr W",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269638473,
-    "wof:lastmodified":1449036263,
+    "wof:lastmodified":1466431271,
     "wof:name":"Adam's Homes At Magnolia Ter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.252012,28.252157,-81.252012,28.252157],
-  "geometry": {"coordinates":[-81.252012,28.252157],"type":"Point"}
+  "bbox": [
+    -81.252012,
+    28.252157,
+    -81.252012,
+    28.252157
+],
+  "geometry": {"coordinates":[-81.25201199999999,28.252157],"type":"Point"}
 }

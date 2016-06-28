@@ -2,13 +2,14 @@
   "id": 286265703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.686367,27.467675,-82.686367,27.467675",
     "geom:latitude":27.467675,
     "geom:longitude":-82.686367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4402 124th St W",
     "sg:city":"Cortez",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286265703,
-    "wof:lastmodified":1449016188,
+    "wof:lastmodified":1466429717,
     "wof:name":"Consolidated Medical",
     "wof:parent_id":85888583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-82.686367,27.467675,-82.686367,27.467675],
+  "bbox": [
+    -82.686367,
+    27.467675,
+    -82.686367,
+    27.467675
+],
   "geometry": {"coordinates":[-82.686367,27.467675],"type":"Point"}
 }

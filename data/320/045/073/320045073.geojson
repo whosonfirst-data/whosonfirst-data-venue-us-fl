@@ -2,13 +2,14 @@
   "id": 320045073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.371452,28.203317,-81.371452,28.203317",
     "geom:latitude":28.203317,
     "geom:longitude":-81.371452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3085 Cherokee Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320045073,
-    "wof:lastmodified":1449014522,
+    "wof:lastmodified":1466434164,
     "wof:name":"D Postler & Assoc",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.371452,28.203317,-81.371452,28.203317],
-  "geometry": {"coordinates":[-81.371452,28.203317],"type":"Point"}
+  "bbox": [
+    -81.371452,
+    28.203317,
+    -81.371452,
+    28.203317
+],
+  "geometry": {"coordinates":[-81.37145200000001,28.203317],"type":"Point"}
 }

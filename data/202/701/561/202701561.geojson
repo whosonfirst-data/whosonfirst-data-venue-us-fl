@@ -2,13 +2,14 @@
   "id": 202701561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.580677,30.09003,-83.580677,30.09003",
     "geom:latitude":30.09003,
     "geom:longitude":-83.580677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Kate Dr",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202701561,
-    "wof:lastmodified":1449062133,
+    "wof:lastmodified":1466431003,
     "wof:name":"One More Cast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-83.580677,30.09003,-83.580677,30.09003],
-  "geometry": {"coordinates":[-83.580677,30.09003],"type":"Point"}
+  "bbox": [
+    -83.580677,
+    30.09003,
+    -83.580677,
+    30.09003
+],
+  "geometry": {"coordinates":[-83.58067699999999,30.09003],"type":"Point"}
 }

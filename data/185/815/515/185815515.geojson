@@ -2,13 +2,14 @@
   "id": 185815515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.307189,27.307545,-80.307189,27.307545",
     "geom:latitude":27.307545,
     "geom:longitude":-80.307189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1382 SE Huffman Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185815515,
-    "wof:lastmodified":1449007404,
+    "wof:lastmodified":1466429155,
     "wof:name":"A & T Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-80.307189,27.307545,-80.307189,27.307545],
-  "geometry": {"coordinates":[-80.307189,27.307545],"type":"Point"}
+  "bbox": [
+    -80.307189,
+    27.307545,
+    -80.307189,
+    27.307545
+],
+  "geometry": {"coordinates":[-80.30718899999999,27.307545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270069397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.701417,30.174445,-81.701417,30.174445",
     "geom:latitude":30.174445,
     "geom:longitude":-81.701417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Park Ave",
     "sg:city":"Orange Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270069397,
-    "wof:lastmodified":1449010200,
+    "wof:lastmodified":1466430644,
     "wof:name":"Admiral Apts",
     "wof:parent_id":85825967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.701417,30.174445,-81.701417,30.174445],
-  "geometry": {"coordinates":[-81.701417,30.174445],"type":"Point"}
+  "bbox": [
+    -81.701417,
+    30.174445,
+    -81.701417,
+    30.174445
+],
+  "geometry": {"coordinates":[-81.70141700000001,30.174445],"type":"Point"}
 }

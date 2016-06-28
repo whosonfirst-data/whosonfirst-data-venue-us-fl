@@ -2,13 +2,14 @@
   "id": 354051385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.539014,27.334828,-82.539014,27.334828",
     "geom:latitude":27.334828,
     "geom:longitude":-82.539014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Ringling Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354051385,
-    "wof:lastmodified":1449066997,
+    "wof:lastmodified":1466436857,
     "wof:name":"Peninsula Bank",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-82.539014,27.334828,-82.539014,27.334828],
-  "geometry": {"coordinates":[-82.539014,27.334828],"type":"Point"}
+  "bbox": [
+    -82.539014,
+    27.334828,
+    -82.539014,
+    27.334828
+],
+  "geometry": {"coordinates":[-82.53901399999999,27.334828],"type":"Point"}
 }

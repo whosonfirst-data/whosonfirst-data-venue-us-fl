@@ -2,13 +2,14 @@
   "id": 219717301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645559,26.611007,-81.645559,26.611007",
     "geom:latitude":26.611007,
     "geom:longitude":-81.645559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Delaware Rd",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219717301,
-    "wof:lastmodified":1449070458,
+    "wof:lastmodified":1466434319,
     "wof:name":"Hometown Electric",
     "wof:parent_id":85889143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.645559,26.611007,-81.645559,26.611007],
-  "geometry": {"coordinates":[-81.645559,26.611007],"type":"Point"}
+  "bbox": [
+    -81.645559,
+    26.611007,
+    -81.645559,
+    26.611007
+],
+  "geometry": {"coordinates":[-81.64555900000001,26.611007],"type":"Point"}
 }

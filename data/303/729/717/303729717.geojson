@@ -2,13 +2,14 @@
   "id": 303729717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129906,27.060798,-80.129906,27.060798",
     "geom:latitude":27.060798,
     "geom:longitude":-80.129906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11766 Old Dixie Hwy",
     "sg:city":"Hobe Sound",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303729717,
-    "wof:lastmodified":1448999350,
+    "wof:lastmodified":1466443124,
     "wof:name":"Saint George Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-80.129906,27.060798,-80.129906,27.060798],
-  "geometry": {"coordinates":[-80.129906,27.060798],"type":"Point"}
+  "bbox": [
+    -80.129906,
+    27.060798,
+    -80.129906,
+    27.060798
+],
+  "geometry": {"coordinates":[-80.12990600000001,27.060798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370898751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111556,26.230033,-80.111556,26.230033",
     "geom:latitude":26.230033,
     "geom:longitude":-80.111556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 SE 12th Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370898751,
-    "wof:lastmodified":1449028995,
+    "wof:lastmodified":1466447490,
     "wof:name":"44th Street Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-80.111556,26.230033,-80.111556,26.230033],
-  "geometry": {"coordinates":[-80.111556,26.230033],"type":"Point"}
+  "bbox": [
+    -80.111556,
+    26.230033,
+    -80.111556,
+    26.230033
+],
+  "geometry": {"coordinates":[-80.11155599999999,26.230033],"type":"Point"}
 }

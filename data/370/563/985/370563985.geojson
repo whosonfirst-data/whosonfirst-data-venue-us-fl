@@ -2,13 +2,14 @@
   "id": 370563985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076315,26.400859,-80.076315,26.400859",
     "geom:latitude":26.400859,
     "geom:longitude":-80.076315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5711 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370563985,
-    "wof:lastmodified":1449029118,
+    "wof:lastmodified":1466442833,
     "wof:name":"E-Z Tan",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sport"
     ]
 },
-  "bbox": [-80.076315,26.400859,-80.076315,26.400859],
-  "geometry": {"coordinates":[-80.076315,26.400859],"type":"Point"}
+  "bbox": [
+    -80.076315,
+    26.400859,
+    -80.076315,
+    26.400859
+],
+  "geometry": {"coordinates":[-80.07631499999999,26.400859],"type":"Point"}
 }

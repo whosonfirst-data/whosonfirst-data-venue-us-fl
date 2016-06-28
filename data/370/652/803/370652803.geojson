@@ -2,13 +2,14 @@
   "id": 370652803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.128624,29.481267,-81.128624,29.481267",
     "geom:latitude":29.481267,
     "geom:longitude":-81.128624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Central Ave",
     "sg:city":"Flagler Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370652803,
-    "wof:lastmodified":1449031259,
+    "wof:lastmodified":1466444181,
     "wof:name":"Encore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.128624,29.481267,-81.128624,29.481267],
+  "bbox": [
+    -81.128624,
+    29.481267,
+    -81.128624,
+    29.481267
+],
   "geometry": {"coordinates":[-81.128624,29.481267],"type":"Point"}
 }

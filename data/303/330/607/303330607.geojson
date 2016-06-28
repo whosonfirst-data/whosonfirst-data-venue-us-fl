@@ -2,13 +2,14 @@
   "id": 303330607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.271608,25.937319,-80.271608,25.937319",
     "geom:latitude":25.937319,
     "geom:longitude":-80.271608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18025 NW 43rd Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303330607,
-    "wof:lastmodified":1448999336,
+    "wof:lastmodified":1466436232,
     "wof:name":"Sunshine Delivery Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.271608,25.937319,-80.271608,25.937319],
+  "bbox": [
+    -80.271608,
+    25.937319,
+    -80.271608,
+    25.937319
+],
   "geometry": {"coordinates":[-80.271608,25.937319],"type":"Point"}
 }

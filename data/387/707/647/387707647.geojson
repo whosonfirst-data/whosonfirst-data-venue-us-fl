@@ -2,13 +2,14 @@
   "id": 387707647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.702992,30.30721,-81.702992,30.30721",
     "geom:latitude":30.30721,
     "geom:longitude":-81.702992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 S McDuff Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387707647,
-    "wof:lastmodified":1449059326,
+    "wof:lastmodified":1466448323,
     "wof:name":"Butler Cleaners",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-81.702992,30.30721,-81.702992,30.30721],
-  "geometry": {"coordinates":[-81.702992,30.30721],"type":"Point"}
+  "bbox": [
+    -81.702992,
+    30.30721,
+    -81.702992,
+    30.30721
+],
+  "geometry": {"coordinates":[-81.70299199999999,30.30721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303775109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.506279,28.060092,-82.506279,28.060092",
     "geom:latitude":28.060092,
     "geom:longitude":-82.506279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12613 Clendenning Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303775109,
-    "wof:lastmodified":1448999925,
+    "wof:lastmodified":1466443887,
     "wof:name":"Auto Security Devices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alarm"
     ]
 },
-  "bbox": [-82.506279,28.060092,-82.506279,28.060092],
-  "geometry": {"coordinates":[-82.506279,28.060092],"type":"Point"}
+  "bbox": [
+    -82.506279,
+    28.060092,
+    -82.506279,
+    28.060092
+],
+  "geometry": {"coordinates":[-82.50627900000001,28.060092],"type":"Point"}
 }

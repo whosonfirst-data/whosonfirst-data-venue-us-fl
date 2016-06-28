@@ -2,13 +2,14 @@
   "id": 270025379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.388315,27.590211,-80.388315,27.590211",
     "geom:latitude":27.590211,
     "geom:longitude":-80.388315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Timber Ridge Trl SW",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270025379,
-    "wof:lastmodified":1449010669,
+    "wof:lastmodified":1466429885,
     "wof:name":"Timber Ridge-Club Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.388315,27.590211,-80.388315,27.590211],
-  "geometry": {"coordinates":[-80.388315,27.590211],"type":"Point"}
+  "bbox": [
+    -80.388315,
+    27.590211,
+    -80.388315,
+    27.590211
+],
+  "geometry": {"coordinates":[-80.38831500000001,27.590211],"type":"Point"}
 }

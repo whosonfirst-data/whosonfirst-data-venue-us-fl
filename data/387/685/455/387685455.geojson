@@ -2,13 +2,14 @@
   "id": 387685455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.210226,30.525849,-87.210226,30.525849",
     "geom:latitude":30.525849,
     "geom:longitude":-87.210226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8990 N Davis Hwy",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387685455,
-    "wof:lastmodified":1449059831,
+    "wof:lastmodified":1466448314,
     "wof:name":"Colonial Village At Oak Leigh",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-87.210226,30.525849,-87.210226,30.525849],
-  "geometry": {"coordinates":[-87.210226,30.525849],"type":"Point"}
+  "bbox": [
+    -87.210226,
+    30.525849,
+    -87.210226,
+    30.525849
+],
+  "geometry": {"coordinates":[-87.21022600000001,30.525849],"type":"Point"}
 }

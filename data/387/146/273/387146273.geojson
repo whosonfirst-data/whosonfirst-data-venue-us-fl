@@ -2,13 +2,14 @@
   "id": 387146273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124885,26.092258,-80.124885,26.092258",
     "geom:latitude":26.092258,
     "geom:longitude":-80.124885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 SE 25th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387146273,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1466440962,
     "wof:name":"Man's Auto Sales",
     "wof:parent_id":85877501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.124885,26.092258,-80.124885,26.092258],
-  "geometry": {"coordinates":[-80.124885,26.092258],"type":"Point"}
+  "bbox": [
+    -80.124885,
+    26.092258,
+    -80.124885,
+    26.092258
+],
+  "geometry": {"coordinates":[-80.12488500000001,26.092258],"type":"Point"}
 }

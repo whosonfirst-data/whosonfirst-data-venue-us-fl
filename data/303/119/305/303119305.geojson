@@ -2,13 +2,14 @@
   "id": 303119305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231485,26.218147,-80.231485,26.218147",
     "geom:latitude":26.218147,
     "geom:longitude":-80.231485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 SW 78th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303119305,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466432568,
     "wof:name":"O C I Miami Field Office",
     "wof:parent_id":85818423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigation"
     ]
 },
-  "bbox": [-80.231485,26.218147,-80.231485,26.218147],
-  "geometry": {"coordinates":[-80.231485,26.218147],"type":"Point"}
+  "bbox": [
+    -80.231485,
+    26.218147,
+    -80.231485,
+    26.218147
+],
+  "geometry": {"coordinates":[-80.23148500000001,26.218147],"type":"Point"}
 }

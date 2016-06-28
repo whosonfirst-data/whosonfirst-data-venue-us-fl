@@ -2,13 +2,14 @@
   "id": 203405075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053621,26.778678,-80.053621,26.778678",
     "geom:latitude":26.778678,
     "geom:longitude":-80.053621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1960 Ave C",
     "sg:city":"Riviera Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203405075,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466431497,
     "wof:name":"Harbor Yacht Sales Outboard",
     "wof:parent_id":85881805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.053621,26.778678,-80.053621,26.778678],
-  "geometry": {"coordinates":[-80.053621,26.778678],"type":"Point"}
+  "bbox": [
+    -80.053621,
+    26.778678,
+    -80.053621,
+    26.778678
+],
+  "geometry": {"coordinates":[-80.05362100000001,26.778678],"type":"Point"}
 }

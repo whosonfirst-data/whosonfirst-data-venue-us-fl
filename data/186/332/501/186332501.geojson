@@ -2,13 +2,14 @@
   "id": 186332501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.276992,30.379486,-87.276992,30.379486",
     "geom:latitude":30.379486,
     "geom:longitude":-87.276992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 S Navy Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186332501,
-    "wof:lastmodified":1449051873,
+    "wof:lastmodified":1466430688,
     "wof:name":"Anteon International Corp",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.276992,30.379486,-87.276992,30.379486],
-  "geometry": {"coordinates":[-87.276992,30.379486],"type":"Point"}
+  "bbox": [
+    -87.276992,
+    30.379486,
+    -87.276992,
+    30.379486
+],
+  "geometry": {"coordinates":[-87.27699200000001,30.379486],"type":"Point"}
 }

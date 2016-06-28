@@ -2,13 +2,14 @@
   "id": 404128001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.825769,26.268183,-81.825769,26.268183",
     "geom:latitude":26.268183,
     "geom:longitude":-81.825769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10851 Gulfshore Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404128001,
-    "wof:lastmodified":1449039496,
+    "wof:lastmodified":1466442226,
     "wof:name":"Dr Seal-Coat Inc",
     "wof:parent_id":85889229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paving"
     ]
 },
-  "bbox": [-81.825769,26.268183,-81.825769,26.268183],
-  "geometry": {"coordinates":[-81.825769,26.268183],"type":"Point"}
+  "bbox": [
+    -81.825769,
+    26.268183,
+    -81.825769,
+    26.268183
+],
+  "geometry": {"coordinates":[-81.82576899999999,26.268183],"type":"Point"}
 }

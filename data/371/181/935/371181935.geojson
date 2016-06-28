@@ -2,13 +2,14 @@
   "id": 371181935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458306,28.672712,-81.458306,28.672712",
     "geom:latitude":28.672712,
     "geom:longitude":-81.458306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 E Semoran Blvd",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371181935,
-    "wof:lastmodified":1449049671,
+    "wof:lastmodified":1466440341,
     "wof:name":"Great Frame Up",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-81.458306,28.672712,-81.458306,28.672712],
-  "geometry": {"coordinates":[-81.458306,28.672712],"type":"Point"}
+  "bbox": [
+    -81.458306,
+    28.672712,
+    -81.458306,
+    28.672712
+],
+  "geometry": {"coordinates":[-81.45830599999999,28.672712],"type":"Point"}
 }

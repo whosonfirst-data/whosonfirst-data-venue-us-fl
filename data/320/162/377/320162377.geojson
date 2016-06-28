@@ -2,13 +2,14 @@
   "id": 320162377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.260416,25.744558,-80.260416,25.744558",
     "geom:latitude":25.744558,
     "geom:longitude":-80.260416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3081 Salzedo St",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320162377,
-    "wof:lastmodified":1449014428,
+    "wof:lastmodified":1466436163,
     "wof:name":"Road America Motor Club",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "processing"
     ]
 },
-  "bbox": [-80.260416,25.744558,-80.260416,25.744558],
-  "geometry": {"coordinates":[-80.260416,25.744558],"type":"Point"}
+  "bbox": [
+    -80.260416,
+    25.744558,
+    -80.260416,
+    25.744558
+],
+  "geometry": {"coordinates":[-80.26041600000001,25.744558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170875,26.174057,-80.170875,26.174057",
     "geom:latitude":26.174057,
     "geom:longitude":-80.170875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 NW 39th St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220135827,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466428726,
     "wof:name":"Fire Rescue Dept/Station 87",
     "wof:parent_id":85846325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rescue"
     ]
 },
-  "bbox": [-80.170875,26.174057,-80.170875,26.174057],
+  "bbox": [
+    -80.170875,
+    26.174057,
+    -80.170875,
+    26.174057
+],
   "geometry": {"coordinates":[-80.170875,26.174057],"type":"Point"}
 }

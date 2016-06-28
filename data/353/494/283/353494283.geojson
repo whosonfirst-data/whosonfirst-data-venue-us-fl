@@ -2,13 +2,14 @@
   "id": 353494283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459494,27.995061,-82.459494,27.995061",
     "geom:latitude":27.995061,
     "geom:longitude":-82.459494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5206 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353494283,
-    "wof:lastmodified":1449020523,
+    "wof:lastmodified":1466436050,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.459494,27.995061,-82.459494,27.995061],
-  "geometry": {"coordinates":[-82.459494,27.995061],"type":"Point"}
+  "bbox": [
+    -82.459494,
+    27.995061,
+    -82.459494,
+    27.995061
+],
+  "geometry": {"coordinates":[-82.45949400000001,27.995061],"type":"Point"}
 }

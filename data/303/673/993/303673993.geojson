@@ -2,13 +2,14 @@
   "id": 303673993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335643,25.950767,-80.335643,25.950767",
     "geom:latitude":25.950767,
     "geom:longitude":-80.335643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8264 NW 195th Ter",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303673993,
-    "wof:lastmodified":1448999065,
+    "wof:lastmodified":1466442143,
     "wof:name":"West Palm Beach City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.335643,25.950767,-80.335643,25.950767],
+  "bbox": [
+    -80.335643,
+    25.950767,
+    -80.335643,
+    25.950767
+],
   "geometry": {"coordinates":[-80.335643,25.950767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303109903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.392189,25.14991,-80.392189,25.14991",
     "geom:latitude":25.14991,
     "geom:longitude":-80.392189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104400 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303109903,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466432398,
     "wof:name":"Light Flight Inc",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vehicle"
     ]
 },
-  "bbox": [-80.392189,25.14991,-80.392189,25.14991],
+  "bbox": [
+    -80.392189,
+    25.14991,
+    -80.392189,
+    25.14991
+],
   "geometry": {"coordinates":[-80.392189,25.14991],"type":"Point"}
 }

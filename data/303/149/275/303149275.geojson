@@ -2,13 +2,14 @@
   "id": 303149275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404779,30.297298,-81.404779,30.297298",
     "geom:latitude":30.297298,
     "geom:longitude":-81.404779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 13th St N",
     "sg:city":"Jacksonville Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303149275,
-    "wof:lastmodified":1448998121,
+    "wof:lastmodified":1466433100,
     "wof:name":"Squeegee Clean Inc",
     "wof:parent_id":85827127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.404779,30.297298,-81.404779,30.297298],
+  "bbox": [
+    -81.404779,
+    30.297298,
+    -81.404779,
+    30.297298
+],
   "geometry": {"coordinates":[-81.404779,30.297298],"type":"Point"}
 }

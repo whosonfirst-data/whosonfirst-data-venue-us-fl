@@ -2,13 +2,14 @@
   "id": 303676721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.554145,30.162581,-81.554145,30.162581",
     "geom:latitude":30.162581,
     "geom:longitude":-81.554145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5768 Hoey Ter",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303676721,
-    "wof:lastmodified":1448999687,
+    "wof:lastmodified":1466442197,
     "wof:name":"Barbara Ann Cronkrite & Co",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.554145,30.162581,-81.554145,30.162581],
-  "geometry": {"coordinates":[-81.554145,30.162581],"type":"Point"}
+  "bbox": [
+    -81.554145,
+    30.162581,
+    -81.554145,
+    30.162581
+],
+  "geometry": {"coordinates":[-81.55414500000001,30.162581],"type":"Point"}
 }

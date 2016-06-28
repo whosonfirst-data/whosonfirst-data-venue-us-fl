@@ -2,13 +2,14 @@
   "id": 404112103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140748,26.010659,-80.140748,26.010659",
     "geom:latitude":26.010659,
     "geom:longitude":-80.140748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Harrison St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404112103,
-    "wof:lastmodified":1449039560,
+    "wof:lastmodified":1466441976,
     "wof:name":"Friendly Construction Co",
     "wof:parent_id":85878185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-80.140748,26.010659,-80.140748,26.010659],
+  "bbox": [
+    -80.140748,
+    26.010659,
+    -80.140748,
+    26.010659
+],
   "geometry": {"coordinates":[-80.140748,26.010659],"type":"Point"}
 }

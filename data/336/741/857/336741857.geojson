@@ -2,13 +2,14 @@
   "id": 336741857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.324043,29.651257,-82.324043,29.651257",
     "geom:latitude":29.651257,
     "geom:longitude":-82.324043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 SE 1 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336741857,
-    "wof:lastmodified":1448996971,
+    "wof:lastmodified":1466437428,
     "wof:name":"Alachua Cnty Sheriff Civil",
     "wof:parent_id":85877639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.324043,29.651257,-82.324043,29.651257],
+  "bbox": [
+    -82.324043,
+    29.651257,
+    -82.324043,
+    29.651257
+],
   "geometry": {"coordinates":[-82.324043,29.651257],"type":"Point"}
 }

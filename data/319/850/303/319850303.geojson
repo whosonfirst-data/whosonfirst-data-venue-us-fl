@@ -2,13 +2,14 @@
   "id": 319850303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.849741,28.073423,-81.849741,28.073423",
     "geom:latitude":28.073423,
     "geom:longitude":-81.849741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2768 Old Dixie Hwy",
     "sg:city":"Auburndale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319850303,
-    "wof:lastmodified":1449024535,
+    "wof:lastmodified":1466433325,
     "wof:name":"Polk County Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-81.849741,28.073423,-81.849741,28.073423],
-  "geometry": {"coordinates":[-81.849741,28.073423],"type":"Point"}
+  "bbox": [
+    -81.849741,
+    28.073423,
+    -81.849741,
+    28.073423
+],
+  "geometry": {"coordinates":[-81.84974099999999,28.073423],"type":"Point"}
 }

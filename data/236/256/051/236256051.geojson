@@ -2,13 +2,14 @@
   "id": 236256051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108341,26.412446,-80.108341,26.412446",
     "geom:latitude":26.412446,
     "geom:longitude":-80.108341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Cedar Creek Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236256051,
-    "wof:lastmodified":1449004298,
+    "wof:lastmodified":1466432038,
     "wof:name":"American Mortgage Svc",
     "wof:parent_id":85859309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.108341,26.412446,-80.108341,26.412446],
+  "bbox": [
+    -80.108341,
+    26.412446,
+    -80.108341,
+    26.412446
+],
   "geometry": {"coordinates":[-80.108341,26.412446],"type":"Point"}
 }

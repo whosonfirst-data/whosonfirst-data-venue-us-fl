@@ -2,13 +2,14 @@
   "id": 219472117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.479818,27.413909,-82.479818,27.413909",
     "geom:latitude":27.413909,
     "geom:longitude":-82.479818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7157 Victoria Cir",
     "sg:city":"University Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219472117,
-    "wof:lastmodified":1449070663,
+    "wof:lastmodified":1466431144,
     "wof:name":"IBC Svc",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.479818,27.413909,-82.479818,27.413909],
-  "geometry": {"coordinates":[-82.479818,27.413909],"type":"Point"}
+  "bbox": [
+    -82.479818,
+    27.413909,
+    -82.479818,
+    27.413909
+],
+  "geometry": {"coordinates":[-82.47981799999999,27.413909],"type":"Point"}
 }

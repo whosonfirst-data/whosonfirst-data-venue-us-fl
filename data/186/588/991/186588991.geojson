@@ -2,13 +2,14 @@
   "id": 186588991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783555,27.959315,-82.783555,27.959315",
     "geom:latitude":27.959315,
     "geom:longitude":-82.783555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 Turner St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186588991,
-    "wof:lastmodified":1449052483,
+    "wof:lastmodified":1466434003,
     "wof:name":"Clearwater Center",
     "wof:parent_id":85888631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-82.783555,27.959315,-82.783555,27.959315],
-  "geometry": {"coordinates":[-82.783555,27.959315],"type":"Point"}
+  "bbox": [
+    -82.783555,
+    27.959315,
+    -82.783555,
+    27.959315
+],
+  "geometry": {"coordinates":[-82.78355500000001,27.959315],"type":"Point"}
 }

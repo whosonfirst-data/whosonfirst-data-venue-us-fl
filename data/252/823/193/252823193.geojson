@@ -2,13 +2,14 @@
   "id": 252823193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192423,26.29392,-80.192423,26.29392",
     "geom:latitude":26.29392,
     "geom:longitude":-80.192423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5147 NW 51st Ave",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252823193,
-    "wof:lastmodified":1449006493,
+    "wof:lastmodified":1466430098,
     "wof:name":"Barefoot Realtor",
     "wof:parent_id":85896211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.192423,26.29392,-80.192423,26.29392],
-  "geometry": {"coordinates":[-80.192423,26.29392],"type":"Point"}
+  "bbox": [
+    -80.192423,
+    26.29392,
+    -80.192423,
+    26.29392
+],
+  "geometry": {"coordinates":[-80.19242300000001,26.29392],"type":"Point"}
 }

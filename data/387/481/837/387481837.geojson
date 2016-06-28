@@ -2,13 +2,14 @@
   "id": 387481837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.389615,28.001831,-82.389615,28.001831",
     "geom:latitude":28.001831,
     "geom:longitude":-82.389615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5431 N 59th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387481837,
-    "wof:lastmodified":1449059431,
+    "wof:lastmodified":1466446093,
     "wof:name":"Rosie's Wholesale",
     "wof:parent_id":85889703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.389615,28.001831,-82.389615,28.001831],
-  "geometry": {"coordinates":[-82.389615,28.001831],"type":"Point"}
+  "bbox": [
+    -82.389615,
+    28.001831,
+    -82.389615,
+    28.001831
+],
+  "geometry": {"coordinates":[-82.38961500000001,28.001831],"type":"Point"}
 }

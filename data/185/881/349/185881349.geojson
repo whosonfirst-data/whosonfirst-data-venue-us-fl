@@ -2,13 +2,14 @@
   "id": 185881349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331353,25.640113,-80.331353,25.640113",
     "geom:latitude":25.640113,
     "geom:longitude":-80.331353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8480 SW 140th St",
     "sg:city":"Palmetto Bay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185881349,
-    "wof:lastmodified":1449007544,
+    "wof:lastmodified":1466429792,
     "wof:name":"Ames Home Solutions",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.331353,25.640113,-80.331353,25.640113],
-  "geometry": {"coordinates":[-80.331353,25.640113],"type":"Point"}
+  "bbox": [
+    -80.331353,
+    25.640113,
+    -80.331353,
+    25.640113
+],
+  "geometry": {"coordinates":[-80.33135299999999,25.640113],"type":"Point"}
 }

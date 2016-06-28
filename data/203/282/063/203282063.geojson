@@ -2,13 +2,14 @@
   "id": 203282063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.483089,29.561125,-82.483089,29.561125",
     "geom:latitude":29.561125,
     "geom:longitude":-82.483089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10018 SW 132nd St",
     "sg:city":"Archer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203282063,
-    "wof:lastmodified":1449026137,
+    "wof:lastmodified":1466429946,
     "wof:name":"Jefferson Tom Marine Repairs",
     "wof:parent_id":85845299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.483089,29.561125,-82.483089,29.561125],
-  "geometry": {"coordinates":[-82.483089,29.561125],"type":"Point"}
+  "bbox": [
+    -82.483089,
+    29.561125,
+    -82.483089,
+    29.561125
+],
+  "geometry": {"coordinates":[-82.48308900000001,29.561125],"type":"Point"}
 }

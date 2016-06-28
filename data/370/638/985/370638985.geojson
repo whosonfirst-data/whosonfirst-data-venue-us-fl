@@ -2,13 +2,14 @@
   "id": 370638985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27961,25.828587,-80.27961,25.828587",
     "geom:latitude":25.828587,
     "geom:longitude":-80.27961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"752 E 1st Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370638985,
-    "wof:lastmodified":1449029266,
+    "wof:lastmodified":1466443974,
     "wof:name":"Hialeah Assn Of Fire Fighters",
     "wof:parent_id":85878145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.27961,25.828587,-80.27961,25.828587],
-  "geometry": {"coordinates":[-80.27961,25.828587],"type":"Point"}
+  "bbox": [
+    -80.27961,
+    25.828587,
+    -80.27961,
+    25.828587
+],
+  "geometry": {"coordinates":[-80.27961000000001,25.828587],"type":"Point"}
 }

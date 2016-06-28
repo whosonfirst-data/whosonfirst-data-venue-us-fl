@@ -2,13 +2,14 @@
   "id": 286822541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.395207,25.776147,-80.395207,25.776147",
     "geom:latitude":25.776147,
     "geom:longitude":-80.395207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 NW 123rd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286822541,
-    "wof:lastmodified":1449017994,
+    "wof:lastmodified":1466439510,
     "wof:name":"Estrella Road",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.395207,25.776147,-80.395207,25.776147],
+  "bbox": [
+    -80.395207,
+    25.776147,
+    -80.395207,
+    25.776147
+],
   "geometry": {"coordinates":[-80.395207,25.776147],"type":"Point"}
 }

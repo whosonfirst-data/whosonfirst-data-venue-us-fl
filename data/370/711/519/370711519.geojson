@@ -2,13 +2,14 @@
   "id": 370711519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.346859,30.496169,-84.346859,30.496169",
     "geom:latitude":30.496169,
     "geom:longitude":-84.346859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 Miraflores Ln",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370711519,
-    "wof:lastmodified":1449031855,
+    "wof:lastmodified":1466445067,
     "wof:name":"St Louis Catholic Church",
     "wof:parent_id":85881347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.346859,30.496169,-84.346859,30.496169],
-  "geometry": {"coordinates":[-84.346859,30.496169],"type":"Point"}
+  "bbox": [
+    -84.346859,
+    30.496169,
+    -84.346859,
+    30.496169
+],
+  "geometry": {"coordinates":[-84.34685899999999,30.496169],"type":"Point"}
 }

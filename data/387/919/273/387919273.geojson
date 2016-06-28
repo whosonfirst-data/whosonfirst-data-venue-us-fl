@@ -2,13 +2,14 @@
   "id": 387919273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.311281,28.613718,-81.311281,28.613718",
     "geom:latitude":28.613718,
     "geom:longitude":-81.311281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Casa Aloma Way",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387919273,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466449646,
     "wof:name":"Florida Lipid Institute",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.311281,28.613718,-81.311281,28.613718],
-  "geometry": {"coordinates":[-81.311281,28.613718],"type":"Point"}
+  "bbox": [
+    -81.311281,
+    28.613718,
+    -81.311281,
+    28.613718
+],
+  "geometry": {"coordinates":[-81.31128099999999,28.613718],"type":"Point"}
 }

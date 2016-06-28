@@ -2,13 +2,14 @@
   "id": 387825073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705057,27.823725,-82.705057,27.823725",
     "geom:latitude":27.823725,
     "geom:longitude":-82.705057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5291 57th Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387825073,
-    "wof:lastmodified":1449056264,
+    "wof:lastmodified":1466449075,
     "wof:name":"Oxfordd Medical Clinics",
     "wof:parent_id":85889531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.705057,27.823725,-82.705057,27.823725],
+  "bbox": [
+    -82.705057,
+    27.823725,
+    -82.705057,
+    27.823725
+],
   "geometry": {"coordinates":[-82.705057,27.823725],"type":"Point"}
 }

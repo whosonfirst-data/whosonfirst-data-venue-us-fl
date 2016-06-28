@@ -2,13 +2,14 @@
   "id": 269665753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.330483,25.733145,-80.330483,25.733145",
     "geom:latitude":25.733145,
     "geom:longitude":-80.330483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8360 SW 40th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269665753,
-    "wof:lastmodified":1449036886,
+    "wof:lastmodified":1466431761,
     "wof:name":"Premium Home Health Agency",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-80.330483,25.733145,-80.330483,25.733145],
+  "bbox": [
+    -80.330483,
+    25.733145,
+    -80.330483,
+    25.733145
+],
   "geometry": {"coordinates":[-80.330483,25.733145],"type":"Point"}
 }

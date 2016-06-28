@@ -2,13 +2,14 @@
   "id": 253487735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.446274,30.287727,-81.446274,30.287727",
     "geom:latitude":30.287727,
     "geom:longitude":-81.446274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14070 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253487735,
-    "wof:lastmodified":1449063794,
+    "wof:lastmodified":1466435410,
     "wof:name":"BP",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.446274,30.287727,-81.446274,30.287727],
+  "bbox": [
+    -81.446274,
+    30.287727,
+    -81.446274,
+    30.287727
+],
   "geometry": {"coordinates":[-81.446274,30.287727],"type":"Point"}
 }

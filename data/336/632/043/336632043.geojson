@@ -2,13 +2,14 @@
   "id": 336632043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.250374,28.267433,-81.250374,28.267433",
     "geom:latitude":28.267433,
     "geom:longitude":-81.250374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4688 Rummell Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336632043,
-    "wof:lastmodified":1448997614,
+    "wof:lastmodified":1466435540,
     "wof:name":"Charles Fry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.250374,28.267433,-81.250374,28.267433],
-  "geometry": {"coordinates":[-81.250374,28.267433],"type":"Point"}
+  "bbox": [
+    -81.250374,
+    28.267433,
+    -81.250374,
+    28.267433
+],
+  "geometry": {"coordinates":[-81.25037399999999,28.267433],"type":"Point"}
 }

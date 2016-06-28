@@ -2,13 +2,14 @@
   "id": 336767803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.592283,28.138653,-80.592283,28.138653",
     "geom:latitude":28.138653,
     "geom:longitude":-80.592283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 E Eau Gallie Blvd",
     "sg:city":"Satellite Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336767803,
-    "wof:lastmodified":1448997264,
+    "wof:lastmodified":1466437891,
     "wof:name":"Atlantic Cellular",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telephone"
     ]
 },
-  "bbox": [-80.592283,28.138653,-80.592283,28.138653],
-  "geometry": {"coordinates":[-80.592283,28.138653],"type":"Point"}
+  "bbox": [
+    -80.592283,
+    28.138653,
+    -80.592283,
+    28.138653
+],
+  "geometry": {"coordinates":[-80.59228299999999,28.138653],"type":"Point"}
 }

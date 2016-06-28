@@ -2,13 +2,14 @@
   "id": 304075057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.861938,26.581461,-81.861938,26.581461",
     "geom:latitude":26.581461,
     "geom:longitude":-81.861938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 3rd St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304075057,
-    "wof:lastmodified":1449043914,
+    "wof:lastmodified":1466433135,
     "wof:name":"Christo Point",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "prepared"
     ]
 },
-  "bbox": [-81.861938,26.581461,-81.861938,26.581461],
-  "geometry": {"coordinates":[-81.861938,26.581461],"type":"Point"}
+  "bbox": [
+    -81.861938,
+    26.581461,
+    -81.861938,
+    26.581461
+],
+  "geometry": {"coordinates":[-81.86193799999999,26.581461],"type":"Point"}
 }

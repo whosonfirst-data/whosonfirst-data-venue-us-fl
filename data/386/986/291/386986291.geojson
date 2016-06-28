@@ -2,13 +2,14 @@
   "id": 386986291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.149863,26.130967,-80.149863,26.130967",
     "geom:latitude":26.130967,
     "geom:longitude":-80.149863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 NW 6th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386986291,
-    "wof:lastmodified":1449028888,
+    "wof:lastmodified":1466439283,
     "wof:name":"Castle Systems Inc",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.149863,26.130967,-80.149863,26.130967],
+  "bbox": [
+    -80.149863,
+    26.130967,
+    -80.149863,
+    26.130967
+],
   "geometry": {"coordinates":[-80.149863,26.130967],"type":"Point"}
 }

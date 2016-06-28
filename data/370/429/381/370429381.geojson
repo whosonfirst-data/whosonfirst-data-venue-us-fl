@@ -2,13 +2,14 @@
   "id": 370429381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256386,25.898839,-80.256386,25.898839",
     "geom:latitude":25.898839,
     "geom:longitude":-80.256386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ali Baba Ave",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370429381,
-    "wof:lastmodified":1449032284,
+    "wof:lastmodified":1466440762,
     "wof:name":"River Transport Inc",
     "wof:parent_id":85878151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-80.256386,25.898839,-80.256386,25.898839],
-  "geometry": {"coordinates":[-80.256386,25.898839],"type":"Point"}
+  "bbox": [
+    -80.256386,
+    25.898839,
+    -80.256386,
+    25.898839
+],
+  "geometry": {"coordinates":[-80.25638600000001,25.898839],"type":"Point"}
 }

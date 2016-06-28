@@ -2,13 +2,14 @@
   "id": 387763061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.521285,27.348318,-82.521285,27.348318",
     "geom:latitude":27.348318,
     "geom:longitude":-82.521285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Vilas Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387763061,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1466448574,
     "wof:name":"Moore's Truck Svc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.521285,27.348318,-82.521285,27.348318],
-  "geometry": {"coordinates":[-82.521285,27.348318],"type":"Point"}
+  "bbox": [
+    -82.521285,
+    27.348318,
+    -82.521285,
+    27.348318
+],
+  "geometry": {"coordinates":[-82.52128500000001,27.348318],"type":"Point"}
 }

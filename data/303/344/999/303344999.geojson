@@ -2,13 +2,14 @@
   "id": 303344999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.583852,27.496467,-82.583852,27.496467",
     "geom:latitude":27.496467,
     "geom:longitude":-82.583852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 22nd St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303344999,
-    "wof:lastmodified":1448998243,
+    "wof:lastmodified":1466436486,
     "wof:name":"Goodwin Landcare",
     "wof:parent_id":85832043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.583852,27.496467,-82.583852,27.496467],
-  "geometry": {"coordinates":[-82.583852,27.496467],"type":"Point"}
+  "bbox": [
+    -82.583852,
+    27.496467,
+    -82.583852,
+    27.496467
+],
+  "geometry": {"coordinates":[-82.58385199999999,27.496467],"type":"Point"}
 }

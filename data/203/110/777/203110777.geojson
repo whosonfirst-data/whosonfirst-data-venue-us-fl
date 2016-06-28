@@ -2,13 +2,14 @@
   "id": 203110777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.447482,28.902545,-82.447482,28.902545",
     "geom:latitude":28.902545,
     "geom:longitude":-82.447482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 N Forest Ridge Blvd",
     "sg:city":"Hernando",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203110777,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466445467,
     "wof:name":"Chan's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.447482,28.902545,-82.447482,28.902545],
-  "geometry": {"coordinates":[-82.447482,28.902545],"type":"Point"}
+  "bbox": [
+    -82.447482,
+    28.902545,
+    -82.447482,
+    28.902545
+],
+  "geometry": {"coordinates":[-82.44748199999999,28.902545],"type":"Point"}
 }

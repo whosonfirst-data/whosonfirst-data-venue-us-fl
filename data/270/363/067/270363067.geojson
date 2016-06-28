@@ -2,13 +2,14 @@
   "id": 270363067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.376235,25.594545,-80.376235,25.594545",
     "geom:latitude":25.594545,
     "geom:longitude":-80.376235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 Quail Roost Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270363067,
-    "wof:lastmodified":1449010797,
+    "wof:lastmodified":1466435674,
     "wof:name":"America Cell",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.376235,25.594545,-80.376235,25.594545],
-  "geometry": {"coordinates":[-80.376235,25.594545],"type":"Point"}
+  "bbox": [
+    -80.376235,
+    25.594545,
+    -80.376235,
+    25.594545
+],
+  "geometry": {"coordinates":[-80.37623499999999,25.594545],"type":"Point"}
 }

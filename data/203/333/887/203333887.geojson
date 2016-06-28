@@ -2,13 +2,14 @@
   "id": 203333887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.543264,28.708022,-81.543264,28.708022",
     "geom:latitude":28.708022,
     "geom:longitude":-81.543264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Country Side Dr",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203333887,
-    "wof:lastmodified":1449026745,
+    "wof:lastmodified":1466430587,
     "wof:name":"Club Registry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-81.543264,28.708022,-81.543264,28.708022],
-  "geometry": {"coordinates":[-81.543264,28.708022],"type":"Point"}
+  "bbox": [
+    -81.543264,
+    28.708022,
+    -81.543264,
+    28.708022
+],
+  "geometry": {"coordinates":[-81.54326399999999,28.708022],"type":"Point"}
 }

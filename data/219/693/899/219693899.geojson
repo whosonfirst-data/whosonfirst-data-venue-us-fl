@@ -2,13 +2,14 @@
   "id": 219693899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.071933,29.123123,-81.071933,29.123123",
     "geom:latitude":29.123123,
     "geom:longitude":-81.071933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 Tomoka Farms Rd",
     "sg:city":"Port Orange",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219693899,
-    "wof:lastmodified":1449070587,
+    "wof:lastmodified":1466434017,
     "wof:name":"Tomoka Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.071933,29.123123,-81.071933,29.123123],
+  "bbox": [
+    -81.071933,
+    29.123123,
+    -81.071933,
+    29.123123
+],
   "geometry": {"coordinates":[-81.071933,29.123123],"type":"Point"}
 }

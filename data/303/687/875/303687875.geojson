@@ -2,13 +2,14 @@
   "id": 303687875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.277234,30.398232,-84.277234,30.398232",
     "geom:latitude":30.398232,
     "geom:longitude":-84.277234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Gaile Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303687875,
-    "wof:lastmodified":1448998798,
+    "wof:lastmodified":1466442397,
     "wof:name":"L & L Pool & Spa Inc",
     "wof:parent_id":85881341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "swimming"
     ]
 },
-  "bbox": [-84.277234,30.398232,-84.277234,30.398232],
-  "geometry": {"coordinates":[-84.277234,30.398232],"type":"Point"}
+  "bbox": [
+    -84.277234,
+    30.398232,
+    -84.277234,
+    30.398232
+],
+  "geometry": {"coordinates":[-84.27723400000001,30.398232],"type":"Point"}
 }

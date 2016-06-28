@@ -2,13 +2,14 @@
   "id": 303787947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209139,26.269878,-80.209139,26.269878",
     "geom:latitude":26.269878,
     "geom:longitude":-80.209139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Apache Ln",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303787947,
-    "wof:lastmodified":1448999223,
+    "wof:lastmodified":1466444107,
     "wof:name":"Waggitech Inc",
     "wof:parent_id":85876905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [-80.209139,26.269878,-80.209139,26.269878],
-  "geometry": {"coordinates":[-80.209139,26.269878],"type":"Point"}
+  "bbox": [
+    -80.209139,
+    26.269878,
+    -80.209139,
+    26.269878
+],
+  "geometry": {"coordinates":[-80.20913899999999,26.269878],"type":"Point"}
 }

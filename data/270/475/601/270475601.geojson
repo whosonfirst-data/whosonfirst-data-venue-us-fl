@@ -2,13 +2,14 @@
   "id": 270475601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52254,28.034329,-82.52254,28.034329",
     "geom:latitude":28.034329,
     "geom:longitude":-82.52254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4733 Dunnie Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270475601,
-    "wof:lastmodified":1449009660,
+    "wof:lastmodified":1466437583,
     "wof:name":"Linda Dillon Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.52254,28.034329,-82.52254,28.034329],
-  "geometry": {"coordinates":[-82.52254,28.034329],"type":"Point"}
+  "bbox": [
+    -82.52254,
+    28.034329,
+    -82.52254,
+    28.034329
+],
+  "geometry": {"coordinates":[-82.52254000000001,28.034329],"type":"Point"}
 }

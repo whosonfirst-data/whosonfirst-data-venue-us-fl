@@ -2,13 +2,14 @@
   "id": 403878211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310715,28.544803,-81.310715,28.544803",
     "geom:latitude":28.544803,
     "geom:longitude":-81.310715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Semoran Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403878211,
-    "wof:lastmodified":1449055337,
+    "wof:lastmodified":1466442383,
     "wof:name":"ISC",
     "wof:parent_id":85879457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "ingredient"
     ]
 },
-  "bbox": [-81.310715,28.544803,-81.310715,28.544803],
+  "bbox": [
+    -81.310715,
+    28.544803,
+    -81.310715,
+    28.544803
+],
   "geometry": {"coordinates":[-81.310715,28.544803],"type":"Point"}
 }

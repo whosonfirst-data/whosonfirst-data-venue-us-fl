@@ -2,13 +2,14 @@
   "id": 320135273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.05019,26.455506,-82.05019,26.455506",
     "geom:latitude":26.455506,
     "geom:longitude":-82.05019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1243 Sand Castle Rd",
     "sg:city":"Sanibel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320135273,
-    "wof:lastmodified":1449012708,
+    "wof:lastmodified":1466435708,
     "wof:name":"James T Haggerty",
     "wof:parent_id":85843293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.05019,26.455506,-82.05019,26.455506],
+  "bbox": [
+    -82.05019,
+    26.455506,
+    -82.05019,
+    26.455506
+],
   "geometry": {"coordinates":[-82.05019,26.455506],"type":"Point"}
 }

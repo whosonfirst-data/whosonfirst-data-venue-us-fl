@@ -2,13 +2,14 @@
   "id": 186215705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.340517,30.022988,-82.340517,30.022988",
     "geom:latitude":30.022988,
     "geom:longitude":-82.340517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Main St",
     "sg:city":"Mayo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186215705,
-    "wof:lastmodified":1449052543,
+    "wof:lastmodified":1466429285,
     "wof:name":"Mayo Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.340517,30.022988,-82.340517,30.022988],
-  "geometry": {"coordinates":[-82.340517,30.022988],"type":"Point"}
+  "bbox": [
+    -82.340517,
+    30.022988,
+    -82.340517,
+    30.022988
+],
+  "geometry": {"coordinates":[-82.34051700000001,30.022988],"type":"Point"}
 }

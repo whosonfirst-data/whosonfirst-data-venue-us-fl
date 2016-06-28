@@ -2,13 +2,14 @@
   "id": 371098541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089857,26.350785,-80.089857,26.350785",
     "geom:latitude":26.350785,
     "geom:longitude":-80.089857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 NW Boca Raton Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371098541,
-    "wof:lastmodified":1449050017,
+    "wof:lastmodified":1466439075,
     "wof:name":"Pointe Bank",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.089857,26.350785,-80.089857,26.350785],
-  "geometry": {"coordinates":[-80.089857,26.350785],"type":"Point"}
+  "bbox": [
+    -80.089857,
+    26.350785,
+    -80.089857,
+    26.350785
+],
+  "geometry": {"coordinates":[-80.08985699999999,26.350785],"type":"Point"}
 }

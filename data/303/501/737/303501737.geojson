@@ -2,13 +2,14 @@
   "id": 303501737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.617066,30.20391,-81.617066,30.20391",
     "geom:latitude":30.20391,
     "geom:longitude":-81.617066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9509 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303501737,
-    "wof:lastmodified":1449000586,
+    "wof:lastmodified":1466439184,
     "wof:name":"Lil Champ 230",
     "wof:parent_id":85822237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-81.617066,30.20391,-81.617066,30.20391],
-  "geometry": {"coordinates":[-81.617066,30.20391],"type":"Point"}
+  "bbox": [
+    -81.617066,
+    30.20391,
+    -81.617066,
+    30.20391
+],
+  "geometry": {"coordinates":[-81.61706599999999,30.20391],"type":"Point"}
 }

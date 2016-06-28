@@ -2,13 +2,14 @@
   "id": 336652325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.356709,27.957568,-82.356709,27.957568",
     "geom:latitude":27.957568,
     "geom:longitude":-82.356709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 US Hwy 301",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336652325,
-    "wof:lastmodified":1448997625,
+    "wof:lastmodified":1466435886,
     "wof:name":"Gordon Food Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-82.356709,27.957568,-82.356709,27.957568],
+  "bbox": [
+    -82.356709,
+    27.957568,
+    -82.356709,
+    27.957568
+],
   "geometry": {"coordinates":[-82.356709,27.957568],"type":"Point"}
 }

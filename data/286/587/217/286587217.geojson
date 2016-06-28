@@ -2,13 +2,14 @@
   "id": 286587217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.666289,27.82846,-82.666289,27.82846",
     "geom:latitude":27.82846,
     "geom:longitude":-82.666289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2275 62nd Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286587217,
-    "wof:lastmodified":1449016196,
+    "wof:lastmodified":1466435312,
     "wof:name":"BCS Cleaning Svc",
     "wof:parent_id":85880551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.666289,27.82846,-82.666289,27.82846],
-  "geometry": {"coordinates":[-82.666289,27.82846],"type":"Point"}
+  "bbox": [
+    -82.666289,
+    27.82846,
+    -82.666289,
+    27.82846
+],
+  "geometry": {"coordinates":[-82.66628900000001,27.82846],"type":"Point"}
 }

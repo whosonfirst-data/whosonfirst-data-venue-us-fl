@@ -2,13 +2,14 @@
   "id": 286461507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099667,26.318566,-80.099667,26.318566",
     "geom:latitude":26.318566,
     "geom:longitude":-80.099667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 NE 2nd Ave",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286461507,
-    "wof:lastmodified":1449016286,
+    "wof:lastmodified":1466433101,
     "wof:name":"Custom Medical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.099667,26.318566,-80.099667,26.318566],
+  "bbox": [
+    -80.099667,
+    26.318566,
+    -80.099667,
+    26.318566
+],
   "geometry": {"coordinates":[-80.099667,26.318566],"type":"Point"}
 }

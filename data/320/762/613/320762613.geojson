@@ -2,13 +2,14 @@
   "id": 320762613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.600147,30.410318,-86.600147,30.410318",
     "geom:latitude":30.410318,
     "geom:longitude":-86.600147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Alder Ave SE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320762613,
-    "wof:lastmodified":1449013894,
+    "wof:lastmodified":1466446463,
     "wof:name":"Hollywood Coin Laundry",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.600147,30.410318,-86.600147,30.410318],
-  "geometry": {"coordinates":[-86.600147,30.410318],"type":"Point"}
+  "bbox": [
+    -86.600147,
+    30.410318,
+    -86.600147,
+    30.410318
+],
+  "geometry": {"coordinates":[-86.60014700000001,30.410318],"type":"Point"}
 }

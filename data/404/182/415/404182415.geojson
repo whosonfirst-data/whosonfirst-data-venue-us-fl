@@ -2,13 +2,14 @@
   "id": 404182415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.042996,29.062244,-82.042996,29.062244",
     "geom:latitude":29.062244,
     "geom:longitude":-82.042996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 SE 110th St",
     "sg:city":"Belleview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404182415,
-    "wof:lastmodified":1449039891,
+    "wof:lastmodified":1466443075,
     "wof:name":"Sentry Storage",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-82.042996,29.062244,-82.042996,29.062244],
+  "bbox": [
+    -82.042996,
+    29.062244,
+    -82.042996,
+    29.062244
+],
   "geometry": {"coordinates":[-82.042996,29.062244],"type":"Point"}
 }

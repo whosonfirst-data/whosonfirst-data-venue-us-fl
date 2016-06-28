@@ -2,13 +2,14 @@
   "id": 386966173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284524,25.711717,-80.284524,25.711717",
     "geom:latitude":25.711717,
     "geom:longitude":-80.284524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Brescia Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386966173,
-    "wof:lastmodified":1449028623,
+    "wof:lastmodified":1466438965,
     "wof:name":"Affairs At The Club",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-80.284524,25.711717,-80.284524,25.711717],
+  "bbox": [
+    -80.284524,
+    25.711717,
+    -80.284524,
+    25.711717
+],
   "geometry": {"coordinates":[-80.284524,25.711717],"type":"Point"}
 }

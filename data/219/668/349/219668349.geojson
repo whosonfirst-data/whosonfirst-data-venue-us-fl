@@ -2,13 +2,14 @@
   "id": 219668349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399115,27.92679,-82.399115,27.92679",
     "geom:latitude":27.92679,
     "geom:longitude":-82.399115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 S 51st St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219668349,
-    "wof:lastmodified":1449072852,
+    "wof:lastmodified":1466433674,
     "wof:name":"Estrada Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.399115,27.92679,-82.399115,27.92679],
-  "geometry": {"coordinates":[-82.399115,27.92679],"type":"Point"}
+  "bbox": [
+    -82.399115,
+    27.92679,
+    -82.399115,
+    27.92679
+],
+  "geometry": {"coordinates":[-82.39911499999999,27.92679],"type":"Point"}
 }

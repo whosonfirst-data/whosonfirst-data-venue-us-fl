@@ -2,13 +2,14 @@
   "id": 370455819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160812,25.949647,-80.160812,25.949647",
     "geom:latitude":25.949647,
     "geom:longitude":-80.160812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19100 NE 20th Ave",
     "sg:city":"North Miami Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370455819,
-    "wof:lastmodified":1449031924,
+    "wof:lastmodified":1466441178,
     "wof:name":"Miamis Wireless Choice Inc",
     "wof:parent_id":85879301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.160812,25.949647,-80.160812,25.949647],
-  "geometry": {"coordinates":[-80.160812,25.949647],"type":"Point"}
+  "bbox": [
+    -80.160812,
+    25.949647,
+    -80.160812,
+    25.949647
+],
+  "geometry": {"coordinates":[-80.16081200000001,25.949647],"type":"Point"}
 }

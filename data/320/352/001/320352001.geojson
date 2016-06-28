@@ -2,13 +2,14 @@
   "id": 320352001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154441,26.122869,-80.154441,26.122869",
     "geom:latitude":26.122869,
     "geom:longitude":-80.154441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 NW 1st St",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320352001,
-    "wof:lastmodified":1449013547,
+    "wof:lastmodified":1466439431,
     "wof:name":"American Binders and Tabs",
     "wof:parent_id":85877521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "die"
     ]
 },
-  "bbox": [-80.154441,26.122869,-80.154441,26.122869],
-  "geometry": {"coordinates":[-80.154441,26.122869],"type":"Point"}
+  "bbox": [
+    -80.154441,
+    26.122869,
+    -80.154441,
+    26.122869
+],
+  "geometry": {"coordinates":[-80.15444100000001,26.122869],"type":"Point"}
 }

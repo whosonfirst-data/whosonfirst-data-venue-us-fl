@@ -2,13 +2,14 @@
   "id": 203399655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.559463,27.410084,-82.559463,27.410084",
     "geom:latitude":27.410084,
     "geom:longitude":-82.559463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7213 Alderwood Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203399655,
-    "wof:lastmodified":1449025278,
+    "wof:lastmodified":1466431425,
     "wof:name":"Vaughns Custom Lawns Inc",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.559463,27.410084,-82.559463,27.410084],
-  "geometry": {"coordinates":[-82.559463,27.410084],"type":"Point"}
+  "bbox": [
+    -82.559463,
+    27.410084,
+    -82.559463,
+    27.410084
+],
+  "geometry": {"coordinates":[-82.55946299999999,27.410084],"type":"Point"}
 }

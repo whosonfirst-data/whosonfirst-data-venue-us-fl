@@ -2,13 +2,14 @@
   "id": 253065945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251715,26.185694,-80.251715,26.185694",
     "geom:latitude":26.185694,
     "geom:longitude":-80.251715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4846 N University Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253065945,
-    "wof:lastmodified":1449065774,
+    "wof:lastmodified":1466429401,
     "wof:name":"B CS Express",
     "wof:parent_id":85896111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.251715,26.185694,-80.251715,26.185694],
+  "bbox": [
+    -80.251715,
+    26.185694,
+    -80.251715,
+    26.185694
+],
   "geometry": {"coordinates":[-80.251715,26.185694],"type":"Point"}
 }

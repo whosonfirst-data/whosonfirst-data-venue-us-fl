@@ -2,13 +2,14 @@
   "id": 370258331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31174,25.811708,-80.31174,25.811708",
     "geom:latitude":25.811708,
     "geom:longitude":-80.31174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7025 NW 41st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370258331,
-    "wof:lastmodified":1449031789,
+    "wof:lastmodified":1466438145,
     "wof:name":"Pratt Industries",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-80.31174,25.811708,-80.31174,25.811708],
+  "bbox": [
+    -80.31174,
+    25.811708,
+    -80.31174,
+    25.811708
+],
   "geometry": {"coordinates":[-80.31174,25.811708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370587341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.18262,26.905789,-80.18262,26.905789",
     "geom:latitude":26.905789,
     "geom:longitude":-80.18262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9362 Sandy Run Rd",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370587341,
-    "wof:lastmodified":1449030265,
+    "wof:lastmodified":1466443183,
     "wof:name":"Cool Peak",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-80.18262,26.905789,-80.18262,26.905789],
+  "bbox": [
+    -80.18262,
+    26.905789,
+    -80.18262,
+    26.905789
+],
   "geometry": {"coordinates":[-80.18262,26.905789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303642277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.260385,30.565488,-87.260385,30.565488",
     "geom:latitude":30.565488,
     "geom:longitude":-87.260385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11505 Thousand Oaks Ct",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303642277,
-    "wof:lastmodified":1448998260,
+    "wof:lastmodified":1466441582,
     "wof:name":"Choice Vending",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-87.260385,30.565488,-87.260385,30.565488],
+  "bbox": [
+    -87.260385,
+    30.565488,
+    -87.260385,
+    30.565488
+],
   "geometry": {"coordinates":[-87.260385,30.565488],"type":"Point"}
 }

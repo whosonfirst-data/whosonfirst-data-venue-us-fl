@@ -2,13 +2,14 @@
   "id": 303142479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104027,26.18988,-80.104027,26.18988",
     "geom:latitude":26.18988,
     "geom:longitude":-80.104027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 E Commercial Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303142479,
-    "wof:lastmodified":1449000077,
+    "wof:lastmodified":1466432979,
     "wof:name":"Andre's Steakhouse",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.104027,26.18988,-80.104027,26.18988],
+  "bbox": [
+    -80.104027,
+    26.18988,
+    -80.104027,
+    26.18988
+],
   "geometry": {"coordinates":[-80.104027,26.18988],"type":"Point"}
 }

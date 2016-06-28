@@ -2,13 +2,14 @@
   "id": 303273197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.367117,28.685448,-81.367117,28.685448",
     "geom:latitude":28.685448,
     "geom:longitude":-81.367117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 Hobson St",
     "sg:city":"Longwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303273197,
-    "wof:lastmodified":1448999388,
+    "wof:lastmodified":1466435260,
     "wof:name":"Baker & Baker",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-81.367117,28.685448,-81.367117,28.685448],
-  "geometry": {"coordinates":[-81.367117,28.685448],"type":"Point"}
+  "bbox": [
+    -81.367117,
+    28.685448,
+    -81.367117,
+    28.685448
+],
+  "geometry": {"coordinates":[-81.36711699999999,28.685448],"type":"Point"}
 }

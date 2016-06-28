@@ -2,13 +2,14 @@
   "id": 269667367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.605367,30.409168,-86.605367,30.409168",
     "geom:latitude":30.409168,
     "geom:longitude":-86.605367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Tupelo Ave SE",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":269667367,
-    "wof:lastmodified":1449037689,
+    "wof:lastmodified":1466431787,
     "wof:name":"Advanced Fire Protection Svc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-86.605367,30.409168,-86.605367,30.409168],
+  "bbox": [
+    -86.605367,
+    30.409168,
+    -86.605367,
+    30.409168
+],
   "geometry": {"coordinates":[-86.605367,30.409168],"type":"Point"}
 }

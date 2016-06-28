@@ -2,13 +2,14 @@
   "id": 337333783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.513813,27.896082,-82.513813,27.896082",
     "geom:latitude":27.896082,
     "geom:longitude":-82.513813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 S Lois Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337333783,
-    "wof:lastmodified":1449027680,
+    "wof:lastmodified":1466435026,
     "wof:name":"Bay Area Home Inspections",
     "wof:parent_id":85873217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-82.513813,27.896082,-82.513813,27.896082],
+  "bbox": [
+    -82.513813,
+    27.896082,
+    -82.513813,
+    27.896082
+],
   "geometry": {"coordinates":[-82.513813,27.896082],"type":"Point"}
 }

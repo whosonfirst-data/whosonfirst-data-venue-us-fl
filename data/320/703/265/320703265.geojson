@@ -2,13 +2,14 @@
   "id": 320703265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.750808,30.103493,-81.750808,30.103493",
     "geom:latitude":30.103493,
     "geom:longitude":-81.750808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Harmony Hall Rd",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320703265,
-    "wof:lastmodified":1449012399,
+    "wof:lastmodified":1466445543,
     "wof:name":"National Soc Arts & Letters",
     "wof:parent_id":85829919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.750808,30.103493,-81.750808,30.103493],
-  "geometry": {"coordinates":[-81.750808,30.103493],"type":"Point"}
+  "bbox": [
+    -81.750808,
+    30.103493,
+    -81.750808,
+    30.103493
+],
+  "geometry": {"coordinates":[-81.75080800000001,30.103493],"type":"Point"}
 }

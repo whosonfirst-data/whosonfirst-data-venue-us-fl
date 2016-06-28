@@ -2,13 +2,14 @@
   "id": 287170409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.699391,28.314783,-82.699391,28.314783",
     "geom:latitude":28.314783,
     "geom:longitude":-82.699391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10821 US Hwy 19",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287170409,
-    "wof:lastmodified":1449000728,
+    "wof:lastmodified":1466432849,
     "wof:name":"Suncoast Mitsubishi",
     "wof:parent_id":85889483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.699391,28.314783,-82.699391,28.314783],
-  "geometry": {"coordinates":[-82.699391,28.314783],"type":"Point"}
+  "bbox": [
+    -82.699391,
+    28.314783,
+    -82.699391,
+    28.314783
+],
+  "geometry": {"coordinates":[-82.69939100000001,28.314783],"type":"Point"}
 }

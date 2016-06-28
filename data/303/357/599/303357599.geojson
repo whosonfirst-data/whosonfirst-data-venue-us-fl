@@ -2,13 +2,14 @@
   "id": 303357599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.637673,30.260777,-81.637673,30.260777",
     "geom:latitude":30.260777,
     "geom:longitude":-81.637673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 University Blvd W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303357599,
-    "wof:lastmodified":1449000268,
+    "wof:lastmodified":1466436702,
     "wof:name":"Lakewood Internal Medicine",
     "wof:parent_id":85846911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.637673,30.260777,-81.637673,30.260777],
-  "geometry": {"coordinates":[-81.637673,30.260777],"type":"Point"}
+  "bbox": [
+    -81.637673,
+    30.260777,
+    -81.637673,
+    30.260777
+],
+  "geometry": {"coordinates":[-81.63767300000001,30.260777],"type":"Point"}
 }

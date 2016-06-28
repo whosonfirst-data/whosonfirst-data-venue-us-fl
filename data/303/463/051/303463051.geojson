@@ -2,13 +2,14 @@
   "id": 303463051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.280009,28.596097,-81.280009,28.596097",
     "geom:latitude":28.596097,
     "geom:longitude":-81.280009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Donna Lynn Ln",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303463051,
-    "wof:lastmodified":1448999817,
+    "wof:lastmodified":1466438532,
     "wof:name":"University Forest Homeowners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.280009,28.596097,-81.280009,28.596097],
-  "geometry": {"coordinates":[-81.280009,28.596097],"type":"Point"}
+  "bbox": [
+    -81.280009,
+    28.596097,
+    -81.280009,
+    28.596097
+],
+  "geometry": {"coordinates":[-81.28000900000001,28.596097],"type":"Point"}
 }

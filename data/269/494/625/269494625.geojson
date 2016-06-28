@@ -2,13 +2,14 @@
   "id": 269494625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396911,28.506338,-81.396911,28.506338",
     "geom:latitude":28.506338,
     "geom:longitude":-81.396911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269494625,
-    "wof:lastmodified":1449038714,
+    "wof:lastmodified":1466428677,
     "wof:name":"Service Choice",
     "wof:parent_id":85865203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-81.396911,28.506338,-81.396911,28.506338],
+  "bbox": [
+    -81.396911,
+    28.506338,
+    -81.396911,
+    28.506338
+],
   "geometry": {"coordinates":[-81.396911,28.506338],"type":"Point"}
 }

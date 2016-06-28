@@ -2,13 +2,14 @@
   "id": 203100377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.332108,25.844957,-80.332108,25.844957",
     "geom:latitude":25.844957,
     "geom:longitude":-80.332108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 NW 82nd Pl",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203100377,
-    "wof:lastmodified":1449026364,
+    "wof:lastmodified":1466445291,
     "wof:name":"Municipal Testing Lab Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-80.332108,25.844957,-80.332108,25.844957],
-  "geometry": {"coordinates":[-80.332108,25.844957],"type":"Point"}
+  "bbox": [
+    -80.332108,
+    25.844957,
+    -80.332108,
+    25.844957
+],
+  "geometry": {"coordinates":[-80.33210800000001,25.844957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370384647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245404,25.811634,-80.245404,25.811634",
     "geom:latitude":25.811634,
     "geom:longitude":-80.245404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 NW 40th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370384647,
-    "wof:lastmodified":1449029512,
+    "wof:lastmodified":1466440068,
     "wof:name":"Terners of Miami Corporation",
     "wof:parent_id":85808131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "luggage"
     ]
 },
-  "bbox": [-80.245404,25.811634,-80.245404,25.811634],
-  "geometry": {"coordinates":[-80.245404,25.811634],"type":"Point"}
+  "bbox": [
+    -80.245404,
+    25.811634,
+    -80.245404,
+    25.811634
+],
+  "geometry": {"coordinates":[-80.24540399999999,25.811634],"type":"Point"}
 }

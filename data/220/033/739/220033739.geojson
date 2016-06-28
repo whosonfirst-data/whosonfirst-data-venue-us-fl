@@ -2,13 +2,14 @@
   "id": 220033739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080389,24.692277,-81.080389,24.692277",
     "geom:latitude":24.692277,
     "geom:longitude":-81.080389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Treasure Rd",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220033739,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466444441,
     "wof:name":"Scott Burns MD",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "neurologist"
     ]
 },
-  "bbox": [-81.080389,24.692277,-81.080389,24.692277],
+  "bbox": [
+    -81.080389,
+    24.692277,
+    -81.080389,
+    24.692277
+],
   "geometry": {"coordinates":[-81.080389,24.692277],"type":"Point"}
 }

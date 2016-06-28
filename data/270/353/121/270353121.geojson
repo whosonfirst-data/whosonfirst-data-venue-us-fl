@@ -2,13 +2,14 @@
   "id": 270353121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.198223,25.825291,-80.198223,25.825291",
     "geom:latitude":25.825291,
     "geom:longitude":-80.198223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 NW 54th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270353121,
-    "wof:lastmodified":1449009306,
+    "wof:lastmodified":1466435505,
     "wof:name":"Chicken Plus",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.198223,25.825291,-80.198223,25.825291],
+  "bbox": [
+    -80.198223,
+    25.825291,
+    -80.198223,
+    25.825291
+],
   "geometry": {"coordinates":[-80.198223,25.825291],"type":"Point"}
 }

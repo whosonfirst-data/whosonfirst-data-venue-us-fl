@@ -2,13 +2,14 @@
   "id": 370799789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146189,26.010429,-80.146189,26.010429",
     "geom:latitude":26.010429,
     "geom:longitude":-80.146189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Harrison St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370799789,
-    "wof:lastmodified":1449032489,
+    "wof:lastmodified":1466446544,
     "wof:name":"Precision Dev Solutions",
     "wof:parent_id":85878185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-80.146189,26.010429,-80.146189,26.010429],
-  "geometry": {"coordinates":[-80.146189,26.010429],"type":"Point"}
+  "bbox": [
+    -80.146189,
+    26.010429,
+    -80.146189,
+    26.010429
+],
+  "geometry": {"coordinates":[-80.14618900000001,26.010429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354135683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140606,26.17631,-80.140606,26.17631",
     "geom:latitude":26.17631,
     "geom:longitude":-80.140606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 NE 5th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354135683,
-    "wof:lastmodified":1449066571,
+    "wof:lastmodified":1466438177,
     "wof:name":"Fire Ranger Extinguisher Svc",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-80.140606,26.17631,-80.140606,26.17631],
-  "geometry": {"coordinates":[-80.140606,26.17631],"type":"Point"}
+  "bbox": [
+    -80.140606,
+    26.17631,
+    -80.140606,
+    26.17631
+],
+  "geometry": {"coordinates":[-80.14060600000001,26.17631],"type":"Point"}
 }

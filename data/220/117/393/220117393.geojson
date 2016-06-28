@@ -2,13 +2,14 @@
   "id": 220117393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.554735,29.215773,-82.554735,29.215773",
     "geom:latitude":29.215773,
     "geom:longitude":-82.554735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7951 SE 131st Ave",
     "sg:city":"Morriston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220117393,
-    "wof:lastmodified":1449074601,
+    "wof:lastmodified":1466428453,
     "wof:name":"Silver Dreams",
     "wof:parent_id":85823917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tract"
     ]
 },
-  "bbox": [-82.554735,29.215773,-82.554735,29.215773],
-  "geometry": {"coordinates":[-82.554735,29.215773],"type":"Point"}
+  "bbox": [
+    -82.554735,
+    29.215773,
+    -82.554735,
+    29.215773
+],
+  "geometry": {"coordinates":[-82.55473499999999,29.215773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169737719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.75459,30.335688,-81.75459,30.335688",
     "geom:latitude":30.335688,
     "geom:longitude":-81.75459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6566 Commonwealth Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169737719,
-    "wof:lastmodified":1449033419,
+    "wof:lastmodified":1466446152,
     "wof:name":"Tesla Electric Armature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-81.75459,30.335688,-81.75459,30.335688],
-  "geometry": {"coordinates":[-81.75459,30.335688],"type":"Point"}
+  "bbox": [
+    -81.75459,
+    30.335688,
+    -81.75459,
+    30.335688
+],
+  "geometry": {"coordinates":[-81.75458999999999,30.335688],"type":"Point"}
 }

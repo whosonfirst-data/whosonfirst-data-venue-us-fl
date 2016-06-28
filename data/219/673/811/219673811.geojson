@@ -2,13 +2,14 @@
   "id": 219673811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124507,25.999048,-80.124507,25.999048",
     "geom:latitude":25.999048,
     "geom:longitude":-80.124507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Harbor Island Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219673811,
-    "wof:lastmodified":1449071754,
+    "wof:lastmodified":1466433748,
     "wof:name":"Harbor Island Property Owners",
     "wof:parent_id":85881953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lessor"
     ]
 },
-  "bbox": [-80.124507,25.999048,-80.124507,25.999048],
-  "geometry": {"coordinates":[-80.124507,25.999048],"type":"Point"}
+  "bbox": [
+    -80.124507,
+    25.999048,
+    -80.124507,
+    25.999048
+],
+  "geometry": {"coordinates":[-80.12450699999999,25.999048],"type":"Point"}
 }

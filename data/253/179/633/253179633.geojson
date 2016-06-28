@@ -2,13 +2,14 @@
   "id": 253179633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.21429,28.324844,-82.21429,28.324844",
     "geom:latitude":28.324844,
     "geom:longitude":-82.21429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36441 Lake Pasadena Rd",
     "sg:city":"Dade City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253179633,
-    "wof:lastmodified":1449065477,
+    "wof:lastmodified":1466430403,
     "wof:name":"Pasadena Citrus Service",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-82.21429,28.324844,-82.21429,28.324844],
-  "geometry": {"coordinates":[-82.21429,28.324844],"type":"Point"}
+  "bbox": [
+    -82.21429,
+    28.324844,
+    -82.21429,
+    28.324844
+],
+  "geometry": {"coordinates":[-82.21429000000001,28.324844],"type":"Point"}
 }

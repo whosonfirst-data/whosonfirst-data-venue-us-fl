@@ -2,13 +2,14 @@
   "id": 253323413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.312007,30.381707,-87.312007,30.381707",
     "geom:latitude":30.381707,
     "geom:longitude":-87.312007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Augusta Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253323413,
-    "wof:lastmodified":1449063069,
+    "wof:lastmodified":1466432574,
     "wof:name":"Perdido Quality Fences",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.312007,30.381707,-87.312007,30.381707],
-  "geometry": {"coordinates":[-87.312007,30.381707],"type":"Point"}
+  "bbox": [
+    -87.312007,
+    30.381707,
+    -87.312007,
+    30.381707
+],
+  "geometry": {"coordinates":[-87.31200699999999,30.381707],"type":"Point"}
 }

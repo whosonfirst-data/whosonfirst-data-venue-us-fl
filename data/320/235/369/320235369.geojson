@@ -2,13 +2,14 @@
   "id": 320235369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.471009,27.948833,-82.471009,27.948833",
     "geom:latitude":27.948833,
     "geom:longitude":-82.471009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Gilchrist Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320235369,
-    "wof:lastmodified":1449011902,
+    "wof:lastmodified":1466437410,
     "wof:name":"Fox Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.471009,27.948833,-82.471009,27.948833],
+  "bbox": [
+    -82.471009,
+    27.948833,
+    -82.471009,
+    27.948833
+],
   "geometry": {"coordinates":[-82.471009,27.948833],"type":"Point"}
 }

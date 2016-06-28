@@ -2,13 +2,14 @@
   "id": 269909101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.810665,27.944547,-82.810665,27.944547",
     "geom:latitude":27.944547,
     "geom:longitude":-82.810665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Belleview Blvd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269909101,
-    "wof:lastmodified":1449038180,
+    "wof:lastmodified":1466435987,
     "wof:name":"Round World",
     "wof:parent_id":85888673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.810665,27.944547,-82.810665,27.944547],
+  "bbox": [
+    -82.810665,
+    27.944547,
+    -82.810665,
+    27.944547
+],
   "geometry": {"coordinates":[-82.810665,27.944547],"type":"Point"}
 }

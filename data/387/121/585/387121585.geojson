@@ -2,13 +2,14 @@
   "id": 387121585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31238,25.777343,-80.31238,25.777343",
     "geom:latitude":25.777343,
     "geom:longitude":-80.31238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 NW 72nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387121585,
-    "wof:lastmodified":1449059077,
+    "wof:lastmodified":1466440575,
     "wof:name":"Created Point Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-80.31238,25.777343,-80.31238,25.777343],
+  "bbox": [
+    -80.31238,
+    25.777343,
+    -80.31238,
+    25.777343
+],
   "geometry": {"coordinates":[-80.31238,25.777343],"type":"Point"}
 }

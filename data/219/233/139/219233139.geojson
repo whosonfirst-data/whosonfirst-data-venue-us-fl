@@ -2,13 +2,14 @@
   "id": 219233139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.43398,26.438415,-81.43398,26.438415",
     "geom:latitude":26.438415,
     "geom:longitude":-81.43398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N 15th St",
     "sg:city":"Immokalee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219233139,
-    "wof:lastmodified":1449073983,
+    "wof:lastmodified":1466445116,
     "wof:name":"Boardman & Spiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.43398,26.438415,-81.43398,26.438415],
-  "geometry": {"coordinates":[-81.43398,26.438415],"type":"Point"}
+  "bbox": [
+    -81.43398,
+    26.438415,
+    -81.43398,
+    26.438415
+],
+  "geometry": {"coordinates":[-81.43398000000001,26.438415],"type":"Point"}
 }

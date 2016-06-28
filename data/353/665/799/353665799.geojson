@@ -2,13 +2,14 @@
   "id": 353665799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113205,26.624942,-80.113205,26.624942",
     "geom:latitude":26.624942,
     "geom:longitude":-80.113205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3546 S Military Trl",
     "sg:city":"Lake Worth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353665799,
-    "wof:lastmodified":1449019041,
+    "wof:lastmodified":1466438826,
     "wof:name":"Custom Residential Pump Svc",
     "wof:parent_id":85840297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-80.113205,26.624942,-80.113205,26.624942],
-  "geometry": {"coordinates":[-80.113205,26.624942],"type":"Point"}
+  "bbox": [
+    -80.113205,
+    26.624942,
+    -80.113205,
+    26.624942
+],
+  "geometry": {"coordinates":[-80.11320499999999,26.624942],"type":"Point"}
 }

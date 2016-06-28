@@ -2,13 +2,14 @@
   "id": 304049653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158823,25.905939,-80.158823,25.905939",
     "geom:latitude":25.905939,
     "geom:longitude":-80.158823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14060 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304049653,
-    "wof:lastmodified":1449043859,
+    "wof:lastmodified":1466432683,
     "wof:name":"411global",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "software"
     ]
 },
-  "bbox": [-80.158823,25.905939,-80.158823,25.905939],
+  "bbox": [
+    -80.158823,
+    25.905939,
+    -80.158823,
+    25.905939
+],
   "geometry": {"coordinates":[-80.158823,25.905939],"type":"Point"}
 }

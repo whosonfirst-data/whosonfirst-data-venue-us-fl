@@ -2,13 +2,14 @@
   "id": 387640727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195391,25.811785,-80.195391,25.811785",
     "geom:latitude":25.811785,
     "geom:longitude":-80.195391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 NE 38th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387640727,
-    "wof:lastmodified":1449057759,
+    "wof:lastmodified":1466447843,
     "wof:name":"Real Estate Related",
     "wof:parent_id":85882175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.195391,25.811785,-80.195391,25.811785],
+  "bbox": [
+    -80.195391,
+    25.811785,
+    -80.195391,
+    25.811785
+],
   "geometry": {"coordinates":[-80.195391,25.811785],"type":"Point"}
 }

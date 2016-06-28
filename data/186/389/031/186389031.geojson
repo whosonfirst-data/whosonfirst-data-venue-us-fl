@@ -2,13 +2,14 @@
   "id": 186389031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.355257,30.46766,-84.355257,30.46766",
     "geom:latitude":30.46766,
     "geom:longitude":-84.355257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 Peddie Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186389031,
-    "wof:lastmodified":1449052460,
+    "wof:lastmodified":1466431376,
     "wof:name":"Climatic Comfort Products",
     "wof:parent_id":85881329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-84.355257,30.46766,-84.355257,30.46766],
-  "geometry": {"coordinates":[-84.355257,30.46766],"type":"Point"}
+  "bbox": [
+    -84.355257,
+    30.46766,
+    -84.355257,
+    30.46766
+],
+  "geometry": {"coordinates":[-84.35525699999999,30.46766],"type":"Point"}
 }

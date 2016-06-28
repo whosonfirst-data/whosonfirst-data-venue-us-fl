@@ -2,13 +2,14 @@
   "id": 185716591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.492452,27.280836,-82.492452,27.280836",
     "geom:latitude":27.280836,
     "geom:longitude":-82.492452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3854 Malec Cir",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185716591,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1466445668,
     "wof:name":"Resource Liquidation",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquidator"
     ]
 },
-  "bbox": [-82.492452,27.280836,-82.492452,27.280836],
+  "bbox": [
+    -82.492452,
+    27.280836,
+    -82.492452,
+    27.280836
+],
   "geometry": {"coordinates":[-82.492452,27.280836],"type":"Point"}
 }

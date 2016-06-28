@@ -2,13 +2,14 @@
   "id": 220148691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.23547,28.880153,-81.23547,28.880153",
     "geom:latitude":28.880153,
     "geom:longitude":-81.23547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 Randolph St",
     "sg:city":"Deltona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220148691,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466428900,
     "wof:name":"Handi-Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.23547,28.880153,-81.23547,28.880153],
-  "geometry": {"coordinates":[-81.23547,28.880153],"type":"Point"}
+  "bbox": [
+    -81.23547,
+    28.880153,
+    -81.23547,
+    28.880153
+],
+  "geometry": {"coordinates":[-81.23547000000001,28.880153],"type":"Point"}
 }

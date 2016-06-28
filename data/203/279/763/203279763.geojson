@@ -2,13 +2,14 @@
   "id": 203279763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.60405,30.411772,-86.60405,30.411772",
     "geom:latitude":30.411772,
     "geom:longitude":-86.60405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Eglin Pkwy S",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203279763,
-    "wof:lastmodified":1449025783,
+    "wof:lastmodified":1466429917,
     "wof:name":"First Appraisal Inc",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-86.60405,30.411772,-86.60405,30.411772],
+  "bbox": [
+    -86.60405,
+    30.411772,
+    -86.60405,
+    30.411772
+],
   "geometry": {"coordinates":[-86.60405,30.411772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253509385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.614499,28.848801,-81.614499,28.848801",
     "geom:latitude":28.848801,
     "geom:longitude":-81.614499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 Britt Rd",
     "sg:city":"Mount Dora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253509385,
-    "wof:lastmodified":1449062945,
+    "wof:lastmodified":1466435778,
     "wof:name":"Central Florida Equine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.614499,28.848801,-81.614499,28.848801],
+  "bbox": [
+    -81.614499,
+    28.848801,
+    -81.614499,
+    28.848801
+],
   "geometry": {"coordinates":[-81.614499,28.848801],"type":"Point"}
 }

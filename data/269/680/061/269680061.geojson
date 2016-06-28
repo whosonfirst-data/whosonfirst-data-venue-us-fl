@@ -2,13 +2,14 @@
   "id": 269680061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334601,25.744568,-80.334601,25.744568",
     "geom:latitude":25.744568,
     "geom:longitude":-80.334601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8511 SW 27th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":269680061,
-    "wof:lastmodified":1449037822,
+    "wof:lastmodified":1466432005,
     "wof:name":"El Conde Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.334601,25.744568,-80.334601,25.744568],
-  "geometry": {"coordinates":[-80.334601,25.744568],"type":"Point"}
+  "bbox": [
+    -80.334601,
+    25.744568,
+    -80.334601,
+    25.744568
+],
+  "geometry": {"coordinates":[-80.33460100000001,25.744568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403877119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136986,26.108336,-80.136986,26.108336",
     "geom:latitude":26.108336,
     "geom:longitude":-80.136986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 S Federal Hwy",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403877119,
-    "wof:lastmodified":1449055543,
+    "wof:lastmodified":1466442367,
     "wof:name":"24 Hour A Emergency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-80.136986,26.108336,-80.136986,26.108336],
-  "geometry": {"coordinates":[-80.136986,26.108336],"type":"Point"}
+  "bbox": [
+    -80.136986,
+    26.108336,
+    -80.136986,
+    26.108336
+],
+  "geometry": {"coordinates":[-80.13698599999999,26.108336],"type":"Point"}
 }

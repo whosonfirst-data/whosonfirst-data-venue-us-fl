@@ -2,13 +2,14 @@
   "id": 303647093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.412319,25.454088,-80.412319,25.454088",
     "geom:latitude":25.454088,
     "geom:longitude":-80.412319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Speedway Blvd",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303647093,
-    "wof:lastmodified":1448999277,
+    "wof:lastmodified":1466441658,
     "wof:name":"Homestead Miami Speedway",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.412319,25.454088,-80.412319,25.454088],
+  "bbox": [
+    -80.412319,
+    25.454088,
+    -80.412319,
+    25.454088
+],
   "geometry": {"coordinates":[-80.412319,25.454088],"type":"Point"}
 }

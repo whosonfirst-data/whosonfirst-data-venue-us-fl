@@ -2,13 +2,14 @@
   "id": 236065625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.787055,27.849669,-82.787055,27.849669",
     "geom:latitude":27.849669,
     "geom:longitude":-82.787055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8383 Seminole Blvd",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236065625,
-    "wof:lastmodified":1449005203,
+    "wof:lastmodified":1466429309,
     "wof:name":"Home Income Tax Svc",
     "wof:parent_id":85889597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.787055,27.849669,-82.787055,27.849669],
+  "bbox": [
+    -82.787055,
+    27.849669,
+    -82.787055,
+    27.849669
+],
   "geometry": {"coordinates":[-82.787055,27.849669],"type":"Point"}
 }

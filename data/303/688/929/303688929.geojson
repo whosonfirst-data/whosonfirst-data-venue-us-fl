@@ -2,13 +2,14 @@
   "id": 303688929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.351909,28.352275,-81.351909,28.352275",
     "geom:latitude":28.352275,
     "geom:longitude":-81.351909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 Caribou Hunt Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303688929,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466442418,
     "wof:name":"All Temp AC & Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-81.351909,28.352275,-81.351909,28.352275],
-  "geometry": {"coordinates":[-81.351909,28.352275],"type":"Point"}
+  "bbox": [
+    -81.351909,
+    28.352275,
+    -81.351909,
+    28.352275
+],
+  "geometry": {"coordinates":[-81.35190900000001,28.352275],"type":"Point"}
 }

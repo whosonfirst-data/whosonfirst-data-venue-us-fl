@@ -2,13 +2,14 @@
   "id": 270300587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.310015,28.673826,-81.310015,28.673826",
     "geom:latitude":28.673826,
     "geom:longitude":-81.310015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Lake Dr",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270300587,
-    "wof:lastmodified":1449010030,
+    "wof:lastmodified":1466434601,
     "wof:name":"X Marks Spot",
     "wof:parent_id":85831315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.310015,28.673826,-81.310015,28.673826],
-  "geometry": {"coordinates":[-81.310015,28.673826],"type":"Point"}
+  "bbox": [
+    -81.310015,
+    28.673826,
+    -81.310015,
+    28.673826
+],
+  "geometry": {"coordinates":[-81.31001500000001,28.673826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287243611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.378949,28.511022,-81.378949,28.511022",
     "geom:latitude":28.511022,
     "geom:longitude":-81.378949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 W Illiana St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287243611,
-    "wof:lastmodified":1449000947,
+    "wof:lastmodified":1466434149,
     "wof:name":"Orlando Commissary",
     "wof:parent_id":85889383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "hall"
     ]
 },
-  "bbox": [-81.378949,28.511022,-81.378949,28.511022],
-  "geometry": {"coordinates":[-81.378949,28.511022],"type":"Point"}
+  "bbox": [
+    -81.378949,
+    28.511022,
+    -81.378949,
+    28.511022
+],
+  "geometry": {"coordinates":[-81.37894900000001,28.511022],"type":"Point"}
 }

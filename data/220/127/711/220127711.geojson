@@ -2,13 +2,14 @@
   "id": 220127711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23596,25.809164,-80.23596,25.809164",
     "geom:latitude":25.809164,
     "geom:longitude":-80.23596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 NW 36th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220127711,
-    "wof:lastmodified":1449074814,
+    "wof:lastmodified":1466428608,
     "wof:name":"Rogelio Iglesias MD",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.23596,25.809164,-80.23596,25.809164],
-  "geometry": {"coordinates":[-80.23596,25.809164],"type":"Point"}
+  "bbox": [
+    -80.23596,
+    25.809164,
+    -80.23596,
+    25.809164
+],
+  "geometry": {"coordinates":[-80.23596000000001,25.809164],"type":"Point"}
 }

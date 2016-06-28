@@ -2,13 +2,14 @@
   "id": 270124691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623343,30.265255,-81.623343,30.265255",
     "geom:latitude":30.265255,
     "geom:longitude":-81.623343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Powers Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270124691,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466431574,
     "wof:name":"R E Michel Co Inc",
     "wof:parent_id":85818119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.623343,30.265255,-81.623343,30.265255],
-  "geometry": {"coordinates":[-81.623343,30.265255],"type":"Point"}
+  "bbox": [
+    -81.623343,
+    30.265255,
+    -81.623343,
+    30.265255
+],
+  "geometry": {"coordinates":[-81.62334300000001,30.265255],"type":"Point"}
 }

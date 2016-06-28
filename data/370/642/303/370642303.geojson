@@ -2,13 +2,14 @@
   "id": 370642303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.769313,26.138408,-81.769313,26.138408",
     "geom:latitude":26.138408,
     "geom:longitude":-81.769313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3196 Davis Blvd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370642303,
-    "wof:lastmodified":1449029276,
+    "wof:lastmodified":1466444024,
     "wof:name":"Thrift Store",
     "wof:parent_id":85889233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.769313,26.138408,-81.769313,26.138408],
+  "bbox": [
+    -81.769313,
+    26.138408,
+    -81.769313,
+    26.138408
+],
   "geometry": {"coordinates":[-81.769313,26.138408],"type":"Point"}
 }

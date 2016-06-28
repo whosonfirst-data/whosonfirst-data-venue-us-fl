@@ -2,13 +2,14 @@
   "id": 202711443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.63649,29.64849,-81.63649,29.64849",
     "geom:latitude":29.64849,
     "geom:longitude":-81.63649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Reid St",
     "sg:city":"Palatka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202711443,
-    "wof:lastmodified":1449062202,
+    "wof:lastmodified":1466431126,
     "wof:name":"Speedy Cash",
     "wof:parent_id":85831699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.63649,29.64849,-81.63649,29.64849],
-  "geometry": {"coordinates":[-81.63649,29.64849],"type":"Point"}
+  "bbox": [
+    -81.63649,
+    29.64849,
+    -81.63649,
+    29.64849
+],
+  "geometry": {"coordinates":[-81.63648999999999,29.64849],"type":"Point"}
 }

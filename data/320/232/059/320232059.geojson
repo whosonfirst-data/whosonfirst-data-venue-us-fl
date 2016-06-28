@@ -2,13 +2,14 @@
   "id": 320232059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154936,26.456192,-80.154936,26.456192",
     "geom:latitude":26.456192,
     "geom:longitude":-80.154936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14797 Cumberland Dr",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320232059,
-    "wof:lastmodified":1449012475,
+    "wof:lastmodified":1466437354,
     "wof:name":"LJR Transport Inc",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporter"
     ]
 },
-  "bbox": [-80.154936,26.456192,-80.154936,26.456192],
-  "geometry": {"coordinates":[-80.154936,26.456192],"type":"Point"}
+  "bbox": [
+    -80.154936,
+    26.456192,
+    -80.154936,
+    26.456192
+],
+  "geometry": {"coordinates":[-80.15493600000001,26.456192],"type":"Point"}
 }

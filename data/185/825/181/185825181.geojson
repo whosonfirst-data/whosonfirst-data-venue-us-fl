@@ -2,13 +2,14 @@
   "id": 185825181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354584,25.811581,-80.354584,25.811581",
     "geom:latitude":25.811581,
     "geom:longitude":-80.354584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 NW 41st St",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":185825181,
-    "wof:lastmodified":1449006638,
+    "wof:lastmodified":1466429252,
     "wof:name":"Seitlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.354584,25.811581,-80.354584,25.811581],
+  "bbox": [
+    -80.354584,
+    25.811581,
+    -80.354584,
+    25.811581
+],
   "geometry": {"coordinates":[-80.354584,25.811581],"type":"Point"}
 }

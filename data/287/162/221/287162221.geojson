@@ -2,13 +2,14 @@
   "id": 287162221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.32541,26.033287,-80.32541,26.033287",
     "geom:latitude":26.033287,
     "geom:longitude":-80.32541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13291 Mustang Trl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287162221,
-    "wof:lastmodified":1449001440,
+    "wof:lastmodified":1466432705,
     "wof:name":"Tharp Glory",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.32541,26.033287,-80.32541,26.033287],
-  "geometry": {"coordinates":[-80.32541,26.033287],"type":"Point"}
+  "bbox": [
+    -80.32541,
+    26.033287,
+    -80.32541,
+    26.033287
+],
+  "geometry": {"coordinates":[-80.32541000000001,26.033287],"type":"Point"}
 }

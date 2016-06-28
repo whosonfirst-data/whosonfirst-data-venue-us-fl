@@ -2,13 +2,14 @@
   "id": 303900027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.75553,28.129179,-82.75553,28.129179",
     "geom:latitude":28.129179,
     "geom:longitude":-82.75553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 Meadow Oak Ln",
     "sg:city":"Tarpon Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303900027,
-    "wof:lastmodified":1448999172,
+    "wof:lastmodified":1466446057,
     "wof:name":"West Coast Cellular Acces",
     "wof:parent_id":85812609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-82.75553,28.129179,-82.75553,28.129179],
-  "geometry": {"coordinates":[-82.75553,28.129179],"type":"Point"}
+  "bbox": [
+    -82.75553,
+    28.129179,
+    -82.75553,
+    28.129179
+],
+  "geometry": {"coordinates":[-82.75552999999999,28.129179],"type":"Point"}
 }

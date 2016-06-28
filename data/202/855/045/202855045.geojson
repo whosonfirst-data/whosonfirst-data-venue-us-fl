@@ -2,13 +2,14 @@
   "id": 202855045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.578749,30.22725,-81.578749,30.22725",
     "geom:latitude":30.22725,
     "geom:longitude":-81.578749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8663 Baypine Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202855045,
-    "wof:lastmodified":1449061971,
+    "wof:lastmodified":1466432994,
     "wof:name":"JDS Mortgage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.578749,30.22725,-81.578749,30.22725],
+  "bbox": [
+    -81.578749,
+    30.22725,
+    -81.578749,
+    30.22725
+],
   "geometry": {"coordinates":[-81.578749,30.22725],"type":"Point"}
 }

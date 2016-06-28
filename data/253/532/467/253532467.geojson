@@ -2,13 +2,14 @@
   "id": 253532467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191523,25.811889,-80.191523,25.811889",
     "geom:latitude":25.811889,
     "geom:longitude":-80.191523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 NE 38th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253532467,
-    "wof:lastmodified":1449063815,
+    "wof:lastmodified":1466436182,
     "wof:name":"Design 05 Miami",
     "wof:parent_id":85882175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-80.191523,25.811889,-80.191523,25.811889],
+  "bbox": [
+    -80.191523,
+    25.811889,
+    -80.191523,
+    25.811889
+],
   "geometry": {"coordinates":[-80.191523,25.811889],"type":"Point"}
 }

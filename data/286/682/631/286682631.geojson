@@ -2,13 +2,14 @@
   "id": 286682631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.66249,30.067143,-81.66249,30.067143",
     "geom:latitude":30.067143,
     "geom:longitude":-81.66249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Hickory Acres Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286682631,
-    "wof:lastmodified":1449015666,
+    "wof:lastmodified":1466437029,
     "wof:name":"Waters Brothers Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.66249,30.067143,-81.66249,30.067143],
-  "geometry": {"coordinates":[-81.66249,30.067143],"type":"Point"}
+  "bbox": [
+    -81.66249,
+    30.067143,
+    -81.66249,
+    30.067143
+],
+  "geometry": {"coordinates":[-81.66249000000001,30.067143],"type":"Point"}
 }

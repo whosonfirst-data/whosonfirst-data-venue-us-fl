@@ -2,13 +2,14 @@
   "id": 286938497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.348888,25.610586,-80.348888,25.610586",
     "geom:latitude":25.610586,
     "geom:longitude":-80.348888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17220 Dixie Hwy",
     "sg:city":"Palmetto Bay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286938497,
-    "wof:lastmodified":1449017378,
+    "wof:lastmodified":1466441599,
     "wof:name":"CNAC Carnow Acceptance",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-80.348888,25.610586,-80.348888,25.610586],
+  "bbox": [
+    -80.348888,
+    25.610586,
+    -80.348888,
+    25.610586
+],
   "geometry": {"coordinates":[-80.348888,25.610586],"type":"Point"}
 }

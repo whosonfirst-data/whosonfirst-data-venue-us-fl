@@ -2,13 +2,14 @@
   "id": 186220281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.208845,28.574492,-81.208845,28.574492",
     "geom:latitude":28.574492,
     "geom:longitude":-81.208845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Lancien Ct",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186220281,
-    "wof:lastmodified":1449052942,
+    "wof:lastmodified":1466429338,
     "wof:name":"Image Ready",
     "wof:parent_id":85889361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.208845,28.574492,-81.208845,28.574492],
+  "bbox": [
+    -81.208845,
+    28.574492,
+    -81.208845,
+    28.574492
+],
   "geometry": {"coordinates":[-81.208845,28.574492],"type":"Point"}
 }

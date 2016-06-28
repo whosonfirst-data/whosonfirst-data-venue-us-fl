@@ -2,13 +2,14 @@
   "id": 169847907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.540191,28.312801,-81.540191,28.312801",
     "geom:latitude":28.312801,
     "geom:longitude":-81.540191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Bloom St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169847907,
-    "wof:lastmodified":1449033893,
+    "wof:lastmodified":1466429543,
     "wof:name":"Barnie's Coffee & Tea Co",
     "wof:parent_id":85889321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "appliance"
     ]
 },
-  "bbox": [-81.540191,28.312801,-81.540191,28.312801],
-  "geometry": {"coordinates":[-81.540191,28.312801],"type":"Point"}
+  "bbox": [
+    -81.540191,
+    28.312801,
+    -81.540191,
+    28.312801
+],
+  "geometry": {"coordinates":[-81.54019099999999,28.312801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319884553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.812627,26.198348,-81.812627,26.198348",
     "geom:latitude":26.198348,
     "geom:longitude":-81.812627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319884553,
-    "wof:lastmodified":1449024734,
+    "wof:lastmodified":1466433944,
     "wof:name":"Oh Mango",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.812627,26.198348,-81.812627,26.198348],
-  "geometry": {"coordinates":[-81.812627,26.198348],"type":"Point"}
+  "bbox": [
+    -81.812627,
+    26.198348,
+    -81.812627,
+    26.198348
+],
+  "geometry": {"coordinates":[-81.81262700000001,26.198348],"type":"Point"}
 }

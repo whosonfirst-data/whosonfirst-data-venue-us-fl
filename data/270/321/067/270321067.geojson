@@ -2,13 +2,14 @@
   "id": 270321067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517761,27.521882,-82.517761,27.521882",
     "geom:latitude":27.521882,
     "geom:longitude":-82.517761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 US Hwy 301",
     "sg:city":"Ellenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270321067,
-    "wof:lastmodified":1449008719,
+    "wof:lastmodified":1466434951,
     "wof:name":"Hickory Hollow Barbeque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.517761,27.521882,-82.517761,27.521882],
-  "geometry": {"coordinates":[-82.517761,27.521882],"type":"Point"}
+  "bbox": [
+    -82.517761,
+    27.521882,
+    -82.517761,
+    27.521882
+],
+  "geometry": {"coordinates":[-82.51776099999999,27.521882],"type":"Point"}
 }

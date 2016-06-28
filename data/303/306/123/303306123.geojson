@@ -2,13 +2,14 @@
   "id": 303306123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.737945,28.324357,-80.737945,28.324357",
     "geom:latitude":28.324357,
     "geom:longitude":-80.737945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Cedar St",
     "sg:city":"Rockledge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303306123,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466435816,
     "wof:name":"Public Safety Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.737945,28.324357,-80.737945,28.324357],
+  "bbox": [
+    -80.737945,
+    28.324357,
+    -80.737945,
+    28.324357
+],
   "geometry": {"coordinates":[-80.737945,28.324357],"type":"Point"}
 }

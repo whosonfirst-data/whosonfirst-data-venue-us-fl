@@ -2,13 +2,14 @@
   "id": 236260923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.664549,28.407002,-80.664549,28.407002",
     "geom:latitude":28.407002,
     "geom:longitude":-80.664549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Dover Ave",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236260923,
-    "wof:lastmodified":1449002088,
+    "wof:lastmodified":1466432105,
     "wof:name":"Coastal Ship Repair",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "repairer"
     ]
 },
-  "bbox": [-80.664549,28.407002,-80.664549,28.407002],
-  "geometry": {"coordinates":[-80.664549,28.407002],"type":"Point"}
+  "bbox": [
+    -80.664549,
+    28.407002,
+    -80.664549,
+    28.407002
+],
+  "geometry": {"coordinates":[-80.66454899999999,28.407002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370920903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.941325,28.944308,-81.941325,28.944308",
     "geom:latitude":28.944308,
     "geom:longitude":-81.941325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Weeping Willow Ave",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370920903,
-    "wof:lastmodified":1449031715,
+    "wof:lastmodified":1466447670,
     "wof:name":"Patrician Golf & Such",
     "wof:parent_id":85888961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rent"
     ]
 },
-  "bbox": [-81.941325,28.944308,-81.941325,28.944308],
-  "geometry": {"coordinates":[-81.941325,28.944308],"type":"Point"}
+  "bbox": [
+    -81.941325,
+    28.944308,
+    -81.941325,
+    28.944308
+],
+  "geometry": {"coordinates":[-81.94132500000001,28.944308],"type":"Point"}
 }

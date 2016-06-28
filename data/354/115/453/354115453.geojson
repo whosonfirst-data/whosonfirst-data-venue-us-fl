@@ -2,13 +2,14 @@
   "id": 354115453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314793,25.726468,-80.314793,25.726468",
     "geom:latitude":25.726468,
     "geom:longitude":-80.314793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 SW 74th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354115453,
-    "wof:lastmodified":1449065916,
+    "wof:lastmodified":1466437869,
     "wof:name":"Cuellar Construction & Drywall",
     "wof:parent_id":85865497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.314793,25.726468,-80.314793,25.726468],
-  "geometry": {"coordinates":[-80.314793,25.726468],"type":"Point"}
+  "bbox": [
+    -80.314793,
+    25.726468,
+    -80.314793,
+    25.726468
+],
+  "geometry": {"coordinates":[-80.31479299999999,25.726468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370772879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160868,25.898864,-80.160868,25.898864",
     "geom:latitude":25.898864,
     "geom:longitude":-80.160868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13499 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370772879,
-    "wof:lastmodified":1449030612,
+    "wof:lastmodified":1466446039,
     "wof:name":"Geir Communications",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.160868,25.898864,-80.160868,25.898864],
-  "geometry": {"coordinates":[-80.160868,25.898864],"type":"Point"}
+  "bbox": [
+    -80.160868,
+    25.898864,
+    -80.160868,
+    25.898864
+],
+  "geometry": {"coordinates":[-80.16086799999999,25.898864],"type":"Point"}
 }

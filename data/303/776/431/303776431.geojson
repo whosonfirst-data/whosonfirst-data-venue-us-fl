@@ -2,13 +2,14 @@
   "id": 303776431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.445028,28.527891,-81.445028,28.527891",
     "geom:latitude":28.527891,
     "geom:longitude":-81.445028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4873 Raleigh St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303776431,
-    "wof:lastmodified":1448998646,
+    "wof:lastmodified":1466443906,
     "wof:name":"Sanford & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-81.445028,28.527891,-81.445028,28.527891],
-  "geometry": {"coordinates":[-81.445028,28.527891],"type":"Point"}
+  "bbox": [
+    -81.445028,
+    28.527891,
+    -81.445028,
+    28.527891
+],
+  "geometry": {"coordinates":[-81.44502799999999,28.527891],"type":"Point"}
 }

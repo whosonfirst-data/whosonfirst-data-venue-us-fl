@@ -2,13 +2,14 @@
   "id": 202514345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.643871,30.303286,-81.643871,30.303286",
     "geom:latitude":30.303286,
     "geom:longitude":-81.643871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202514345,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466428536,
     "wof:name":"Wing Stop",
     "wof:parent_id":85841485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.643871,30.303286,-81.643871,30.303286],
+  "bbox": [
+    -81.643871,
+    30.303286,
+    -81.643871,
+    30.303286
+],
   "geometry": {"coordinates":[-81.643871,30.303286],"type":"Point"}
 }

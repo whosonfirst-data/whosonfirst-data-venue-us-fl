@@ -2,13 +2,14 @@
   "id": 270358117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31319,26.051188,-80.31319,26.051188",
     "geom:latitude":26.051188,
     "geom:longitude":-80.31319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5810 S Flamingo Rd",
     "sg:city":"Cooper City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270358117,
-    "wof:lastmodified":1449009672,
+    "wof:lastmodified":1466435593,
     "wof:name":"Countryside Dental Associates",
     "wof:parent_id":85851607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.31319,26.051188,-80.31319,26.051188],
-  "geometry": {"coordinates":[-80.31319,26.051188],"type":"Point"}
+  "bbox": [
+    -80.31319,
+    26.051188,
+    -80.31319,
+    26.051188
+],
+  "geometry": {"coordinates":[-80.31319000000001,26.051188],"type":"Point"}
 }

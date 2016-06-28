@@ -2,13 +2,14 @@
   "id": 320739235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131777,26.141955,-80.131777,26.141955",
     "geom:latitude":26.141955,
     "geom:longitude":-80.131777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 NE 12th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320739235,
-    "wof:lastmodified":1449012831,
+    "wof:lastmodified":1466446163,
     "wof:name":"ABS Locksmith",
     "wof:parent_id":85877507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locksmith"
     ]
 },
-  "bbox": [-80.131777,26.141955,-80.131777,26.141955],
+  "bbox": [
+    -80.131777,
+    26.141955,
+    -80.131777,
+    26.141955
+],
   "geometry": {"coordinates":[-80.131777,26.141955],"type":"Point"}
 }

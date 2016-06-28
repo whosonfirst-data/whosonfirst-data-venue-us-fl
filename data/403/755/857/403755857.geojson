@@ -2,13 +2,14 @@
   "id": 403755857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623345,30.170604,-81.623345,30.170604",
     "geom:latitude":30.170604,
     "geom:longitude":-81.623345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3363 Laurel Grove S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403755857,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1466440415,
     "wof:name":"Sally's Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-81.623345,30.170604,-81.623345,30.170604],
+  "bbox": [
+    -81.623345,
+    30.170604,
+    -81.623345,
+    30.170604
+],
   "geometry": {"coordinates":[-81.623345,30.170604],"type":"Point"}
 }

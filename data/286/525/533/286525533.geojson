@@ -2,13 +2,14 @@
   "id": 286525533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.399256,30.221451,-81.399256,30.221451",
     "geom:latitude":30.221451,
     "geom:longitude":-81.399256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Greencrest Dr",
     "sg:city":"Ponte Vedra Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286525533,
-    "wof:lastmodified":1449017514,
+    "wof:lastmodified":1466434206,
     "wof:name":"Lawnsmith Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.399256,30.221451,-81.399256,30.221451],
-  "geometry": {"coordinates":[-81.399256,30.221451],"type":"Point"}
+  "bbox": [
+    -81.399256,
+    30.221451,
+    -81.399256,
+    30.221451
+],
+  "geometry": {"coordinates":[-81.39925599999999,30.221451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320379267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.32344,28.758171,-81.32344,28.758171",
     "geom:latitude":28.758171,
     "geom:longitude":-81.32344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 W Lakeview Ave",
     "sg:city":"Lake Mary",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320379267,
-    "wof:lastmodified":1449013432,
+    "wof:lastmodified":1466439881,
     "wof:name":"Frazier Firm",
     "wof:parent_id":85831111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.32344,28.758171,-81.32344,28.758171],
-  "geometry": {"coordinates":[-81.32344,28.758171],"type":"Point"}
+  "bbox": [
+    -81.32344,
+    28.758171,
+    -81.32344,
+    28.758171
+],
+  "geometry": {"coordinates":[-81.32344000000001,28.758171],"type":"Point"}
 }

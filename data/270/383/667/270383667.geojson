@@ -2,13 +2,14 @@
   "id": 270383667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.181109,26.101566,-80.181109,26.101566",
     "geom:latitude":26.101566,
     "geom:longitude":-80.181109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 SW 28th Way",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270383667,
-    "wof:lastmodified":1449009681,
+    "wof:lastmodified":1466436018,
     "wof:name":"L&C Custom Marine",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.181109,26.101566,-80.181109,26.101566],
-  "geometry": {"coordinates":[-80.181109,26.101566],"type":"Point"}
+  "bbox": [
+    -80.181109,
+    26.101566,
+    -80.181109,
+    26.101566
+],
+  "geometry": {"coordinates":[-80.18110900000001,26.101566],"type":"Point"}
 }

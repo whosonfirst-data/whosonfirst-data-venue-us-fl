@@ -2,13 +2,14 @@
   "id": 270046383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.383806,25.809956,-80.383806,25.809956",
     "geom:latitude":25.809956,
     "geom:longitude":-80.383806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 NW 115th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":270046383,
-    "wof:lastmodified":1449009996,
+    "wof:lastmodified":1466430251,
     "wof:name":"DARK CROWN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.383806,25.809956,-80.383806,25.809956],
-  "geometry": {"coordinates":[-80.383806,25.809956],"type":"Point"}
+  "bbox": [
+    -80.383806,
+    25.809956,
+    -80.383806,
+    25.809956
+],
+  "geometry": {"coordinates":[-80.38380600000001,25.809956],"type":"Point"}
 }

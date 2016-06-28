@@ -2,13 +2,14 @@
   "id": 186031265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.601104,30.245322,-81.601104,30.245322",
     "geom:latitude":30.245322,
     "geom:longitude":-81.601104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7071 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186031265,
-    "wof:lastmodified":1449051375,
+    "wof:lastmodified":1466443337,
     "wof:name":"Shell First Coast Energy",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-81.601104,30.245322,-81.601104,30.245322],
-  "geometry": {"coordinates":[-81.601104,30.245322],"type":"Point"}
+  "bbox": [
+    -81.601104,
+    30.245322,
+    -81.601104,
+    30.245322
+],
+  "geometry": {"coordinates":[-81.60110400000001,30.245322],"type":"Point"}
 }

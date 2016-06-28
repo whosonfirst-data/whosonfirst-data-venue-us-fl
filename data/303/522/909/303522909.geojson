@@ -2,13 +2,14 @@
   "id": 303522909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.857165,29.662211,-82.857165,29.662211",
     "geom:latitude":29.662211,
     "geom:longitude":-82.857165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5169 SW Co Rd 307",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303522909,
-    "wof:lastmodified":1448999285,
+    "wof:lastmodified":1466439556,
     "wof:name":"George Jones",
     "wof:parent_id":85889847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-82.857165,29.662211,-82.857165,29.662211],
-  "geometry": {"coordinates":[-82.857165,29.662211],"type":"Point"}
+  "bbox": [
+    -82.857165,
+    29.662211,
+    -82.857165,
+    29.662211
+],
+  "geometry": {"coordinates":[-82.85716499999999,29.662211],"type":"Point"}
 }

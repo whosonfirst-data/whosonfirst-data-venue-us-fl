@@ -2,13 +2,14 @@
   "id": 252998263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.602117,30.334825,-81.602117,30.334825",
     "geom:latitude":30.334825,
     "geom:longitude":-81.602117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5631 Commerce St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252998263,
-    "wof:lastmodified":1449005763,
+    "wof:lastmodified":1466432618,
     "wof:name":"Ethiopian Orthodox Church",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.602117,30.334825,-81.602117,30.334825],
-  "geometry": {"coordinates":[-81.602117,30.334825],"type":"Point"}
+  "bbox": [
+    -81.602117,
+    30.334825,
+    -81.602117,
+    30.334825
+],
+  "geometry": {"coordinates":[-81.60211700000001,30.334825],"type":"Point"}
 }

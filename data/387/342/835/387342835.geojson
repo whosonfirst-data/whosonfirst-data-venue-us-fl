@@ -2,13 +2,14 @@
   "id": 387342835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893205,30.61843,-86.893205,30.61843",
     "geom:latitude":30.61843,
     "geom:longitude":-86.893205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5069 Pauline St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387342835,
-    "wof:lastmodified":1449059649,
+    "wof:lastmodified":1466443984,
     "wof:name":"Hatcher Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-86.893205,30.61843,-86.893205,30.61843],
-  "geometry": {"coordinates":[-86.893205,30.61843],"type":"Point"}
+  "bbox": [
+    -86.893205,
+    30.61843,
+    -86.893205,
+    30.61843
+],
+  "geometry": {"coordinates":[-86.89320499999999,30.61843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336630299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123381,26.450738,-80.123381,26.450738",
     "geom:latitude":26.450738,
     "geom:longitude":-80.123381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 Lake Blvd",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336630299,
-    "wof:lastmodified":1448997309,
+    "wof:lastmodified":1466435512,
     "wof:name":"Lakes of Delray",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.123381,26.450738,-80.123381,26.450738],
-  "geometry": {"coordinates":[-80.123381,26.450738],"type":"Point"}
+  "bbox": [
+    -80.123381,
+    26.450738,
+    -80.123381,
+    26.450738
+],
+  "geometry": {"coordinates":[-80.12338099999999,26.450738],"type":"Point"}
 }

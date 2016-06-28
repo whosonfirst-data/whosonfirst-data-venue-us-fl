@@ -2,13 +2,14 @@
   "id": 387483853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.754665,30.317515,-81.754665,30.317515",
     "geom:latitude":30.317515,
     "geom:longitude":-81.754665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6570 Stuart Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387483853,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1466446123,
     "wof:name":"Markhem Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.754665,30.317515,-81.754665,30.317515],
+  "bbox": [
+    -81.754665,
+    30.317515,
+    -81.754665,
+    30.317515
+],
   "geometry": {"coordinates":[-81.754665,30.317515],"type":"Point"}
 }

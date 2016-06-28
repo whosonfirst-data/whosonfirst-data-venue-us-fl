@@ -2,13 +2,14 @@
   "id": 236576953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121901,26.275131,-80.121901,26.275131",
     "geom:latitude":26.275131,
     "geom:longitude":-80.121901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Sample Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236576953,
-    "wof:lastmodified":1449004331,
+    "wof:lastmodified":1466436569,
     "wof:name":"Behavior Health Institute",
     "wof:parent_id":85865207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.121901,26.275131,-80.121901,26.275131],
-  "geometry": {"coordinates":[-80.121901,26.275131],"type":"Point"}
+  "bbox": [
+    -80.121901,
+    26.275131,
+    -80.121901,
+    26.275131
+],
+  "geometry": {"coordinates":[-80.12190099999999,26.275131],"type":"Point"}
 }

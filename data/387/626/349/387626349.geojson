@@ -2,13 +2,14 @@
   "id": 387626349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157378,25.889469,-80.157378,25.889469",
     "geom:latitude":25.889469,
     "geom:longitude":-80.157378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 NE 123rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387626349,
-    "wof:lastmodified":1449059922,
+    "wof:lastmodified":1466447471,
     "wof:name":"Point Lounge & Package Store",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-80.157378,25.889469,-80.157378,25.889469],
-  "geometry": {"coordinates":[-80.157378,25.889469],"type":"Point"}
+  "bbox": [
+    -80.157378,
+    25.889469,
+    -80.157378,
+    25.889469
+],
+  "geometry": {"coordinates":[-80.15737799999999,25.889469],"type":"Point"}
 }

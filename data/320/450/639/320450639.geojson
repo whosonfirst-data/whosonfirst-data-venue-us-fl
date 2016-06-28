@@ -2,13 +2,14 @@
   "id": 320450639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.395677,28.512822,-81.395677,28.512822",
     "geom:latitude":28.512822,
     "geom:longitude":-81.395677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 29th St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320450639,
-    "wof:lastmodified":1449014406,
+    "wof:lastmodified":1466441145,
     "wof:name":"Mitchell's Carburetor",
     "wof:parent_id":85865203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.395677,28.512822,-81.395677,28.512822],
-  "geometry": {"coordinates":[-81.395677,28.512822],"type":"Point"}
+  "bbox": [
+    -81.395677,
+    28.512822,
+    -81.395677,
+    28.512822
+],
+  "geometry": {"coordinates":[-81.39567700000001,28.512822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186445453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.328419,29.858437,-81.328419,29.858437",
     "geom:latitude":29.858437,
     "geom:longitude":-81.328419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Ponce Harbor Dr",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186445453,
-    "wof:lastmodified":1449050689,
+    "wof:lastmodified":1466432105,
     "wof:name":"Ponce Harbor",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-81.328419,29.858437,-81.328419,29.858437],
+  "bbox": [
+    -81.328419,
+    29.858437,
+    -81.328419,
+    29.858437
+],
   "geometry": {"coordinates":[-81.328419,29.858437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252790401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354267,25.574486,-80.354267,25.574486",
     "geom:latitude":25.574486,
     "geom:longitude":-80.354267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9851 Jamaica Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252790401,
-    "wof:lastmodified":1449006255,
+    "wof:lastmodified":1466429626,
     "wof:name":"D & P Aircraft Maintenance",
     "wof:parent_id":85820543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-80.354267,25.574486,-80.354267,25.574486],
-  "geometry": {"coordinates":[-80.354267,25.574486],"type":"Point"}
+  "bbox": [
+    -80.354267,
+    25.574486,
+    -80.354267,
+    25.574486
+],
+  "geometry": {"coordinates":[-80.35426699999999,25.574486],"type":"Point"}
 }

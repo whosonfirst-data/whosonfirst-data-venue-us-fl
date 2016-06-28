@@ -2,13 +2,14 @@
   "id": 202911095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.546816,27.414738,-82.546816,27.414738",
     "geom:latitude":27.414738,
     "geom:longitude":-82.546816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 15th St E",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202911095,
-    "wof:lastmodified":1449062246,
+    "wof:lastmodified":1466433750,
     "wof:name":"Freeport Holdings",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-82.546816,27.414738,-82.546816,27.414738],
-  "geometry": {"coordinates":[-82.546816,27.414738],"type":"Point"}
+  "bbox": [
+    -82.546816,
+    27.414738,
+    -82.546816,
+    27.414738
+],
+  "geometry": {"coordinates":[-82.54681600000001,27.414738],"type":"Point"}
 }

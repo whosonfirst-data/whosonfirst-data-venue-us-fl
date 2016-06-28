@@ -2,13 +2,14 @@
   "id": 353660365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.362445,25.593498,-80.362445,25.593498",
     "geom:latitude":25.593498,
     "geom:longitude":-80.362445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18740 SW 105th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353660365,
-    "wof:lastmodified":1449020538,
+    "wof:lastmodified":1466438745,
     "wof:name":"Princeton Boat Repair & Mfg",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.362445,25.593498,-80.362445,25.593498],
-  "geometry": {"coordinates":[-80.362445,25.593498],"type":"Point"}
+  "bbox": [
+    -80.362445,
+    25.593498,
+    -80.362445,
+    25.593498
+],
+  "geometry": {"coordinates":[-80.36244499999999,25.593498],"type":"Point"}
 }

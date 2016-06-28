@@ -2,13 +2,14 @@
   "id": 236832431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.600501,30.163707,-85.600501,30.163707",
     "geom:latitude":30.163707,
     "geom:longitude":-85.600501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Joan Ln",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236832431,
-    "wof:lastmodified":1449001686,
+    "wof:lastmodified":1466440293,
     "wof:name":"TLJ Communications",
     "wof:parent_id":85804791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-85.600501,30.163707,-85.600501,30.163707],
-  "geometry": {"coordinates":[-85.600501,30.163707],"type":"Point"}
+  "bbox": [
+    -85.600501,
+    30.163707,
+    -85.600501,
+    30.163707
+],
+  "geometry": {"coordinates":[-85.60050099999999,30.163707],"type":"Point"}
 }

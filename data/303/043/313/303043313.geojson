@@ -2,13 +2,14 @@
   "id": 303043313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209012,26.017575,-80.209012,26.017575",
     "geom:latitude":26.017575,
     "geom:longitude":-80.209012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6050 Johnson St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303043313,
-    "wof:lastmodified":1448999943,
+    "wof:lastmodified":1466431196,
     "wof:name":"Beeper Stop",
     "wof:parent_id":85878169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.209012,26.017575,-80.209012,26.017575],
+  "bbox": [
+    -80.209012,
+    26.017575,
+    -80.209012,
+    26.017575
+],
   "geometry": {"coordinates":[-80.209012,26.017575],"type":"Point"}
 }

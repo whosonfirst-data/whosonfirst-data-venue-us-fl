@@ -2,13 +2,14 @@
   "id": 387815663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.331466,25.833555,-80.331466,25.833555",
     "geom:latitude":25.833555,
     "geom:longitude":-80.331466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8281 NW 66th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387815663,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1466449047,
     "wof:name":"Buyscan Inc",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "peripheral"
     ]
 },
-  "bbox": [-80.331466,25.833555,-80.331466,25.833555],
-  "geometry": {"coordinates":[-80.331466,25.833555],"type":"Point"}
+  "bbox": [
+    -80.331466,
+    25.833555,
+    -80.331466,
+    25.833555
+],
+  "geometry": {"coordinates":[-80.33146600000001,25.833555],"type":"Point"}
 }

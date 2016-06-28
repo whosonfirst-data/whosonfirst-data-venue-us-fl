@@ -2,13 +2,14 @@
   "id": 404117321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.328645,26.007779,-80.328645,26.007779",
     "geom:latitude":26.007779,
     "geom:longitude":-80.328645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13620 Pines Blvd",
     "sg:city":"Pembroke Pines",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404117321,
-    "wof:lastmodified":1449039944,
+    "wof:lastmodified":1466442057,
     "wof:name":"Ramono's Macaroni Grill",
     "wof:parent_id":85879799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.328645,26.007779,-80.328645,26.007779],
-  "geometry": {"coordinates":[-80.328645,26.007779],"type":"Point"}
+  "bbox": [
+    -80.328645,
+    26.007779,
+    -80.328645,
+    26.007779
+],
+  "geometry": {"coordinates":[-80.32864499999999,26.007779],"type":"Point"}
 }

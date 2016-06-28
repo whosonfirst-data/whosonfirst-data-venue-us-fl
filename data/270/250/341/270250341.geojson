@@ -2,13 +2,14 @@
   "id": 270250341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227207,26.081248,-80.227207,26.081248",
     "geom:latitude":26.081248,
     "geom:longitude":-80.227207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 SW 60th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270250341,
-    "wof:lastmodified":1449010056,
+    "wof:lastmodified":1466433734,
     "wof:name":"Florida Voter Inc",
     "wof:parent_id":85842169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-80.227207,26.081248,-80.227207,26.081248],
-  "geometry": {"coordinates":[-80.227207,26.081248],"type":"Point"}
+  "bbox": [
+    -80.227207,
+    26.081248,
+    -80.227207,
+    26.081248
+],
+  "geometry": {"coordinates":[-80.22720700000001,26.081248],"type":"Point"}
 }

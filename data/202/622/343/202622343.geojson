@@ -2,13 +2,14 @@
   "id": 202622343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.198529,26.397897,-80.198529,26.397897",
     "geom:latitude":26.397897,
     "geom:longitude":-80.198529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9535 Lake Serena Dr",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202622343,
-    "wof:lastmodified":1449062207,
+    "wof:lastmodified":1466429975,
     "wof:name":"Mary C Badder Real Estate",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.198529,26.397897,-80.198529,26.397897],
-  "geometry": {"coordinates":[-80.198529,26.397897],"type":"Point"}
+  "bbox": [
+    -80.198529,
+    26.397897,
+    -80.198529,
+    26.397897
+],
+  "geometry": {"coordinates":[-80.19852899999999,26.397897],"type":"Point"}
 }

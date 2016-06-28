@@ -2,13 +2,14 @@
   "id": 404138017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.351182,30.354878,-87.351182,30.354878",
     "geom:latitude":30.354878,
     "geom:longitude":-87.351182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9850 N Loop Rd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404138017,
-    "wof:lastmodified":1449039364,
+    "wof:lastmodified":1466442380,
     "wof:name":"Rainfall Sprinkler Contractor",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-87.351182,30.354878,-87.351182,30.354878],
-  "geometry": {"coordinates":[-87.351182,30.354878],"type":"Point"}
+  "bbox": [
+    -87.351182,
+    30.354878,
+    -87.351182,
+    30.354878
+],
+  "geometry": {"coordinates":[-87.35118199999999,30.354878],"type":"Point"}
 }

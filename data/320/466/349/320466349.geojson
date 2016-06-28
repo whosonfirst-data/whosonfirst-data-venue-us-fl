@@ -2,13 +2,14 @@
   "id": 320466349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211169,25.790361,-80.211169,25.790361",
     "geom:latitude":25.790361,
     "geom:longitude":-80.211169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 NW 10th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320466349,
-    "wof:lastmodified":1449012374,
+    "wof:lastmodified":1466441425,
     "wof:name":"Organ Donation",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "iron"
     ]
 },
-  "bbox": [-80.211169,25.790361,-80.211169,25.790361],
+  "bbox": [
+    -80.211169,
+    25.790361,
+    -80.211169,
+    25.790361
+],
   "geometry": {"coordinates":[-80.211169,25.790361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303811873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.810346,26.166913,-81.810346,26.166913",
     "geom:latitude":26.166913,
     "geom:longitude":-81.810346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 Gulf Shore Blvd N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303811873,
-    "wof:lastmodified":1448999295,
+    "wof:lastmodified":1466444512,
     "wof:name":"Chateau Club",
     "wof:parent_id":85889239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-81.810346,26.166913,-81.810346,26.166913],
+  "bbox": [
+    -81.810346,
+    26.166913,
+    -81.810346,
+    26.166913
+],
   "geometry": {"coordinates":[-81.810346,26.166913],"type":"Point"}
 }

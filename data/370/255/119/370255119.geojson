@@ -2,13 +2,14 @@
   "id": 370255119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.850366,27.889581,-81.850366,27.889581",
     "geom:latitude":27.889581,
     "geom:longitude":-81.850366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Vine St",
     "sg:city":"Bartow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370255119,
-    "wof:lastmodified":1449030637,
+    "wof:lastmodified":1466438096,
     "wof:name":"Sanchez Harvesting Of Bartow",
     "wof:parent_id":85888553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.850366,27.889581,-81.850366,27.889581],
-  "geometry": {"coordinates":[-81.850366,27.889581],"type":"Point"}
+  "bbox": [
+    -81.850366,
+    27.889581,
+    -81.850366,
+    27.889581
+],
+  "geometry": {"coordinates":[-81.85036599999999,27.889581],"type":"Point"}
 }

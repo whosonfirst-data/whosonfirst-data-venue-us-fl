@@ -2,13 +2,14 @@
   "id": 220049329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.771009,27.813912,-82.771009,27.813912",
     "geom:latitude":27.813912,
     "geom:longitude":-82.771009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9617 Bay Pines Blvd",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220049329,
-    "wof:lastmodified":1449074431,
+    "wof:lastmodified":1466444753,
     "wof:name":"Blue Iris Florist & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.771009,27.813912,-82.771009,27.813912],
-  "geometry": {"coordinates":[-82.771009,27.813912],"type":"Point"}
+  "bbox": [
+    -82.771009,
+    27.813912,
+    -82.771009,
+    27.813912
+],
+  "geometry": {"coordinates":[-82.77100900000001,27.813912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370301383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066133,26.507811,-80.066133,26.507811",
     "geom:latitude":26.507811,
     "geom:longitude":-80.066133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 S Seacrest Blvd",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370301383,
-    "wof:lastmodified":1449029960,
+    "wof:lastmodified":1466438774,
     "wof:name":"Outpatient Center of Boynton",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-80.066133,26.507811,-80.066133,26.507811],
-  "geometry": {"coordinates":[-80.066133,26.507811],"type":"Point"}
+  "bbox": [
+    -80.066133,
+    26.507811,
+    -80.066133,
+    26.507811
+],
+  "geometry": {"coordinates":[-80.06613299999999,26.507811],"type":"Point"}
 }

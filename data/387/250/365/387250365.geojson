@@ -2,13 +2,14 @@
   "id": 387250365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.272691,30.395244,-87.272691,30.395244",
     "geom:latitude":30.395244,
     "geom:longitude":-87.272691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Moreno Ct",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387250365,
-    "wof:lastmodified":1449058274,
+    "wof:lastmodified":1466442557,
     "wof:name":"Area Housing Commission",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-87.272691,30.395244,-87.272691,30.395244],
-  "geometry": {"coordinates":[-87.272691,30.395244],"type":"Point"}
+  "bbox": [
+    -87.272691,
+    30.395244,
+    -87.272691,
+    30.395244
+],
+  "geometry": {"coordinates":[-87.27269099999999,30.395244],"type":"Point"}
 }

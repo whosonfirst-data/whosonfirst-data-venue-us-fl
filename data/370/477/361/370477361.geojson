@@ -2,13 +2,14 @@
   "id": 370477361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.401192,25.139301,-80.401192,25.139301",
     "geom:latitude":25.139301,
     "geom:longitude":-80.401192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103650 Overseas Hwy",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370477361,
-    "wof:lastmodified":1449029671,
+    "wof:lastmodified":1466441494,
     "wof:name":"Largo Scooters",
     "wof:parent_id":85821033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.401192,25.139301,-80.401192,25.139301],
-  "geometry": {"coordinates":[-80.401192,25.139301],"type":"Point"}
+  "bbox": [
+    -80.401192,
+    25.139301,
+    -80.401192,
+    25.139301
+],
+  "geometry": {"coordinates":[-80.40119199999999,25.139301],"type":"Point"}
 }

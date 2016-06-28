@@ -2,13 +2,14 @@
   "id": 370440385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209833,25.842553,-80.209833,25.842553",
     "geom:latitude":25.842553,
     "geom:longitude":-80.209833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 NW 74th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370440385,
-    "wof:lastmodified":1449030286,
+    "wof:lastmodified":1466440936,
     "wof:name":"ONeill and Whitaker",
     "wof:parent_id":85866189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-80.209833,25.842553,-80.209833,25.842553],
+  "bbox": [
+    -80.209833,
+    25.842553,
+    -80.209833,
+    25.842553
+],
   "geometry": {"coordinates":[-80.209833,25.842553],"type":"Point"}
 }

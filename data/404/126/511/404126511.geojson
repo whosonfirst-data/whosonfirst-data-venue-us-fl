@@ -2,13 +2,14 @@
   "id": 404126511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325965,27.338723,-80.325965,27.338723",
     "geom:latitude":27.338723,
     "geom:longitude":-80.325965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6731 US Hwy 1",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404126511,
-    "wof:lastmodified":1449039474,
+    "wof:lastmodified":1466442203,
     "wof:name":"Light House Baptist",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.325965,27.338723,-80.325965,27.338723],
+  "bbox": [
+    -80.325965,
+    27.338723,
+    -80.325965,
+    27.338723
+],
   "geometry": {"coordinates":[-80.325965,27.338723],"type":"Point"}
 }

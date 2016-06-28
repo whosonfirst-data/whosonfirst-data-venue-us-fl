@@ -2,13 +2,14 @@
   "id": 219708725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.570204,28.07114,-82.570204,28.07114",
     "geom:latitude":28.07114,
     "geom:longitude":-82.570204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7202 Gunn Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219708725,
-    "wof:lastmodified":1449070941,
+    "wof:lastmodified":1466434203,
     "wof:name":"Hillsborough County Sheriff",
     "wof:parent_id":85889759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-82.570204,28.07114,-82.570204,28.07114],
+  "bbox": [
+    -82.570204,
+    28.07114,
+    -82.570204,
+    28.07114
+],
   "geometry": {"coordinates":[-82.570204,28.07114],"type":"Point"}
 }

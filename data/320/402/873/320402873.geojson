@@ -2,13 +2,14 @@
   "id": 320402873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459362,27.970091,-82.459362,27.970091",
     "geom:latitude":27.970091,
     "geom:longitude":-82.459362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320402873,
-    "wof:lastmodified":1449012463,
+    "wof:lastmodified":1466440282,
     "wof:name":"Assembly Christian Church",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.459362,27.970091,-82.459362,27.970091],
+  "bbox": [
+    -82.459362,
+    27.970091,
+    -82.459362,
+    27.970091
+],
   "geometry": {"coordinates":[-82.459362,27.970091],"type":"Point"}
 }

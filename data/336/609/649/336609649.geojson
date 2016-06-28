@@ -2,13 +2,14 @@
   "id": 336609649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.49433,28.067465,-82.49433,28.067465",
     "geom:latitude":28.067465,
     "geom:longitude":-82.49433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Moran Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336609649,
-    "wof:lastmodified":1448997343,
+    "wof:lastmodified":1466435148,
     "wof:name":"Gimenez Vending",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-82.49433,28.067465,-82.49433,28.067465],
-  "geometry": {"coordinates":[-82.49433,28.067465],"type":"Point"}
+  "bbox": [
+    -82.49433,
+    28.067465,
+    -82.49433,
+    28.067465
+],
+  "geometry": {"coordinates":[-82.49433000000001,28.067465],"type":"Point"}
 }

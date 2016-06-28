@@ -2,13 +2,14 @@
   "id": 320693469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.283005,30.456062,-84.283005,30.456062",
     "geom:latitude":30.456062,
     "geom:longitude":-84.283005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 N Duval St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320693469,
-    "wof:lastmodified":1449011466,
+    "wof:lastmodified":1466445378,
     "wof:name":"Awesome Pet Wash",
     "wof:parent_id":85881343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-84.283005,30.456062,-84.283005,30.456062],
+  "bbox": [
+    -84.283005,
+    30.456062,
+    -84.283005,
+    30.456062
+],
   "geometry": {"coordinates":[-84.283005,30.456062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336621293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.801854,26.280341,-81.801854,26.280341",
     "geom:latitude":26.280341,
     "geom:longitude":-81.801854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11985 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336621293,
-    "wof:lastmodified":1448997892,
+    "wof:lastmodified":1466435358,
     "wof:name":"Slapshots Hockey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.801854,26.280341,-81.801854,26.280341],
-  "geometry": {"coordinates":[-81.801854,26.280341],"type":"Point"}
+  "bbox": [
+    -81.801854,
+    26.280341,
+    -81.801854,
+    26.280341
+],
+  "geometry": {"coordinates":[-81.80185400000001,26.280341],"type":"Point"}
 }

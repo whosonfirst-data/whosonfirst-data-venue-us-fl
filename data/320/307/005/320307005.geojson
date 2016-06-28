@@ -2,13 +2,14 @@
   "id": 320307005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.666125,28.358974,-82.666125,28.358974",
     "geom:latitude":28.358974,
     "geom:longitude":-82.666125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12315 Little Rd",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320307005,
-    "wof:lastmodified":1449012233,
+    "wof:lastmodified":1466438642,
     "wof:name":"Garry Osgoodby",
     "wof:parent_id":85888903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.666125,28.358974,-82.666125,28.358974],
-  "geometry": {"coordinates":[-82.666125,28.358974],"type":"Point"}
+  "bbox": [
+    -82.666125,
+    28.358974,
+    -82.666125,
+    28.358974
+],
+  "geometry": {"coordinates":[-82.66612499999999,28.358974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269975957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125388,26.439242,-80.125388,26.439242",
     "geom:latitude":26.439242,
     "geom:longitude":-80.125388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Linton Blvd",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269975957,
-    "wof:lastmodified":1449038513,
+    "wof:lastmodified":1466437107,
     "wof:name":"DELRAY/Mri",
     "wof:parent_id":85828439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.125388,26.439242,-80.125388,26.439242],
+  "bbox": [
+    -80.125388,
+    26.439242,
+    -80.125388,
+    26.439242
+],
   "geometry": {"coordinates":[-80.125388,26.439242],"type":"Point"}
 }

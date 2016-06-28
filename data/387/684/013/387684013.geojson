@@ -2,13 +2,14 @@
   "id": 387684013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201307,27.202554,-80.201307,27.202554",
     "geom:latitude":27.202554,
     "geom:longitude":-80.201307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 SE Ocean Blvd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387684013,
-    "wof:lastmodified":1449057050,
+    "wof:lastmodified":1466447935,
     "wof:name":"Property Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-80.201307,27.202554,-80.201307,27.202554],
+  "bbox": [
+    -80.201307,
+    27.202554,
+    -80.201307,
+    27.202554
+],
   "geometry": {"coordinates":[-80.201307,27.202554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202917295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.665503,30.426849,-81.665503,30.426849",
     "geom:latitude":30.426849,
     "geom:longitude":-81.665503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Beckner Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202917295,
-    "wof:lastmodified":1449062322,
+    "wof:lastmodified":1466433832,
     "wof:name":"Robinson Concrete Svc",
     "wof:parent_id":85838407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.665503,30.426849,-81.665503,30.426849],
+  "bbox": [
+    -81.665503,
+    30.426849,
+    -81.665503,
+    30.426849
+],
   "geometry": {"coordinates":[-81.665503,30.426849],"type":"Point"}
 }

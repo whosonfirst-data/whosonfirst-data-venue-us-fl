@@ -2,13 +2,14 @@
   "id": 203314523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47584,27.273752,-82.47584,27.273752",
     "geom:latitude":27.273752,
     "geom:longitude":-82.47584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 Ashton Ct",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203314523,
-    "wof:lastmodified":1449026793,
+    "wof:lastmodified":1466430344,
     "wof:name":"Taylor Made Plastics Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.47584,27.273752,-82.47584,27.273752],
-  "geometry": {"coordinates":[-82.47584,27.273752],"type":"Point"}
+  "bbox": [
+    -82.47584,
+    27.273752,
+    -82.47584,
+    27.273752
+],
+  "geometry": {"coordinates":[-82.47584000000001,27.273752],"type":"Point"}
 }

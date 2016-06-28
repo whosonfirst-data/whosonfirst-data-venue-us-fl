@@ -2,13 +2,14 @@
   "id": 354402031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.588845,28.495252,-81.588845,28.495252",
     "geom:latitude":28.495252,
     "geom:longitude":-81.588845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13763 Bluebird Pond Rd",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354402031,
-    "wof:lastmodified":1449066452,
+    "wof:lastmodified":1466442241,
     "wof:name":"Park Square Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-81.588845,28.495252,-81.588845,28.495252],
-  "geometry": {"coordinates":[-81.588845,28.495252],"type":"Point"}
+  "bbox": [
+    -81.588845,
+    28.495252,
+    -81.588845,
+    28.495252
+],
+  "geometry": {"coordinates":[-81.58884500000001,28.495252],"type":"Point"}
 }

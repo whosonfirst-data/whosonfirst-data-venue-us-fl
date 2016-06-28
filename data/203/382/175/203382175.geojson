@@ -2,13 +2,14 @@
   "id": 203382175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205689,25.95989,-80.205689,25.95989",
     "geom:latitude":25.95989,
     "geom:longitude":-80.205689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20295 NW 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203382175,
-    "wof:lastmodified":1449025416,
+    "wof:lastmodified":1466431185,
     "wof:name":"Consoli Dent",
     "wof:parent_id":85837069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-80.205689,25.95989,-80.205689,25.95989],
-  "geometry": {"coordinates":[-80.205689,25.95989],"type":"Point"}
+  "bbox": [
+    -80.205689,
+    25.95989,
+    -80.205689,
+    25.95989
+],
+  "geometry": {"coordinates":[-80.20568900000001,25.95989],"type":"Point"}
 }

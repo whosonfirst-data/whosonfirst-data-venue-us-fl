@@ -2,13 +2,14 @@
   "id": 303598151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.236846,30.479389,-84.236846,30.479389",
     "geom:latitude":30.479389,
     "geom:longitude":-84.236846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2274 Wednesday St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303598151,
-    "wof:lastmodified":1448998245,
+    "wof:lastmodified":1466440824,
     "wof:name":"First Care Dental Assoc",
     "wof:parent_id":85881379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-84.236846,30.479389,-84.236846,30.479389],
+  "bbox": [
+    -84.236846,
+    30.479389,
+    -84.236846,
+    30.479389
+],
   "geometry": {"coordinates":[-84.236846,30.479389],"type":"Point"}
 }

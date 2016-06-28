@@ -2,13 +2,14 @@
   "id": 203120411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.799828,26.149037,-81.799828,26.149037",
     "geom:latitude":26.149037,
     "geom:longitude":-81.799828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 2nd Ave N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203120411,
-    "wof:lastmodified":1449026583,
+    "wof:lastmodified":1466445655,
     "wof:name":"Community Medical Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-81.799828,26.149037,-81.799828,26.149037],
-  "geometry": {"coordinates":[-81.799828,26.149037],"type":"Point"}
+  "bbox": [
+    -81.799828,
+    26.149037,
+    -81.799828,
+    26.149037
+],
+  "geometry": {"coordinates":[-81.79982800000001,26.149037],"type":"Point"}
 }

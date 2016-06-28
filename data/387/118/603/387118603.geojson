@@ -2,13 +2,14 @@
   "id": 387118603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.42647,28.5684,-81.42647,28.5684",
     "geom:latitude":28.5684,
     "geom:longitude":-81.42647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Brengle Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387118603,
-    "wof:lastmodified":1449059195,
+    "wof:lastmodified":1466440531,
     "wof:name":"TLS Record Svc LLC",
     "wof:parent_id":85879509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "record"
     ]
 },
-  "bbox": [-81.42647,28.5684,-81.42647,28.5684],
-  "geometry": {"coordinates":[-81.42647,28.5684],"type":"Point"}
+  "bbox": [
+    -81.42647,
+    28.5684,
+    -81.42647,
+    28.5684
+],
+  "geometry": {"coordinates":[-81.42646999999999,28.5684],"type":"Point"}
 }

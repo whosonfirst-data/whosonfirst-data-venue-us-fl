@@ -2,13 +2,14 @@
   "id": 186314547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.953189,28.064047,-81.953189,28.064047",
     "geom:latitude":28.064047,
     "geom:longitude":-81.953189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1443 Lakeland Hills Blvd",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186314547,
-    "wof:lastmodified":1449052921,
+    "wof:lastmodified":1466430477,
     "wof:name":"Eric J Breuggeman DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.953189,28.064047,-81.953189,28.064047],
-  "geometry": {"coordinates":[-81.953189,28.064047],"type":"Point"}
+  "bbox": [
+    -81.953189,
+    28.064047,
+    -81.953189,
+    28.064047
+],
+  "geometry": {"coordinates":[-81.95318899999999,28.064047],"type":"Point"}
 }

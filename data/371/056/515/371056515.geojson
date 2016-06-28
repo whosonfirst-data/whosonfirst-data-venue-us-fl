@@ -2,13 +2,14 @@
   "id": 371056515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.812475,27.547356,-81.812475,27.547356",
     "geom:latitude":27.547356,
     "geom:longitude":-81.812475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Main St",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371056515,
-    "wof:lastmodified":1449049297,
+    "wof:lastmodified":1466438438,
     "wof:name":"Main Street Station",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.812475,27.547356,-81.812475,27.547356],
-  "geometry": {"coordinates":[-81.812475,27.547356],"type":"Point"}
+  "bbox": [
+    -81.812475,
+    27.547356,
+    -81.812475,
+    27.547356
+],
+  "geometry": {"coordinates":[-81.81247500000001,27.547356],"type":"Point"}
 }

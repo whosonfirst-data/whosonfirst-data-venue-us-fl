@@ -2,13 +2,14 @@
   "id": 303642857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.612603,30.413484,-81.612603,30.413484",
     "geom:latitude":30.413484,
     "geom:longitude":-81.612603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2054 Heckscher Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303642857,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1466441591,
     "wof:name":"Williams Power Company Inc",
     "wof:parent_id":85825951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipeline"
     ]
 },
-  "bbox": [-81.612603,30.413484,-81.612603,30.413484],
-  "geometry": {"coordinates":[-81.612603,30.413484],"type":"Point"}
+  "bbox": [
+    -81.612603,
+    30.413484,
+    -81.612603,
+    30.413484
+],
+  "geometry": {"coordinates":[-81.61260299999999,30.413484],"type":"Point"}
 }

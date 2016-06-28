@@ -2,13 +2,14 @@
   "id": 185960579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.538047,25.001649,-80.538047,25.001649",
     "geom:latitude":25.001649,
     "geom:longitude":-80.538047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Plantation Ave",
     "sg:city":"Tavernier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185960579,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466430626,
     "wof:name":"W MSA Ottofitzdam CPA",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "certified"
     ]
 },
-  "bbox": [-80.538047,25.001649,-80.538047,25.001649],
-  "geometry": {"coordinates":[-80.538047,25.001649],"type":"Point"}
+  "bbox": [
+    -80.538047,
+    25.001649,
+    -80.538047,
+    25.001649
+],
+  "geometry": {"coordinates":[-80.53804700000001,25.001649],"type":"Point"}
 }

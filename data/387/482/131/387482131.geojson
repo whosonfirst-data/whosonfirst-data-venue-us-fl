@@ -2,13 +2,14 @@
   "id": 387482131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233916,25.732333,-80.233916,25.732333",
     "geom:latitude":25.732333,
     "geom:longitude":-80.233916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 S Bayshore Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387482131,
-    "wof:lastmodified":1449057449,
+    "wof:lastmodified":1466446098,
     "wof:name":"Dept of Public Facilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "administration"
     ]
 },
-  "bbox": [-80.233916,25.732333,-80.233916,25.732333],
-  "geometry": {"coordinates":[-80.233916,25.732333],"type":"Point"}
+  "bbox": [
+    -80.233916,
+    25.732333,
+    -80.233916,
+    25.732333
+],
+  "geometry": {"coordinates":[-80.23391599999999,25.732333],"type":"Point"}
 }

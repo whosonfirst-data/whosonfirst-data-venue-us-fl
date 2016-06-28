@@ -2,13 +2,14 @@
   "id": 353570245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153945,26.006211,-80.153945,26.006211",
     "geom:latitude":26.006211,
     "geom:longitude":-80.153945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2122 Madison St",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353570245,
-    "wof:lastmodified":1449019782,
+    "wof:lastmodified":1466437313,
     "wof:name":"Cheapside Discount Dist",
     "wof:parent_id":85878185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.153945,26.006211,-80.153945,26.006211],
-  "geometry": {"coordinates":[-80.153945,26.006211],"type":"Point"}
+  "bbox": [
+    -80.153945,
+    26.006211,
+    -80.153945,
+    26.006211
+],
+  "geometry": {"coordinates":[-80.15394499999999,26.006211],"type":"Point"}
 }

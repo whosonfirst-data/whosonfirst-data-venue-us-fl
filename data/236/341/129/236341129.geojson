@@ -2,13 +2,14 @@
   "id": 236341129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.861995,26.626705,-81.861995,26.626705",
     "geom:latitude":26.626705,
     "geom:longitude":-81.861995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2757 Fowler St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236341129,
-    "wof:lastmodified":1449005078,
+    "wof:lastmodified":1466433234,
     "wof:name":"Gully Pool Svc & Supply",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.861995,26.626705,-81.861995,26.626705],
-  "geometry": {"coordinates":[-81.861995,26.626705],"type":"Point"}
+  "bbox": [
+    -81.861995,
+    26.626705,
+    -81.861995,
+    26.626705
+],
+  "geometry": {"coordinates":[-81.86199499999999,26.626705],"type":"Point"}
 }

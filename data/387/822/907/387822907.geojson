@@ -2,13 +2,14 @@
   "id": 387822907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.561726,30.237424,-81.561726,30.237424",
     "geom:latitude":30.237424,
     "geom:longitude":-81.561726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9611 Southbrook Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387822907,
-    "wof:lastmodified":1449059805,
+    "wof:lastmodified":1466449073,
     "wof:name":"Evergreen Club",
     "wof:parent_id":85870703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-81.561726,30.237424,-81.561726,30.237424],
-  "geometry": {"coordinates":[-81.561726,30.237424],"type":"Point"}
+  "bbox": [
+    -81.561726,
+    30.237424,
+    -81.561726,
+    30.237424
+],
+  "geometry": {"coordinates":[-81.56172599999999,30.237424],"type":"Point"}
 }

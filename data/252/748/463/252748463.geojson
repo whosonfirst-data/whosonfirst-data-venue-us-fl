@@ -2,13 +2,14 @@
   "id": 252748463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.694924,30.32689,-81.694924,30.32689",
     "geom:latitude":30.32689,
     "geom:longitude":-81.694924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Mc Coys Creek Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252748463,
-    "wof:lastmodified":1449006226,
+    "wof:lastmodified":1466429003,
     "wof:name":"WJFR",
     "wof:parent_id":85870731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-81.694924,30.32689,-81.694924,30.32689],
+  "bbox": [
+    -81.694924,
+    30.32689,
+    -81.694924,
+    30.32689
+],
   "geometry": {"coordinates":[-81.694924,30.32689],"type":"Point"}
 }

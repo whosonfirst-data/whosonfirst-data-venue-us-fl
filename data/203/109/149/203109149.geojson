@@ -2,13 +2,14 @@
   "id": 203109149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.426199,28.077751,-82.426199,28.077751",
     "geom:latitude":28.077751,
     "geom:longitude":-82.426199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14442 Bruce B Downs Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203109149,
-    "wof:lastmodified":1449025576,
+    "wof:lastmodified":1466445461,
     "wof:name":"My Dentist",
     "wof:parent_id":85889159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-82.426199,28.077751,-82.426199,28.077751],
+  "bbox": [
+    -82.426199,
+    28.077751,
+    -82.426199,
+    28.077751
+],
   "geometry": {"coordinates":[-82.426199,28.077751],"type":"Point"}
 }

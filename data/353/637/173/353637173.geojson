@@ -2,13 +2,14 @@
   "id": 353637173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.325527,28.275263,-81.325527,28.275263",
     "geom:latitude":28.275263,
     "geom:longitude":-81.325527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Honeydew Rd",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353637173,
-    "wof:lastmodified":1449018262,
+    "wof:lastmodified":1466438393,
     "wof:name":"Osceola Nursery & Landscape",
     "wof:parent_id":85878527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-81.325527,28.275263,-81.325527,28.275263],
-  "geometry": {"coordinates":[-81.325527,28.275263],"type":"Point"}
+  "bbox": [
+    -81.325527,
+    28.275263,
+    -81.325527,
+    28.275263
+],
+  "geometry": {"coordinates":[-81.32552699999999,28.275263],"type":"Point"}
 }

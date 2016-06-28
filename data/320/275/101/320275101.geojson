@@ -2,13 +2,14 @@
   "id": 320275101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35702,27.653477,-80.35702,27.653477",
     "geom:latitude":27.653477,
     "geom:longitude":-80.35702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"969 Beachland Blvd",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320275101,
-    "wof:lastmodified":1449012469,
+    "wof:lastmodified":1466438095,
     "wof:name":"American Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-80.35702,27.653477,-80.35702,27.653477],
-  "geometry": {"coordinates":[-80.35702,27.653477],"type":"Point"}
+  "bbox": [
+    -80.35702,
+    27.653477,
+    -80.35702,
+    27.653477
+],
+  "geometry": {"coordinates":[-80.35702000000001,27.653477],"type":"Point"}
 }

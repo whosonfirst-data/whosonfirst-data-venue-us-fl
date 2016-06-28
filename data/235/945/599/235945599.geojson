@@ -2,13 +2,14 @@
   "id": 235945599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112414,26.275348,-80.112414,26.275348",
     "geom:latitude":26.275348,
     "geom:longitude":-80.112414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Sample Rd",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235945599,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466428605,
     "wof:name":"Mary L Logue",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.112414,26.275348,-80.112414,26.275348],
+  "bbox": [
+    -80.112414,
+    26.275348,
+    -80.112414,
+    26.275348
+],
   "geometry": {"coordinates":[-80.112414,26.275348],"type":"Point"}
 }

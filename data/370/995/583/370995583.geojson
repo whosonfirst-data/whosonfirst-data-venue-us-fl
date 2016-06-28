@@ -2,13 +2,14 @@
   "id": 370995583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.569008,27.98401,-82.569008,27.98401",
     "geom:latitude":27.98401,
     "geom:longitude":-82.569008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5830 Memorial Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370995583,
-    "wof:lastmodified":1449032102,
+    "wof:lastmodified":1466448312,
     "wof:name":"Clinical Investigation Service",
     "wof:parent_id":85889739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.569008,27.98401,-82.569008,27.98401],
+  "bbox": [
+    -82.569008,
+    27.98401,
+    -82.569008,
+    27.98401
+],
   "geometry": {"coordinates":[-82.569008,27.98401],"type":"Point"}
 }

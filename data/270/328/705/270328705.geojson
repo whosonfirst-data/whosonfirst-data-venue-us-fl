@@ -2,13 +2,14 @@
   "id": 270328705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140479,26.345289,-80.140479,26.345289",
     "geom:latitude":26.345289,
     "geom:longitude":-80.140479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 Balboa Cir",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270328705,
-    "wof:lastmodified":1449010089,
+    "wof:lastmodified":1466435089,
     "wof:name":"Whitehall Condominium Assoc",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-80.140479,26.345289,-80.140479,26.345289],
+  "bbox": [
+    -80.140479,
+    26.345289,
+    -80.140479,
+    26.345289
+],
   "geometry": {"coordinates":[-80.140479,26.345289],"type":"Point"}
 }

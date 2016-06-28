@@ -2,13 +2,14 @@
   "id": 203422241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.218899,30.347011,-86.218899,30.347011",
     "geom:latitude":30.347011,
     "geom:longitude":-86.218899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 W Co Hwy 30A",
     "sg:city":"Santa Rosa Beach",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203422241,
-    "wof:lastmodified":1449025076,
+    "wof:lastmodified":1466431727,
     "wof:name":"Garrett Realty Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.218899,30.347011,-86.218899,30.347011],
-  "geometry": {"coordinates":[-86.218899,30.347011],"type":"Point"}
+  "bbox": [
+    -86.218899,
+    30.347011,
+    -86.218899,
+    30.347011
+],
+  "geometry": {"coordinates":[-86.21889899999999,30.347011],"type":"Point"}
 }

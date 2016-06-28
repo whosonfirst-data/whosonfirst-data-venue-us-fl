@@ -2,13 +2,14 @@
   "id": 185907515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.382781,25.819559,-80.382781,25.819559",
     "geom:latitude":25.819559,
     "geom:longitude":-80.382781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5085 NW 114th Path",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":185907515,
-    "wof:lastmodified":1449008093,
+    "wof:lastmodified":1466429996,
     "wof:name":"N-Tek Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resellers"
     ]
 },
-  "bbox": [-80.382781,25.819559,-80.382781,25.819559],
-  "geometry": {"coordinates":[-80.382781,25.819559],"type":"Point"}
+  "bbox": [
+    -80.382781,
+    25.819559,
+    -80.382781,
+    25.819559
+],
+  "geometry": {"coordinates":[-80.38278099999999,25.819559],"type":"Point"}
 }

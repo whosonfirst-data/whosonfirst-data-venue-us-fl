@@ -2,13 +2,14 @@
   "id": 269761705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.152806,25.935594,-80.152806,25.935594",
     "geom:latitude":25.935594,
     "geom:longitude":-80.152806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 NE 173rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":269761705,
-    "wof:lastmodified":1449038243,
+    "wof:lastmodified":1466433421,
     "wof:name":"Brentwood Apartments",
     "wof:parent_id":85879291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.152806,25.935594,-80.152806,25.935594],
+  "bbox": [
+    -80.152806,
+    25.935594,
+    -80.152806,
+    25.935594
+],
   "geometry": {"coordinates":[-80.152806,25.935594],"type":"Point"}
 }

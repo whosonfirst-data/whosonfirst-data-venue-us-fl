@@ -2,13 +2,14 @@
   "id": 303551157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751827,30.297566,-81.751827,30.297566",
     "geom:latitude":30.297566,
     "geom:longitude":-81.751827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Lane Ave S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303551157,
-    "wof:lastmodified":1448998606,
+    "wof:lastmodified":1466440032,
     "wof:name":"A-1 Creations Barber & Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.751827,30.297566,-81.751827,30.297566],
-  "geometry": {"coordinates":[-81.751827,30.297566],"type":"Point"}
+  "bbox": [
+    -81.751827,
+    30.297566,
+    -81.751827,
+    30.297566
+],
+  "geometry": {"coordinates":[-81.75182700000001,30.297566],"type":"Point"}
 }

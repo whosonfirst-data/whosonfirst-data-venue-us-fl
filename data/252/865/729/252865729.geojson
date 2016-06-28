@@ -2,13 +2,14 @@
   "id": 252865729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33007,25.809875,-80.33007,25.809875",
     "geom:latitude":25.809875,
     "geom:longitude":-80.33007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8249 NW 36th St",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":252865729,
-    "wof:lastmodified":1449006236,
+    "wof:lastmodified":1466430707,
     "wof:name":"MEM Products Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "diet"
     ]
 },
-  "bbox": [-80.33007,25.809875,-80.33007,25.809875],
-  "geometry": {"coordinates":[-80.33007,25.809875],"type":"Point"}
+  "bbox": [
+    -80.33007,
+    25.809875,
+    -80.33007,
+    25.809875
+],
+  "geometry": {"coordinates":[-80.33007000000001,25.809875],"type":"Point"}
 }

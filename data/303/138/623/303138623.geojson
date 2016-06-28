@@ -2,13 +2,14 @@
   "id": 303138623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325069,25.79798,-80.325069,25.79798",
     "geom:latitude":25.79798,
     "geom:longitude":-80.325069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 NW 79th Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303138623,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1466432907,
     "wof:name":"DMS",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.325069,25.79798,-80.325069,25.79798],
+  "bbox": [
+    -80.325069,
+    25.79798,
+    -80.325069,
+    25.79798
+],
   "geometry": {"coordinates":[-80.325069,25.79798],"type":"Point"}
 }

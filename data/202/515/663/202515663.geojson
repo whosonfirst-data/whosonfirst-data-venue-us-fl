@@ -2,13 +2,14 @@
   "id": 202515663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.783447,30.344548,-81.783447,30.344548",
     "geom:latitude":30.344548,
     "geom:longitude":-81.783447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 Commonwealth Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202515663,
-    "wof:lastmodified":1449060695,
+    "wof:lastmodified":1466428556,
     "wof:name":"V Harper Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-81.783447,30.344548,-81.783447,30.344548],
+  "bbox": [
+    -81.783447,
+    30.344548,
+    -81.783447,
+    30.344548
+],
   "geometry": {"coordinates":[-81.783447,30.344548],"type":"Point"}
 }

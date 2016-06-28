@@ -2,13 +2,14 @@
   "id": 286957311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.541407,27.996407,-82.541407,27.996407",
     "geom:latitude":27.996407,
     "geom:longitude":-82.541407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 W Hillsborough Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286957311,
-    "wof:lastmodified":1449017673,
+    "wof:lastmodified":1466441926,
     "wof:name":"Dave Olm Pro Shop",
     "wof:parent_id":85889667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.541407,27.996407,-82.541407,27.996407],
-  "geometry": {"coordinates":[-82.541407,27.996407],"type":"Point"}
+  "bbox": [
+    -82.541407,
+    27.996407,
+    -82.541407,
+    27.996407
+],
+  "geometry": {"coordinates":[-82.54140700000001,27.996407],"type":"Point"}
 }

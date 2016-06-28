@@ -2,13 +2,14 @@
   "id": 387580613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.89417,26.703047,-81.89417,26.703047",
     "geom:latitude":26.703047,
     "geom:longitude":-81.89417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2557 N Tamiami Trl",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387580613,
-    "wof:lastmodified":1449058669,
+    "wof:lastmodified":1466447062,
     "wof:name":"Hope Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-81.89417,26.703047,-81.89417,26.703047],
+  "bbox": [
+    -81.89417,
+    26.703047,
+    -81.89417,
+    26.703047
+],
   "geometry": {"coordinates":[-81.89417,26.703047],"type":"Point"}
 }

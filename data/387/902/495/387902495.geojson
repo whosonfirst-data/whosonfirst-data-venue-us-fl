@@ -2,13 +2,14 @@
   "id": 387902495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.530557,27.292068,-82.530557,27.292068",
     "geom:latitude":27.292068,
     "geom:longitude":-82.530557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4229 S Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387902495,
-    "wof:lastmodified":1449058922,
+    "wof:lastmodified":1466449632,
     "wof:name":"Boat US",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.530557,27.292068,-82.530557,27.292068],
+  "bbox": [
+    -82.530557,
+    27.292068,
+    -82.530557,
+    27.292068
+],
   "geometry": {"coordinates":[-82.530557,27.292068],"type":"Point"}
 }

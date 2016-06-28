@@ -2,13 +2,14 @@
   "id": 320770531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240212,25.805366,-80.240212,25.805366",
     "geom:latitude":25.805366,
     "geom:longitude":-80.240212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 NW 27th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320770531,
-    "wof:lastmodified":1449015034,
+    "wof:lastmodified":1466446722,
     "wof:name":"Dade County Circuit Court Clrk",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-80.240212,25.805366,-80.240212,25.805366],
+  "bbox": [
+    -80.240212,
+    25.805366,
+    -80.240212,
+    25.805366
+],
   "geometry": {"coordinates":[-80.240212,25.805366],"type":"Point"}
 }

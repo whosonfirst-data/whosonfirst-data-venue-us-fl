@@ -2,13 +2,14 @@
   "id": 202690221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.699356,28.087511,-82.699356,28.087511",
     "geom:latitude":28.087511,
     "geom:longitude":-82.699356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 E Lake Rd",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202690221,
-    "wof:lastmodified":1449061449,
+    "wof:lastmodified":1466430863,
     "wof:name":"Archie's Kitchen Table",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.699356,28.087511,-82.699356,28.087511],
-  "geometry": {"coordinates":[-82.699356,28.087511],"type":"Point"}
+  "bbox": [
+    -82.699356,
+    28.087511,
+    -82.699356,
+    28.087511
+],
+  "geometry": {"coordinates":[-82.69935599999999,28.087511],"type":"Point"}
 }

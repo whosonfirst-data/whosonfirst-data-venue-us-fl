@@ -2,13 +2,14 @@
   "id": 387430575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.600316,30.206259,-81.600316,30.206259",
     "geom:latitude":30.206259,
     "geom:longitude":-81.600316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9360 Craven Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387430575,
-    "wof:lastmodified":1449058531,
+    "wof:lastmodified":1466445299,
     "wof:name":"Fountain Gates Condominiums",
     "wof:parent_id":85822237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gates"
     ]
 },
-  "bbox": [-81.600316,30.206259,-81.600316,30.206259],
-  "geometry": {"coordinates":[-81.600316,30.206259],"type":"Point"}
+  "bbox": [
+    -81.600316,
+    30.206259,
+    -81.600316,
+    30.206259
+],
+  "geometry": {"coordinates":[-81.60031600000001,30.206259],"type":"Point"}
 }

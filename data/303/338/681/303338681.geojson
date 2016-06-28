@@ -2,13 +2,14 @@
   "id": 303338681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.262959,25.981198,-80.262959,25.981198",
     "geom:latitude":25.981198,
     "geom:longitude":-80.262959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8915 Miramar Pkwy",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303338681,
-    "wof:lastmodified":1448998963,
+    "wof:lastmodified":1466436373,
     "wof:name":"Miramar Police Dept",
     "wof:parent_id":85879795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-80.262959,25.981198,-80.262959,25.981198],
+  "bbox": [
+    -80.262959,
+    25.981198,
+    -80.262959,
+    25.981198
+],
   "geometry": {"coordinates":[-80.262959,25.981198],"type":"Point"}
 }

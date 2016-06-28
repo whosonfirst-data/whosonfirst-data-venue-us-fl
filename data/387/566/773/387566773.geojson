@@ -2,13 +2,14 @@
   "id": 387566773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.655819,26.60935,-81.655819,26.60935",
     "geom:latitude":26.60935,
     "geom:longitude":-81.655819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Margate Blvd",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387566773,
-    "wof:lastmodified":1449056201,
+    "wof:lastmodified":1466446936,
     "wof:name":"Estates Sales By Lorraine",
     "wof:parent_id":85889143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "estate"
     ]
 },
-  "bbox": [-81.655819,26.60935,-81.655819,26.60935],
-  "geometry": {"coordinates":[-81.655819,26.60935],"type":"Point"}
+  "bbox": [
+    -81.655819,
+    26.60935,
+    -81.655819,
+    26.60935
+],
+  "geometry": {"coordinates":[-81.65581899999999,26.60935],"type":"Point"}
 }

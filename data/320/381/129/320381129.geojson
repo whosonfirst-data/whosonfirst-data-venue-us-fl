@@ -2,13 +2,14 @@
   "id": 320381129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.265841,30.480605,-84.265841,30.480605",
     "geom:latitude":30.480605,
     "geom:longitude":-84.265841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Walter Scott St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320381129,
-    "wof:lastmodified":1449011552,
+    "wof:lastmodified":1466439915,
     "wof:name":"Business Decisions Inc",
     "wof:parent_id":85881379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-84.265841,30.480605,-84.265841,30.480605],
-  "geometry": {"coordinates":[-84.265841,30.480605],"type":"Point"}
+  "bbox": [
+    -84.265841,
+    30.480605,
+    -84.265841,
+    30.480605
+],
+  "geometry": {"coordinates":[-84.26584099999999,30.480605],"type":"Point"}
 }

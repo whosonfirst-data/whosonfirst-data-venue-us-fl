@@ -2,13 +2,14 @@
   "id": 320625799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.7493,28.566073,-81.7493,28.566073",
     "geom:latitude":28.566073,
     "geom:longitude":-81.7493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Overlook Dr",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320625799,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466444221,
     "wof:name":"Blake's Painting Svc",
     "wof:parent_id":85888697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.7493,28.566073,-81.7493,28.566073],
-  "geometry": {"coordinates":[-81.7493,28.566073],"type":"Point"}
+  "bbox": [
+    -81.7493,
+    28.566073,
+    -81.7493,
+    28.566073
+],
+  "geometry": {"coordinates":[-81.74930000000001,28.566073],"type":"Point"}
 }

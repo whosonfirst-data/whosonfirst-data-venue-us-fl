@@ -2,13 +2,14 @@
   "id": 253008835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.733021,27.870478,-82.733021,27.870478",
     "geom:latitude":27.870478,
     "geom:longitude":-82.733021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 Canal St N",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253008835,
-    "wof:lastmodified":1449063749,
+    "wof:lastmodified":1466428594,
     "wof:name":"Roadway Express",
     "wof:parent_id":85889589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-82.733021,27.870478,-82.733021,27.870478],
-  "geometry": {"coordinates":[-82.733021,27.870478],"type":"Point"}
+  "bbox": [
+    -82.733021,
+    27.870478,
+    -82.733021,
+    27.870478
+],
+  "geometry": {"coordinates":[-82.73302099999999,27.870478],"type":"Point"}
 }

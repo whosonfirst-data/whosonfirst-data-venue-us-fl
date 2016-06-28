@@ -2,13 +2,14 @@
   "id": 286324815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.590927,24.961847,-80.590927,24.961847",
     "geom:latitude":24.961847,
     "geom:longitude":-80.590927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Villa Bella Dr",
     "sg:city":"Islamorada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286324815,
-    "wof:lastmodified":1449016909,
+    "wof:lastmodified":1466430756,
     "wof:name":"Zoli Custom Construction",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.590927,24.961847,-80.590927,24.961847],
-  "geometry": {"coordinates":[-80.590927,24.961847],"type":"Point"}
+  "bbox": [
+    -80.590927,
+    24.961847,
+    -80.590927,
+    24.961847
+],
+  "geometry": {"coordinates":[-80.59092699999999,24.961847],"type":"Point"}
 }

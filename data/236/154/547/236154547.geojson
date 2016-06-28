@@ -2,13 +2,14 @@
   "id": 236154547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.649357,30.284582,-81.649357,30.284582",
     "geom:latitude":30.284582,
     "geom:longitude":-81.649357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Emerson St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236154547,
-    "wof:lastmodified":1449005299,
+    "wof:lastmodified":1466430575,
     "wof:name":"Anthony Grandio Co",
     "wof:parent_id":85870711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-81.649357,30.284582,-81.649357,30.284582],
-  "geometry": {"coordinates":[-81.649357,30.284582],"type":"Point"}
+  "bbox": [
+    -81.649357,
+    30.284582,
+    -81.649357,
+    30.284582
+],
+  "geometry": {"coordinates":[-81.64935699999999,30.284582],"type":"Point"}
 }

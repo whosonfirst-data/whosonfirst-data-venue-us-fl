@@ -2,13 +2,14 @@
   "id": 387679881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.463675,28.09531,-82.463675,28.09531",
     "geom:latitude":28.09531,
     "geom:longitude":-82.463675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16240 Lake Magdalene Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387679881,
-    "wof:lastmodified":1449058559,
+    "wof:lastmodified":1466447868,
     "wof:name":"G & M Mobile Home Sales",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-82.463675,28.09531,-82.463675,28.09531],
-  "geometry": {"coordinates":[-82.463675,28.09531],"type":"Point"}
+  "bbox": [
+    -82.463675,
+    28.09531,
+    -82.463675,
+    28.09531
+],
+  "geometry": {"coordinates":[-82.46367499999999,28.09531],"type":"Point"}
 }

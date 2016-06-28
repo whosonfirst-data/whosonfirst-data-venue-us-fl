@@ -2,13 +2,14 @@
   "id": 286576825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.364506,28.772759,-81.364506,28.772759",
     "geom:latitude":28.772759,
     "geom:longitude":-81.364506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Greenstone Blvd",
     "sg:city":"Heathrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286576825,
-    "wof:lastmodified":1449017447,
+    "wof:lastmodified":1466435127,
     "wof:name":"ABC Safety Guard",
     "wof:parent_id":85889157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "swimming"
     ]
 },
-  "bbox": [-81.364506,28.772759,-81.364506,28.772759],
-  "geometry": {"coordinates":[-81.364506,28.772759],"type":"Point"}
+  "bbox": [
+    -81.364506,
+    28.772759,
+    -81.364506,
+    28.772759
+],
+  "geometry": {"coordinates":[-81.36450600000001,28.772759],"type":"Point"}
 }

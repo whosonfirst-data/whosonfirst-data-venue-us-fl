@@ -2,13 +2,14 @@
   "id": 203237101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061891,26.690445,-80.061891,26.690445",
     "geom:latitude":26.690445,
     "geom:longitude":-80.061891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 Belvedere Rd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203237101,
-    "wof:lastmodified":1449024993,
+    "wof:lastmodified":1466429376,
     "wof:name":"John R Williams",
     "wof:parent_id":85881793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.061891,26.690445,-80.061891,26.690445],
+  "bbox": [
+    -80.061891,
+    26.690445,
+    -80.061891,
+    26.690445
+],
   "geometry": {"coordinates":[-80.061891,26.690445],"type":"Point"}
 }

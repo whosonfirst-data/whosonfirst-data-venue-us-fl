@@ -2,13 +2,14 @@
   "id": 219512243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251096,26.080318,-80.251096,26.080318",
     "geom:latitude":26.080318,
     "geom:longitude":-80.251096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 S University Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219512243,
-    "wof:lastmodified":1449072968,
+    "wof:lastmodified":1466431674,
     "wof:name":"L M Development Group Inc",
     "wof:parent_id":85842169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-80.251096,26.080318,-80.251096,26.080318],
+  "bbox": [
+    -80.251096,
+    26.080318,
+    -80.251096,
+    26.080318
+],
   "geometry": {"coordinates":[-80.251096,26.080318],"type":"Point"}
 }

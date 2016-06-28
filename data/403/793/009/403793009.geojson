@@ -2,13 +2,14 @@
   "id": 403793009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.280352,26.021639,-80.280352,26.021639",
     "geom:latitude":26.021639,
     "geom:longitude":-80.280352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Palm Ave",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403793009,
-    "wof:lastmodified":1449055371,
+    "wof:lastmodified":1466441001,
     "wof:name":"Brazil Tropical",
     "wof:parent_id":85879797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-80.280352,26.021639,-80.280352,26.021639],
-  "geometry": {"coordinates":[-80.280352,26.021639],"type":"Point"}
+  "bbox": [
+    -80.280352,
+    26.021639,
+    -80.280352,
+    26.021639
+],
+  "geometry": {"coordinates":[-80.28035199999999,26.021639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286539143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.314253,29.042645,-81.314253,29.042645",
     "geom:latitude":29.042645,
     "geom:longitude":-81.314253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Orange Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286539143,
-    "wof:lastmodified":1449018145,
+    "wof:lastmodified":1466434450,
     "wof:name":"AAA Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-81.314253,29.042645,-81.314253,29.042645],
-  "geometry": {"coordinates":[-81.314253,29.042645],"type":"Point"}
+  "bbox": [
+    -81.314253,
+    29.042645,
+    -81.314253,
+    29.042645
+],
+  "geometry": {"coordinates":[-81.31425299999999,29.042645],"type":"Point"}
 }

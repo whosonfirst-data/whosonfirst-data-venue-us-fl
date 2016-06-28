@@ -2,13 +2,14 @@
   "id": 303562335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.602015,28.384025,-80.602015,28.384025",
     "geom:latitude":28.384025,
     "geom:longitude":-80.602015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Taylor Ave",
     "sg:city":"Cape Canaveral",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303562335,
-    "wof:lastmodified":1448999418,
+    "wof:lastmodified":1466440225,
     "wof:name":"Casey Research Svc",
     "wof:parent_id":85896103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.602015,28.384025,-80.602015,28.384025],
-  "geometry": {"coordinates":[-80.602015,28.384025],"type":"Point"}
+  "bbox": [
+    -80.602015,
+    28.384025,
+    -80.602015,
+    28.384025
+],
+  "geometry": {"coordinates":[-80.60201499999999,28.384025],"type":"Point"}
 }

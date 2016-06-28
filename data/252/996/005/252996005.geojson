@@ -2,13 +2,14 @@
   "id": 252996005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.502642,27.488033,-82.502642,27.488033",
     "geom:latitude":27.488033,
     "geom:longitude":-82.502642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 11th Ave Cir E",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252996005,
-    "wof:lastmodified":1449005716,
+    "wof:lastmodified":1466432586,
     "wof:name":"G&I Mail Service Inc",
     "wof:parent_id":85888761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.502642,27.488033,-82.502642,27.488033],
-  "geometry": {"coordinates":[-82.502642,27.488033],"type":"Point"}
+  "bbox": [
+    -82.502642,
+    27.488033,
+    -82.502642,
+    27.488033
+],
+  "geometry": {"coordinates":[-82.50264199999999,27.488033],"type":"Point"}
 }

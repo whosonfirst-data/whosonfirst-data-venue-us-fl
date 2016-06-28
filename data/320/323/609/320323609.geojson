@@ -2,13 +2,14 @@
   "id": 320323609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459721,28.089127,-82.459721,28.089127",
     "geom:latitude":28.089127,
     "geom:longitude":-82.459721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15102 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320323609,
-    "wof:lastmodified":1449011564,
+    "wof:lastmodified":1466438933,
     "wof:name":"Value Cleaners",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-82.459721,28.089127,-82.459721,28.089127],
+  "bbox": [
+    -82.459721,
+    28.089127,
+    -82.459721,
+    28.089127
+],
   "geometry": {"coordinates":[-82.459721,28.089127],"type":"Point"}
 }

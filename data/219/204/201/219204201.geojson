@@ -2,13 +2,14 @@
   "id": 219204201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.623579,30.262697,-81.623579,30.262697",
     "geom:latitude":30.262697,
     "geom:longitude":-81.623579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5991 Chester Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219204201,
-    "wof:lastmodified":1449074036,
+    "wof:lastmodified":1466444312,
     "wof:name":"Mudmasters Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pumping"
     ]
 },
-  "bbox": [-81.623579,30.262697,-81.623579,30.262697],
-  "geometry": {"coordinates":[-81.623579,30.262697],"type":"Point"}
+  "bbox": [
+    -81.623579,
+    30.262697,
+    -81.623579,
+    30.262697
+],
+  "geometry": {"coordinates":[-81.62357900000001,30.262697],"type":"Point"}
 }

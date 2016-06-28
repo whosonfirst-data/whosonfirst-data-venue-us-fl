@@ -2,13 +2,14 @@
   "id": 253198137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.280583,30.43154,-84.280583,30.43154",
     "geom:latitude":30.43154,
     "geom:longitude":-84.280583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 S Monroe St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253198137,
-    "wof:lastmodified":1449063903,
+    "wof:lastmodified":1466430679,
     "wof:name":"Island Food Store",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.280583,30.43154,-84.280583,30.43154],
-  "geometry": {"coordinates":[-84.280583,30.43154],"type":"Point"}
+  "bbox": [
+    -84.280583,
+    30.43154,
+    -84.280583,
+    30.43154
+],
+  "geometry": {"coordinates":[-84.28058299999999,30.43154],"type":"Point"}
 }

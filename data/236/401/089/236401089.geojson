@@ -2,13 +2,14 @@
   "id": 236401089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.420963,25.667058,-80.420963,25.667058",
     "geom:latitude":25.667058,
     "geom:longitude":-80.420963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13931 SW 108th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236401089,
-    "wof:lastmodified":1449004658,
+    "wof:lastmodified":1466434066,
     "wof:name":"Sea Trek",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-80.420963,25.667058,-80.420963,25.667058],
+  "bbox": [
+    -80.420963,
+    25.667058,
+    -80.420963,
+    25.667058
+],
   "geometry": {"coordinates":[-80.420963,25.667058],"type":"Point"}
 }

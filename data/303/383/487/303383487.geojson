@@ -2,13 +2,14 @@
   "id": 303383487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.657946,27.811941,-82.657946,27.811941",
     "geom:latitude":27.811941,
     "geom:longitude":-82.657946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 Iris St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303383487,
-    "wof:lastmodified":1448999155,
+    "wof:lastmodified":1466437140,
     "wof:name":"Bob's Towing Svc",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-82.657946,27.811941,-82.657946,27.811941],
+  "bbox": [
+    -82.657946,
+    27.811941,
+    -82.657946,
+    27.811941
+],
   "geometry": {"coordinates":[-82.657946,27.811941],"type":"Point"}
 }

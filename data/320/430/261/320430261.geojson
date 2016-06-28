@@ -2,13 +2,14 @@
   "id": 320430261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.492521,28.503732,-81.492521,28.503732",
     "geom:latitude":28.503732,
     "geom:longitude":-81.492521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3437 Bellington Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320430261,
-    "wof:lastmodified":1449013637,
+    "wof:lastmodified":1466440778,
     "wof:name":"Links Net",
     "wof:parent_id":85866883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "portal"
     ]
 },
-  "bbox": [-81.492521,28.503732,-81.492521,28.503732],
+  "bbox": [
+    -81.492521,
+    28.503732,
+    -81.492521,
+    28.503732
+],
   "geometry": {"coordinates":[-81.492521,28.503732],"type":"Point"}
 }

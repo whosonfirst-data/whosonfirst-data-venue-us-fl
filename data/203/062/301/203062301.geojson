@@ -2,13 +2,14 @@
   "id": 203062301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.751312,28.046202,-81.751312,28.046202",
     "geom:latitude":28.046202,
     "geom:longitude":-81.751312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Havendale Blvd NW",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203062301,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466444395,
     "wof:name":"O'Connors Flower Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stock"
     ]
 },
-  "bbox": [-81.751312,28.046202,-81.751312,28.046202],
+  "bbox": [
+    -81.751312,
+    28.046202,
+    -81.751312,
+    28.046202
+],
   "geometry": {"coordinates":[-81.751312,28.046202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303352495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.326258,29.872003,-81.326258,29.872003",
     "geom:latitude":29.872003,
     "geom:longitude":-81.326258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1797 Old Moultrie Rd",
     "sg:city":"St Augustine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303352495,
-    "wof:lastmodified":1448999623,
+    "wof:lastmodified":1466436611,
     "wof:name":"Computer Specialists",
     "wof:parent_id":85813673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-81.326258,29.872003,-81.326258,29.872003],
+  "bbox": [
+    -81.326258,
+    29.872003,
+    -81.326258,
+    29.872003
+],
   "geometry": {"coordinates":[-81.326258,29.872003],"type":"Point"}
 }

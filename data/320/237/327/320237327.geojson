@@ -2,13 +2,14 @@
   "id": 320237327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136248,26.157505,-80.136248,26.157505",
     "geom:latitude":26.157505,
     "geom:longitude":-80.136248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 Wilton Dr",
     "sg:city":"Wilton Manors",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320237327,
-    "wof:lastmodified":1449011346,
+    "wof:lastmodified":1466437447,
     "wof:name":"D B Retail",
     "wof:parent_id":85896125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.136248,26.157505,-80.136248,26.157505],
-  "geometry": {"coordinates":[-80.136248,26.157505],"type":"Point"}
+  "bbox": [
+    -80.136248,
+    26.157505,
+    -80.136248,
+    26.157505
+],
+  "geometry": {"coordinates":[-80.13624799999999,26.157505],"type":"Point"}
 }

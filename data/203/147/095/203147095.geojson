@@ -2,13 +2,14 @@
   "id": 203147095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.004939,28.038701,-82.004939,28.038701",
     "geom:latitude":28.038701,
     "geom:longitude":-82.004939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 New Tampa Hwy",
     "sg:city":"Lakeland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203147095,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1466446018,
     "wof:name":"Polk Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-82.004939,28.038701,-82.004939,28.038701],
-  "geometry": {"coordinates":[-82.004939,28.038701],"type":"Point"}
+  "bbox": [
+    -82.004939,
+    28.038701,
+    -82.004939,
+    28.038701
+],
+  "geometry": {"coordinates":[-82.00493899999999,28.038701],"type":"Point"}
 }

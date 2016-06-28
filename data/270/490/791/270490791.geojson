@@ -2,13 +2,14 @@
   "id": 270490791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.429021,28.26775,-81.429021,28.26775",
     "geom:latitude":28.26775,
     "geom:longitude":-81.429021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Shingle Creek Ct",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270490791,
-    "wof:lastmodified":1449010847,
+    "wof:lastmodified":1466437860,
     "wof:name":"Walker Appraisal Svc",
     "wof:parent_id":85878539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-81.429021,28.26775,-81.429021,28.26775],
-  "geometry": {"coordinates":[-81.429021,28.26775],"type":"Point"}
+  "bbox": [
+    -81.429021,
+    28.26775,
+    -81.429021,
+    28.26775
+],
+  "geometry": {"coordinates":[-81.42902100000001,28.26775],"type":"Point"}
 }

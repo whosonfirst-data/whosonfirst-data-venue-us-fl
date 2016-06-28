@@ -2,13 +2,14 @@
   "id": 303670319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.17277,29.15347,-82.17277,29.15347",
     "geom:latitude":29.15347,
     "geom:longitude":-82.17277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 SW 34th St",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303670319,
-    "wof:lastmodified":1448998486,
+    "wof:lastmodified":1466442069,
     "wof:name":"Central Florida Heart Ctr PA",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-82.17277,29.15347,-82.17277,29.15347],
+  "bbox": [
+    -82.17277,
+    29.15347,
+    -82.17277,
+    29.15347
+],
   "geometry": {"coordinates":[-82.17277,29.15347],"type":"Point"}
 }

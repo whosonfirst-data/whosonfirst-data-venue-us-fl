@@ -2,13 +2,14 @@
   "id": 235982517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.303019,29.01721,-81.303019,29.01721",
     "geom:latitude":29.01721,
     "geom:longitude":-81.303019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 S Woodland Blvd",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235982517,
-    "wof:lastmodified":1449008320,
+    "wof:lastmodified":1466429136,
     "wof:name":"Highway Safety & Motor Vehicle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-81.303019,29.01721,-81.303019,29.01721],
-  "geometry": {"coordinates":[-81.303019,29.01721],"type":"Point"}
+  "bbox": [
+    -81.303019,
+    29.01721,
+    -81.303019,
+    29.01721
+],
+  "geometry": {"coordinates":[-81.30301900000001,29.01721],"type":"Point"}
 }

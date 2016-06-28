@@ -2,13 +2,14 @@
   "id": 269999101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.484659,27.277344,-82.484659,27.277344",
     "geom:latitude":27.277344,
     "geom:longitude":-82.484659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4059 Green Tree Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269999101,
-    "wof:lastmodified":1449038609,
+    "wof:lastmodified":1466437500,
     "wof:name":"Roger Kondroski Tile",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.484659,27.277344,-82.484659,27.277344],
-  "geometry": {"coordinates":[-82.484659,27.277344],"type":"Point"}
+  "bbox": [
+    -82.484659,
+    27.277344,
+    -82.484659,
+    27.277344
+],
+  "geometry": {"coordinates":[-82.48465899999999,27.277344],"type":"Point"}
 }

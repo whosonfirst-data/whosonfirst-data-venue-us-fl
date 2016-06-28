@@ -2,13 +2,14 @@
   "id": 219334163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.386251,28.558384,-82.386251,28.558384",
     "geom:latitude":28.558384,
     "geom:longitude":-82.386251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Olive St",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219334163,
-    "wof:lastmodified":1449071436,
+    "wof:lastmodified":1466429243,
     "wof:name":"Tiburon",
     "wof:parent_id":85888607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-82.386251,28.558384,-82.386251,28.558384],
+  "bbox": [
+    -82.386251,
+    28.558384,
+    -82.386251,
+    28.558384
+],
   "geometry": {"coordinates":[-82.386251,28.558384],"type":"Point"}
 }

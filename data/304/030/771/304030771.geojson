@@ -2,13 +2,14 @@
   "id": 304030771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083616,26.393454,-80.083616,26.393454",
     "geom:latitude":26.393454,
     "geom:longitude":-80.083616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4726 NW 2nd Ave",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304030771,
-    "wof:lastmodified":1449043780,
+    "wof:lastmodified":1466432343,
     "wof:name":"FSA Network Inc",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.083616,26.393454,-80.083616,26.393454],
-  "geometry": {"coordinates":[-80.083616,26.393454],"type":"Point"}
+  "bbox": [
+    -80.083616,
+    26.393454,
+    -80.083616,
+    26.393454
+],
+  "geometry": {"coordinates":[-80.08361600000001,26.393454],"type":"Point"}
 }

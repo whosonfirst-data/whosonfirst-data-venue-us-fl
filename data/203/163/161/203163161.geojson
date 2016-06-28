@@ -2,13 +2,14 @@
   "id": 203163161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.651295,30.372661,-81.651295,30.372661",
     "geom:latitude":30.372661,
     "geom:longitude":-81.651295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 N Main St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203163161,
-    "wof:lastmodified":1449026838,
+    "wof:lastmodified":1466428425,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85807217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-81.651295,30.372661,-81.651295,30.372661],
+  "bbox": [
+    -81.651295,
+    30.372661,
+    -81.651295,
+    30.372661
+],
   "geometry": {"coordinates":[-81.651295,30.372661],"type":"Point"}
 }

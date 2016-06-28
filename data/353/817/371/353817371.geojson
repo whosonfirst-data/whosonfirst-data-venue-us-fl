@@ -2,13 +2,14 @@
   "id": 353817371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529489,27.33567,-82.529489,27.33567",
     "geom:latitude":27.33567,
     "geom:longitude":-82.529489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Ringling Blvd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353817371,
-    "wof:lastmodified":1449020325,
+    "wof:lastmodified":1466441217,
     "wof:name":"Sarasota County Jail",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-82.529489,27.33567,-82.529489,27.33567],
+  "bbox": [
+    -82.529489,
+    27.33567,
+    -82.529489,
+    27.33567
+],
   "geometry": {"coordinates":[-82.529489,27.33567],"type":"Point"}
 }

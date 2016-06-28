@@ -2,13 +2,14 @@
   "id": 202839623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.501115,30.287187,-81.501115,30.287187",
     "geom:latitude":30.287187,
     "geom:longitude":-81.501115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11969 Beach Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202839623,
-    "wof:lastmodified":1449061647,
+    "wof:lastmodified":1466432787,
     "wof:name":"Produce Tools & More",
     "wof:parent_id":85850321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-81.501115,30.287187,-81.501115,30.287187],
+  "bbox": [
+    -81.501115,
+    30.287187,
+    -81.501115,
+    30.287187
+],
   "geometry": {"coordinates":[-81.501115,30.287187],"type":"Point"}
 }

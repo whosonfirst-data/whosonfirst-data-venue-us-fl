@@ -2,13 +2,14 @@
   "id": 236423373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.564186,30.336286,-81.564186,30.336286",
     "geom:latitude":30.336286,
     "geom:longitude":-81.564186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 Arlingwood Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236423373,
-    "wof:lastmodified":1449002086,
+    "wof:lastmodified":1466434379,
     "wof:name":"Howard Realty Of Jax Inc Msa",
     "wof:parent_id":85870695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.564186,30.336286,-81.564186,30.336286],
-  "geometry": {"coordinates":[-81.564186,30.336286],"type":"Point"}
+  "bbox": [
+    -81.564186,
+    30.336286,
+    -81.564186,
+    30.336286
+],
+  "geometry": {"coordinates":[-81.56418600000001,30.336286],"type":"Point"}
 }

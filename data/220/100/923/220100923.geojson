@@ -2,13 +2,14 @@
   "id": 220100923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317732,27.259118,-80.317732,27.259118",
     "geom:latitude":27.259118,
     "geom:longitude":-80.317732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1894 SE Pruitt Rd",
     "sg:city":"Port St Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220100923,
-    "wof:lastmodified":1449074641,
+    "wof:lastmodified":1466445869,
     "wof:name":"Treasure Coast Chimney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.317732,27.259118,-80.317732,27.259118],
-  "geometry": {"coordinates":[-80.317732,27.259118],"type":"Point"}
+  "bbox": [
+    -80.317732,
+    27.259118,
+    -80.317732,
+    27.259118
+],
+  "geometry": {"coordinates":[-80.31773200000001,27.259118],"type":"Point"}
 }

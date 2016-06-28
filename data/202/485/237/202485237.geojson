@@ -2,13 +2,14 @@
   "id": 202485237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128566,26.317953,-80.128566,26.317953",
     "geom:latitude":26.317953,
     "geom:longitude":-80.128566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1861 W Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202485237,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466445793,
     "wof:name":"Hillsboro Allergy Family",
     "wof:parent_id":85855357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.128566,26.317953,-80.128566,26.317953],
-  "geometry": {"coordinates":[-80.128566,26.317953],"type":"Point"}
+  "bbox": [
+    -80.128566,
+    26.317953,
+    -80.128566,
+    26.317953
+],
+  "geometry": {"coordinates":[-80.12856600000001,26.317953],"type":"Point"}
 }

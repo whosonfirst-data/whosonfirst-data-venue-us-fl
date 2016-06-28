@@ -2,13 +2,14 @@
   "id": 387510629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.514244,27.271612,-82.514244,27.271612",
     "geom:latitude":27.271612,
     "geom:longitude":-82.514244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5652 Swift Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387510629,
-    "wof:lastmodified":1449058396,
+    "wof:lastmodified":1466446606,
     "wof:name":"Gulf Coast Respiratory Service",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "care"
     ]
 },
-  "bbox": [-82.514244,27.271612,-82.514244,27.271612],
-  "geometry": {"coordinates":[-82.514244,27.271612],"type":"Point"}
+  "bbox": [
+    -82.514244,
+    27.271612,
+    -82.514244,
+    27.271612
+],
+  "geometry": {"coordinates":[-82.51424400000001,27.271612],"type":"Point"}
 }

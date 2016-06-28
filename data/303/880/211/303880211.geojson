@@ -2,13 +2,14 @@
   "id": 303880211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.227267,28.211858,-81.227267,28.211858",
     "geom:latitude":28.211858,
     "geom:longitude":-81.227267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Godwin Rd",
     "sg:city":"Saint Cloud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303880211,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466445701,
     "wof:name":"Carol Nealis",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.227267,28.211858,-81.227267,28.211858],
+  "bbox": [
+    -81.227267,
+    28.211858,
+    -81.227267,
+    28.211858
+],
   "geometry": {"coordinates":[-81.227267,28.211858],"type":"Point"}
 }

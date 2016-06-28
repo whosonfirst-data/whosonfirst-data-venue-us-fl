@@ -2,13 +2,14 @@
   "id": 303240757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269089,26.277331,-80.269089,26.277331",
     "geom:latitude":26.277331,
     "geom:longitude":-80.269089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 NW 107th Ter",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303240757,
-    "wof:lastmodified":1448998376,
+    "wof:lastmodified":1466434692,
     "wof:name":"D R B International",
     "wof:parent_id":85876873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trimming"
     ]
 },
-  "bbox": [-80.269089,26.277331,-80.269089,26.277331],
-  "geometry": {"coordinates":[-80.269089,26.277331],"type":"Point"}
+  "bbox": [
+    -80.269089,
+    26.277331,
+    -80.269089,
+    26.277331
+],
+  "geometry": {"coordinates":[-80.26908899999999,26.277331],"type":"Point"}
 }

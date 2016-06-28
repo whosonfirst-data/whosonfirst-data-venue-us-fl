@@ -2,13 +2,14 @@
   "id": 219398781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.839672,26.481444,-81.839672,26.481444",
     "geom:latitude":26.481444,
     "geom:longitude":-81.839672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Harborage Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":219398781,
-    "wof:lastmodified":1449070673,
+    "wof:lastmodified":1466430172,
     "wof:name":"Harborage Homeowners Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.839672,26.481444,-81.839672,26.481444],
-  "geometry": {"coordinates":[-81.839672,26.481444],"type":"Point"}
+  "bbox": [
+    -81.839672,
+    26.481444,
+    -81.839672,
+    26.481444
+],
+  "geometry": {"coordinates":[-81.83967199999999,26.481444],"type":"Point"}
 }

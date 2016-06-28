@@ -2,13 +2,14 @@
   "id": 353585683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.621023,30.269888,-81.621023,30.269888",
     "geom:latitude":30.269888,
     "geom:longitude":-81.621023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5215 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353585683,
-    "wof:lastmodified":1449019943,
+    "wof:lastmodified":1466437573,
     "wof:name":"Village Bread Market Inc",
     "wof:parent_id":85818119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-81.621023,30.269888,-81.621023,30.269888],
-  "geometry": {"coordinates":[-81.621023,30.269888],"type":"Point"}
+  "bbox": [
+    -81.621023,
+    30.269888,
+    -81.621023,
+    30.269888
+],
+  "geometry": {"coordinates":[-81.62102299999999,30.269888],"type":"Point"}
 }

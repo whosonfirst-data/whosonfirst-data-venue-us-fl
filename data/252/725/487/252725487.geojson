@@ -2,13 +2,14 @@
   "id": 252725487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.621964,28.090012,-80.621964,28.090012",
     "geom:latitude":28.090012,
     "geom:longitude":-80.621964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Rialto Pl",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252725487,
-    "wof:lastmodified":1449005689,
+    "wof:lastmodified":1466428683,
     "wof:name":"Rialto Cafe",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-80.621964,28.090012,-80.621964,28.090012],
-  "geometry": {"coordinates":[-80.621964,28.090012],"type":"Point"}
+  "bbox": [
+    -80.621964,
+    28.090012,
+    -80.621964,
+    28.090012
+],
+  "geometry": {"coordinates":[-80.62196400000001,28.090012],"type":"Point"}
 }

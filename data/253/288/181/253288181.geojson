@@ -2,13 +2,14 @@
   "id": 253288181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088716,26.369341,-80.088716,26.369341",
     "geom:latitude":26.369341,
     "geom:longitude":-80.088716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2069 NW 1st Pl",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253288181,
-    "wof:lastmodified":1449063124,
+    "wof:lastmodified":1466432014,
     "wof:name":"ECR of Boca Raton",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-80.088716,26.369341,-80.088716,26.369341],
-  "geometry": {"coordinates":[-80.088716,26.369341],"type":"Point"}
+  "bbox": [
+    -80.088716,
+    26.369341,
+    -80.088716,
+    26.369341
+],
+  "geometry": {"coordinates":[-80.08871600000001,26.369341],"type":"Point"}
 }

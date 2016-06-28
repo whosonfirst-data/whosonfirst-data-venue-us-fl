@@ -2,13 +2,14 @@
   "id": 354081059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315707,26.110011,-80.315707,26.110011",
     "geom:latitude":26.110011,
     "geom:longitude":-80.315707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12455 SW 7th Pl",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354081059,
-    "wof:lastmodified":1449066432,
+    "wof:lastmodified":1466437330,
     "wof:name":"Sincal Inc",
     "wof:parent_id":85833709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.315707,26.110011,-80.315707,26.110011],
+  "bbox": [
+    -80.315707,
+    26.110011,
+    -80.315707,
+    26.110011
+],
   "geometry": {"coordinates":[-80.315707,26.110011],"type":"Point"}
 }

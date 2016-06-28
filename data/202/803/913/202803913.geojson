@@ -2,13 +2,14 @@
   "id": 202803913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.401053,28.449928,-81.401053,28.449928",
     "geom:latitude":28.449928,
     "geom:longitude":-81.401053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8110 S Orange Blossom Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202803913,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466432310,
     "wof:name":"A Ace Comics Inc",
     "wof:parent_id":85889431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-81.401053,28.449928,-81.401053,28.449928],
+  "bbox": [
+    -81.401053,
+    28.449928,
+    -81.401053,
+    28.449928
+],
   "geometry": {"coordinates":[-81.401053,28.449928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303512221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.153431,26.32186,-80.153431,26.32186",
     "geom:latitude":26.32186,
     "geom:longitude":-80.153431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 NW 36th Ave",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303512221,
-    "wof:lastmodified":1448999897,
+    "wof:lastmodified":1466439367,
     "wof:name":"Cartier Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.153431,26.32186,-80.153431,26.32186],
+  "bbox": [
+    -80.153431,
+    26.32186,
+    -80.153431,
+    26.32186
+],
   "geometry": {"coordinates":[-80.153431,26.32186],"type":"Point"}
 }

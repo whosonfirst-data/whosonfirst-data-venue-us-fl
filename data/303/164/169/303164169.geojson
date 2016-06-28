@@ -2,13 +2,14 @@
   "id": 303164169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.371821,28.568198,-81.371821,28.568198",
     "geom:latitude":28.568198,
     "geom:longitude":-81.371821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Alden Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303164169,
-    "wof:lastmodified":1448998411,
+    "wof:lastmodified":1466433358,
     "wof:name":"Sauer Incorporated",
     "wof:parent_id":85879477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.371821,28.568198,-81.371821,28.568198],
+  "bbox": [
+    -81.371821,
+    28.568198,
+    -81.371821,
+    28.568198
+],
   "geometry": {"coordinates":[-81.371821,28.568198],"type":"Point"}
 }

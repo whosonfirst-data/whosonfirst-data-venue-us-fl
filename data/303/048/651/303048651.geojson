@@ -2,13 +2,14 @@
   "id": 303048651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.219783,30.420008,-87.219783,30.420008",
     "geom:latitude":30.420008,
     "geom:longitude":-87.219783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Gadsden St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303048651,
-    "wof:lastmodified":1448998968,
+    "wof:lastmodified":1466431284,
     "wof:name":"Five Flags Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-87.219783,30.420008,-87.219783,30.420008],
-  "geometry": {"coordinates":[-87.219783,30.420008],"type":"Point"}
+  "bbox": [
+    -87.219783,
+    30.420008,
+    -87.219783,
+    30.420008
+],
+  "geometry": {"coordinates":[-87.21978300000001,30.420008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236341031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.372943,28.540552,-81.372943,28.540552",
     "geom:latitude":28.540552,
     "geom:longitude":-81.372943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Lake Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236341031,
-    "wof:lastmodified":1449005075,
+    "wof:lastmodified":1466433232,
     "wof:name":"James J Flick",
     "wof:parent_id":85879515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.372943,28.540552,-81.372943,28.540552],
-  "geometry": {"coordinates":[-81.372943,28.540552],"type":"Point"}
+  "bbox": [
+    -81.372943,
+    28.540552,
+    -81.372943,
+    28.540552
+],
+  "geometry": {"coordinates":[-81.37294300000001,28.540552],"type":"Point"}
 }

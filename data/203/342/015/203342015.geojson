@@ -2,13 +2,14 @@
   "id": 203342015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.131504,26.200118,-80.131504,26.200118",
     "geom:latitude":26.200118,
     "geom:longitude":-80.131504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5889 NE 14th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203342015,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466430687,
     "wof:name":"Sun Ridge Realty",
     "wof:parent_id":85812263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.131504,26.200118,-80.131504,26.200118],
-  "geometry": {"coordinates":[-80.131504,26.200118],"type":"Point"}
+  "bbox": [
+    -80.131504,
+    26.200118,
+    -80.131504,
+    26.200118
+],
+  "geometry": {"coordinates":[-80.13150400000001,26.200118],"type":"Point"}
 }

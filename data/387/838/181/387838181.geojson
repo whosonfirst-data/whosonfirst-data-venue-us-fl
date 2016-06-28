@@ -2,13 +2,14 @@
   "id": 387838181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.474094,28.5556,-81.474094,28.5556",
     "geom:latitude":28.5556,
     "geom:longitude":-81.474094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6502 Arundel Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387838181,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1466449066,
     "wof:name":"Daniel Rubenstein",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.474094,28.5556,-81.474094,28.5556],
-  "geometry": {"coordinates":[-81.474094,28.5556],"type":"Point"}
+  "bbox": [
+    -81.474094,
+    28.5556,
+    -81.474094,
+    28.5556
+],
+  "geometry": {"coordinates":[-81.47409399999999,28.5556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202729413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.833444,26.43531,-81.833444,26.43531",
     "geom:latitude":26.43531,
     "geom:longitude":-81.833444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4739 Riverside Dr",
     "sg:city":"Estero",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202729413,
-    "wof:lastmodified":1449061401,
+    "wof:lastmodified":1466431354,
     "wof:name":"Architectural Builders",
     "wof:parent_id":85888763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.833444,26.43531,-81.833444,26.43531],
+  "bbox": [
+    -81.833444,
+    26.43531,
+    -81.833444,
+    26.43531
+],
   "geometry": {"coordinates":[-81.833444,26.43531],"type":"Point"}
 }

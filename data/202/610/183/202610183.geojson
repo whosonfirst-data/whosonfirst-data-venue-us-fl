@@ -2,13 +2,14 @@
   "id": 202610183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.118401,26.200381,-80.118401,26.200381",
     "geom:latitude":26.200381,
     "geom:longitude":-80.118401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 NE 21st Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202610183,
-    "wof:lastmodified":1449062595,
+    "wof:lastmodified":1466429805,
     "wof:name":"Bill Bishop & Associates",
     "wof:parent_id":85826769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-80.118401,26.200381,-80.118401,26.200381],
-  "geometry": {"coordinates":[-80.118401,26.200381],"type":"Point"}
+  "bbox": [
+    -80.118401,
+    26.200381,
+    -80.118401,
+    26.200381
+],
+  "geometry": {"coordinates":[-80.11840100000001,26.200381],"type":"Point"}
 }

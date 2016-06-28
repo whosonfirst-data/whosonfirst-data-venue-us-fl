@@ -2,13 +2,14 @@
   "id": 336716509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.694308,30.354567,-81.694308,30.354567",
     "geom:latitude":30.354567,
     "geom:longitude":-81.694308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Danson St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336716509,
-    "wof:lastmodified":1448997087,
+    "wof:lastmodified":1466436993,
     "wof:name":"Stukes Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.694308,30.354567,-81.694308,30.354567],
-  "geometry": {"coordinates":[-81.694308,30.354567],"type":"Point"}
+  "bbox": [
+    -81.694308,
+    30.354567,
+    -81.694308,
+    30.354567
+],
+  "geometry": {"coordinates":[-81.69430800000001,30.354567],"type":"Point"}
 }

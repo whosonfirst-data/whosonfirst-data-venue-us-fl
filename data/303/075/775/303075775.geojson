@@ -2,13 +2,14 @@
   "id": 303075775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.152335,25.957528,-80.152335,25.957528",
     "geom:latitude":25.957528,
     "geom:longitude":-80.152335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 NE 197th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303075775,
-    "wof:lastmodified":1448999446,
+    "wof:lastmodified":1466431777,
     "wof:name":"Hanna Pools",
     "wof:parent_id":85879301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-80.152335,25.957528,-80.152335,25.957528],
-  "geometry": {"coordinates":[-80.152335,25.957528],"type":"Point"}
+  "bbox": [
+    -80.152335,
+    25.957528,
+    -80.152335,
+    25.957528
+],
+  "geometry": {"coordinates":[-80.15233499999999,25.957528],"type":"Point"}
 }

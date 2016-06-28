@@ -2,13 +2,14 @@
   "id": 220197251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527341,27.32833,-82.527341,27.32833",
     "geom:latitude":27.32833,
     "geom:longitude":-82.527341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2168 Wood St",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220197251,
-    "wof:lastmodified":1449074769,
+    "wof:lastmodified":1466429542,
     "wof:name":"Rachel Lomax Massage Therapy",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-82.527341,27.32833,-82.527341,27.32833],
-  "geometry": {"coordinates":[-82.527341,27.32833],"type":"Point"}
+  "bbox": [
+    -82.527341,
+    27.32833,
+    -82.527341,
+    27.32833
+],
+  "geometry": {"coordinates":[-82.52734100000001,27.32833],"type":"Point"}
 }

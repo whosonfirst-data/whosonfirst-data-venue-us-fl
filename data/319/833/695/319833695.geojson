@@ -2,13 +2,14 @@
   "id": 319833695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.269484,25.779765,-80.269484,25.779765",
     "geom:latitude":25.779765,
     "geom:longitude":-80.269484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 NW 45th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319833695,
-    "wof:lastmodified":1449024196,
+    "wof:lastmodified":1466433027,
     "wof:name":"Monica Manor Apts",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.269484,25.779765,-80.269484,25.779765],
-  "geometry": {"coordinates":[-80.269484,25.779765],"type":"Point"}
+  "bbox": [
+    -80.269484,
+    25.779765,
+    -80.269484,
+    25.779765
+],
+  "geometry": {"coordinates":[-80.26948400000001,25.779765],"type":"Point"}
 }

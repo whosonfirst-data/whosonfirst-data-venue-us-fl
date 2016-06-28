@@ -2,13 +2,14 @@
   "id": 253200481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.588613,30.777327,-85.588613,30.777327",
     "geom:latitude":30.777327,
     "geom:longitude":-85.588613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1871 US Hwy 90",
     "sg:city":"Chipley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253200481,
-    "wof:lastmodified":1449064014,
+    "wof:lastmodified":1466430712,
     "wof:name":"J & H Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-85.588613,30.777327,-85.588613,30.777327],
+  "bbox": [
+    -85.588613,
+    30.777327,
+    -85.588613,
+    30.777327
+],
   "geometry": {"coordinates":[-85.588613,30.777327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303601859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.805441,28.480546,-80.805441,28.480546",
     "geom:latitude":28.480546,
     "geom:longitude":-80.805441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 Carter St",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303601859,
-    "wof:lastmodified":1448999214,
+    "wof:lastmodified":1466440887,
     "wof:name":"Private Karaoke",
     "wof:parent_id":85826895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-80.805441,28.480546,-80.805441,28.480546],
+  "bbox": [
+    -80.805441,
+    28.480546,
+    -80.805441,
+    28.480546
+],
   "geometry": {"coordinates":[-80.805441,28.480546],"type":"Point"}
 }

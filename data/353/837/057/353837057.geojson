@@ -2,13 +2,14 @@
   "id": 353837057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.213583,30.530945,-87.213583,30.530945",
     "geom:latitude":30.530945,
     "geom:longitude":-87.213583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Gloria Cir",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353837057,
-    "wof:lastmodified":1449018652,
+    "wof:lastmodified":1466441509,
     "wof:name":"Air Source",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air"
     ]
 },
-  "bbox": [-87.213583,30.530945,-87.213583,30.530945],
+  "bbox": [
+    -87.213583,
+    30.530945,
+    -87.213583,
+    30.530945
+],
   "geometry": {"coordinates":[-87.213583,30.530945],"type":"Point"}
 }

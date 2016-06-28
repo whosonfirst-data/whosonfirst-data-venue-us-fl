@@ -2,13 +2,14 @@
   "id": 202828121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.65502,27.797217,-82.65502,27.797217",
     "geom:latitude":27.797217,
     "geom:longitude":-82.65502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 16th St N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202828121,
-    "wof:lastmodified":1449061409,
+    "wof:lastmodified":1466432622,
     "wof:name":"Guardian Auto Glass",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-82.65502,27.797217,-82.65502,27.797217],
-  "geometry": {"coordinates":[-82.65502,27.797217],"type":"Point"}
+  "bbox": [
+    -82.65502,
+    27.797217,
+    -82.65502,
+    27.797217
+],
+  "geometry": {"coordinates":[-82.65501999999999,27.797217],"type":"Point"}
 }

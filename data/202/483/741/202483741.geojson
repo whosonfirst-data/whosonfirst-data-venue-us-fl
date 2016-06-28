@@ -2,13 +2,14 @@
   "id": 202483741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.788637,28.027209,-82.788637,28.027209",
     "geom:latitude":28.027209,
     "geom:longitude":-82.788637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 San Salvador Dr",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202483741,
-    "wof:lastmodified":1449062119,
+    "wof:lastmodified":1466445746,
     "wof:name":"Bob Young",
     "wof:parent_id":85815425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-82.788637,28.027209,-82.788637,28.027209],
-  "geometry": {"coordinates":[-82.788637,28.027209],"type":"Point"}
+  "bbox": [
+    -82.788637,
+    28.027209,
+    -82.788637,
+    28.027209
+],
+  "geometry": {"coordinates":[-82.78863699999999,28.027209],"type":"Point"}
 }

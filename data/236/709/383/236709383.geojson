@@ -2,13 +2,14 @@
   "id": 236709383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080401,26.420897,-80.080401,26.420897",
     "geom:latitude":26.420897,
     "geom:longitude":-80.080401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 E Country Club Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236709383,
-    "wof:lastmodified":1449002170,
+    "wof:lastmodified":1466438511,
     "wof:name":"Global Web Appeal",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "internet"
     ]
 },
-  "bbox": [-80.080401,26.420897,-80.080401,26.420897],
-  "geometry": {"coordinates":[-80.080401,26.420897],"type":"Point"}
+  "bbox": [
+    -80.080401,
+    26.420897,
+    -80.080401,
+    26.420897
+],
+  "geometry": {"coordinates":[-80.08040099999999,26.420897],"type":"Point"}
 }

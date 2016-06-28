@@ -2,13 +2,14 @@
   "id": 186102607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.563459,30.269617,-81.563459,30.269617",
     "geom:latitude":30.269617,
     "geom:longitude":-81.563459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 Touchton Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186102607,
-    "wof:lastmodified":1449052826,
+    "wof:lastmodified":1466445610,
     "wof:name":"Floor Prep Inc",
     "wof:parent_id":85870713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-81.563459,30.269617,-81.563459,30.269617],
-  "geometry": {"coordinates":[-81.563459,30.269617],"type":"Point"}
+  "bbox": [
+    -81.563459,
+    30.269617,
+    -81.563459,
+    30.269617
+],
+  "geometry": {"coordinates":[-81.56345899999999,30.269617],"type":"Point"}
 }

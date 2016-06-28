@@ -2,13 +2,14 @@
   "id": 387717135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.501793,27.594757,-81.501793,27.594757",
     "geom:latitude":27.594757,
     "geom:longitude":-81.501793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 E Pine St",
     "sg:city":"Avon Park",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387717135,
-    "wof:lastmodified":1449056219,
+    "wof:lastmodified":1466448241,
     "wof:name":"Barben Harvesting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "grower"
     ]
 },
-  "bbox": [-81.501793,27.594757,-81.501793,27.594757],
-  "geometry": {"coordinates":[-81.501793,27.594757],"type":"Point"}
+  "bbox": [
+    -81.501793,
+    27.594757,
+    -81.501793,
+    27.594757
+],
+  "geometry": {"coordinates":[-81.50179300000001,27.594757],"type":"Point"}
 }

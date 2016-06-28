@@ -2,13 +2,14 @@
   "id": 354404615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.26954,29.365869,-82.26954,29.365869",
     "geom:latitude":29.365869,
     "geom:longitude":-82.26954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9187 W Hwy 316",
     "sg:city":"Reddick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354404615,
-    "wof:lastmodified":1449067104,
+    "wof:lastmodified":1466442281,
     "wof:name":"Sun Valley Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-82.26954,29.365869,-82.26954,29.365869],
-  "geometry": {"coordinates":[-82.26954,29.365869],"type":"Point"}
+  "bbox": [
+    -82.26954,
+    29.365869,
+    -82.26954,
+    29.365869
+],
+  "geometry": {"coordinates":[-82.26954000000001,29.365869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370303197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387332,28.105746,-82.387332,28.105746",
     "geom:latitude":28.105746,
     "geom:longitude":-82.387332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Compton Estates Way",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370303197,
-    "wof:lastmodified":1449029097,
+    "wof:lastmodified":1466438801,
     "wof:name":"Compton Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.387332,28.105746,-82.387332,28.105746],
+  "bbox": [
+    -82.387332,
+    28.105746,
+    -82.387332,
+    28.105746
+],
   "geometry": {"coordinates":[-82.387332,28.105746],"type":"Point"}
 }

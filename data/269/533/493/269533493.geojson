@@ -2,13 +2,14 @@
   "id": 269533493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.866385,28.908342,-81.866385,28.908342",
     "geom:latitude":28.908342,
     "geom:longitude":-81.866385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 Bertsville Rd",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269533493,
-    "wof:lastmodified":1449036117,
+    "wof:lastmodified":1466429361,
     "wof:name":"Burke Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-81.866385,28.908342,-81.866385,28.908342],
-  "geometry": {"coordinates":[-81.866385,28.908342],"type":"Point"}
+  "bbox": [
+    -81.866385,
+    28.908342,
+    -81.866385,
+    28.908342
+],
+  "geometry": {"coordinates":[-81.86638499999999,28.908342],"type":"Point"}
 }

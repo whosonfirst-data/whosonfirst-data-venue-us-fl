@@ -2,13 +2,14 @@
   "id": 219797993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.602968,30.333697,-81.602968,30.333697",
     "geom:latitude":30.333697,
     "geom:longitude":-81.602968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5545 Arlington Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219797993,
-    "wof:lastmodified":1449073568,
+    "wof:lastmodified":1466435418,
     "wof:name":"Print Runner Technologies",
     "wof:parent_id":85870709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-81.602968,30.333697,-81.602968,30.333697],
+  "bbox": [
+    -81.602968,
+    30.333697,
+    -81.602968,
+    30.333697
+],
   "geometry": {"coordinates":[-81.602968,30.333697],"type":"Point"}
 }

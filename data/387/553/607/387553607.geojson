@@ -2,13 +2,14 @@
   "id": 387553607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.692726,30.311106,-81.692726,30.311106",
     "geom:latitude":30.311106,
     "geom:longitude":-81.692726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 Park St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387553607,
-    "wof:lastmodified":1449056136,
+    "wof:lastmodified":1466447027,
     "wof:name":"Park & King Pharmacy",
     "wof:parent_id":85844941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.692726,30.311106,-81.692726,30.311106],
-  "geometry": {"coordinates":[-81.692726,30.311106],"type":"Point"}
+  "bbox": [
+    -81.692726,
+    30.311106,
+    -81.692726,
+    30.311106
+],
+  "geometry": {"coordinates":[-81.69272599999999,30.311106],"type":"Point"}
 }

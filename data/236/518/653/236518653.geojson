@@ -2,13 +2,14 @@
   "id": 236518653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.386244,28.656296,-81.386244,28.656296",
     "geom:latitude":28.656296,
     "geom:longitude":-81.386244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S North Lake Blvd",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236518653,
-    "wof:lastmodified":1449003529,
+    "wof:lastmodified":1466435729,
     "wof:name":"Helicoid Instruments",
     "wof:parent_id":85896097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gage"
     ]
 },
-  "bbox": [-81.386244,28.656296,-81.386244,28.656296],
+  "bbox": [
+    -81.386244,
+    28.656296,
+    -81.386244,
+    28.656296
+],
   "geometry": {"coordinates":[-81.386244,28.656296],"type":"Point"}
 }

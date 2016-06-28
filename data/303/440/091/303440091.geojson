@@ -2,13 +2,14 @@
   "id": 303440091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.409495,25.129312,-80.409495,25.129312",
     "geom:latitude":25.129312,
     "geom:longitude":-80.409495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102600 US Hwy 1",
     "sg:city":"Key Largo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303440091,
-    "wof:lastmodified":1448998983,
+    "wof:lastmodified":1466438112,
     "wof:name":"Waterhouse Photo Tours",
     "wof:parent_id":85836845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-80.409495,25.129312,-80.409495,25.129312],
-  "geometry": {"coordinates":[-80.409495,25.129312],"type":"Point"}
+  "bbox": [
+    -80.409495,
+    25.129312,
+    -80.409495,
+    25.129312
+],
+  "geometry": {"coordinates":[-80.40949500000001,25.129312],"type":"Point"}
 }

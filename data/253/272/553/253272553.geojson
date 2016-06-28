@@ -2,13 +2,14 @@
   "id": 253272553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.705036,28.300932,-82.705036,28.300932",
     "geom:latitude":28.300932,
     "geom:longitude":-82.705036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10039 US Hwy 19",
     "sg:city":"Port Richey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253272553,
-    "wof:lastmodified":1449065586,
+    "wof:lastmodified":1466431772,
     "wof:name":"Breakfast Station",
     "wof:parent_id":85889483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.705036,28.300932,-82.705036,28.300932],
-  "geometry": {"coordinates":[-82.705036,28.300932],"type":"Point"}
+  "bbox": [
+    -82.705036,
+    28.300932,
+    -82.705036,
+    28.300932
+],
+  "geometry": {"coordinates":[-82.70503600000001,28.300932],"type":"Point"}
 }

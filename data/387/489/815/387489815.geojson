@@ -2,13 +2,14 @@
   "id": 387489815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143309,26.115128,-80.143309,26.115128",
     "geom:latitude":26.115128,
     "geom:longitude":-80.143309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S Andrews Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387489815,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1466446212,
     "wof:name":"Cohn & Galanter",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-80.143309,26.115128,-80.143309,26.115128],
+  "bbox": [
+    -80.143309,
+    26.115128,
+    -80.143309,
+    26.115128
+],
   "geometry": {"coordinates":[-80.143309,26.115128],"type":"Point"}
 }

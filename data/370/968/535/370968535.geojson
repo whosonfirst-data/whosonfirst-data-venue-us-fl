@@ -2,13 +2,14 @@
   "id": 370968535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.830012,27.260538,-80.830012,27.260538",
     "geom:latitude":27.260538,
     "geom:longitude":-80.830012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 US Hwy 441",
     "sg:city":"Okeechobee",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370968535,
-    "wof:lastmodified":1449029296,
+    "wof:lastmodified":1466447892,
     "wof:name":"Surgery Center of Okeechobee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.830012,27.260538,-80.830012,27.260538],
+  "bbox": [
+    -80.830012,
+    27.260538,
+    -80.830012,
+    27.260538
+],
   "geometry": {"coordinates":[-80.830012,27.260538],"type":"Point"}
 }

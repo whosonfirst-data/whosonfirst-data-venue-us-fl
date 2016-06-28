@@ -2,13 +2,14 @@
   "id": 370207225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.682786,27.846927,-82.682786,27.846927",
     "geom:latitude":27.846927,
     "geom:longitude":-82.682786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34601 Pine Dr",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370207225,
-    "wof:lastmodified":1449031452,
+    "wof:lastmodified":1466437338,
     "wof:name":"Hugo S Place",
     "wof:parent_id":85889563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.682786,27.846927,-82.682786,27.846927],
-  "geometry": {"coordinates":[-82.682786,27.846927],"type":"Point"}
+  "bbox": [
+    -82.682786,
+    27.846927,
+    -82.682786,
+    27.846927
+],
+  "geometry": {"coordinates":[-82.68278599999999,27.846927],"type":"Point"}
 }

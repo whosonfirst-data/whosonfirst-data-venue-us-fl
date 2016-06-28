@@ -2,13 +2,14 @@
   "id": 219309677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354621,27.293195,-80.354621,27.293195",
     "geom:latitude":27.293195,
     "geom:longitude":-80.354621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 SW Whitmore Dr",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219309677,
-    "wof:lastmodified":1449071184,
+    "wof:lastmodified":1466428902,
     "wof:name":"Boats By James Penix",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.354621,27.293195,-80.354621,27.293195],
-  "geometry": {"coordinates":[-80.354621,27.293195],"type":"Point"}
+  "bbox": [
+    -80.354621,
+    27.293195,
+    -80.354621,
+    27.293195
+],
+  "geometry": {"coordinates":[-80.35462099999999,27.293195],"type":"Point"}
 }

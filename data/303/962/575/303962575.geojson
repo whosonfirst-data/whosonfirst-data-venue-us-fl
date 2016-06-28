@@ -2,13 +2,14 @@
   "id": 303962575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354584,25.811581,-80.354584,25.811581",
     "geom:latitude":25.811581,
     "geom:longitude":-80.354584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 NW 41st St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303962575,
-    "wof:lastmodified":1448999559,
+    "wof:lastmodified":1466446853,
     "wof:name":"Miami Duty Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "bank"
     ]
 },
-  "bbox": [-80.354584,25.811581,-80.354584,25.811581],
+  "bbox": [
+    -80.354584,
+    25.811581,
+    -80.354584,
+    25.811581
+],
   "geometry": {"coordinates":[-80.354584,25.811581],"type":"Point"}
 }

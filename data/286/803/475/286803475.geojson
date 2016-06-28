@@ -2,13 +2,14 @@
   "id": 286803475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.23717,30.484735,-84.23717,30.484735",
     "geom:latitude":30.484735,
     "geom:longitude":-84.23717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2370 Capital Cir NE",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286803475,
-    "wof:lastmodified":1449018116,
+    "wof:lastmodified":1466439158,
     "wof:name":"First Impression By Phyllis",
     "wof:parent_id":85889647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.23717,30.484735,-84.23717,30.484735],
-  "geometry": {"coordinates":[-84.23717,30.484735],"type":"Point"}
+  "bbox": [
+    -84.23717,
+    30.484735,
+    -84.23717,
+    30.484735
+],
+  "geometry": {"coordinates":[-84.23717000000001,30.484735],"type":"Point"}
 }

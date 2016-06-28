@@ -2,13 +2,14 @@
   "id": 203358169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.515327,27.268143,-82.515327,27.268143",
     "geom:latitude":27.268143,
     "geom:longitude":-82.515327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 Stickney Point Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203358169,
-    "wof:lastmodified":1449025722,
+    "wof:lastmodified":1466430881,
     "wof:name":"Atlantis Aquariums",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "good"
     ]
 },
-  "bbox": [-82.515327,27.268143,-82.515327,27.268143],
+  "bbox": [
+    -82.515327,
+    27.268143,
+    -82.515327,
+    27.268143
+],
   "geometry": {"coordinates":[-82.515327,27.268143],"type":"Point"}
 }

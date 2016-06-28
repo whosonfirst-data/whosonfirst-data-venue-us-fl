@@ -2,13 +2,14 @@
   "id": 270235533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.56162,30.390524,-81.56162,30.390524",
     "geom:latitude":30.390524,
     "geom:longitude":-81.56162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9051 Dames Point Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270235533,
-    "wof:lastmodified":1449009057,
+    "wof:lastmodified":1466433495,
     "wof:name":"Moran Towing Of Florida",
     "wof:parent_id":85868545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-81.56162,30.390524,-81.56162,30.390524],
+  "bbox": [
+    -81.56162,
+    30.390524,
+    -81.56162,
+    30.390524
+],
   "geometry": {"coordinates":[-81.56162,30.390524],"type":"Point"}
 }

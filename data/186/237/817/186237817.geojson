@@ -2,13 +2,14 @@
   "id": 186237817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137211,25.933527,-80.137211,25.933527",
     "geom:latitude":25.933527,
     "geom:longitude":-80.137211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16531 NE 35th Ave",
     "sg:city":"North Miami Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186237817,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1466429542,
     "wof:name":"Florida Financial Network Inc",
     "wof:parent_id":85816987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-80.137211,25.933527,-80.137211,25.933527],
-  "geometry": {"coordinates":[-80.137211,25.933527],"type":"Point"}
+  "bbox": [
+    -80.137211,
+    25.933527,
+    -80.137211,
+    25.933527
+],
+  "geometry": {"coordinates":[-80.13721099999999,25.933527],"type":"Point"}
 }

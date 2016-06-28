@@ -2,13 +2,14 @@
   "id": 186333425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130196,26.190409,-80.130196,26.190409",
     "geom:latitude":26.190409,
     "geom:longitude":-80.130196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5040 NE 13th Ave",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186333425,
-    "wof:lastmodified":1449052843,
+    "wof:lastmodified":1466430699,
     "wof:name":"Animal Hospital At Merryfield",
     "wof:parent_id":85812253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "animal"
     ]
 },
-  "bbox": [-80.130196,26.190409,-80.130196,26.190409],
+  "bbox": [
+    -80.130196,
+    26.190409,
+    -80.130196,
+    26.190409
+],
   "geometry": {"coordinates":[-80.130196,26.190409],"type":"Point"}
 }

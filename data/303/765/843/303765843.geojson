@@ -2,13 +2,14 @@
   "id": 303765843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.652347,30.46797,-86.652347,30.46797",
     "geom:latitude":30.46797,
     "geom:longitude":-86.652347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 Yorktown Cir",
     "sg:city":"Fort Walton Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303765843,
-    "wof:lastmodified":1448999534,
+    "wof:lastmodified":1466443731,
     "wof:name":"Chez J Catering",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-86.652347,30.46797,-86.652347,30.46797],
-  "geometry": {"coordinates":[-86.652347,30.46797],"type":"Point"}
+  "bbox": [
+    -86.652347,
+    30.46797,
+    -86.652347,
+    30.46797
+],
+  "geometry": {"coordinates":[-86.65234700000001,30.46797],"type":"Point"}
 }

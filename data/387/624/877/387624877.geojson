@@ -2,13 +2,14 @@
   "id": 387624877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.86468,26.98686,-81.86468,26.98686",
     "geom:latitude":26.98686,
     "geom:longitude":-81.86468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18151 Prairie Creek Blvd",
     "sg:city":"Punta Gorda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387624877,
-    "wof:lastmodified":1449058721,
+    "wof:lastmodified":1466447727,
     "wof:name":"Historic Punta Gorda Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.86468,26.98686,-81.86468,26.98686],
-  "geometry": {"coordinates":[-81.86468,26.98686],"type":"Point"}
+  "bbox": [
+    -81.86468,
+    26.98686,
+    -81.86468,
+    26.98686
+],
+  "geometry": {"coordinates":[-81.86468000000001,26.98686],"type":"Point"}
 }

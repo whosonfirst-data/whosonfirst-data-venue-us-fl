@@ -2,13 +2,14 @@
   "id": 320448947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.559001,30.151147,-85.559001,30.151147",
     "geom:latitude":30.151147,
     "geom:longitude":-85.559001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Sukoshi Dr",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320448947,
-    "wof:lastmodified":1449014780,
+    "wof:lastmodified":1466441112,
     "wof:name":"Curtis C Bloyd Painting Servic",
     "wof:parent_id":85839285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.559001,30.151147,-85.559001,30.151147],
-  "geometry": {"coordinates":[-85.559001,30.151147],"type":"Point"}
+  "bbox": [
+    -85.559001,
+    30.151147,
+    -85.559001,
+    30.151147
+],
+  "geometry": {"coordinates":[-85.55900099999999,30.151147],"type":"Point"}
 }

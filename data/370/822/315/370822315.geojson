@@ -2,13 +2,14 @@
   "id": 370822315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210596,26.191109,-80.210596,26.191109",
     "geom:latitude":26.191109,
     "geom:longitude":-80.210596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 W Commercial Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370822315,
-    "wof:lastmodified":1449032370,
+    "wof:lastmodified":1466446730,
     "wof:name":"Fire Station No78",
     "wof:parent_id":85865209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-80.210596,26.191109,-80.210596,26.191109],
+  "bbox": [
+    -80.210596,
+    26.191109,
+    -80.210596,
+    26.191109
+],
   "geometry": {"coordinates":[-80.210596,26.191109],"type":"Point"}
 }

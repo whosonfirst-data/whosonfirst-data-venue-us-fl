@@ -2,13 +2,14 @@
   "id": 202648747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.201012,30.490622,-87.201012,30.490622",
     "geom:latitude":30.490622,
     "geom:longitude":-87.201012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 Schwab Dr",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202648747,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466430327,
     "wof:name":"Schwab Drive Baptist Church",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-87.201012,30.490622,-87.201012,30.490622],
-  "geometry": {"coordinates":[-87.201012,30.490622],"type":"Point"}
+  "bbox": [
+    -87.201012,
+    30.490622,
+    -87.201012,
+    30.490622
+],
+  "geometry": {"coordinates":[-87.20101200000001,30.490622],"type":"Point"}
 }

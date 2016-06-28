@@ -2,13 +2,14 @@
   "id": 336849421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129056,25.812822,-80.129056,25.812822",
     "geom:latitude":25.812822,
     "geom:longitude":-80.129056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W 40th St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336849421,
-    "wof:lastmodified":1448997148,
+    "wof:lastmodified":1466439322,
     "wof:name":"Florida Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "conservation"
     ]
 },
-  "bbox": [-80.129056,25.812822,-80.129056,25.812822],
-  "geometry": {"coordinates":[-80.129056,25.812822],"type":"Point"}
+  "bbox": [
+    -80.129056,
+    25.812822,
+    -80.129056,
+    25.812822
+],
+  "geometry": {"coordinates":[-80.12905600000001,25.812822],"type":"Point"}
 }

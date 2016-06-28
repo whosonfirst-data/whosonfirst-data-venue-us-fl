@@ -2,13 +2,14 @@
   "id": 286508063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.545567,28.527615,-81.545567,28.527615",
     "geom:latitude":28.527615,
     "geom:longitude":-81.545567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Lascala Dr",
     "sg:city":"Windermere",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286508063,
-    "wof:lastmodified":1449016826,
+    "wof:lastmodified":1466433906,
     "wof:name":"DMD Intl Inc",
     "wof:parent_id":85889899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sample"
     ]
 },
-  "bbox": [-81.545567,28.527615,-81.545567,28.527615],
-  "geometry": {"coordinates":[-81.545567,28.527615],"type":"Point"}
+  "bbox": [
+    -81.545567,
+    28.527615,
+    -81.545567,
+    28.527615
+],
+  "geometry": {"coordinates":[-81.54556700000001,28.527615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202623923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.097038,29.339039,-82.097038,29.339039",
     "geom:latitude":29.339039,
     "geom:longitude":-82.097038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 NE Co Rd 329",
     "sg:city":"Anthony",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202623923,
-    "wof:lastmodified":1449061876,
+    "wof:lastmodified":1466429997,
     "wof:name":"Bill Tripp Fence",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-82.097038,29.339039,-82.097038,29.339039],
+  "bbox": [
+    -82.097038,
+    29.339039,
+    -82.097038,
+    29.339039
+],
   "geometry": {"coordinates":[-82.097038,29.339039],"type":"Point"}
 }

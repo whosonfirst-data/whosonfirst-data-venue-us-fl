@@ -2,13 +2,14 @@
   "id": 320827783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.507012,27.288256,-82.507012,27.288256",
     "geom:latitude":27.288256,
     "geom:longitude":-82.507012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4524 Olive Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320827783,
-    "wof:lastmodified":1449012611,
+    "wof:lastmodified":1466447148,
     "wof:name":"Matthew Fletcher Carpentry",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-82.507012,27.288256,-82.507012,27.288256],
+  "bbox": [
+    -82.507012,
+    27.288256,
+    -82.507012,
+    27.288256
+],
   "geometry": {"coordinates":[-82.507012,27.288256],"type":"Point"}
 }

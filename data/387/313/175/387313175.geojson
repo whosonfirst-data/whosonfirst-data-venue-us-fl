@@ -2,13 +2,14 @@
   "id": 387313175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.398752,27.643813,-80.398752,27.643813",
     "geom:latitude":27.643813,
     "geom:longitude":-80.398752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 US Hwy 1",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387313175,
-    "wof:lastmodified":1449056233,
+    "wof:lastmodified":1466443532,
     "wof:name":"Jenkins Auto Sales",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-80.398752,27.643813,-80.398752,27.643813],
+  "bbox": [
+    -80.398752,
+    27.643813,
+    -80.398752,
+    27.643813
+],
   "geometry": {"coordinates":[-80.398752,27.643813],"type":"Point"}
 }

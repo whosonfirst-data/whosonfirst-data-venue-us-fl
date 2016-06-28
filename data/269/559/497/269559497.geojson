@@ -2,13 +2,14 @@
   "id": 269559497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.72217,28.00394,-81.72217,28.00394",
     "geom:latitude":28.00394,
     "geom:longitude":-81.72217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Cypress Gardens Blvd",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269559497,
-    "wof:lastmodified":1449038310,
+    "wof:lastmodified":1466429825,
     "wof:name":"Food Lion Store 1075",
     "wof:parent_id":85829195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chain"
     ]
 },
-  "bbox": [-81.72217,28.00394,-81.72217,28.00394],
-  "geometry": {"coordinates":[-81.72217,28.00394],"type":"Point"}
+  "bbox": [
+    -81.72217,
+    28.00394,
+    -81.72217,
+    28.00394
+],
+  "geometry": {"coordinates":[-81.72217000000001,28.00394],"type":"Point"}
 }

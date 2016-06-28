@@ -2,13 +2,14 @@
   "id": 185735047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.288672,28.51927,-81.288672,28.51927",
     "geom:latitude":28.51927,
     "geom:longitude":-81.288672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2099 S Goldenrod Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185735047,
-    "wof:lastmodified":1449008151,
+    "wof:lastmodified":1466446084,
     "wof:name":"Rightway Food Mart",
     "wof:parent_id":85889405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-81.288672,28.51927,-81.288672,28.51927],
-  "geometry": {"coordinates":[-81.288672,28.51927],"type":"Point"}
+  "bbox": [
+    -81.288672,
+    28.51927,
+    -81.288672,
+    28.51927
+],
+  "geometry": {"coordinates":[-81.28867200000001,28.51927],"type":"Point"}
 }

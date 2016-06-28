@@ -2,13 +2,14 @@
   "id": 185731405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.088096,26.666434,-80.088096,26.666434",
     "geom:latitude":26.666434,
     "geom:longitude":-80.088096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Congress Ave",
     "sg:city":"Delray Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185731405,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1466446036,
     "wof:name":"Property Appraiser",
     "wof:parent_id":85811465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraisal"
     ]
 },
-  "bbox": [-80.088096,26.666434,-80.088096,26.666434],
-  "geometry": {"coordinates":[-80.088096,26.666434],"type":"Point"}
+  "bbox": [
+    -80.088096,
+    26.666434,
+    -80.088096,
+    26.666434
+],
+  "geometry": {"coordinates":[-80.08809599999999,26.666434],"type":"Point"}
 }

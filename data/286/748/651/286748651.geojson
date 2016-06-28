@@ -2,13 +2,14 @@
   "id": 286748651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050179,26.738994,-80.050179,26.738994",
     "geom:latitude":26.738994,
     "geom:longitude":-80.050179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 N Flagler Dr",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286748651,
-    "wof:lastmodified":1449017388,
+    "wof:lastmodified":1466438228,
     "wof:name":"Temple Beth El",
     "wof:parent_id":85881809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-80.050179,26.738994,-80.050179,26.738994],
+  "bbox": [
+    -80.050179,
+    26.738994,
+    -80.050179,
+    26.738994
+],
   "geometry": {"coordinates":[-80.050179,26.738994],"type":"Point"}
 }

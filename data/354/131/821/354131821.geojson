@@ -2,13 +2,14 @@
   "id": 354131821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.956449,26.625291,-81.956449,26.625291",
     "geom:latitude":26.625291,
     "geom:longitude":-81.956449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Country Club Blvd",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354131821,
-    "wof:lastmodified":1449066419,
+    "wof:lastmodified":1466438114,
     "wof:name":"Sterling House of Cape Coral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.956449,26.625291,-81.956449,26.625291],
-  "geometry": {"coordinates":[-81.956449,26.625291],"type":"Point"}
+  "bbox": [
+    -81.956449,
+    26.625291,
+    -81.956449,
+    26.625291
+],
+  "geometry": {"coordinates":[-81.95644900000001,26.625291],"type":"Point"}
 }

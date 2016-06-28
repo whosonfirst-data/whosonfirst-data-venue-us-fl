@@ -2,13 +2,14 @@
   "id": 403838375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.396183,28.097648,-82.396183,28.097648",
     "geom:latitude":28.097648,
     "geom:longitude":-82.396183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5311 Ambrose Ct",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403838375,
-    "wof:lastmodified":1449054780,
+    "wof:lastmodified":1466441757,
     "wof:name":"Robert F Bedford MD",
     "wof:parent_id":85873765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.396183,28.097648,-82.396183,28.097648],
-  "geometry": {"coordinates":[-82.396183,28.097648],"type":"Point"}
+  "bbox": [
+    -82.396183,
+    28.097648,
+    -82.396183,
+    28.097648
+],
+  "geometry": {"coordinates":[-82.39618299999999,28.097648],"type":"Point"}
 }

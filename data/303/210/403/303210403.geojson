@@ -2,13 +2,14 @@
   "id": 303210403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.763038,30.180661,-85.763038,30.180661",
     "geom:latitude":30.180661,
     "geom:longitude":-85.763038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Enterprise Dr",
     "sg:city":"Panama City Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303210403,
-    "wof:lastmodified":1448998948,
+    "wof:lastmodified":1466434169,
     "wof:name":"Flowers Baking Co",
     "wof:parent_id":85831293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-85.763038,30.180661,-85.763038,30.180661],
-  "geometry": {"coordinates":[-85.763038,30.180661],"type":"Point"}
+  "bbox": [
+    -85.763038,
+    30.180661,
+    -85.763038,
+    30.180661
+],
+  "geometry": {"coordinates":[-85.76303799999999,30.180661],"type":"Point"}
 }

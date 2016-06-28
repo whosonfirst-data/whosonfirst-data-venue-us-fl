@@ -2,13 +2,14 @@
   "id": 253410963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.450184,26.440118,-81.450184,26.440118",
     "geom:latitude":26.440118,
     "geom:longitude":-81.450184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 Carson Rd",
     "sg:city":"Immokalee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253410963,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1466434057,
     "wof:name":"Canova Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.450184,26.440118,-81.450184,26.440118],
-  "geometry": {"coordinates":[-81.450184,26.440118],"type":"Point"}
+  "bbox": [
+    -81.450184,
+    26.440118,
+    -81.450184,
+    26.440118
+],
+  "geometry": {"coordinates":[-81.45018399999999,26.440118],"type":"Point"}
 }

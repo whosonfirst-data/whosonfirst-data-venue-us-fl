@@ -2,13 +2,14 @@
   "id": 185763619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.827576,27.972797,-82.827576,27.972797",
     "geom:latitude":27.972797,
     "geom:longitude":-82.827576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Hamden Dr",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185763619,
-    "wof:lastmodified":1449008199,
+    "wof:lastmodified":1466428625,
     "wof:name":"Sandman Motel",
     "wof:parent_id":85888685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.827576,27.972797,-82.827576,27.972797],
-  "geometry": {"coordinates":[-82.827576,27.972797],"type":"Point"}
+  "bbox": [
+    -82.827576,
+    27.972797,
+    -82.827576,
+    27.972797
+],
+  "geometry": {"coordinates":[-82.82757599999999,27.972797],"type":"Point"}
 }

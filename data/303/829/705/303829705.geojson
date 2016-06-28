@@ -2,13 +2,14 @@
   "id": 303829705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101349,26.364789,-80.101349,26.364789",
     "geom:latitude":26.364789,
     "geom:longitude":-80.101349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Glades Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303829705,
-    "wof:lastmodified":1449000406,
+    "wof:lastmodified":1466444811,
     "wof:name":"Neil L Kronick DDS",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-80.101349,26.364789,-80.101349,26.364789],
+  "bbox": [
+    -80.101349,
+    26.364789,
+    -80.101349,
+    26.364789
+],
   "geometry": {"coordinates":[-80.101349,26.364789],"type":"Point"}
 }

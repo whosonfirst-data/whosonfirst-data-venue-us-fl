@@ -2,13 +2,14 @@
   "id": 370912279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.730488,28.349528,-80.730488,28.349528",
     "geom:latitude":28.349528,
     "geom:longitude":-80.730488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 S Cocoa Blvd",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370912279,
-    "wof:lastmodified":1449030753,
+    "wof:lastmodified":1466447458,
     "wof:name":"Video X",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.730488,28.349528,-80.730488,28.349528],
-  "geometry": {"coordinates":[-80.730488,28.349528],"type":"Point"}
+  "bbox": [
+    -80.730488,
+    28.349528,
+    -80.730488,
+    28.349528
+],
+  "geometry": {"coordinates":[-80.73048799999999,28.349528],"type":"Point"}
 }

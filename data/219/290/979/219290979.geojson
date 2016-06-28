@@ -2,13 +2,14 @@
   "id": 219290979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.048841,29.246311,-81.048841,29.246311",
     "geom:latitude":29.246311,
     "geom:longitude":-81.048841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Graham Ave",
     "sg:city":"Holly Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219290979,
-    "wof:lastmodified":1449071905,
+    "wof:lastmodified":1466428635,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.048841,29.246311,-81.048841,29.246311],
+  "bbox": [
+    -81.048841,
+    29.246311,
+    -81.048841,
+    29.246311
+],
   "geometry": {"coordinates":[-81.048841,29.246311],"type":"Point"}
 }

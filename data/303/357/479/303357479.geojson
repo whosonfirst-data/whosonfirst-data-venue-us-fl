@@ -2,13 +2,14 @@
   "id": 303357479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04076,26.701818,-80.04076,26.701818",
     "geom:latitude":26.701818,
     "geom:longitude":-80.04076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Peruvian Ave",
     "sg:city":"Palm Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303357479,
-    "wof:lastmodified":1449000268,
+    "wof:lastmodified":1466436699,
     "wof:name":"Dadrians",
     "wof:parent_id":85881799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-80.04076,26.701818,-80.04076,26.701818],
-  "geometry": {"coordinates":[-80.04076,26.701818],"type":"Point"}
+  "bbox": [
+    -80.04076,
+    26.701818,
+    -80.04076,
+    26.701818
+],
+  "geometry": {"coordinates":[-80.04076000000001,26.701818],"type":"Point"}
 }

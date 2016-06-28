@@ -2,13 +2,14 @@
   "id": 403954253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110286,26.189576,-80.110286,26.189576",
     "geom:latitude":26.189576,
     "geom:longitude":-80.110286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E Commercial Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403954253,
-    "wof:lastmodified":1449055799,
+    "wof:lastmodified":1466443588,
     "wof:name":"Wheelchair Foundation",
     "wof:parent_id":85877535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-80.110286,26.189576,-80.110286,26.189576],
+  "bbox": [
+    -80.110286,
+    26.189576,
+    -80.110286,
+    26.189576
+],
   "geometry": {"coordinates":[-80.110286,26.189576],"type":"Point"}
 }

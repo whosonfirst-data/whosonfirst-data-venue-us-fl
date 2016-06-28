@@ -2,13 +2,14 @@
   "id": 252761287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.271994,30.515414,-87.271994,30.515414",
     "geom:latitude":30.515414,
     "geom:longitude":-87.271994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8121 Pensacola Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252761287,
-    "wof:lastmodified":1449006243,
+    "wof:lastmodified":1466429190,
     "wof:name":"BPA Body Parts Of America",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-87.271994,30.515414,-87.271994,30.515414],
-  "geometry": {"coordinates":[-87.271994,30.515414],"type":"Point"}
+  "bbox": [
+    -87.271994,
+    30.515414,
+    -87.271994,
+    30.515414
+],
+  "geometry": {"coordinates":[-87.27199400000001,30.515414],"type":"Point"}
 }

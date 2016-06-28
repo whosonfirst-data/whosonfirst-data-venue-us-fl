@@ -2,13 +2,14 @@
   "id": 303380853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.78911,27.967212,-82.78911,27.967212",
     "geom:latitude":27.967212,
     "geom:longitude":-82.78911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 NE Cleveland St",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303380853,
-    "wof:lastmodified":1448999253,
+    "wof:lastmodified":1466437091,
     "wof:name":"Kimberly Home Inc",
     "wof:parent_id":85888657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.78911,27.967212,-82.78911,27.967212],
-  "geometry": {"coordinates":[-82.78911,27.967212],"type":"Point"}
+  "bbox": [
+    -82.78911,
+    27.967212,
+    -82.78911,
+    27.967212
+],
+  "geometry": {"coordinates":[-82.78910999999999,27.967212],"type":"Point"}
 }

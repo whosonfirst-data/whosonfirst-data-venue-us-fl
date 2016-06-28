@@ -2,13 +2,14 @@
   "id": 320605753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.690409,30.384439,-81.690409,30.384439",
     "geom:latitude":30.384439,
     "geom:longitude":-81.690409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 Edgewood Ave W",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320605753,
-    "wof:lastmodified":1449013077,
+    "wof:lastmodified":1466443890,
     "wof:name":"Edgewood Nursing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-81.690409,30.384439,-81.690409,30.384439],
+  "bbox": [
+    -81.690409,
+    30.384439,
+    -81.690409,
+    30.384439
+],
   "geometry": {"coordinates":[-81.690409,30.384439],"type":"Point"}
 }

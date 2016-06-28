@@ -2,13 +2,14 @@
   "id": 286599291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.352124,25.635052,-80.352124,25.635052",
     "geom:latitude":25.635052,
     "geom:longitude":-80.352124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 SW 145th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286599291,
-    "wof:lastmodified":1449016553,
+    "wof:lastmodified":1466435530,
     "wof:name":"Marina At Marina Bay LP",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-80.352124,25.635052,-80.352124,25.635052],
+  "bbox": [
+    -80.352124,
+    25.635052,
+    -80.352124,
+    25.635052
+],
   "geometry": {"coordinates":[-80.352124,25.635052],"type":"Point"}
 }

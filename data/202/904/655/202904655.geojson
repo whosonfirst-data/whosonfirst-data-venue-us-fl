@@ -2,13 +2,14 @@
   "id": 202904655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174708,25.862116,-80.174708,25.862116",
     "geom:latitude":25.862116,
     "geom:longitude":-80.174708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9330 NE 12th Ave",
     "sg:city":"Miami Shores",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202904655,
-    "wof:lastmodified":1449062727,
+    "wof:lastmodified":1466433663,
     "wof:name":"Packard Consulting",
     "wof:parent_id":85896193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-80.174708,25.862116,-80.174708,25.862116],
+  "bbox": [
+    -80.174708,
+    25.862116,
+    -80.174708,
+    25.862116
+],
   "geometry": {"coordinates":[-80.174708,25.862116],"type":"Point"}
 }

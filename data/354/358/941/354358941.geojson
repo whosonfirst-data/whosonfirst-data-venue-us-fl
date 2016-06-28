@@ -2,13 +2,14 @@
   "id": 354358941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10649,26.930874,-80.10649,26.930874",
     "geom:latitude":26.930874,
     "geom:longitude":-80.10649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Circle E",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354358941,
-    "wof:lastmodified":1449066639,
+    "wof:lastmodified":1466441599,
     "wof:name":"Improvement Svc",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.10649,26.930874,-80.10649,26.930874],
-  "geometry": {"coordinates":[-80.10649,26.930874],"type":"Point"}
+  "bbox": [
+    -80.10649,
+    26.930874,
+    -80.10649,
+    26.930874
+],
+  "geometry": {"coordinates":[-80.10648999999999,26.930874],"type":"Point"}
 }

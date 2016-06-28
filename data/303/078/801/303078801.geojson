@@ -2,13 +2,14 @@
   "id": 303078801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409088,27.966691,-82.409088,27.966691",
     "geom:latitude":27.966691,
     "geom:longitude":-82.409088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 E Columbus Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303078801,
-    "wof:lastmodified":1449000182,
+    "wof:lastmodified":1466431829,
     "wof:name":"Apartment Express Inc",
     "wof:parent_id":85889773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.409088,27.966691,-82.409088,27.966691],
+  "bbox": [
+    -82.409088,
+    27.966691,
+    -82.409088,
+    27.966691
+],
   "geometry": {"coordinates":[-82.409088,27.966691],"type":"Point"}
 }

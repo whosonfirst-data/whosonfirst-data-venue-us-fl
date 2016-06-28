@@ -2,13 +2,14 @@
   "id": 336755635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086336,26.351227,-80.086336,26.351227",
     "geom:latitude":26.351227,
     "geom:longitude":-80.086336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336755635,
-    "wof:lastmodified":1448997253,
+    "wof:lastmodified":1466437665,
     "wof:name":"Downtown Kitchen & Pizza",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-80.086336,26.351227,-80.086336,26.351227],
+  "bbox": [
+    -80.086336,
+    26.351227,
+    -80.086336,
+    26.351227
+],
   "geometry": {"coordinates":[-80.086336,26.351227],"type":"Point"}
 }

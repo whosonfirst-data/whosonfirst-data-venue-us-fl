@@ -2,13 +2,14 @@
   "id": 336637725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.323949,29.649663,-82.323949,29.649663",
     "geom:latitude":29.649663,
     "geom:longitude":-82.323949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 SE 1 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336637725,
-    "wof:lastmodified":1448996918,
+    "wof:lastmodified":1466435630,
     "wof:name":"Us Biomedical Info Systems Inc",
     "wof:parent_id":85877641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-82.323949,29.649663,-82.323949,29.649663],
+  "bbox": [
+    -82.323949,
+    29.649663,
+    -82.323949,
+    29.649663
+],
   "geometry": {"coordinates":[-82.323949,29.649663],"type":"Point"}
 }

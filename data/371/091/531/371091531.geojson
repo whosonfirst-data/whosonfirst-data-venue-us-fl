@@ -2,13 +2,14 @@
   "id": 371091531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.25718,25.95244,-80.25718,25.95244",
     "geom:latitude":25.95244,
     "geom:longitude":-80.25718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 NW 196th Ln",
     "sg:city":"Opa Locka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371091531,
-    "wof:lastmodified":1449049129,
+    "wof:lastmodified":1466438973,
     "wof:name":"Barrys Landscaping Services",
     "wof:parent_id":85865227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.25718,25.95244,-80.25718,25.95244],
-  "geometry": {"coordinates":[-80.25718,25.95244],"type":"Point"}
+  "bbox": [
+    -80.25718,
+    25.95244,
+    -80.25718,
+    25.95244
+],
+  "geometry": {"coordinates":[-80.25718000000001,25.95244],"type":"Point"}
 }

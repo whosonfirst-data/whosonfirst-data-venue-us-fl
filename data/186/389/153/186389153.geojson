@@ -2,13 +2,14 @@
   "id": 186389153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061519,26.510504,-80.061519,26.510504",
     "geom:latitude":26.510504,
     "geom:longitude":-80.061519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 SE 20th Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186389153,
-    "wof:lastmodified":1449052463,
+    "wof:lastmodified":1466431379,
     "wof:name":"Hatteras Apartments",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.061519,26.510504,-80.061519,26.510504],
+  "bbox": [
+    -80.061519,
+    26.510504,
+    -80.061519,
+    26.510504
+],
   "geometry": {"coordinates":[-80.061519,26.510504],"type":"Point"}
 }

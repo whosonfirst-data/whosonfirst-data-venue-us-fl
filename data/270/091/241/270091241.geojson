@@ -2,13 +2,14 @@
   "id": 270091241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241329,30.420831,-87.241329,30.420831",
     "geom:latitude":30.420831,
     "geom:longitude":-87.241329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 N Pace Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270091241,
-    "wof:lastmodified":1449008891,
+    "wof:lastmodified":1466431001,
     "wof:name":"Gulf South Contractors Inc",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-87.241329,30.420831,-87.241329,30.420831],
-  "geometry": {"coordinates":[-87.241329,30.420831],"type":"Point"}
+  "bbox": [
+    -87.241329,
+    30.420831,
+    -87.241329,
+    30.420831
+],
+  "geometry": {"coordinates":[-87.24132899999999,30.420831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320254075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.43358,27.305608,-82.43358,27.305608",
     "geom:latitude":27.305608,
     "geom:longitude":-82.43358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6950 Webber Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320254075,
-    "wof:lastmodified":1449013840,
+    "wof:lastmodified":1466437749,
     "wof:name":"Pet Pages",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-82.43358,27.305608,-82.43358,27.305608],
-  "geometry": {"coordinates":[-82.43358,27.305608],"type":"Point"}
+  "bbox": [
+    -82.43358,
+    27.305608,
+    -82.43358,
+    27.305608
+],
+  "geometry": {"coordinates":[-82.43358000000001,27.305608],"type":"Point"}
 }

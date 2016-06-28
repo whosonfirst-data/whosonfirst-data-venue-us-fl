@@ -2,13 +2,14 @@
   "id": 185603099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121213,26.082259,-80.121213,26.082259",
     "geom:latitude":26.082259,
     "geom:longitude":-80.121213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Eller Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185603099,
-    "wof:lastmodified":1449007985,
+    "wof:lastmodified":1466429395,
     "wof:name":"Compliance Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compliance"
     ]
 },
-  "bbox": [-80.121213,26.082259,-80.121213,26.082259],
+  "bbox": [
+    -80.121213,
+    26.082259,
+    -80.121213,
+    26.082259
+],
   "geometry": {"coordinates":[-80.121213,26.082259],"type":"Point"}
 }

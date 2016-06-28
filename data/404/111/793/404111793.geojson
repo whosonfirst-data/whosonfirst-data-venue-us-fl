@@ -2,13 +2,14 @@
   "id": 404111793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.724257,27.760942,-82.724257,27.760942",
     "geom:latitude":27.760942,
     "geom:longitude":-82.724257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 64th St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404111793,
-    "wof:lastmodified":1449040352,
+    "wof:lastmodified":1466441972,
     "wof:name":"Pasadena Grocery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.724257,27.760942,-82.724257,27.760942],
-  "geometry": {"coordinates":[-82.724257,27.760942],"type":"Point"}
+  "bbox": [
+    -82.724257,
+    27.760942,
+    -82.724257,
+    27.760942
+],
+  "geometry": {"coordinates":[-82.72425699999999,27.760942],"type":"Point"}
 }

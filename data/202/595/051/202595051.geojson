@@ -2,13 +2,14 @@
   "id": 202595051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34655,25.685101,-80.34655,25.685101",
     "geom:latitude":25.685101,
     "geom:longitude":-80.34655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9031 SW 93rd Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202595051,
-    "wof:lastmodified":1449062402,
+    "wof:lastmodified":1466429616,
     "wof:name":"Active Care Assoc",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.34655,25.685101,-80.34655,25.685101],
-  "geometry": {"coordinates":[-80.34655,25.685101],"type":"Point"}
+  "bbox": [
+    -80.34655,
+    25.685101,
+    -80.34655,
+    25.685101
+],
+  "geometry": {"coordinates":[-80.34654999999999,25.685101],"type":"Point"}
 }

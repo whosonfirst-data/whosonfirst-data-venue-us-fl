@@ -2,13 +2,14 @@
   "id": 370434489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.360645,26.114223,-80.360645,26.114223",
     "geom:latitude":26.114223,
     "geom:longitude":-80.360645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Lakeside Cir",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370434489,
-    "wof:lastmodified":1449029827,
+    "wof:lastmodified":1466440843,
     "wof:name":"Simsearch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.360645,26.114223,-80.360645,26.114223],
-  "geometry": {"coordinates":[-80.360645,26.114223],"type":"Point"}
+  "bbox": [
+    -80.360645,
+    26.114223,
+    -80.360645,
+    26.114223
+],
+  "geometry": {"coordinates":[-80.36064500000001,26.114223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202511875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318117,25.845784,-80.318117,25.845784",
     "geom:latitude":25.845784,
     "geom:longitude":-80.318117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7233 NW 79th Ter",
     "sg:city":"Medley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202511875,
-    "wof:lastmodified":1449061294,
+    "wof:lastmodified":1466428504,
     "wof:name":"Newport Seafood",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.318117,25.845784,-80.318117,25.845784],
+  "bbox": [
+    -80.318117,
+    25.845784,
+    -80.318117,
+    25.845784
+],
   "geometry": {"coordinates":[-80.318117,25.845784],"type":"Point"}
 }

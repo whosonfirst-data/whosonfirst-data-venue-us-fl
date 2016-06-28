@@ -2,13 +2,14 @@
   "id": 370893629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949086,26.460946,-81.949086,26.460946",
     "geom:latitude":26.460946,
     "geom:longitude":-81.949086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Main St",
     "sg:city":"Fort Myers Beach",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":370893629,
-    "wof:lastmodified":1449031835,
+    "wof:lastmodified":1466447279,
     "wof:name":"Salty Sam's Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.949086,26.460946,-81.949086,26.460946],
-  "geometry": {"coordinates":[-81.949086,26.460946],"type":"Point"}
+  "bbox": [
+    -81.949086,
+    26.460946,
+    -81.949086,
+    26.460946
+],
+  "geometry": {"coordinates":[-81.94908599999999,26.460946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203080609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.238222,25.773688,-80.238222,25.773688",
     "geom:latitude":25.773688,
     "geom:longitude":-80.238222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 NW 26th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203080609,
-    "wof:lastmodified":1449026827,
+    "wof:lastmodified":1466444682,
     "wof:name":"Driving School Metro",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-80.238222,25.773688,-80.238222,25.773688],
-  "geometry": {"coordinates":[-80.238222,25.773688],"type":"Point"}
+  "bbox": [
+    -80.238222,
+    25.773688,
+    -80.238222,
+    25.773688
+],
+  "geometry": {"coordinates":[-80.23822199999999,25.773688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303702303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.422091,28.385123,-81.422091,28.385123",
     "geom:latitude":28.385123,
     "geom:longitude":-81.422091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12550 Marsfield Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303702303,
-    "wof:lastmodified":1448999337,
+    "wof:lastmodified":1466442660,
     "wof:name":"John Young Elementary School",
     "wof:parent_id":85889379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.422091,28.385123,-81.422091,28.385123],
-  "geometry": {"coordinates":[-81.422091,28.385123],"type":"Point"}
+  "bbox": [
+    -81.422091,
+    28.385123,
+    -81.422091,
+    28.385123
+],
+  "geometry": {"coordinates":[-81.42209099999999,28.385123],"type":"Point"}
 }

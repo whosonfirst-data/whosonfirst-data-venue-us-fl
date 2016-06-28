@@ -2,13 +2,14 @@
   "id": 269998485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.405222,28.833198,-81.405222,28.833198",
     "geom:latitude":28.833198,
     "geom:longitude":-81.405222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Wekiva Haven Trl",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269998485,
-    "wof:lastmodified":1449036940,
+    "wof:lastmodified":1466437489,
     "wof:name":"Wekiva River Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-81.405222,28.833198,-81.405222,28.833198],
-  "geometry": {"coordinates":[-81.405222,28.833198],"type":"Point"}
+  "bbox": [
+    -81.405222,
+    28.833198,
+    -81.405222,
+    28.833198
+],
+  "geometry": {"coordinates":[-81.40522199999999,28.833198],"type":"Point"}
 }

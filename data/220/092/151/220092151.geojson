@@ -2,13 +2,14 @@
   "id": 220092151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.063966,29.231565,-81.063966,29.231565",
     "geom:latitude":29.231565,
     "geom:longitude":-81.063966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"998 Derbyshire Rd",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220092151,
-    "wof:lastmodified":1449074697,
+    "wof:lastmodified":1466445636,
     "wof:name":"Blondaze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.063966,29.231565,-81.063966,29.231565],
-  "geometry": {"coordinates":[-81.063966,29.231565],"type":"Point"}
+  "bbox": [
+    -81.063966,
+    29.231565,
+    -81.063966,
+    29.231565
+],
+  "geometry": {"coordinates":[-81.06396599999999,29.231565],"type":"Point"}
 }

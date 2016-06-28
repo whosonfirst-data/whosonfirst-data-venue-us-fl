@@ -2,13 +2,14 @@
   "id": 303366297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.730275,28.357505,-80.730275,28.357505",
     "geom:latitude":28.357505,
     "geom:longitude":-80.730275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ridgeway Ave",
     "sg:city":"Cocoa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303366297,
-    "wof:lastmodified":1448999902,
+    "wof:lastmodified":1466436842,
     "wof:name":"Barron's Wholesale Tire Inc",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-80.730275,28.357505,-80.730275,28.357505],
-  "geometry": {"coordinates":[-80.730275,28.357505],"type":"Point"}
+  "bbox": [
+    -80.730275,
+    28.357505,
+    -80.730275,
+    28.357505
+],
+  "geometry": {"coordinates":[-80.73027500000001,28.357505],"type":"Point"}
 }

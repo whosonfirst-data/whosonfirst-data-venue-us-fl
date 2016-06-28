@@ -2,13 +2,14 @@
   "id": 185673853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.436957,27.431237,-82.436957,27.431237",
     "geom:latitude":27.431237,
     "geom:longitude":-82.436957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10350 Palmbrooke Ter",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185673853,
-    "wof:lastmodified":1449007239,
+    "wof:lastmodified":1466445051,
     "wof:name":"Cafe Barrister",
     "wof:parent_id":85888579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.436957,27.431237,-82.436957,27.431237],
-  "geometry": {"coordinates":[-82.436957,27.431237],"type":"Point"}
+  "bbox": [
+    -82.436957,
+    27.431237,
+    -82.436957,
+    27.431237
+],
+  "geometry": {"coordinates":[-82.43695700000001,27.431237],"type":"Point"}
 }

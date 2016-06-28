@@ -2,13 +2,14 @@
   "id": 320817835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.099842,28.080453,-82.099842,28.080453",
     "geom:latitude":28.080453,
     "geom:longitude":-82.099842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2654 E Knights Griffin Rd",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320817835,
-    "wof:lastmodified":1449014231,
+    "wof:lastmodified":1466447267,
     "wof:name":"Enron",
     "wof:parent_id":85889469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-82.099842,28.080453,-82.099842,28.080453],
+  "bbox": [
+    -82.099842,
+    28.080453,
+    -82.099842,
+    28.080453
+],
   "geometry": {"coordinates":[-82.099842,28.080453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169629509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.499913,27.261537,-82.499913,27.261537",
     "geom:latitude":27.261537,
     "geom:longitude":-82.499913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3237 Kenmore Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169629509,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466443708,
     "wof:name":"Temporary Consulting Svc",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.499913,27.261537,-82.499913,27.261537],
-  "geometry": {"coordinates":[-82.499913,27.261537],"type":"Point"}
+  "bbox": [
+    -82.499913,
+    27.261537,
+    -82.499913,
+    27.261537
+],
+  "geometry": {"coordinates":[-82.49991300000001,27.261537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354302999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504747,28.043203,-82.504747,28.043203",
     "geom:latitude":28.043203,
     "geom:longitude":-82.504747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10012 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354302999,
-    "wof:lastmodified":1449066483,
+    "wof:lastmodified":1466440749,
     "wof:name":"X 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.504747,28.043203,-82.504747,28.043203],
-  "geometry": {"coordinates":[-82.504747,28.043203],"type":"Point"}
+  "bbox": [
+    -82.504747,
+    28.043203,
+    -82.504747,
+    28.043203
+],
+  "geometry": {"coordinates":[-82.50474699999999,28.043203],"type":"Point"}
 }

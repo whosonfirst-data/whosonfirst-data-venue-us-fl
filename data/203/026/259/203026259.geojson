@@ -2,13 +2,14 @@
   "id": 203026259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.543175,27.336696,-82.543175,27.336696",
     "geom:latitude":27.336696,
     "geom:longitude":-82.543175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 N Pineapple Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203026259,
-    "wof:lastmodified":1449026062,
+    "wof:lastmodified":1466442761,
     "wof:name":"Sarasota Opera Assn Inc",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.543175,27.336696,-82.543175,27.336696],
-  "geometry": {"coordinates":[-82.543175,27.336696],"type":"Point"}
+  "bbox": [
+    -82.543175,
+    27.336696,
+    -82.543175,
+    27.336696
+],
+  "geometry": {"coordinates":[-82.54317500000001,27.336696],"type":"Point"}
 }

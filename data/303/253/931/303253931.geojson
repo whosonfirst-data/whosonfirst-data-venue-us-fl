@@ -2,13 +2,14 @@
   "id": 303253931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.335551,25.903105,-80.335551,25.903105",
     "geom:latitude":25.903105,
     "geom:longitude":-80.335551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8368 NW 143rd St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303253931,
-    "wof:lastmodified":1449000267,
+    "wof:lastmodified":1466434916,
     "wof:name":"Medcove Medical Billing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-80.335551,25.903105,-80.335551,25.903105],
+  "bbox": [
+    -80.335551,
+    25.903105,
+    -80.335551,
+    25.903105
+],
   "geometry": {"coordinates":[-80.335551,25.903105],"type":"Point"}
 }

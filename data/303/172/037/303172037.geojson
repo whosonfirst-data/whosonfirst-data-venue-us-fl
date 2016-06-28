@@ -2,13 +2,14 @@
   "id": 303172037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.825358,27.967565,-82.825358,27.967565",
     "geom:latitude":27.967565,
     "geom:longitude":-82.825358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Bayway Blvd",
     "sg:city":"Clearwater",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303172037,
-    "wof:lastmodified":1448999104,
+    "wof:lastmodified":1466433498,
     "wof:name":"Viewpoint Realty Intl Inc",
     "wof:parent_id":85888685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.825358,27.967565,-82.825358,27.967565],
-  "geometry": {"coordinates":[-82.825358,27.967565],"type":"Point"}
+  "bbox": [
+    -82.825358,
+    27.967565,
+    -82.825358,
+    27.967565
+],
+  "geometry": {"coordinates":[-82.82535799999999,27.967565],"type":"Point"}
 }

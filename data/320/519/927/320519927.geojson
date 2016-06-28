@@ -2,13 +2,14 @@
   "id": 320519927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146893,26.177648,-80.146893,26.177648",
     "geom:latitude":26.177648,
     "geom:longitude":-80.146893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 NW 41st St",
     "sg:city":"Oakland Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320519927,
-    "wof:lastmodified":1449014713,
+    "wof:lastmodified":1466442372,
     "wof:name":"C & E Cleaning Svc",
     "wof:parent_id":85852891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-80.146893,26.177648,-80.146893,26.177648],
-  "geometry": {"coordinates":[-80.146893,26.177648],"type":"Point"}
+  "bbox": [
+    -80.146893,
+    26.177648,
+    -80.146893,
+    26.177648
+],
+  "geometry": {"coordinates":[-80.14689300000001,26.177648],"type":"Point"}
 }

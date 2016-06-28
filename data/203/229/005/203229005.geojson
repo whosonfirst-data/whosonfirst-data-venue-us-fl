@@ -2,13 +2,14 @@
   "id": 203229005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.87363,26.578702,-81.87363,26.578702",
     "geom:latitude":26.578702,
     "geom:longitude":-81.87363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1965 Custom Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203229005,
-    "wof:lastmodified":1449026450,
+    "wof:lastmodified":1466429269,
     "wof:name":"Shar-In Cabinets Inc",
     "wof:parent_id":85888807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-81.87363,26.578702,-81.87363,26.578702],
-  "geometry": {"coordinates":[-81.87363,26.578702],"type":"Point"}
+  "bbox": [
+    -81.87363,
+    26.578702,
+    -81.87363,
+    26.578702
+],
+  "geometry": {"coordinates":[-81.87363000000001,26.578702],"type":"Point"}
 }

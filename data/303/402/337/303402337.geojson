@@ -2,13 +2,14 @@
   "id": 303402337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.645561,30.406242,-81.645561,30.406242",
     "geom:latitude":30.406242,
     "geom:longitude":-81.645561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Heckscher Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303402337,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1466437465,
     "wof:name":"San Marco Foodstore",
     "wof:parent_id":85870767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.645561,30.406242,-81.645561,30.406242],
+  "bbox": [
+    -81.645561,
+    30.406242,
+    -81.645561,
+    30.406242
+],
   "geometry": {"coordinates":[-81.645561,30.406242],"type":"Point"}
 }

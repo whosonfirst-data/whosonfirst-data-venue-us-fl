@@ -2,13 +2,14 @@
   "id": 236585105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.626235,30.111942,-81.626235,30.111942",
     "geom:latitude":30.111942,
     "geom:longitude":-81.626235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 State Hwy 13",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236585105,
-    "wof:lastmodified":1449003925,
+    "wof:lastmodified":1466436684,
     "wof:name":"St Johns Nursery & Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tree"
     ]
 },
-  "bbox": [-81.626235,30.111942,-81.626235,30.111942],
-  "geometry": {"coordinates":[-81.626235,30.111942],"type":"Point"}
+  "bbox": [
+    -81.626235,
+    30.111942,
+    -81.626235,
+    30.111942
+],
+  "geometry": {"coordinates":[-81.62623499999999,30.111942],"type":"Point"}
 }

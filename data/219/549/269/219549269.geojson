@@ -2,13 +2,14 @@
   "id": 219549269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.745332,26.627114,-81.745332,26.627114",
     "geom:latitude":26.627114,
     "geom:longitude":-81.745332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Alaska Ave",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219549269,
-    "wof:lastmodified":1449071373,
+    "wof:lastmodified":1466432149,
     "wof:name":"Atlantic Bridge",
     "wof:parent_id":85889147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.745332,26.627114,-81.745332,26.627114],
+  "bbox": [
+    -81.745332,
+    26.627114,
+    -81.745332,
+    26.627114
+],
   "geometry": {"coordinates":[-81.745332,26.627114],"type":"Point"}
 }

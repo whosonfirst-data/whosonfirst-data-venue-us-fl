@@ -2,13 +2,14 @@
   "id": 253041301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.66724,27.458472,-82.66724,27.458472",
     "geom:latitude":27.458472,
     "geom:longitude":-82.66724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 103rd St W",
     "sg:city":"Bradenton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253041301,
-    "wof:lastmodified":1449063896,
+    "wof:lastmodified":1466429060,
     "wof:name":"Gulfcoast Marine Detailing Inc",
     "wof:parent_id":85888583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-82.66724,27.458472,-82.66724,27.458472],
-  "geometry": {"coordinates":[-82.66724,27.458472],"type":"Point"}
+  "bbox": [
+    -82.66724,
+    27.458472,
+    -82.66724,
+    27.458472
+],
+  "geometry": {"coordinates":[-82.66724000000001,27.458472],"type":"Point"}
 }

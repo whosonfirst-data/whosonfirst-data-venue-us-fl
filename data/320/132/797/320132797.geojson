@@ -2,13 +2,14 @@
   "id": 320132797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6502,30.327036,-81.6502,30.327036",
     "geom:latitude":30.327036,
     "geom:longitude":-81.6502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 E Monroe St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320132797,
-    "wof:lastmodified":1449013090,
+    "wof:lastmodified":1466435662,
     "wof:name":"Fletcher & Conner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.6502,30.327036,-81.6502,30.327036],
+  "bbox": [
+    -81.6502,
+    30.327036,
+    -81.6502,
+    30.327036
+],
   "geometry": {"coordinates":[-81.6502,30.327036],"type":"Point"}
 }

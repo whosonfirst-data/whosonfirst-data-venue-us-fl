@@ -2,13 +2,14 @@
   "id": 370894849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195353,25.847486,-80.195353,25.847486",
     "geom:latitude":25.847486,
     "geom:longitude":-80.195353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 NE 79th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370894849,
-    "wof:lastmodified":1449030482,
+    "wof:lastmodified":1466447292,
     "wof:name":"Sunshine Coast",
     "wof:parent_id":85831005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.195353,25.847486,-80.195353,25.847486],
+  "bbox": [
+    -80.195353,
+    25.847486,
+    -80.195353,
+    25.847486
+],
   "geometry": {"coordinates":[-80.195353,25.847486],"type":"Point"}
 }

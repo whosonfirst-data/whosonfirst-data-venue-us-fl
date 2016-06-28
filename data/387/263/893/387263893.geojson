@@ -2,13 +2,14 @@
   "id": 387263893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.305525,29.031701,-81.305525,29.031701",
     "geom:latitude":29.031701,
     "geom:longitude":-81.305525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Florida Ave",
     "sg:city":"Deland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387263893,
-    "wof:lastmodified":1449059807,
+    "wof:lastmodified":1466442770,
     "wof:name":"Datacraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.305525,29.031701,-81.305525,29.031701],
+  "bbox": [
+    -81.305525,
+    29.031701,
+    -81.305525,
+    29.031701
+],
   "geometry": {"coordinates":[-81.305525,29.031701],"type":"Point"}
 }

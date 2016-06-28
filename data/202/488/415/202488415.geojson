@@ -2,13 +2,14 @@
   "id": 202488415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.310347,29.685789,-82.310347,29.685789",
     "geom:latitude":29.685789,
     "geom:longitude":-82.310347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 NE 12th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202488415,
-    "wof:lastmodified":1449062566,
+    "wof:lastmodified":1466445846,
     "wof:name":"Alachua County Public Schools",
     "wof:parent_id":85877623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.310347,29.685789,-82.310347,29.685789],
-  "geometry": {"coordinates":[-82.310347,29.685789],"type":"Point"}
+  "bbox": [
+    -82.310347,
+    29.685789,
+    -82.310347,
+    29.685789
+],
+  "geometry": {"coordinates":[-82.31034699999999,29.685789],"type":"Point"}
 }

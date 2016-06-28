@@ -2,13 +2,14 @@
   "id": 370300611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067151,26.388765,-80.067151,26.388765",
     "geom:latitude":26.388765,
     "geom:longitude":-80.067151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N Ocean Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370300611,
-    "wof:lastmodified":1449030978,
+    "wof:lastmodified":1466438763,
     "wof:name":"Celebrations of Boca",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "greeting"
     ]
 },
-  "bbox": [-80.067151,26.388765,-80.067151,26.388765],
+  "bbox": [
+    -80.067151,
+    26.388765,
+    -80.067151,
+    26.388765
+],
   "geometry": {"coordinates":[-80.067151,26.388765],"type":"Point"}
 }

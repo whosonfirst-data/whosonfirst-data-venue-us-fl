@@ -2,13 +2,14 @@
   "id": 186002005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112838,26.266441,-80.112838,26.266441",
     "geom:latitude":26.266441,
     "geom:longitude":-80.112838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 NE 7th Ter",
     "sg:city":"Pompano Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186002005,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1466446236,
     "wof:name":"Mr Sprinkler",
     "wof:parent_id":85811837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-80.112838,26.266441,-80.112838,26.266441],
+  "bbox": [
+    -80.112838,
+    26.266441,
+    -80.112838,
+    26.266441
+],
   "geometry": {"coordinates":[-80.112838,26.266441],"type":"Point"}
 }

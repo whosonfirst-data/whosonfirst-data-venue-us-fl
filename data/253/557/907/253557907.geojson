@@ -2,13 +2,14 @@
   "id": 253557907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.870123,30.542182,-83.870123,30.542182",
     "geom:latitude":30.542182,
     "geom:longitude":-83.870123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Jefferson St",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253557907,
-    "wof:lastmodified":1449064945,
+    "wof:lastmodified":1466436652,
     "wof:name":"South East Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-83.870123,30.542182,-83.870123,30.542182],
-  "geometry": {"coordinates":[-83.870123,30.542182],"type":"Point"}
+  "bbox": [
+    -83.870123,
+    30.542182,
+    -83.870123,
+    30.542182
+],
+  "geometry": {"coordinates":[-83.87012300000001,30.542182],"type":"Point"}
 }

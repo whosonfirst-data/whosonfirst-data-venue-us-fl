@@ -2,13 +2,14 @@
   "id": 336625075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.414785,28.506042,-81.414785,28.506042",
     "geom:latitude":28.506042,
     "geom:longitude":-81.414785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 Vision Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336625075,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466435422,
     "wof:name":"Orange County Community Srvlnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.414785,28.506042,-81.414785,28.506042],
-  "geometry": {"coordinates":[-81.414785,28.506042],"type":"Point"}
+  "bbox": [
+    -81.414785,
+    28.506042,
+    -81.414785,
+    28.506042
+],
+  "geometry": {"coordinates":[-81.41478499999999,28.506042],"type":"Point"}
 }

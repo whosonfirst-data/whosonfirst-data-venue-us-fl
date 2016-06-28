@@ -2,13 +2,14 @@
   "id": 269648447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.605137,26.617912,-81.605137,26.617912",
     "geom:latitude":26.617912,
     "geom:longitude":-81.605137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 5th St E",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269648447,
-    "wof:lastmodified":1449036819,
+    "wof:lastmodified":1466431454,
     "wof:name":"Property Inspection Svc",
     "wof:parent_id":85889129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-81.605137,26.617912,-81.605137,26.617912],
+  "bbox": [
+    -81.605137,
+    26.617912,
+    -81.605137,
+    26.617912
+],
   "geometry": {"coordinates":[-81.605137,26.617912],"type":"Point"}
 }

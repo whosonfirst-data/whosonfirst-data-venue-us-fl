@@ -2,13 +2,14 @@
   "id": 303417427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.664527,30.157144,-85.664527,30.157144",
     "geom:latitude":30.157144,
     "geom:longitude":-85.664527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W 5th St",
     "sg:city":"Panama City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303417427,
-    "wof:lastmodified":1448999120,
+    "wof:lastmodified":1466437723,
     "wof:name":"Royal Palms Insteriors",
     "wof:parent_id":85812605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-85.664527,30.157144,-85.664527,30.157144],
-  "geometry": {"coordinates":[-85.664527,30.157144],"type":"Point"}
+  "bbox": [
+    -85.664527,
+    30.157144,
+    -85.664527,
+    30.157144
+],
+  "geometry": {"coordinates":[-85.66452700000001,30.157144],"type":"Point"}
 }

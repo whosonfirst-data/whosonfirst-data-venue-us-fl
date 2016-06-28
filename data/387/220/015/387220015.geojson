@@ -2,13 +2,14 @@
   "id": 387220015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800264,26.206686,-81.800264,26.206686",
     "geom:latitude":26.206686,
     "geom:longitude":-81.800264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5012 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387220015,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1466442109,
     "wof:name":"Fine Touch",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-81.800264,26.206686,-81.800264,26.206686],
+  "bbox": [
+    -81.800264,
+    26.206686,
+    -81.800264,
+    26.206686
+],
   "geometry": {"coordinates":[-81.800264,26.206686],"type":"Point"}
 }

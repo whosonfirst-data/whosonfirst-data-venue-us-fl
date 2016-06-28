@@ -2,13 +2,14 @@
   "id": 270226515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140022,26.119079,-80.140022,26.119079",
     "geom:latitude":26.119079,
     "geom:longitude":-80.140022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E Las Olas Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270226515,
-    "wof:lastmodified":1449010425,
+    "wof:lastmodified":1466433347,
     "wof:name":"First Fleet Corporation",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-80.140022,26.119079,-80.140022,26.119079],
+  "bbox": [
+    -80.140022,
+    26.119079,
+    -80.140022,
+    26.119079
+],
   "geometry": {"coordinates":[-80.140022,26.119079],"type":"Point"}
 }

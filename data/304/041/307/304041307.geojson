@@ -2,13 +2,14 @@
   "id": 304041307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.812907,27.547003,-81.812907,27.547003",
     "geom:latitude":27.547003,
     "geom:longitude":-81.812907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S 7th Ave",
     "sg:city":"Wauchula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304041307,
-    "wof:lastmodified":1449043765,
+    "wof:lastmodified":1466432532,
     "wof:name":"Wauchula City Hall",
     "wof:parent_id":85854795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-81.812907,27.547003,-81.812907,27.547003],
+  "bbox": [
+    -81.812907,
+    27.547003,
+    -81.812907,
+    27.547003
+],
   "geometry": {"coordinates":[-81.812907,27.547003],"type":"Point"}
 }

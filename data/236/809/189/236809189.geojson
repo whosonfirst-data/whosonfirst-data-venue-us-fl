@@ -2,13 +2,14 @@
   "id": 236809189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.457231,28.06129,-82.457231,28.06129",
     "geom:latitude":28.06129,
     "geom:longitude":-82.457231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Oak Rose Ln",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236809189,
-    "wof:lastmodified":1449004538,
+    "wof:lastmodified":1466439971,
     "wof:name":"RVA Management",
     "wof:parent_id":85838099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-82.457231,28.06129,-82.457231,28.06129],
-  "geometry": {"coordinates":[-82.457231,28.06129],"type":"Point"}
+  "bbox": [
+    -82.457231,
+    28.06129,
+    -82.457231,
+    28.06129
+],
+  "geometry": {"coordinates":[-82.45723099999999,28.06129],"type":"Point"}
 }

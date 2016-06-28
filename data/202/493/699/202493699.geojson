@@ -2,13 +2,14 @@
   "id": 202493699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.286563,29.758637,-85.286563,29.758637",
     "geom:latitude":29.758637,
     "geom:longitude":-85.286563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Ponderosa Pine Dr",
     "sg:city":"Port Saint Joe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202493699,
-    "wof:lastmodified":1449060911,
+    "wof:lastmodified":1466445965,
     "wof:name":"Custom Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-85.286563,29.758637,-85.286563,29.758637],
+  "bbox": [
+    -85.286563,
+    29.758637,
+    -85.286563,
+    29.758637
+],
   "geometry": {"coordinates":[-85.286563,29.758637],"type":"Point"}
 }

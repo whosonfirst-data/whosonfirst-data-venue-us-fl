@@ -2,13 +2,14 @@
   "id": 286879253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205779,26.379769,-80.205779,26.379769",
     "geom:latitude":26.379769,
     "geom:longitude":-80.205779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10126 Crosswind Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286879253,
-    "wof:lastmodified":1449015192,
+    "wof:lastmodified":1466440539,
     "wof:name":"Aeromarine Systems",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-80.205779,26.379769,-80.205779,26.379769],
-  "geometry": {"coordinates":[-80.205779,26.379769],"type":"Point"}
+  "bbox": [
+    -80.205779,
+    26.379769,
+    -80.205779,
+    26.379769
+],
+  "geometry": {"coordinates":[-80.20577900000001,26.379769],"type":"Point"}
 }

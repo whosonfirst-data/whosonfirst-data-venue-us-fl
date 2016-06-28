@@ -2,13 +2,14 @@
   "id": 370324977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.442869,30.31317,-81.442869,30.31317",
     "geom:latitude":30.31317,
     "geom:longitude":-81.442869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2046 Sandhill Crane Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370324977,
-    "wof:lastmodified":1449031054,
+    "wof:lastmodified":1466439141,
     "wof:name":"Flammers",
     "wof:parent_id":85846931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.442869,30.31317,-81.442869,30.31317],
+  "bbox": [
+    -81.442869,
+    30.31317,
+    -81.442869,
+    30.31317
+],
   "geometry": {"coordinates":[-81.442869,30.31317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270151737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.221201,30.469603,-87.221201,30.469603",
     "geom:latitude":30.469603,
     "geom:longitude":-87.221201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Selina St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270151737,
-    "wof:lastmodified":1449008684,
+    "wof:lastmodified":1466432041,
     "wof:name":"Gracewood Manor",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-87.221201,30.469603,-87.221201,30.469603],
-  "geometry": {"coordinates":[-87.221201,30.469603],"type":"Point"}
+  "bbox": [
+    -87.221201,
+    30.469603,
+    -87.221201,
+    30.469603
+],
+  "geometry": {"coordinates":[-87.22120099999999,30.469603],"type":"Point"}
 }

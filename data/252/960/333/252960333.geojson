@@ -2,13 +2,14 @@
   "id": 252960333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.373956,30.205556,-81.373956,30.205556",
     "geom:latitude":30.205556,
     "geom:longitude":-81.373956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Charlemagne Cir",
     "sg:city":"Ponte Vedra Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252960333,
-    "wof:lastmodified":1449006178,
+    "wof:lastmodified":1466432072,
     "wof:name":"Performance Multi Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.373956,30.205556,-81.373956,30.205556],
-  "geometry": {"coordinates":[-81.373956,30.205556],"type":"Point"}
+  "bbox": [
+    -81.373956,
+    30.205556,
+    -81.373956,
+    30.205556
+],
+  "geometry": {"coordinates":[-81.37395600000001,30.205556],"type":"Point"}
 }

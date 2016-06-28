@@ -2,13 +2,14 @@
   "id": 303624271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325048,25.797398,-80.325048,25.797398",
     "geom:latitude":25.797398,
     "geom:longitude":-80.325048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 NW 79th Ave",
     "sg:city":"Doral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303624271,
-    "wof:lastmodified":1448999795,
+    "wof:lastmodified":1466441268,
     "wof:name":"Med Life Medical Svc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.325048,25.797398,-80.325048,25.797398],
+  "bbox": [
+    -80.325048,
+    25.797398,
+    -80.325048,
+    25.797398
+],
   "geometry": {"coordinates":[-80.325048,25.797398],"type":"Point"}
 }

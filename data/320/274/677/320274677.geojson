@@ -2,13 +2,14 @@
   "id": 320274677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.42458,30.361654,-81.42458,30.361654",
     "geom:latitude":30.361654,
     "geom:longitude":-81.42458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Sebago Ave N",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320274677,
-    "wof:lastmodified":1449011704,
+    "wof:lastmodified":1466438090,
     "wof:name":"Nautical Endeavors",
     "wof:parent_id":85838729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.42458,30.361654,-81.42458,30.361654],
-  "geometry": {"coordinates":[-81.42458,30.361654],"type":"Point"}
+  "bbox": [
+    -81.42458,
+    30.361654,
+    -81.42458,
+    30.361654
+],
+  "geometry": {"coordinates":[-81.42458000000001,30.361654],"type":"Point"}
 }

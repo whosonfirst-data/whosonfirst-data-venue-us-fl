@@ -2,13 +2,14 @@
   "id": 203211291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.632699,30.148499,-81.632699,30.148499",
     "geom:latitude":30.148499,
     "geom:longitude":-81.632699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12200 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203211291,
-    "wof:lastmodified":1449025384,
+    "wof:lastmodified":1466429046,
     "wof:name":"Sam N Hanania DDS",
     "wof:parent_id":85816563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-81.632699,30.148499,-81.632699,30.148499],
+  "bbox": [
+    -81.632699,
+    30.148499,
+    -81.632699,
+    30.148499
+],
   "geometry": {"coordinates":[-81.632699,30.148499],"type":"Point"}
 }

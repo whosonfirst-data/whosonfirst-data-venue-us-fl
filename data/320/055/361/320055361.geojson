@@ -2,13 +2,14 @@
   "id": 320055361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.491424,27.913358,-82.491424,27.913358",
     "geom:latitude":27.913358,
     "geom:longitude":-82.491424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Bayshore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320055361,
-    "wof:lastmodified":1449012098,
+    "wof:lastmodified":1466434334,
     "wof:name":"Academy of The Holy Names Fla",
     "wof:parent_id":85840309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.491424,27.913358,-82.491424,27.913358],
-  "geometry": {"coordinates":[-82.491424,27.913358],"type":"Point"}
+  "bbox": [
+    -82.491424,
+    27.913358,
+    -82.491424,
+    27.913358
+],
+  "geometry": {"coordinates":[-82.49142399999999,27.913358],"type":"Point"}
 }

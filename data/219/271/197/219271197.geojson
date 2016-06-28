@@ -2,13 +2,14 @@
   "id": 219271197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097247,26.201652,-80.097247,26.201652",
     "geom:latitude":26.201652,
     "geom:longitude":-80.097247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Gatehouse Rd",
     "sg:city":"Sea Ranch Lakes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219271197,
-    "wof:lastmodified":1449072233,
+    "wof:lastmodified":1466446170,
     "wof:name":"Village Of Sea Ranch Lakes",
     "wof:parent_id":85847521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-80.097247,26.201652,-80.097247,26.201652],
+  "bbox": [
+    -80.097247,
+    26.201652,
+    -80.097247,
+    26.201652
+],
   "geometry": {"coordinates":[-80.097247,26.201652],"type":"Point"}
 }

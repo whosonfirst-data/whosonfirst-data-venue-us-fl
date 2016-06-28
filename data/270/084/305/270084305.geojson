@@ -2,13 +2,14 @@
   "id": 270084305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.47065,27.939735,-82.47065,27.939735",
     "geom:latitude":27.939735,
     "geom:longitude":-82.47065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Horatio St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270084305,
-    "wof:lastmodified":1449008913,
+    "wof:lastmodified":1466430891,
     "wof:name":"Hyde Park Place Apartments",
     "wof:parent_id":85889805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.47065,27.939735,-82.47065,27.939735],
-  "geometry": {"coordinates":[-82.47065,27.939735],"type":"Point"}
+  "bbox": [
+    -82.47065,
+    27.939735,
+    -82.47065,
+    27.939735
+],
+  "geometry": {"coordinates":[-82.47065000000001,27.939735],"type":"Point"}
 }

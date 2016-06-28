@@ -2,13 +2,14 @@
   "id": 370837111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.379793,30.455482,-84.379793,30.455482",
     "geom:latitude":30.455482,
     "geom:longitude":-84.379793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Fernwood Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370837111,
-    "wof:lastmodified":1449029618,
+    "wof:lastmodified":1466446704,
     "wof:name":"Fernwood Baptist Church",
     "wof:parent_id":85889645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.379793,30.455482,-84.379793,30.455482],
-  "geometry": {"coordinates":[-84.379793,30.455482],"type":"Point"}
+  "bbox": [
+    -84.379793,
+    30.455482,
+    -84.379793,
+    30.455482
+],
+  "geometry": {"coordinates":[-84.37979300000001,30.455482],"type":"Point"}
 }

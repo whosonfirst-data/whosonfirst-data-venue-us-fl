@@ -2,13 +2,14 @@
   "id": 270220961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.513484,30.138964,-81.513484,30.138964",
     "geom:latitude":30.138964,
     "geom:longitude":-81.513484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12855 Phillips Hwy",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270220961,
-    "wof:lastmodified":1449011042,
+    "wof:lastmodified":1466433247,
     "wof:name":"Imagination Medical Inc",
     "wof:parent_id":85804877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-81.513484,30.138964,-81.513484,30.138964],
-  "geometry": {"coordinates":[-81.513484,30.138964],"type":"Point"}
+  "bbox": [
+    -81.513484,
+    30.138964,
+    -81.513484,
+    30.138964
+],
+  "geometry": {"coordinates":[-81.51348400000001,30.138964],"type":"Point"}
 }

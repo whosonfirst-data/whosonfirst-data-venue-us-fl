@@ -2,13 +2,14 @@
   "id": 303600259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.469248,27.945651,-82.469248,27.945651",
     "geom:latitude":27.945651,
     "geom:longitude":-82.469248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Edison Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303600259,
-    "wof:lastmodified":1448998343,
+    "wof:lastmodified":1466440859,
     "wof:name":"Faithful Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-82.469248,27.945651,-82.469248,27.945651],
-  "geometry": {"coordinates":[-82.469248,27.945651],"type":"Point"}
+  "bbox": [
+    -82.469248,
+    27.945651,
+    -82.469248,
+    27.945651
+],
+  "geometry": {"coordinates":[-82.46924799999999,27.945651],"type":"Point"}
 }

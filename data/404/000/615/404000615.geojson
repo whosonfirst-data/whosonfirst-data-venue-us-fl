@@ -2,13 +2,14 @@
   "id": 404000615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258343,25.765273,-80.258343,25.765273",
     "geom:latitude":25.765273,
     "geom:longitude":-80.258343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Ponce de Leon Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404000615,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466446287,
     "wof:name":"Lopez Gloria MD PA",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dr"
     ]
 },
-  "bbox": [-80.258343,25.765273,-80.258343,25.765273],
+  "bbox": [
+    -80.258343,
+    25.765273,
+    -80.258343,
+    25.765273
+],
   "geometry": {"coordinates":[-80.258343,25.765273],"type":"Point"}
 }

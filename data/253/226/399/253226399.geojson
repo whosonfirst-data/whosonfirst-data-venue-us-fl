@@ -2,13 +2,14 @@
   "id": 253226399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324803,26.145041,-80.324803,26.145041",
     "geom:latitude":26.145041,
     "geom:longitude":-80.324803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13141 W Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253226399,
-    "wof:lastmodified":1449064974,
+    "wof:lastmodified":1466431102,
     "wof:name":"Sawgrass Tavern",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-80.324803,26.145041,-80.324803,26.145041],
+  "bbox": [
+    -80.324803,
+    26.145041,
+    -80.324803,
+    26.145041
+],
   "geometry": {"coordinates":[-80.324803,26.145041],"type":"Point"}
 }

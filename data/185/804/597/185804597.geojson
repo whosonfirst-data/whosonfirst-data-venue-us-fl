@@ -2,13 +2,14 @@
   "id": 185804597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502123,28.670102,-81.502123,28.670102",
     "geom:latitude":28.670102,
     "geom:longitude":-81.502123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Alabama Ave",
     "sg:city":"Apopka",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185804597,
-    "wof:lastmodified":1449007711,
+    "wof:lastmodified":1466429037,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85849409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.502123,28.670102,-81.502123,28.670102],
+  "bbox": [
+    -81.502123,
+    28.670102,
+    -81.502123,
+    28.670102
+],
   "geometry": {"coordinates":[-81.502123,28.670102],"type":"Point"}
 }

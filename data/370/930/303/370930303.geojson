@@ -2,13 +2,14 @@
   "id": 370930303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64432,27.831702,-82.64432,27.831702",
     "geom:latitude":27.831702,
     "geom:longitude":-82.64432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Northmoor Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370930303,
-    "wof:lastmodified":1449030176,
+    "wof:lastmodified":1466447609,
     "wof:name":"ATARAXY Florida",
     "wof:parent_id":85880551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.64432,27.831702,-82.64432,27.831702],
-  "geometry": {"coordinates":[-82.64432,27.831702],"type":"Point"}
+  "bbox": [
+    -82.64432,
+    27.831702,
+    -82.64432,
+    27.831702
+],
+  "geometry": {"coordinates":[-82.64431999999999,27.831702],"type":"Point"}
 }

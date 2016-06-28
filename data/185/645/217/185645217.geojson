@@ -2,13 +2,14 @@
   "id": 185645217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.809238,26.267011,-81.809238,26.267011",
     "geom:latitude":26.267011,
     "geom:longitude":-81.809238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"797 105th Ave N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185645217,
-    "wof:lastmodified":1449006777,
+    "wof:lastmodified":1466444498,
     "wof:name":"Tropical Contracting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.809238,26.267011,-81.809238,26.267011],
-  "geometry": {"coordinates":[-81.809238,26.267011],"type":"Point"}
+  "bbox": [
+    -81.809238,
+    26.267011,
+    -81.809238,
+    26.267011
+],
+  "geometry": {"coordinates":[-81.80923799999999,26.267011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303979265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.481631,28.85184,-82.481631,28.85184",
     "geom:latitude":28.85184,
     "geom:longitude":-82.481631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 W Gulf To Lake Hwy",
     "sg:city":"Lecanto",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303979265,
-    "wof:lastmodified":1448999840,
+    "wof:lastmodified":1466447021,
     "wof:name":"Rusty Duck Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.481631,28.85184,-82.481631,28.85184],
-  "geometry": {"coordinates":[-82.481631,28.85184],"type":"Point"}
+  "bbox": [
+    -82.481631,
+    28.85184,
+    -82.481631,
+    28.85184
+],
+  "geometry": {"coordinates":[-82.48163099999999,28.85184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386989215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.413278,26.132601,-80.413278,26.132601",
     "geom:latitude":26.132601,
     "geom:longitude":-80.413278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Meadows Blvd",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386989215,
-    "wof:lastmodified":1449028868,
+    "wof:lastmodified":1466439324,
     "wof:name":"Seadivers Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diver"
     ]
 },
-  "bbox": [-80.413278,26.132601,-80.413278,26.132601],
-  "geometry": {"coordinates":[-80.413278,26.132601],"type":"Point"}
+  "bbox": [
+    -80.413278,
+    26.132601,
+    -80.413278,
+    26.132601
+],
+  "geometry": {"coordinates":[-80.41327800000001,26.132601],"type":"Point"}
 }

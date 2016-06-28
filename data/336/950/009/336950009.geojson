@@ -2,13 +2,14 @@
   "id": 336950009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.251021,28.778227,-81.251021,28.778227",
     "geom:latitude":28.778227,
     "geom:longitude":-81.251021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Flight Line Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336950009,
-    "wof:lastmodified":1448997377,
+    "wof:lastmodified":1466441008,
     "wof:name":"Delta Connection Flying Svc",
     "wof:parent_id":85859237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-81.251021,28.778227,-81.251021,28.778227],
-  "geometry": {"coordinates":[-81.251021,28.778227],"type":"Point"}
+  "bbox": [
+    -81.251021,
+    28.778227,
+    -81.251021,
+    28.778227
+],
+  "geometry": {"coordinates":[-81.25102099999999,28.778227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253555365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.191031,28.263203,-82.191031,28.263203",
     "geom:latitude":28.263203,
     "geom:longitude":-82.191031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37852 Medical Arts Ct",
     "sg:city":"Zephyrhills",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253555365,
-    "wof:lastmodified":1449065353,
+    "wof:lastmodified":1466436604,
     "wof:name":"Pasco Cardiology Assoc",
     "wof:parent_id":85889933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.191031,28.263203,-82.191031,28.263203],
+  "bbox": [
+    -82.191031,
+    28.263203,
+    -82.191031,
+    28.263203
+],
   "geometry": {"coordinates":[-82.191031,28.263203],"type":"Point"}
 }

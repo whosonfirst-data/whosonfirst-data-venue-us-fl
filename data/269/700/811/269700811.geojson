@@ -2,13 +2,14 @@
   "id": 269700811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.544586,30.392561,-85.544586,30.392561",
     "geom:latitude":30.392561,
     "geom:longitude":-85.544586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6507 N Ridge Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269700811,
-    "wof:lastmodified":1449038779,
+    "wof:lastmodified":1466432356,
     "wof:name":"All Services",
     "wof:parent_id":85865201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-85.544586,30.392561,-85.544586,30.392561],
+  "bbox": [
+    -85.544586,
+    30.392561,
+    -85.544586,
+    30.392561
+],
   "geometry": {"coordinates":[-85.544586,30.392561],"type":"Point"}
 }

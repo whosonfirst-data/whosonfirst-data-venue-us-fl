@@ -2,13 +2,14 @@
   "id": 270335161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.100472,26.364215,-80.100472,26.364215",
     "geom:latitude":26.364215,
     "geom:longitude":-80.100472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Glades Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270335161,
-    "wof:lastmodified":1449010278,
+    "wof:lastmodified":1466435203,
     "wof:name":"Center For Wound Care",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-80.100472,26.364215,-80.100472,26.364215],
+  "bbox": [
+    -80.100472,
+    26.364215,
+    -80.100472,
+    26.364215
+],
   "geometry": {"coordinates":[-80.100472,26.364215],"type":"Point"}
 }

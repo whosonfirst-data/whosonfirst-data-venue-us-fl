@@ -2,13 +2,14 @@
   "id": 286497703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.056553,26.881614,-80.056553,26.881614",
     "geom:latitude":26.881614,
     "geom:longitude":-80.056553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14041 US Hwy 1",
     "sg:city":"Juno Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286497703,
-    "wof:lastmodified":1449018037,
+    "wof:lastmodified":1466433741,
     "wof:name":"Oceanfront Realty",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.056553,26.881614,-80.056553,26.881614],
-  "geometry": {"coordinates":[-80.056553,26.881614],"type":"Point"}
+  "bbox": [
+    -80.056553,
+    26.881614,
+    -80.056553,
+    26.881614
+],
+  "geometry": {"coordinates":[-80.05655299999999,26.881614],"type":"Point"}
 }

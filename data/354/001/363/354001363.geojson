@@ -2,13 +2,14 @@
   "id": 354001363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13008,25.993897,-80.13008,25.993897",
     "geom:latitude":25.993897,
     "geom:longitude":-80.13008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Diplomat Pkwy",
     "sg:city":"Hallandale Beach",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354001363,
-    "wof:lastmodified":1449066313,
+    "wof:lastmodified":1466436081,
     "wof:name":"Fairways Riviera North Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-80.13008,25.993897,-80.13008,25.993897],
-  "geometry": {"coordinates":[-80.13008,25.993897],"type":"Point"}
+  "bbox": [
+    -80.13008,
+    25.993897,
+    -80.13008,
+    25.993897
+],
+  "geometry": {"coordinates":[-80.13008000000001,25.993897],"type":"Point"}
 }

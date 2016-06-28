@@ -2,13 +2,14 @@
   "id": 185620331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.404224,30.25449,-81.404224,30.25449",
     "geom:latitude":30.25449,
     "geom:longitude":-81.404224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 The Greens Way",
     "sg:city":"Jacksonville Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185620331,
-    "wof:lastmodified":1449008081,
+    "wof:lastmodified":1466443735,
     "wof:name":"Reed Construction Data",
     "wof:parent_id":85838795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-81.404224,30.25449,-81.404224,30.25449],
+  "bbox": [
+    -81.404224,
+    30.25449,
+    -81.404224,
+    30.25449
+],
   "geometry": {"coordinates":[-81.404224,30.25449],"type":"Point"}
 }

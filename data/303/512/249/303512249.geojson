@@ -2,13 +2,14 @@
   "id": 303512249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209283,26.709331,-80.209283,26.709331",
     "geom:latitude":26.709331,
     "geom:longitude":-80.209283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11462 Okeechobee Blvd",
     "sg:city":"Royal Palm Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303512249,
-    "wof:lastmodified":1448999896,
+    "wof:lastmodified":1466439368,
     "wof:name":"Community Animal Hospital",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-80.209283,26.709331,-80.209283,26.709331],
+  "bbox": [
+    -80.209283,
+    26.709331,
+    -80.209283,
+    26.709331
+],
   "geometry": {"coordinates":[-80.209283,26.709331],"type":"Point"}
 }

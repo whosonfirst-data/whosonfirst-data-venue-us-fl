@@ -2,13 +2,14 @@
   "id": 186416971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.105791,26.119069,-80.105791,26.119069",
     "geom:latitude":26.119069,
     "geom:longitude":-80.105791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Seabreeze Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186416971,
-    "wof:lastmodified":1449051581,
+    "wof:lastmodified":1466431729,
     "wof:name":"Atm Operations",
     "wof:parent_id":85877513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-80.105791,26.119069,-80.105791,26.119069],
+  "bbox": [
+    -80.105791,
+    26.119069,
+    -80.105791,
+    26.119069
+],
   "geometry": {"coordinates":[-80.105791,26.119069],"type":"Point"}
 }

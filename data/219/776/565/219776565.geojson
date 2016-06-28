@@ -2,13 +2,14 @@
   "id": 219776565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.379083,27.272186,-80.379083,27.272186",
     "geom:latitude":27.272186,
     "geom:longitude":-80.379083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 SW Provincetown Ln",
     "sg:city":"Port Saint Lucie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219776565,
-    "wof:lastmodified":1449071167,
+    "wof:lastmodified":1466435125,
     "wof:name":"Creative Surfacing",
     "wof:parent_id":85809513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.379083,27.272186,-80.379083,27.272186],
-  "geometry": {"coordinates":[-80.379083,27.272186],"type":"Point"}
+  "bbox": [
+    -80.379083,
+    27.272186,
+    -80.379083,
+    27.272186
+],
+  "geometry": {"coordinates":[-80.37908299999999,27.272186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303266913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.387402,29.712657,-82.387402,29.712657",
     "geom:latitude":29.712657,
     "geom:longitude":-82.387402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 NW 43 St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303266913,
-    "wof:lastmodified":1448998194,
+    "wof:lastmodified":1466435145,
     "wof:name":"James Yelton MD",
     "wof:parent_id":85877655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-82.387402,29.712657,-82.387402,29.712657],
-  "geometry": {"coordinates":[-82.387402,29.712657],"type":"Point"}
+  "bbox": [
+    -82.387402,
+    29.712657,
+    -82.387402,
+    29.712657
+],
+  "geometry": {"coordinates":[-82.38740199999999,29.712657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336876143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.303374,30.431263,-84.303374,30.431263",
     "geom:latitude":30.431263,
     "geom:longitude":-84.303374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Daniel Ave",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336876143,
-    "wof:lastmodified":1448997168,
+    "wof:lastmodified":1466439803,
     "wof:name":"Auto Parts Warehouse",
     "wof:parent_id":85881365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.303374,30.431263,-84.303374,30.431263],
-  "geometry": {"coordinates":[-84.303374,30.431263],"type":"Point"}
+  "bbox": [
+    -84.303374,
+    30.431263,
+    -84.303374,
+    30.431263
+],
+  "geometry": {"coordinates":[-84.30337400000001,30.431263],"type":"Point"}
 }

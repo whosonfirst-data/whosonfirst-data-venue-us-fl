@@ -2,13 +2,14 @@
   "id": 387561655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.45119,30.331951,-81.45119,30.331951",
     "geom:latitude":30.331951,
     "geom:longitude":-81.45119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13696 Shipwatch Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387561655,
-    "wof:lastmodified":1449058805,
+    "wof:lastmodified":1466447113,
     "wof:name":"Bluecat Publishing LLC",
     "wof:parent_id":85822989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-81.45119,30.331951,-81.45119,30.331951],
+  "bbox": [
+    -81.45119,
+    30.331951,
+    -81.45119,
+    30.331951
+],
   "geometry": {"coordinates":[-81.45119,30.331951],"type":"Point"}
 }

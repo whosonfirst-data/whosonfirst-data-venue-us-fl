@@ -2,13 +2,14 @@
   "id": 203284027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.301307,28.731256,-81.301307,28.731256",
     "geom:latitude":28.731256,
     "geom:longitude":-81.301307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5449 Benchmark Ln",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203284027,
-    "wof:lastmodified":1449026124,
+    "wof:lastmodified":1466429967,
     "wof:name":"Fabco Neon & Cold Cathode",
     "wof:parent_id":85841897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sign"
     ]
 },
-  "bbox": [-81.301307,28.731256,-81.301307,28.731256],
-  "geometry": {"coordinates":[-81.301307,28.731256],"type":"Point"}
+  "bbox": [
+    -81.301307,
+    28.731256,
+    -81.301307,
+    28.731256
+],
+  "geometry": {"coordinates":[-81.30130699999999,28.731256],"type":"Point"}
 }

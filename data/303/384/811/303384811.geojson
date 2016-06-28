@@ -2,13 +2,14 @@
   "id": 303384811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.703325,27.842779,-82.703325,27.842779",
     "geom:latitude":27.842779,
     "geom:longitude":-82.703325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5030 78th Ave",
     "sg:city":"Pinellas Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303384811,
-    "wof:lastmodified":1448998423,
+    "wof:lastmodified":1466437161,
     "wof:name":"Mc Gill Engineering Inc",
     "wof:parent_id":85889525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-82.703325,27.842779,-82.703325,27.842779],
-  "geometry": {"coordinates":[-82.703325,27.842779],"type":"Point"}
+  "bbox": [
+    -82.703325,
+    27.842779,
+    -82.703325,
+    27.842779
+],
+  "geometry": {"coordinates":[-82.70332500000001,27.842779],"type":"Point"}
 }

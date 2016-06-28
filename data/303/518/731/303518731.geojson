@@ -2,13 +2,14 @@
   "id": 303518731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.355381,29.648363,-82.355381,29.648363",
     "geom:latitude":29.648363,
     "geom:longitude":-82.355381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Fraternity Row",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303518731,
-    "wof:lastmodified":1448999504,
+    "wof:lastmodified":1466439485,
     "wof:name":"Sigma Chi Fraternity",
     "wof:parent_id":85877611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-82.355381,29.648363,-82.355381,29.648363],
-  "geometry": {"coordinates":[-82.355381,29.648363],"type":"Point"}
+  "bbox": [
+    -82.355381,
+    29.648363,
+    -82.355381,
+    29.648363
+],
+  "geometry": {"coordinates":[-82.35538099999999,29.648363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404062931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132056,25.784123,-80.132056,25.784123",
     "geom:latitude":25.784123,
     "geom:longitude":-80.132056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Washington Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404062931,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1466441222,
     "wof:name":"DJM",
     "wof:parent_id":85866195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.132056,25.784123,-80.132056,25.784123],
-  "geometry": {"coordinates":[-80.132056,25.784123],"type":"Point"}
+  "bbox": [
+    -80.132056,
+    25.784123,
+    -80.132056,
+    25.784123
+],
+  "geometry": {"coordinates":[-80.13205600000001,25.784123],"type":"Point"}
 }

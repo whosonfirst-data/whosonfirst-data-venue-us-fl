@@ -2,13 +2,14 @@
   "id": 253034549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.863763,26.643395,-81.863763,26.643395",
     "geom:latitude":26.643395,
     "geom:longitude":-81.863763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1793 Fowler St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253034549,
-    "wof:lastmodified":1449063144,
+    "wof:lastmodified":1466428965,
     "wof:name":"Associated Business Machines",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-81.863763,26.643395,-81.863763,26.643395],
-  "geometry": {"coordinates":[-81.863763,26.643395],"type":"Point"}
+  "bbox": [
+    -81.863763,
+    26.643395,
+    -81.863763,
+    26.643395
+],
+  "geometry": {"coordinates":[-81.86376300000001,26.643395],"type":"Point"}
 }

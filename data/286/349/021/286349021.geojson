@@ -2,13 +2,14 @@
   "id": 286349021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.055495,29.056371,-82.055495,29.056371",
     "geom:latitude":29.056371,
     "geom:longitude":-82.055495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5641 SE Poinciana Rd",
     "sg:city":"Belleview",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286349021,
-    "wof:lastmodified":1449016292,
+    "wof:lastmodified":1466431172,
     "wof:name":"Therapeutic Massage",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-82.055495,29.056371,-82.055495,29.056371],
-  "geometry": {"coordinates":[-82.055495,29.056371],"type":"Point"}
+  "bbox": [
+    -82.055495,
+    29.056371,
+    -82.055495,
+    29.056371
+],
+  "geometry": {"coordinates":[-82.05549499999999,29.056371],"type":"Point"}
 }

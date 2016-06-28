@@ -2,13 +2,14 @@
   "id": 304081621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192354,26.394187,-80.192354,26.394187",
     "geom:latitude":26.394187,
     "geom:longitude":-80.192354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 Lakeridge Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304081621,
-    "wof:lastmodified":1449043736,
+    "wof:lastmodified":1466433252,
     "wof:name":"Special Touch",
     "wof:parent_id":85888561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-80.192354,26.394187,-80.192354,26.394187],
-  "geometry": {"coordinates":[-80.192354,26.394187],"type":"Point"}
+  "bbox": [
+    -80.192354,
+    26.394187,
+    -80.192354,
+    26.394187
+],
+  "geometry": {"coordinates":[-80.19235399999999,26.394187],"type":"Point"}
 }

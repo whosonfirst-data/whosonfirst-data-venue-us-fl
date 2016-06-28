@@ -2,13 +2,14 @@
   "id": 353849849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318118,25.839865,-80.318118,25.839865",
     "geom:latitude":25.839865,
     "geom:longitude":-80.318118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7511 NW 73rd St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353849849,
-    "wof:lastmodified":1449018720,
+    "wof:lastmodified":1466441703,
     "wof:name":"Amarillo",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-80.318118,25.839865,-80.318118,25.839865],
+  "bbox": [
+    -80.318118,
+    25.839865,
+    -80.318118,
+    25.839865
+],
   "geometry": {"coordinates":[-80.318118,25.839865],"type":"Point"}
 }

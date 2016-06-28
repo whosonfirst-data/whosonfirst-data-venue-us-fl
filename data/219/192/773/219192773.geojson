@@ -2,13 +2,14 @@
   "id": 219192773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.530676,30.166731,-81.530676,30.166731",
     "geom:latitude":30.166731,
     "geom:longitude":-81.530676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6955 Bus Park Blvd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219192773,
-    "wof:lastmodified":1449072898,
+    "wof:lastmodified":1466444029,
     "wof:name":"American RAD",
     "wof:parent_id":85823017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-81.530676,30.166731,-81.530676,30.166731],
+  "bbox": [
+    -81.530676,
+    30.166731,
+    -81.530676,
+    30.166731
+],
   "geometry": {"coordinates":[-81.530676,30.166731],"type":"Point"}
 }

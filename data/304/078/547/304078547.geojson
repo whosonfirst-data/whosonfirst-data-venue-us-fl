@@ -2,13 +2,14 @@
   "id": 304078547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.590033,26.621403,-81.590033,26.621403",
     "geom:latitude":26.621403,
     "geom:longitude":-81.590033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Jackson Ave",
     "sg:city":"Lehigh Acres",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304078547,
-    "wof:lastmodified":1449044076,
+    "wof:lastmodified":1466433196,
     "wof:name":"Shaw Trucking",
     "wof:parent_id":85889137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.590033,26.621403,-81.590033,26.621403],
-  "geometry": {"coordinates":[-81.590033,26.621403],"type":"Point"}
+  "bbox": [
+    -81.590033,
+    26.621403,
+    -81.590033,
+    26.621403
+],
+  "geometry": {"coordinates":[-81.59003300000001,26.621403],"type":"Point"}
 }

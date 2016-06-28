@@ -2,13 +2,14 @@
   "id": 185786437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220087,27.229016,-80.220087,27.229016",
     "geom:latitude":27.229016,
     "geom:longitude":-80.220087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 NE Dixie Hwy",
     "sg:city":"Jensen Beach",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185786437,
-    "wof:lastmodified":1449006815,
+    "wof:lastmodified":1466428845,
     "wof:name":"Riverwatch Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-80.220087,27.229016,-80.220087,27.229016],
-  "geometry": {"coordinates":[-80.220087,27.229016],"type":"Point"}
+  "bbox": [
+    -80.220087,
+    27.229016,
+    -80.220087,
+    27.229016
+],
+  "geometry": {"coordinates":[-80.22008700000001,27.229016],"type":"Point"}
 }

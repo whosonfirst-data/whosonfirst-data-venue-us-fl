@@ -2,13 +2,14 @@
   "id": 303535983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.125656,28.027487,-82.125656,28.027487",
     "geom:latitude":28.027487,
     "geom:longitude":-82.125656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 N Wheeler St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303535983,
-    "wof:lastmodified":1448998561,
+    "wof:lastmodified":1466439780,
     "wof:name":"Tampa Bay Camper Rentals",
     "wof:parent_id":85889463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-82.125656,28.027487,-82.125656,28.027487],
-  "geometry": {"coordinates":[-82.125656,28.027487],"type":"Point"}
+  "bbox": [
+    -82.125656,
+    28.027487,
+    -82.125656,
+    28.027487
+],
+  "geometry": {"coordinates":[-82.12565600000001,28.027487],"type":"Point"}
 }

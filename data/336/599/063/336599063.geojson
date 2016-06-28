@@ -2,13 +2,14 @@
   "id": 336599063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.459387,28.003251,-82.459387,28.003251",
     "geom:latitude":28.003251,
     "geom:longitude":-82.459387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6115 N Florida Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336599063,
-    "wof:lastmodified":1448997448,
+    "wof:lastmodified":1466434962,
     "wof:name":"Florida Beauty Salon & Nails",
     "wof:parent_id":85873237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.459387,28.003251,-82.459387,28.003251],
-  "geometry": {"coordinates":[-82.459387,28.003251],"type":"Point"}
+  "bbox": [
+    -82.459387,
+    28.003251,
+    -82.459387,
+    28.003251
+],
+  "geometry": {"coordinates":[-82.45938700000001,28.003251],"type":"Point"}
 }

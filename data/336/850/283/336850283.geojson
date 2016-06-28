@@ -2,13 +2,14 @@
   "id": 336850283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.563278,27.387128,-82.563278,27.387128",
     "geom:latitude":27.387128,
     "geom:longitude":-82.563278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Parkview Dr",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336850283,
-    "wof:lastmodified":1448997559,
+    "wof:lastmodified":1466439341,
     "wof:name":"Camp Jeffrey",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-82.563278,27.387128,-82.563278,27.387128],
+  "bbox": [
+    -82.563278,
+    27.387128,
+    -82.563278,
+    27.387128
+],
   "geometry": {"coordinates":[-82.563278,27.387128],"type":"Point"}
 }

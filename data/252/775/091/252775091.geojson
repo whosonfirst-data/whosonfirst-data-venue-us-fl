@@ -2,13 +2,14 @@
   "id": 252775091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.78146,26.21661,-81.78146,26.21661",
     "geom:latitude":26.21661,
     "geom:longitude":-81.78146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 Shirley St",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252775091,
-    "wof:lastmodified":1449006203,
+    "wof:lastmodified":1466429395,
     "wof:name":"Premier Painting",
     "wof:parent_id":85889221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-81.78146,26.21661,-81.78146,26.21661],
+  "bbox": [
+    -81.78146,
+    26.21661,
+    -81.78146,
+    26.21661
+],
   "geometry": {"coordinates":[-81.78146,26.21661],"type":"Point"}
 }

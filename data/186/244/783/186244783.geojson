@@ -2,13 +2,14 @@
   "id": 186244783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.339852,28.857386,-82.339852,28.857386",
     "geom:latitude":28.857386,
     "geom:longitude":-82.339852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 White Blvd",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186244783,
-    "wof:lastmodified":1449051432,
+    "wof:lastmodified":1466429623,
     "wof:name":"Florida Low Income Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.339852,28.857386,-82.339852,28.857386],
-  "geometry": {"coordinates":[-82.339852,28.857386],"type":"Point"}
+  "bbox": [
+    -82.339852,
+    28.857386,
+    -82.339852,
+    28.857386
+],
+  "geometry": {"coordinates":[-82.33985199999999,28.857386],"type":"Point"}
 }

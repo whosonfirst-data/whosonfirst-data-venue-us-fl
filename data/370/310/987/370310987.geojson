@@ -2,13 +2,14 @@
   "id": 370310987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.363813,25.590398,-80.363813,25.590398",
     "geom:latitude":25.590398,
     "geom:longitude":-80.363813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10775 SW 190th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370310987,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466438919,
     "wof:name":"Breaker Depot",
     "wof:parent_id":85841429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.363813,25.590398,-80.363813,25.590398],
-  "geometry": {"coordinates":[-80.363813,25.590398],"type":"Point"}
+  "bbox": [
+    -80.363813,
+    25.590398,
+    -80.363813,
+    25.590398
+],
+  "geometry": {"coordinates":[-80.36381299999999,25.590398],"type":"Point"}
 }

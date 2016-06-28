@@ -2,13 +2,14 @@
   "id": 252910201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.368028,28.583518,-81.368028,28.583518",
     "geom:latitude":28.583518,
     "geom:longitude":-81.368028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Westchester Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252910201,
-    "wof:lastmodified":1449005861,
+    "wof:lastmodified":1466431355,
     "wof:name":"Estes Insurance",
     "wof:parent_id":85879501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casualty"
     ]
 },
-  "bbox": [-81.368028,28.583518,-81.368028,28.583518],
+  "bbox": [
+    -81.368028,
+    28.583518,
+    -81.368028,
+    28.583518
+],
   "geometry": {"coordinates":[-81.368028,28.583518],"type":"Point"}
 }

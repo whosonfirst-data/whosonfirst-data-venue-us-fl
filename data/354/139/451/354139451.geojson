@@ -2,13 +2,14 @@
   "id": 354139451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134753,25.985812,-80.134753,25.985812",
     "geom:latitude":25.985812,
     "geom:longitude":-80.134753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 E Hallandale Beach Blvd",
     "sg:city":"Hallandale Beach",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354139451,
-    "wof:lastmodified":1449066086,
+    "wof:lastmodified":1466438237,
     "wof:name":"Purchase Direct",
     "wof:parent_id":85896129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-80.134753,25.985812,-80.134753,25.985812],
+  "bbox": [
+    -80.134753,
+    25.985812,
+    -80.134753,
+    25.985812
+],
   "geometry": {"coordinates":[-80.134753,25.985812],"type":"Point"}
 }

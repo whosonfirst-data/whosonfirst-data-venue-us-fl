@@ -2,13 +2,14 @@
   "id": 286383583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.748426,26.581103,-81.748426,26.581103",
     "geom:latitude":26.581103,
     "geom:longitude":-81.748426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12920 Eagle Pointe Cir",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286383583,
-    "wof:lastmodified":1449016422,
+    "wof:lastmodified":1466431758,
     "wof:name":"Eagle Medical Staffing Inc",
     "wof:parent_id":85865225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.748426,26.581103,-81.748426,26.581103],
-  "geometry": {"coordinates":[-81.748426,26.581103],"type":"Point"}
+  "bbox": [
+    -81.748426,
+    26.581103,
+    -81.748426,
+    26.581103
+],
+  "geometry": {"coordinates":[-81.74842599999999,26.581103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185818699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.749569,30.350494,-81.749569,30.350494",
     "geom:latitude":30.350494,
     "geom:longitude":-81.749569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5761 W 12th St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185818699,
-    "wof:lastmodified":1449007409,
+    "wof:lastmodified":1466429186,
     "wof:name":"Total Distribution Services",
     "wof:parent_id":85822447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.749569,30.350494,-81.749569,30.350494],
-  "geometry": {"coordinates":[-81.749569,30.350494],"type":"Point"}
+  "bbox": [
+    -81.749569,
+    30.350494,
+    -81.749569,
+    30.350494
+],
+  "geometry": {"coordinates":[-81.74956899999999,30.350494],"type":"Point"}
 }

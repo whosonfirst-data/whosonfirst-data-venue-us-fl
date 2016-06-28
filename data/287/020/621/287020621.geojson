@@ -2,13 +2,14 @@
   "id": 287020621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.239443,27.180496,-80.239443,27.180496",
     "geom:latitude":27.180496,
     "geom:longitude":-80.239443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2038 SE Federal Hwy",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287020621,
-    "wof:lastmodified":1449001071,
+    "wof:lastmodified":1466430169,
     "wof:name":"Cassidy's Bed Bath & Linens",
     "wof:parent_id":85889629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bedding"
     ]
 },
-  "bbox": [-80.239443,27.180496,-80.239443,27.180496],
-  "geometry": {"coordinates":[-80.239443,27.180496],"type":"Point"}
+  "bbox": [
+    -80.239443,
+    27.180496,
+    -80.239443,
+    27.180496
+],
+  "geometry": {"coordinates":[-80.23944299999999,27.180496],"type":"Point"}
 }

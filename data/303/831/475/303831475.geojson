@@ -2,13 +2,14 @@
   "id": 303831475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.335586,28.524143,-81.335586,28.524143",
     "geom:latitude":28.524143,
     "geom:longitude":-81.335586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3966 Curry Ford Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303831475,
-    "wof:lastmodified":1448999558,
+    "wof:lastmodified":1466444846,
     "wof:name":"Wireless Solutions",
     "wof:parent_id":85879445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-81.335586,28.524143,-81.335586,28.524143],
-  "geometry": {"coordinates":[-81.335586,28.524143],"type":"Point"}
+  "bbox": [
+    -81.335586,
+    28.524143,
+    -81.335586,
+    28.524143
+],
+  "geometry": {"coordinates":[-81.33558600000001,28.524143],"type":"Point"}
 }

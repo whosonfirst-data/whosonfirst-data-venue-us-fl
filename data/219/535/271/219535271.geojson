@@ -2,13 +2,14 @@
   "id": 219535271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.551256,30.355775,-81.551256,30.355775",
     "geom:latitude":30.355775,
     "geom:longitude":-81.551256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9172 Upstream Ct",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219535271,
-    "wof:lastmodified":1449071033,
+    "wof:lastmodified":1466431969,
     "wof:name":"Quickway",
     "wof:parent_id":85803499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-81.551256,30.355775,-81.551256,30.355775],
+  "bbox": [
+    -81.551256,
+    30.355775,
+    -81.551256,
+    30.355775
+],
   "geometry": {"coordinates":[-81.551256,30.355775],"type":"Point"}
 }

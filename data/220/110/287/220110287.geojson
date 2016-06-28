@@ -2,13 +2,14 @@
   "id": 220110287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.7506,26.570584,-81.7506,26.570584",
     "geom:latitude":26.570584,
     "geom:longitude":-81.7506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11930 Fairway Lakes Dr",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220110287,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1466446197,
     "wof:name":"Lee Side Realty",
     "wof:parent_id":85865225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-81.7506,26.570584,-81.7506,26.570584],
-  "geometry": {"coordinates":[-81.7506,26.570584],"type":"Point"}
+  "bbox": [
+    -81.7506,
+    26.570584,
+    -81.7506,
+    26.570584
+],
+  "geometry": {"coordinates":[-81.75060000000001,26.570584],"type":"Point"}
 }

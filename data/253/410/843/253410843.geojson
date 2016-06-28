@@ -2,13 +2,14 @@
   "id": 253410843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.725901,28.022295,-81.725901,28.022295",
     "geom:latitude":28.022295,
     "geom:longitude":-81.725901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 E Central Ave",
     "sg:city":"Winter Haven",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253410843,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1466434053,
     "wof:name":"Campbell & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.725901,28.022295,-81.725901,28.022295],
-  "geometry": {"coordinates":[-81.725901,28.022295],"type":"Point"}
+  "bbox": [
+    -81.725901,
+    28.022295,
+    -81.725901,
+    28.022295
+],
+  "geometry": {"coordinates":[-81.72590099999999,28.022295],"type":"Point"}
 }

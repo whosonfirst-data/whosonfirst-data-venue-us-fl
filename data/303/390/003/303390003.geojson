@@ -2,13 +2,14 @@
   "id": 303390003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315059,25.83532,-80.315059,25.83532",
     "geom:latitude":25.83532,
     "geom:longitude":-80.315059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7205 NW 68th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303390003,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466437251,
     "wof:name":"Miam Transworld Co",
     "wof:parent_id":85833691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-80.315059,25.83532,-80.315059,25.83532],
-  "geometry": {"coordinates":[-80.315059,25.83532],"type":"Point"}
+  "bbox": [
+    -80.315059,
+    25.83532,
+    -80.315059,
+    25.83532
+],
+  "geometry": {"coordinates":[-80.31505900000001,25.83532],"type":"Point"}
 }

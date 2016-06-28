@@ -2,13 +2,14 @@
   "id": 219984297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.56682,27.403119,-82.56682,27.403119",
     "geom:latitude":27.403119,
     "geom:longitude":-82.56682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7512 N Tamiami Trl",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219984297,
-    "wof:lastmodified":1449072378,
+    "wof:lastmodified":1466438003,
     "wof:name":"Sarasota-Bradenton Childrens",
     "wof:parent_id":85889577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.56682,27.403119,-82.56682,27.403119],
-  "geometry": {"coordinates":[-82.56682,27.403119],"type":"Point"}
+  "bbox": [
+    -82.56682,
+    27.403119,
+    -82.56682,
+    27.403119
+],
+  "geometry": {"coordinates":[-82.56682000000001,27.403119],"type":"Point"}
 }

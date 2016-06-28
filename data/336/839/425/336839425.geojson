@@ -2,13 +2,14 @@
   "id": 336839425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.419084,28.679663,-81.419084,28.679663",
     "geom:latitude":28.679663,
     "geom:longitude":-81.419084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 N State Rd 434",
     "sg:city":"Altamonte Spgs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336839425,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466439141,
     "wof:name":"Classic Audi",
     "wof:parent_id":85819791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.419084,28.679663,-81.419084,28.679663],
+  "bbox": [
+    -81.419084,
+    28.679663,
+    -81.419084,
+    28.679663
+],
   "geometry": {"coordinates":[-81.419084,28.679663],"type":"Point"}
 }

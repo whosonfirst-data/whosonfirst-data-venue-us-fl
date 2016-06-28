@@ -2,13 +2,14 @@
   "id": 370662135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.390633,29.674175,-82.390633,29.674175",
     "geom:latitude":29.674175,
     "geom:longitude":-82.390633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 NW 23 Ave",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370662135,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1466444320,
     "wof:name":"Millhopper Cleaners",
     "wof:parent_id":85851305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-82.390633,29.674175,-82.390633,29.674175],
-  "geometry": {"coordinates":[-82.390633,29.674175],"type":"Point"}
+  "bbox": [
+    -82.390633,
+    29.674175,
+    -82.390633,
+    29.674175
+],
+  "geometry": {"coordinates":[-82.39063299999999,29.674175],"type":"Point"}
 }

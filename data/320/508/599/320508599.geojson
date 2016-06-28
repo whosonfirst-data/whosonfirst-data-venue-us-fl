@@ -2,13 +2,14 @@
   "id": 320508599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.26105,28.998499,-82.26105,28.998499",
     "geom:latitude":28.998499,
     "geom:longitude":-82.26105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15460 SW 85th Ave",
     "sg:city":"Dunnellon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320508599,
-    "wof:lastmodified":1449013353,
+    "wof:lastmodified":1466442171,
     "wof:name":"Caldwell Well Drilling & Pump",
     "wof:parent_id":85832475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-82.26105,28.998499,-82.26105,28.998499],
+  "bbox": [
+    -82.26105,
+    28.998499,
+    -82.26105,
+    28.998499
+],
   "geometry": {"coordinates":[-82.26105,28.998499],"type":"Point"}
 }

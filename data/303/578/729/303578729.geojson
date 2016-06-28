@@ -2,13 +2,14 @@
   "id": 303578729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.744396,28.567746,-81.744396,28.567746",
     "geom:latitude":28.567746,
     "geom:longitude":-81.744396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 US Hwy 27",
     "sg:city":"Minneola",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303578729,
-    "wof:lastmodified":1448998729,
+    "wof:lastmodified":1466440500,
     "wof:name":"Uncommon Market",
     "wof:parent_id":85888697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.744396,28.567746,-81.744396,28.567746],
-  "geometry": {"coordinates":[-81.744396,28.567746],"type":"Point"}
+  "bbox": [
+    -81.744396,
+    28.567746,
+    -81.744396,
+    28.567746
+],
+  "geometry": {"coordinates":[-81.74439599999999,28.567746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370163783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.59793,27.344046,-82.59793,27.344046",
     "geom:latitude":27.344046,
     "geom:longitude":-82.59793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Hornblower Ln",
     "sg:city":"Longboat Key",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370163783,
-    "wof:lastmodified":1449032392,
+    "wof:lastmodified":1466436654,
     "wof:name":"Sarasota City Investors LLC",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-82.59793,27.344046,-82.59793,27.344046],
-  "geometry": {"coordinates":[-82.59793,27.344046],"type":"Point"}
+  "bbox": [
+    -82.59793,
+    27.344046,
+    -82.59793,
+    27.344046
+],
+  "geometry": {"coordinates":[-82.59793000000001,27.344046],"type":"Point"}
 }

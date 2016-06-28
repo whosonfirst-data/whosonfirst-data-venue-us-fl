@@ -2,13 +2,14 @@
   "id": 186056565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.317163,25.805305,-80.317163,25.805305",
     "geom:latitude":25.805305,
     "geom:longitude":-80.317163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7369 NW 34th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186056565,
-    "wof:lastmodified":1449051143,
+    "wof:lastmodified":1466444343,
     "wof:name":"Industrial Finshg Export Svcs",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.317163,25.805305,-80.317163,25.805305],
-  "geometry": {"coordinates":[-80.317163,25.805305],"type":"Point"}
+  "bbox": [
+    -80.317163,
+    25.805305,
+    -80.317163,
+    25.805305
+],
+  "geometry": {"coordinates":[-80.31716299999999,25.805305],"type":"Point"}
 }

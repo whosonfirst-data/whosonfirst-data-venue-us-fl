@@ -2,13 +2,14 @@
   "id": 370355749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143414,26.926694,-80.143414,26.926694",
     "geom:latitude":26.926694,
     "geom:longitude":-80.143414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Jupiter Park Dr",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370355749,
-    "wof:lastmodified":1449030050,
+    "wof:lastmodified":1466439607,
     "wof:name":"Flying Pig Ranch",
     "wof:parent_id":85888955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-80.143414,26.926694,-80.143414,26.926694],
-  "geometry": {"coordinates":[-80.143414,26.926694],"type":"Point"}
+  "bbox": [
+    -80.143414,
+    26.926694,
+    -80.143414,
+    26.926694
+],
+  "geometry": {"coordinates":[-80.14341400000001,26.926694],"type":"Point"}
 }

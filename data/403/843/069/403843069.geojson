@@ -2,13 +2,14 @@
   "id": 403843069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79676,26.130224,-81.79676,26.130224",
     "geom:latitude":26.130224,
     "geom:longitude":-81.79676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 14th Ave S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403843069,
-    "wof:lastmodified":1449054748,
+    "wof:lastmodified":1466441840,
     "wof:name":"Naples Yacht Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yacht"
     ]
 },
-  "bbox": [-81.79676,26.130224,-81.79676,26.130224],
-  "geometry": {"coordinates":[-81.79676,26.130224],"type":"Point"}
+  "bbox": [
+    -81.79676,
+    26.130224,
+    -81.79676,
+    26.130224
+],
+  "geometry": {"coordinates":[-81.79676000000001,26.130224],"type":"Point"}
 }
