@@ -2,9 +2,14 @@
   "id": 386993123,
   "type": "Feature",
   "properties": {
+    "addr:full":"846 Selkirk St West Palm Beach FL 33405",
+    "addr:housenumber":"846",
+    "addr:postcode":"33405",
+    "addr:street":"Selkirk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.062623,26.66742,-80.062623,26.66742",
     "geom:latitude":26.66742,
     "geom:longitude":-80.062623,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"36acecef663991baba838e5dcfdf2edf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":386993123,
-    "wof:lastmodified":1466439385,
+    "wof:lastmodified":1491902425,
     "wof:name":"Cnc Appraisal Services",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

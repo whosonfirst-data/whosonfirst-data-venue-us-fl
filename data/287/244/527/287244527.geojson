@@ -2,9 +2,14 @@
   "id": 287244527,
   "type": "Feature",
   "properties": {
+    "addr:full":"2983 SW 39th Ave Miami FL 33134",
+    "addr:housenumber":"2983",
+    "addr:postcode":"33134",
+    "addr:street":"Sw 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.257907,25.733468,-80.257907,25.733468",
     "geom:latitude":25.733468,
     "geom:longitude":-80.257907,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"94e3f5d61ede7d54cae21a1a32d79371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":287244527
         }
     ],
     "wof:id":287244527,
-    "wof:lastmodified":1466434164,
+    "wof:lastmodified":1491901711,
     "wof:name":"Havana Doors",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

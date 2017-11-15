@@ -2,9 +2,14 @@
   "id": 320531219,
   "type": "Feature",
   "properties": {
+    "addr:full":"4135 Laguna St Coral Gables FL 33146",
+    "addr:housenumber":"4135",
+    "addr:postcode":"33146",
+    "addr:street":"Laguna St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.261117,25.734267,-80.261117,25.734267",
     "geom:latitude":25.734267,
     "geom:longitude":-80.261117,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"2aa60651dd5560eab9269534cb52a2c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":320531219
         }
     ],
     "wof:id":320531219,
-    "wof:lastmodified":1466442571,
+    "wof:lastmodified":1491901721,
     "wof:name":"Mr Basha's Mediterranean Cuisn",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

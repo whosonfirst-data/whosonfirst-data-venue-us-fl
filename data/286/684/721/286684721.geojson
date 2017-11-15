@@ -2,9 +2,14 @@
   "id": 286684721,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Northwood Rd West Palm Beach FL 33407",
+    "addr:housenumber":"435",
+    "addr:postcode":"33407",
+    "addr:street":"Northwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.054244,26.735046,-80.054244,26.735046",
     "geom:latitude":26.735046,
     "geom:longitude":-80.054244,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -46,7 +52,7 @@
     "wof:geomhash":"dc96c88d70355f89d263a340ba31f3e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":286684721,
-    "wof:lastmodified":1466437068,
+    "wof:lastmodified":1491899780,
     "wof:name":"Aqua Air Marine Systems",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

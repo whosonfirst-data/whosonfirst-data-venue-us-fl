@@ -2,9 +2,14 @@
   "id": 656336581,
   "type": "Feature",
   "properties": {
+    "addr:full":"Street Town State FL 20010",
+    "addr:housenumber":"",
+    "addr:postcode":"20010",
+    "addr:street":"Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.038473,38.917564,-77.038473,38.917564",
     "geom:latitude":38.917564,
     "geom:longitude":-77.038473,
@@ -50,12 +55,13 @@
     "sg:website":"http://www.drpudomains.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724019,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85866875
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +76,16 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85866875,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724019,
             "region_id":85688741,
             "venue_id":656336581
         }
     ],
     "wof:id":656336581,
-    "wof:lastmodified":1466461117,
+    "wof:lastmodified":1490401938,
     "wof:name":"Buy Domain Name",
-    "wof:parent_id":85866875,
+    "wof:parent_id":1108724019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 403855157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5315 16th St N St Petersburg FL 33703",
+    "addr:housenumber":"5315",
+    "addr:postcode":"33703",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654943,27.820097,-82.654943,27.820097",
     "geom:latitude":27.820097,
     "geom:longitude":-82.654943,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1f6e4eb3bb886bd3a62a9bea45e7b627",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403855157,
-    "wof:lastmodified":1466442034,
+    "wof:lastmodified":1491889862,
     "wof:name":"Laos American Market",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

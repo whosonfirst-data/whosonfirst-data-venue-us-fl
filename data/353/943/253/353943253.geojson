@@ -2,9 +2,14 @@
   "id": 353943253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1718 Parker Ave West Palm Beach FL 33401",
+    "addr:housenumber":"1718",
+    "addr:postcode":"33401",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.062138,26.698164,-80.062138,26.698164",
     "geom:latitude":26.698164,
     "geom:longitude":-80.062138,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2f3f59e3abaaafeea40408bb90e34c26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353943253,
-    "wof:lastmodified":1466443122,
+    "wof:lastmodified":1491921826,
     "wof:name":"West Palm Beach Fire Rescue",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

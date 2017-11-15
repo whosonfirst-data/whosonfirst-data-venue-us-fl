@@ -2,9 +2,14 @@
   "id": 219603733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3184 Curry Woods Cir Orlando FL 32822",
+    "addr:housenumber":"3184",
+    "addr:postcode":"32822",
+    "addr:street":"Curry Woods Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.276877,28.504332,-81.276877,28.504332",
     "geom:latitude":28.504332,
     "geom:longitude":-81.276877,
@@ -31,9 +36,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +48,24 @@
     "wof:geomhash":"7084f20100743a138fbe62b2a10b4ada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":219603733
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":219603733
         }
     ],
     "wof:id":219603733,
-    "wof:lastmodified":1466432843,
+    "wof:lastmodified":1491901279,
     "wof:name":"Toad Web Sites Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

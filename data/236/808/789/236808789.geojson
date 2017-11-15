@@ -2,14 +2,20 @@
   "id": 236808789,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Adamo Dr Tampa FL 33605",
+    "addr:housenumber":"3100",
+    "addr:postcode":"33605",
+    "addr:street":"Adamo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.422448,27.954549,-82.422448,27.954549",
     "geom:latitude":27.954549,
     "geom:longitude":-82.422448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 Adamo Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
         85889685
     ],
+    "wof:brand_id":1125151959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H5weJmzbXftiScVE2uLzb_27.954549_-82.422448@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c705f43790598b2cb6b0dacf79b2d2b",
+    "wof:geomhash":"be7626aacfec4e7122b9164854600698",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236808789,
-    "wof:lastmodified":1466439965,
+    "wof:lastmodified":1510699563,
     "wof:name":"Praxair Inc",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

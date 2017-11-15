@@ -2,9 +2,14 @@
   "id": 286977243,
   "type": "Feature",
   "properties": {
+    "addr:full":"890 Hendry Dr Orlando FL 32822",
+    "addr:housenumber":"890",
+    "addr:postcode":"32822",
+    "addr:street":"Hendry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.283321,28.532805,-81.283321,28.532805",
     "geom:latitude":28.532805,
     "geom:longitude":-81.283321,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +47,24 @@
     "wof:geomhash":"b7595b9fde58c9768cf1ab4965c9e616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":286977243
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":286977243
         }
     ],
     "wof:id":286977243,
-    "wof:lastmodified":1466442289,
+    "wof:lastmodified":1491901268,
     "wof:name":"Ismael Drywall & Tile Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

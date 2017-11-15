@@ -2,9 +2,14 @@
   "id": 336925309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 W Lemon St Tampa FL 33606",
+    "addr:housenumber":"1715",
+    "addr:postcode":"33606",
+    "addr:street":"W Lemon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.478573,27.950643,-82.478573,27.950643",
     "geom:latitude":27.950643,
     "geom:longitude":-82.478573,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a14bf177e9c3be501d592dc8f8b1f1fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336925309,
-    "wof:lastmodified":1466440605,
+    "wof:lastmodified":1491934216,
     "wof:name":"Poole & Kent Co",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303454513,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 W Church St Orlando FL 32801",
+    "addr:housenumber":"127",
+    "addr:postcode":"32801",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.381555,28.540342,-81.381555,28.540342",
     "geom:latitude":28.540342,
     "geom:longitude":-81.381555,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"3c1cdc321061dca4196546baf620752e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":303454513
         }
     ],
     "wof:id":303454513,
-    "wof:lastmodified":1466438376,
+    "wof:lastmodified":1491925008,
     "wof:name":"Transcontinental Travel Svc",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

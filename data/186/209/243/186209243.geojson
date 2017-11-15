@@ -2,9 +2,14 @@
   "id": 186209243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 S Ferncreek Ave Orlando FL 32806",
+    "addr:housenumber":"2203",
+    "addr:postcode":"32806",
+    "addr:street":"S Ferncreek Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.359823,28.516917,-81.359823,28.516917",
     "geom:latitude":28.516917,
     "geom:longitude":-81.359823,
@@ -29,7 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -41,17 +48,17 @@
     "wof:geomhash":"9df3f2b53567334b4e9f988e4118a011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":186209243
         }
     ],
     "wof:id":186209243,
-    "wof:lastmodified":1466429217,
+    "wof:lastmodified":1491930970,
     "wof:name":"Bracy Masonry Inc",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

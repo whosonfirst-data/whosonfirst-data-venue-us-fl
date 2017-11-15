@@ -2,9 +2,14 @@
   "id": 638662467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 SW 28th Ter Fort Lauderdale FL 33312",
+    "addr:housenumber":"1601",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 28Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.1801,26.099518,-80.1801,26.099518",
     "geom:latitude":26.099518,
     "geom:longitude":-80.1801,
@@ -34,7 +39,9 @@
         85633793,
         85932411,
         102084727,
-        85877515
+        85877515,
+        85932397,
+        85865215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +59,21 @@
             "neighbourhood_id":85877515,
             "region_id":85688651,
             "venue_id":638662467
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85865215,
+            "region_id":85688651,
+            "venue_id":638662467
         }
     ],
     "wof:id":638662467,
-    "wof:lastmodified":1466445686,
+    "wof:lastmodified":1491916221,
     "wof:name":"Compania De Air Conditoning",
-    "wof:parent_id":85877515,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

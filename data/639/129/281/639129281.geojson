@@ -2,9 +2,14 @@
   "id": 639129281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3032 Los Amigos Dr Orlando FL 32822",
+    "addr:housenumber":"3032",
+    "addr:postcode":"32822",
+    "addr:street":"Los Amigos Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.27209,28.507432,-81.27209,28.507432",
     "geom:latitude":28.507432,
     "geom:longitude":-81.27209,
@@ -27,9 +32,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":639129281
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":639129281
         }
     ],
     "wof:id":639129281,
-    "wof:lastmodified":1466450268,
+    "wof:lastmodified":1491901271,
     "wof:name":"Bavarian Nut Haus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

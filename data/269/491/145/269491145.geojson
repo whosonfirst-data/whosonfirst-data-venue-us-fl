@@ -2,9 +2,14 @@
   "id": 269491145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 W Flagler St Miami FL 33130",
+    "addr:housenumber":"1108",
+    "addr:postcode":"33130",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.214533,25.773457,-80.214533,25.773457",
     "geom:latitude":25.773457,
     "geom:longitude":-80.214533,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"213e5a3ecd73489f40fcaa0c463fcdca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269491145,
-    "wof:lastmodified":1466428618,
+    "wof:lastmodified":1491906079,
     "wof:name":"Del Ray-Cerrajero Locks",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

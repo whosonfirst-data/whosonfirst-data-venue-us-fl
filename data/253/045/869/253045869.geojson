@@ -2,9 +2,14 @@
   "id": 253045869,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 NE 23rd St Miami FL 33137",
+    "addr:housenumber":"435",
+    "addr:postcode":"33137",
+    "addr:street":"Ne 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.185629,25.799331,-80.185629,25.799331",
     "geom:latitude":25.799331,
     "geom:longitude":-80.185629,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"73d7eafc79fec89f4bb2e6cf210cb3cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253045869,
-    "wof:lastmodified":1466429123,
+    "wof:lastmodified":1491921181,
     "wof:name":"Off The Menu Entertainment",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

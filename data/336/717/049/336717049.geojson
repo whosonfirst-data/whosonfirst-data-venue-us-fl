@@ -2,9 +2,14 @@
   "id": 336717049,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Clematis St West Palm Beach FL 33401",
+    "addr:housenumber":"518",
+    "addr:postcode":"33401",
+    "addr:street":"Clematis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056745,26.713369,-80.056745,26.713369",
     "geom:latitude":26.713369,
     "geom:longitude":-80.056745,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"59ef64704ec0a4a59fdf0ef2a1207bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336717049,
-    "wof:lastmodified":1466437003,
+    "wof:lastmodified":1491899627,
     "wof:name":"Closer Magazine",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

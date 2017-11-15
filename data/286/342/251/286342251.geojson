@@ -2,9 +2,14 @@
   "id": 286342251,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 N Nowell St Orlando FL 32835",
+    "addr:housenumber":"7",
+    "addr:postcode":"32835",
+    "addr:street":"N Nowell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.463391,28.542553,-81.463391,28.542553",
     "geom:latitude":28.542553,
     "geom:longitude":-81.463391,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9b6651d60fb6e3148fb5999d2fd1ea86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286342251,
-    "wof:lastmodified":1466431058,
+    "wof:lastmodified":1491935000,
     "wof:name":"Ko Landscaping",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

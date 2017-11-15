@@ -2,9 +2,14 @@
   "id": 353579759,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Biscayne Blvd Miami FL 33132",
+    "addr:housenumber":"300",
+    "addr:postcode":"33132",
+    "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188071,25.778177,-80.188071,25.778177",
     "geom:latitude":25.778177,
     "geom:longitude":-80.188071,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
-        102085771
+        102085771,
+        85866181,
+        85896173,
+        85889173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"c1e4161a11872302e98bec5cb3f20b7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85866181,
+            "region_id":85688651,
+            "venue_id":353579759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85896173,
+            "region_id":85688651,
+            "venue_id":353579759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85889173,
             "region_id":85688651,
             "venue_id":353579759
         }
     ],
     "wof:id":353579759,
-    "wof:lastmodified":1466437474,
+    "wof:lastmodified":1491906282,
     "wof:name":"TAACC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

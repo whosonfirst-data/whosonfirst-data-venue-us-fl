@@ -2,9 +2,14 @@
   "id": 303775037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2718 W Arch St Tampa FL 33607",
+    "addr:housenumber":"2718",
+    "addr:postcode":"33607",
+    "addr:street":"W Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.488811,27.954163,-82.488811,27.954163",
     "geom:latitude":27.954163,
     "geom:longitude":-82.488811,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ecde63b8b527ca526eca78a3171bf4a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303775037,
-    "wof:lastmodified":1466443886,
+    "wof:lastmodified":1491934216,
     "wof:name":"Best West Janitorial Service",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 287266375,
   "type": "Feature",
   "properties": {
+    "addr:full":"5542 Arnold Palmer Dr Orlando FL 32811",
+    "addr:housenumber":"5542",
+    "addr:postcode":"32811",
+    "addr:street":"Arnold Palmer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.455254,28.510483,-81.455254,28.510483",
     "geom:latitude":28.510483,
     "geom:longitude":-81.455254,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"62437c3a3b629d51295477486e1f96e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287266375,
-    "wof:lastmodified":1466434519,
+    "wof:lastmodified":1491921598,
     "wof:name":"Ability Translations",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

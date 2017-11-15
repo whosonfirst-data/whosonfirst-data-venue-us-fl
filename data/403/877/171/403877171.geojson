@@ -2,9 +2,14 @@
   "id": 403877171,
   "type": "Feature",
   "properties": {
+    "addr:full":"741 Carolina Ave Fort Lauderdale FL 33312",
+    "addr:housenumber":"741",
+    "addr:postcode":"33312",
+    "addr:street":"Carolina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.191308,26.109643,-80.191308,26.109643",
     "geom:latitude":26.109643,
     "geom:longitude":-80.191308,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4b8baacd70cca6036d93d5fb3db2df9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403877171,
-    "wof:lastmodified":1466442367,
+    "wof:lastmodified":1491916228,
     "wof:name":"Chief Cornerstone of Hope",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

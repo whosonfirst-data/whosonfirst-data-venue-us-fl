@@ -2,9 +2,14 @@
   "id": 286660373,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 N Orange Ave Orlando FL 32801",
+    "addr:housenumber":"265",
+    "addr:postcode":"32801",
+    "addr:street":"N Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.37901,28.544984,-81.37901,28.544984",
     "geom:latitude":28.544984,
     "geom:longitude":-81.37901,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"f4f43beb5640c95ceac6f5eba735b44e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":286660373
         }
     ],
     "wof:id":286660373,
-    "wof:lastmodified":1466436629,
+    "wof:lastmodified":1491924982,
     "wof:name":"Hi Tech Svc Inc",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

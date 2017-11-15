@@ -2,9 +2,14 @@
   "id": 169837825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Upland Rd West Palm Beach FL 33409",
+    "addr:housenumber":"1700",
+    "addr:postcode":"33409",
+    "addr:street":"Upland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.077536,26.693568,-80.077536,26.693568",
     "geom:latitude":26.693568,
     "geom:longitude":-80.077536,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -45,7 +51,7 @@
     "wof:geomhash":"fe6ec727fb16c47558e337e62614bd18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":169837825,
-    "wof:lastmodified":1466429431,
+    "wof:lastmodified":1491921851,
     "wof:name":"Champion Pools & Spas Inc",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

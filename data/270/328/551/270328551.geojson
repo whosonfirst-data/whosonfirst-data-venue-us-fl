@@ -2,9 +2,14 @@
   "id": 270328551,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 E Central Blvd Orlando FL 32801",
+    "addr:housenumber":"150",
+    "addr:postcode":"32801",
+    "addr:street":"E Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.376634,28.542085,-81.376634,28.542085",
     "geom:latitude":28.542085,
     "geom:longitude":-81.376634,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"2e4ba39f89ec70410dd9ab06df466cee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":270328551
         }
     ],
     "wof:id":270328551,
-    "wof:lastmodified":1466435086,
+    "wof:lastmodified":1491925029,
     "wof:name":"The University Club of Orlando",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

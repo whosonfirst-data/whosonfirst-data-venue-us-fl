@@ -2,9 +2,14 @@
   "id": 303590641,
   "type": "Feature",
   "properties": {
+    "addr:full":"5015 4th St N St Petersburg FL 33703",
+    "addr:housenumber":"5015",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638582,27.818352,-82.638582,27.818352",
     "geom:latitude":27.818352,
     "geom:longitude":-82.638582,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ae7e995e3017c581a74260fc73bf5dd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303590641,
-    "wof:lastmodified":1466440698,
+    "wof:lastmodified":1491913781,
     "wof:name":"Baysports Orthopaedic Surgery",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203212217,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 S Bumby Ave Orlando FL 32806",
+    "addr:housenumber":"904",
+    "addr:postcode":"32806",
+    "addr:street":"S Bumby Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.351808,28.529644,-81.351808,28.529644",
     "geom:latitude":28.529644,
     "geom:longitude":-81.351808,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ab01524fe3c8bb7bcb2e1f6b53cf24c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203212217,
-    "wof:lastmodified":1466429057,
+    "wof:lastmodified":1491905854,
     "wof:name":"Ten Years Younger Beauty Salon",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

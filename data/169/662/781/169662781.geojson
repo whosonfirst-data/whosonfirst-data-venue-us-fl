@@ -2,9 +2,14 @@
   "id": 169662781,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 Upland Rd West Palm Beach FL 33409",
+    "addr:housenumber":"2017",
+    "addr:postcode":"33409",
+    "addr:street":"Upland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.079299,26.693426,-80.079299,26.693426",
     "geom:latitude":26.693426,
     "geom:longitude":-80.079299,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f51951af99c1984100dfa8e6a5ca4c70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":169662781,
-    "wof:lastmodified":1466444944,
+    "wof:lastmodified":1491921849,
     "wof:name":"Brenda Girardi Family Day",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

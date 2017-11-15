@@ -2,9 +2,14 @@
   "id": 286516151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 22nd St West Palm Beach FL 33407",
+    "addr:housenumber":"1009",
+    "addr:postcode":"33407",
+    "addr:street":"22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.064081,26.734351,-80.064081,26.734351",
     "geom:latitude":26.734351,
     "geom:longitude":-80.064081,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"53ed6d5151ffeaf5f36d96526641d4f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286516151,
-    "wof:lastmodified":1466434049,
+    "wof:lastmodified":1491899775,
     "wof:name":"Ep Trucking Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

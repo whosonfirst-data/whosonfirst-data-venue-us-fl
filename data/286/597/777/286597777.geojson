@@ -2,9 +2,14 @@
   "id": 286597777,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 E Jersey St Orlando FL 32806",
+    "addr:housenumber":"402",
+    "addr:postcode":"32806",
+    "addr:street":"E Jersey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.371523,28.513842,-81.371523,28.513842",
     "geom:latitude":28.513842,
     "geom:longitude":-81.371523,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"17df7ac376b95438862b3185733ac2df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":286597777
         }
     ],
     "wof:id":286597777,
-    "wof:lastmodified":1466435502,
+    "wof:lastmodified":1491930964,
     "wof:name":"CF Tours Inc",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

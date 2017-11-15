@@ -2,9 +2,14 @@
   "id": 387033049,
   "type": "Feature",
   "properties": {
+    "addr:full":"7131 Grand National Dr Orlando FL 32819",
+    "addr:housenumber":"7131",
+    "addr:postcode":"32819",
+    "addr:street":"Grand National Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.456155,28.459956,-81.456155,28.459956",
     "geom:latitude":28.459956,
     "geom:longitude":-81.456155,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5b77f17e1c26c93973aef48e3d1a3fd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387033049,
-    "wof:lastmodified":1466439213,
+    "wof:lastmodified":1491884870,
     "wof:name":"Agrimond",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 304046131,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 SW 8th Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"712",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.150923,26.111165,-80.150923,26.111165",
     "geom:latitude":26.111165,
     "geom:longitude":-80.150923,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"49eb0a25c435ce4395cd09ae62aae83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":304046131,
-    "wof:lastmodified":1466432619,
+    "wof:lastmodified":1491936868,
     "wof:name":"Gaddis Asset Management Enterp",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

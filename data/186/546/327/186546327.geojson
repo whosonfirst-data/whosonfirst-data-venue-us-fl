@@ -2,9 +2,14 @@
   "id": 186546327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 28th St N St Petersburg FL 33713",
+    "addr:housenumber":"2325",
+    "addr:postcode":"33713",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.67125,27.793504,-82.67125,27.793504",
     "geom:latitude":27.793504,
     "geom:longitude":-82.67125,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"63ad440cdea9ae03b651348ecfef6ed3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186546327,
-    "wof:lastmodified":1466433421,
+    "wof:lastmodified":1491896306,
     "wof:name":"Junito's Gourmet Cafe & Cater",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236696099,
   "type": "Feature",
   "properties": {
+    "addr:full":"9661 Tradeport Dr Orlando FL 32827",
+    "addr:housenumber":"9661",
+    "addr:postcode":"32827",
+    "addr:street":"Tradeport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.333837,28.427694,-81.333837,28.427694",
     "geom:latitude":28.427694,
     "geom:longitude":-81.333837,
@@ -29,11 +34,13 @@
     "sg:website":"www.psihq.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688651,
+        102533657,
+        85879479,
+        102191575,
         85633793,
         85933091,
         102085847,
-        85879523
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"702b727c743e6ca97f25985044aa1c22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102533657,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":85879523,
+            "neighbourhood_id":85879479,
             "region_id":85688651,
             "venue_id":236696099
         }
     ],
     "wof:id":236696099,
-    "wof:lastmodified":1466438308,
+    "wof:lastmodified":1491914283,
     "wof:name":"West & Assoc",
-    "wof:parent_id":85879523,
+    "wof:parent_id":102533657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

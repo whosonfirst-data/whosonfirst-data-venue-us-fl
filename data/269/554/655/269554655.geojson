@@ -2,9 +2,14 @@
   "id": 269554655,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 SW 30th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"212",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.144373,26.087068,-80.144373,26.087068",
     "geom:latitude":26.087068,
     "geom:longitude":-80.144373,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"c1b337f561f232c7c5107416a1219d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":269554655
         }
     ],
     "wof:id":269554655,
-    "wof:lastmodified":1466429741,
+    "wof:lastmodified":1491924493,
     "wof:name":"Superior Ship Services Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

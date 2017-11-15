@@ -2,9 +2,14 @@
   "id": 270120989,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 Royal Poinciana Way Palm Beach FL 33480",
+    "addr:housenumber":"253",
+    "addr:postcode":"33480",
+    "addr:street":"Royal Poinciana Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.040369,26.718476,-80.040369,26.718476",
     "geom:latitude":26.718476,
     "geom:longitude":-80.040369,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0f8c8b0881370a5e7b3fb60daa97a4da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":270120989,
-    "wof:lastmodified":1466431506,
+    "wof:lastmodified":1491899654,
     "wof:name":"Montana Gallery",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

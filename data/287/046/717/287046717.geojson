@@ -2,9 +2,14 @@
   "id": 287046717,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 SW 12th Ave Miami FL 33130",
+    "addr:housenumber":"515",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.214423,25.76785,-80.214423,25.76785",
     "geom:latitude":25.76785,
     "geom:longitude":-80.214423,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0757a13e9d609b385e3056c156d24619",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287046717,
-    "wof:lastmodified":1466430626,
+    "wof:lastmodified":1491906081,
     "wof:name":"Yesenia Unisex Beauty Parlor",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

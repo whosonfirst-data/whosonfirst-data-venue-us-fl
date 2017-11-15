@@ -2,9 +2,14 @@
   "id": 186360697,
   "type": "Feature",
   "properties": {
+    "addr:full":"4425 Ponce de Leon Blvd Miami FL 33134",
+    "addr:housenumber":"4425",
+    "addr:postcode":"33134",
+    "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.258309,25.73131,-80.258309,25.73131",
     "geom:latitude":25.73131,
     "geom:longitude":-80.258309,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"6d2cc905b42ab1f9bd6c2429d651c6da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":186360697
         }
     ],
     "wof:id":186360697,
-    "wof:lastmodified":1466431034,
+    "wof:lastmodified":1491901699,
     "wof:name":"Jose Marte",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

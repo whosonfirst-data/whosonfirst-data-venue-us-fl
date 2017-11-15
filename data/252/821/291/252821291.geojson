@@ -2,9 +2,14 @@
   "id": 252821291,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 Sunset Ave Palm Beach FL 33480",
+    "addr:housenumber":"280",
+    "addr:postcode":"33480",
+    "addr:street":"Sunset Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.039679,26.719057,-80.039679,26.719057",
     "geom:latitude":26.719057,
     "geom:longitude":-80.039679,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -40,7 +46,7 @@
     "wof:geomhash":"82e16d93b88fc1de8b410ee3e28892e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":252821291,
-    "wof:lastmodified":1466430072,
+    "wof:lastmodified":1491899653,
     "wof:name":"Bradley House",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

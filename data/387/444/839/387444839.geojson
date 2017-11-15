@@ -2,9 +2,14 @@
   "id": 387444839,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 N Dixie Hwy West Palm Beach FL 33407",
+    "addr:housenumber":"2107",
+    "addr:postcode":"33407",
+    "addr:street":"N Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.052994,26.733147,-80.052994,26.733147",
     "geom:latitude":26.733147,
     "geom:longitude":-80.052994,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"130dbb31a8742e745d135c365cc407db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387444839,
-    "wof:lastmodified":1466445518,
+    "wof:lastmodified":1491899785,
     "wof:name":"Haitian Center",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

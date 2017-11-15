@@ -2,9 +2,14 @@
   "id": 319872887,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S Andrews Ave Fort Lauderdale FL 33301",
+    "addr:housenumber":"500",
+    "addr:postcode":"33301",
+    "addr:street":"S Andrews Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143213,26.11477,-80.143213,26.11477",
     "geom:latitude":26.11477,
     "geom:longitude":-80.143213,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"82ad897ec489aaeb5edead51cb0ea955",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319872887,
-    "wof:lastmodified":1466433733,
+    "wof:lastmodified":1491936874,
     "wof:name":"Store Room",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370853639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 NW 19th St Fort Lauderdale FL 33311",
+    "addr:housenumber":"2408",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.174735,26.151102,-80.174735,26.151102",
     "geom:latitude":26.151102,
     "geom:longitude":-80.174735,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0092cc9cf4e56216037f664f12447740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370853639,
-    "wof:lastmodified":1466447073,
+    "wof:lastmodified":1491904192,
     "wof:name":"Super C Food Store",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

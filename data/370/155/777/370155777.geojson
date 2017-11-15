@@ -2,9 +2,14 @@
   "id": 370155777,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 W Warren Ave Tampa FL 33602",
+    "addr:housenumber":"903",
+    "addr:postcode":"33602",
+    "addr:street":"W Warren Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.472407,27.968776,-82.472407,27.968776",
     "geom:latitude":27.968776,
     "geom:longitude":-82.472407,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"48b5412c0f9ba0afda51f78d07af3761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370155777,
-    "wof:lastmodified":1466436528,
+    "wof:lastmodified":1491934024,
     "wof:name":"Tony Martinez Construction",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

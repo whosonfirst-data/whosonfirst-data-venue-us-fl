@@ -2,9 +2,14 @@
   "id": 303095453,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 S Orange Ave Orlando FL 32801",
+    "addr:housenumber":"29",
+    "addr:postcode":"32801",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.378958,28.541541,-81.378958,28.541541",
     "geom:latitude":28.541541,
     "geom:longitude":-81.378958,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"b31d8df41d79ea8f84270d8829887656",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":303095453
         }
     ],
     "wof:id":303095453,
-    "wof:lastmodified":1466432140,
+    "wof:lastmodified":1491925001,
     "wof:name":"Oval On Orange",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

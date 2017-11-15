@@ -2,9 +2,14 @@
   "id": 219842729,
   "type": "Feature",
   "properties": {
+    "addr:full":"3711 Pine Tree Dr Miami Beach FL 33140",
+    "addr:housenumber":"3711",
+    "addr:postcode":"33140",
+    "addr:street":"Pine Tree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.127012,25.81179,-80.127012,25.81179",
     "geom:latitude":25.81179,
     "geom:longitude":-80.127012,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897,
-        85933671,
         85878923
     ],
     "wof:breaches":[],
@@ -44,16 +50,16 @@
     "wof:geomhash":"363b6fc1f7c6004fb194c2177c4c7aa8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":219842729
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":219842729,
-    "wof:lastmodified":1466436042,
+    "wof:lastmodified":1491903604,
     "wof:name":"Blanca I Goldszmidt MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

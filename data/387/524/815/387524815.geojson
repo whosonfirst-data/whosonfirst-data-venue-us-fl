@@ -2,9 +2,14 @@
   "id": 387524815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1038 53rd Ave N Saint Petersburg FL 33703",
+    "addr:housenumber":"1038",
+    "addr:postcode":"33703",
+    "addr:street":"53Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.650381,27.820332,-82.650381,27.820332",
     "geom:latitude":27.820332,
     "geom:longitude":-82.650381,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d2f1f80efd5594c20c00d44d458d4a96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387524815,
-    "wof:lastmodified":1466446571,
+    "wof:lastmodified":1491889861,
     "wof:name":"Clyde R Pinkerton Sr",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

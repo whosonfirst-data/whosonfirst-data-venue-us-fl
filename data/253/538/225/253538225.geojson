@@ -2,9 +2,14 @@
   "id": 253538225,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Cooper Ct Orlando FL 32835",
+    "addr:housenumber":"163",
+    "addr:postcode":"32835",
+    "addr:street":"Cooper Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.473914,28.542577,-81.473914,28.542577",
     "geom:latitude":28.542577,
     "geom:longitude":-81.473914,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cccff7fe05f8de591e229ebcd6f9736e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253538225,
-    "wof:lastmodified":1466436289,
+    "wof:lastmodified":1491934983,
     "wof:name":"Brothers Construction",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

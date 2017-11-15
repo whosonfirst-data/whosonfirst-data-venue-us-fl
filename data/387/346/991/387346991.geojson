@@ -2,9 +2,14 @@
   "id": 387346991,
   "type": "Feature",
   "properties": {
+    "addr:full":"2705 SW 15th Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"2705",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.16084,26.089271,-80.16084,26.089271",
     "geom:latitude":26.089271,
     "geom:longitude":-80.16084,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"976320dc20bdfcb6830b28c5fa49908d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":387346991
         }
     ],
     "wof:id":387346991,
-    "wof:lastmodified":1466444048,
+    "wof:lastmodified":1491924488,
     "wof:name":"Snacks Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

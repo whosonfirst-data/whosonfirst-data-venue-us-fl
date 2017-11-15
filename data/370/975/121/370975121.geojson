@@ -2,9 +2,14 @@
   "id": 370975121,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Orange Ave Orlando FL 32801",
+    "addr:housenumber":"400",
+    "addr:postcode":"32801",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.378649,28.53701,-81.378649,28.53701",
     "geom:latitude":28.53701,
     "geom:longitude":-81.378649,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
-        102085847
+        102085847,
+        85889287,
+        85866881,
+        85879469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"d7ca76ea51d2a2f9086572dc1eb85f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85889287,
+            "region_id":85688651,
+            "venue_id":370975121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85866881,
+            "region_id":85688651,
+            "venue_id":370975121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85879469,
             "region_id":85688651,
             "venue_id":370975121
         }
     ],
     "wof:id":370975121,
-    "wof:lastmodified":1466447987,
+    "wof:lastmodified":1491924984,
     "wof:name":"Orlando Neighborhood Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

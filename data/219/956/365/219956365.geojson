@@ -2,9 +2,14 @@
   "id": 219956365,
   "type": "Feature",
   "properties": {
+    "addr:full":"6512 Bayshore Blvd Tampa FL 33611",
+    "addr:housenumber":"6512",
+    "addr:postcode":"33611",
+    "addr:street":"Bayshore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.488978,27.86655,-82.488978,27.86655",
     "geom:latitude":27.86655,
     "geom:longitude":-82.488978,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"cded7493dd8ea7f8d725241b5e4421c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219956365,
-    "wof:lastmodified":1466437610,
+    "wof:lastmodified":1491897369,
     "wof:name":"M D Luetgert & Associates",
     "wof:parent_id":85889761,
     "wof:placetype":"venue",

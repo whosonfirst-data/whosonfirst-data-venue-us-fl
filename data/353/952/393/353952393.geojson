@@ -2,9 +2,14 @@
   "id": 353952393,
   "type": "Feature",
   "properties": {
+    "addr:full":"511 S Olive Ave West Palm Beach FL 33401",
+    "addr:housenumber":"511",
+    "addr:postcode":"33401",
+    "addr:street":"S Olive Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.052095,26.708583,-80.052095,26.708583",
     "geom:latitude":26.708583,
     "geom:longitude":-80.052095,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -46,7 +52,7 @@
     "wof:geomhash":"ce0fe30912c7624479f1371b6aefb574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":353952393,
-    "wof:lastmodified":1466443262,
+    "wof:lastmodified":1491899673,
     "wof:name":"Peerson Audio Inc",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

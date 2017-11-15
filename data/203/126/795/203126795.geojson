@@ -2,9 +2,14 @@
   "id": 203126795,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Lake Como Cir Orlando FL 32803",
+    "addr:housenumber":"560",
+    "addr:postcode":"32803",
+    "addr:street":"Lake Como Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.353039,28.535724,-81.353039,28.535724",
     "geom:latitude":28.535724,
     "geom:longitude":-81.353039,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b9ba5d8b739f3490233eb5e67d17c47c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203126795,
-    "wof:lastmodified":1466445735,
+    "wof:lastmodified":1491905854,
     "wof:name":"Appliance Repair",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

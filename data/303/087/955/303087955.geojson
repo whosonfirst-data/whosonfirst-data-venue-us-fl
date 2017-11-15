@@ -2,9 +2,14 @@
   "id": 303087955,
   "type": "Feature",
   "properties": {
+    "addr:full":"7650 W Courtney Campbell Cswy Tampa FL 33607",
+    "addr:housenumber":"7650",
+    "addr:postcode":"33607",
+    "addr:street":"W Courtney;Cswy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.56482,27.967531,-82.56482,27.967531",
     "geom:latitude":27.967531,
     "geom:longitude":-82.56482,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0f6b2027f2fa055fbad091b6917c83af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303087955,
-    "wof:lastmodified":1466432004,
+    "wof:lastmodified":1491914709,
     "wof:name":"Intercoastal Title LLC",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

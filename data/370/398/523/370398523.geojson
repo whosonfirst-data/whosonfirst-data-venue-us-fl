@@ -2,9 +2,14 @@
   "id": 370398523,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 Green St West Palm Beach FL 33405",
+    "addr:housenumber":"805",
+    "addr:postcode":"33405",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.063314,26.668951,-80.063314,26.668951",
     "geom:latitude":26.668951,
     "geom:longitude":-80.063314,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4044e1b589a4152a5cbd04d22c5e418d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370398523,
-    "wof:lastmodified":1466440276,
+    "wof:lastmodified":1491902423,
     "wof:name":"Gaxeda Enterprises",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

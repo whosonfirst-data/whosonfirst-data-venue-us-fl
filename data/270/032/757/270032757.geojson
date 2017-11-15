@@ -2,9 +2,14 @@
   "id": 270032757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Lee Wagener Blvd Fort Lauderdale FL 33315",
+    "addr:housenumber":"1400",
+    "addr:postcode":"33315",
+    "addr:street":"Lee Wagener Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.157713,26.070571,-80.157713,26.070571",
     "geom:latitude":26.070571,
     "geom:longitude":-80.157713,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"7769c557df0310d71db6e123bd1d5df8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":270032757
         }
     ],
     "wof:id":270032757,
-    "wof:lastmodified":1466430014,
+    "wof:lastmodified":1491924489,
     "wof:name":"Shuttle Port",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

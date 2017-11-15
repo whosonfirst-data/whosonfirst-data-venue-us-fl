@@ -2,9 +2,14 @@
   "id": 186181665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 Pinewood Ave West Palm Beach FL 33407",
+    "addr:housenumber":"2715",
+    "addr:postcode":"33407",
+    "addr:street":"Pinewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.05786,26.73689,-80.05786,26.73689",
     "geom:latitude":26.73689,
     "geom:longitude":-80.05786,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c652fb55cb93e2487dd368bfc6008bcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186181665,
-    "wof:lastmodified":1466428889,
+    "wof:lastmodified":1491899782,
     "wof:name":"Latinos Auto Repair",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236035555,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 NW 24th St Miami FL 33127",
+    "addr:housenumber":"537",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.20449,25.800034,-80.20449,25.800034",
     "geom:latitude":25.800034,
     "geom:longitude":-80.20449,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d2207200416ad799154558fbcc55ce19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236035555,
-    "wof:lastmodified":1466428889,
+    "wof:lastmodified":1491905711,
     "wof:name":"Dony International Corp",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

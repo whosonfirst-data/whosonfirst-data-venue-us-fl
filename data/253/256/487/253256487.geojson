@@ -2,9 +2,14 @@
   "id": 253256487,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 N Rome Ave Tampa FL 33606",
+    "addr:housenumber":"602",
+    "addr:postcode":"33606",
+    "addr:street":"N Rome Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.476858,27.949809,-82.476858,27.949809",
     "geom:latitude":27.949809,
     "geom:longitude":-82.476858,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -46,7 +52,7 @@
     "wof:geomhash":"46212f6fdee6428386973186393133ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":253256487,
-    "wof:lastmodified":1466431535,
+    "wof:lastmodified":1491934211,
     "wof:name":"J A Green Plumbing & Mech Inc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

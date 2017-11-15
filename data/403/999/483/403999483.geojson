@@ -2,9 +2,14 @@
   "id": 403999483,
   "type": "Feature",
   "properties": {
+    "addr:full":"8345 Mattituck Cir Orlando FL 32829",
+    "addr:housenumber":"8345",
+    "addr:postcode":"32829",
+    "addr:street":"Mattituck Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.27179,28.505997,-81.27179,28.505997",
     "geom:latitude":28.505997,
     "geom:longitude":-81.27179,
@@ -32,9 +37,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +49,24 @@
     "wof:geomhash":"5767ad6a5b434733d8007bf8bd113270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":403999483
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":403999483
         }
     ],
     "wof:id":403999483,
-    "wof:lastmodified":1466444291,
+    "wof:lastmodified":1491901278,
     "wof:name":"Moser Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

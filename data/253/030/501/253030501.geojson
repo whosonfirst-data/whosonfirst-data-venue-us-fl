@@ -2,9 +2,14 @@
   "id": 253030501,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Island Ave E Miami Beach FL 33139",
+    "addr:housenumber":"9",
+    "addr:postcode":"33139",
+    "addr:street":"Island Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.147007,25.790777,-80.147007,25.790777",
     "geom:latitude":25.790777,
     "geom:longitude":-80.147007,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f484286f5de3617ce60f62e91b38df1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -53,7 +59,7 @@
             "venue_id":253030501
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":253030501,
-    "wof:lastmodified":1466428909,
+    "wof:lastmodified":1491915779,
     "wof:name":"Seirra Health Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

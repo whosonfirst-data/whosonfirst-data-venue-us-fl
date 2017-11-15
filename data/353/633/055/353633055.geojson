@@ -2,9 +2,14 @@
   "id": 353633055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2655 Davie Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"2655",
+    "addr:postcode":"33312",
+    "addr:street":"Davie Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.177488,26.106475,-80.177488,26.106475",
     "geom:latitude":26.106475,
     "geom:longitude":-80.177488,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"04c3b205cde2bbe6e95f3c964b87bd74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353633055,
-    "wof:lastmodified":1466438336,
+    "wof:lastmodified":1491916232,
     "wof:name":"Victoria's Secret Garden",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

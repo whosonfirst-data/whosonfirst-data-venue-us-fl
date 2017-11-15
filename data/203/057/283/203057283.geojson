@@ -2,9 +2,14 @@
   "id": 203057283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2877 20th Ave N St Petersburg FL 33713",
+    "addr:housenumber":"2877",
+    "addr:postcode":"33713",
+    "addr:street":"20Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.671952,27.790169,-82.671952,27.790169",
     "geom:latitude":27.790169,
     "geom:longitude":-82.671952,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"12f5594be814c224f9d0c67bfe7e199b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":203057283,
-    "wof:lastmodified":1466444301,
+    "wof:lastmodified":1491896298,
     "wof:name":"Top Dog Training Inc",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

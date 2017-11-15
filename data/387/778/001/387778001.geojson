@@ -2,9 +2,14 @@
   "id": 387778001,
   "type": "Feature",
   "properties": {
+    "addr:full":"3383 SW 11th Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"3383",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155777,26.084803,-80.155777,26.084803",
     "geom:latitude":26.084803,
     "geom:longitude":-80.155777,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"ce534fb2da6b227d4f9fbd576bfee7cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":387778001
         }
     ],
     "wof:id":387778001,
-    "wof:lastmodified":1466448685,
+    "wof:lastmodified":1491924475,
     "wof:name":"Johnnys Tractor Trailer Svc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

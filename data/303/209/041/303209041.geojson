@@ -2,9 +2,14 @@
   "id": 303209041,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 SW 9th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"214",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.147006,26.111075,-80.147006,26.111075",
     "geom:latitude":26.111075,
     "geom:longitude":-80.147006,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4762ddb9cbff46ff5b504ffcad3644b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303209041,
-    "wof:lastmodified":1466434143,
+    "wof:lastmodified":1491936882,
     "wof:name":"Proper Care Maintenance",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219522085,
   "type": "Feature",
   "properties": {
+    "addr:full":"827 16th Ave N St Petersburg FL 33704",
+    "addr:housenumber":"827",
+    "addr:postcode":"33704",
+    "addr:street":"16Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646222,27.787154,-82.646222,27.787154",
     "geom:latitude":27.787154,
     "geom:longitude":-82.646222,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a04e175d0142d08a5f5717e8e6f902bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219522085,
-    "wof:lastmodified":1466431797,
+    "wof:lastmodified":1491901212,
     "wof:name":"HHP Assoc",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

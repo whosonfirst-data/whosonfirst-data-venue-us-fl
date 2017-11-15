@@ -2,9 +2,14 @@
   "id": 186415051,
   "type": "Feature",
   "properties": {
+    "addr:full":"441 Cadagua Ave Miami FL 33146",
+    "addr:housenumber":"441",
+    "addr:postcode":"33146",
+    "addr:street":"Cadagua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.263271,25.728115,-80.263271,25.728115",
     "geom:latitude":25.728115,
     "geom:longitude":-80.263271,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"0777791e595a2068adf42cfafdf70370",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":186415051
         }
     ],
     "wof:id":186415051,
-    "wof:lastmodified":1466431702,
+    "wof:lastmodified":1491901707,
     "wof:name":"Aquasol Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

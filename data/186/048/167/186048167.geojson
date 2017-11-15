@@ -2,9 +2,14 @@
   "id": 186048167,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 S County Rd Palm Beach FL 33480",
+    "addr:housenumber":"235",
+    "addr:postcode":"33480",
+    "addr:street":"S County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.03661,26.707749,-80.03661,26.707749",
     "geom:latitude":26.707749,
     "geom:longitude":-80.03661,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ce1e1e26db39166274ba5758baf97e2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186048167,
-    "wof:lastmodified":1466444171,
+    "wof:lastmodified":1491899649,
     "wof:name":"Lewis Pharmacy",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

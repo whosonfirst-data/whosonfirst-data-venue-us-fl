@@ -2,9 +2,14 @@
   "id": 270097997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1718 SW 17th Ave Miami FL 33145",
+    "addr:housenumber":"1718",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.222205,25.756185,-80.222205,25.756185",
     "geom:latitude":25.756185,
     "geom:longitude":-80.222205,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
-        102085771
+        102085771,
+        420515401,
+        85812267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"685e5adaaa6ecc129cb91c5a44345315",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420515401,
+            "region_id":85688651,
+            "venue_id":270097997
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85812267,
             "region_id":85688651,
             "venue_id":270097997
         }
     ],
     "wof:id":270097997,
-    "wof:lastmodified":1466431115,
+    "wof:lastmodified":1491887612,
     "wof:name":"Gyori Teresita",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236170227,
   "type": "Feature",
   "properties": {
+    "addr:full":"3399 Ponce de Leon Blvd Coral Gables FL 33134",
+    "addr:housenumber":"3399",
+    "addr:postcode":"33134",
+    "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.258374,25.741207,-80.258374,25.741207",
     "geom:latitude":25.741207,
     "geom:longitude":-80.258374,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933643,
-        102085771
+        102085771,
+        85896157,
+        85811627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"4f90c74e4c5399f9984e1a73ddcf0fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933643,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85896157,
+            "region_id":85688651,
+            "venue_id":236170227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933643,
+            "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":236170227
         }
     ],
     "wof:id":236170227,
-    "wof:lastmodified":1466430798,
+    "wof:lastmodified":1491901716,
     "wof:name":"Middlebrook Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

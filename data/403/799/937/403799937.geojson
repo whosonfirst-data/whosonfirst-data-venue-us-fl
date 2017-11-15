@@ -2,9 +2,14 @@
   "id": 403799937,
   "type": "Feature",
   "properties": {
+    "addr:full":"5475 3rd Ln N St Petersburg FL 33703",
+    "addr:housenumber":"5475",
+    "addr:postcode":"33703",
+    "addr:street":"3Rd Ln N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.637317,27.821403,-82.637317,27.821403",
     "geom:latitude":27.821403,
     "geom:longitude":-82.637317,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2ca17cca4d44eb0b9342d7f0fff1d96a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403799937,
-    "wof:lastmodified":1466441115,
+    "wof:lastmodified":1491913790,
     "wof:name":"D M Clark's Mobile Home Sales",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

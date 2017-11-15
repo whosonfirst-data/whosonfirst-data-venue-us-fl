@@ -2,9 +2,14 @@
   "id": 336713603,
   "type": "Feature",
   "properties": {
+    "addr:full":"918 Governors Ave Orlando FL 32808",
+    "addr:housenumber":"918",
+    "addr:postcode":"32808",
+    "addr:street":"Governors Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.456753,28.557914,-81.456753,28.557914",
     "geom:latitude":28.557914,
     "geom:longitude":-81.456753,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b2b04d7b90952ba211fb07329c1541bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336713603,
-    "wof:lastmodified":1466436943,
+    "wof:lastmodified":1491934995,
     "wof:name":"C & H Records Llc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

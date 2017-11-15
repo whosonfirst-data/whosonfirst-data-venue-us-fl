@@ -2,9 +2,14 @@
   "id": 286676059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 Lake Highland Dr Orlando FL 32803",
+    "addr:housenumber":"1506",
+    "addr:postcode":"32803",
+    "addr:street":"Lake Highland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.360494,28.561225,-81.360494,28.561225",
     "geom:latitude":28.561225,
     "geom:longitude":-81.360494,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -47,7 +53,7 @@
     "wof:geomhash":"137e2ac564a0980f5cf1a2e001d16186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":286676059,
-    "wof:lastmodified":1466436911,
+    "wof:lastmodified":1491921618,
     "wof:name":"Xgear Technologies Inc",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

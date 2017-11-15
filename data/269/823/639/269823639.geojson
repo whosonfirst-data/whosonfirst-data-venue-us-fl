@@ -2,9 +2,14 @@
   "id": 269823639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 Windsor Ave West Palm Beach FL 33407",
+    "addr:housenumber":"2610",
+    "addr:postcode":"33407",
+    "addr:street":"Windsor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.064332,26.737872,-80.064332,26.737872",
     "geom:latitude":26.737872,
     "geom:longitude":-80.064332,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a3efdc8da11cfc05b0e47a565d270ba5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269823639,
-    "wof:lastmodified":1466434516,
+    "wof:lastmodified":1491899779,
     "wof:name":"AA Checker Cab Corp",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

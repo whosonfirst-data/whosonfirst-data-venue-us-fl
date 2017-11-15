@@ -2,9 +2,14 @@
   "id": 303966039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2212 S Chickasaw Trl Orlando FL 32825",
+    "addr:housenumber":"2212",
+    "addr:postcode":"32825",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269096,28.514853,-81.269096,28.514853",
     "geom:latitude":28.514853,
     "geom:longitude":-81.269096,
@@ -32,9 +37,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +49,24 @@
     "wof:geomhash":"76d85695cdfa288d779c31d3dd146040",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":303966039
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":303966039
         }
     ],
     "wof:id":303966039,
-    "wof:lastmodified":1466447113,
+    "wof:lastmodified":1491901276,
     "wof:name":"New Century Window Tinting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

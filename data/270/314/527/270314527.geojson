@@ -2,9 +2,14 @@
   "id": 270314527,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 W Dayton Cir Fort Lauderdale FL 33312",
+    "addr:housenumber":"637",
+    "addr:postcode":"33312",
+    "addr:street":"W Dayton Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.194298,26.110198,-80.194298,26.110198",
     "geom:latitude":26.110198,
     "geom:longitude":-80.194298,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0780e8e1e0ba09243a019013112f741f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270314527,
-    "wof:lastmodified":1466434840,
+    "wof:lastmodified":1491916246,
     "wof:name":"Cross Road Lawn & Maintenance",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

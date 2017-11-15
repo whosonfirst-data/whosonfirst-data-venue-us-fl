@@ -2,9 +2,14 @@
   "id": 219753303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1889 SW 7th St Miami FL 33135",
+    "addr:housenumber":"1889",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.225004,25.76656,-80.225004,25.76656",
     "geom:latitude":25.76656,
     "geom:longitude":-80.225004,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"14b0c1175863d6ddcafbcc50fdc68c94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219753303,
-    "wof:lastmodified":1466434808,
+    "wof:lastmodified":1491936016,
     "wof:name":"Ayestaran Restaurant",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

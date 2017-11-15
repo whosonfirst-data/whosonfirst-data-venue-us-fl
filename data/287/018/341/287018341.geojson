@@ -2,9 +2,14 @@
   "id": 287018341,
   "type": "Feature",
   "properties": {
+    "addr:full":"11722 Lake Willis Dr Orlando FL 32821",
+    "addr:housenumber":"11722",
+    "addr:postcode":"32821",
+    "addr:street":"Lake Willis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.474916,28.39449,-81.474916,28.39449",
     "geom:latitude":28.39449,
     "geom:longitude":-81.474916,
@@ -35,8 +40,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889411
+        85889411,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,15 @@
     "wof:geomhash":"47c89c2d5f18982208721304c81a4827",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889411,
             "region_id":85688651,
             "venue_id":287018341
         }
     ],
     "wof:id":287018341,
-    "wof:lastmodified":1466430131,
+    "wof:lastmodified":1491920782,
     "wof:name":"Pacific Rim Design Group",
     "wof:parent_id":85889411,
     "wof:placetype":"venue",

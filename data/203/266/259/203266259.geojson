@@ -2,9 +2,14 @@
   "id": 203266259,
   "type": "Feature",
   "properties": {
+    "addr:full":"1753 8th St SE Miami FL 33135",
+    "addr:housenumber":"1753",
+    "addr:postcode":"33135",
+    "addr:street":"8Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.22359,25.765666,-80.22359,25.765666",
     "geom:latitude":25.765666,
     "geom:longitude":-80.22359,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"85e2018890e34ef1a58a816789cdc459",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":203266259,
-    "wof:lastmodified":1466429752,
+    "wof:lastmodified":1491936011,
     "wof:name":"M & N Variedades Store",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

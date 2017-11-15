@@ -2,9 +2,14 @@
   "id": 404217165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3336 SW 16th St Fort Lauderdale FL 33312",
+    "addr:housenumber":"3336",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.189826,26.100694,-80.189826,26.100694",
     "geom:latitude":26.100694,
     "geom:longitude":-80.189826,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -44,7 +50,7 @@
     "wof:geomhash":"09b8c3aa9c36d8b789acbc27cee1ebe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":404217165,
-    "wof:lastmodified":1466443600,
+    "wof:lastmodified":1491916230,
     "wof:name":"Reliable Security Systems",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

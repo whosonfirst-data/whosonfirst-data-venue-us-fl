@@ -2,9 +2,14 @@
   "id": 253512547,
   "type": "Feature",
   "properties": {
+    "addr:full":"1628 NE 6th Ct Fort Lauderdale FL 33304",
+    "addr:housenumber":"1628",
+    "addr:postcode":"33304",
+    "addr:street":"Ne 6Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.125631,26.130978,-80.125631,26.130978",
     "geom:latitude":26.130978,
     "geom:longitude":-80.125631,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5ddf65d5601557183b14533d7cc8ee2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253512547,
-    "wof:lastmodified":1466435831,
+    "wof:lastmodified":1491914467,
     "wof:name":"Ball Sportwear Inc",
     "wof:parent_id":85851521,
     "wof:placetype":"venue",

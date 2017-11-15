@@ -2,9 +2,14 @@
   "id": 387371733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 SW 12th Ct Fort Lauderdale FL 33315",
+    "addr:housenumber":"1100",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 12Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155421,26.105856,-80.155421,26.105856",
     "geom:latitude":26.105856,
     "geom:longitude":-80.155421,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8d5f34c7bcab94d5696d5e367d51c577",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387371733,
-    "wof:lastmodified":1466444411,
+    "wof:lastmodified":1491936868,
     "wof:name":"Albert B Celmer Inc",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303325291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 E Oakland Park Blvd Fort Lauderdale FL 33306",
+    "addr:housenumber":"2216",
+    "addr:postcode":"33306",
+    "addr:street":"E Oakland Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.117547,26.167166,-80.117547,26.167166",
     "geom:latitude":26.167166,
     "geom:longitude":-80.117547,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"8ac813450e5a21de46865dff64e53f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":303325291
         }
     ],
     "wof:id":303325291,
-    "wof:lastmodified":1466436146,
+    "wof:lastmodified":1491905135,
     "wof:name":"E Z Driving School",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

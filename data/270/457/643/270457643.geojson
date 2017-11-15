@@ -2,9 +2,14 @@
   "id": 270457643,
   "type": "Feature",
   "properties": {
+    "addr:full":"390 N Orange Ave Orlando FL 32801",
+    "addr:housenumber":"390",
+    "addr:postcode":"32801",
+    "addr:street":"N Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.379175,28.545828,-81.379175,28.545828",
     "geom:latitude":28.545828,
     "geom:longitude":-81.379175,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"ffdd6dd43976f9293ff719b50935b282",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":270457643
         }
     ],
     "wof:id":270457643,
-    "wof:lastmodified":1466437277,
+    "wof:lastmodified":1491925016,
     "wof:name":"Giles & Robinson",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

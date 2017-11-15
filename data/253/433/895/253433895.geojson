@@ -2,9 +2,14 @@
   "id": 253433895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1815 Griffin Rd Dania FL 33004",
+    "addr:housenumber":"1815",
+    "addr:postcode":"33004",
+    "addr:street":"Griffin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.159456,26.063163,-80.159456,26.063163",
     "geom:latitude":26.063163,
     "geom:longitude":-80.159456,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"2ac749ee97d5974253c1786d214bc1e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":253433895
         }
     ],
     "wof:id":253433895,
-    "wof:lastmodified":1466434449,
+    "wof:lastmodified":1491924477,
     "wof:name":"Global Insurance MGT Co LLC",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

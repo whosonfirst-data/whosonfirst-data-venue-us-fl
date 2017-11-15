@@ -2,9 +2,14 @@
   "id": 353581109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 NW 1st St Miami FL 33128",
+    "addr:housenumber":"1",
+    "addr:postcode":"33128",
+    "addr:street":"Nw 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.194706,25.775091,-80.194706,25.775091",
     "geom:latitude":25.775091,
     "geom:longitude":-80.194706,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"49cb41e861a7f57ce0e604bdb029dc8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353581109,
-    "wof:lastmodified":1466437497,
+    "wof:lastmodified":1491906290,
     "wof:name":"Estrada Diamond Setters",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

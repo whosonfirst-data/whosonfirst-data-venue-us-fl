@@ -2,9 +2,14 @@
   "id": 354110621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 W Fairbanks Ave Winter Park FL 32789",
+    "addr:housenumber":"2625",
+    "addr:postcode":"32789",
+    "addr:street":"W Fairbanks Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.384523,28.593144,-81.384523,28.593144",
     "geom:latitude":28.593144,
     "geom:longitude":-81.384523,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933091,
+        85935283,
         102085847,
         85889319
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"f2a3fed5b7affed04ffac31cd178356f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933091,
+            "locality_id":85935283,
             "neighbourhood_id":85889319,
             "region_id":85688651,
             "venue_id":354110621
         }
     ],
     "wof:id":354110621,
-    "wof:lastmodified":1466437793,
+    "wof:lastmodified":1491917521,
     "wof:name":"Home & Commercial Irrigation",
     "wof:parent_id":85889319,
     "wof:placetype":"venue",

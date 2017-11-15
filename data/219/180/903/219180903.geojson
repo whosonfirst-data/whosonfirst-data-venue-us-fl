@@ -2,9 +2,14 @@
   "id": 219180903,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 S Macdill Ave Tampa FL 33611",
+    "addr:housenumber":"4408",
+    "addr:postcode":"33611",
+    "addr:street":"S Macdill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.493819,27.90232,-82.493819,27.90232",
     "geom:latitude":27.90232,
     "geom:longitude":-82.493819,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"428ccd754eff9cd3487268b3abae1530",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219180903,
-    "wof:lastmodified":1466443534,
+    "wof:lastmodified":1491927245,
     "wof:name":"Coronet",
     "wof:parent_id":85873199,
     "wof:placetype":"venue",

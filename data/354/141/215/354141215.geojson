@@ -2,9 +2,14 @@
   "id": 354141215,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 SE 10th St Fort Lauderdale FL 33316",
+    "addr:housenumber":"200",
+    "addr:postcode":"33316",
+    "addr:street":"Se 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.140183,26.110706,-80.140183,26.110706",
     "geom:latitude":26.110706,
     "geom:longitude":-80.140183,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2097fcc8f6f9d3d5aa5017172fb1b8da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354141215,
-    "wof:lastmodified":1466438265,
+    "wof:lastmodified":1491936881,
     "wof:name":"Verdi Flooring & Installation",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

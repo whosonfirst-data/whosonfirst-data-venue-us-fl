@@ -2,9 +2,14 @@
   "id": 252913255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 54th Ave N Saint Petersburg FL 33703",
+    "addr:housenumber":"1506",
+    "addr:postcode":"33703",
+    "addr:street":"54Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654931,27.821066,-82.654931,27.821066",
     "geom:latitude":27.821066,
     "geom:longitude":-82.654931,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0adbd28567a5d4101aa8ce16793f89af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":252913255,
-    "wof:lastmodified":1466431395,
+    "wof:lastmodified":1491889863,
     "wof:name":"Kens Cleaners Inc",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

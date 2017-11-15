@@ -2,9 +2,14 @@
   "id": 236962357,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 W Henry Ave Tampa FL 33604",
+    "addr:housenumber":"710",
+    "addr:postcode":"33604",
+    "addr:street":"W Henry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.468624,27.999685,-82.468624,27.999685",
     "geom:latitude":27.999685,
     "geom:longitude":-82.468624,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b43211617e5cbed24522fcd485578b5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236962357,
-    "wof:lastmodified":1466442091,
+    "wof:lastmodified":1491912573,
     "wof:name":"Jackson Entertainment",
     "wof:parent_id":85873245,
     "wof:placetype":"venue",

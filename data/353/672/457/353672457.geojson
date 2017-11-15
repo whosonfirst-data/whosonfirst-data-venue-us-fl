@@ -2,9 +2,14 @@
   "id": 353672457,
   "type": "Feature",
   "properties": {
+    "addr:full":"5820 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5820",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459649,28.552213,-81.459649,28.552213",
     "geom:latitude":28.552213,
     "geom:longitude":-81.459649,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"655a591b44f2c8302ba3475b9d070f12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353672457,
-    "wof:lastmodified":1466438937,
+    "wof:lastmodified":1491934993,
     "wof:name":"Sonny's Marine",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

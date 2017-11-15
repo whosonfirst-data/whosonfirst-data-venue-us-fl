@@ -2,9 +2,14 @@
   "id": 219924689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 McDonald St Miami FL 33133",
+    "addr:housenumber":"3200",
+    "addr:postcode":"33133",
+    "addr:street":"Mcdonald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.245634,25.730679,-80.245634,25.730679",
     "geom:latitude":25.730679,
     "geom:longitude":-80.245634,
@@ -31,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933643,
+        102085771,
+        85811627,
         85933669,
-        102085771
+        420515445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,28 @@
     "wof:geomhash":"5026633343f809857c2d63ef5c1f8b35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933643,
+            "neighbourhood_id":85811627,
+            "region_id":85688651,
+            "venue_id":219924689
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420515445,
             "region_id":85688651,
             "venue_id":219924689
         }
     ],
     "wof:id":219924689,
-    "wof:lastmodified":1466437157,
+    "wof:lastmodified":1491901674,
     "wof:name":"Delbert's Lawn & Tree Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

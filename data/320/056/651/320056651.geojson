@@ -2,9 +2,14 @@
   "id": 320056651,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 Phipps Plz Palm Beach FL 33480",
+    "addr:housenumber":"236",
+    "addr:postcode":"33480",
+    "addr:street":"Phipps Plz;Beach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.03707,26.706784,-80.03707,26.706784",
     "geom:latitude":26.706784,
     "geom:longitude":-80.03707,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6ffbf1e34491f5aa36865e48e1aafcf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320056651,
-    "wof:lastmodified":1466434357,
+    "wof:lastmodified":1491899655,
     "wof:name":"Clarke Galleries",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

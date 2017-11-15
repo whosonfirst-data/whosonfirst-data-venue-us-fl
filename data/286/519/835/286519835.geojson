@@ -2,9 +2,14 @@
   "id": 286519835,
   "type": "Feature",
   "properties": {
+    "addr:full":"4055 Ponce de Leon Blvd Miami FL 33134",
+    "addr:housenumber":"4055",
+    "addr:postcode":"33134",
+    "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.258426,25.733665,-80.258426,25.733665",
     "geom:latitude":25.733665,
     "geom:longitude":-80.258426,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"8475a7a62d001fddf8f26179e5be4278",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":286519835
         }
     ],
     "wof:id":286519835,
-    "wof:lastmodified":1466434108,
+    "wof:lastmodified":1491901698,
     "wof:name":"Calzon Maria Del Carmen",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

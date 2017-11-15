@@ -2,9 +2,14 @@
   "id": 353861137,
   "type": "Feature",
   "properties": {
+    "addr:full":"8700 Biscayne Blvd Miami Shores FL 33138",
+    "addr:housenumber":"8700",
+    "addr:postcode":"33138",
+    "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.184938,25.856029,-80.184938,25.856029",
     "geom:latitude":25.856029,
     "geom:longitude":-80.184938,
@@ -30,8 +35,11 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85933551,
-        102085771
+        85933669,
+        102085771,
+        85896193,
+        102191575,
+        85831005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,27 @@
     "wof:geomhash":"d831e1ecade51961662ebdde46a5d7c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933551,
-            "neighbourhood_id":-1,
+            "locality_id":85933669,
+            "neighbourhood_id":85896193,
+            "region_id":85688651,
+            "venue_id":353861137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85831005,
             "region_id":85688651,
             "venue_id":353861137
         }
     ],
     "wof:id":353861137,
-    "wof:lastmodified":1466441872,
+    "wof:lastmodified":1491918437,
     "wof:name":"Peso Enterprise",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

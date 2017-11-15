@@ -2,9 +2,14 @@
   "id": 320178525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 28th St N St Petersburg FL 33713",
+    "addr:housenumber":"2929",
+    "addr:postcode":"33713",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.67129,27.798978,-82.67129,27.798978",
     "geom:latitude":27.798978,
     "geom:longitude":-82.67129,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1f93013fe40ea0386f5dff739bb54706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320178525,
-    "wof:lastmodified":1466436445,
+    "wof:lastmodified":1491896302,
     "wof:name":"Suncoast Service Station",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

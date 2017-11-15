@@ -2,9 +2,14 @@
   "id": 370368871,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 San Lorenzo Ave Miami FL 33146",
+    "addr:housenumber":"123",
+    "addr:postcode":"33146",
+    "addr:street":"San Lorenzo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.257616,25.731829,-80.257616,25.731829",
     "geom:latitude":25.731829,
     "geom:longitude":-80.257616,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"077b0dbec10904e05d58dc80e1a39188",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":370368871
         }
     ],
     "wof:id":370368871,
-    "wof:lastmodified":1466439824,
+    "wof:lastmodified":1491901712,
     "wof:name":"Barbara Neijna Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

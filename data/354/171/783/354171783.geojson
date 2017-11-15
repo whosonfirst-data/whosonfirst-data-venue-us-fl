@@ -2,9 +2,14 @@
   "id": 354171783,
   "type": "Feature",
   "properties": {
+    "addr:full":"5710 4th St N St Petersburg FL 33703",
+    "addr:housenumber":"5710",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638741,27.822328,-82.638741,27.822328",
     "geom:latitude":27.822328,
     "geom:longitude":-82.638741,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7c9d0684c8c89ba392c2aa3cde279ee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354171783,
-    "wof:lastmodified":1466438738,
+    "wof:lastmodified":1491913777,
     "wof:name":"Fischgrund & Mc Donald",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303316841,
   "type": "Feature",
   "properties": {
+    "addr:full":"5923 4th St N St Petersburg FL 33703",
+    "addr:housenumber":"5923",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638594,27.825831,-82.638594,27.825831",
     "geom:latitude":27.825831,
     "geom:longitude":-82.638594,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"561eb9ee382c8f77735ed94d382c7085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303316841,
-    "wof:lastmodified":1466435996,
+    "wof:lastmodified":1491913780,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

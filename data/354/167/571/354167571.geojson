@@ -2,9 +2,14 @@
   "id": 354167571,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 Coquina Key Dr SE St Petersburg FL 33705",
+    "addr:housenumber":"3175",
+    "addr:postcode":"33705",
+    "addr:street":"Coquina Key Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.630333,27.740994,-82.630333,27.740994",
     "geom:latitude":27.740994,
     "geom:longitude":-82.630333,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5000cfeae33d4ba129934f4ab9a9e9f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354167571,
-    "wof:lastmodified":1466438675,
+    "wof:lastmodified":1491903009,
     "wof:name":"Wilburn C Robinson CPA",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

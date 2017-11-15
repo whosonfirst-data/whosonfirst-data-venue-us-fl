@@ -2,9 +2,14 @@
   "id": 303378429,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 NW 1st Ave Miami FL 33128",
+    "addr:housenumber":"213",
+    "addr:postcode":"33128",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.195178,25.776877,-80.195178,25.776877",
     "geom:latitude":25.776877,
     "geom:longitude":-80.195178,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"93be54b71baa09f21d05bd1cdea4619b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303378429,
-    "wof:lastmodified":1466437047,
+    "wof:lastmodified":1491906325,
     "wof:name":"Eagle Products of South Fla",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

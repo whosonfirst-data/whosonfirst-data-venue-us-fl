@@ -2,9 +2,14 @@
   "id": 203076245,
   "type": "Feature",
   "properties": {
+    "addr:full":"4812 W South Ave Tampa FL 33614",
+    "addr:housenumber":"4812",
+    "addr:postcode":"33614",
+    "addr:street":"W South Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.52556,27.991486,-82.52556,27.991486",
     "geom:latitude":27.991486,
     "geom:longitude":-82.52556,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d49931bc2f63279592d58bc7e43c620d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203076245,
-    "wof:lastmodified":1466444589,
+    "wof:lastmodified":1491934086,
     "wof:name":"J Koklolakis Contracting Inc",
     "wof:parent_id":85873207,
     "wof:placetype":"venue",

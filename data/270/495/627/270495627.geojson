@@ -2,9 +2,14 @@
   "id": 270495627,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"616",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057916,26.699315,-80.057916,26.699315",
     "geom:latitude":26.699315,
     "geom:longitude":-80.057916,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e91aa75c23d0bef77ef21fb447292382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270495627,
-    "wof:lastmodified":1466437942,
+    "wof:lastmodified":1491921829,
     "wof:name":"Marshall Law Interprise",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

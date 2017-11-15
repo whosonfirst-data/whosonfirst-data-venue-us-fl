@@ -2,9 +2,14 @@
   "id": 320296227,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 W Church St Orlando FL 32805",
+    "addr:housenumber":"615",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.387332,28.540234,-81.387332,28.540234",
     "geom:latitude":28.540234,
     "geom:longitude":-81.387332,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"32cc9894ed176093a81e56be55a6a9a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320296227,
-    "wof:lastmodified":1466438450,
+    "wof:lastmodified":1491911379,
     "wof:name":"Jupiter Lodge 22",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

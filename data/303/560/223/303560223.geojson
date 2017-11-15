@@ -2,9 +2,14 @@
   "id": 303560223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1334 S Semoran Blvd Orlando FL 32807",
+    "addr:housenumber":"1334",
+    "addr:postcode":"32807",
+    "addr:street":"S Semoran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.310482,28.525396,-81.310482,28.525396",
     "geom:latitude":28.525396,
     "geom:longitude":-81.310482,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bdccb5af51c00bb8e07007e5edd056ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303560223,
-    "wof:lastmodified":1466440186,
+    "wof:lastmodified":1491901766,
     "wof:name":"Priority Properties Orlando",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236573299,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 NW 12th Ave Miami FL 33128",
+    "addr:housenumber":"18",
+    "addr:postcode":"33128",
+    "addr:street":"Nw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.214769,25.774347,-80.214769,25.774347",
     "geom:latitude":25.774347,
     "geom:longitude":-80.214769,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"33aabc7f3c90a05f4c00ab79771e20f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236573299,
-    "wof:lastmodified":1466436518,
+    "wof:lastmodified":1491906063,
     "wof:name":"Miriam Family Cargo",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

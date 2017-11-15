@@ -2,9 +2,14 @@
   "id": 639317585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 N View Dr Miami Beach FL 33140",
+    "addr:housenumber":"1425",
+    "addr:postcode":"33140",
+    "addr:street":"N View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142831,25.805607,-80.142831,25.805607",
     "geom:latitude":25.805607,
     "geom:longitude":-80.142831,
@@ -34,8 +39,8 @@
         85633793,
         85933671,
         102085771,
-        85866193,
-        85878933
+        85878933,
+        85866193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +55,7 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85866193,
+            "neighbourhood_id":85878933,
             "region_id":85688651,
             "venue_id":639317585
         },
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85878933,
+            "neighbourhood_id":85866193,
             "region_id":85688651,
             "venue_id":639317585
         }
     ],
     "wof:id":639317585,
-    "wof:lastmodified":1466456535,
+    "wof:lastmodified":1491915783,
     "wof:name":"Baron Holding Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

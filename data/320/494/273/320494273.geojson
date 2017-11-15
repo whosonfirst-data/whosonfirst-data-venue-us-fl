@@ -2,9 +2,14 @@
   "id": 320494273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 29th Ave N St Petersburg FL 33704",
+    "addr:housenumber":"1436",
+    "addr:postcode":"33704",
+    "addr:street":"29Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.653426,27.798326,-82.653426,27.798326",
     "geom:latitude":27.798326,
     "geom:longitude":-82.653426,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"75f674932826666ce53bbf255a450522",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320494273,
-    "wof:lastmodified":1466441924,
+    "wof:lastmodified":1491922166,
     "wof:name":"Pensmith",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

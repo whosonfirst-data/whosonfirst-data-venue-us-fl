@@ -2,14 +2,20 @@
   "id": 236264413,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Froggatt St Orlando FL 32835",
+    "addr:housenumber":"6001",
+    "addr:postcode":"32835",
+    "addr:street":"Froggatt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.46654,28.506183,-81.46654,28.506183",
     "geom:latitude":28.506183,
     "geom:longitude":-81.46654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6001 Froggatt St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
         85889387
     ],
+    "wof:brand_id":1125151385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ixJmDlALYavZn4ZYFEZ2Z_28.506183_-81.466540@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc86e9cbc130e12c83abeeec91ebb6d4",
+    "wof:geomhash":"ad743cb333df3ae154ec90a85fa167e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236264413,
-    "wof:lastmodified":1466432154,
+    "wof:lastmodified":1510695303,
     "wof:name":"Pulte Homes Corp",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

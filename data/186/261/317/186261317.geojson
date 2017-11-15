@@ -2,9 +2,14 @@
   "id": 186261317,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 SW 4th Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"600",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.147117,26.112914,-80.147117,26.112914",
     "geom:latitude":26.112914,
     "geom:longitude":-80.147117,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"542f5ac3f2e2dfcdcfb0f6456931dff7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186261317,
-    "wof:lastmodified":1466429814,
+    "wof:lastmodified":1491936874,
     "wof:name":"Steve M Glerum",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

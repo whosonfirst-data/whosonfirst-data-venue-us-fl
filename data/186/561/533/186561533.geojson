@@ -2,9 +2,14 @@
   "id": 186561533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1702 E 8th Ave Tampa FL 33605",
+    "addr:housenumber":"1702",
+    "addr:postcode":"33605",
+    "addr:street":"E 8Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.439251,27.961056,-82.439251,27.961056",
     "geom:latitude":27.961056,
     "geom:longitude":-82.439251,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"77d9906d4ea5bc4da53efa977d32b01e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186561533,
-    "wof:lastmodified":1466433624,
+    "wof:lastmodified":1491933570,
     "wof:name":"Kirby Bail Bonds",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",

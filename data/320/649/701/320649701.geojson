@@ -2,9 +2,14 @@
   "id": 320649701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2127 W Arch St Tampa FL 33607",
+    "addr:housenumber":"2127",
+    "addr:postcode":"33607",
+    "addr:street":"W Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.482465,27.954324,-82.482465,27.954324",
     "geom:latitude":27.954324,
     "geom:longitude":-82.482465,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9862fdbb7321fb6cd2ee0d4fc01c3e54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320649701,
-    "wof:lastmodified":1466444635,
+    "wof:lastmodified":1491934214,
     "wof:name":"Alonso Lawn Care",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

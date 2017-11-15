@@ -2,9 +2,14 @@
   "id": 252729569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2555 NW 21st Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"2555",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.170784,26.157787,-80.170784,26.157787",
     "geom:latitude":26.157787,
     "geom:longitude":-80.170784,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5d2e690ad7675d0c849d39b3e605cea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":252729569,
-    "wof:lastmodified":1466428735,
+    "wof:lastmodified":1491904197,
     "wof:name":"Broward County Parks & Rec",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

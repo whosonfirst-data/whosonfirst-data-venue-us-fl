@@ -2,9 +2,14 @@
   "id": 270206387,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Terry Ave Orlando FL 32805",
+    "addr:housenumber":"101",
+    "addr:postcode":"32805",
+    "addr:street":"S Terry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.386962,28.54016,-81.386962,28.54016",
     "geom:latitude":28.54016,
     "geom:longitude":-81.386962,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -48,7 +54,7 @@
     "wof:geomhash":"67468bad3b6d95a159b61b72c8fd43e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":270206387,
-    "wof:lastmodified":1466432999,
+    "wof:lastmodified":1491911383,
     "wof:name":"Orlando Neighborhood Improve",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

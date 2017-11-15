@@ -2,9 +2,14 @@
   "id": 320145913,
   "type": "Feature",
   "properties": {
+    "addr:full":"4851 Crow St Orlando FL 32819",
+    "addr:housenumber":"4851",
+    "addr:postcode":"32819",
+    "addr:street":"Crow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.443654,28.458377,-81.443654,28.458377",
     "geom:latitude":28.458377,
     "geom:longitude":-81.443654,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a068b347ab6c3e0d13aac59e3d90f5fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320145913,
-    "wof:lastmodified":1466435890,
+    "wof:lastmodified":1491884831,
     "wof:name":"Saxon Lawn Service",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

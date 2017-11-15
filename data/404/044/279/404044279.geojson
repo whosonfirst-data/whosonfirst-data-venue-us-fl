@@ -2,9 +2,14 @@
   "id": 404044279,
   "type": "Feature",
   "properties": {
+    "addr:full":"895 S Semoran Blvd Orlando FL 32807",
+    "addr:housenumber":"895",
+    "addr:postcode":"32807",
+    "addr:street":"S Semoran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.310411,28.533104,-81.310411,28.533104",
     "geom:latitude":28.533104,
     "geom:longitude":-81.310411,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3c81f33169fbc75f4729b7a16e78d3d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":404044279,
-    "wof:lastmodified":1466440950,
+    "wof:lastmodified":1491901773,
     "wof:name":"S V Auto Inc",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

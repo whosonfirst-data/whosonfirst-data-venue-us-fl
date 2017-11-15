@@ -2,9 +2,14 @@
   "id": 286410877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 SW 4th St Miami FL 33135",
+    "addr:housenumber":"1421",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.219296,25.769566,-80.219296,25.769566",
     "geom:latitude":25.769566,
     "geom:longitude":-80.219296,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a47eee960d40ef6a4c36238528a829ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286410877,
-    "wof:lastmodified":1466432235,
+    "wof:lastmodified":1491936019,
     "wof:name":"All Professional Group Inc",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

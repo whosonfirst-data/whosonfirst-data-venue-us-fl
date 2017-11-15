@@ -2,14 +2,20 @@
   "id": 404033675,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 N Magnolia Ave Orlando FL 32801",
+    "addr:housenumber":"127",
+    "addr:postcode":"32801",
+    "addr:street":"N Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.377424,28.544355,-81.377424,28.544355",
     "geom:latitude":28.544355,
     "geom:longitude":-81.377424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 N Magnolia Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -31,30 +37,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jw3sQXJPEeaLGkSRaeBmT_28.544355_-81.377424@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ecb244a4dbe2fef71496ff6555ebafa",
+    "wof:geomhash":"dc0c0301fa61ea21e7d9946b9bcf7216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":404033675
         }
     ],
     "wof:id":404033675,
-    "wof:lastmodified":1466440787,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

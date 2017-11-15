@@ -2,9 +2,14 @@
   "id": 252807503,
   "type": "Feature",
   "properties": {
+    "addr:full":"1308 Georgia Blvd Orlando FL 32803",
+    "addr:housenumber":"1308",
+    "addr:postcode":"32803",
+    "addr:street":"Georgia Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.35386,28.564113,-81.35386,28.564113",
     "geom:latitude":28.564113,
     "geom:longitude":-81.35386,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -46,7 +52,7 @@
     "wof:geomhash":"7f89d406f568c2f516f29af5e4350d58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":252807503,
-    "wof:lastmodified":1466429873,
+    "wof:lastmodified":1491921620,
     "wof:name":"Funhouse Products Inc",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320130829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2311 W Main St Tampa FL 33607",
+    "addr:housenumber":"2311",
+    "addr:postcode":"33607",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.4848,27.957252,-82.4848,27.957252",
     "geom:latitude":27.957252,
     "geom:longitude":-82.4848,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ea00b0e2aa9aeabf2484a9b43ea37df7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320130829,
-    "wof:lastmodified":1466435631,
+    "wof:lastmodified":1491934217,
     "wof:name":"Bayshore Contracting Corp",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

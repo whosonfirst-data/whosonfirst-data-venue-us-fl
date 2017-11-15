@@ -2,9 +2,14 @@
   "id": 370884473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 N 34th St Tampa FL 33605",
+    "addr:housenumber":"1201",
+    "addr:postcode":"33605",
+    "addr:street":"N 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.422373,27.955001,-82.422373,27.955001",
     "geom:latitude":27.955001,
     "geom:longitude":-82.422373,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e50361dc752295ef12a2fabaf2d637e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370884473,
-    "wof:lastmodified":1466447369,
+    "wof:lastmodified":1491932443,
     "wof:name":"Shepler's",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

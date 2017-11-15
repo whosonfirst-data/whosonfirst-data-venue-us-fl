@@ -2,9 +2,14 @@
   "id": 270370391,
   "type": "Feature",
   "properties": {
+    "addr:full":"88 SE 1st St Miami FL 33131",
+    "addr:housenumber":"88",
+    "addr:postcode":"33131",
+    "addr:street":"Se 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.191864,25.773343,-80.191864,25.773343",
     "geom:latitude":25.773343,
     "geom:longitude":-80.191864,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6a9986b7c0fd51de30a3db193a414c62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":270370391,
-    "wof:lastmodified":1466435794,
+    "wof:lastmodified":1491906338,
     "wof:name":"K Fashion's",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

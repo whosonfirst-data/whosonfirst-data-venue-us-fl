@@ -2,9 +2,14 @@
   "id": 303543427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 N Howard Ave Tampa FL 33607",
+    "addr:housenumber":"1802",
+    "addr:postcode":"33607",
+    "addr:street":"N Howard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.48297,27.958606,-82.48297,27.958606",
     "geom:latitude":27.958606,
     "geom:longitude":-82.48297,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"77e600337d8be97e566ea2b7551b9e81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303543427,
-    "wof:lastmodified":1466439905,
+    "wof:lastmodified":1491934207,
     "wof:name":"US Post Office",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

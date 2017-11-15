@@ -2,9 +2,14 @@
   "id": 320491293,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 W 41st St Miami Beach FL 33140",
+    "addr:housenumber":"400",
+    "addr:postcode":"33140",
+    "addr:street":"W 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.129244,25.813834,-80.129244,25.813834",
     "geom:latitude":25.813834,
     "geom:longitude":-80.129244,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
+        85804897,
+        85882049,
         85878923
     ],
     "wof:breaches":[],
@@ -43,7 +51,25 @@
     "wof:geomhash":"757fb5816cbe923e133b22ce877d21b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933671,
+            "neighbourhood_id":85804897,
+            "region_id":85688651,
+            "venue_id":320491293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933671,
+            "neighbourhood_id":85882049,
+            "region_id":85688651,
+            "venue_id":320491293
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -53,9 +79,9 @@
         }
     ],
     "wof:id":320491293,
-    "wof:lastmodified":1466441875,
+    "wof:lastmodified":1491903603,
     "wof:name":"Peter Schlossberg MD",
-    "wof:parent_id":85878923,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

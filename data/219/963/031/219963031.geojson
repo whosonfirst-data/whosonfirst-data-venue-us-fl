@@ -2,9 +2,14 @@
   "id": 219963031,
   "type": "Feature",
   "properties": {
+    "addr:full":"4205 S Macdill Ave Tampa FL 33611",
+    "addr:housenumber":"4205",
+    "addr:postcode":"33611",
+    "addr:street":"S Macdill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.493898,27.903233,-82.493898,27.903233",
     "geom:latitude":27.903233,
     "geom:longitude":-82.493898,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"06d746d7661a50912f4f6e1ce0e15bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":219963031,
-    "wof:lastmodified":1466437703,
+    "wof:lastmodified":1491927244,
     "wof:name":"Discovery Put",
     "wof:parent_id":85873199,
     "wof:placetype":"venue",

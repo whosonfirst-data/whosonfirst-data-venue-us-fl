@@ -2,9 +2,14 @@
   "id": 303550559,
   "type": "Feature",
   "properties": {
+    "addr:full":"646 W Church St Orlando FL 32805",
+    "addr:housenumber":"646",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.388725,28.540069,-81.388725,28.540069",
     "geom:latitude":28.540069,
     "geom:longitude":-81.388725,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"eecbe3365999332a622c9d8c6f41c385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303550559,
-    "wof:lastmodified":1466440022,
+    "wof:lastmodified":1491911378,
     "wof:name":"Economy Fish Market",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

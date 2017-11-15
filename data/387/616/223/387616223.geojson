@@ -2,9 +2,14 @@
   "id": 387616223,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Bay St NE St Petersburg FL 33701",
+    "addr:housenumber":"430",
+    "addr:postcode":"33701",
+    "addr:street":"Bay St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.6325,27.777253,-82.6325,27.777253",
     "geom:latitude":27.777253,
     "geom:longitude":-82.6325,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"faa358c291838902e03b21fb66239705",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387616223,
-    "wof:lastmodified":1466447413,
+    "wof:lastmodified":1491938325,
     "wof:name":"Presbyterian Towers Inc",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

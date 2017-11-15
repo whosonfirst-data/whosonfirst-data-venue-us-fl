@@ -2,9 +2,14 @@
   "id": 286561255,
   "type": "Feature",
   "properties": {
+    "addr:full":"6811 Visitors Cir Orlando FL 32819",
+    "addr:housenumber":"6811",
+    "addr:postcode":"32819",
+    "addr:street":"Visitors Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.465371,28.46363,-81.465371,28.46363",
     "geom:latitude":28.46363,
     "geom:longitude":-81.465371,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"4cd9a27fa75f8216c4e0f5aeabc7961d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":286561255,
-    "wof:lastmodified":1466434858,
+    "wof:lastmodified":1491884823,
     "wof:name":"E Z Car Rental",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

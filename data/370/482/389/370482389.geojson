@@ -2,9 +2,14 @@
   "id": 370482389,
   "type": "Feature",
   "properties": {
+    "addr:full":"844 SW 13th Ct Miami FL 33135",
+    "addr:housenumber":"844",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 13Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.217552,25.764577,-80.217552,25.764577",
     "geom:latitude":25.764577,
     "geom:longitude":-80.217552,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"09f53339f344b35cc983c8987abb33e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370482389,
-    "wof:lastmodified":1466441572,
+    "wof:lastmodified":1491936004,
     "wof:name":"Handy Fender-Bender Corp",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

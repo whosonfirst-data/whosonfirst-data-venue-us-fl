@@ -2,9 +2,14 @@
   "id": 371155135,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 Citrus Isle Fort Lauderdale FL 33315",
+    "addr:housenumber":"1317",
+    "addr:postcode":"33315",
+    "addr:street":"Citrus Isle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158631,26.105928,-80.158631,26.105928",
     "geom:latitude":26.105928,
     "geom:longitude":-80.158631,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"19c6f5e42237d40a68b84c4324875e38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":371155135,
-    "wof:lastmodified":1466439930,
+    "wof:lastmodified":1491936876,
     "wof:name":"Kdb Yacht Charters & Boats",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

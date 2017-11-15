@@ -2,9 +2,14 @@
   "id": 287274723,
   "type": "Feature",
   "properties": {
+    "addr:full":"8149 Laso Ct Orlando FL 32822",
+    "addr:housenumber":"",
+    "addr:postcode":"8149;32822",
+    "addr:street":"Laso Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.274641,28.502353,-81.274641,28.502353",
     "geom:latitude":28.502353,
     "geom:longitude":-81.274641,
@@ -30,8 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85879531,
         102085847,
-        85879531
+        420515587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +47,22 @@
     "wof:geomhash":"0cde5fc18fda5a9557f62c0b5f50d846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85879531,
             "region_id":85688651,
+            "venue_id":287274723
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420515587,
             "venue_id":287274723
         }
     ],
     "wof:id":287274723,
-    "wof:lastmodified":1466434664,
+    "wof:lastmodified":1491901270,
     "wof:name":"Turn Lane Inc",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

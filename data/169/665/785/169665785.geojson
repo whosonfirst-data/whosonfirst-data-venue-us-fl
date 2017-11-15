@@ -2,9 +2,14 @@
   "id": 169665785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1711 State St Tampa FL 33606",
+    "addr:housenumber":"1711",
+    "addr:postcode":"33606",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.478645,27.951379,-82.478645,27.951379",
     "geom:latitude":27.951379,
     "geom:longitude":-82.478645,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -45,7 +51,7 @@
     "wof:geomhash":"058882648716fb35cb59871cb2ee49e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":169665785,
-    "wof:lastmodified":1466444988,
+    "wof:lastmodified":1491934214,
     "wof:name":"Mayworth Showcase Works Inc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

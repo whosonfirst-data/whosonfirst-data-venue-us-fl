@@ -2,9 +2,14 @@
   "id": 286513121,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"751",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.05914,26.699505,-80.05914,26.699505",
     "geom:latitude":26.699505,
     "geom:longitude":-80.05914,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -40,7 +46,7 @@
     "wof:geomhash":"ece42f2e87155f8f0faa9d51333718be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":286513121,
-    "wof:lastmodified":1466433995,
+    "wof:lastmodified":1491921846,
     "wof:name":"Steak 'n Shake",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

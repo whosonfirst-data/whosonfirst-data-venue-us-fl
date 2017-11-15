@@ -2,9 +2,14 @@
   "id": 286548619,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 N County Rd Palm Beach FL 33480",
+    "addr:housenumber":"95",
+    "addr:postcode":"33480",
+    "addr:street":"N County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.037754,26.718123,-80.037754,26.718123",
     "geom:latitude":26.718123,
     "geom:longitude":-80.037754,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"bbff45f4949feaa0211b8a1040b2cc62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":286548619,
-    "wof:lastmodified":1466434626,
+    "wof:lastmodified":1491899633,
     "wof:name":"US Post Office",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

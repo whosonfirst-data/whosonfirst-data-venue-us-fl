@@ -2,9 +2,14 @@
   "id": 186204775,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 4th St N Saint Petersburg FL 33703",
+    "addr:housenumber":"6111",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638624,27.828432,-82.638624,27.828432",
     "geom:latitude":27.828432,
     "geom:longitude":-82.638624,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8d5f3c11e5ee85786139aa28fb1d8776",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186204775,
-    "wof:lastmodified":1466429164,
+    "wof:lastmodified":1491913789,
     "wof:name":"Andrews On 4th Street Inc",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

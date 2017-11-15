@@ -2,9 +2,14 @@
   "id": 186432897,
   "type": "Feature",
   "properties": {
+    "addr:full":"2450 N West Shore Blvd Tampa FL 33607",
+    "addr:housenumber":"2450",
+    "addr:postcode":"33607",
+    "addr:street":"N West Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.523977,27.966877,-82.523977,27.966877",
     "geom:latitude":27.966877,
     "geom:longitude":-82.523977,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688651,
+        102533243,
+        85873207,
+        102191575,
         85633793,
         85931789,
         102085773,
-        85873207
+        85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +50,8 @@
     "wof:geomhash":"e05bfe9cfc955b20c351506a48f7fc3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102533243,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,9 +61,9 @@
         }
     ],
     "wof:id":186432897,
-    "wof:lastmodified":1466431931,
+    "wof:lastmodified":1491934081,
     "wof:name":"Boulder Aviation LLC",
-    "wof:parent_id":85873207,
+    "wof:parent_id":102533243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

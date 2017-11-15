@@ -2,9 +2,14 @@
   "id": 219215809,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Stadium Dr Saint Petersburg FL 33705",
+    "addr:housenumber":"1",
+    "addr:postcode":"33705",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.655928,27.766596,-82.655928,27.766596",
     "geom:latitude":27.766596,
     "geom:longitude":-82.655928,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9be8a0a428166c83e17f9d4fa779ab20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219215809,
-    "wof:lastmodified":1466444646,
+    "wof:lastmodified":1491912874,
     "wof:name":"Sportservice Corporation",
     "wof:parent_id":85889537,
     "wof:placetype":"venue",

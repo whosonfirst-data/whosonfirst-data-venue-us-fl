@@ -2,9 +2,14 @@
   "id": 320587735,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 N County Rd Palm Beach FL 33480",
+    "addr:housenumber":"105",
+    "addr:postcode":"33480",
+    "addr:street":"N County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.037773,26.718923,-80.037773,26.718923",
     "geom:latitude":26.718923,
     "geom:longitude":-80.037773,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"249767e3016c51819270dfff8b0d4fe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320587735,
-    "wof:lastmodified":1466443574,
+    "wof:lastmodified":1491899663,
     "wof:name":"Georges Custom Tlrg Palm Bch",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

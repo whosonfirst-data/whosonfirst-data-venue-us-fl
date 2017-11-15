@@ -2,14 +2,20 @@
   "id": 303427267,
   "type": "Feature",
   "properties": {
+    "addr:full":"3906 S Dale Mabry Hwy Tampa FL 33611",
+    "addr:housenumber":"3906",
+    "addr:postcode":"33611",
+    "addr:street":"S Dale Mabry Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.506108,27.904655,-82.506108,27.904655",
     "geom:latitude":27.904655,
     "geom:longitude":-82.506108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3906 S Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
         85889733
     ],
+    "wof:brand_id":1125150401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53erqSiqhiJrkS4aGrcPiz_27.904655_-82.506108@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9731d645dedb2ce96701d6a6bc0a2032",
+    "wof:geomhash":"a24f956aeb05ac67062901c6f0e5d8c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":303427267,
-    "wof:lastmodified":1466437890,
+    "wof:lastmodified":1510693888,
     "wof:name":"Athlete's Foot",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

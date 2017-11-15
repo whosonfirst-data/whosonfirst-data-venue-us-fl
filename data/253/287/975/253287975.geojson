@@ -2,9 +2,14 @@
   "id": 253287975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1635 NE 5th Ct Fort Lauderdale FL 33301",
+    "addr:housenumber":"1635",
+    "addr:postcode":"33301",
+    "addr:street":"Ne 5Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.126021,26.12936,-80.126021,26.12936",
     "geom:latitude":26.12936,
     "geom:longitude":-80.126021,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3e3fc933f32228223aa3c7e5a7f2a17d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253287975,
-    "wof:lastmodified":1466432011,
+    "wof:lastmodified":1491914466,
     "wof:name":"L Quinn Conleth",
     "wof:parent_id":85851521,
     "wof:placetype":"venue",

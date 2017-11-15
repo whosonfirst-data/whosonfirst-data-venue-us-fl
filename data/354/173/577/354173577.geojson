@@ -2,9 +2,14 @@
   "id": 354173577,
   "type": "Feature",
   "properties": {
+    "addr:full":"4130 Aurora St Coral Gables FL 33146",
+    "addr:housenumber":"4130",
+    "addr:postcode":"33146",
+    "addr:street":"Aurora St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.259526,25.734285,-80.259526,25.734285",
     "geom:latitude":25.734285,
     "geom:longitude":-80.259526,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"11a277bdb8cd67e81c56e710beec5d18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":354173577
         }
     ],
     "wof:id":354173577,
-    "wof:lastmodified":1466438766,
+    "wof:lastmodified":1491901684,
     "wof:name":"French Institute",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

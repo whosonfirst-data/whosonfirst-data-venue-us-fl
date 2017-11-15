@@ -2,9 +2,14 @@
   "id": 320000537,
   "type": "Feature",
   "properties": {
+    "addr:full":"2511 Broadway West Palm Beach FL 33407",
+    "addr:housenumber":"2511",
+    "addr:postcode":"33407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056904,26.736279,-80.056904,26.736279",
     "geom:latitude":26.736279,
     "geom:longitude":-80.056904,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0cf4d43d33ee65552959b702fca13569",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320000537,
-    "wof:lastmodified":1466446256,
+    "wof:lastmodified":1491899779,
     "wof:name":"Bargain Cell",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

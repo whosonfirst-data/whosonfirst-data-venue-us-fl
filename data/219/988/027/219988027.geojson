@@ -2,9 +2,14 @@
   "id": 219988027,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 S County Rd Palm Beach FL 33480",
+    "addr:housenumber":"314",
+    "addr:postcode":"33480",
+    "addr:street":"S County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.03646,26.705442,-80.03646,26.705442",
     "geom:latitude":26.705442,
     "geom:longitude":-80.03646,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6037ddc3ed28c6c1d69a94c28c93d8bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219988027,
-    "wof:lastmodified":1466438058,
+    "wof:lastmodified":1491899650,
     "wof:name":"Hamburger Heaven",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

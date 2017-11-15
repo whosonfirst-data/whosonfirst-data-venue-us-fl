@@ -2,9 +2,14 @@
   "id": 303466753,
   "type": "Feature",
   "properties": {
+    "addr:full":"6318 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6318",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.470474,28.552023,-81.470474,28.552023",
     "geom:latitude":28.552023,
     "geom:longitude":-81.470474,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"43d1f9e9a820e8c009d2bef5a0e128ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303466753,
-    "wof:lastmodified":1466438597,
+    "wof:lastmodified":1491934995,
     "wof:name":"Dixie Mortgage Corp",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

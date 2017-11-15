@@ -2,9 +2,14 @@
   "id": 638761099,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"400",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.05564,26.699322,-80.05564,26.699322",
     "geom:latitude":26.699322,
     "geom:longitude":-80.05564,
@@ -35,7 +40,9 @@
         85633793,
         85931971,
         102085845,
-        85881799
+        85881799,
+        85931945,
+        85881795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,21 @@
             "neighbourhood_id":85881799,
             "region_id":85688651,
             "venue_id":638761099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085845,
+            "locality_id":85931945,
+            "neighbourhood_id":85881795,
+            "region_id":85688651,
+            "venue_id":638761099
         }
     ],
     "wof:id":638761099,
-    "wof:lastmodified":1466450639,
+    "wof:lastmodified":1491921832,
     "wof:name":"Senior Bridge Family",
-    "wof:parent_id":85881799,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

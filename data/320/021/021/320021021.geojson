@@ -2,9 +2,14 @@
   "id": 320021021,
   "type": "Feature",
   "properties": {
+    "addr:full":"167 2nd Ave NE St Petersburg FL 33701",
+    "addr:housenumber":"167",
+    "addr:postcode":"33701",
+    "addr:street":"2Nd Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.633503,27.773465,-82.633503,27.773465",
     "geom:latitude":27.773465,
     "geom:longitude":-82.633503,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1e512b105706e2d6e7338211194537b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320021021,
-    "wof:lastmodified":1466433760,
+    "wof:lastmodified":1491938315,
     "wof:name":"Abodo Grill Restaurant",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

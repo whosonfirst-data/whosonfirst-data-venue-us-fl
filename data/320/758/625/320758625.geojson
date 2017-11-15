@@ -2,9 +2,14 @@
   "id": 320758625,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 SW 11th Ave Miami FL 33130",
+    "addr:housenumber":"301",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.212862,25.769683,-80.212862,25.769683",
     "geom:latitude":25.769683,
     "geom:longitude":-80.212862,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -46,7 +52,7 @@
     "wof:geomhash":"980b9814c472d26581a68a240536b491",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320758625,
-    "wof:lastmodified":1466446411,
+    "wof:lastmodified":1491906081,
     "wof:name":"Morffi Pool Svc",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

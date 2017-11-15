@@ -2,9 +2,14 @@
   "id": 656085779,
   "type": "Feature",
   "properties": {
+    "addr:full":"7729 Danu Dr Orlando FL 32822",
+    "addr:housenumber":"7729",
+    "addr:postcode":"32822",
+    "addr:street":"Danu Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.281051,28.531481,-81.281051,28.531481",
     "geom:latitude":28.531481,
     "geom:longitude":-81.281051,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":656085779
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":656085779
         }
     ],
     "wof:id":656085779,
-    "wof:lastmodified":1466452233,
+    "wof:lastmodified":1491901274,
     "wof:name":"Cintron Floor Covering",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

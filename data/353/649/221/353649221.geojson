@@ -2,9 +2,14 @@
   "id": 353649221,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 SE 2nd Ave Fort Lauderdale FL 33316",
+    "addr:housenumber":"1212",
+    "addr:postcode":"33316",
+    "addr:street":"Se 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.140883,26.106244,-80.140883,26.106244",
     "geom:latitude":26.106244,
     "geom:longitude":-80.140883,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c475732ffe165fa9cbc9399e09463c1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353649221,
-    "wof:lastmodified":1466438571,
+    "wof:lastmodified":1491936859,
     "wof:name":"Robert W Murphy Law Offices",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

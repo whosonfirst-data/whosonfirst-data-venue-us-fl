@@ -2,9 +2,14 @@
   "id": 303613611,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 NE 14th St Miami FL 33132",
+    "addr:housenumber":"31",
+    "addr:postcode":"33132",
+    "addr:street":"Ne 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.193445,25.788372,-80.193445,25.788372",
     "geom:latitude":25.788372,
     "geom:longitude":-80.193445,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"342a5515fe95b6ffa52950e0f138b1a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303613611,
-    "wof:lastmodified":1466441083,
+    "wof:lastmodified":1491920067,
     "wof:name":"Restaurant Warehouse Inc",
     "wof:parent_id":85889171,
     "wof:placetype":"venue",

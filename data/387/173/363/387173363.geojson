@@ -2,9 +2,14 @@
   "id": 387173363,
   "type": "Feature",
   "properties": {
+    "addr:full":"3309 Ponce de Leon Blvd Miami FL 33134",
+    "addr:housenumber":"3309",
+    "addr:postcode":"33134",
+    "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.258343,25.740548,-80.258343,25.740548",
     "geom:latitude":25.740548,
     "geom:longitude":-80.258343,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"9c6a94bfd57269f57cf4e5e4a4b8a4b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":387173363
         }
     ],
     "wof:id":387173363,
-    "wof:lastmodified":1466441377,
+    "wof:lastmodified":1491901699,
     "wof:name":"Kelson Physician Partners Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

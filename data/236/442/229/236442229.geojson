@@ -2,9 +2,14 @@
   "id": 236442229,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Olive Ave West Palm Beach FL 33401",
+    "addr:housenumber":"301",
+    "addr:postcode":"33401",
+    "addr:street":"N Olive Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.051829,26.716049,-80.051829,26.716049",
     "geom:latitude":26.716049,
     "geom:longitude":-80.051829,
@@ -27,9 +32,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85931971,
+        102085845,
+        85881787,
         85931945,
-        102085845
+        85881801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,28 @@
     "wof:geomhash":"2186a3225bb8e17a9673c1626196027d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085845,
+            "locality_id":85931971,
+            "neighbourhood_id":85881787,
+            "region_id":85688651,
+            "venue_id":236442229
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881801,
             "region_id":85688651,
             "venue_id":236442229
         }
     ],
     "wof:id":236442229,
-    "wof:lastmodified":1466434657,
+    "wof:lastmodified":1491899661,
     "wof:name":"TV Channel 20",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

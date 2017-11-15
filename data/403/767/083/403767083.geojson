@@ -2,9 +2,14 @@
   "id": 403767083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 S Goldenrod Rd Orlando FL 32822",
+    "addr:housenumber":"1900",
+    "addr:postcode":"32822",
+    "addr:street":"S Goldenrod Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.285666,28.52422,-81.285666,28.52422",
     "geom:latitude":28.52422,
     "geom:longitude":-81.285666,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:brand_id":420574303,
     "wof:breaches":[],
@@ -43,28 +48,24 @@
     "wof:geomhash":"19b9d04b1c1a9ea395497194bd14b544",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":403767083
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":403767083
         }
     ],
     "wof:id":403767083,
-    "wof:lastmodified":1466440593,
+    "wof:lastmodified":1491901272,
     "wof:name":"Fraternal Order Of Eagles",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

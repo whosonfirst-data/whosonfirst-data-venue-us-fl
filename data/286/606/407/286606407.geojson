@@ -2,9 +2,14 @@
   "id": 286606407,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 N John St Orlando FL 32808",
+    "addr:housenumber":"826",
+    "addr:postcode":"32808",
+    "addr:street":"N John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.46259,28.552892,-81.46259,28.552892",
     "geom:latitude":28.552892,
     "geom:longitude":-81.46259,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3306d0c77a6865a2b51e80908e7b3bb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286606407,
-    "wof:lastmodified":1466435652,
+    "wof:lastmodified":1491934981,
     "wof:name":"Florida Test & Balance",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

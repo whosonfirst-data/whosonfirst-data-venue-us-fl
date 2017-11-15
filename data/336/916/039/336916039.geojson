@@ -2,9 +2,14 @@
   "id": 336916039,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 W Pine St Orlando FL 32805",
+    "addr:housenumber":"527",
+    "addr:postcode":"32805",
+    "addr:street":"W Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.386186,28.541088,-81.386186,28.541088",
     "geom:latitude":28.541088,
     "geom:longitude":-81.386186,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ce2b6be9d3230468928bf6f045e5a16e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336916039,
-    "wof:lastmodified":1466440447,
+    "wof:lastmodified":1491908401,
     "wof:name":"Eglise Baptiste Haitienne Mont",
     "wof:parent_id":85889335,
     "wof:placetype":"venue",

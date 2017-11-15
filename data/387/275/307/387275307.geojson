@@ -2,9 +2,14 @@
   "id": 387275307,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 SW 33rd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"225",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142352,26.083536,-80.142352,26.083536",
     "geom:latitude":26.083536,
     "geom:longitude":-80.142352,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"93845746b9b118d5104f24719fd0a0be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":387275307
         }
     ],
     "wof:id":387275307,
-    "wof:lastmodified":1466442943,
+    "wof:lastmodified":1491924487,
     "wof:name":"American Rv & Marine",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

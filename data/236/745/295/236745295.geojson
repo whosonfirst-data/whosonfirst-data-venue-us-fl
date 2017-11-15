@@ -2,9 +2,14 @@
   "id": 236745295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2349 Lake Debra Dr Orlando FL 32835",
+    "addr:housenumber":"2349",
+    "addr:postcode":"32835",
+    "addr:street":"Lake Debra Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.477984,28.516001,-81.477984,28.516001",
     "geom:latitude":28.516001,
     "geom:longitude":-81.477984,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0fd5ef6c15bee0a1435576289324a882",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236745295,
-    "wof:lastmodified":1466439060,
+    "wof:lastmodified":1491921601,
     "wof:name":"Millenia Flc Inc",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

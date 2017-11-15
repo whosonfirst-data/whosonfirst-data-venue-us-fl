@@ -2,9 +2,14 @@
   "id": 303617055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2611 N Massachusetts Ave Tampa FL 33602",
+    "addr:housenumber":"2611",
+    "addr:postcode":"33602",
+    "addr:street":"N Massachusetts Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.46574,27.968452,-82.46574,27.968452",
     "geom:latitude":27.968452,
     "geom:longitude":-82.46574,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"c1f5adf2a1e3b342a2a93f4dd583743a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303617055,
-    "wof:lastmodified":1466441146,
+    "wof:lastmodified":1491934028,
     "wof:name":"Salesin Youth Ctr Dev Office",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

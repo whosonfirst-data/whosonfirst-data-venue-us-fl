@@ -2,9 +2,14 @@
   "id": 336939223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 W Broward Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3600",
+    "addr:postcode":"33312",
+    "addr:street":"W Broward Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.197567,26.120993,-80.197567,26.120993",
     "geom:latitude":26.120993,
     "geom:longitude":-80.197567,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"02b80075eb826c6c84157477d8e0555f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336939223,
-    "wof:lastmodified":1466440835,
+    "wof:lastmodified":1491916241,
     "wof:name":"Ujamaa African Book Store",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

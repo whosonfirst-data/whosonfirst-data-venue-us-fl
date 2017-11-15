@@ -2,9 +2,14 @@
   "id": 236718559,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Lee Wagener Blvd Fort Lauderdale FL 33315",
+    "addr:housenumber":"1050",
+    "addr:postcode":"33315",
+    "addr:street":"Lee Wagener Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.15521,26.07092,-80.15521,26.07092",
     "geom:latitude":26.07092,
     "geom:longitude":-80.15521,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"8fa9067515c9efcc9216788f5f61f8a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":236718559
         }
     ],
     "wof:id":236718559,
-    "wof:lastmodified":1466438654,
+    "wof:lastmodified":1491924500,
     "wof:name":"Southwest Airlines",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

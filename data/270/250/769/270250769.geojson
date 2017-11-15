@@ -2,9 +2,14 @@
   "id": 270250769,
   "type": "Feature",
   "properties": {
+    "addr:full":"6825 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6825",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.474451,28.552166,-81.474451,28.552166",
     "geom:latitude":28.552166,
     "geom:longitude":-81.474451,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5d3b66ae06864f813232a4b68f4c5060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270250769,
-    "wof:lastmodified":1466433742,
+    "wof:lastmodified":1491934984,
     "wof:name":"Leroy's Cuisine",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320602871,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 W Spruce St Tampa FL 33607",
+    "addr:housenumber":"4010",
+    "addr:postcode":"33607",
+    "addr:street":"W Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.511201,27.959415,-82.511201,27.959415",
     "geom:latitude":27.959415,
     "geom:longitude":-82.511201,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"55c5d10087a8bfcd689f6a57760cd75b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320602871,
-    "wof:lastmodified":1466443845,
+    "wof:lastmodified":1491909529,
     "wof:name":"Environmental Coordination",
     "wof:parent_id":85889801,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270307535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2209 NE 26th St Wilton Manors FL 33305",
+    "addr:housenumber":"2209",
+    "addr:postcode":"33305",
+    "addr:street":"Ne 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.117899,26.159857,-80.117899,26.159857",
     "geom:latitude":26.159857,
     "geom:longitude":-80.117899,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"8989d58c5dc36d7490df262fe0c36767",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":270307535
         }
     ],
     "wof:id":270307535,
-    "wof:lastmodified":1466434720,
+    "wof:lastmodified":1491905121,
     "wof:name":"Cabanas Guest House",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

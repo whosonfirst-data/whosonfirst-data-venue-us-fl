@@ -2,9 +2,14 @@
   "id": 286694041,
   "type": "Feature",
   "properties": {
+    "addr:full":"4080 Coquina Key Dr SE Saint Petersburg FL 33705",
+    "addr:housenumber":"4080",
+    "addr:postcode":"33705",
+    "addr:street":"Coquina Key Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.625268,27.731915,-82.625268,27.731915",
     "geom:latitude":27.731915,
     "geom:longitude":-82.625268,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0c6dfc10cc6cc6d3339a8eb93707e2df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286694041,
-    "wof:lastmodified":1466437225,
+    "wof:lastmodified":1491903004,
     "wof:name":"Hoover Investment Properties",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

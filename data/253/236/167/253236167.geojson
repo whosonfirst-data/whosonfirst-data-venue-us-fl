@@ -2,9 +2,14 @@
   "id": 253236167,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 E Evanston Cir Fort Lauderdale FL 33312",
+    "addr:housenumber":"630",
+    "addr:postcode":"33312",
+    "addr:street":"E Evanston Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.193156,26.111046,-80.193156,26.111046",
     "geom:latitude":26.111046,
     "geom:longitude":-80.193156,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"771e2852b0829b223e49071da151f06d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253236167,
-    "wof:lastmodified":1466431242,
+    "wof:lastmodified":1491916238,
     "wof:name":"Roger Lawn Service",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387079385,
   "type": "Feature",
   "properties": {
+    "addr:full":"8322 Scarborough Ct Orlando FL 32829",
+    "addr:housenumber":"8322",
+    "addr:postcode":"32829",
+    "addr:street":"Scarborough Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.270238,28.502263,-81.270238,28.502263",
     "geom:latitude":28.502263,
     "geom:longitude":-81.270238,
@@ -32,9 +37,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +49,24 @@
     "wof:geomhash":"4c1b4e92e991a241eb6d3fbdf60168c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":387079385
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":387079385
         }
     ],
     "wof:id":387079385,
-    "wof:lastmodified":1466439920,
+    "wof:lastmodified":1491901272,
     "wof:name":"Revolution Design Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

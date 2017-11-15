@@ -2,9 +2,14 @@
   "id": 269693711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 25th Ct West Palm Beach FL 33407",
+    "addr:housenumber":"1030",
+    "addr:postcode":"33407",
+    "addr:street":"25Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.064195,26.737428,-80.064195,26.737428",
     "geom:latitude":26.737428,
     "geom:longitude":-80.064195,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"27b6fb6ff76f166526d476a3c4cc7d43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269693711,
-    "wof:lastmodified":1466432233,
+    "wof:lastmodified":1491899780,
     "wof:name":"Liberty Scrap Metal Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320438107,
   "type": "Feature",
   "properties": {
+    "addr:full":"5331 10th St N Pinellas Park FL 33703",
+    "addr:housenumber":"5331",
+    "addr:postcode":"33703",
+    "addr:street":"10Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.647766,27.820799,-82.647766,27.820799",
     "geom:latitude":27.820799,
     "geom:longitude":-82.647766,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -46,7 +52,7 @@
     "wof:geomhash":"889593d17d5a86ce7e10a703087c81d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320438107,
-    "wof:lastmodified":1466440922,
+    "wof:lastmodified":1491913784,
     "wof:name":"Riptide Pool Svc Inc",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

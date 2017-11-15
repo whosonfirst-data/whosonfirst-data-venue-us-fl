@@ -2,9 +2,14 @@
   "id": 270448759,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Brickell Ave Miami FL 33129",
+    "addr:housenumber":"1500",
+    "addr:postcode":"33129",
+    "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.194402,25.75695,-80.194402,25.75695",
     "geom:latitude":25.75695,
     "geom:longitude":-80.194402,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -45,7 +51,7 @@
     "wof:geomhash":"342ae1dadb55915d762255219fefde65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":270448759,
-    "wof:lastmodified":1466437125,
+    "wof:lastmodified":1491934921,
     "wof:name":"Chambray Avenue Design Studio",
     "wof:parent_id":85896163,
     "wof:placetype":"venue",

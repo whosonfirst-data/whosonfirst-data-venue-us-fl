@@ -2,9 +2,14 @@
   "id": 403784021,
   "type": "Feature",
   "properties": {
+    "addr:full":"2733 S Ferncreek Ave Orlando FL 32806",
+    "addr:housenumber":"2733",
+    "addr:postcode":"32806",
+    "addr:street":"S Ferncreek Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.35977,28.512354,-81.35977,28.512354",
     "geom:latitude":28.512354,
     "geom:longitude":-81.35977,
@@ -33,7 +38,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -45,17 +52,17 @@
     "wof:geomhash":"673800dbcce2cae22bc6180c08365387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":403784021
         }
     ],
     "wof:id":403784021,
-    "wof:lastmodified":1466440857,
+    "wof:lastmodified":1491930966,
     "wof:name":"Primrose Center Inc",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

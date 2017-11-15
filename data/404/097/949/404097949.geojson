@@ -2,9 +2,14 @@
   "id": 404097949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5625 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5625",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459368,28.552294,-81.459368,28.552294",
     "geom:latitude":28.552294,
     "geom:longitude":-81.459368,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"fafab3c5c8815c5e8b06240b25fad796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":404097949,
-    "wof:lastmodified":1466441750,
+    "wof:lastmodified":1491934981,
     "wof:name":"Big 10 Tire",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

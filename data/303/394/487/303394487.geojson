@@ -2,9 +2,14 @@
   "id": 303394487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2827 16th St N Saint Petersburg FL 33704",
+    "addr:housenumber":"2827",
+    "addr:postcode":"33704",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654898,27.798165,-82.654898,27.798165",
     "geom:latitude":27.798165,
     "geom:longitude":-82.654898,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a784cad4923a2057511bf7b1b21cb741",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303394487,
-    "wof:lastmodified":1466437327,
+    "wof:lastmodified":1491922161,
     "wof:name":"Kaseys Sports Bar",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

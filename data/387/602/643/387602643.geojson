@@ -2,9 +2,14 @@
   "id": 387602643,
   "type": "Feature",
   "properties": {
+    "addr:full":"2556 Pinewood Ave West Palm Beach FL 33407",
+    "addr:housenumber":"2556",
+    "addr:postcode":"33407",
+    "addr:street":"Pinewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057578,26.736002,-80.057578,26.736002",
     "geom:latitude":26.736002,
     "geom:longitude":-80.057578,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6c0fdf1a53fdbe5fe28e225cd08bde1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387602643,
-    "wof:lastmodified":1466447281,
+    "wof:lastmodified":1491899782,
     "wof:name":"24 Hour A Day Locksmith",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

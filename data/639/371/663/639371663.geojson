@@ -2,9 +2,14 @@
   "id": 639371663,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Bay Shore Dr NE St Petersburg FL 33701",
+    "addr:housenumber":"601",
+    "addr:postcode":"33701",
+    "addr:street":"Bay Shore Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.626238,27.779469,-82.626238,27.779469",
     "geom:latitude":27.779469,
     "geom:longitude":-82.626238,
@@ -33,7 +38,8 @@
         85633793,
         85931833,
         102085759,
-        85881947
+        85881947,
+        85889527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,21 @@
             "neighbourhood_id":85881947,
             "region_id":85688651,
             "venue_id":639371663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85889527,
+            "region_id":85688651,
+            "venue_id":639371663
         }
     ],
     "wof:id":639371663,
-    "wof:lastmodified":1466457791,
+    "wof:lastmodified":1491938310,
     "wof:name":"Prime Media Spcl Interest",
-    "wof:parent_id":85881947,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

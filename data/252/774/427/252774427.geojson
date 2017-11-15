@@ -2,9 +2,14 @@
   "id": 252774427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5905 International Dr Orlando FL 32819",
+    "addr:housenumber":"5905",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459624,28.462406,-81.459624,28.462406",
     "geom:latitude":28.462406,
     "geom:longitude":-81.459624,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"0d3ad2ae5e0a9c55555d5547a50f1011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":252774427,
-    "wof:lastmodified":1466429387,
+    "wof:lastmodified":1491884830,
     "wof:name":"National Car Rental",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

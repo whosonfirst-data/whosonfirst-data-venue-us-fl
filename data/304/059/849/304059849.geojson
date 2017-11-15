@@ -2,9 +2,14 @@
   "id": 304059849,
   "type": "Feature",
   "properties": {
+    "addr:full":"961 SW 10th St Miami FL 33130",
+    "addr:housenumber":"961",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.211309,25.764033,-80.211309,25.764033",
     "geom:latitude":25.764033,
     "geom:longitude":-80.211309,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ddfbb69d7edb27c27ad5f6a18aec6382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":304059849,
-    "wof:lastmodified":1466432852,
+    "wof:lastmodified":1491906071,
     "wof:name":"Solid Auto Brokers Inc",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

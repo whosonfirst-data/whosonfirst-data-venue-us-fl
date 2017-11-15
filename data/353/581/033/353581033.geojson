@@ -2,9 +2,14 @@
   "id": 353581033,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 SW 2nd Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"3025",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142593,26.086439,-80.142593,26.086439",
     "geom:latitude":26.086439,
     "geom:longitude":-80.142593,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"0657cd502af93674cf61597b71c604af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":353581033
         }
     ],
     "wof:id":353581033,
-    "wof:lastmodified":1466437495,
+    "wof:lastmodified":1491924476,
     "wof:name":"Riverport Distribution Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320262373,
   "type": "Feature",
   "properties": {
+    "addr:full":"7115 S Boundary Blvd Tampa FL 33621",
+    "addr:housenumber":"7115",
+    "addr:postcode":"33621",
+    "addr:street":"S Boundary Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.489664,27.863371,-82.489664,27.863371",
     "geom:latitude":27.863371,
     "geom:longitude":-82.489664,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a7d7929cba8efad9a96ffd4e5034fa17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320262373,
-    "wof:lastmodified":1466437884,
+    "wof:lastmodified":1491897369,
     "wof:name":"Marine Corps United States",
     "wof:parent_id":85889761,
     "wof:placetype":"venue",

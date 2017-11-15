@@ -2,9 +2,14 @@
   "id": 270446493,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 14th St S St Petersburg FL 33705",
+    "addr:housenumber":"602",
+    "addr:postcode":"33705",
+    "addr:street":"14Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.652687,27.763308,-82.652687,27.763308",
     "geom:latitude":27.763308,
     "geom:longitude":-82.652687,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cc451460c3926207306513769abe58e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270446493,
-    "wof:lastmodified":1466437087,
+    "wof:lastmodified":1491912876,
     "wof:name":"E H Mc Lin-Campbell Park Pool",
     "wof:parent_id":85889537,
     "wof:placetype":"venue",

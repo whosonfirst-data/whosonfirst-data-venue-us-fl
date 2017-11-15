@@ -2,9 +2,14 @@
   "id": 286388711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 S Chickasaw Trl Orlando FL 32825",
+    "addr:housenumber":"1616",
+    "addr:postcode":"32825",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269075,28.511168,-81.269075,28.511168",
     "geom:latitude":28.511168,
     "geom:longitude":-81.269075,
@@ -31,9 +36,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +48,24 @@
     "wof:geomhash":"46991ec47da7393e2bc9a8f131fdd0d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":286388711
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":286388711
         }
     ],
     "wof:id":286388711,
-    "wof:lastmodified":1466431853,
+    "wof:lastmodified":1491901269,
     "wof:name":"Orange Rebar Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

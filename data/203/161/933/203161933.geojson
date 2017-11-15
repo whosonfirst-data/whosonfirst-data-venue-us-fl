@@ -2,9 +2,14 @@
   "id": 203161933,
   "type": "Feature",
   "properties": {
+    "addr:full":"5217 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5217",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.451911,28.552529,-81.451911,28.552529",
     "geom:latitude":28.552529,
     "geom:longitude":-81.451911,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -48,7 +54,7 @@
     "wof:geomhash":"301caa0d887c2419bbdecda30b49c832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":203161933,
-    "wof:lastmodified":1466428409,
+    "wof:lastmodified":1491934991,
     "wof:name":"Excelsior Health Clinic",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

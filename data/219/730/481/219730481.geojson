@@ -2,9 +2,14 @@
   "id": 219730481,
   "type": "Feature",
   "properties": {
+    "addr:full":"548 NW 30th St Miami FL 33127",
+    "addr:housenumber":"548",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.204403,25.804533,-80.204403,25.804533",
     "geom:latitude":25.804533,
     "geom:longitude":-80.204403,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ef8de909d63e56879310f417c84a98e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219730481,
-    "wof:lastmodified":1466434499,
+    "wof:lastmodified":1491905710,
     "wof:name":"Miss B Hair Salon",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303945235,
   "type": "Feature",
   "properties": {
+    "addr:full":"5511 W Gray St Tampa FL 33609",
+    "addr:housenumber":"5511",
+    "addr:postcode":"33609",
+    "addr:street":"W Gray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.539211,27.948243,-82.539211,27.948243",
     "geom:latitude":27.948243,
     "geom:longitude":-82.539211,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b0758b61a371aaeb4db9322c7b3a1796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303945235,
-    "wof:lastmodified":1466446645,
+    "wof:lastmodified":1491925146,
     "wof:name":"US Post Office",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

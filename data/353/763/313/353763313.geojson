@@ -2,9 +2,14 @@
   "id": 353763313,
   "type": "Feature",
   "properties": {
+    "addr:full":"7516 Autumn Pines Dr Orlando FL 32822",
+    "addr:housenumber":"7516",
+    "addr:postcode":"32822",
+    "addr:street":"Autumn Pines Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.283879,28.530153,-81.283879,28.530153",
     "geom:latitude":28.530153,
     "geom:longitude":-81.283879,
@@ -27,9 +32,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +44,24 @@
     "wof:geomhash":"dd47bab94347dae30e26f8737133df87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":353763313
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":353763313
         }
     ],
     "wof:id":353763313,
-    "wof:lastmodified":1466440364,
+    "wof:lastmodified":1491901270,
     "wof:name":"Burgos Lawn Service & Landscap",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

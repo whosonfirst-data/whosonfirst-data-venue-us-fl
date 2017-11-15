@@ -2,9 +2,14 @@
   "id": 337341713,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Royal Palm Way Palm Beach FL 33480",
+    "addr:housenumber":"230",
+    "addr:postcode":"33480",
+    "addr:street":"Royal Palm Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.038092,26.705583,-80.038092,26.705583",
     "geom:latitude":26.705583,
     "geom:longitude":-80.038092,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bc03d0b7711ad5e46f967fe18859fdb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337341713,
-    "wof:lastmodified":1466435113,
+    "wof:lastmodified":1491899621,
     "wof:name":"Kyle M Caparosa Atty",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

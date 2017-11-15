@@ -2,9 +2,14 @@
   "id": 270129947,
   "type": "Feature",
   "properties": {
+    "addr:full":"9431 Tradeport Dr Orlando FL 32827",
+    "addr:housenumber":"9431",
+    "addr:postcode":"32827",
+    "addr:street":"Tradeport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.333862,28.429425,-81.333862,28.429425",
     "geom:latitude":28.429425,
     "geom:longitude":-81.333862,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"204978d6d9bbd50b3731415912bbe71a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270129947,
-    "wof:lastmodified":1466431661,
+    "wof:lastmodified":1491914282,
     "wof:name":"Marlin Transport",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

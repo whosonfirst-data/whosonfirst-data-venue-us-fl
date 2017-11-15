@@ -2,9 +2,14 @@
   "id": 202578019,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 6th St S St Petersburg FL 33705",
+    "addr:housenumber":"3801",
+    "addr:postcode":"33705",
+    "addr:street":"6Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.640901,27.734881,-82.640901,27.734881",
     "geom:latitude":27.734881,
     "geom:longitude":-82.640901,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"04b67afc18bf47eed3bc549556f5da16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202578019,
-    "wof:lastmodified":1466429380,
+    "wof:lastmodified":1491903005,
     "wof:name":"Automotive Specialties",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

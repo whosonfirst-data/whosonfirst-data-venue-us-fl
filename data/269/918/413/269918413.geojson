@@ -2,9 +2,14 @@
   "id": 269918413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2951 SW 36th Ct Miami FL 33133",
+    "addr:housenumber":"2951",
+    "addr:postcode":"33133",
+    "addr:street":"Sw 36Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.252999,25.736102,-80.252999,25.736102",
     "geom:latitude":25.736102,
     "geom:longitude":-80.252999,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -50,17 +56,17 @@
     "wof:geomhash":"780e7b6906091532c3265d390a890368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":269918413
         }
     ],
     "wof:id":269918413,
-    "wof:lastmodified":1466436136,
+    "wof:lastmodified":1491901702,
     "wof:name":"Discovery Carpet & Sales Corp",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303237919,
   "type": "Feature",
   "properties": {
+    "addr:full":"6950 Villa de Costa Dr Orlando FL 32821",
+    "addr:housenumber":"6950",
+    "addr:postcode":"32821",
+    "addr:street":"Villa De Costa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.472884,28.391857,-81.472884,28.391857",
     "geom:latitude":28.391857,
     "geom:longitude":-81.472884,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889341
+        85889341,
+        102085847
     ],
     "wof:brand_id":420574769,
     "wof:breaches":[],
@@ -43,17 +48,15 @@
     "wof:geomhash":"b8f61cf1fdefcc89651bc6f36cb989b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889341,
             "region_id":85688651,
             "venue_id":303237919
         }
     ],
     "wof:id":303237919,
-    "wof:lastmodified":1466434641,
+    "wof:lastmodified":1491911778,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85889341,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286954475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 E Di Lido Dr Miami Beach FL 33139",
+    "addr:housenumber":"1",
+    "addr:postcode":"33139",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158349,25.787513,-80.158349,25.787513",
     "geom:latitude":25.787513,
     "geom:longitude":-80.158349,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -45,7 +51,7 @@
     "wof:geomhash":"42958cc0ae7259f0459cdfcf3c5cf672",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":286954475,
-    "wof:lastmodified":1466441875,
+    "wof:lastmodified":1491915781,
     "wof:name":"Bolae Studio",
     "wof:parent_id":85878933,
     "wof:placetype":"venue",

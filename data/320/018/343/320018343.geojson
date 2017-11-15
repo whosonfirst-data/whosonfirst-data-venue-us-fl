@@ -2,9 +2,14 @@
   "id": 320018343,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 SW 31st St Fort Lauderdale FL 33315",
+    "addr:housenumber":"241",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143757,26.086305,-80.143757,26.086305",
     "geom:latitude":26.086305,
     "geom:longitude":-80.143757,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"9df7d65290c044a9305e2851b8f0212c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":320018343
         }
     ],
     "wof:id":320018343,
-    "wof:lastmodified":1466433711,
+    "wof:lastmodified":1491924496,
     "wof:name":"Marine Welding & Fabricating",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

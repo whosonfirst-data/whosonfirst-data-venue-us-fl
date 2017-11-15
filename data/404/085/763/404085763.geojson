@@ -2,9 +2,14 @@
   "id": 404085763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4104 Aurora St Coral Gables FL 33146",
+    "addr:housenumber":"4104",
+    "addr:postcode":"33146",
+    "addr:street":"Aurora St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.259512,25.734062,-80.259512,25.734062",
     "geom:latitude":25.734062,
     "geom:longitude":-80.259512,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"856ce1e5ecc5509eb6d3e2509c5deb6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":404085763
         }
     ],
     "wof:id":404085763,
-    "wof:lastmodified":1466441566,
+    "wof:lastmodified":1491901706,
     "wof:name":"Chinese Cafes Of America",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

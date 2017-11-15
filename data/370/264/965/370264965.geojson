@@ -2,9 +2,14 @@
   "id": 370264965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2906 W Arch St Tampa FL 33607",
+    "addr:housenumber":"2906",
+    "addr:postcode":"33607",
+    "addr:street":"W Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.49031,27.954145,-82.49031,27.954145",
     "geom:latitude":27.954145,
     "geom:longitude":-82.49031,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"90b3f377900d8aec1a53d06bd9d56e7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370264965,
-    "wof:lastmodified":1466438235,
+    "wof:lastmodified":1491934213,
     "wof:name":"Steve's Lawn Sprinkler Svc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

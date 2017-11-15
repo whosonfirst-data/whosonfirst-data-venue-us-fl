@@ -2,9 +2,14 @@
   "id": 185985403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 SW 32nd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"1030",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155092,26.085774,-80.155092,26.085774",
     "geom:latitude":26.085774,
     "geom:longitude":-80.155092,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"31ce965e0fde74d1bccca1c4a913305c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":185985403
         }
     ],
     "wof:id":185985403,
-    "wof:lastmodified":1466430911,
+    "wof:lastmodified":1491924484,
     "wof:name":"Bob Sampson Carpentry",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

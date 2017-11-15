@@ -2,9 +2,14 @@
   "id": 303179299,
   "type": "Feature",
   "properties": {
+    "addr:full":"2421 Lake Pancoast Dr Miami Beach FL 33140",
+    "addr:housenumber":"2421",
+    "addr:postcode":"33140",
+    "addr:street":"Lake Pancoast Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.127747,25.800869,-80.127747,25.800869",
     "geom:latitude":25.800869,
     "geom:longitude":-80.127747,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"7d8cc6bec9aa69bdf2fdca9ae9b3fdda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":303179299
         }
     ],
     "wof:id":303179299,
-    "wof:lastmodified":1466433633,
+    "wof:lastmodified":1491903621,
     "wof:name":"Helen Mar Apts",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",

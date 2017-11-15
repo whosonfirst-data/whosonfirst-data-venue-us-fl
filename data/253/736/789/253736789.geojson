@@ -2,9 +2,14 @@
   "id": 253736789,
   "type": "Feature",
   "properties": {
+    "addr:full":"1904 W Cass St Tampa FL 33606",
+    "addr:housenumber":"1904",
+    "addr:postcode":"33606",
+    "addr:street":"W Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.480836,27.949792,-82.480836,27.949792",
     "geom:latitude":27.949792,
     "geom:longitude":-82.480836,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e704e404f423dbad89588c64facbd115",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253736789,
-    "wof:lastmodified":1466439835,
+    "wof:lastmodified":1491934212,
     "wof:name":"Corless & Assoc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

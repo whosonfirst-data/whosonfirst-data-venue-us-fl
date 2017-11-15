@@ -2,9 +2,14 @@
   "id": 353501827,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 15th Ave N St Petersburg FL 33704",
+    "addr:housenumber":"411",
+    "addr:postcode":"33704",
+    "addr:street":"15Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.639934,27.787001,-82.639934,27.787001",
     "geom:latitude":27.787001,
     "geom:longitude":-82.639934,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d5c32f4f67612a34ca325c794df419cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353501827,
-    "wof:lastmodified":1466436170,
+    "wof:lastmodified":1491901209,
     "wof:name":"Earle & Assoc Realtor-Apprsrs",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

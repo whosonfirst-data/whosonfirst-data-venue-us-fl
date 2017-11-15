@@ -2,9 +2,14 @@
   "id": 286267343,
   "type": "Feature",
   "properties": {
+    "addr:full":"3045 10th St N St Petersburg FL 33704",
+    "addr:housenumber":"3045",
+    "addr:postcode":"33704",
+    "addr:street":"10Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.647738,27.800768,-82.647738,27.800768",
     "geom:latitude":27.800768,
     "geom:longitude":-82.647738,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e21bafad4e08fe20175da275c8cd405c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286267343,
-    "wof:lastmodified":1466429750,
+    "wof:lastmodified":1491922163,
     "wof:name":"West Coast Property Svc",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

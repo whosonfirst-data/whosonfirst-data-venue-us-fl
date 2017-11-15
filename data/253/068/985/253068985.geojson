@@ -2,9 +2,14 @@
   "id": 253068985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2550 NW 2nd Ave Miami FL 33127",
+    "addr:housenumber":"2550",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.199183,25.801083,-80.199183,25.801083",
     "geom:latitude":25.801083,
     "geom:longitude":-80.199183,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9b12170821575d56d16e3c4bc5dfebd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253068985,
-    "wof:lastmodified":1466429443,
+    "wof:lastmodified":1491905710,
     "wof:name":"Crawford Enterprises",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

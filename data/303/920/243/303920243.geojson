@@ -2,9 +2,14 @@
   "id": 303920243,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 Cadagua Ave Coral Gables FL 33146",
+    "addr:housenumber":"535",
+    "addr:postcode":"33146",
+    "addr:street":"Cadagua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.266611,25.727977,-80.266611,25.727977",
     "geom:latitude":25.727977,
     "geom:longitude":-80.266611,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"3694722b65493fe8d565dce6c0ae89d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":303920243
         }
     ],
     "wof:id":303920243,
-    "wof:lastmodified":1466446712,
+    "wof:lastmodified":1491901711,
     "wof:name":"Lopez Mata Architects",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186432125,
   "type": "Feature",
   "properties": {
+    "addr:full":"7061 Grand National Dr Orlando FL 32819",
+    "addr:housenumber":"7061",
+    "addr:postcode":"32819",
+    "addr:street":"Grand National Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.456153,28.458715,-81.456153,28.458715",
     "geom:latitude":28.458715,
     "geom:longitude":-81.456153,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0a7bf9ec8b8c3074b534a6c3af24ce2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186432125,
-    "wof:lastmodified":1466431919,
+    "wof:lastmodified":1491884874,
     "wof:name":"Magic Tours & Services Inc",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

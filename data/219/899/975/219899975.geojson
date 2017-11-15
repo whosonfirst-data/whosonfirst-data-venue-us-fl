@@ -2,9 +2,14 @@
   "id": 219899975,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Federal Hwy Jupiter FL 33401",
+    "addr:housenumber":"245",
+    "addr:postcode":"33401",
+    "addr:street":"Federal Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.051931,26.714391,-80.051931,26.714391",
     "geom:latitude":26.714391,
     "geom:longitude":-80.051931,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"672ba6b23056b0493f5c03b358102ce5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219899975,
-    "wof:lastmodified":1466436825,
+    "wof:lastmodified":1491899649,
     "wof:name":"VILLAGE BOOTERY",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286682771,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 25th St West Palm Beach FL 33407",
+    "addr:housenumber":"604",
+    "addr:postcode":"33407",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057672,26.73629,-80.057672,26.73629",
     "geom:latitude":26.73629,
     "geom:longitude":-80.057672,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -46,7 +52,7 @@
     "wof:geomhash":"c36b4b88294e8328f8975d3698d2b05e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":286682771,
-    "wof:lastmodified":1466437032,
+    "wof:lastmodified":1491899785,
     "wof:name":"Boby Express Co",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

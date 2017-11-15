@@ -2,9 +2,14 @@
   "id": 169608631,
   "type": "Feature",
   "properties": {
+    "addr:full":"8809 Mescalero St Orlando FL 32829",
+    "addr:housenumber":"8809",
+    "addr:postcode":"32829",
+    "addr:street":"Mescalero St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.262952,28.505301,-81.262952,28.505301",
     "geom:latitude":28.505301,
     "geom:longitude":-81.262952,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85879531
+        85879531,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +43,17 @@
     "wof:geomhash":"e1c70b6fa3ee063a6447d2e7546488a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":169608631
         }
     ],
     "wof:id":169608631,
-    "wof:lastmodified":1466439563,
+    "wof:lastmodified":1491901275,
     "wof:name":"Gouchs Remodeling & Ldscpg",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

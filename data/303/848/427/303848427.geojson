@@ -2,9 +2,14 @@
   "id": 303848427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5519 Pine Cir NE St Petersburg FL 33703",
+    "addr:housenumber":"5519",
+    "addr:postcode":"33703",
+    "addr:street":"Pine Cir Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.629701,27.822628,-82.629701,27.822628",
     "geom:latitude":27.822628,
     "geom:longitude":-82.629701,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ef7fdcca654234669cf5c5a876ce2788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303848427,
-    "wof:lastmodified":1466445134,
+    "wof:lastmodified":1491913777,
     "wof:name":"Electric Shaver Svc",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

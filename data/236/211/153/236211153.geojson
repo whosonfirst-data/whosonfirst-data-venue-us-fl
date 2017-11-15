@@ -2,9 +2,14 @@
   "id": 236211153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1495 NW 3rd Ave Miami FL 33136",
+    "addr:housenumber":"1495",
+    "addr:postcode":"33136",
+    "addr:street":"Nw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.199872,25.788842,-80.199872,25.788842",
     "geom:latitude":25.788842,
     "geom:longitude":-80.199872,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4b1b977c0c0b0ce21ae479f9e6d72795",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236211153,
-    "wof:lastmodified":1466431385,
+    "wof:lastmodified":1491920068,
     "wof:name":"Hometown Restaurant",
     "wof:parent_id":85889171,
     "wof:placetype":"venue",

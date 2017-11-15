@@ -2,9 +2,14 @@
   "id": 286441993,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 NW 12th Ct Fort Lauderdale FL 33311",
+    "addr:housenumber":"2330",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 12Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.173666,26.140995,-80.173666,26.140995",
     "geom:latitude":26.140995,
     "geom:longitude":-80.173666,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5425faa26a1b1d4dad67fb4c9cce15b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286441993,
-    "wof:lastmodified":1466432773,
+    "wof:lastmodified":1491897144,
     "wof:name":"Dillard Elementary School",
     "wof:parent_id":85865213,
     "wof:placetype":"venue",

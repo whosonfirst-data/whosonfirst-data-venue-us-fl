@@ -2,9 +2,14 @@
   "id": 269712379,
   "type": "Feature",
   "properties": {
+    "addr:full":"855 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"855",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208032,25.765536,-80.208032,25.765536",
     "geom:latitude":25.765536,
     "geom:longitude":-80.208032,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0f489f0fbac6d6baaa05c8c494d6fed9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269712379,
-    "wof:lastmodified":1466432561,
+    "wof:lastmodified":1491906072,
     "wof:name":"Jose Crespin MD",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

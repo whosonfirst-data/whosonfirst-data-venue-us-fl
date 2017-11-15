@@ -2,9 +2,14 @@
   "id": 253569543,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 SW 31st Ave Fort Lauderdale FL 33312",
+    "addr:housenumber":"91",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.186264,26.121097,-80.186264,26.121097",
     "geom:latitude":26.121097,
     "geom:longitude":-80.186264,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6bbc0f13159d4afaf4ab4f62cccaa578",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253569543,
-    "wof:lastmodified":1466436868,
+    "wof:lastmodified":1491916237,
     "wof:name":"Compound Brothers Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

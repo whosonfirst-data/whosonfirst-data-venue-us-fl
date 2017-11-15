@@ -2,9 +2,14 @@
   "id": 202917757,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 61st Ave NE Saint Petersburg FL 33703",
+    "addr:housenumber":"415",
+    "addr:postcode":"33703",
+    "addr:street":"61St Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.629395,27.827737,-82.629395,27.827737",
     "geom:latitude":27.827737,
     "geom:longitude":-82.629395,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ecc8037d0f9dcbf8fb41b5d29655f689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202917757,
-    "wof:lastmodified":1466433839,
+    "wof:lastmodified":1491913778,
     "wof:name":"Elite Residential Management",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

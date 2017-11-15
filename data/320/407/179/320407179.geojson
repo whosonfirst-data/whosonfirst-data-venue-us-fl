@@ -2,9 +2,14 @@
   "id": 320407179,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 N Kirkman Rd Orlando FL 32811",
+    "addr:housenumber":"408",
+    "addr:postcode":"32811",
+    "addr:street":"N Kirkman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.458266,28.545788,-81.458266,28.545788",
     "geom:latitude":28.545788,
     "geom:longitude":-81.458266,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aec095d31bfdcd0aabc07a14c3538387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320407179,
-    "wof:lastmodified":1466440362,
+    "wof:lastmodified":1491934991,
     "wof:name":"Kim 's Tailor & Alterations",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

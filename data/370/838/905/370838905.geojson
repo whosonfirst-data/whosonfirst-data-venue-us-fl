@@ -2,9 +2,14 @@
   "id": 370838905,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 SW 4th St Miami FL 33130",
+    "addr:housenumber":"666",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.204902,25.769832,-80.204902,25.769832",
     "geom:latitude":25.769832,
     "geom:longitude":-80.204902,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a45c1332ce5ce02b0e0dbe9b35dbbc1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370838905,
-    "wof:lastmodified":1466446722,
+    "wof:lastmodified":1491906072,
     "wof:name":"Hope Center Inc",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269990117,
   "type": "Feature",
   "properties": {
+    "addr:full":"288 Beach Dr NE St Petersburg FL 33701",
+    "addr:housenumber":"288",
+    "addr:postcode":"33701",
+    "addr:street":"Beach Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.632769,27.773707,-82.632769,27.773707",
     "geom:latitude":27.773707,
     "geom:longitude":-82.632769,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -47,7 +53,7 @@
     "wof:geomhash":"09fff64cde76c2e81bc5522e65c07828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":269990117,
-    "wof:lastmodified":1466437346,
+    "wof:lastmodified":1491938315,
     "wof:name":"Cloisters of Beach Drive Inc",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

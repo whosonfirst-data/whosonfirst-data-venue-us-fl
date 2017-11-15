@@ -2,9 +2,14 @@
   "id": 185840665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 SW 13th Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"3315",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158643,26.081527,-80.158643,26.081527",
     "geom:latitude":26.081527,
     "geom:longitude":-80.158643,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"99e5bfb19dbdb95a4ad536660d86ba95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":185840665
         }
     ],
     "wof:id":185840665,
-    "wof:lastmodified":1466429403,
+    "wof:lastmodified":1491924495,
     "wof:name":"Hill Air Instruments Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

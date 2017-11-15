@@ -2,9 +2,14 @@
   "id": 219898609,
   "type": "Feature",
   "properties": {
+    "addr:full":"5393 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5393",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.449802,28.552567,-81.449802,28.552567",
     "geom:latitude":28.552567,
     "geom:longitude":-81.449802,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3130b1e0c8f32c2221b6f595dd3d813f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":219898609,
-    "wof:lastmodified":1466436805,
+    "wof:lastmodified":1491934980,
     "wof:name":"Fire Alarm Lines",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

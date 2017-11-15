@@ -2,14 +2,20 @@
   "id": 655875971,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 S Hyde Park Ave Tampa FL 33606",
+    "addr:housenumber":"249",
+    "addr:postcode":"33606",
+    "addr:street":"S Hyde Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.463923,27.941677,-82.463923,27.941677",
     "geom:latitude":27.941677,
     "geom:longitude":-82.463923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"249 S Hyde Park Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -28,19 +34,57 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85931789,
+        102085773,
+        420513179,
+        85889659,
+        85889721
+    ],
+    "wof:brand_id":420573793,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BKVEyfvgANNDVzGah1Xub_27.941677_-82.463923@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461616110,
-    "wof:geomhash":"3959b9e8e6beb5c8c5b4fa5ca313d9aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6a28767ad2ec5840073af3a1a4bdb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":420513179,
+            "region_id":85688651,
+            "venue_id":655875971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85889659,
+            "region_id":85688651,
+            "venue_id":655875971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85889721,
+            "region_id":85688651,
+            "venue_id":655875971
+        }
+    ],
     "wof:id":655875971,
-    "wof:lastmodified":1466443394,
+    "wof:lastmodified":1510603426,
     "wof:name":"Bank Of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

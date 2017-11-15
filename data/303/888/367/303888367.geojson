@@ -2,9 +2,14 @@
   "id": 303888367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3402 SW 26th Ter Fort Lauderdale FL 33312",
+    "addr:housenumber":"3402",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 26Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.176202,26.080669,-80.176202,26.080669",
     "geom:latitude":26.080669,
     "geom:longitude":-80.176202,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"dc700205326ba29bf0f5380da3c5cadb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":303888367
         }
     ],
     "wof:id":303888367,
-    "wof:lastmodified":1466445845,
+    "wof:lastmodified":1491924491,
     "wof:name":"Atlantic Coast Fire Equipment",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

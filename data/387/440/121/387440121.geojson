@@ -2,9 +2,14 @@
   "id": 387440121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1743 8th St SE Miami FL 33135",
+    "addr:housenumber":"1743",
+    "addr:postcode":"33135",
+    "addr:street":"8Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.223782,25.765664,-80.223782,25.765664",
     "geom:latitude":25.765664,
     "geom:longitude":-80.223782,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a6033b57dc20e7cf21eef9c098d7fba6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387440121,
-    "wof:lastmodified":1466445443,
+    "wof:lastmodified":1491936011,
     "wof:name":"Dary Shoes Corp",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

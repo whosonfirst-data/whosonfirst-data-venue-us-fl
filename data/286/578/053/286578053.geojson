@@ -2,9 +2,14 @@
   "id": 286578053,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 SW 11th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"113",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143851,26.109428,-80.143851,26.109428",
     "geom:latitude":26.109428,
     "geom:longitude":-80.143851,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5ea1f4e4d4f589a58c2d6604676c6591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286578053,
-    "wof:lastmodified":1466435148,
+    "wof:lastmodified":1491936868,
     "wof:name":"McDonalds",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

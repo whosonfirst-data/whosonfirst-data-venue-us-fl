@@ -2,9 +2,14 @@
   "id": 638748709,
   "type": "Feature",
   "properties": {
+    "addr:full":"4306 Alton Rd Miami FL 33140",
+    "addr:housenumber":"4306",
+    "addr:postcode":"33140",
+    "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.137875,25.814925,-80.137875,25.814925",
     "geom:latitude":25.814925,
     "geom:longitude":-80.137875,
@@ -35,8 +40,8 @@
         85633793,
         85933671,
         102085771,
-        85878923,
-        85804897
+        85804897,
+        85878923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +56,7 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85878923,
+            "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":638748709
         },
@@ -60,15 +65,15 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85804897,
+            "neighbourhood_id":85878923,
             "region_id":85688651,
             "venue_id":638748709
         }
     ],
     "wof:id":638748709,
-    "wof:lastmodified":1466450161,
+    "wof:lastmodified":1491903595,
     "wof:name":"Mt Sinai Comprehensive Breast",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

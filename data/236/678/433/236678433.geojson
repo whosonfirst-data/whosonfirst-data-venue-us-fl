@@ -2,9 +2,14 @@
   "id": 236678433,
   "type": "Feature",
   "properties": {
+    "addr:full":"12444 State Rd 535 Orlando FL 32836",
+    "addr:housenumber":"12444;535",
+    "addr:postcode":"32836",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.506105,28.384842,-81.506105,28.384842",
     "geom:latitude":28.384842,
     "geom:longitude":-81.506105,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889413
+        85889413,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"d628c8fd3d9913d8152152ef6c3f58a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889413,
             "region_id":85688651,
             "venue_id":236678433
         }
     ],
     "wof:id":236678433,
-    "wof:lastmodified":1466438043,
+    "wof:lastmodified":1491917322,
     "wof:name":"A & Z Enterprise",
     "wof:parent_id":85889413,
     "wof:placetype":"venue",

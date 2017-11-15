@@ -2,9 +2,14 @@
   "id": 270459111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3902 W la Salle St Tampa FL 33607",
+    "addr:housenumber":"3902",
+    "addr:postcode":"33607",
+    "addr:street":"W La Salle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.556868,27.966697,-82.556868,27.966697",
     "geom:latitude":27.966697,
     "geom:longitude":-82.556868,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4ff7dde3c416f2ecfa1d3babedb0ac9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270459111,
-    "wof:lastmodified":1466437302,
+    "wof:lastmodified":1491914700,
     "wof:name":"Z B F International Trading",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

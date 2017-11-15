@@ -2,9 +2,14 @@
   "id": 236845435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 N Armenia Ave Tampa FL 33607",
+    "addr:housenumber":"1415",
+    "addr:postcode":"33607",
+    "addr:street":"N Armenia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.484925,27.955622,-82.484925,27.955622",
     "geom:latitude":27.955622,
     "geom:longitude":-82.484925,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6fa7051c25b9b9102cdc785367149964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236845435,
-    "wof:lastmodified":1466440460,
+    "wof:lastmodified":1491934211,
     "wof:name":"ACE Cash Express",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270405985,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 S Andrews Ave Fort Lauderdale FL 33301",
+    "addr:housenumber":"600",
+    "addr:postcode":"33301",
+    "addr:street":"S Andrews Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143158,26.112993,-80.143158,26.112993",
     "geom:latitude":26.112993,
     "geom:longitude":-80.143158,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        85877533,
+        85877495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"7a45eafcdb6cfed54cae6d1148e8720b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877533,
+            "region_id":85688651,
+            "venue_id":270405985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877495,
             "region_id":85688651,
             "venue_id":270405985
         }
     ],
     "wof:id":270405985,
-    "wof:lastmodified":1466436405,
+    "wof:lastmodified":1491936861,
     "wof:name":"Michael J Doddo Esquire",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320737369,
   "type": "Feature",
   "properties": {
+    "addr:full":"12401 International Dr Orlando FL 32821",
+    "addr:housenumber":"12401",
+    "addr:postcode":"32821",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.475575,28.387979,-81.475575,28.387979",
     "geom:latitude":28.387979,
     "geom:longitude":-81.475575,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889341
+        85889341,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"36f9c665fd5c677c6df523c8244c84f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889341,
             "region_id":85688651,
             "venue_id":320737369
         }
     ],
     "wof:id":320737369,
-    "wof:lastmodified":1466446131,
+    "wof:lastmodified":1491911779,
     "wof:name":"Flagler Station",
     "wof:parent_id":85889341,
     "wof:placetype":"venue",

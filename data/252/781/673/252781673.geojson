@@ -2,14 +2,20 @@
   "id": 252781673,
   "type": "Feature",
   "properties": {
+    "addr:full":"734 62th Ave N St Petersburg FL 33702",
+    "addr:housenumber":"734",
+    "addr:postcode":"33702",
+    "addr:street":"62Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.644722,27.828361,-82.644722,27.828361",
     "geom:latitude":27.828361,
     "geom:longitude":-82.644722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"734 62th Ave N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
         85880525
     ],
+    "wof:brand_id":1125151787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72TzyjIllbI6700BxZOXFg_27.828361_-82.644722@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bf8a0d03650865286a4c5c8ce5374bc",
+    "wof:geomhash":"330a09e2e6a4e7ec7e1eada2e9812af1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252781673,
-    "wof:lastmodified":1466429496,
+    "wof:lastmodified":1510694969,
     "wof:name":"House Of Prayer",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

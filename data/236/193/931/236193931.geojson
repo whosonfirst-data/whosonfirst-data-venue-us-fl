@@ -2,9 +2,14 @@
   "id": 236193931,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 SE 9th St Fort Lauderdale FL 33316",
+    "addr:housenumber":"224",
+    "addr:postcode":"33316",
+    "addr:street":"Se 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.140455,26.11121,-80.140455,26.11121",
     "geom:latitude":26.11121,
     "geom:longitude":-80.140455,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3e618c7b1f10d8c086ed5863c0fb7948",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236193931,
-    "wof:lastmodified":1466431135,
+    "wof:lastmodified":1491936856,
     "wof:name":"Intrigue Music Management",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

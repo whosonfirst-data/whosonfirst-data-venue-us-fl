@@ -2,9 +2,14 @@
   "id": 253334603,
   "type": "Feature",
   "properties": {
+    "addr:full":"5680 W Cypress St Tampa FL 33607",
+    "addr:housenumber":"5680",
+    "addr:postcode":"33607",
+    "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.540038,27.952396,-82.540038,27.952396",
     "geom:latitude":27.952396,
     "geom:longitude":-82.540038,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"72dca47dd52860ae6ccff14baa2b63b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253334603,
-    "wof:lastmodified":1466432750,
+    "wof:lastmodified":1491925145,
     "wof:name":"Dickie & Wolf",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

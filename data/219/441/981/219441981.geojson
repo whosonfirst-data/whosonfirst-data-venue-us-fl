@@ -2,9 +2,14 @@
   "id": 219441981,
   "type": "Feature",
   "properties": {
+    "addr:full":"179 Pompano Dr SE Saint Petersburg FL 33705",
+    "addr:housenumber":"179",
+    "addr:postcode":"33705",
+    "addr:street":"Pompano Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.636465,27.735831,-82.636465,27.735831",
     "geom:latitude":27.735831,
     "geom:longitude":-82.636465,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"76ef73e2bb36938715ff9b72e464871d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":219441981,
-    "wof:lastmodified":1466430746,
+    "wof:lastmodified":1491903004,
     "wof:name":"ASG Administrative Consulting",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

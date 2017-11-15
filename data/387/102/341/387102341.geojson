@@ -2,9 +2,14 @@
   "id": 387102341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2997 Day Ave Miami FL 33133",
+    "addr:housenumber":"2997",
+    "addr:postcode":"33133",
+    "addr:street":"Day Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.240952,25.731869,-80.240952,25.731869",
     "geom:latitude":25.731869,
     "geom:longitude":-80.240952,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"fc6c674b628032b1bbbf88884543e8d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":387102341
         }
     ],
     "wof:id":387102341,
-    "wof:lastmodified":1466440272,
+    "wof:lastmodified":1491901708,
     "wof:name":"Aloha Mobile HM Pk Installers",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

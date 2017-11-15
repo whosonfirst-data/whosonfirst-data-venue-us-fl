@@ -2,9 +2,14 @@
   "id": 269704369,
   "type": "Feature",
   "properties": {
+    "addr:full":"561 SW 5th St Miami FL 33130",
+    "addr:housenumber":"561",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.20399,25.769064,-80.20399,25.769064",
     "geom:latitude":25.769064,
     "geom:longitude":-80.20399,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ffc1d89d495cfb1d9fad982db14604b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269704369,
-    "wof:lastmodified":1466432412,
+    "wof:lastmodified":1491906077,
     "wof:name":"Ad By Objects",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

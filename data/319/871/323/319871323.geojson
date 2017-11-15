@@ -2,9 +2,14 @@
   "id": 319871323,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 1st St NE St Petersburg FL 33701",
+    "addr:housenumber":"205",
+    "addr:postcode":"33701",
+    "addr:street":"1St St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.633938,27.774202,-82.633938,27.774202",
     "geom:latitude":27.774202,
     "geom:longitude":-82.633938,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c33716c9a0cb513c90f3f7e226a63ef4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319871323,
-    "wof:lastmodified":1466433707,
+    "wof:lastmodified":1491938324,
     "wof:name":"A Green & Yellow Basket",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

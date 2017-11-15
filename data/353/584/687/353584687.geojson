@@ -2,9 +2,14 @@
   "id": 353584687,
   "type": "Feature",
   "properties": {
+    "addr:full":"1129 Clare Ave West Palm Beach FL 33401",
+    "addr:housenumber":"1129",
+    "addr:postcode":"33401",
+    "addr:street":"Clare Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.06304,26.699452,-80.06304,26.699452",
     "geom:latitude":26.699452,
     "geom:longitude":-80.06304,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0f7528e4d013cdfb7d6c571bf2bec446",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353584687,
-    "wof:lastmodified":1466437558,
+    "wof:lastmodified":1491921846,
     "wof:name":"Bellace Tile & Marble Inc",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

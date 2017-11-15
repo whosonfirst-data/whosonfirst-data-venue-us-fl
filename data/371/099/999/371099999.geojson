@@ -2,9 +2,14 @@
   "id": 371099999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1439 SW 23rd Ter Miami FL 33145",
+    "addr:housenumber":"1439",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 23Rd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.219573,25.748589,-80.219573,25.748589",
     "geom:latitude":25.748589,
     "geom:longitude":-80.219573,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a5886f651511819ffd5fce211b5e41ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":371099999,
-    "wof:lastmodified":1466439098,
+    "wof:lastmodified":1491887610,
     "wof:name":"Advanced Learning Systems",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

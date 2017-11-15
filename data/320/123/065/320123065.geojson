@@ -2,9 +2,14 @@
   "id": 320123065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 Clare Ave West Palm Beach FL 33401",
+    "addr:housenumber":"1404",
+    "addr:postcode":"33401",
+    "addr:street":"Clare Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.064165,26.697525,-80.064165,26.697525",
     "geom:latitude":26.697525,
     "geom:longitude":-80.064165,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8713e2b3c6f7aa4ed06f86bd3ffb3432",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320123065,
-    "wof:lastmodified":1466435494,
+    "wof:lastmodified":1491921818,
     "wof:name":"Fine Art Preservation",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

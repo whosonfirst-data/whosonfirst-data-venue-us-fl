@@ -2,9 +2,14 @@
   "id": 656085657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1241 Twin Cone Ct Orlando FL 32822",
+    "addr:housenumber":"1241",
+    "addr:postcode":"32822",
+    "addr:street":"Twin Cone Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.284183,28.531443,-81.284183,28.531443",
     "geom:latitude":28.531443,
     "geom:longitude":-81.284183,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":656085657
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":656085657
         }
     ],
     "wof:id":656085657,
-    "wof:lastmodified":1466452303,
+    "wof:lastmodified":1491901270,
     "wof:name":"Priority 1 Termite And Pest Control",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236085679,
   "type": "Feature",
   "properties": {
+    "addr:full":"4734 19th St N Saint Petersburg FL 33714",
+    "addr:housenumber":"4734",
+    "addr:postcode":"33714",
+    "addr:street":"19Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.659179,27.8143,-82.659179,27.8143",
     "geom:latitude":27.8143,
     "geom:longitude":-82.659179,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ac4e290ebbc0dd9bc04578897eec140f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236085679,
-    "wof:lastmodified":1466429593,
+    "wof:lastmodified":1491889868,
     "wof:name":"McPhail Hauling Inc",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

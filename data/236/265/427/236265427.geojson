@@ -2,9 +2,14 @@
   "id": 236265427,
   "type": "Feature",
   "properties": {
+    "addr:full":"3326 Ponce de Leon Blvd Miami FL 33134",
+    "addr:housenumber":"3326",
+    "addr:postcode":"33134",
+    "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.258335,25.740671,-80.258335,25.740671",
     "geom:latitude":25.740671,
     "geom:longitude":-80.258335,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"ab1815e59b1ddd6a78c7d33492d04081",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":236265427
         }
     ],
     "wof:id":236265427,
-    "wof:lastmodified":1466432168,
+    "wof:lastmodified":1491901698,
     "wof:name":"Center For Skin Disease & Surg",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

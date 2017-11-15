@@ -2,9 +2,14 @@
   "id": 236951333,
   "type": "Feature",
   "properties": {
+    "addr:full":"944 4th St N St Petersburg FL 33701",
+    "addr:housenumber":"944",
+    "addr:postcode":"33701",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638633,27.781619,-82.638633,27.781619",
     "geom:latitude":27.781619,
     "geom:longitude":-82.638633,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e8bcae108bf609daa4a226b91f1a5213",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":236951333,
-    "wof:lastmodified":1466441936,
+    "wof:lastmodified":1491901207,
     "wof:name":"Receprocity",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

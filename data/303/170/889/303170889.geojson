@@ -2,9 +2,14 @@
   "id": 303170889,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Evernia St West Palm Beach FL 33401",
+    "addr:housenumber":"601",
+    "addr:postcode":"33401",
+    "addr:street":"Evernia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.058737,26.711495,-80.058737,26.711495",
     "geom:latitude":26.711495,
     "geom:longitude":-80.058737,
@@ -26,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85931971,
+        102085845,
+        85881787,
         85931945,
-        102085845
+        85881801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,28 @@
     "wof:geomhash":"47034b1826974bb1242df370325c7cd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085845,
+            "locality_id":85931971,
+            "neighbourhood_id":85881787,
+            "region_id":85688651,
+            "venue_id":303170889
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881801,
             "region_id":85688651,
             "venue_id":303170889
         }
     ],
     "wof:id":303170889,
-    "wof:lastmodified":1466433477,
+    "wof:lastmodified":1491899641,
     "wof:name":"Thurston Garden Design Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

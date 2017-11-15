@@ -2,9 +2,14 @@
   "id": 202413961,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 S Andrews Ave Fort Lauderdale FL 33316",
+    "addr:housenumber":"888",
+    "addr:postcode":"33316",
+    "addr:street":"S Andrews Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143061,26.112022,-80.143061,26.112022",
     "geom:latitude":26.112022,
     "geom:longitude":-80.143061,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f0a4f255a57cff4ed54a228a2ff41ae1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202413961,
-    "wof:lastmodified":1466443800,
+    "wof:lastmodified":1491936870,
     "wof:name":"Euro-Caribe Shipping Lines",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

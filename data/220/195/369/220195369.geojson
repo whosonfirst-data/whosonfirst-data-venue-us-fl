@@ -2,9 +2,14 @@
   "id": 220195369,
   "type": "Feature",
   "properties": {
+    "addr:full":"5907 4th St N Saint Petersburg FL 33703",
+    "addr:housenumber":"5907",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638597,27.825976,-82.638597,27.825976",
     "geom:latitude":27.825976,
     "geom:longitude":-82.638597,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"212b7a93b8e3d0da0ed12e71548c50b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":220195369,
-    "wof:lastmodified":1466429513,
+    "wof:lastmodified":1491913776,
     "wof:name":"James R Kosydar DDS",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320168221,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 NW 20th St Fort Lauderdale FL 33311",
+    "addr:housenumber":"999",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.154371,26.153793,-80.154371,26.153793",
     "geom:latitude":26.153793,
     "geom:longitude":-80.154371,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        420511549,
+        85877509,
+        85877527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"c888d4e835a79623e27f127512d7ff46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420511549,
+            "region_id":85688651,
+            "venue_id":320168221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877509,
+            "region_id":85688651,
+            "venue_id":320168221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877527,
             "region_id":85688651,
             "venue_id":320168221
         }
     ],
     "wof:id":320168221,
-    "wof:lastmodified":1466436266,
+    "wof:lastmodified":1491904194,
     "wof:name":"Avon Electronics TV Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

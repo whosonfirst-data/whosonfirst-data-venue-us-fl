@@ -2,9 +2,14 @@
   "id": 236126617,
   "type": "Feature",
   "properties": {
+    "addr:full":"973 NW 27th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"973",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.178478,26.136366,-80.178478,26.136366",
     "geom:latitude":26.136366,
     "geom:longitude":-80.178478,
@@ -28,8 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688651,
+        102191575,
         85633793,
-        85688651
+        85932397,
+        102084727,
+        85877519,
+        85865213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +49,28 @@
     "wof:geomhash":"f0a297a6e86aa647894c9e822506dfe5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877519,
+            "region_id":85688651,
+            "venue_id":236126617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85865213,
             "region_id":85688651,
             "venue_id":236126617
         }
     ],
     "wof:id":236126617,
-    "wof:lastmodified":1466430167,
+    "wof:lastmodified":1491897145,
     "wof:name":"Sunset Nailz",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

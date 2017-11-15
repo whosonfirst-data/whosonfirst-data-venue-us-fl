@@ -2,9 +2,14 @@
   "id": 169792395,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 Southern Blvd West Palm Beach FL 33405",
+    "addr:housenumber":"930",
+    "addr:postcode":"33405",
+    "addr:street":"Southern Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.064659,26.675901,-80.064659,26.675901",
     "geom:latitude":26.675901,
     "geom:longitude":-80.064659,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"fbafe75e8b1381761ec916da33f127bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":169792395,
-    "wof:lastmodified":1466428935,
+    "wof:lastmodified":1491902423,
     "wof:name":"Holy Cross Catholic Preschool",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

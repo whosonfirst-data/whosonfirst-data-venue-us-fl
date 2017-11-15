@@ -2,9 +2,14 @@
   "id": 202865293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 50th Ave N St Petersburg FL 33714",
+    "addr:housenumber":"1800",
+    "addr:postcode":"33714",
+    "addr:street":"50Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.657186,27.817439,-82.657186,27.817439",
     "geom:latitude":27.817439,
     "geom:longitude":-82.657186,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"34def26bd8464fa0e34830e5e7525b24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202865293,
-    "wof:lastmodified":1466433130,
+    "wof:lastmodified":1491889867,
     "wof:name":"Ergo Bay",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

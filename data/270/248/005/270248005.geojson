@@ -2,9 +2,14 @@
   "id": 270248005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1888 Brickell Ave Miami FL 33129",
+    "addr:housenumber":"",
+    "addr:postcode":"33129",
+    "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.196471,25.755635,-80.196471,25.755635",
     "geom:latitude":25.755635,
     "geom:longitude":-80.196471,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"185602ad588a29d470590c716932fca6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270248005,
-    "wof:lastmodified":1466433695,
+    "wof:lastmodified":1491934931,
     "wof:name":"Houses Of Brickell Condo Assn",
     "wof:parent_id":85896163,
     "wof:placetype":"venue",

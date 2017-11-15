@@ -2,9 +2,14 @@
   "id": 655964297,
   "type": "Feature",
   "properties": {
+    "addr:full":"8991 Curry Ford Rd Orlando FL 32825",
+    "addr:housenumber":"8991",
+    "addr:postcode":"32825",
+    "addr:street":"Curry Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.260683,28.510099,-81.260683,28.510099",
     "geom:latitude":28.510099,
     "geom:longitude":-81.260683,
@@ -31,12 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
-        85633793,
-        85879531,
-        102085847,
         102191575,
+        85633793,
         85935197,
-        420515549
+        102085847,
+        420515549,
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +52,6 @@
     "wof:geomhash":"82e2e37392295fdb01ba1602810930f0",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085847,
-            "neighbourhood_id":85879531,
-            "region_id":85688651,
-            "venue_id":655964297
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
@@ -61,12 +59,19 @@
             "neighbourhood_id":420515549,
             "region_id":85688651,
             "venue_id":655964297
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085847,
+            "neighbourhood_id":85879531,
+            "region_id":85688651,
+            "venue_id":655964297
         }
     ],
     "wof:id":655964297,
-    "wof:lastmodified":1466453241,
+    "wof:lastmodified":1491901271,
     "wof:name":"Iglesia Pentecostal La Hermoso",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

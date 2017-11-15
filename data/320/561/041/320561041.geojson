@@ -2,9 +2,14 @@
   "id": 320561041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3891 Coquina Key Dr SE Saint Petersburg FL 33705",
+    "addr:housenumber":"",
+    "addr:postcode":"3891;33705",
+    "addr:street":"Coquina Key Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.627023,27.739112,-82.627023,27.739112",
     "geom:latitude":27.739112,
     "geom:longitude":-82.627023,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5ed427afd8a17e1c401ca8471e4f49c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320561041,
-    "wof:lastmodified":1466443105,
+    "wof:lastmodified":1491903009,
     "wof:name":"Ocean Properties Clearwater",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

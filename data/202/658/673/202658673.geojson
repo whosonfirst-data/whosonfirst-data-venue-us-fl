@@ -2,9 +2,14 @@
   "id": 202658673,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 S Goldenrod Rd Orlando FL 32822",
+    "addr:housenumber":"888",
+    "addr:postcode":"32822",
+    "addr:street":"S Goldenrod Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.285781,28.533877,-81.285781,28.533877",
     "geom:latitude":28.533877,
     "geom:longitude":-81.285781,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
+        420515467,
         85879531
     ],
     "wof:brand_id":420574219,
@@ -43,19 +51,26 @@
     "wof:geomhash":"421487da69559e165aba400cd395f2e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
+            "neighbourhood_id":420515467,
+            "region_id":85688651,
+            "venue_id":202658673
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085847,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":202658673
         }
     ],
     "wof:id":202658673,
-    "wof:lastmodified":1466430456,
+    "wof:lastmodified":1491901268,
     "wof:name":"Circle K Store",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 253199501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Bradley Ct West Palm Beach FL 33405",
+    "addr:housenumber":"1015",
+    "addr:postcode":"33405",
+    "addr:street":"Bradley Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.065091,26.671375,-80.065091,26.671375",
     "geom:latitude":26.671375,
     "geom:longitude":-80.065091,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2056b078e829a9a0c7f651b691c34819",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253199501,
-    "wof:lastmodified":1466430700,
+    "wof:lastmodified":1491902425,
     "wof:name":"Braz Customs Pavers",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

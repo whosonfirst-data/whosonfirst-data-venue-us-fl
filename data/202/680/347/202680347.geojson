@@ -2,9 +2,14 @@
   "id": 202680347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1142 SW 13th Ct Miami FL 33135",
+    "addr:housenumber":"1142",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 13Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.217475,25.762442,-80.217475,25.762442",
     "geom:latitude":25.762442,
     "geom:longitude":-80.217475,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"43922188661871528e0ef024866c716c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202680347,
-    "wof:lastmodified":1466430730,
+    "wof:lastmodified":1491936027,
     "wof:name":"Lam & Lam Apartments",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

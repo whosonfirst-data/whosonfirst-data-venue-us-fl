@@ -2,9 +2,14 @@
   "id": 202999747,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Goldenrod Rd Orlando FL 32822",
+    "addr:housenumber":"900",
+    "addr:postcode":"32822",
+    "addr:street":"S Goldenrod Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.285782,28.534044,-81.285782,28.534044",
     "geom:latitude":28.534044,
     "geom:longitude":-81.285782,
@@ -30,8 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
+        420515467,
         85879531
     ],
     "wof:breaches":[],
@@ -42,19 +50,26 @@
     "wof:geomhash":"49a4b5125353ef660298eb566b5119a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
+            "neighbourhood_id":420515467,
+            "region_id":85688651,
+            "venue_id":202999747
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085847,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":202999747
         }
     ],
     "wof:id":202999747,
-    "wof:lastmodified":1466434920,
+    "wof:lastmodified":1491901273,
     "wof:name":"Professional Skin",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

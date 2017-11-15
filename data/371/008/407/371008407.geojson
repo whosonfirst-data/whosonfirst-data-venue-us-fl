@@ -2,9 +2,14 @@
   "id": 371008407,
   "type": "Feature",
   "properties": {
+    "addr:full":"3251 S Miami Ave Miami FL 33129",
+    "addr:housenumber":"3251",
+    "addr:postcode":"33129",
+    "addr:street":"S Miami Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.210251,25.747431,-80.210251,25.747431",
     "geom:latitude":25.747431,
     "geom:longitude":-80.210251,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"96a9f0cebe64fdb89b0ab9339e1084fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":371008407,
-    "wof:lastmodified":1466437704,
+    "wof:lastmodified":1491892279,
     "wof:name":"Foundation For Villia Vazcaya",
     "wof:parent_id":85896187,
     "wof:placetype":"venue",

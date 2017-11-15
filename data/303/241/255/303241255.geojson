@@ -2,9 +2,14 @@
   "id": 303241255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1535 W Flagler St Miami FL 33135",
+    "addr:housenumber":"1535",
+    "addr:postcode":"33135",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.220841,25.773395,-80.220841,25.773395",
     "geom:latitude":25.773395,
     "geom:longitude":-80.220841,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6700fcb7836f8dd77162e11816bcaedb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303241255,
-    "wof:lastmodified":1466434700,
+    "wof:lastmodified":1491936018,
     "wof:name":"Capital Transmission Corp",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

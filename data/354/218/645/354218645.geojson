@@ -2,9 +2,14 @@
   "id": 354218645,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 S Chickasaw Trl Orlando FL 32829",
+    "addr:housenumber":"2720",
+    "addr:postcode":"32829",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269091,28.507983,-81.269091,28.507983",
     "geom:latitude":28.507983,
     "geom:longitude":-81.269091,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +47,24 @@
     "wof:geomhash":"89c98382e0f3ed54166b7df1aa0430b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":354218645
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":354218645
         }
     ],
     "wof:id":354218645,
-    "wof:lastmodified":1466439473,
+    "wof:lastmodified":1491901272,
     "wof:name":"Vilmas Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

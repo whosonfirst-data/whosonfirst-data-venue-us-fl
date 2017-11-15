@@ -2,9 +2,14 @@
   "id": 186369173,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Beach Dr NE St Petersburg FL 33701",
+    "addr:housenumber":"700",
+    "addr:postcode":"33701",
+    "addr:street":"Beach Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.629775,27.780383,-82.629775,27.780383",
     "geom:latitude":27.780383,
     "geom:longitude":-82.629775,
@@ -34,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
-        102085759
+        102085759,
+        85881947,
+        85889527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +54,28 @@
     "wof:geomhash":"36b47f4b5e92d01ac53eb4119492c9cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881947,
+            "region_id":85688651,
+            "venue_id":186369173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85889527,
             "region_id":85688651,
             "venue_id":186369173
         }
     ],
     "wof:id":186369173,
-    "wof:lastmodified":1466431136,
+    "wof:lastmodified":1491938323,
     "wof:name":"Harbour Hill Condominiums",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

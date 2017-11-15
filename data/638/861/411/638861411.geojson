@@ -2,9 +2,14 @@
   "id": 638861411,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 SW 19th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"900",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155009,26.097133,-80.155009,26.097133",
     "geom:latitude":26.097133,
     "geom:longitude":-80.155009,
@@ -26,11 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
-        102191575,
         85633793,
-        85932397,
-        102084727,
-        420511565
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,17 @@
     "wof:geomhash":"5b817729b988b64be51521a3bfdc7c85",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932397,
-            "neighbourhood_id":420511565,
+            "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":638861411
         }
     ],
     "wof:id":638861411,
-    "wof:lastmodified":1466454168,
+    "wof:lastmodified":1491924499,
     "wof:name":"Michael Charles Ltd Inc",
-    "wof:parent_id":420511565,
+    "wof:parent_id":85877499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

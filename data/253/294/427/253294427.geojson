@@ -2,9 +2,14 @@
   "id": 253294427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5449 International Dr Orlando FL 32819",
+    "addr:housenumber":"5449",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.453233,28.462432,-81.453233,28.462432",
     "geom:latitude":28.462432,
     "geom:longitude":-81.453233,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e21706b4b2d440ea1065546611c5f73d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253294427,
-    "wof:lastmodified":1466432117,
+    "wof:lastmodified":1491884828,
     "wof:name":"New York Fashion Jewelry",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

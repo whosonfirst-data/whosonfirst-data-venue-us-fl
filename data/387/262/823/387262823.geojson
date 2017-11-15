@@ -2,9 +2,14 @@
   "id": 387262823,
   "type": "Feature",
   "properties": {
+    "addr:full":"5925 15th Way N St Petersburg FL 33703",
+    "addr:housenumber":"5925",
+    "addr:postcode":"33703",
+    "addr:street":"15Th Way N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654078,27.826445,-82.654078,27.826445",
     "geom:latitude":27.826445,
     "geom:longitude":-82.654078,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7975238667db1fa7263b7d0e9e4b2336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387262823,
-    "wof:lastmodified":1466442754,
+    "wof:lastmodified":1491913780,
     "wof:name":"Mc Cafferty's Complete Grounds",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

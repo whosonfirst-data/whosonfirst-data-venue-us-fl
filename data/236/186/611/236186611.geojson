@@ -2,9 +2,14 @@
   "id": 236186611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 W Cass St Tampa FL 33606",
+    "addr:housenumber":"1720",
+    "addr:postcode":"33606",
+    "addr:street":"W Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.478468,27.949768,-82.478468,27.949768",
     "geom:latitude":27.949768,
     "geom:longitude":-82.478468,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"28654e88805f408a5a160e572c3a31df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236186611,
-    "wof:lastmodified":1466431033,
+    "wof:lastmodified":1491934208,
     "wof:name":"Trimar Construction",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

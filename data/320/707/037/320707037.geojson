@@ -2,9 +2,14 @@
   "id": 320707037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 N Lois Ave Tampa FL 33607",
+    "addr:housenumber":"2203",
+    "addr:postcode":"33607",
+    "addr:street":"N Lois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.513699,27.961073,-82.513699,27.961073",
     "geom:latitude":27.961073,
     "geom:longitude":-82.513699,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b97f9c18b006e6a50762670de5567c43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320707037,
-    "wof:lastmodified":1466445611,
+    "wof:lastmodified":1491934087,
     "wof:name":"Indemae Home Loans",
     "wof:parent_id":85873207,
     "wof:placetype":"venue",

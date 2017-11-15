@@ -2,9 +2,14 @@
   "id": 370617079,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W 37th St Miami Beach FL 33140",
+    "addr:housenumber":"500",
+    "addr:postcode":"33140",
+    "addr:street":"W 37Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.13087,25.811275,-80.13087,25.811275",
     "geom:latitude":25.811275,
     "geom:longitude":-80.13087,
@@ -32,10 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897,
-        85933671,
         85878923
     ],
     "wof:brand_id":420575867,
@@ -47,16 +53,16 @@
     "wof:geomhash":"6e6faf1946e8b1975978eb3fa3dc2e5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":370617079
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -66,9 +72,9 @@
         }
     ],
     "wof:id":370617079,
-    "wof:lastmodified":1466443638,
+    "wof:lastmodified":1491903622,
     "wof:name":"Waste Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

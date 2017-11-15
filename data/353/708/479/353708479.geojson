@@ -2,9 +2,14 @@
   "id": 353708479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 NW 23rd Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"1150",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.171313,26.140044,-80.171313,26.140044",
     "geom:latitude":26.140044,
     "geom:longitude":-80.171313,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -48,7 +54,7 @@
     "wof:geomhash":"a8b10278a2c971a443995cc7eb3be77a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":353708479,
-    "wof:lastmodified":1466439515,
+    "wof:lastmodified":1491897143,
     "wof:name":"Bradco Supply Corporation",
     "wof:parent_id":85865213,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270409481,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 E Church St Orlando FL 32801",
+    "addr:housenumber":"106",
+    "addr:postcode":"32801",
+    "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.375935,28.540312,-81.375935,28.540312",
     "geom:latitude":28.540312,
     "geom:longitude":-81.375935,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"2d3abd787f231e4ddfede2e363a0dae7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":270409481
         }
     ],
     "wof:id":270409481,
-    "wof:lastmodified":1466436465,
+    "wof:lastmodified":1491924978,
     "wof:name":"Gathering",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

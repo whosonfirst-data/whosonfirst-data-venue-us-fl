@@ -2,9 +2,14 @@
   "id": 336724005,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 S County Rd Palm Beach FL 33480",
+    "addr:housenumber":"251",
+    "addr:postcode":"33480",
+    "addr:street":"S County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.036382,26.70562,-80.036382,26.70562",
     "geom:latitude":26.70562,
     "geom:longitude":-80.036382,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -49,7 +55,7 @@
     "wof:geomhash":"d50846f4e667666da3d22dc799c07be5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336724005,
-    "wof:lastmodified":1466437119,
+    "wof:lastmodified":1491899647,
     "wof:name":"National Wheelchair Sports Fnd",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

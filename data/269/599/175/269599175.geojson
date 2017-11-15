@@ -2,9 +2,14 @@
   "id": 269599175,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Clematis St West Palm Beach FL 33401",
+    "addr:housenumber":"301",
+    "addr:postcode":"33401",
+    "addr:street":"Clematis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.053534,26.713359,-80.053534,26.713359",
     "geom:latitude":26.713359,
     "geom:longitude":-80.053534,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"403ec15580934405ef03ca8c2405df61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269599175,
-    "wof:lastmodified":1466430558,
+    "wof:lastmodified":1491899613,
     "wof:name":"Nico Properties",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

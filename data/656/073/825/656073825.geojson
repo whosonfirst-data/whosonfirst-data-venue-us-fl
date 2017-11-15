@@ -2,9 +2,14 @@
   "id": 656073825,
   "type": "Feature",
   "properties": {
+    "addr:full":"729 Citrus St Orlando FL 32805",
+    "addr:housenumber":"729",
+    "addr:postcode":"32805",
+    "addr:street":"Citrus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.389385,28.529338,-81.389385,28.529338",
     "geom:latitude":28.529338,
     "geom:longitude":-81.389385,
@@ -33,8 +38,8 @@
         85633793,
         85933091,
         102085847,
-        85879513,
-        85879461
+        85879461,
+        85879513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":85879513,
+            "neighbourhood_id":85879461,
             "region_id":85688651,
             "venue_id":656073825
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":85879461,
+            "neighbourhood_id":85879513,
             "region_id":85688651,
             "venue_id":656073825
         }
     ],
     "wof:id":656073825,
-    "wof:lastmodified":1466451542,
+    "wof:lastmodified":1491911381,
     "wof:name":"Peoples Carpentry",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

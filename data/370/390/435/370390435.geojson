@@ -2,9 +2,14 @@
   "id": 370390435,
   "type": "Feature",
   "properties": {
+    "addr:full":"3517 E 7th Ave Tampa FL 33605",
+    "addr:housenumber":"3517",
+    "addr:postcode":"33605",
+    "addr:street":"E 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.419683,27.960129,-82.419683,27.960129",
     "geom:latitude":27.960129,
     "geom:longitude":-82.419683,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -46,7 +52,7 @@
     "wof:geomhash":"50b9660f43ca35c4c03fd2dc92580106",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":370390435,
-    "wof:lastmodified":1466440159,
+    "wof:lastmodified":1491932445,
     "wof:name":"Keystone Supports Inc",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

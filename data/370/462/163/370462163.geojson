@@ -2,9 +2,14 @@
   "id": 370462163,
   "type": "Feature",
   "properties": {
+    "addr:full":"5251 International Dr Orlando FL 32819",
+    "addr:housenumber":"5251",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.450489,28.465271,-81.450489,28.465271",
     "geom:latitude":28.465271,
     "geom:longitude":-81.450489,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0b829c959c247ed640890b6b94e1cea0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370462163,
-    "wof:lastmodified":1466441273,
+    "wof:lastmodified":1491884853,
     "wof:name":"Noritake Factory Store",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

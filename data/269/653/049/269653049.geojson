@@ -2,9 +2,14 @@
   "id": 269653049,
   "type": "Feature",
   "properties": {
+    "addr:full":"4050 SW 11th Ter Fort Lauderdale FL 33315",
+    "addr:housenumber":"4050",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 11Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.157244,26.068557,-80.157244,26.068557",
     "geom:latitude":26.068557,
     "geom:longitude":-80.157244,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"69519b72c31532349612169380359b32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":269653049
         }
     ],
     "wof:id":269653049,
-    "wof:lastmodified":1466431540,
+    "wof:lastmodified":1491924488,
     "wof:name":"Cargo Force Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

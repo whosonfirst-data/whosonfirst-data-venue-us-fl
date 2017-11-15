@@ -2,9 +2,14 @@
   "id": 403703705,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 Clematis St West Palm Beach FL 33401",
+    "addr:housenumber":"523",
+    "addr:postcode":"33401",
+    "addr:street":"Clematis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056677,26.713517,-80.056677,26.713517",
     "geom:latitude":26.713517,
     "geom:longitude":-80.056677,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"947c15d91efe97c4439517ef372b7831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403703705,
-    "wof:lastmodified":1466439598,
+    "wof:lastmodified":1491899614,
     "wof:name":"Malsoris Pizza & Restaurant",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

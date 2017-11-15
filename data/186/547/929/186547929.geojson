@@ -2,9 +2,14 @@
   "id": 186547929,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 NW 25th St Miami FL 33127",
+    "addr:housenumber":"217",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.200803,25.800763,-80.200803,25.800763",
     "geom:latitude":25.800763,
     "geom:longitude":-80.200803,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"cb8572bd2121254d76dc6ebdfa9ce893",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186547929,
-    "wof:lastmodified":1466433445,
+    "wof:lastmodified":1491905715,
     "wof:name":"Nice Walk",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 319860115,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 Northwood Rd West Palm Beach FL 33407",
+    "addr:housenumber":"514",
+    "addr:postcode":"33407",
+    "addr:street":"Northwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057503,26.734981,-80.057503,26.734981",
     "geom:latitude":26.734981,
     "geom:longitude":-80.057503,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -45,7 +51,7 @@
     "wof:geomhash":"78cdc37139a73ce668b66f93877f6215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":319860115,
-    "wof:lastmodified":1466433497,
+    "wof:lastmodified":1491899776,
     "wof:name":"Joseph Pubillones Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

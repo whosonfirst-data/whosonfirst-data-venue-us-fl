@@ -2,9 +2,14 @@
   "id": 202650241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 Utah Blvd Orlando FL 32803",
+    "addr:housenumber":"1615",
+    "addr:postcode":"32803",
+    "addr:street":"Utah Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.352773,28.566599,-81.352773,28.566599",
     "geom:latitude":28.566599,
     "geom:longitude":-81.352773,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7c5fb28bb7a3b93a41ecd00fc42075d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202650241,
-    "wof:lastmodified":1466430344,
+    "wof:lastmodified":1491921618,
     "wof:name":"Moonlight Transcription",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320180565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 NW 26th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"2350",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.177048,26.155022,-80.177048,26.155022",
     "geom:latitude":26.155022,
     "geom:longitude":-80.177048,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4682f033bb7cf7cc600c5618a1a162ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320180565,
-    "wof:lastmodified":1466436481,
+    "wof:lastmodified":1491904198,
     "wof:name":"Royal Deluxe Houseware",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

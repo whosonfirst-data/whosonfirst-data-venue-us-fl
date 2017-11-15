@@ -2,9 +2,14 @@
   "id": 320660101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2881 SW 36th St Fort Lauderdale FL 33312",
+    "addr:housenumber":"2881",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.180866,26.077222,-80.180866,26.077222",
     "geom:latitude":26.077222,
     "geom:longitude":-80.180866,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"d52a4516b4abe4881794ad472f48b399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":320660101
         }
     ],
     "wof:id":320660101,
-    "wof:lastmodified":1466444811,
+    "wof:lastmodified":1491924504,
     "wof:name":"Zugar Growers",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

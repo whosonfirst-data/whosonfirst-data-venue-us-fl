@@ -2,9 +2,14 @@
   "id": 203032857,
   "type": "Feature",
   "properties": {
+    "addr:full":"4121 S Macdill Ave Tampa FL 33611",
+    "addr:housenumber":"4121",
+    "addr:postcode":"33611",
+    "addr:street":"S Macdill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.493878,27.904334,-82.493878,27.904334",
     "geom:latitude":27.904334,
     "geom:longitude":-82.493878,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a3eea90e948be7998c91963287fdaba5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":203032857,
-    "wof:lastmodified":1466443190,
+    "wof:lastmodified":1491939104,
     "wof:name":"Spa Jardin",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

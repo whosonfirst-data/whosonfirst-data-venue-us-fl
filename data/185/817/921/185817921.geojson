@@ -2,9 +2,14 @@
   "id": 185817921,
   "type": "Feature",
   "properties": {
+    "addr:full":"7507 Kingspointe Pkwy Orlando FL 32819",
+    "addr:housenumber":"7507",
+    "addr:postcode":"32819",
+    "addr:street":"Kingspointe Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.438161,28.462147,-81.438161,28.462147",
     "geom:latitude":28.462147,
     "geom:longitude":-81.438161,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ac342409652d9b08997df058fa871b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185817921,
-    "wof:lastmodified":1466429179,
+    "wof:lastmodified":1491884864,
     "wof:name":"San Angel Inn",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

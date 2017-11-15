@@ -2,9 +2,14 @@
   "id": 387115037,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 SW 11th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"14",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.144685,26.109276,-80.144685,26.109276",
     "geom:latitude":26.109276,
     "geom:longitude":-80.144685,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"aefb5c5411a16f9b1b1421b375b943ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387115037,
-    "wof:lastmodified":1466440473,
+    "wof:lastmodified":1491936857,
     "wof:name":"Eleventh Street Annex",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

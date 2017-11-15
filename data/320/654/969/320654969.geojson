@@ -2,9 +2,14 @@
   "id": 320654969,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 N Rocky Point Dr Tampa FL 33607",
+    "addr:housenumber":"3030",
+    "addr:postcode":"33607",
+    "addr:street":"N Rocky Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.568025,27.967886,-82.568025,27.967886",
     "geom:latitude":27.967886,
     "geom:longitude":-82.568025,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c0ec799b5ef6c9c25cd434f8f5d9d110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320654969,
-    "wof:lastmodified":1466444719,
+    "wof:lastmodified":1491914706,
     "wof:name":"Realty Associates Iowa Corp",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

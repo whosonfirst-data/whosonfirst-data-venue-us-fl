@@ -2,9 +2,14 @@
   "id": 319847143,
   "type": "Feature",
   "properties": {
+    "addr:full":"2503 NW 5th Ave Miami FL 33127",
+    "addr:housenumber":"2503",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.203061,25.80094,-80.203061,25.80094",
     "geom:latitude":25.80094,
     "geom:longitude":-80.203061,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1dd1ab566c07395d6625f76d08c47cb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319847143,
-    "wof:lastmodified":1466433266,
+    "wof:lastmodified":1491905715,
     "wof:name":"Olala Special",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

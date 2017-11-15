@@ -2,9 +2,14 @@
   "id": 253428447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Hacienda Ct Tampa FL 33605",
+    "addr:housenumber":"1610",
+    "addr:postcode":"33605",
+    "addr:street":"Hacienda Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.442127,27.963339,-82.442127,27.963339",
     "geom:latitude":27.963339,
     "geom:longitude":-82.442127,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a3e2b96e888ffb4deea729bab38de455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":253428447,
-    "wof:lastmodified":1466434351,
+    "wof:lastmodified":1491933571,
     "wof:name":"Hacienda De Ybor Nutrition",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",

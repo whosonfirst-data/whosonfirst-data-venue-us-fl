@@ -2,9 +2,14 @@
   "id": 387851681,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 30th Ave N St Petersburg FL 33704",
+    "addr:housenumber":"1529",
+    "addr:postcode":"33704",
+    "addr:street":"30Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654731,27.799387,-82.654731,27.799387",
     "geom:latitude":27.799387,
     "geom:longitude":-82.654731,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -49,7 +55,7 @@
     "wof:geomhash":"a28ae148e85a38e427c663c5270cba27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":387851681,
-    "wof:lastmodified":1466449153,
+    "wof:lastmodified":1491922165,
     "wof:name":"Aztec Printing & Graphics Inc",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

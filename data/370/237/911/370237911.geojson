@@ -2,9 +2,14 @@
   "id": 370237911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2176 S Chickasaw Trl Orlando FL 32825",
+    "addr:housenumber":"2176",
+    "addr:postcode":"32825",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269092,28.514629,-81.269092,28.514629",
     "geom:latitude":28.514629,
     "geom:longitude":-81.269092,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +47,24 @@
     "wof:geomhash":"129aa486eb1693abec99fae68b311e8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":370237911
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":370237911
         }
     ],
     "wof:id":370237911,
-    "wof:lastmodified":1466437818,
+    "wof:lastmodified":1491901278,
     "wof:name":"Chickasaw Liqour Stores",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

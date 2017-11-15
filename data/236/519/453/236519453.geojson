@@ -2,9 +2,14 @@
   "id": 236519453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3218 E 4th Ave Tampa FL 33605",
+    "addr:housenumber":"3218",
+    "addr:postcode":"33605",
+    "addr:street":"E 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.422646,27.958115,-82.422646,27.958115",
     "geom:latitude":27.958115,
     "geom:longitude":-82.422646,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9383e783a6fc6deb692c12edd98b2d02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":236519453,
-    "wof:lastmodified":1466435743,
+    "wof:lastmodified":1491932441,
     "wof:name":"Loomco Fabrics Inc",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

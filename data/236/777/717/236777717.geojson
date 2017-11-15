@@ -2,9 +2,14 @@
   "id": 236777717,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 N Federal Hwy Fort Lauderdale FL 33306",
+    "addr:housenumber":"3120",
+    "addr:postcode":"33306",
+    "addr:street":"N Federal Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.11858,26.169594,-80.11858,26.169594",
     "geom:latitude":26.169594,
     "geom:longitude":-80.11858,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -40,17 +46,17 @@
     "wof:geomhash":"ebc7f2cf4b9a050e90aa959df4317b01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":236777717
         }
     ],
     "wof:id":236777717,
-    "wof:lastmodified":1466439539,
+    "wof:lastmodified":1491905131,
     "wof:name":"TJ Maxx",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

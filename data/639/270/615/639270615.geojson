@@ -2,9 +2,14 @@
   "id": 639270615,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 23rd St West Palm Beach FL 33407",
+    "addr:housenumber":"800",
+    "addr:postcode":"33407",
+    "addr:street":"23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.060341,26.734783,-80.060341,26.734783",
     "geom:latitude":26.734783,
     "geom:longitude":-80.060341,
@@ -30,7 +35,8 @@
         85633793,
         85931945,
         102085845,
-        85881791
+        85881791,
+        85881803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":85881791,
             "region_id":85688651,
             "venue_id":639270615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085845,
+            "locality_id":85931945,
+            "neighbourhood_id":85881803,
+            "region_id":85688651,
+            "venue_id":639270615
         }
     ],
     "wof:id":639270615,
-    "wof:lastmodified":1466455129,
+    "wof:lastmodified":1491899774,
     "wof:name":"TSS Millwork",
-    "wof:parent_id":85881791,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

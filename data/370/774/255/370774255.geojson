@@ -2,9 +2,14 @@
   "id": 370774255,
   "type": "Feature",
   "properties": {
+    "addr:full":"2293 SW 17th Ter Miami FL 33145",
+    "addr:housenumber":"2293",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 17Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.230634,25.755815,-80.230634,25.755815",
     "geom:latitude":25.755815,
     "geom:longitude":-80.230634,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b781a2618905a17e2ae8bce93ca1832e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370774255,
-    "wof:lastmodified":1466446064,
+    "wof:lastmodified":1491887617,
     "wof:name":"Sanchez Medical Equipment",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

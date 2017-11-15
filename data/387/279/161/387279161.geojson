@@ -2,9 +2,14 @@
   "id": 387279161,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 S Hiawassee Rd Orlando FL 32835",
+    "addr:housenumber":"3200",
+    "addr:postcode":"32835",
+    "addr:street":"S Hiawassee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.485174,28.515555,-81.485174,28.515555",
     "geom:latitude":28.515555,
     "geom:longitude":-81.485174,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"bed20474b73233c3191f614e8617e889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387279161,
-    "wof:lastmodified":1466443006,
+    "wof:lastmodified":1491921603,
     "wof:name":"Day Spa At Ashley Park",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

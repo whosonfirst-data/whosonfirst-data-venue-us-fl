@@ -2,9 +2,14 @@
   "id": 370273009,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 9th Ave NE Saint Petersburg FL 33701",
+    "addr:housenumber":"101",
+    "addr:postcode":"33701",
+    "addr:street":"9Th Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.632871,27.781263,-82.632871,27.781263",
     "geom:latitude":27.781263,
     "geom:longitude":-82.632871,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
-        102085759
+        102085759,
+        85881947,
+        85889527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"24c9cbb379a0d976c29f99f84b075e58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881947,
+            "region_id":85688651,
+            "venue_id":370273009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85889527,
             "region_id":85688651,
             "venue_id":370273009
         }
     ],
     "wof:id":370273009,
-    "wof:lastmodified":1466438351,
+    "wof:lastmodified":1491938316,
     "wof:name":"Elite Marine Specialists Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

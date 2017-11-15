@@ -2,9 +2,14 @@
   "id": 353960941,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 S Hyde Park Ave Tampa FL 33606",
+    "addr:housenumber":"350",
+    "addr:postcode":"33606",
+    "addr:street":"S Hyde Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.463862,27.941116,-82.463862,27.941116",
     "geom:latitude":27.941116,
     "geom:longitude":-82.463862,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -41,7 +47,7 @@
     "wof:geomhash":"f34370d20936cde8ca4bb0e469a36b6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":353960941,
-    "wof:lastmodified":1466443394,
+    "wof:lastmodified":1491927140,
     "wof:name":"First Christian Church",
     "wof:parent_id":85889659,
     "wof:placetype":"venue",

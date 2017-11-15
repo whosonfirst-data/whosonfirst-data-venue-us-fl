@@ -2,9 +2,14 @@
   "id": 320467179,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 W Flagler St Miami FL 33130",
+    "addr:housenumber":"50",
+    "addr:postcode":"33130",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.195572,25.774098,-80.195572,25.774098",
     "geom:latitude":25.774098,
     "geom:longitude":-80.195572,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"616c168a1eb6291475a8e4336efd5d1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320467179,
-    "wof:lastmodified":1466441441,
+    "wof:lastmodified":1491906301,
     "wof:name":"Jeansland Inc",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

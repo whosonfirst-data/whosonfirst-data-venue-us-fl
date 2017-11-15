@@ -2,9 +2,14 @@
   "id": 253649211,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 Biscayne Blvd Miami FL 33132",
+    "addr:housenumber":"1550",
+    "addr:postcode":"33132",
+    "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.189041,25.790525,-80.189041,25.790525",
     "geom:latitude":25.790525,
     "geom:longitude":-80.189041,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -50,7 +56,7 @@
     "wof:geomhash":"e39b39a5285edf4e40d1b5b25824b0a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":253649211,
-    "wof:lastmodified":1466438288,
+    "wof:lastmodified":1491921192,
     "wof:name":"Kitchen Inc",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

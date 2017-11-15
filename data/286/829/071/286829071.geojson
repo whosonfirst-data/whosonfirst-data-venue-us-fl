@@ -2,9 +2,14 @@
   "id": 286829071,
   "type": "Feature",
   "properties": {
+    "addr:full":"3050 SW 38th Ct Miami FL 33134",
+    "addr:housenumber":"3050",
+    "addr:postcode":"33134",
+    "addr:street":"Sw 38Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.257056,25.734059,-80.257056,25.734059",
     "geom:latitude":25.734059,
     "geom:longitude":-80.257056,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"0a1db8995b00f91c5df2f1f083c9b52f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":286829071
         }
     ],
     "wof:id":286829071,
-    "wof:lastmodified":1466439628,
+    "wof:lastmodified":1491901693,
     "wof:name":"Stuttgart Collision Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

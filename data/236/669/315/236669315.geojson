@@ -2,9 +2,14 @@
   "id": 236669315,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 S Shine Ave Orlando FL 32806",
+    "addr:housenumber":"2404",
+    "addr:postcode":"32806",
+    "addr:street":"S Shine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.360984,28.515121,-81.360984,28.515121",
     "geom:latitude":28.515121,
     "geom:longitude":-81.360984,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"a0a8e8cd9388804d4b00a4dc83b1dda2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":236669315
         }
     ],
     "wof:id":236669315,
-    "wof:lastmodified":1466437909,
+    "wof:lastmodified":1491930966,
     "wof:name":"Rci Construction Inc",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

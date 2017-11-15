@@ -2,9 +2,14 @@
   "id": 236736545,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 N Albany Ave Tampa FL 33606",
+    "addr:housenumber":"806",
+    "addr:postcode":"33606",
+    "addr:street":"N Albany Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.48099,27.951276,-82.48099,27.951276",
     "geom:latitude":27.951276,
     "geom:longitude":-82.48099,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f562ea73347e7e5668484025ea36e307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236736545,
-    "wof:lastmodified":1466438938,
+    "wof:lastmodified":1491934207,
     "wof:name":"Wimberlys Preschool & Kndrgrtn",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

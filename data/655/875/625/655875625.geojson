@@ -2,9 +2,14 @@
   "id": 655875625,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 SW 32nd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"227",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142275,26.085303,-80.142275,26.085303",
     "geom:latitude":26.085303,
     "geom:longitude":-80.142275,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85877499,
-        102084727
+        85932397,
+        102084727,
+        85877517,
+        85877499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +50,15 @@
     "wof:geomhash":"403e360832798e7c50d6e8e6f700be7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877517,
+            "region_id":85688651,
+            "venue_id":655875625
+        },
+        {
             "country_id":85633793,
             "county_id":102084727,
             "neighbourhood_id":85877499,
@@ -50,9 +67,9 @@
         }
     ],
     "wof:id":655875625,
-    "wof:lastmodified":1466443322,
+    "wof:lastmodified":1491924475,
     "wof:name":"Chucks Welding Svc",
-    "wof:parent_id":85877499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

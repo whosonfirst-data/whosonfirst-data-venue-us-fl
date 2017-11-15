@@ -2,9 +2,14 @@
   "id": 336935913,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 W Columbus Dr Tampa FL 33602",
+    "addr:housenumber":"202",
+    "addr:postcode":"33602",
+    "addr:street":"W Columbus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.463555,27.966835,-82.463555,27.966835",
     "geom:latitude":27.966835,
     "geom:longitude":-82.463555,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c4a5af6f4998f08f330e24f2bd959b53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336935913,
-    "wof:lastmodified":1466440777,
+    "wof:lastmodified":1491934026,
     "wof:name":"Tampa Crossroads Inc",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

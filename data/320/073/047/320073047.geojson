@@ -2,9 +2,14 @@
   "id": 320073047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3189 Curry Woods Cir Orlando FL 32822",
+    "addr:housenumber":"3189",
+    "addr:postcode":"32822",
+    "addr:street":"Curry Woods Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.276727,28.504375,-81.276727,28.504375",
     "geom:latitude":28.504375,
     "geom:longitude":-81.276727,
@@ -27,9 +32,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +44,24 @@
     "wof:geomhash":"8efcea4ca3c0b2fb26355664d1935dc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":320073047
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":320073047
         }
     ],
     "wof:id":320073047,
-    "wof:lastmodified":1466434636,
+    "wof:lastmodified":1491901277,
     "wof:name":"Pauls Deli & Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

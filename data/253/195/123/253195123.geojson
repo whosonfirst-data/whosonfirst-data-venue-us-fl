@@ -2,9 +2,14 @@
   "id": 253195123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1012 NW 19th St Fort Lauderdale FL 33311",
+    "addr:housenumber":"1012",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.156932,26.15141,-80.156932,26.15141",
     "geom:latitude":26.15141,
     "geom:longitude":-80.156932,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2ee8006cd2189a6972e9d4e1e92a4103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253195123,
-    "wof:lastmodified":1466430634,
+    "wof:lastmodified":1491904195,
     "wof:name":"Let US Do It Landscaping",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

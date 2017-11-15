@@ -2,9 +2,14 @@
   "id": 220094539,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 N Buena Vista Ave Orlando FL 32835",
+    "addr:housenumber":"140",
+    "addr:postcode":"32835",
+    "addr:street":"N Buena Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.469213,28.543699,-81.469213,28.543699",
     "geom:latitude":28.543699,
     "geom:longitude":-81.469213,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e0e1998e302c1844ee91d0ab3170d6eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":220094539,
-    "wof:lastmodified":1466445678,
+    "wof:lastmodified":1491934986,
     "wof:name":"Mikes Towing",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

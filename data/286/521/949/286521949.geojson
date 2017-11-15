@@ -2,9 +2,14 @@
   "id": 286521949,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W Columbus Dr Tampa FL 33602",
+    "addr:housenumber":"106",
+    "addr:postcode":"33602",
+    "addr:street":"W Columbus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.462272,27.966828,-82.462272,27.966828",
     "geom:latitude":27.966828,
     "geom:longitude":-82.462272,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"44a53cf50b64498e56a8f8e06b63439c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286521949,
-    "wof:lastmodified":1466434144,
+    "wof:lastmodified":1491934025,
     "wof:name":"Just Cuttin Up Barber & Beauty",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

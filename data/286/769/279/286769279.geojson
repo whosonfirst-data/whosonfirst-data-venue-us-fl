@@ -2,9 +2,14 @@
   "id": 286769279,
   "type": "Feature",
   "properties": {
+    "addr:full":"3428 Soho St Orlando FL 32835",
+    "addr:housenumber":"3428",
+    "addr:postcode":"32835",
+    "addr:street":"Soho St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.473951,28.507491,-81.473951,28.507491",
     "geom:latitude":28.507491,
     "geom:longitude":-81.473951,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6804d8b7ec1450241055755fad999fd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286769279,
-    "wof:lastmodified":1466438586,
+    "wof:lastmodified":1491921595,
     "wof:name":"Brad D Smedberg",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236901649,
   "type": "Feature",
   "properties": {
+    "addr:full":"6227 International Dr Orlando FL 32819",
+    "addr:housenumber":"6227",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.463722,28.462369,-81.463722,28.462369",
     "geom:latitude":28.462369,
     "geom:longitude":-81.463722,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"89280bbdd930a2eaed5453d0fd290b94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236901649,
-    "wof:lastmodified":1466441257,
+    "wof:lastmodified":1491884860,
     "wof:name":"Hong Kong Tong Barbque",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

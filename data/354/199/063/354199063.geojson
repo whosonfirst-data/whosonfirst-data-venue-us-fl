@@ -2,9 +2,14 @@
   "id": 354199063,
   "type": "Feature",
   "properties": {
+    "addr:full":"559 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"559",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208279,25.768453,-80.208279,25.768453",
     "geom:latitude":25.768453,
     "geom:longitude":-80.208279,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dc928b0896371903efaa57357c56d6d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354199063,
-    "wof:lastmodified":1466439158,
+    "wof:lastmodified":1491906075,
     "wof:name":"Solymar Cafeteria",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

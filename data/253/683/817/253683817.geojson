@@ -2,9 +2,14 @@
   "id": 253683817,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 E 7th Ave Tampa FL 33605",
+    "addr:housenumber":"2014",
+    "addr:postcode":"33605",
+    "addr:street":"E 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.435668,27.960321,-82.435668,27.960321",
     "geom:latitude":27.960321,
     "geom:longitude":-82.435668,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ee8db4d9d8e3bf9869c8342e71d87c4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253683817,
-    "wof:lastmodified":1466438885,
+    "wof:lastmodified":1491933570,
     "wof:name":"Paul J Ferlita CPA",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",

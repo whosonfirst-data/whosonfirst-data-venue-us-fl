@@ -2,9 +2,14 @@
   "id": 387089661,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 Time Square Ave Orlando FL 32835",
+    "addr:housenumber":"6401",
+    "addr:postcode":"32835",
+    "addr:street":"Time Square Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.47161,28.509266,-81.47161,28.509266",
     "geom:latitude":28.509266,
     "geom:longitude":-81.47161,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a0470004992677c6a54f834f97b39d5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387089661,
-    "wof:lastmodified":1466440082,
+    "wof:lastmodified":1491921602,
     "wof:name":"Park Avenue Market & Cleaners",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

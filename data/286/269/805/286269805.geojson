@@ -2,9 +2,14 @@
   "id": 286269805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1184 45th Ave N St Petersburg FL 33703",
+    "addr:housenumber":"1184",
+    "addr:postcode":"33703",
+    "addr:street":"45Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.648238,27.812872,-82.648238,27.812872",
     "geom:latitude":27.812872,
     "geom:longitude":-82.648238,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"664fa0677e1e3579cbcef00bfb64eccb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286269805,
-    "wof:lastmodified":1466429792,
+    "wof:lastmodified":1491889871,
     "wof:name":"NLR Ministries Inc",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

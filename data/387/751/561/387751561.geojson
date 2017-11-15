@@ -2,9 +2,14 @@
   "id": 387751561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 SW 19th St Fort Lauderdale FL 33312",
+    "addr:housenumber":"3120",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188243,26.097829,-80.188243,26.097829",
     "geom:latitude":26.097829,
     "geom:longitude":-80.188243,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e2973f1464e3d5ec8f6ba1c07ca66aa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387751561,
-    "wof:lastmodified":1466448512,
+    "wof:lastmodified":1491916229,
     "wof:name":"Quality Mart Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

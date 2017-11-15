@@ -2,9 +2,14 @@
   "id": 236119501,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Grace St N St Petersburg FL 33714",
+    "addr:housenumber":"4720",
+    "addr:postcode":"33714",
+    "addr:street":"Grace St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.662102,27.815514,-82.662102,27.815514",
     "geom:latitude":27.815514,
     "geom:longitude":-82.662102,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"18fdf271fc4e189fc6f680a90dd06a4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236119501,
-    "wof:lastmodified":1466430065,
+    "wof:lastmodified":1491889871,
     "wof:name":"King's International Conslnt",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370620595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 SW 29th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"1060",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.154761,26.088018,-80.154761,26.088018",
     "geom:latitude":26.088018,
     "geom:longitude":-80.154761,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"65caf1c7ccde3f11e5f6e744875ccfda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":370620595
         }
     ],
     "wof:id":370620595,
-    "wof:lastmodified":1466443694,
+    "wof:lastmodified":1491924496,
     "wof:name":"John Laney",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303957853,
   "type": "Feature",
   "properties": {
+    "addr:full":"2303 N Florida Ave Tampa FL 33602",
+    "addr:housenumber":"2303",
+    "addr:postcode":"33602",
+    "addr:street":"N Florida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.459376,27.966875,-82.459376,27.966875",
     "geom:latitude":27.966875,
     "geom:longitude":-82.459376,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"54b0a56667fdddd4e51bfeb973a84903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303957853,
-    "wof:lastmodified":1466446799,
+    "wof:lastmodified":1491934028,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

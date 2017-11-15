@@ -2,9 +2,14 @@
   "id": 269579897,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 NW 12th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"2000",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158405,26.154594,-80.158405,26.154594",
     "geom:latitude":26.154594,
     "geom:longitude":-80.158405,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c0b73b66db64f0f43a39d994fa6010bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269579897,
-    "wof:lastmodified":1466430191,
+    "wof:lastmodified":1491904196,
     "wof:name":"Santa Clara Apartments",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

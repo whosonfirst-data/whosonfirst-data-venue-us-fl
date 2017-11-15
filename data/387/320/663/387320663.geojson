@@ -2,9 +2,14 @@
   "id": 387320663,
   "type": "Feature",
   "properties": {
+    "addr:full":"639 W Church St Orlando FL 32805",
+    "addr:housenumber":"639",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.388806,28.540218,-81.388806,28.540218",
     "geom:latitude":28.540218,
     "geom:longitude":-81.388806,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e3e1ff7acf429e2e08ccfe395334cade",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387320663,
-    "wof:lastmodified":1466443648,
+    "wof:lastmodified":1491911385,
     "wof:name":"Suncoast Roofer's Supply",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

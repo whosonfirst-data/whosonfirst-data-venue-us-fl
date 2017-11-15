@@ -2,9 +2,14 @@
   "id": 370621461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Lee Wagener Blvd Fort Lauderdale FL 33315",
+    "addr:housenumber":"1100",
+    "addr:postcode":"33315",
+    "addr:street":"Lee Wagener Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155023,26.070225,-80.155023,26.070225",
     "geom:latitude":26.070225,
     "geom:longitude":-80.155023,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"43d5a3540ab11ce363854706f78f1135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":370621461
         }
     ],
     "wof:id":370621461,
-    "wof:lastmodified":1466443709,
+    "wof:lastmodified":1491924490,
     "wof:name":"CIT Group Aircraft Financing",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

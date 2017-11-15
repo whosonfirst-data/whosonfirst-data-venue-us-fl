@@ -2,9 +2,14 @@
   "id": 354308343,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Park Ave Palm Beach FL 33480",
+    "addr:housenumber":"222",
+    "addr:postcode":"33480",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.040368,26.720897,-80.040368,26.720897",
     "geom:latitude":26.720897,
     "geom:longitude":-80.040368,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"65204ca9abbbd84ddb24e28586a93b47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354308343,
-    "wof:lastmodified":1466440829,
+    "wof:lastmodified":1491899640,
     "wof:name":"Gregory Giuliano Construc",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

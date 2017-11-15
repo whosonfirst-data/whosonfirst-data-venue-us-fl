@@ -2,9 +2,14 @@
   "id": 286545013,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 Royal Poinciana Way Palm Beach FL 33480",
+    "addr:housenumber":"302",
+    "addr:postcode":"33480",
+    "addr:street":"Royal Poinciana Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.042806,26.718054,-80.042806,26.718054",
     "geom:latitude":26.718054,
     "geom:longitude":-80.042806,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d99381178a1d8cc0bc899d7e4a978d2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286545013,
-    "wof:lastmodified":1466434559,
+    "wof:lastmodified":1491899617,
     "wof:name":"Innkeepers Hopspitality",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

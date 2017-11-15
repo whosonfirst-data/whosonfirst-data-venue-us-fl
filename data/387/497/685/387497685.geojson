@@ -2,9 +2,14 @@
   "id": 387497685,
   "type": "Feature",
   "properties": {
+    "addr:full":"744 Spring West Rd Orlando FL 32818",
+    "addr:housenumber":"744",
+    "addr:postcode":"32818",
+    "addr:street":"Spring West Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.471896,28.553072,-81.471896,28.553072",
     "geom:latitude":28.553072,
     "geom:longitude":-81.471896,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f57449b97874b54793c75c67c0502497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387497685,
-    "wof:lastmodified":1466446320,
+    "wof:lastmodified":1491934999,
     "wof:name":"Misty Oaks",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269621015,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Wall St Orlando FL 32801",
+    "addr:housenumber":"27",
+    "addr:postcode":"32801",
+    "addr:street":"Wall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.378598,28.5427,-81.378598,28.5427",
     "geom:latitude":28.5427,
     "geom:longitude":-81.378598,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"fabb1cd0314044dbde52cfc3c9d8cf29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":269621015
         }
     ],
     "wof:id":269621015,
-    "wof:lastmodified":1466430953,
+    "wof:lastmodified":1491924979,
     "wof:name":"Globe",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

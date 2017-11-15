@@ -2,9 +2,14 @@
   "id": 403831237,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"426",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208452,25.769101,-80.208452,25.769101",
     "geom:latitude":25.769101,
     "geom:longitude":-80.208452,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d730b2128ad2d8222873ebc7fc6fc044",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403831237,
-    "wof:lastmodified":1466441638,
+    "wof:lastmodified":1491906058,
     "wof:name":"Mercury Investments Group",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

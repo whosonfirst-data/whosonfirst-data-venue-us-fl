@@ -2,9 +2,14 @@
   "id": 186108023,
   "type": "Feature",
   "properties": {
+    "addr:full":"5938 Appaloosa Way Orlando FL 32822",
+    "addr:housenumber":"5938",
+    "addr:postcode":"32822",
+    "addr:street":"Appaloosa Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.30398,28.523268,-81.30398,28.523268",
     "geom:latitude":28.523268,
     "geom:longitude":-81.30398,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9d136203f86e82cfa91f2078093816bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186108023,
-    "wof:lastmodified":1466445710,
+    "wof:lastmodified":1491901773,
     "wof:name":"Houston Overseas Imports",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

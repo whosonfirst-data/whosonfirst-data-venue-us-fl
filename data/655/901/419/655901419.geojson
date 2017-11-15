@@ -2,9 +2,14 @@
   "id": 655901419,
   "type": "Feature",
   "properties": {
+    "addr:full":"1443 Lamia Ct Orlando FL 32822",
+    "addr:housenumber":"1443",
+    "addr:postcode":"32822",
+    "addr:street":"Lamia Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.283951,28.527503,-81.283951,28.527503",
     "geom:latitude":28.527503,
     "geom:longitude":-81.283951,
@@ -27,9 +32,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":655901419
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":655901419
         }
     ],
     "wof:id":655901419,
-    "wof:lastmodified":1466448047,
+    "wof:lastmodified":1491901274,
     "wof:name":"DJS Marketing By Donna En",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

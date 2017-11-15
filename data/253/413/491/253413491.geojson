@@ -2,9 +2,14 @@
   "id": 253413491,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"628",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057795,26.699311,-80.057795,26.699311",
     "geom:latitude":26.699311,
     "geom:longitude":-80.057795,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3ef44b85ebb5ca6dc39428a5260b05cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253413491,
-    "wof:lastmodified":1466434099,
+    "wof:lastmodified":1491921825,
     "wof:name":"Dustin Holcombe Janitorial",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

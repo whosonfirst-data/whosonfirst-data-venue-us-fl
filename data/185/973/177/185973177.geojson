@@ -2,9 +2,14 @@
   "id": 185973177,
   "type": "Feature",
   "properties": {
+    "addr:full":"5404 W Cypress St Tampa FL 33607",
+    "addr:housenumber":"5404",
+    "addr:postcode":"33607",
+    "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.536414,27.95236,-82.536414,27.95236",
     "geom:latitude":27.95236,
     "geom:longitude":-82.536414,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f476fe21573e4c1f1220c3e11486f0ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":185973177,
-    "wof:lastmodified":1466430766,
+    "wof:lastmodified":1491925154,
     "wof:name":"Onsite Companies",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

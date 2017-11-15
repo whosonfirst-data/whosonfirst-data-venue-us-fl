@@ -2,9 +2,14 @@
   "id": 219896179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2730 16th St N St Petersburg FL 33704",
+    "addr:housenumber":"2730",
+    "addr:postcode":"33704",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.65502,27.797217,-82.65502,27.797217",
     "geom:latitude":27.797217,
     "geom:longitude":-82.65502,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c0e8e14cbd4b8e87fc461172473fbb4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219896179,
-    "wof:lastmodified":1466436774,
+    "wof:lastmodified":1491922164,
     "wof:name":"Song Salon",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

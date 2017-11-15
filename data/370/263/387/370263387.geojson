@@ -2,9 +2,14 @@
   "id": 370263387,
   "type": "Feature",
   "properties": {
+    "addr:full":"667 W Dayton Cir Fort Lauderdale FL 33312",
+    "addr:housenumber":"667",
+    "addr:postcode":"33312",
+    "addr:street":"W Dayton Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.194922,26.110219,-80.194922,26.110219",
     "geom:latitude":26.110219,
     "geom:longitude":-80.194922,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ae7eb370a80b1238ce4921293cac4101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370263387,
-    "wof:lastmodified":1466438214,
+    "wof:lastmodified":1491916244,
     "wof:name":"Zoe' Life Christian Ctr",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

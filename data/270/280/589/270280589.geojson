@@ -2,9 +2,14 @@
   "id": 270280589,
   "type": "Feature",
   "properties": {
+    "addr:full":"5310 Cypress Center Dr Tampa FL 33609",
+    "addr:housenumber":"5310",
+    "addr:postcode":"33609",
+    "addr:street":"Cypress Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.536376,27.950372,-82.536376,27.950372",
     "geom:latitude":27.950372,
     "geom:longitude":-82.536376,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0d594e62d69912c5c97c7de388568828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":270280589,
-    "wof:lastmodified":1466434255,
+    "wof:lastmodified":1491925146,
     "wof:name":"Bio Delivery Sciences Intl",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

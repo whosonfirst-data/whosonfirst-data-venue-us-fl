@@ -2,9 +2,14 @@
   "id": 387130493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 4th St N Saint Petersburg FL 33704",
+    "addr:housenumber":"1425",
+    "addr:postcode":"33704",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638442,27.786519,-82.638442,27.786519",
     "geom:latitude":27.786519,
     "geom:longitude":-82.638442,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -45,7 +51,7 @@
     "wof:geomhash":"7d4d3f379c663245e70e9d2e73736d1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":387130493,
-    "wof:lastmodified":1466440715,
+    "wof:lastmodified":1491901206,
     "wof:name":"Lasting Impressions HM Gallery",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

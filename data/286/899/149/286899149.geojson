@@ -2,9 +2,14 @@
   "id": 286899149,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 16th St N St Petersburg FL 33704",
+    "addr:housenumber":"3011",
+    "addr:postcode":"33704",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.65487,27.799849,-82.65487,27.799849",
     "geom:latitude":27.799849,
     "geom:longitude":-82.65487,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2731e93f46f955573b60563204f07362",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286899149,
-    "wof:lastmodified":1466440878,
+    "wof:lastmodified":1491922162,
     "wof:name":"Garage Sale Store",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

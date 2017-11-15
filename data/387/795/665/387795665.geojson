@@ -2,9 +2,14 @@
   "id": 387795665,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 E Harding St Orlando FL 32806",
+    "addr:housenumber":"1205",
+    "addr:postcode":"32806",
+    "addr:street":"E Harding St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.36397,28.518626,-81.36397,28.518626",
     "geom:latitude":28.518626,
     "geom:longitude":-81.36397,
@@ -32,7 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -44,17 +51,17 @@
     "wof:geomhash":"3f6287074786f5b7d9c7da07847e76f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":387795665
         }
     ],
     "wof:id":387795665,
-    "wof:lastmodified":1466448820,
+    "wof:lastmodified":1491930968,
     "wof:name":"McElroy AC",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

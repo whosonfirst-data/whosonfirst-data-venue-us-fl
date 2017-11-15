@@ -2,9 +2,14 @@
   "id": 639396209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 28th St N St Petersburg FL 33713",
+    "addr:housenumber":"2100",
+    "addr:postcode":"33713",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.671318,27.791825,-82.671318,27.791825",
     "geom:latitude":27.791825,
     "geom:longitude":-82.671318,
@@ -37,7 +42,8 @@
         85633793,
         85931833,
         102085759,
-        85880553
+        85880553,
+        85880559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,21 @@
             "neighbourhood_id":85880553,
             "region_id":85688651,
             "venue_id":639396209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85880559,
+            "region_id":85688651,
+            "venue_id":639396209
         }
     ],
     "wof:id":639396209,
-    "wof:lastmodified":1466458145,
+    "wof:lastmodified":1491896307,
     "wof:name":"C & R Decorative Surfaces Inc",
-    "wof:parent_id":85880553,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

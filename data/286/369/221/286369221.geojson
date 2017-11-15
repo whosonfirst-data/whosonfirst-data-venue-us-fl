@@ -2,9 +2,14 @@
   "id": 286369221,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Driver Ave Winter Park FL 32789",
+    "addr:housenumber":"616",
+    "addr:postcode":"32789",
+    "addr:street":"Driver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.384535,28.592643,-81.384535,28.592643",
     "geom:latitude":28.592643,
     "geom:longitude":-81.384535,
@@ -35,8 +40,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933091,
+        85935283,
         102085847,
         85889319
     ],
@@ -48,17 +54,17 @@
     "wof:geomhash":"cbd2a09676b9dc75f7ddf47b449b29aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933091,
+            "locality_id":85935283,
             "neighbourhood_id":85889319,
             "region_id":85688651,
             "venue_id":286369221
         }
     ],
     "wof:id":286369221,
-    "wof:lastmodified":1466431521,
+    "wof:lastmodified":1491917524,
     "wof:name":"Resurrection House Inc",
     "wof:parent_id":85889319,
     "wof:placetype":"venue",

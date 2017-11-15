@@ -2,9 +2,14 @@
   "id": 270386215,
   "type": "Feature",
   "properties": {
+    "addr:full":"847 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"847",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.20803,25.765457,-80.20803,25.765457",
     "geom:latitude":25.765457,
     "geom:longitude":-80.20803,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -49,7 +55,7 @@
     "wof:geomhash":"b3471f49a848e86b9e0c606cbefe056e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":270386215,
-    "wof:lastmodified":1466436063,
+    "wof:lastmodified":1491906081,
     "wof:name":"Nick's Auto Broker",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

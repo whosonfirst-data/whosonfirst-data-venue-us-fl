@@ -2,9 +2,14 @@
   "id": 387062421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3402 S Dale Mabry Hwy Tampa FL 33629",
+    "addr:housenumber":"3402",
+    "addr:postcode":"33629",
+    "addr:street":"S Dale Mabry Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.506069,27.913286,-82.506069,27.913286",
     "geom:latitude":27.913286,
     "geom:longitude":-82.506069,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
-        102085773
+        102085773,
+        420559573,
+        85889733
     ],
     "wof:brand_id":420573835,
     "wof:breaches":[],
@@ -44,19 +52,28 @@
     "wof:geomhash":"6db1eaac2f89c12029699e7c22785ee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559573,
+            "region_id":85688651,
+            "venue_id":387062421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85889733,
             "region_id":85688651,
             "venue_id":387062421
         }
     ],
     "wof:id":387062421,
-    "wof:lastmodified":1466439667,
+    "wof:lastmodified":1491939099,
     "wof:name":"Advance America",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

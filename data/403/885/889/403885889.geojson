@@ -2,9 +2,14 @@
   "id": 403885889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 NW 12th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"2200",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158335,26.154774,-80.158335,26.154774",
     "geom:latitude":26.154774,
     "geom:longitude":-80.158335,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d5c31e7dafceb94d400961c489e87eca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403885889,
-    "wof:lastmodified":1466442508,
+    "wof:lastmodified":1491904194,
     "wof:name":"Eglise Baptist Bethanie",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

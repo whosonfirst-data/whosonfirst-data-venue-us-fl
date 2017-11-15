@@ -2,9 +2,14 @@
   "id": 202669755,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Okaloosa Ave Orlando FL 32822",
+    "addr:housenumber":"811",
+    "addr:postcode":"32822",
+    "addr:street":"Okaloosa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.281892,28.532328,-81.281892,28.532328",
     "geom:latitude":28.532328,
     "geom:longitude":-81.281892,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +47,24 @@
     "wof:geomhash":"c2e30fe2abaccf03f8766e04ccd6d8a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":202669755
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":202669755
         }
     ],
     "wof:id":202669755,
-    "wof:lastmodified":1466430595,
+    "wof:lastmodified":1491901273,
     "wof:name":"Orlando Exotic Reptiles & Sup",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

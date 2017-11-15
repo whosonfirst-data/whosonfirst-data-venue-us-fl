@@ -2,9 +2,14 @@
   "id": 639300569,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 SW 31st St Fort Lauderdale FL 33312",
+    "addr:housenumber":"2601",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.17633,26.083783,-80.17633,26.083783",
     "geom:latitude":26.083783,
     "geom:longitude":-80.17633,
@@ -30,7 +35,8 @@
         85633793,
         85932411,
         102084727,
-        85877515
+        85877515,
+        85877499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,19 @@
             "neighbourhood_id":85877515,
             "region_id":85688651,
             "venue_id":639300569
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084727,
+            "neighbourhood_id":85877499,
+            "region_id":85688651,
+            "venue_id":639300569
         }
     ],
     "wof:id":639300569,
-    "wof:lastmodified":1466456041,
+    "wof:lastmodified":1491924482,
     "wof:name":"Garden of Love South Florida",
-    "wof:parent_id":85877515,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

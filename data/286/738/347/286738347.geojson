@@ -2,9 +2,14 @@
   "id": 286738347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 W Henry Ave Tampa FL 33604",
+    "addr:housenumber":"1020",
+    "addr:postcode":"33604",
+    "addr:street":"W Henry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.472654,27.999708,-82.472654,27.999708",
     "geom:latitude":27.999708,
     "geom:longitude":-82.472654,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"091cf4cff1979e360eb8aba5e7ee4037",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286738347,
-    "wof:lastmodified":1466438036,
+    "wof:lastmodified":1491912576,
     "wof:name":"Pressure Washing and Lawncare",
     "wof:parent_id":85873245,
     "wof:placetype":"venue",

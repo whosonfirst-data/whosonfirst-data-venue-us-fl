@@ -2,9 +2,14 @@
   "id": 320254505,
   "type": "Feature",
   "properties": {
+    "addr:full":"528 Daniels Ave Orlando FL 32801",
+    "addr:housenumber":"528",
+    "addr:postcode":"32801",
+    "addr:street":"Daniels Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.367299,28.535388,-81.367299,28.535388",
     "geom:latitude":28.535388,
     "geom:longitude":-81.367299,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"300108027012adbead5d85274b3cdf80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320254505,
-    "wof:lastmodified":1466437756,
+    "wof:lastmodified":1491905852,
     "wof:name":"Anthony Siarkiewicz",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

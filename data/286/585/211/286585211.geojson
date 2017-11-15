@@ -2,9 +2,14 @@
   "id": 286585211,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 Woodlawn Cir E Saint Petersburg FL 33704",
+    "addr:housenumber":"2433",
+    "addr:postcode":"33704",
+    "addr:street":"Woodlawn Cir E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.651662,27.794962,-82.651662,27.794962",
     "geom:latitude":27.794962,
     "geom:longitude":-82.651662,
@@ -29,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
-        102085759
+        102085759,
+        85880545,
+        420516035,
+        420516097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,37 @@
     "wof:geomhash":"7ddd96afbed7b49acb47bf335e36d861",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880545,
+            "region_id":85688651,
+            "venue_id":286585211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":420516035,
+            "region_id":85688651,
+            "venue_id":286585211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":420516097,
             "region_id":85688651,
             "venue_id":286585211
         }
     ],
     "wof:id":286585211,
-    "wof:lastmodified":1466435279,
+    "wof:lastmodified":1491922164,
     "wof:name":"Rolfes Financial Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

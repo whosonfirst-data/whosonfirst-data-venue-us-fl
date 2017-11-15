@@ -2,9 +2,14 @@
   "id": 186134343,
   "type": "Feature",
   "properties": {
+    "addr:full":"3003 W Harbor View Ave Tampa FL 33611",
+    "addr:housenumber":"3003",
+    "addr:postcode":"33611",
+    "addr:street":"W Harbor View Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.491739,27.902374,-82.491739,27.902374",
     "geom:latitude":27.902374,
     "geom:longitude":-82.491739,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"aaee4e68f491752c5f89733e9f5f10b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186134343,
-    "wof:lastmodified":1466446168,
+    "wof:lastmodified":1491927238,
     "wof:name":"FLW Preservation Design",
     "wof:parent_id":85873199,
     "wof:placetype":"venue",

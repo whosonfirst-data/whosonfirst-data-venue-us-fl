@@ -2,9 +2,14 @@
   "id": 370342655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 SW 22nd St Coral Gables FL 33145",
+    "addr:housenumber":"1740",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.223276,25.750758,-80.223276,25.750758",
     "geom:latitude":25.750758,
     "geom:longitude":-80.223276,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"87a5bbc60e138164308e8c04bd6c5bc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370342655,
-    "wof:lastmodified":1466439406,
+    "wof:lastmodified":1491887615,
     "wof:name":"City Intl Real Estate",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

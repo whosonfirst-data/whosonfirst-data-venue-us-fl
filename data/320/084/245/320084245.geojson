@@ -2,9 +2,14 @@
   "id": 320084245,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Arthur Godfrey Rd Miami Beach FL 33140",
+    "addr:housenumber":"801",
+    "addr:postcode":"33140",
+    "addr:street":"Arthur Godfrey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.134159,25.813661,-80.134159,25.813661",
     "geom:latitude":25.813661,
     "geom:longitude":-80.134159,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897,
-        85933671,
         85878923
     ],
     "wof:breaches":[],
@@ -44,16 +50,16 @@
     "wof:geomhash":"9320a82431bccc4cbe376e550f9d5cf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":320084245
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":320084245,
-    "wof:lastmodified":1466434817,
+    "wof:lastmodified":1491903621,
     "wof:name":"141 St Shopping Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

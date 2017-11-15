@@ -2,9 +2,14 @@
   "id": 286623389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2708 Broadway West Palm Beach FL 33407",
+    "addr:housenumber":"2708",
+    "addr:postcode":"33407",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.0567,26.73806,-80.0567,26.73806",
     "geom:latitude":26.73806,
     "geom:longitude":-80.0567,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"b48aecb3e68657cd386f8ff4a8a7ca30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":286623389,
-    "wof:lastmodified":1466435957,
+    "wof:lastmodified":1491899775,
     "wof:name":"Tropical Palm ALF",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

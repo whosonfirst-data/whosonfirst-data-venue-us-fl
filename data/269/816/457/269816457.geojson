@@ -2,9 +2,14 @@
   "id": 269816457,
   "type": "Feature",
   "properties": {
+    "addr:full":"921 32nd Ave N St Petersburg FL 33704",
+    "addr:housenumber":"921",
+    "addr:postcode":"33704",
+    "addr:street":"32Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.647614,27.801247,-82.647614,27.801247",
     "geom:latitude":27.801247,
     "geom:longitude":-82.647614,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5fe777f6282d60604e8fc4311d0c82df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269816457,
-    "wof:lastmodified":1466434395,
+    "wof:lastmodified":1491922161,
     "wof:name":"Market Portals Inc",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

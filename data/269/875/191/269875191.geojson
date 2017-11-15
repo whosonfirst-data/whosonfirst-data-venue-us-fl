@@ -2,9 +2,14 @@
   "id": 269875191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Bimini Dr Orlando FL 32806",
+    "addr:housenumber":"1801",
+    "addr:postcode":"32806",
+    "addr:street":"Bimini Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.357965,28.529149,-81.357965,28.529149",
     "geom:latitude":28.529149,
     "geom:longitude":-81.357965,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5ed26cbc376c9c9eae786747a42d6a58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269875191,
-    "wof:lastmodified":1466435391,
+    "wof:lastmodified":1491905853,
     "wof:name":"Norris Assoc Thracic Cardiovas",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

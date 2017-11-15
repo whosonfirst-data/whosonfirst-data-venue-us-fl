@@ -2,9 +2,14 @@
   "id": 303470763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 W Gore St Orlando FL 32805",
+    "addr:housenumber":"1231",
+    "addr:postcode":"32805",
+    "addr:street":"W Gore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.396524,28.531198,-81.396524,28.531198",
     "geom:latitude":28.531198,
     "geom:longitude":-81.396524,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0de98ee430ea0b351b7914e4e351a22c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303470763,
-    "wof:lastmodified":1466438661,
+    "wof:lastmodified":1491911391,
     "wof:name":"Atlantic Automotive Warehouse",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

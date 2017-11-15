@@ -2,9 +2,14 @@
   "id": 304011219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2860 N Federal Hwy Fort Lauderdale FL 33306",
+    "addr:housenumber":"2860",
+    "addr:postcode":"33306",
+    "addr:street":"N Federal Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.116139,26.161734,-80.116139,26.161734",
     "geom:latitude":26.161734,
     "geom:longitude":-80.116139,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"347632d09a2ec89c25c9f9839eb02d0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":304011219
         }
     ],
     "wof:id":304011219,
-    "wof:lastmodified":1466432001,
+    "wof:lastmodified":1491905129,
     "wof:name":"European Living",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

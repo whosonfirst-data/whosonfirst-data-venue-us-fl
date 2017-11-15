@@ -2,9 +2,14 @@
   "id": 354059871,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 W Tampa Bay Blvd Tampa FL 33607",
+    "addr:housenumber":"3405",
+    "addr:postcode":"33607",
+    "addr:street":"W Tampa Bay Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.498992,27.9741,-82.498992,27.9741",
     "geom:latitude":27.9741,
     "geom:longitude":-82.498992,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b5fb7061c884baefe7111b3ba7d60b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354059871,
-    "wof:lastmodified":1466436999,
+    "wof:lastmodified":1491899773,
     "wof:name":"NCRC",
     "wof:parent_id":85889715,
     "wof:placetype":"venue",

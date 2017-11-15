@@ -2,9 +2,14 @@
   "id": 236939141,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 14th St S St Petersburg FL 33705",
+    "addr:housenumber":"601",
+    "addr:postcode":"33705",
+    "addr:street":"14Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.652837,27.763294,-82.652837,27.763294",
     "geom:latitude":27.763294,
     "geom:longitude":-82.652837,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"56990903a6759cfa04f3d0493651f839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236939141,
-    "wof:lastmodified":1466441768,
+    "wof:lastmodified":1491912874,
     "wof:name":"Campbell Park Ctr",
     "wof:parent_id":85889537,
     "wof:placetype":"venue",

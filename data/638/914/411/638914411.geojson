@@ -2,9 +2,14 @@
   "id": 638914411,
   "type": "Feature",
   "properties": {
+    "addr:full":"8124 Curry Ford Rd Orlando FL 32822",
+    "addr:housenumber":"8124",
+    "addr:postcode":"32822",
+    "addr:street":"Curry Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.272995,28.509903,-81.272995,28.509903",
     "geom:latitude":28.509903,
     "geom:longitude":-81.272995,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":638914411
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":638914411
         }
     ],
     "wof:id":638914411,
-    "wof:lastmodified":1466455692,
+    "wof:lastmodified":1491901276,
     "wof:name":"William A Lamb Handyman Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

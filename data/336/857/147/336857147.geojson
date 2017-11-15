@@ -2,9 +2,14 @@
   "id": 336857147,
   "type": "Feature",
   "properties": {
+    "addr:full":"3541 W Broward Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3541",
+    "addr:postcode":"33312",
+    "addr:street":"W Broward Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.194823,26.121125,-80.194823,26.121125",
     "geom:latitude":26.121125,
     "geom:longitude":-80.194823,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bf6493b80e9791d5edde7e0f9b44b26e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336857147,
-    "wof:lastmodified":1466439467,
+    "wof:lastmodified":1491916227,
     "wof:name":"Revival Faith Center",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

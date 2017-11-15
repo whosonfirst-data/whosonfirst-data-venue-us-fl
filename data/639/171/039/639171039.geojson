@@ -2,9 +2,14 @@
   "id": 639171039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2374 Monaco Cove Cir Orlando FL 32825",
+    "addr:housenumber":"2374",
+    "addr:postcode":"32825",
+    "addr:street":"Monaco Cove Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.262877,28.514467,-81.262877,28.514467",
     "geom:latitude":28.514467,
     "geom:longitude":-81.262877,
@@ -31,12 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
-        85633793,
-        85879531,
-        102085847,
         102191575,
+        85633793,
         85935197,
-        420515549
+        102085847,
+        420515549,
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +52,6 @@
     "wof:geomhash":"f4c12b3671ccc37c9e60e2fb9ff47d42",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085847,
-            "neighbourhood_id":85879531,
-            "region_id":85688651,
-            "venue_id":639171039
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
@@ -61,12 +59,19 @@
             "neighbourhood_id":420515549,
             "region_id":85688651,
             "venue_id":639171039
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085847,
+            "neighbourhood_id":85879531,
+            "region_id":85688651,
+            "venue_id":639171039
         }
     ],
     "wof:id":639171039,
-    "wof:lastmodified":1466451576,
+    "wof:lastmodified":1491901276,
     "wof:name":"Os Trucking Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

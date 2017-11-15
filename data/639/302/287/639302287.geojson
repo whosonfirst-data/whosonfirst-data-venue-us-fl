@@ -2,9 +2,14 @@
   "id": 639302287,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 SW 34th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"220",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.13965,26.081463,-80.13965,26.081463",
     "geom:latitude":26.081463,
     "geom:longitude":-80.13965,
@@ -34,7 +39,8 @@
         85633793,
         85932397,
         102084727,
-        85877517
+        85877517,
+        85877499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +58,19 @@
             "neighbourhood_id":85877517,
             "region_id":85688651,
             "venue_id":639302287
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084727,
+            "neighbourhood_id":85877499,
+            "region_id":85688651,
+            "venue_id":639302287
         }
     ],
     "wof:id":639302287,
-    "wof:lastmodified":1466456096,
+    "wof:lastmodified":1491924497,
     "wof:name":"Lsg Sky Chefs Inc",
-    "wof:parent_id":85877517,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

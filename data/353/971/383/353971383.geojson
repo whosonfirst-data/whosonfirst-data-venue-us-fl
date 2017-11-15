@@ -2,9 +2,14 @@
   "id": 353971383,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 NE 22nd St Miami FL 33137",
+    "addr:housenumber":"120",
+    "addr:postcode":"33137",
+    "addr:street":"Ne 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.192302,25.797952,-80.192302,25.797952",
     "geom:latitude":25.797952,
     "geom:longitude":-80.192302,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ebba5f39e60e8de91eb3431272112d4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353971383,
-    "wof:lastmodified":1466443547,
+    "wof:lastmodified":1491921176,
     "wof:name":"Km Construction",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 370736269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1518 E Muriel St Orlando FL 32806",
+    "addr:housenumber":"1518",
+    "addr:postcode":"32806",
+    "addr:street":"E Muriel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.361017,28.517295,-81.361017,28.517295",
     "geom:latitude":28.517295,
     "geom:longitude":-81.361017,
@@ -29,7 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -41,17 +48,17 @@
     "wof:geomhash":"664050488093638dadcff49edd1c49e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":370736269
         }
     ],
     "wof:id":370736269,
-    "wof:lastmodified":1466445455,
+    "wof:lastmodified":1491930970,
     "wof:name":"Korean Catholic Church",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219901645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3263 W Broward Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3263",
+    "addr:postcode":"33312",
+    "addr:street":"W Broward Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.189024,26.121261,-80.189024,26.121261",
     "geom:latitude":26.121261,
     "geom:longitude":-80.189024,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bda7d536862d52d9b9c630890e4c9f7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219901645,
-    "wof:lastmodified":1466436849,
+    "wof:lastmodified":1491916240,
     "wof:name":"Hope Thrift Store",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

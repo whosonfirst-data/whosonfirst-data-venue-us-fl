@@ -2,9 +2,14 @@
   "id": 404110491,
   "type": "Feature",
   "properties": {
+    "addr:full":"3027 11th St N St Petersburg FL 33704",
+    "addr:housenumber":"3027",
+    "addr:postcode":"33704",
+    "addr:street":"11Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.649796,27.800928,-82.649796,27.800928",
     "geom:latitude":27.800928,
     "geom:longitude":-82.649796,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4e9b9a118f86ccbe742d736743cc7de5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":404110491,
-    "wof:lastmodified":1466441948,
+    "wof:lastmodified":1491922164,
     "wof:name":"Professional Environmental",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

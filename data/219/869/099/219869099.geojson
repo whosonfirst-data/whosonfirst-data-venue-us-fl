@@ -2,9 +2,14 @@
   "id": 219869099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 8th St SE Miami FL 33135",
+    "addr:housenumber":"1333",
+    "addr:postcode":"33135",
+    "addr:street":"8Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.217802,25.765777,-80.217802,25.765777",
     "geom:latitude":25.765777,
     "geom:longitude":-80.217802,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d7d5b800266b8f9f7e3748f690a6d530",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219869099,
-    "wof:lastmodified":1466436406,
+    "wof:lastmodified":1491936012,
     "wof:name":"Pedro Dollar Store Corp",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

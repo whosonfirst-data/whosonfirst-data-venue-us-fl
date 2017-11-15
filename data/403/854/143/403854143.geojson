@@ -2,9 +2,14 @@
   "id": 403854143,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 SW 38th Ter Fort Lauderdale FL 33312",
+    "addr:housenumber":"311",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 38Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.200428,26.117106,-80.200428,26.117106",
     "geom:latitude":26.117106,
     "geom:longitude":-80.200428,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"df434f712007ade4cc2eb341adff1f60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403854143,
-    "wof:lastmodified":1466442020,
+    "wof:lastmodified":1491916249,
     "wof:name":"New Horizon Construction",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 656171621,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 Arthur Godfrey Rd Ste 120 Miami Beach FL 33140",
+    "addr:housenumber":"960",
+    "addr:postcode":"33140",
+    "addr:street":"Arthur Godfrey Rd Ste 120",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.1353,25.8132,-80.1353,25.8132",
     "geom:latitude":25.8132,
     "geom:longitude":-80.1353,
@@ -30,8 +35,8 @@
         85633793,
         85933671,
         102085771,
-        85878923,
-        85804897
+        85804897,
+        85878923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85878923,
+            "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":656171621
         },
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85804897,
+            "neighbourhood_id":85878923,
             "region_id":85688651,
             "venue_id":656171621
         }
     ],
     "wof:id":656171621,
-    "wof:lastmodified":1466457337,
+    "wof:lastmodified":1491903579,
     "wof:name":"All About Health Chiropractic Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

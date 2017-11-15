@@ -2,9 +2,14 @@
   "id": 270104207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 SE 4th Ave Fort Lauderdale FL 33316",
+    "addr:housenumber":"1107",
+    "addr:postcode":"33316",
+    "addr:street":"Se 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.139068,26.108799,-80.139068,26.108799",
     "geom:latitude":26.108799,
     "geom:longitude":-80.139068,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"536bbf03c1a1461ffb9c42c4c08df2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270104207,
-    "wof:lastmodified":1466431221,
+    "wof:lastmodified":1491936866,
     "wof:name":"James B Boone",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

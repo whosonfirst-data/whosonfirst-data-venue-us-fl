@@ -2,9 +2,14 @@
   "id": 286492733,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 SW Monroe Cir N St Petersburg FL 33703",
+    "addr:housenumber":"152",
+    "addr:postcode":"33703",
+    "addr:street":"Sw Monroe Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.641184,27.8259,-82.641184,27.8259",
     "geom:latitude":27.8259,
     "geom:longitude":-82.641184,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4efd6597481b5ee47747cc859604cb31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286492733,
-    "wof:lastmodified":1466433647,
+    "wof:lastmodified":1491913783,
     "wof:name":"Bizmin Associate",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

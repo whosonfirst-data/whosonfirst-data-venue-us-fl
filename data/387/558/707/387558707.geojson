@@ -2,9 +2,14 @@
   "id": 387558707,
   "type": "Feature",
   "properties": {
+    "addr:full":"1706 E 11th Ave Tampa FL 33605",
+    "addr:housenumber":"1706",
+    "addr:postcode":"33605",
+    "addr:street":"E 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.439294,27.963208,-82.439294,27.963208",
     "geom:latitude":27.963208,
     "geom:longitude":-82.439294,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f3eb3200f55a2afc943d0bef54ff0728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387558707,
-    "wof:lastmodified":1466446880,
+    "wof:lastmodified":1491933570,
     "wof:name":"Cursillo Catholic Ctr",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",

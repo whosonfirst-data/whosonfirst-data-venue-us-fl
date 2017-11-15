@@ -2,9 +2,14 @@
   "id": 270526127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2310 E Oakland Park Blvd Fort Lauderdale FL 33306",
+    "addr:housenumber":"2310",
+    "addr:postcode":"33306",
+    "addr:street":"E Oakland Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.115258,26.167228,-80.115258,26.167228",
     "geom:latitude":26.167228,
     "geom:longitude":-80.115258,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"7a8e249785ef45ab18a4007ed7b00ca5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":270526127
         }
     ],
     "wof:id":270526127,
-    "wof:lastmodified":1466438469,
+    "wof:lastmodified":1491905130,
     "wof:name":"Value Hearing Care",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

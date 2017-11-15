@@ -2,9 +2,14 @@
   "id": 269708741,
   "type": "Feature",
   "properties": {
+    "addr:full":"2333 NE 26th St Fort Lauderdale FL 33305",
+    "addr:housenumber":"2333",
+    "addr:postcode":"33305",
+    "addr:street":"Ne 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.117143,26.15988,-80.117143,26.15988",
     "geom:latitude":26.15988,
     "geom:longitude":-80.117143,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"dc1bfa3bdf70cce7404e5fd8a5fe93fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":269708741
         }
     ],
     "wof:id":269708741,
-    "wof:lastmodified":1466432498,
+    "wof:lastmodified":1491905125,
     "wof:name":"Charlie International",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

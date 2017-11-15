@@ -2,9 +2,14 @@
   "id": 371056569,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 American Way Orlando FL 32819",
+    "addr:housenumber":"5900",
+    "addr:postcode":"32819",
+    "addr:street":"American Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.462535,28.462286,-81.462535,28.462286",
     "geom:latitude":28.462286,
     "geom:longitude":-81.462535,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"1f65f3f218e091d63f8ff5eede065063",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":371056569,
-    "wof:lastmodified":1466438439,
+    "wof:lastmodified":1491884876,
     "wof:name":"Abner Tours",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

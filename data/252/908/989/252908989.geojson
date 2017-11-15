@@ -2,9 +2,14 @@
   "id": 252908989,
   "type": "Feature",
   "properties": {
+    "addr:full":"3934 Riviera Dr Miami FL 33134",
+    "addr:housenumber":"3934",
+    "addr:postcode":"33134",
+    "addr:street":"Riviera Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.264346,25.734811,-80.264346,25.734811",
     "geom:latitude":25.734811,
     "geom:longitude":-80.264346,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"8f2263201fa9ed87e4f69c24e421926d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":252908989
         }
     ],
     "wof:id":252908989,
-    "wof:lastmodified":1466431334,
+    "wof:lastmodified":1491901682,
     "wof:name":"Michael of Miami Landscaping",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

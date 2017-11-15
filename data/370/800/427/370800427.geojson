@@ -2,9 +2,14 @@
   "id": 370800427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5060 4th St N St Petersburg FL 33703",
+    "addr:housenumber":"5060",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638735,27.81793,-82.638735,27.81793",
     "geom:latitude":27.81793,
     "geom:longitude":-82.638735,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab9ef80f0dfaafed446844a14be1900f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370800427,
-    "wof:lastmodified":1466446389,
+    "wof:lastmodified":1491913777,
     "wof:name":"Bucks Stuff",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270022439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1498 N Buena Vista Ave Orlando FL 32818",
+    "addr:housenumber":"1498",
+    "addr:postcode":"32818",
+    "addr:street":"N Buena Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.469704,28.557513,-81.469704,28.557513",
     "geom:latitude":28.557513,
     "geom:longitude":-81.469704,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dfc0cb8f7d637a0b991d027b635a7141",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270022439,
-    "wof:lastmodified":1466429836,
+    "wof:lastmodified":1491934994,
     "wof:name":"Bongos Cuban Cafe Inc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

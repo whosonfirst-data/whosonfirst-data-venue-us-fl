@@ -2,9 +2,14 @@
   "id": 336696663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2118 W Cass St Tampa FL 33606",
+    "addr:housenumber":"2118",
+    "addr:postcode":"33606",
+    "addr:street":"W Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.482651,27.949811,-82.482651,27.949811",
     "geom:latitude":27.949811,
     "geom:longitude":-82.482651,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"31875e2b729479f2044984cf151fbc71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336696663,
-    "wof:lastmodified":1466436657,
+    "wof:lastmodified":1491934209,
     "wof:name":"Kilgore Real Estate Inc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

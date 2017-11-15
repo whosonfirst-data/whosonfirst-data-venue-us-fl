@@ -2,9 +2,14 @@
   "id": 220123861,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"531",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208272,25.768175,-80.208272,25.768175",
     "geom:latitude":25.768175,
     "geom:longitude":-80.208272,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a598048762192192c31adac3603736e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":220123861,
-    "wof:lastmodified":1466428550,
+    "wof:lastmodified":1491906076,
     "wof:name":"Excellence Communications",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

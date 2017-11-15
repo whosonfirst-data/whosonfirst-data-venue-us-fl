@@ -2,9 +2,14 @@
   "id": 252880619,
   "type": "Feature",
   "properties": {
+    "addr:full":"5531 9th St N St Petersburg FL 33703",
+    "addr:housenumber":"5531",
+    "addr:postcode":"33703",
+    "addr:street":"9Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646772,27.822725,-82.646772,27.822725",
     "geom:latitude":27.822725,
     "geom:longitude":-82.646772,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bf32846ba68aff1489e71c9fd0a6f284",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":252880619,
-    "wof:lastmodified":1466430908,
+    "wof:lastmodified":1491913782,
     "wof:name":"Bob Hogue School-Real Estate",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

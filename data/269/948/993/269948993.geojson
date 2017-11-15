@@ -2,9 +2,14 @@
   "id": 269948993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5840 W Cypress St Tampa FL 33607",
+    "addr:housenumber":"5840",
+    "addr:postcode":"33607",
+    "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.53792,27.95237,-82.53792,27.95237",
     "geom:latitude":27.95237,
     "geom:longitude":-82.53792,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a12ad81a19779bafc8410af60afeee79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269948993,
-    "wof:lastmodified":1466436655,
+    "wof:lastmodified":1491925144,
     "wof:name":"Bell South Security Systems",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

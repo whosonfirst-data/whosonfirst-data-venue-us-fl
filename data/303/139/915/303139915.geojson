@@ -2,9 +2,14 @@
   "id": 303139915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3661 SW 2nd St Fort Lauderdale FL 33312",
+    "addr:housenumber":"3661",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.195276,26.119153,-80.195276,26.119153",
     "geom:latitude":26.119153,
     "geom:longitude":-80.195276,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"54be5892ebb8e09c687d1cfe54b6046b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303139915,
-    "wof:lastmodified":1466432931,
+    "wof:lastmodified":1491916239,
     "wof:name":"South Florida Pest Control",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

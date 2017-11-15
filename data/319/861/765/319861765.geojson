@@ -2,9 +2,14 @@
   "id": 319861765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 N Bumby Ave Orlando FL 32803",
+    "addr:housenumber":"1300",
+    "addr:postcode":"32803",
+    "addr:street":"N Bumby Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.351728,28.565205,-81.351728,28.565205",
     "geom:latitude":28.565205,
     "geom:longitude":-81.351728,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"abbc9135f3ba85371d8ca1589bc7dde2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319861765,
-    "wof:lastmodified":1466433527,
+    "wof:lastmodified":1491921618,
     "wof:name":"Child Evangelism Fellowship",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303329103,
   "type": "Feature",
   "properties": {
+    "addr:full":"4109 S Macdill Ave Tampa FL 33611",
+    "addr:housenumber":"4109",
+    "addr:postcode":"33611",
+    "addr:street":"S Macdill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.493884,27.904198,-82.493884,27.904198",
     "geom:latitude":27.904198,
     "geom:longitude":-82.493884,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"28030acfc0cff528d0354006e5afcce2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303329103,
-    "wof:lastmodified":1466436206,
+    "wof:lastmodified":1491939108,
     "wof:name":"Artful Soul",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

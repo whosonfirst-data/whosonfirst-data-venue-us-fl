@@ -2,9 +2,14 @@
   "id": 403816601,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 W Oak Ridge Rd Orlando FL 32819",
+    "addr:housenumber":"5401",
+    "addr:postcode":"32819",
+    "addr:street":"W Oak Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.447775,28.472135,-81.447775,28.472135",
     "geom:latitude":28.472135,
     "geom:longitude":-81.447775,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7f6978653f4f904289882323f5dc093d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403816601,
-    "wof:lastmodified":1466441394,
+    "wof:lastmodified":1491884844,
     "wof:name":"Elisabeth Outlet",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

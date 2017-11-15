@@ -2,9 +2,14 @@
   "id": 370393067,
   "type": "Feature",
   "properties": {
+    "addr:full":"827 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"827",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208026,25.76526,-80.208026,25.76526",
     "geom:latitude":25.76526,
     "geom:longitude":-80.208026,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8399223df9c9cd758453ade6b1101c28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370393067,
-    "wof:lastmodified":1466440196,
+    "wof:lastmodified":1491906082,
     "wof:name":"LA Medalla Jewelry Store",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

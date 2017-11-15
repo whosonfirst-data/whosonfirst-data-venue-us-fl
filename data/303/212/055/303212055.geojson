@@ -2,9 +2,14 @@
   "id": 303212055,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Via Bethesda Palm Beach FL 33480",
+    "addr:housenumber":"124",
+    "addr:postcode":"33480",
+    "addr:street":"Via Bethesda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.034118,26.711646,-80.034118,26.711646",
     "geom:latitude":26.711646,
     "geom:longitude":-80.034118,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -45,7 +51,7 @@
     "wof:geomhash":"17ccf6d60d3edfcedeab51bcf4292d89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303212055,
-    "wof:lastmodified":1466434200,
+    "wof:lastmodified":1491899650,
     "wof:name":"Mc Intosh Micro",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

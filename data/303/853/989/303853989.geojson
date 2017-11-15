@@ -2,9 +2,14 @@
   "id": 303853989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1327 SW 4th St Miami FL 33135",
+    "addr:housenumber":"1327",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.217512,25.769609,-80.217512,25.769609",
     "geom:latitude":25.769609,
     "geom:longitude":-80.217512,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"36bf09d93adae4c77b1c7ce64dc44557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303853989,
-    "wof:lastmodified":1466445234,
+    "wof:lastmodified":1491935999,
     "wof:name":"Florida Best Painting Corp",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

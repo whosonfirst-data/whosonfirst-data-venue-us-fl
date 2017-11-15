@@ -2,9 +2,14 @@
   "id": 353488871,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 10th St S Saint Petersburg FL 33705",
+    "addr:housenumber":"300",
+    "addr:postcode":"33705",
+    "addr:street":"10Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.64818,27.767101,-82.64818,27.767101",
     "geom:latitude":27.767101,
     "geom:longitude":-82.64818,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
-        102085759
+        102085759,
+        85889537,
+        85881941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"252f1022ca2f7dbc6d8467bf9620ca8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85889537,
+            "region_id":85688651,
+            "venue_id":353488871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85881941,
             "region_id":85688651,
             "venue_id":353488871
         }
     ],
     "wof:id":353488871,
-    "wof:lastmodified":1466435967,
+    "wof:lastmodified":1491912874,
     "wof:name":"Resident Management Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

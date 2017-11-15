@@ -2,9 +2,14 @@
   "id": 336639237,
   "type": "Feature",
   "properties": {
+    "addr:full":"6111 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"6111",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.464477,28.552273,-81.464477,28.552273",
     "geom:latitude":28.552273,
     "geom:longitude":-81.464477,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1d915cd97d5cc47cf40e3c4bbc9d010d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336639237,
-    "wof:lastmodified":1466435659,
+    "wof:lastmodified":1491934986,
     "wof:name":"Hien Restaurant",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

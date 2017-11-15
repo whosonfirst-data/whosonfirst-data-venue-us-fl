@@ -2,9 +2,14 @@
   "id": 236511325,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 SW 27th Ave Fort Lauderdale FL 33312",
+    "addr:housenumber":"701",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.177878,26.111385,-80.177878,26.111385",
     "geom:latitude":26.111385,
     "geom:longitude":-80.177878,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"18f8f4de5e927a94b4dfe5d04a01fc8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":236511325,
-    "wof:lastmodified":1466435625,
+    "wof:lastmodified":1491916249,
     "wof:name":"Master Motor Company Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

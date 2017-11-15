@@ -2,9 +2,14 @@
   "id": 320591355,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 N Rocky Point Dr W Tampa FL 33607",
+    "addr:housenumber":"3030",
+    "addr:postcode":"33607",
+    "addr:street":"N Rocky Point Dr W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.569164,27.96931,-82.569164,27.96931",
     "geom:latitude":27.96931,
     "geom:longitude":-82.569164,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4e3fc8fc2b02aacc4117e3e6b9607e2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320591355,
-    "wof:lastmodified":1466443638,
+    "wof:lastmodified":1491914702,
     "wof:name":"Liberty Home Loans Corp",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

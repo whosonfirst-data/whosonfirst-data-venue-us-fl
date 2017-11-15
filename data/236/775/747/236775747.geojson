@@ -2,9 +2,14 @@
   "id": 236775747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Brickell Ave Miami FL 33129",
+    "addr:housenumber":"1901",
+    "addr:postcode":"33129",
+    "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.197231,25.75489,-80.197231,25.75489",
     "geom:latitude":25.75489,
     "geom:longitude":-80.197231,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1fbf5b76195038a14a5ca2e8d1f33c1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236775747,
-    "wof:lastmodified":1466439507,
+    "wof:lastmodified":1491934929,
     "wof:name":"Ricardo Sayegh",
     "wof:parent_id":85896163,
     "wof:placetype":"venue",

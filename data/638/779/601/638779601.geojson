@@ -2,9 +2,14 @@
   "id": 638779601,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Central Ave Saint Petersburg FL 33701",
+    "addr:housenumber":"733",
+    "addr:postcode":"33701",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.643923,27.771169,-82.643923,27.771169",
     "geom:latitude":27.771169,
     "geom:longitude":-82.643923,
@@ -30,7 +35,8 @@
         85633793,
         85931833,
         102085759,
-        85881941
+        85881941,
+        85889535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":85881941,
             "region_id":85688651,
             "venue_id":638779601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85889535,
+            "region_id":85688651,
+            "venue_id":638779601
         }
     ],
     "wof:id":638779601,
-    "wof:lastmodified":1466451217,
+    "wof:lastmodified":1491933291,
     "wof:name":"Metropltain Chrties Cmnty Svcs",
-    "wof:parent_id":85881941,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

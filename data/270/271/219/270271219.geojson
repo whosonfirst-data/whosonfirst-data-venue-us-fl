@@ -2,9 +2,14 @@
   "id": 270271219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 SW 29th Ter Fort Lauderdale FL 33312",
+    "addr:housenumber":"1641",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 29Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.183256,26.100186,-80.183256,26.100186",
     "geom:latitude":26.100186,
     "geom:longitude":-80.183256,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bbdabd62d10167fa5e32ff21edd9511b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270271219,
-    "wof:lastmodified":1466434104,
+    "wof:lastmodified":1491916245,
     "wof:name":"Universe of Stones Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

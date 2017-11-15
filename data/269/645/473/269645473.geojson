@@ -2,9 +2,14 @@
   "id": 269645473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4925 60th Ave S Saint Petersburg FL 33715",
+    "addr:housenumber":"4925",
+    "addr:postcode":"33715",
+    "addr:street":"60Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.696312,27.712315,-82.696312,27.712315",
     "geom:latitude":27.712315,
     "geom:longitude":-82.696312,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0a034f00a72c91637e986b9809415c0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269645473,
-    "wof:lastmodified":1466431401,
+    "wof:lastmodified":1491915505,
     "wof:name":"Mt Vernon Aparments",
     "wof:parent_id":85880563,
     "wof:placetype":"venue",

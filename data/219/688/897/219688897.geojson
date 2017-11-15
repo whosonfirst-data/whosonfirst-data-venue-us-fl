@@ -2,9 +2,14 @@
   "id": 219688897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 Azalea Way S Saint Petersburg FL 33705",
+    "addr:housenumber":"4605",
+    "addr:postcode":"33705",
+    "addr:street":"Azalea Way S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.640665,27.727359,-82.640665,27.727359",
     "geom:latitude":27.727359,
     "geom:longitude":-82.640665,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -51,7 +57,7 @@
     "wof:geomhash":"e0046e5ef09426ba35e9319d5eb66915",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":219688897,
-    "wof:lastmodified":1466433955,
+    "wof:lastmodified":1491903008,
     "wof:name":"Your Wedding Dance Designer",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

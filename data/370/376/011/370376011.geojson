@@ -2,9 +2,14 @@
   "id": 370376011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3085 9th St N St Petersburg FL 33704",
+    "addr:housenumber":"3085",
+    "addr:postcode":"33704",
+    "addr:street":"9Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646662,27.799584,-82.646662,27.799584",
     "geom:latitude":27.799584,
     "geom:longitude":-82.646662,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3495e2e716f383fb5624bcd62b7b183a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370376011,
-    "wof:lastmodified":1466439938,
+    "wof:lastmodified":1491922162,
     "wof:name":"Healthpoint Medical Group",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

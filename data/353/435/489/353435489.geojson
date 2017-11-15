@@ -2,9 +2,14 @@
   "id": 353435489,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Evernia St West Palm Beach FL 33401",
+    "addr:housenumber":"255",
+    "addr:postcode":"33401",
+    "addr:street":"Evernia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.051348,26.711352,-80.051348,26.711352",
     "geom:latitude":26.711352,
     "geom:longitude":-80.051348,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"777670ddbc6b57242fee00d2d9c54af6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353435489,
-    "wof:lastmodified":1466435611,
+    "wof:lastmodified":1491899667,
     "wof:name":"Digital Media Public Relations",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

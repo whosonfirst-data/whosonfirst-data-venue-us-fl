@@ -2,14 +2,20 @@
   "id": 387848683,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Orange Ave Orlando FL 32801",
+    "addr:housenumber":"300",
+    "addr:postcode":"32801",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.378928,28.538392,-81.378928,28.538392",
     "geom:latitude":28.538392,
     "geom:longitude":-81.378928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S Orange Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -30,30 +36,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
+    "wof:brand_id":1125155469,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M8UDz8MjEnmA2WuLSx9cq_28.538392_-81.378928@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"eabc07ca221b266436521d0fa6637a6d",
+    "wof:geomhash":"5f50fc957b527776322b69ce9302e9ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":387848683
         }
     ],
     "wof:id":387848683,
-    "wof:lastmodified":1466449132,
+    "wof:lastmodified":1510694230,
     "wof:name":"Bovis Lend Lease Inc",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286839735,
   "type": "Feature",
   "properties": {
+    "addr:full":"821 Long St Orlando FL 32805",
+    "addr:housenumber":"821",
+    "addr:postcode":"32805",
+    "addr:street":"Long St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.391841,28.535669,-81.391841,28.535669",
     "geom:latitude":28.535669,
     "geom:longitude":-81.391841,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"fd90c45a915d49778c249ce200a1bf7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286839735,
-    "wof:lastmodified":1466439824,
+    "wof:lastmodified":1491911390,
     "wof:name":"New Zion Progrsv Bapt Church",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

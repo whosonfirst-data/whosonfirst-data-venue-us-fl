@@ -2,9 +2,14 @@
   "id": 219740371,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Anthony Ln Orlando FL 32822",
+    "addr:housenumber":"3701",
+    "addr:postcode":"32822",
+    "addr:street":"Anthony Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.274704,28.502723,-81.274704,28.502723",
     "geom:latitude":28.502723,
     "geom:longitude":-81.274704,
@@ -25,8 +30,10 @@
     "sg:province":"FL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688651,
         85633793,
+        420515587,
+        85688651,
+        85889405,
         102085847,
         85879531
     ],
@@ -38,19 +45,29 @@
     "wof:geomhash":"42ebef1bb0224a43ebd12b536671dc12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "neighbourhood_id":420515587,
+            "venue_id":219740371
+        },
+        {
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "neighbourhood_id":85889405,
+            "region_id":85688651,
+            "venue_id":219740371
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085847,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":219740371
         }
     ],
     "wof:id":219740371,
-    "wof:lastmodified":1466434630,
+    "wof:lastmodified":1491901279,
     "wof:name":"Pinar Elementary School",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

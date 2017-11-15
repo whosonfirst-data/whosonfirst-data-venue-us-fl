@@ -2,9 +2,14 @@
   "id": 253612833,
   "type": "Feature",
   "properties": {
+    "addr:full":"8720 Havasu Dr Orlando FL 32829",
+    "addr:housenumber":"8720",
+    "addr:postcode":"32829",
+    "addr:street":"Havasu Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.265518,28.503856,-81.265518,28.503856",
     "geom:latitude":28.503856,
     "geom:longitude":-81.265518,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85879531
+        85879531,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +46,17 @@
     "wof:geomhash":"ddead18a3ef53315ca931a22da6e2b74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":253612833
         }
     ],
     "wof:id":253612833,
-    "wof:lastmodified":1466437643,
+    "wof:lastmodified":1491901275,
     "wof:name":"Maria Lopez Novelties",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

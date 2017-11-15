@@ -2,9 +2,14 @@
   "id": 319835219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Kensington Ave Tampa FL 33629",
+    "addr:housenumber":"3601",
+    "addr:postcode":"33629",
+    "addr:street":"Kensington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.503222,27.910663,-82.503222,27.910663",
     "geom:latitude":27.910663,
     "geom:longitude":-82.503222,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2d5464b56ca4466cba6178017bcdc9b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319835219,
-    "wof:lastmodified":1466433057,
+    "wof:lastmodified":1491939105,
     "wof:name":"Jab Investment Prope",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

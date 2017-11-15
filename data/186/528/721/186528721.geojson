@@ -2,9 +2,14 @@
   "id": 186528721,
   "type": "Feature",
   "properties": {
+    "addr:full":"2611 Mercer Ave West Palm Beach FL 33401",
+    "addr:housenumber":"2611",
+    "addr:postcode":"33401",
+    "addr:street":"Mercer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.06982,26.692458,-80.06982,26.692458",
     "geom:latitude":26.692458,
     "geom:longitude":-80.06982,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b0e3f1222936bbe313aa953073126794",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186528721,
-    "wof:lastmodified":1466433174,
+    "wof:lastmodified":1491921821,
     "wof:name":"Jack Fhillips Design Inc",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

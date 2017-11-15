@@ -2,9 +2,14 @@
   "id": 656336209,
   "type": "Feature",
   "properties": {
+    "addr:full":"The Offices at Veranda Park 6996 Piazza Grande Ave, Suite 202 Orlando FL 32835",
+    "addr:housenumber":"6996",
+    "addr:postcode":"32835",
+    "addr:street":"Piazza Grande Ave Suite 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.468131,28.514097,-81.468131,28.514097",
     "geom:latitude":28.514097,
     "geom:longitude":-81.468131,
@@ -37,7 +42,8 @@
         85633793,
         85933091,
         102085847,
-        85889387
+        85889387,
+        85889311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,21 @@
             "neighbourhood_id":85889387,
             "region_id":85688651,
             "venue_id":656336209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85889311,
+            "region_id":85688651,
+            "venue_id":656336209
         }
     ],
     "wof:id":656336209,
-    "wof:lastmodified":1466461150,
+    "wof:lastmodified":1491921599,
     "wof:name":"Pelime.com Inc.",
-    "wof:parent_id":85889387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

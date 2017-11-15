@@ -2,9 +2,14 @@
   "id": 186119389,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"825",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208026,25.765241,-80.208026,25.765241",
     "geom:latitude":25.765241,
     "geom:longitude":-80.208026,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"471e431565317a5017098b0cb5a7e5b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186119389,
-    "wof:lastmodified":1466445916,
+    "wof:lastmodified":1491906056,
     "wof:name":"Museum Of The Americas",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

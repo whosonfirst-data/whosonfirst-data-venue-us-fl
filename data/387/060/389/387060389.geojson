@@ -2,9 +2,14 @@
   "id": 387060389,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 NW 12th Ave Miami FL 33128",
+    "addr:housenumber":"242",
+    "addr:postcode":"33128",
+    "addr:street":"Nw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.214806,25.776018,-80.214806,25.776018",
     "geom:latitude":25.776018,
     "geom:longitude":-80.214806,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3f734873c89adf9b381329bb8664783b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387060389,
-    "wof:lastmodified":1466439637,
+    "wof:lastmodified":1491936022,
     "wof:name":"Geminis Cargo Express",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

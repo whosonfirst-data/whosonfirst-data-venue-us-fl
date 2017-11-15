@@ -2,9 +2,14 @@
   "id": 286992271,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 N Magnolia Ave Orlando FL 32801",
+    "addr:housenumber":"213",
+    "addr:postcode":"32801",
+    "addr:street":"N Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.377438,28.545546,-81.377438,28.545546",
     "geom:latitude":28.545546,
     "geom:longitude":-81.377438,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"596d64a0d7ed7dafd70d65f21eb465ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":286992271
         }
     ],
     "wof:id":286992271,
-    "wof:lastmodified":1466442546,
+    "wof:lastmodified":1491925034,
     "wof:name":"Studio Floral & Gift",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

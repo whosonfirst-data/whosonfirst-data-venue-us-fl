@@ -2,9 +2,14 @@
   "id": 269735159,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 62nd Ave N St Petersburg FL 33702",
+    "addr:housenumber":"321",
+    "addr:postcode":"33702",
+    "addr:street":"62Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.637941,27.828555,-82.637941,27.828555",
     "geom:latitude":27.828555,
     "geom:longitude":-82.637941,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9f1c33fe665c3c65b0730a05c33a781b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269735159,
-    "wof:lastmodified":1466432958,
+    "wof:lastmodified":1491913776,
     "wof:name":"All Stars Cutting Team",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

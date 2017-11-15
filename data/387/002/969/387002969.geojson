@@ -2,9 +2,14 @@
   "id": 387002969,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 W Central Blvd Orlando FL 32801",
+    "addr:housenumber":"28",
+    "addr:postcode":"32801",
+    "addr:street":"W Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.380281,28.542023,-81.380281,28.542023",
     "geom:latitude":28.542023,
     "geom:longitude":-81.380281,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"dfe31aa6c61952cf57ff76539f2822d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":387002969
         }
     ],
     "wof:id":387002969,
-    "wof:lastmodified":1466438766,
+    "wof:lastmodified":1491925007,
     "wof:name":"Williams & Airth",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

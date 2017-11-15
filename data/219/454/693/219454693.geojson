@@ -2,9 +2,14 @@
   "id": 219454693,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 24th St N St Petersburg FL 33714",
+    "addr:housenumber":"4000",
+    "addr:postcode":"33714",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.66527,27.808674,-82.66527,27.808674",
     "geom:latitude":27.808674,
     "geom:longitude":-82.66527,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -49,7 +55,7 @@
     "wof:geomhash":"0e4dcce44fd7eedb9d234f0b674ab176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":219454693,
-    "wof:lastmodified":1466430912,
+    "wof:lastmodified":1491889870,
     "wof:name":"Silver Lake Mobile Resort",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

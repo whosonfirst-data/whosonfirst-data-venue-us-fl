@@ -2,9 +2,14 @@
   "id": 236027011,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 1st St NE St Petersburg FL 33701",
+    "addr:housenumber":"215",
+    "addr:postcode":"33701",
+    "addr:street":"1St St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.633937,27.774052,-82.633937,27.774052",
     "geom:latitude":27.774052,
     "geom:longitude":-82.633937,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"dd19f41221c5a46aa4958b1daf72ed83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236027011,
-    "wof:lastmodified":1466428768,
+    "wof:lastmodified":1491938325,
     "wof:name":"Queen Emerald",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

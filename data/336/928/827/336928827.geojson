@@ -2,9 +2,14 @@
   "id": 336928827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1757 SW 30th Pl Fort Lauderdale FL 33315",
+    "addr:housenumber":"1757",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 30Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.162143,26.086235,-80.162143,26.086235",
     "geom:latitude":26.086235,
     "geom:longitude":-80.162143,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"4e44bdafaec70521864853eef321b570",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":336928827
         }
     ],
     "wof:id":336928827,
-    "wof:lastmodified":1466440661,
+    "wof:lastmodified":1491924480,
     "wof:name":"Inside Design Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236677795,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Royal Palm Way Palm Beach FL 33480",
+    "addr:housenumber":"240",
+    "addr:postcode":"33480",
+    "addr:street":"Royal Palm Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.037877,26.705577,-80.037877,26.705577",
     "geom:latitude":26.705577,
     "geom:longitude":-80.037877,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -52,7 +58,7 @@
     "wof:geomhash":"7cd5df533062f69875ddf742bfbd3071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":236677795,
-    "wof:lastmodified":1466438036,
+    "wof:lastmodified":1491899624,
     "wof:name":"Brown Brothers Harriman & Co",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

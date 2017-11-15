@@ -2,9 +2,14 @@
   "id": 252873853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1618 Lake Lorine Dr Orlando FL 32808",
+    "addr:housenumber":"1618",
+    "addr:postcode":"32808",
+    "addr:street":"Lake Lorine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.457989,28.565341,-81.457989,28.565341",
     "geom:latitude":28.565341,
     "geom:longitude":-81.457989,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0f350c76b76e7fb698c2488cefce8836",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":252873853,
-    "wof:lastmodified":1466430817,
+    "wof:lastmodified":1491934993,
     "wof:name":"Catering & Liquor Service",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202638173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 Biscayne Blvd Miami FL 33137",
+    "addr:housenumber":"2125",
+    "addr:postcode":"33137",
+    "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188999,25.797888,-80.188999,25.797888",
     "geom:latitude":25.797888,
     "geom:longitude":-80.188999,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4ae1cb2338ea1d7a7c8363330ff38eb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202638173,
-    "wof:lastmodified":1466430190,
+    "wof:lastmodified":1491921168,
     "wof:name":"Biscayne Dental Group",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

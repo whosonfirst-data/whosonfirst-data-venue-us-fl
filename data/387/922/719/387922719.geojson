@@ -2,9 +2,14 @@
   "id": 387922719,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 W Central Blvd Orlando FL 32801",
+    "addr:housenumber":"514",
+    "addr:postcode":"32801",
+    "addr:street":"W Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.386738,28.541927,-81.386738,28.541927",
     "geom:latitude":28.541927,
     "geom:longitude":-81.386738,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1f77fd0048498710d07696deb7321b7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387922719,
-    "wof:lastmodified":1466449839,
+    "wof:lastmodified":1491908401,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":85889335,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353817449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 NW 19th St Fort Lauderdale FL 33311",
+    "addr:housenumber":"1919",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.167748,26.151368,-80.167748,26.151368",
     "geom:latitude":26.151368,
     "geom:longitude":-80.167748,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"926992a075eb91cccfacaa5a1aeab752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353817449,
-    "wof:lastmodified":1466441219,
+    "wof:lastmodified":1491904194,
     "wof:name":"Sign Emporium Inc",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

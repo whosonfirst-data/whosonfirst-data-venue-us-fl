@@ -2,9 +2,14 @@
   "id": 370876841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 Virginia Dr Orlando FL 32803",
+    "addr:housenumber":"1720",
+    "addr:postcode":"32803",
+    "addr:street":"Virginia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.358745,28.563963,-81.358745,28.563963",
     "geom:latitude":28.563963,
     "geom:longitude":-81.358745,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8737dbc51a67e5d8bed3d9187623c1cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370876841,
-    "wof:lastmodified":1466447332,
+    "wof:lastmodified":1491921618,
     "wof:name":"Advanced Power Solutions",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

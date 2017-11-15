@@ -2,9 +2,14 @@
   "id": 269716737,
   "type": "Feature",
   "properties": {
+    "addr:full":"3851 Express St Orlando FL 32827",
+    "addr:housenumber":"3851",
+    "addr:postcode":"32827",
+    "addr:street":"Express St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.334686,28.426725,-81.334686,28.426725",
     "geom:latitude":28.426725,
     "geom:longitude":-81.334686,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5d96a8aa401266cbac0bbc8ef46a474a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269716737,
-    "wof:lastmodified":1466432630,
+    "wof:lastmodified":1491914282,
     "wof:name":"Ground Effects",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

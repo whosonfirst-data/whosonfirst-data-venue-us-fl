@@ -2,9 +2,14 @@
   "id": 269536271,
   "type": "Feature",
   "properties": {
+    "addr:full":"9206 Bay Club Ct Tampa FL 33607",
+    "addr:housenumber":"9206",
+    "addr:postcode":"33607",
+    "addr:street":"Bay Club Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.571524,27.963709,-82.571524,27.963709",
     "geom:latitude":27.963709,
     "geom:longitude":-82.571524,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3b10a73f0d4e8b7895c72129c73a1aef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269536271,
-    "wof:lastmodified":1466429411,
+    "wof:lastmodified":1491914708,
     "wof:name":"HEI International Inc",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

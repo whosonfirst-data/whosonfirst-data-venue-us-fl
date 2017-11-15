@@ -2,9 +2,14 @@
   "id": 320767085,
   "type": "Feature",
   "properties": {
+    "addr:full":"6308 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6308",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.470611,28.552022,-81.470611,28.552022",
     "geom:latitude":28.552022,
     "geom:longitude":-81.470611,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e9a4c95afdc9de81f9d87f9cf7b96ac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320767085,
-    "wof:lastmodified":1466446693,
+    "wof:lastmodified":1491934995,
     "wof:name":"New Generations Academy",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303598707,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 SE 1st Ave Fort Lauderdale FL 33316",
+    "addr:housenumber":"1318",
+    "addr:postcode":"33316",
+    "addr:street":"Se 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.141869,26.104853,-80.141869,26.104853",
     "geom:latitude":26.104853,
     "geom:longitude":-80.141869,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a15ba44ca662f4ef3f9e0c6ffccf3b16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303598707,
-    "wof:lastmodified":1466440833,
+    "wof:lastmodified":1491936881,
     "wof:name":"Rebecca J Covey",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 655931195,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 N West Shore Blvd Tampa FL 33614",
+    "addr:housenumber":"4701",
+    "addr:postcode":"33614",
+    "addr:street":"N West Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.523819,27.987636,-82.523819,27.987636",
     "geom:latitude":27.987636,
     "geom:longitude":-82.523819,
@@ -34,7 +39,8 @@
         85633793,
         85931789,
         102085773,
-        420512755
+        420512755,
+        85873207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +58,21 @@
             "neighbourhood_id":420512755,
             "region_id":85688651,
             "venue_id":655931195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85873207,
+            "region_id":85688651,
+            "venue_id":655931195
         }
     ],
     "wof:id":655931195,
-    "wof:lastmodified":1466450455,
+    "wof:lastmodified":1491934083,
     "wof:name":"Curt's Warehouse Carpet",
-    "wof:parent_id":420512755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

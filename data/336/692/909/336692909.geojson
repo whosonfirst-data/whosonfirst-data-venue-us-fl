@@ -2,9 +2,14 @@
   "id": 336692909,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 SW 30th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"240",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143844,26.087073,-80.143844,26.087073",
     "geom:latitude":26.087073,
     "geom:longitude":-80.143844,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"0f3577eeecd17338c2508b961a324b35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":336692909
         }
     ],
     "wof:id":336692909,
-    "wof:lastmodified":1466436592,
+    "wof:lastmodified":1491924477,
     "wof:name":"Marlin International Corp",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

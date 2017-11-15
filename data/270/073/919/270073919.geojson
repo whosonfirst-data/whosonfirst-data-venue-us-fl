@@ -2,9 +2,14 @@
   "id": 270073919,
   "type": "Feature",
   "properties": {
+    "addr:full":"5976 Wallace Dr Orlando FL 32807",
+    "addr:housenumber":"5976",
+    "addr:postcode":"32807",
+    "addr:street":"Wallace Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.304063,28.524926,-81.304063,28.524926",
     "geom:latitude":28.524926,
     "geom:longitude":-81.304063,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7276d5a795831190bb34fc3e2c1fd9fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270073919,
-    "wof:lastmodified":1466430718,
+    "wof:lastmodified":1491901769,
     "wof:name":"PRMI Funding",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202673419,
   "type": "Feature",
   "properties": {
+    "addr:full":"9809 Tradeport Dr Orlando FL 32827",
+    "addr:housenumber":"9809",
+    "addr:postcode":"32827",
+    "addr:street":"Tradeport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.333828,28.426508,-81.333828,28.426508",
     "geom:latitude":28.426508,
     "geom:longitude":-81.333828,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"431e71f93d08808b36b906855ab13fd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":202673419,
-    "wof:lastmodified":1466430640,
+    "wof:lastmodified":1491914283,
     "wof:name":"Live TV LLC",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

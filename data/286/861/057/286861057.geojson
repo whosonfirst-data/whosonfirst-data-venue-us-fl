@@ -2,9 +2,14 @@
   "id": 286861057,
   "type": "Feature",
   "properties": {
+    "addr:full":"1721 N Howard Ave Tampa FL 33607",
+    "addr:housenumber":"1721",
+    "addr:postcode":"33607",
+    "addr:street":"N Howard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.48283,27.957751,-82.48283,27.957751",
     "geom:latitude":27.957751,
     "geom:longitude":-82.48283,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2df092b62228f4a8f147a07f5f687282",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286861057,
-    "wof:lastmodified":1466440209,
+    "wof:lastmodified":1491934213,
     "wof:name":"Rocha Controls",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

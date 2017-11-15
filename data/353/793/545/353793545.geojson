@@ -2,9 +2,14 @@
   "id": 353793545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2103 N Rome Ave Tampa FL 33607",
+    "addr:housenumber":"2103",
+    "addr:postcode":"33607",
+    "addr:street":"N Rome Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.476573,27.961467,-82.476573,27.961467",
     "geom:latitude":27.961467,
     "geom:longitude":-82.476573,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f2b3413a72701416974d19bcfef2f18e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353793545,
-    "wof:lastmodified":1466440842,
+    "wof:lastmodified":1491934208,
     "wof:name":"McCloud Delores Head Start Ctr",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

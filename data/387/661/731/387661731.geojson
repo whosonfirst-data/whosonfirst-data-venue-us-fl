@@ -2,9 +2,14 @@
   "id": 387661731,
   "type": "Feature",
   "properties": {
+    "addr:full":"12022 Gandy Blvd N St Petersburg FL 33702",
+    "addr:housenumber":"12022",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.593453,27.876327,-82.593453,27.876327",
     "geom:latitude":27.876327,
     "geom:longitude":-82.593453,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"323bac61ff466979a664eae1888cdae2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387661731,
-    "wof:lastmodified":1466447922,
+    "wof:lastmodified":1491938459,
     "wof:name":"Associated Marine Institute",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

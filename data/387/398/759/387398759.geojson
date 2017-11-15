@@ -2,9 +2,14 @@
   "id": 387398759,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 International Dr Orlando FL 32819",
+    "addr:housenumber":"7001",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.469642,28.4588,-81.469642,28.4588",
     "geom:latitude":28.4588,
     "geom:longitude":-81.469642,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b06d2e76cdd65e7681d280429d306dad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":387398759,
-    "wof:lastmodified":1466444824,
+    "wof:lastmodified":1491884825,
     "wof:name":"Magical Midway",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

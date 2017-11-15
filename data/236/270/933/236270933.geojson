@@ -2,9 +2,14 @@
   "id": 236270933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1938 W Main St Tampa FL 33607",
+    "addr:housenumber":"1938",
+    "addr:postcode":"33607",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.480133,27.95706,-82.480133,27.95706",
     "geom:latitude":27.95706,
     "geom:longitude":-82.480133,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dc7e1bd2b566e2820f11851a955f9ff3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236270933,
-    "wof:lastmodified":1466432253,
+    "wof:lastmodified":1491934219,
     "wof:name":"Main Street Optical",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

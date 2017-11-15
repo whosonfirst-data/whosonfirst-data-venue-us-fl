@@ -2,9 +2,14 @@
   "id": 387820263,
   "type": "Feature",
   "properties": {
+    "addr:full":"2581 Lake Ave Miami Beach FL 33140",
+    "addr:housenumber":"2581",
+    "addr:postcode":"33140",
+    "addr:street":"Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142068,25.80207,-80.142068,25.80207",
     "geom:latitude":25.80207,
     "geom:longitude":-80.142068,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3ebe7af985c986448adf5dfc26179fb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -52,7 +58,7 @@
             "venue_id":387820263
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":387820263,
-    "wof:lastmodified":1466449062,
+    "wof:lastmodified":1491915780,
     "wof:name":"John Turchin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

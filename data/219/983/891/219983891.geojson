@@ -2,9 +2,14 @@
   "id": 219983891,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 W Church St Orlando FL 32805",
+    "addr:housenumber":"1017",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.394613,28.540204,-81.394613,28.540204",
     "geom:latitude":28.540204,
     "geom:longitude":-81.394613,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"29b07ef58fa0f21d1f4b96a57a677155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":219983891,
-    "wof:lastmodified":1466437996,
+    "wof:lastmodified":1491911385,
     "wof:name":"CRE Machine",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

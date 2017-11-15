@@ -2,9 +2,14 @@
   "id": 353877933,
   "type": "Feature",
   "properties": {
+    "addr:full":"5265 International Dr Orlando FL 32819",
+    "addr:housenumber":"5265",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.450489,28.46558,-81.450489,28.46558",
     "geom:latitude":28.46558,
     "geom:longitude":-81.450489,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aa7eccb698644a1da2878858fecd5f50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353877933,
-    "wof:lastmodified":1466442132,
+    "wof:lastmodified":1491884848,
     "wof:name":"Calvin Klein",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

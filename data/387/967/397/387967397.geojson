@@ -2,9 +2,14 @@
   "id": 387967397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 34th St N St Petersburg FL 33713",
+    "addr:housenumber":"2200",
+    "addr:postcode":"33713",
+    "addr:street":"34Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.679496,27.792728,-82.679496,27.792728",
     "geom:latitude":27.792728,
     "geom:longitude":-82.679496,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -40,7 +46,7 @@
     "wof:geomhash":"4baa5eb349ef2ca3a5f16e9ffae6c4c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":387967397,
-    "wof:lastmodified":1466449967,
+    "wof:lastmodified":1491896308,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

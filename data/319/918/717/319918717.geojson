@@ -2,9 +2,14 @@
   "id": 319918717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 4th St N Saint Petersburg FL 33704",
+    "addr:housenumber":"1925",
+    "addr:postcode":"33704",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638487,27.790242,-82.638487,27.790242",
     "geom:latitude":27.790242,
     "geom:longitude":-82.638487,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"1c845bfa7eceb8c811be94c70f8310f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":319918717,
-    "wof:lastmodified":1466434571,
+    "wof:lastmodified":1491901205,
     "wof:name":"Great Explrtions - Chld Museum",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

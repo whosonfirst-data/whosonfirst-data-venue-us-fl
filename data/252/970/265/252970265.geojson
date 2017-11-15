@@ -2,9 +2,14 @@
   "id": 252970265,
   "type": "Feature",
   "properties": {
+    "addr:full":"8287 Curry Ford Rd Orlando FL 32822",
+    "addr:housenumber":"8287",
+    "addr:postcode":"32822",
+    "addr:street":"Curry Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.271728,28.51006,-81.271728,28.51006",
     "geom:latitude":28.51006,
     "geom:longitude":-81.271728,
@@ -33,9 +38,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +50,24 @@
     "wof:geomhash":"54cb163346e1ae9f0639eba1417cf447",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":252970265
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":252970265
         }
     ],
     "wof:id":252970265,
-    "wof:lastmodified":1466432213,
+    "wof:lastmodified":1491901274,
     "wof:name":"East Orlando Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

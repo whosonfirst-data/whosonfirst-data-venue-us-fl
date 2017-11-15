@@ -2,9 +2,14 @@
   "id": 203229627,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 W Flagler St Miami FL 33130",
+    "addr:housenumber":"73",
+    "addr:postcode":"33130",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.195203,25.774186,-80.195203,25.774186",
     "geom:latitude":25.774186,
     "geom:longitude":-80.195203,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -40,7 +46,7 @@
     "wof:geomhash":"26662f35e67fc47756d7d7fbde97963b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":203229627,
-    "wof:lastmodified":1466429277,
+    "wof:lastmodified":1491906286,
     "wof:name":"Dade County Office-The Courts",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

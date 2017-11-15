@@ -2,9 +2,14 @@
   "id": 253518001,
   "type": "Feature",
   "properties": {
+    "addr:full":"7037 Crossland Dr Orlando FL 32821",
+    "addr:housenumber":"7037",
+    "addr:postcode":"32821",
+    "addr:street":"Crossland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.478199,28.389208,-81.478199,28.389208",
     "geom:latitude":28.389208,
     "geom:longitude":-81.478199,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889341
+        85889341,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"d9dc62780e442e8c855d10161a66d5a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889341,
             "region_id":85688651,
             "venue_id":253518001
         }
     ],
     "wof:id":253518001,
-    "wof:lastmodified":1466435925,
+    "wof:lastmodified":1491911778,
     "wof:name":"Oasis Lakes Resort",
     "wof:parent_id":85889341,
     "wof:placetype":"venue",

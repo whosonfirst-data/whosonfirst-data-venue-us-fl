@@ -2,9 +2,14 @@
   "id": 320492345,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 SW 33rd Ct Fort Lauderdale FL 33315",
+    "addr:housenumber":"243",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 33Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142858,26.082643,-80.142858,26.082643",
     "geom:latitude":26.082643,
     "geom:longitude":-80.142858,
@@ -34,8 +39,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,15 @@
     "wof:geomhash":"2caaeeb5e3acdc35f4b2bd4bf8ea8138",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":320492345
         }
     ],
     "wof:id":320492345,
-    "wof:lastmodified":1466441894,
+    "wof:lastmodified":1491924497,
     "wof:name":"Everglades Diesl Injection Svc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

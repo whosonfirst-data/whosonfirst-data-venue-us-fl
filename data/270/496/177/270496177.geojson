@@ -2,9 +2,14 @@
   "id": 270496177,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 SW 27th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"822",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.152355,26.08955,-80.152355,26.08955",
     "geom:latitude":26.08955,
     "geom:longitude":-80.152355,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:brand_id":420575631,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"dab572d9dd23d10ab7d7b6ea08273d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":270496177
         }
     ],
     "wof:id":270496177,
-    "wof:lastmodified":1466437953,
+    "wof:lastmodified":1491924483,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

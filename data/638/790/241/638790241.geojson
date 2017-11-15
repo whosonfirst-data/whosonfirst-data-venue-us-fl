@@ -2,9 +2,14 @@
   "id": 638790241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 W Central Blvd Orlando FL 32805",
+    "addr:housenumber":"1100",
+    "addr:postcode":"32805",
+    "addr:street":"W Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.395685,28.541985,-81.395685,28.541985",
     "geom:latitude":28.541985,
     "geom:longitude":-81.395685,
@@ -38,7 +43,8 @@
         85633793,
         85933091,
         102085847,
-        85879461
+        85879461,
+        420515491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +62,21 @@
             "neighbourhood_id":85879461,
             "region_id":85688651,
             "venue_id":638790241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":420515491,
+            "region_id":85688651,
+            "venue_id":638790241
         }
     ],
     "wof:id":638790241,
-    "wof:lastmodified":1466451676,
+    "wof:lastmodified":1491911378,
     "wof:name":"Wizards Productions",
-    "wof:parent_id":85879461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

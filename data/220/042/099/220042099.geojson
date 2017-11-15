@@ -2,9 +2,14 @@
   "id": 220042099,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 Selkirk St West Palm Beach FL 33405",
+    "addr:housenumber":"924",
+    "addr:postcode":"33405",
+    "addr:street":"Selkirk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.066749,26.667535,-80.066749,26.667535",
     "geom:latitude":26.667535,
     "geom:longitude":-80.066749,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7fef1d6a4156b33ac35d70c7dd4f2b92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":220042099,
-    "wof:lastmodified":1466444604,
+    "wof:lastmodified":1491902425,
     "wof:name":"Magaly Rodriguez Janitorial",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

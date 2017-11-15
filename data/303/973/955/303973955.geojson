@@ -2,9 +2,14 @@
   "id": 303973955,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"726",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.059575,26.699373,-80.059575,26.699373",
     "geom:latitude":26.699373,
     "geom:longitude":-80.059575,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"275932af0ca830306d0dc02aa79327b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303973955,
-    "wof:lastmodified":1466446945,
+    "wof:lastmodified":1491921823,
     "wof:name":"Restorations of Palm Beaches",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

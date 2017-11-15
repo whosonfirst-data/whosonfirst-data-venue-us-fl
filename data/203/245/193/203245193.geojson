@@ -2,9 +2,14 @@
   "id": 203245193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 W Cass St Tampa FL 33606",
+    "addr:housenumber":"1701",
+    "addr:postcode":"33606",
+    "addr:street":"W Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.478837,27.949848,-82.478837,27.949848",
     "geom:latitude":27.949848,
     "geom:longitude":-82.478837,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bd59f2af0d908b1c1e84a481ee5b59d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203245193,
-    "wof:lastmodified":1466429485,
+    "wof:lastmodified":1491934215,
     "wof:name":"United Cab Co of Tampa",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

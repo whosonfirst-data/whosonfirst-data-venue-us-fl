@@ -2,9 +2,14 @@
   "id": 269973839,
   "type": "Feature",
   "properties": {
+    "addr:full":"6385 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6385",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.468112,28.552186,-81.468112,28.552186",
     "geom:latitude":28.552186,
     "geom:longitude":-81.468112,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"909f877dd475b78bb42eaae0ee82026e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":269973839,
-    "wof:lastmodified":1466437070,
+    "wof:lastmodified":1491934981,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

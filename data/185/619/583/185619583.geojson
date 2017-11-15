@@ -2,9 +2,14 @@
   "id": 185619583,
   "type": "Feature",
   "properties": {
+    "addr:full":"554 W Church St Orlando FL 32805",
+    "addr:housenumber":"554",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.386097,28.540095,-81.386097,28.540095",
     "geom:latitude":28.540095,
     "geom:longitude":-81.386097,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5ea0c62399ef6e2fbd74393989d579dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":185619583,
-    "wof:lastmodified":1466443683,
+    "wof:lastmodified":1491908400,
     "wof:name":"Elks Ldg Ryl Palm Nbr 439",
     "wof:parent_id":85889335,
     "wof:placetype":"venue",

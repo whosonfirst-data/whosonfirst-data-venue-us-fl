@@ -2,9 +2,14 @@
   "id": 236421595,
   "type": "Feature",
   "properties": {
+    "addr:full":"7024 Grand Horizons Blvd Orlando FL 32821",
+    "addr:housenumber":"7024",
+    "addr:postcode":"32821",
+    "addr:street":"Grand Horizons Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.477766,28.403333,-81.477766,28.403333",
     "geom:latitude":28.403333,
     "geom:longitude":-81.477766,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889411
+        85889411,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"3bff60b7834e4755069ee0c32039f2de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889411,
             "region_id":85688651,
             "venue_id":236421595
         }
     ],
     "wof:id":236421595,
-    "wof:lastmodified":1466434352,
+    "wof:lastmodified":1491920782,
     "wof:name":"Welbro Constructors Inc",
     "wof:parent_id":85889411,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354178283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2553 25th Ave N Saint Petersburg FL 33713",
+    "addr:housenumber":"2553",
+    "addr:postcode":"33713",
+    "addr:street":"25Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.667896,27.794762,-82.667896,27.794762",
     "geom:latitude":27.794762,
     "geom:longitude":-82.667896,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -40,7 +46,7 @@
     "wof:geomhash":"0e8b661f5fcd1cc80a3b29a2b95a6627",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":354178283,
-    "wof:lastmodified":1466438836,
+    "wof:lastmodified":1491896303,
     "wof:name":"Terminix",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

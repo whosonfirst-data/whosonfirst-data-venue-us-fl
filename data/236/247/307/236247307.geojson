@@ -2,9 +2,14 @@
   "id": 236247307,
   "type": "Feature",
   "properties": {
+    "addr:full":"444 25th St West Palm Beach FL 33407",
+    "addr:housenumber":"444",
+    "addr:postcode":"33407",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.054026,26.736194,-80.054026,26.736194",
     "geom:latitude":26.736194,
     "geom:longitude":-80.054026,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -49,7 +55,7 @@
     "wof:geomhash":"b6ed4017304bae99bd07421c0110bd90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":236247307,
-    "wof:lastmodified":1466431911,
+    "wof:lastmodified":1491899781,
     "wof:name":"A Jaynes Bail Bonds Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

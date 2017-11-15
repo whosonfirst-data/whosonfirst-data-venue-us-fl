@@ -2,9 +2,14 @@
   "id": 387396069,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Montague Pl Orlando FL 32808",
+    "addr:housenumber":"5200",
+    "addr:postcode":"32808",
+    "addr:street":"Montague Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.453471,28.556928,-81.453471,28.556928",
     "geom:latitude":28.556928,
     "geom:longitude":-81.453471,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2cc3d2ae550c0497eb412e6086b02bc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387396069,
-    "wof:lastmodified":1466444781,
+    "wof:lastmodified":1491935003,
     "wof:name":"Straight A Carpet Svc Inc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403933011,
   "type": "Feature",
   "properties": {
+    "addr:full":"511 Northwood Rd West Palm Beach FL 33407",
+    "addr:housenumber":"511",
+    "addr:postcode":"33407",
+    "addr:street":"Northwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056682,26.735109,-80.056682,26.735109",
     "geom:latitude":26.735109,
     "geom:longitude":-80.056682,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"835a3d94678d83a288dbe97122b0141f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403933011,
-    "wof:lastmodified":1466443249,
+    "wof:lastmodified":1491899777,
     "wof:name":"W S Southern Bbq",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

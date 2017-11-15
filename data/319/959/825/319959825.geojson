@@ -2,9 +2,14 @@
   "id": 319959825,
   "type": "Feature",
   "properties": {
+    "addr:full":"929 2nd St N Saint Petersburg FL 33701",
+    "addr:housenumber":"929",
+    "addr:postcode":"33701",
+    "addr:street":"2Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.635533,27.781891,-82.635533,27.781891",
     "geom:latitude":27.781891,
     "geom:longitude":-82.635533,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7c8e918e6f65ff014aed1dd26c981392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319959825,
-    "wof:lastmodified":1466435295,
+    "wof:lastmodified":1491938314,
     "wof:name":"Carillon Candle Company",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

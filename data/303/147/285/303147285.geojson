@@ -2,9 +2,14 @@
   "id": 303147285,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 20th St West Palm Beach FL 33407",
+    "addr:housenumber":"505",
+    "addr:postcode":"33407",
+    "addr:street":"20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.055853,26.732423,-80.055853,26.732423",
     "geom:latitude":26.732423,
     "geom:longitude":-80.055853,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d7454cc25611f44da15b585127910e6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303147285,
-    "wof:lastmodified":1466433061,
+    "wof:lastmodified":1491899784,
     "wof:name":"Sistah To Sistah",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

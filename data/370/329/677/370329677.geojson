@@ -2,9 +2,14 @@
   "id": 370329677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2722 Davie Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"2722",
+    "addr:postcode":"33312",
+    "addr:street":"Davie Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.179125,26.106169,-80.179125,26.106169",
     "geom:latitude":26.106169,
     "geom:longitude":-80.179125,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"72cfa72dfe72b4cca1aa8ec31893e6de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370329677,
-    "wof:lastmodified":1466439210,
+    "wof:lastmodified":1491916244,
     "wof:name":"Tina Nails",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

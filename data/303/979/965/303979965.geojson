@@ -2,9 +2,14 @@
   "id": 303979965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2740 S Chickasaw Trl Orlando FL 32829",
+    "addr:housenumber":"2740",
+    "addr:postcode":"32829",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.26909,28.508081,-81.26909,28.508081",
     "geom:latitude":28.508081,
     "geom:longitude":-81.26909,
@@ -27,9 +32,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,28 +44,24 @@
     "wof:geomhash":"035dd032c2fa868dc8a73257bc061b7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":303979965
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":303979965
         }
     ],
     "wof:id":303979965,
-    "wof:lastmodified":1466447030,
+    "wof:lastmodified":1491901272,
     "wof:name":"Finishing Touch Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370386597,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 W Central Blvd Orlando FL 32801",
+    "addr:housenumber":"617",
+    "addr:postcode":"32801",
+    "addr:street":"W Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.388749,28.542072,-81.388749,28.542072",
     "geom:latitude":28.542072,
     "geom:longitude":-81.388749,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1fe4743b18eb4811c0a04932bb135dc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370386597,
-    "wof:lastmodified":1466440101,
+    "wof:lastmodified":1491908401,
     "wof:name":"Action Center Moving & Storage",
     "wof:parent_id":85889335,
     "wof:placetype":"venue",

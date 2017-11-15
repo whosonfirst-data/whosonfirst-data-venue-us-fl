@@ -2,14 +2,20 @@
   "id": 304018807,
   "type": "Feature",
   "properties": {
+    "addr:full":"3102 E 4th Ave Tampa FL 33605",
+    "addr:housenumber":"3102",
+    "addr:postcode":"33605",
+    "addr:street":"E 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.424092,27.958113,-82.424092,27.958113",
     "geom:latitude":27.958113,
     "geom:longitude":-82.424092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3102 E 4th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
         85889685
     ],
+    "wof:brand_id":1125159739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wTR2tjSUUuUdEX1u758Dl_27.958113_-82.424092@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"093deca31900a14d13d1e548f5424f9f",
+    "wof:geomhash":"1c73cd41a32ac261c90cb5a9f71568f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":304018807,
-    "wof:lastmodified":1466432132,
+    "wof:lastmodified":1510698014,
     "wof:name":"Valley National Gases Inc",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

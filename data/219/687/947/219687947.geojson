@@ -2,9 +2,14 @@
   "id": 219687947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 W Carmen St Tampa FL 33606",
+    "addr:housenumber":"1529",
+    "addr:postcode":"33606",
+    "addr:street":"W Carmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.476253,27.949166,-82.476253,27.949166",
     "geom:latitude":27.949166,
     "geom:longitude":-82.476253,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7d598f56a2e59ffd6805214cebea5db1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":219687947,
-    "wof:lastmodified":1466433941,
+    "wof:lastmodified":1491934221,
     "wof:name":"PAR Sales Agency Inc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

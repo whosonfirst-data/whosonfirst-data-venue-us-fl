@@ -2,9 +2,14 @@
   "id": 304086331,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 W Gore St Orlando FL 32805",
+    "addr:housenumber":"1000",
+    "addr:postcode":"32805",
+    "addr:street":"W Gore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.395076,28.531139,-81.395076,28.531139",
     "geom:latitude":28.531139,
     "geom:longitude":-81.395076,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"18bd651636941ad2da0af32a8970572a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304086331,
-    "wof:lastmodified":1466433335,
+    "wof:lastmodified":1491911390,
     "wof:name":"Orlando Fleet Management",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

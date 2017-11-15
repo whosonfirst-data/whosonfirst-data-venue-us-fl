@@ -2,9 +2,14 @@
   "id": 354314363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1771 NW 9th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"1771",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.154344,26.149429,-80.154344,26.149429",
     "geom:latitude":26.149429,
     "geom:longitude":-80.154344,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5788deaa2d07b187d3257ca0baf960ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354314363,
-    "wof:lastmodified":1466440922,
+    "wof:lastmodified":1491904195,
     "wof:name":"Rickerd Repair Svc Inc",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 386933415,
   "type": "Feature",
   "properties": {
+    "addr:full":"11500 Westwood Blvd Orlando FL 32821",
+    "addr:housenumber":"11500",
+    "addr:postcode":"32821",
+    "addr:street":"Westwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.473913,28.397624,-81.473913,28.397624",
     "geom:latitude":28.397624,
     "geom:longitude":-81.473913,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889411
+        85889411,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"4d93661c5809844001ab816ade1acc6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889411,
             "region_id":85688651,
             "venue_id":386933415
         }
     ],
     "wof:id":386933415,
-    "wof:lastmodified":1466438445,
+    "wof:lastmodified":1491920781,
     "wof:name":"Brilliante Htl Services",
     "wof:parent_id":85889411,
     "wof:placetype":"venue",

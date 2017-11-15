@@ -2,9 +2,14 @@
   "id": 236669431,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Central Ave Saint Petersburg FL 33701",
+    "addr:housenumber":"425",
+    "addr:postcode":"33701",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.639707,27.771278,-82.639707,27.771278",
     "geom:latitude":27.771278,
     "geom:longitude":-82.639707,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cb6b4d36c3d6ce9ac5e01d9482f4959a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236669431,
-    "wof:lastmodified":1466437912,
+    "wof:lastmodified":1491933290,
     "wof:name":"Alexs Place",
     "wof:parent_id":85889535,
     "wof:placetype":"venue",

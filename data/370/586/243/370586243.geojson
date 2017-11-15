@@ -2,9 +2,14 @@
   "id": 370586243,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 W Grace St Tampa FL 33607",
+    "addr:housenumber":"2606",
+    "addr:postcode":"33607",
+    "addr:street":"W Grace St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.48705,27.952756,-82.48705,27.952756",
     "geom:latitude":27.952756,
     "geom:longitude":-82.48705,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0cfa5834afdde60d55a4169b93d12399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370586243,
-    "wof:lastmodified":1466443166,
+    "wof:lastmodified":1491934213,
     "wof:name":"Mt Tabor MB Church",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

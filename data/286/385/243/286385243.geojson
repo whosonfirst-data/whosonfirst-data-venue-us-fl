@@ -2,9 +2,14 @@
   "id": 286385243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1771 E 9th Ave Tampa FL 33605",
+    "addr:housenumber":"1771",
+    "addr:postcode":"33605",
+    "addr:street":"E 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.440012,27.961615,-82.440012,27.961615",
     "geom:latitude":27.961615,
     "geom:longitude":-82.440012,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -40,7 +46,7 @@
     "wof:geomhash":"3d233b7ff0287f2fdd905a77cc5aedfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":286385243,
-    "wof:lastmodified":1466431788,
+    "wof:lastmodified":1491933566,
     "wof:name":"RBK Architects",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",

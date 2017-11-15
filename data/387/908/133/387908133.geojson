@@ -2,9 +2,14 @@
   "id": 387908133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1332 Candlewyck Dr Orlando FL 32807",
+    "addr:housenumber":"1332",
+    "addr:postcode":"32807",
+    "addr:street":"Candlewyck Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.303544,28.526634,-81.303544,28.526634",
     "geom:latitude":28.526634,
     "geom:longitude":-81.303544,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9d6e263d6fbd6f444f4bcd5c99fa7830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387908133,
-    "wof:lastmodified":1466449570,
+    "wof:lastmodified":1491901769,
     "wof:name":"Artile & Marble Inc",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

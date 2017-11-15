@@ -2,9 +2,14 @@
   "id": 353901909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2617 Florida Keys Ave Tampa FL 33621",
+    "addr:housenumber":"2617",
+    "addr:postcode":"33621",
+    "addr:street":"Florida Keys Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.484597,27.852566,-82.484597,27.852566",
     "geom:latitude":27.852566,
     "geom:longitude":-82.484597,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -43,7 +49,7 @@
     "wof:geomhash":"57d87adaf2e6d1b647e993c501ed9b30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353901909,
-    "wof:lastmodified":1466442504,
+    "wof:lastmodified":1491897369,
     "wof:name":"McDill Airforce Base",
     "wof:parent_id":85889761,
     "wof:placetype":"venue",

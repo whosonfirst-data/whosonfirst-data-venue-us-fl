@@ -2,9 +2,14 @@
   "id": 370247223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3820 Britton Plz Tampa FL 33611",
+    "addr:housenumber":"3820",
+    "addr:postcode":"33611",
+    "addr:street":"Britton Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.503979,27.907904,-82.503979,27.907904",
     "geom:latitude":27.907904,
     "geom:longitude":-82.503979,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4fa4b22e1bd112b0a27708e64fb00c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370247223,
-    "wof:lastmodified":1466437969,
+    "wof:lastmodified":1491939105,
     "wof:name":"Audibel of South Tampa",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269903341,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 Monticello Blvd N Saint Petersburg FL 33703",
+    "addr:housenumber":"1231",
+    "addr:postcode":"33703",
+    "addr:street":"Monticello Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.65362,27.811691,-82.65362,27.811691",
     "geom:latitude":27.811691,
     "geom:longitude":-82.65362,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4fe0a1331d3a12232cef1e861c1d10ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":269903341,
-    "wof:lastmodified":1466435877,
+    "wof:lastmodified":1491889864,
     "wof:name":"Creative Intrchange Cons Intl",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

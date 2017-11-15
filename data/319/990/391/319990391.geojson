@@ -2,9 +2,14 @@
   "id": 319990391,
   "type": "Feature",
   "properties": {
+    "addr:full":"3070 SW 17th St Fort Lauderdale FL 33312",
+    "addr:housenumber":"3070",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.185543,26.099341,-80.185543,26.099341",
     "geom:latitude":26.099341,
     "geom:longitude":-80.185543,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a0049be430f624992b8a062410b28ff9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319990391,
-    "wof:lastmodified":1466435826,
+    "wof:lastmodified":1491916242,
     "wof:name":"Agnes Soares Soares - P & L La",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

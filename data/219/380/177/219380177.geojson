@@ -2,9 +2,14 @@
   "id": 219380177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 Wilkins Ave West Palm Beach FL 33401",
+    "addr:housenumber":"1425",
+    "addr:postcode":"33401",
+    "addr:street":"Wilkins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.066287,26.699815,-80.066287,26.699815",
     "geom:latitude":26.699815,
     "geom:longitude":-80.066287,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -45,7 +51,7 @@
     "wof:geomhash":"9203ef83d83b63e459f5f7ac88a43b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":219380177,
-    "wof:lastmodified":1466429886,
+    "wof:lastmodified":1491921827,
     "wof:name":"Trans Coastalconstruction Co",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219363949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5488 Touchstone Dr Orlando FL 32819",
+    "addr:housenumber":"5488",
+    "addr:postcode":"32819",
+    "addr:street":"Touchstone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.453645,28.467185,-81.453645,28.467185",
     "geom:latitude":28.467185,
     "geom:longitude":-81.453645,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"ab46b3d6f2d751969aa29f3c41f00c8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":219363949,
-    "wof:lastmodified":1466429629,
+    "wof:lastmodified":1491884842,
     "wof:name":"Greensplus Inc",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

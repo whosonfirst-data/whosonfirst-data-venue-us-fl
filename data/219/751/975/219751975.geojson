@@ -2,9 +2,14 @@
   "id": 219751975,
   "type": "Feature",
   "properties": {
+    "addr:full":"5844 4th St N Saint Petersburg FL 33703",
+    "addr:housenumber":"5844",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.63872,27.824741,-82.63872,27.824741",
     "geom:latitude":27.824741,
     "geom:longitude":-82.63872,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7c20d51f53d2f52b2dd66a28b54ae609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":219751975,
-    "wof:lastmodified":1466434791,
+    "wof:lastmodified":1491913785,
     "wof:name":"Midas Muffler",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

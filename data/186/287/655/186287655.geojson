@@ -2,14 +2,20 @@
   "id": 186287655,
   "type": "Feature",
   "properties": {
+    "addr:full":"5250 International Dr Orlando FL 32819",
+    "addr:housenumber":"5250",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.450338,28.465159,-81.450338,28.465159",
     "geom:latitude":28.465159,
     "geom:longitude":-81.450338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5250 International Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
         85879451
     ],
+    "wof:brand_id":1125151971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0blZGQfHcCmFTgLvkkIzYX_28.465159_-81.450338@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b0dec12dd901c2146b0a615da7bfb9c",
+    "wof:geomhash":"05f6a223b1c21511d7fbdac5d216e3b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186287655,
-    "wof:lastmodified":1466430151,
+    "wof:lastmodified":1510695911,
     "wof:name":"Big Dog Sportswear",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

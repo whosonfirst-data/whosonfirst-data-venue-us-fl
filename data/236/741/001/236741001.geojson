@@ -2,9 +2,14 @@
   "id": 236741001,
   "type": "Feature",
   "properties": {
+    "addr:full":"6881 Kingspointe Pkwy Orlando FL 32819",
+    "addr:housenumber":"6881",
+    "addr:postcode":"32819",
+    "addr:street":"Kingspointe Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.438361,28.458869,-81.438361,28.458869",
     "geom:latitude":28.458869,
     "geom:longitude":-81.438361,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d0b710b548e1e1ecf8168e2920f4679f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":236741001,
-    "wof:lastmodified":1466438994,
+    "wof:lastmodified":1491884867,
     "wof:name":"Drewtina Properties LLC",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

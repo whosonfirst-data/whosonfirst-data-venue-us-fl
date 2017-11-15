@@ -2,9 +2,14 @@
   "id": 337321429,
   "type": "Feature",
   "properties": {
+    "addr:full":"3005 W Broward Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3005",
+    "addr:postcode":"33312",
+    "addr:street":"W Broward Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.184773,26.121291,-80.184773,26.121291",
     "geom:latitude":26.121291,
     "geom:longitude":-80.184773,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        85877519,
+        85865215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"17c4ea49f2960fa4f242c0aee79eb0a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877519,
+            "region_id":85688651,
+            "venue_id":337321429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85865215,
             "region_id":85688651,
             "venue_id":337321429
         }
     ],
     "wof:id":337321429,
-    "wof:lastmodified":1466434944,
+    "wof:lastmodified":1491916220,
     "wof:name":"Ampros Trophies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

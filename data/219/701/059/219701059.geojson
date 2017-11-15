@@ -2,9 +2,14 @@
   "id": 219701059,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 SW 16th Ter Miami FL 33145",
+    "addr:housenumber":"2200",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 16Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.232407,25.757291,-80.232407,25.757291",
     "geom:latitude":25.757291,
     "geom:longitude":-80.232407,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
-        102085771
+        102085771,
+        85896155,
+        85812267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"ec0d9e7998464bd4eb510c72e672bf87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85896155,
+            "region_id":85688651,
+            "venue_id":219701059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85812267,
             "region_id":85688651,
             "venue_id":219701059
         }
     ],
     "wof:id":219701059,
-    "wof:lastmodified":1466434101,
+    "wof:lastmodified":1491887613,
     "wof:name":"Vedado Hair Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

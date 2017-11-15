@@ -2,9 +2,14 @@
   "id": 320763927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1438 S Chickasaw Trl Orlando FL 32825",
+    "addr:housenumber":"1438",
+    "addr:postcode":"32825",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269067,28.510066,-81.269067,28.510066",
     "geom:latitude":28.510066,
     "geom:longitude":-81.269067,
@@ -30,9 +35,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +47,24 @@
     "wof:geomhash":"273ffd4e9a6b4cf9ee67952aa9e67f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":320763927
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":320763927
         }
     ],
     "wof:id":320763927,
-    "wof:lastmodified":1466446829,
+    "wof:lastmodified":1491901279,
     "wof:name":"Tpj Investment Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

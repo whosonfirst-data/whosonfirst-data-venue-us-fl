@@ -2,9 +2,14 @@
   "id": 320480295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1552 NW 15th Ter Fort Lauderdale FL 33311",
+    "addr:housenumber":"1552",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 15Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.163867,26.147919,-80.163867,26.147919",
     "geom:latitude":26.147919,
     "geom:longitude":-80.163867,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d00de723aa556caf5b4a4b921d5e6d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320480295,
-    "wof:lastmodified":1466441674,
+    "wof:lastmodified":1491904193,
     "wof:name":"Burks Lawn Service",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

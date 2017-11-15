@@ -2,9 +2,14 @@
   "id": 387565079,
   "type": "Feature",
   "properties": {
+    "addr:full":"10491 Gandy Blvd N St Petersburg FL 33702",
+    "addr:housenumber":"10491",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.629107,27.866349,-82.629107,27.866349",
     "geom:latitude":27.866349,
     "geom:longitude":-82.629107,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -47,7 +53,7 @@
     "wof:geomhash":"00e8373af6672f42febb8c304f925f96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":387565079,
-    "wof:lastmodified":1466446919,
+    "wof:lastmodified":1491938458,
     "wof:name":"Benedetto Auctions",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

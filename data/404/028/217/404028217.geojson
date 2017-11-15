@@ -2,9 +2,14 @@
   "id": 404028217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1135 W Arch St Tampa FL 33607",
+    "addr:housenumber":"1135",
+    "addr:postcode":"33607",
+    "addr:street":"W Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.47192,27.954232,-82.47192,27.954232",
     "geom:latitude":27.954232,
     "geom:longitude":-82.47192,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"af39ac6593ad2ce50518e3206ef50d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":404028217,
-    "wof:lastmodified":1466440702,
+    "wof:lastmodified":1491898220,
     "wof:name":"Second Chance To Life",
     "wof:parent_id":85889795,
     "wof:placetype":"venue",

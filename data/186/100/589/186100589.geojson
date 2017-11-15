@@ -2,9 +2,14 @@
   "id": 186100589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Vivada St Orlando FL 32803",
+    "addr:housenumber":"2300",
+    "addr:postcode":"32803",
+    "addr:street":"Vivada St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.352769,28.5609,-81.352769,28.5609",
     "geom:latitude":28.5609,
     "geom:longitude":-81.352769,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"87f3cbb978c0e6e8e3fba2dafe575ab6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":186100589,
-    "wof:lastmodified":1466445559,
+    "wof:lastmodified":1491921619,
     "wof:name":"Arts Wallpapering Service",
     "wof:parent_id":85879435,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270158073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 N Central Ave Tampa FL 33602",
+    "addr:housenumber":"2900",
+    "addr:postcode":"33602",
+    "addr:street":"N Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.455302,27.970885,-82.455302,27.970885",
     "geom:latitude":27.970885,
     "geom:longitude":-82.455302,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
-        102085773
+        102085773,
+        85873255,
+        85873265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"5216e824a1c3a1060e4026d251d3c47b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85873255,
+            "region_id":85688651,
+            "venue_id":270158073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85873265,
             "region_id":85688651,
             "venue_id":270158073
         }
     ],
     "wof:id":270158073,
-    "wof:lastmodified":1466432148,
+    "wof:lastmodified":1491934025,
     "wof:name":"Kings Transmission Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

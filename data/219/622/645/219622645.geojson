@@ -2,9 +2,14 @@
   "id": 219622645,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 S Orange Ave Orlando FL 32801",
+    "addr:housenumber":"118",
+    "addr:postcode":"32801",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.37909,28.540524,-81.37909,28.540524",
     "geom:latitude":28.540524,
     "geom:longitude":-81.37909,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"d31c5b8eee4fe1cfb7446fc8fc6759b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":219622645
         }
     ],
     "wof:id":219622645,
-    "wof:lastmodified":1466433104,
+    "wof:lastmodified":1491925001,
     "wof:name":"Echo Chamber",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

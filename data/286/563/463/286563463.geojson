@@ -2,9 +2,14 @@
   "id": 286563463,
   "type": "Feature",
   "properties": {
+    "addr:full":"721 Kanuga Dr West Palm Beach FL 33401",
+    "addr:housenumber":"721",
+    "addr:postcode":"33401",
+    "addr:street":"Kanuga Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.059823,26.697244,-80.059823,26.697244",
     "geom:latitude":26.697244,
     "geom:longitude":-80.059823,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -47,7 +53,7 @@
     "wof:geomhash":"edaefc9f7e7fb60c75c6bdb658764af8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":286563463,
-    "wof:lastmodified":1466434898,
+    "wof:lastmodified":1491921842,
     "wof:name":"Preferred Services",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

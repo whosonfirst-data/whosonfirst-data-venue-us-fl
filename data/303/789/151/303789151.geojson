@@ -2,9 +2,14 @@
   "id": 303789151,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 SW 31st St Fort Lauderdale FL 33315",
+    "addr:housenumber":"252",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143527,26.086154,-80.143527,26.086154",
     "geom:latitude":26.086154,
     "geom:longitude":-80.143527,
@@ -38,8 +43,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +54,15 @@
     "wof:geomhash":"3647f25f37bc0ba1e204250380a6723b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":303789151
         }
     ],
     "wof:id":303789151,
-    "wof:lastmodified":1466444126,
+    "wof:lastmodified":1491924501,
     "wof:name":"Rory's Marine Canvas & Uphlstr",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

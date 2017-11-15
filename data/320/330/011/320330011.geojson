@@ -2,9 +2,14 @@
   "id": 320330011,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 SW 33rd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"219",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142566,26.083534,-80.142566,26.083534",
     "geom:latitude":26.083534,
     "geom:longitude":-80.142566,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"c28ceec44e2a47f2106e30f743e06db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":320330011
         }
     ],
     "wof:id":320330011,
-    "wof:lastmodified":1466439036,
+    "wof:lastmodified":1491924497,
     "wof:name":"Kas Towing Company",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

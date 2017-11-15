@@ -2,9 +2,14 @@
   "id": 371134447,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 N Kirkman Rd Orlando FL 32811",
+    "addr:housenumber":"420",
+    "addr:postcode":"32811",
+    "addr:street":"N Kirkman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.458326,28.545495,-81.458326,28.545495",
     "geom:latitude":28.545495,
     "geom:longitude":-81.458326,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"01d4cc58aacdb2c58a7c10c13280f030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":371134447,
-    "wof:lastmodified":1466439616,
+    "wof:lastmodified":1491934990,
     "wof:name":"Leading Edge Collision",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

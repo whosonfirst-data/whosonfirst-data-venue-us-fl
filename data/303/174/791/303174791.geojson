@@ -2,9 +2,14 @@
   "id": 303174791,
   "type": "Feature",
   "properties": {
+    "addr:full":"8207 Curry Ford Rd Orlando FL 32822",
+    "addr:housenumber":"8207",
+    "addr:postcode":"32822",
+    "addr:street":"Curry Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.274663,28.510046,-81.274663,28.510046",
     "geom:latitude":28.510046,
     "geom:longitude":-81.274663,
@@ -31,9 +36,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +48,24 @@
     "wof:geomhash":"cb7100f3a51375cb5d3f183590b11709",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":303174791
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":303174791
         }
     ],
     "wof:id":303174791,
-    "wof:lastmodified":1466433553,
+    "wof:lastmodified":1491901271,
     "wof:name":"F & R Transport Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

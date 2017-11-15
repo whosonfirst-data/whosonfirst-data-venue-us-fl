@@ -2,9 +2,14 @@
   "id": 269872953,
   "type": "Feature",
   "properties": {
+    "addr:full":"5521 W Cypress St Tampa FL 33607",
+    "addr:housenumber":"5521",
+    "addr:postcode":"33607",
+    "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.542153,27.952572,-82.542153,27.952572",
     "geom:latitude":27.952572,
     "geom:longitude":-82.542153,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7f914be61e1735af3f81c3a350f43fbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269872953,
-    "wof:lastmodified":1466435355,
+    "wof:lastmodified":1491925147,
     "wof:name":"Wdmj Management Corporation",
     "wof:parent_id":85889791,
     "wof:placetype":"venue",

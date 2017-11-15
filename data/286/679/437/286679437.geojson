@@ -2,9 +2,14 @@
   "id": 286679437,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 24th St West Palm Beach FL 33407",
+    "addr:housenumber":"510",
+    "addr:postcode":"33407",
+    "addr:street":"24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056666,26.735612,-80.056666,26.735612",
     "geom:latitude":26.735612,
     "geom:longitude":-80.056666,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3f2d9a26eddc2660fb5e0214b39551c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286679437,
-    "wof:lastmodified":1466436971,
+    "wof:lastmodified":1491899777,
     "wof:name":"Northwood Renaissance Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

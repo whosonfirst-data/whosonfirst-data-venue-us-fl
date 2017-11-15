@@ -2,9 +2,14 @@
   "id": 236726857,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 NE 22nd St Miami FL 33137",
+    "addr:housenumber":"331",
+    "addr:postcode":"33137",
+    "addr:street":"Ne 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188409,25.798202,-80.188409,25.798202",
     "geom:latitude":25.798202,
     "geom:longitude":-80.188409,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fb3fdaa6d84a0dc5cfa181e25a12d9ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":236726857,
-    "wof:lastmodified":1466438786,
+    "wof:lastmodified":1491921170,
     "wof:name":"Edgewater Lofts LLC",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

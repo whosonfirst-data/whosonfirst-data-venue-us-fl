@@ -2,9 +2,14 @@
   "id": 353573015,
   "type": "Feature",
   "properties": {
+    "addr:full":"5507 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5507",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.454889,28.552471,-81.454889,28.552471",
     "geom:latitude":28.552471,
     "geom:longitude":-81.454889,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a8b3d41bf29fc6d198fcad226455796c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353573015,
-    "wof:lastmodified":1466437358,
+    "wof:lastmodified":1491934997,
     "wof:name":"Wendys",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

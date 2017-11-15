@@ -2,9 +2,14 @@
   "id": 320557283,
   "type": "Feature",
   "properties": {
+    "addr:full":"6436 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6436",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.468797,28.552033,-81.468797,28.552033",
     "geom:latitude":28.552033,
     "geom:longitude":-81.468797,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -46,7 +52,7 @@
     "wof:geomhash":"46b2fb6bf9460da436543ec8cecb5373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320557283,
-    "wof:lastmodified":1466443035,
+    "wof:lastmodified":1491934987,
     "wof:name":"Citi Financial",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

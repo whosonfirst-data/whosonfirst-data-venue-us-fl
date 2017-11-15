@@ -2,9 +2,14 @@
   "id": 370944031,
   "type": "Feature",
   "properties": {
+    "addr:full":"3910 6th St S St Petersburg FL 33705",
+    "addr:housenumber":"3910",
+    "addr:postcode":"33705",
+    "addr:street":"6Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.640722,27.73272,-82.640722,27.73272",
     "geom:latitude":27.73272,
     "geom:longitude":-82.640722,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bb95fd14c550ee345029b68d94bc2af8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370944031,
-    "wof:lastmodified":1466447872,
+    "wof:lastmodified":1491903009,
     "wof:name":"Coquina Meat Market",
     "wof:parent_id":85812245,
     "wof:placetype":"venue",

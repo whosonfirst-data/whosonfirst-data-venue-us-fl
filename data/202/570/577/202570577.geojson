@@ -2,9 +2,14 @@
   "id": 202570577,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 SW 38th St Fort Lauderdale FL 33312",
+    "addr:housenumber":"2150",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.170402,26.07448,-80.170402,26.07448",
     "geom:latitude":26.07448,
     "geom:longitude":-80.170402,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:brand_id":420573755,
     "wof:breaches":[],
@@ -44,17 +49,15 @@
     "wof:geomhash":"37f535084cd07a5feb5f7d74eafc4261",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":202570577
         }
     ],
     "wof:id":202570577,
-    "wof:lastmodified":1466429283,
+    "wof:lastmodified":1491924486,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

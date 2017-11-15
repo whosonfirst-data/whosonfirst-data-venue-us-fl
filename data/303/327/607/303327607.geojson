@@ -2,9 +2,14 @@
   "id": 303327607,
   "type": "Feature",
   "properties": {
+    "addr:full":"842 Pedro Ave Orlando FL 32807",
+    "addr:housenumber":"842",
+    "addr:postcode":"32807",
+    "addr:street":"Pedro Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.306849,28.532044,-81.306849,28.532044",
     "geom:latitude":28.532044,
     "geom:longitude":-81.306849,
@@ -32,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
-        102085847
+        102085847,
+        85879497,
+        85889363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,28 @@
     "wof:geomhash":"caa8fd0fca1b3058576a0c71029f9634",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85879497,
+            "region_id":85688651,
+            "venue_id":303327607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85889363,
             "region_id":85688651,
             "venue_id":303327607
         }
     ],
     "wof:id":303327607,
-    "wof:lastmodified":1466436182,
+    "wof:lastmodified":1491901766,
     "wof:name":"Bottom Line International Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

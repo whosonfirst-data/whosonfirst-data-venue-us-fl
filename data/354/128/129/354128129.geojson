@@ -2,9 +2,14 @@
   "id": 354128129,
   "type": "Feature",
   "properties": {
+    "addr:full":"6907 W Colonial Dr Orlando FL 32818",
+    "addr:housenumber":"6907",
+    "addr:postcode":"32818",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.473314,28.552168,-81.473314,28.552168",
     "geom:latitude":28.552168,
     "geom:longitude":-81.473314,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5670fc51757534320c7d7dd908dbb7ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354128129,
-    "wof:lastmodified":1466438058,
+    "wof:lastmodified":1491934989,
     "wof:name":"Celebration Vacation Inc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

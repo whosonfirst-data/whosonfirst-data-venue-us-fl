@@ -2,9 +2,14 @@
   "id": 286764013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1223 Palmer St Orlando FL 32801",
+    "addr:housenumber":"1223",
+    "addr:postcode":"32801",
+    "addr:street":"Palmer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.363575,28.53498,-81.363575,28.53498",
     "geom:latitude":28.53498,
     "geom:longitude":-81.363575,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"1cad237124480470a181fce7a23a929b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286764013,
-    "wof:lastmodified":1466438501,
+    "wof:lastmodified":1491905852,
     "wof:name":"W P Home Restoration Inc",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

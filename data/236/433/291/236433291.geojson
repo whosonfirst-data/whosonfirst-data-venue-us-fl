@@ -2,9 +2,14 @@
   "id": 236433291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 4th St N St Petersburg FL 33701",
+    "addr:housenumber":"1125",
+    "addr:postcode":"33701",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638448,27.783723,-82.638448,27.783723",
     "geom:latitude":27.783723,
     "geom:longitude":-82.638448,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"538a3f0ea4cdbc9422bc2d066672315a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236433291,
-    "wof:lastmodified":1466434531,
+    "wof:lastmodified":1491901203,
     "wof:name":"Finley & Phillips Hair Salon",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

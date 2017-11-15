@@ -2,9 +2,14 @@
   "id": 303322463,
   "type": "Feature",
   "properties": {
+    "addr:full":"10231 Timberland Point Dr Tampa FL 33647",
+    "addr:housenumber":"10231",
+    "addr:postcode":"33647",
+    "addr:street":"Timberland Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.313603,28.13738,-82.313603,28.13738",
     "geom:latitude":28.13738,
     "geom:longitude":-82.313603,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5884e6d5a5d174efed65d9264a1bdba0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303322463,
-    "wof:lastmodified":1466436099,
+    "wof:lastmodified":1491893743,
     "wof:name":"Divine Choice Vending",
     "wof:parent_id":85889651,
     "wof:placetype":"venue",

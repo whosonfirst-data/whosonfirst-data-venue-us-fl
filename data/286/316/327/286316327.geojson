@@ -2,9 +2,14 @@
   "id": 286316327,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 Hialeah St Orlando FL 32808",
+    "addr:housenumber":"1409",
+    "addr:postcode":"32808",
+    "addr:street":"Hialeah St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.460362,28.558828,-81.460362,28.558828",
     "geom:latitude":28.558828,
     "geom:longitude":-81.460362,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8f19452d46760b5023261874b723e14a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286316327,
-    "wof:lastmodified":1466430611,
+    "wof:lastmodified":1491934993,
     "wof:name":"Barazas Drywall",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

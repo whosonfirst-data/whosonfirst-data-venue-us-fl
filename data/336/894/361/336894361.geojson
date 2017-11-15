@@ -2,9 +2,14 @@
   "id": 336894361,
   "type": "Feature",
   "properties": {
+    "addr:full":"10515 Gandy Blvd N Saint Petersburg FL 33702",
+    "addr:housenumber":"10515",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.627041,27.866947,-82.627041,27.866947",
     "geom:latitude":27.866947,
     "geom:longitude":-82.627041,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"05393023c49932ee307ba52a0db43a16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336894361,
-    "wof:lastmodified":1466440102,
+    "wof:lastmodified":1491938460,
     "wof:name":"Kahunas Restaurant",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

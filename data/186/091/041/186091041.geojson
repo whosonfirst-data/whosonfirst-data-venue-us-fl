@@ -2,9 +2,14 @@
   "id": 186091041,
   "type": "Feature",
   "properties": {
+    "addr:full":"2144 43rd Ave N St Petersburg FL 33714",
+    "addr:housenumber":"2144",
+    "addr:postcode":"33714",
+    "addr:street":"43Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.662373,27.81073,-82.662373,27.81073",
     "geom:latitude":27.81073,
     "geom:longitude":-82.662373,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c64685bfc782b6d5c4a1b9b85396b8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186091041,
-    "wof:lastmodified":1466445355,
+    "wof:lastmodified":1491889861,
     "wof:name":"Hudson Painting",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

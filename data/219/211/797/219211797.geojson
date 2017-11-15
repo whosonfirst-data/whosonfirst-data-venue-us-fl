@@ -2,9 +2,14 @@
   "id": 219211797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2999 McDonald St Coconut Grove FL 33133",
+    "addr:housenumber":"2999",
+    "addr:postcode":"33133",
+    "addr:street":"Mcdonald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.245888,25.736238,-80.245888,25.736238",
     "geom:latitude":25.736238,
     "geom:longitude":-80.245888,
@@ -27,9 +32,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933643,
+        102085771,
+        85811627,
         85933669,
-        102085771
+        85839179
     ],
     "wof:brand_id":420573997,
     "wof:breaches":[],
@@ -40,19 +49,28 @@
     "wof:geomhash":"075e94d5e31c8756a77f9926ae6011b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933643,
+            "neighbourhood_id":85811627,
+            "region_id":85688651,
+            "venue_id":219211797
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839179,
             "region_id":85688651,
             "venue_id":219211797
         }
     ],
     "wof:id":219211797,
-    "wof:lastmodified":1466444505,
+    "wof:lastmodified":1491901676,
     "wof:name":"Kmart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 269715543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2120 SW 33rd Ave Fort Lauderdale FL 33312",
+    "addr:housenumber":"2120",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 33Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188629,26.09479,-80.188629,26.09479",
     "geom:latitude":26.09479,
     "geom:longitude":-80.188629,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -43,7 +49,7 @@
     "wof:geomhash":"839232ad9c14102d7fdac804e0c586fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":269715543,
-    "wof:lastmodified":1466432612,
+    "wof:lastmodified":1491916222,
     "wof:name":"Intermedia Publishing Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

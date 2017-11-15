@@ -2,9 +2,14 @@
   "id": 370989245,
   "type": "Feature",
   "properties": {
+    "addr:full":"18177 Heron Walk Dr Tampa FL 33647",
+    "addr:housenumber":"18177",
+    "addr:postcode":"33647",
+    "addr:street":"Heron Walk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.310076,28.139712,-82.310076,28.139712",
     "geom:latitude":28.139712,
     "geom:longitude":-82.310076,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b931b2c0e161e2a795c9cd307bc18895",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370989245,
-    "wof:lastmodified":1466448253,
+    "wof:lastmodified":1491893745,
     "wof:name":"Apurva Technologies Inc",
     "wof:parent_id":85889651,
     "wof:placetype":"venue",

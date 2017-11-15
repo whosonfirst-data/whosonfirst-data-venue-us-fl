@@ -2,9 +2,14 @@
   "id": 370233809,
   "type": "Feature",
   "properties": {
+    "addr:full":"4495 Crestwood Dr N Saint Petersburg FL 33714",
+    "addr:housenumber":"4495",
+    "addr:postcode":"33714",
+    "addr:street":"Crestwood Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.655767,27.812214,-82.655767,27.812214",
     "geom:latitude":27.812214,
     "geom:longitude":-82.655767,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"69ec78ffba5585bd268bd9d13377b14a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370233809,
-    "wof:lastmodified":1466437750,
+    "wof:lastmodified":1491889861,
     "wof:name":"A Canton and Company",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 403722071,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 Kingspointe Pkwy Orlando FL 32819",
+    "addr:housenumber":"6800",
+    "addr:postcode":"32819",
+    "addr:street":"Kingspointe Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.437017,28.45961,-81.437017,28.45961",
     "geom:latitude":28.45961,
     "geom:longitude":-81.437017,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -49,7 +55,7 @@
     "wof:geomhash":"051e051abec802e3b16422a136354242",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":403722071,
-    "wof:lastmodified":1466439891,
+    "wof:lastmodified":1491884823,
     "wof:name":"Home Depot",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

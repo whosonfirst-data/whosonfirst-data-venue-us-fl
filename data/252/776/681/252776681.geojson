@@ -2,9 +2,14 @@
   "id": 252776681,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 W Pine St Orlando FL 32801",
+    "addr:housenumber":"16",
+    "addr:postcode":"32801",
+    "addr:street":"W Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.380521,28.541216,-81.380521,28.541216",
     "geom:latitude":28.541216,
     "geom:longitude":-81.380521,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"7bc86b07626d82e1e1c82450338489d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":252776681
         }
     ],
     "wof:id":252776681,
-    "wof:lastmodified":1466429415,
+    "wof:lastmodified":1491925020,
     "wof:name":"Tang Kevin J",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336760993,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E Michigan St Orlando FL 32806",
+    "addr:housenumber":"500",
+    "addr:postcode":"32806",
+    "addr:street":"E Michigan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.369102,28.513036,-81.369102,28.513036",
     "geom:latitude":28.513036,
     "geom:longitude":-81.369102,
@@ -26,7 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -39,17 +46,17 @@
     "wof:geomhash":"fda3258945549b0fccdd3f6163a139fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":336760993
         }
     ],
     "wof:id":336760993,
-    "wof:lastmodified":1466437760,
+    "wof:lastmodified":1491930957,
     "wof:name":"AM South Bank",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

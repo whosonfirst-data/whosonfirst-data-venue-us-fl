@@ -2,9 +2,14 @@
   "id": 236762025,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S Lake Dr Palm Beach FL 33480",
+    "addr:housenumber":"315",
+    "addr:postcode":"33480",
+    "addr:street":"S Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.04361,26.70579,-80.04361,26.70579",
     "geom:latitude":26.70579,
     "geom:longitude":-80.04361,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a8c09aa45abe883a4db24002defed25c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236762025,
-    "wof:lastmodified":1466439313,
+    "wof:lastmodified":1491899624,
     "wof:name":"Equitable Holding Corp",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

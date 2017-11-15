@@ -2,9 +2,14 @@
   "id": 320860369,
   "type": "Feature",
   "properties": {
+    "addr:full":"2816 SW 3rd Ave Miami FL 33129",
+    "addr:housenumber":"2816",
+    "addr:postcode":"33129",
+    "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.210718,25.75374,-80.210718,25.75374",
     "geom:latitude":25.75374,
     "geom:longitude":-80.210718,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"69b5f5186e069d8a3afc50f9766a0d91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320860369,
-    "wof:lastmodified":1466447571,
+    "wof:lastmodified":1491887609,
     "wof:name":"Bigham Insulation & Supply Co",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

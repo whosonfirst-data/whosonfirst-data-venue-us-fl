@@ -2,9 +2,14 @@
   "id": 320858501,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 Haines Rd N Saint Petersburg FL 33714",
+    "addr:housenumber":"4601",
+    "addr:postcode":"33714",
+    "addr:street":"Haines Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.660056,27.81456,-82.660056,27.81456",
     "geom:latitude":27.81456,
     "geom:longitude":-82.660056,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8005ed3262d180f753948d347c64147e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320858501,
-    "wof:lastmodified":1466447449,
+    "wof:lastmodified":1491889863,
     "wof:name":"Floridian Garden Designs",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

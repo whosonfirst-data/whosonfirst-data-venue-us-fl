@@ -2,9 +2,14 @@
   "id": 387322133,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 W 31st St Miami Beach FL 33140",
+    "addr:housenumber":"426",
+    "addr:postcode":"33140",
+    "addr:street":"W 31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.129894,25.807409,-80.129894,25.807409",
     "geom:latitude":25.807409,
     "geom:longitude":-80.129894,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"f82a6065b4acfbedd4733d8b26719259",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":387322133
         }
     ],
     "wof:id":387322133,
-    "wof:lastmodified":1466443670,
+    "wof:lastmodified":1491903619,
     "wof:name":"Audrey E Rosenbaum",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",

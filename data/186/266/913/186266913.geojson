@@ -2,9 +2,14 @@
   "id": 186266913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 E 5th Ave Tampa FL 33605",
+    "addr:housenumber":"3012",
+    "addr:postcode":"33605",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.425435,27.958836,-82.425435,27.958836",
     "geom:latitude":27.958836,
     "geom:longitude":-82.425435,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -45,7 +51,7 @@
     "wof:geomhash":"9e7e68cc01bc9b8fb9bfa87e2e882917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":186266913,
-    "wof:lastmodified":1466429883,
+    "wof:lastmodified":1491932444,
     "wof:name":"REM Air Conditioning-Tampa",
     "wof:parent_id":85889685,
     "wof:placetype":"venue",

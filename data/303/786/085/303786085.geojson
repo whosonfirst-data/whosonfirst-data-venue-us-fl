@@ -2,9 +2,14 @@
   "id": 303786085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2631 E Oakland Park Blvd Fort Lauderdale FL 33306",
+    "addr:housenumber":"2631",
+    "addr:postcode":"33306",
+    "addr:street":"E Oakland Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.114302,26.167327,-80.114302,26.167327",
     "geom:latitude":26.167327,
     "geom:longitude":-80.114302,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        85877493,
+        85812259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"8622b9e411ab78c8c7677eb150fb1225",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877493,
+            "region_id":85688651,
+            "venue_id":303786085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85812259,
             "region_id":85688651,
             "venue_id":303786085
         }
     ],
     "wof:id":303786085,
-    "wof:lastmodified":1466444072,
+    "wof:lastmodified":1491905136,
     "wof:name":"America's Best Choice Lending",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

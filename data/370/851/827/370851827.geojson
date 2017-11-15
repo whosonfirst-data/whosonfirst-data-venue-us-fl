@@ -2,9 +2,14 @@
   "id": 370851827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 W Cypress St Tampa FL 33609",
+    "addr:housenumber":"2315",
+    "addr:postcode":"33609",
+    "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.484799,27.952174,-82.484799,27.952174",
     "geom:latitude":27.952174,
     "geom:longitude":-82.484799,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -48,7 +54,7 @@
     "wof:geomhash":"9fcdb04d7842ba9ca263d1eec44304e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":370851827,
-    "wof:lastmodified":1466446856,
+    "wof:lastmodified":1491934215,
     "wof:name":"West Florida Fence Inc",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

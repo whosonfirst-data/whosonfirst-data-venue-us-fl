@@ -2,9 +2,14 @@
   "id": 219607363,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 4th Rivo Alto Ter Miami Beach FL 33139",
+    "addr:housenumber":"109",
+    "addr:postcode":"33139",
+    "addr:street":"4Th Rivo Alto Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.154794,25.79302,-80.154794,25.79302",
     "geom:latitude":25.79302,
     "geom:longitude":-80.154794,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1ac892cd4a4f72990e2e22617fe28dba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219607363,
-    "wof:lastmodified":1466432893,
+    "wof:lastmodified":1491915784,
     "wof:name":"Burton Harrison",
     "wof:parent_id":85878933,
     "wof:placetype":"venue",

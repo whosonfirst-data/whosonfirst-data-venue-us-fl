@@ -2,9 +2,14 @@
   "id": 370904537,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 NW 26th St Miami FL 33127",
+    "addr:housenumber":"232",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.200528,25.801353,-80.200528,25.801353",
     "geom:latitude":25.801353,
     "geom:longitude":-80.200528,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0b4641fa6f86ecccf610232b0cd03f4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370904537,
-    "wof:lastmodified":1466447375,
+    "wof:lastmodified":1491905717,
     "wof:name":"Mobile Mechanic Svc LLC",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

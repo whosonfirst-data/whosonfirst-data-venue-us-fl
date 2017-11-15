@@ -2,14 +2,20 @@
   "id": 320812969,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 W Pine St Orlando FL 32805",
+    "addr:housenumber":"537",
+    "addr:postcode":"32805",
+    "addr:street":"W Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.386043,28.541165,-81.386043,28.541165",
     "geom:latitude":28.541165,
     "geom:longitude":-81.386043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"537 W Pine St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -38,20 +44,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
         85889335
     ],
+    "wof:brand_id":1125157697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37ps6eUwqzngbGHeyzD56q_28.541165_-81.386043@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a0abf05fa035863fa5eb4b59db74dc4",
+    "wof:geomhash":"ff62adba82c686f6c6cf81b04f7cf0be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -61,7 +69,7 @@
         }
     ],
     "wof:id":320812969,
-    "wof:lastmodified":1466446950,
+    "wof:lastmodified":1510694899,
     "wof:name":"P P G Auto Glass",
     "wof:parent_id":85889335,
     "wof:placetype":"venue",

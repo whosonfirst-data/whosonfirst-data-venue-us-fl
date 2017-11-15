@@ -2,9 +2,14 @@
   "id": 336917091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 NW 11th Pl Fort Lauderdale FL 33311",
+    "addr:housenumber":"2701",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 11Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.180548,26.139653,-80.180548,26.139653",
     "geom:latitude":26.139653,
     "geom:longitude":-80.180548,
@@ -29,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85934377,
-        102084727
+        85932341,
+        102084727,
+        85868531,
+        85932397,
+        85865213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,28 @@
     "wof:geomhash":"c9d39c921d89c191fa33466c263c2ab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85934377,
-            "neighbourhood_id":-1,
+            "locality_id":85932341,
+            "neighbourhood_id":85868531,
+            "region_id":85688651,
+            "venue_id":336917091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85865213,
             "region_id":85688651,
             "venue_id":336917091
         }
     ],
     "wof:id":336917091,
-    "wof:lastmodified":1466440465,
+    "wof:lastmodified":1491897142,
     "wof:name":"Brown Angela Laverne Everett",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236094899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1103 N Observatory Dr Orlando FL 32818",
+    "addr:housenumber":"1103",
+    "addr:postcode":"32818",
+    "addr:street":"N Observatory Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.468601,28.557505,-81.468601,28.557505",
     "geom:latitude":28.557505,
     "geom:longitude":-81.468601,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1be364dba7be23291c523503ec434a7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236094899,
-    "wof:lastmodified":1466429711,
+    "wof:lastmodified":1491934986,
     "wof:name":"Rock Hauling Truck Services",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

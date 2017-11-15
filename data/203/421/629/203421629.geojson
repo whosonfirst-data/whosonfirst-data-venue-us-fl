@@ -2,9 +2,14 @@
   "id": 203421629,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"580",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.056375,26.699271,-80.056375,26.699271",
     "geom:latitude":26.699271,
     "geom:longitude":-80.056375,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9ed7013af974ba088780d3d8de03cbb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203421629,
-    "wof:lastmodified":1466431720,
+    "wof:lastmodified":1491921857,
     "wof:name":"Investors Realty Svc Inc",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

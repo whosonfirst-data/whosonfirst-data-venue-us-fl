@@ -2,9 +2,14 @@
   "id": 387246143,
   "type": "Feature",
   "properties": {
+    "addr:full":"6124 Pershing St NE Saint Petersburg FL 33703",
+    "addr:housenumber":"6124",
+    "addr:postcode":"33703",
+    "addr:street":"Pershing St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.630906,27.828429,-82.630906,27.828429",
     "geom:latitude":27.828429,
     "geom:longitude":-82.630906,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"db175a7c97852a725f825485b43d219d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387246143,
-    "wof:lastmodified":1466442491,
+    "wof:lastmodified":1491913790,
     "wof:name":"Streitz Tree Service",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

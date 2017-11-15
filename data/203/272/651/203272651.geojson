@@ -2,9 +2,14 @@
   "id": 203272651,
   "type": "Feature",
   "properties": {
+    "addr:full":"4516 S Dale Mabry Hwy Tampa FL 33611",
+    "addr:housenumber":"4516",
+    "addr:postcode":"33611",
+    "addr:street":"S Dale Mabry Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.50613,27.902228,-82.50613,27.902228",
     "geom:latitude":27.902228,
     "geom:longitude":-82.50613,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bd77ee9f64e42610bb24c5f3ad35288f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203272651,
-    "wof:lastmodified":1466429827,
+    "wof:lastmodified":1491939108,
     "wof:name":"Dynasty Chinese Restaurant",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

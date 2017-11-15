@@ -2,9 +2,14 @@
   "id": 303922757,
   "type": "Feature",
   "properties": {
+    "addr:full":"10636 Gandy Blvd N St Petersburg FL 33702",
+    "addr:housenumber":"10636",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.624015,27.867764,-82.624015,27.867764",
     "geom:latitude":27.867764,
     "geom:longitude":-82.624015,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -49,7 +55,7 @@
     "wof:geomhash":"49e09d04e19b4dee1af74ae2b71592ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":303922757,
-    "wof:lastmodified":1466446560,
+    "wof:lastmodified":1491938458,
     "wof:name":"Twin City Mobile Home Park",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

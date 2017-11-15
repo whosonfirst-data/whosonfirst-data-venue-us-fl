@@ -2,9 +2,14 @@
   "id": 353866659,
   "type": "Feature",
   "properties": {
+    "addr:full":"4108 Laguna St Miami FL 33146",
+    "addr:housenumber":"4108",
+    "addr:postcode":"33146",
+    "addr:street":"Laguna St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.261257,25.734038,-80.261257,25.734038",
     "geom:latitude":25.734038,
     "geom:longitude":-80.261257,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"d070702210ac85fd1fc040b730d4218d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":353866659
         }
     ],
     "wof:id":353866659,
-    "wof:lastmodified":1466441965,
+    "wof:lastmodified":1491901707,
     "wof:name":"Nunez Construction Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

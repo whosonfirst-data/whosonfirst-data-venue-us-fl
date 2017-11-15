@@ -2,9 +2,14 @@
   "id": 370294099,
   "type": "Feature",
   "properties": {
+    "addr:full":"10200 Snug Harbor Rd NE St Petersburg FL 33702",
+    "addr:housenumber":"10200",
+    "addr:postcode":"33702",
+    "addr:street":"Snug Harbor Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.616519,27.863653,-82.616519,27.863653",
     "geom:latitude":27.863653,
     "geom:longitude":-82.616519,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a878fea49f4110e5e347df594f4624f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370294099,
-    "wof:lastmodified":1466438672,
+    "wof:lastmodified":1491938458,
     "wof:name":"Jay Gee Development LLC",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

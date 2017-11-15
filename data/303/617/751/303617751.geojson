@@ -2,9 +2,14 @@
   "id": 303617751,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 S Miami Ave Miami FL 33130",
+    "addr:housenumber":"155",
+    "addr:postcode":"33130",
+    "addr:street":"S Miami Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.193498,25.773013,-80.193498,25.773013",
     "geom:latitude":25.773013,
     "geom:longitude":-80.193498,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"98b16b8bd4bdd5c92a9579ca196b68b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303617751,
-    "wof:lastmodified":1466441157,
+    "wof:lastmodified":1491906299,
     "wof:name":"Assurance MEDIACLE-Imas",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354290779,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 Kanuga Dr West Palm Beach FL 33401",
+    "addr:housenumber":"605",
+    "addr:postcode":"33401",
+    "addr:street":"Kanuga Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.058134,26.697206,-80.058134,26.697206",
     "geom:latitude":26.697206,
     "geom:longitude":-80.058134,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d39af93ae38d20272b35116112f0fac5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354290779,
-    "wof:lastmodified":1466440549,
+    "wof:lastmodified":1491921850,
     "wof:name":"Tonarely Fernando Pntg Contr",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

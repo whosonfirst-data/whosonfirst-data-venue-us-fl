@@ -2,9 +2,14 @@
   "id": 253239933,
   "type": "Feature",
   "properties": {
+    "addr:full":"13060 Gandy Blvd N Saint Petersburg FL 33702",
+    "addr:housenumber":"13060",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.605356,27.872544,-82.605356,27.872544",
     "geom:latitude":27.872544,
     "geom:longitude":-82.605356,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d2d4ff3f6b9093df4f2c33c6a830c3d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253239933,
-    "wof:lastmodified":1466431297,
+    "wof:lastmodified":1491938457,
     "wof:name":"Offshore Communications",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

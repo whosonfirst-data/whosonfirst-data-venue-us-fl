@@ -2,14 +2,20 @@
   "id": 303823515,
   "type": "Feature",
   "properties": {
+    "addr:full":"6923 Municipal Dr Orlando FL 32819",
+    "addr:housenumber":"6923",
+    "addr:postcode":"32819",
+    "addr:street":"Municipal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.452205,28.462222,-81.452205,28.462222",
     "geom:latitude":28.462222,
     "geom:longitude":-81.452205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6923 Municipal Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
         85879451
     ],
+    "wof:brand_id":1125151635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o2mLxuJIuOBWEmTmmDEs8_28.462222_-81.452205@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"104fdb9047dc19fbee2db5f2f636ccac",
+    "wof:geomhash":"b37b8374fd63d200f3b46f62a6420ddb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":303823515,
-    "wof:lastmodified":1466444709,
+    "wof:lastmodified":1510695901,
     "wof:name":"Cheers",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

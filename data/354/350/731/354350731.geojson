@@ -2,9 +2,14 @@
   "id": 354350731,
   "type": "Feature",
   "properties": {
+    "addr:full":"885 2nd St N St Petersburg FL 33701",
+    "addr:housenumber":"885",
+    "addr:postcode":"33701",
+    "addr:street":"2Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.635539,27.780475,-82.635539,27.780475",
     "geom:latitude":27.780475,
     "geom:longitude":-82.635539,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"10cb2852f72e10ad9317f2a61f827006",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354350731,
-    "wof:lastmodified":1466441473,
+    "wof:lastmodified":1491938316,
     "wof:name":"Personal Auto Repair",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",

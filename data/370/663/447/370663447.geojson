@@ -2,9 +2,14 @@
   "id": 370663447,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 25th St West Palm Beach FL 33407",
+    "addr:housenumber":"715",
+    "addr:postcode":"33407",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.05975,26.736418,-80.05975,26.736418",
     "geom:latitude":26.736418,
     "geom:longitude":-80.05975,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"90ccf1e7a4e0c26e8ba47e7101d46de9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370663447,
-    "wof:lastmodified":1466444339,
+    "wof:lastmodified":1491899775,
     "wof:name":"Bruning Paints",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

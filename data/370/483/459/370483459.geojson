@@ -2,9 +2,14 @@
   "id": 370483459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 4th St N St Petersburg FL 33701",
+    "addr:housenumber":"1",
+    "addr:postcode":"33701",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638483,27.77207,-82.638483,27.77207",
     "geom:latitude":27.77207,
     "geom:longitude":-82.638483,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
-        102085759
+        102085759,
+        85881943,
+        85881941,
+        85889535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"0e42d4703f447cdc992c5d115b6df874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881943,
+            "region_id":85688651,
+            "venue_id":370483459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85881941,
+            "region_id":85688651,
+            "venue_id":370483459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85889535,
             "region_id":85688651,
             "venue_id":370483459
         }
     ],
     "wof:id":370483459,
-    "wof:lastmodified":1466441587,
+    "wof:lastmodified":1491933292,
     "wof:name":"St Petersburg Recruiting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

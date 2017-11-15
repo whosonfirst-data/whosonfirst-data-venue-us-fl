@@ -2,9 +2,14 @@
   "id": 253657685,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 S Orange Blossom Trl Orlando FL 32805",
+    "addr:housenumber":"103",
+    "addr:postcode":"32805",
+    "addr:street":"S Orange Blossom Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.397171,28.540173,-81.397171,28.540173",
     "geom:latitude":28.540173,
     "geom:longitude":-81.397171,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e00fa9276e1d15ecbe851ca106968e68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253657685,
-    "wof:lastmodified":1466438438,
+    "wof:lastmodified":1491911389,
     "wof:name":"A & P Central Properties Inc",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

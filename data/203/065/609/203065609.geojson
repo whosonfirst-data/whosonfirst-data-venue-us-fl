@@ -2,9 +2,14 @@
   "id": 203065609,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Palm St West Palm Beach FL 33401",
+    "addr:housenumber":"700",
+    "addr:postcode":"33401",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.060037,26.699467,-80.060037,26.699467",
     "geom:latitude":26.699467,
     "geom:longitude":-80.060037,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -48,7 +54,7 @@
     "wof:geomhash":"4d0a2811788ff99c087405ed03250688",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":203065609,
-    "wof:lastmodified":1466444441,
+    "wof:lastmodified":1491921835,
     "wof:name":"Ghirardelli Chocolate Company",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

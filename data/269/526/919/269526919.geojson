@@ -2,9 +2,14 @@
   "id": 269526919,
   "type": "Feature",
   "properties": {
+    "addr:full":"3711 16th St N St Petersburg FL 33704",
+    "addr:housenumber":"3711",
+    "addr:postcode":"33704",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.654925,27.805579,-82.654925,27.805579",
     "geom:latitude":27.805579,
     "geom:longitude":-82.654925,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6e1ec9bba92b959bd65e26fe3472aedb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":269526919,
-    "wof:lastmodified":1466429242,
+    "wof:lastmodified":1491889862,
     "wof:name":"B & J Discount Beverages Inc",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

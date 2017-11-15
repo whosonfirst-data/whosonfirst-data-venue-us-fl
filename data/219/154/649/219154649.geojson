@@ -2,9 +2,14 @@
   "id": 219154649,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 SW 12th Ave Miami FL 33130",
+    "addr:housenumber":"334",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.214631,25.769938,-80.214631,25.769938",
     "geom:latitude":25.769938,
     "geom:longitude":-80.214631,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4e3489dc15524be5ab91bab3d80756b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":219154649,
-    "wof:lastmodified":1466431804,
+    "wof:lastmodified":1491906076,
     "wof:name":"Olmi's Salon Unisex",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

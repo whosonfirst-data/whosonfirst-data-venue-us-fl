@@ -2,9 +2,14 @@
   "id": 169668493,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 NW 10th Ave Dania FL 33004",
+    "addr:housenumber":"825",
+    "addr:postcode":"33004",
+    "addr:street":"Nw 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.151318,26.062932,-80.151318,26.062932",
     "geom:latitude":26.062932,
     "geom:longitude":-80.151318,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"6348c073d5a386df6ebf7bd9cf3f7297",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":169668493
         }
     ],
     "wof:id":169668493,
-    "wof:lastmodified":1466445004,
+    "wof:lastmodified":1491924490,
     "wof:name":"Bamboo Gardens",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

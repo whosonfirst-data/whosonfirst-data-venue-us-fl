@@ -2,9 +2,14 @@
   "id": 304038821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2138 W Arch St Tampa FL 33607",
+    "addr:housenumber":"2138",
+    "addr:postcode":"33607",
+    "addr:street":"W Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.482243,27.954172,-82.482243,27.954172",
     "geom:latitude":27.954172,
     "geom:longitude":-82.482243,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"520ba983821f34d7b9d2827b6f3892d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":304038821,
-    "wof:lastmodified":1466432490,
+    "wof:lastmodified":1491934207,
     "wof:name":"Alpine Auto Body Co",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

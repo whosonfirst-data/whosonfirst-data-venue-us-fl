@@ -2,9 +2,14 @@
   "id": 370926213,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 SW 10th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"15",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143153,26.110385,-80.143153,26.110385",
     "geom:latitude":26.110385,
     "geom:longitude":-80.143153,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"fe10f742ea93505925c1e1a007937d37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370926213,
-    "wof:lastmodified":1466447815,
+    "wof:lastmodified":1491936870,
     "wof:name":"Tami Gayikian",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

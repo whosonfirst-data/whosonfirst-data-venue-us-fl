@@ -2,9 +2,14 @@
   "id": 354146825,
   "type": "Feature",
   "properties": {
+    "addr:full":"10300 Boggy Creek Rd Orlando FL 32824",
+    "addr:housenumber":"10300",
+    "addr:postcode":"32824",
+    "addr:street":"Boggy Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.350997,28.421792,-81.350997,28.421792",
     "geom:latitude":28.421792,
     "geom:longitude":-81.350997,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"51db847f8e970f7575ce08c8f562e5ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354146825,
-    "wof:lastmodified":1466438351,
+    "wof:lastmodified":1491914282,
     "wof:name":"Don Coleman Advertising",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

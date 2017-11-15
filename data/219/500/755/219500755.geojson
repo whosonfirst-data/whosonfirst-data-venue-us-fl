@@ -2,9 +2,14 @@
   "id": 219500755,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 Ferndell Rd Orlando FL 32808",
+    "addr:housenumber":"906",
+    "addr:postcode":"32808",
+    "addr:street":"Ferndell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.455904,28.558231,-81.455904,28.558231",
     "geom:latitude":28.558231,
     "geom:longitude":-81.455904,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b1931a0af858aad91c83a032c5c98783",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":219500755,
-    "wof:lastmodified":1466431530,
+    "wof:lastmodified":1491934986,
     "wof:name":"Gary Pinto Retail Stores",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

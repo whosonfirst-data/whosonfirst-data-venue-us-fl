@@ -2,9 +2,14 @@
   "id": 270506669,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 SE 13th St Fort Lauderdale FL 33316",
+    "addr:housenumber":"300",
+    "addr:postcode":"33316",
+    "addr:street":"Se 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.138948,26.106102,-80.138948,26.106102",
     "geom:latitude":26.106102,
     "geom:longitude":-80.138948,
@@ -26,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        85877517,
+        85877533,
+        420511557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,37 @@
     "wof:geomhash":"a807358b473ec84726b4e354a68630ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877517,
+            "region_id":85688651,
+            "venue_id":270506669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877533,
+            "region_id":85688651,
+            "venue_id":270506669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":420511557,
             "region_id":85688651,
             "venue_id":270506669
         }
     ],
     "wof:id":270506669,
-    "wof:lastmodified":1466438136,
+    "wof:lastmodified":1491936874,
     "wof:name":"Whitelock Assoc PA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

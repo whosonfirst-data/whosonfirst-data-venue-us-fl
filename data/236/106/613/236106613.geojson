@@ -2,9 +2,14 @@
   "id": 236106613,
   "type": "Feature",
   "properties": {
+    "addr:full":"2699 Collins Ave Miami FL 33140",
+    "addr:housenumber":"2699",
+    "addr:postcode":"33140",
+    "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.125975,25.802909,-80.125975,25.802909",
     "geom:latitude":25.802909,
     "geom:longitude":-80.125975,
@@ -26,7 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897
     ],
@@ -38,17 +45,17 @@
     "wof:geomhash":"6f5906263ff4b284e6481ac911675cb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":236106613
         }
     ],
     "wof:id":236106613,
-    "wof:lastmodified":1466429882,
+    "wof:lastmodified":1491903612,
     "wof:name":"Express Florida Realty Inc",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",

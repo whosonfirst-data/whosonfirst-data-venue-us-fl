@@ -2,9 +2,14 @@
   "id": 253727295,
   "type": "Feature",
   "properties": {
+    "addr:full":"5512 Arnold Palmer Dr Orlando FL 32811",
+    "addr:housenumber":"5512",
+    "addr:postcode":"32811",
+    "addr:street":"Arnold Palmer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.4548,28.510495,-81.4548,28.510495",
     "geom:latitude":28.510495,
     "geom:longitude":-81.4548,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a60efd4bcc7d79733a833dfa516c479e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":253727295,
-    "wof:lastmodified":1466439665,
+    "wof:lastmodified":1491921603,
     "wof:name":"Miller Tile & Marble",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

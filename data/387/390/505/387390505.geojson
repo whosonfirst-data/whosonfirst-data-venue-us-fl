@@ -2,9 +2,14 @@
   "id": 387390505,
   "type": "Feature",
   "properties": {
+    "addr:full":"3065 S Ferncreek Ave Orlando FL 32806",
+    "addr:housenumber":"3065",
+    "addr:postcode":"32806",
+    "addr:street":"S Ferncreek Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.359723,28.505983,-81.359723,28.505983",
     "geom:latitude":28.505983,
     "geom:longitude":-81.359723,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"61e26f600ea67988fccd4d66caa02163",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":387390505
         }
     ],
     "wof:id":387390505,
-    "wof:lastmodified":1466444699,
+    "wof:lastmodified":1491930959,
     "wof:name":"Muscle & Wrench Fitness Equip",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

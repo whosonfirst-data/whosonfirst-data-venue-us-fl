@@ -2,9 +2,14 @@
   "id": 186212161,
   "type": "Feature",
   "properties": {
+    "addr:full":"17886 Arbor Greene Dr Tampa FL 33647",
+    "addr:housenumber":"17886",
+    "addr:postcode":"33647",
+    "addr:street":"Arbor Greene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.31797,28.133515,-82.31797,28.133515",
     "geom:latitude":28.133515,
     "geom:longitude":-82.31797,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aa822ba00efb3c1e278e8c6bec22df8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186212161,
-    "wof:lastmodified":1466429250,
+    "wof:lastmodified":1491893746,
     "wof:name":"Advanced Laboratory Tech LLC",
     "wof:parent_id":85889651,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 235970543,
   "type": "Feature",
   "properties": {
+    "addr:full":"764 Jeronimo Dr Miami FL 33146",
+    "addr:housenumber":"764",
+    "addr:postcode":"33146",
+    "addr:street":"Jeronimo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.268499,25.728902,-80.268499,25.728902",
     "geom:latitude":25.728902,
     "geom:longitude":-80.268499,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"07a48cfa0fdf1fc87bdaf966b81e576c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":235970543
         }
     ],
     "wof:id":235970543,
-    "wof:lastmodified":1466428958,
+    "wof:lastmodified":1491901697,
     "wof:name":"Emma M Guerra CPA",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

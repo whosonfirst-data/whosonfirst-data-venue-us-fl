@@ -2,9 +2,14 @@
   "id": 656085235,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 Villa de Costa Dr Orlando FL 32821",
+    "addr:housenumber":"6800",
+    "addr:postcode":"32821",
+    "addr:street":"Villa De Costa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.470749,28.394581,-81.470749,28.394581",
     "geom:latitude":28.394581,
     "geom:longitude":-81.470749,
@@ -27,7 +32,7 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85889411,
+        85889341,
         102085847
     ],
     "wof:breaches":[],
@@ -41,15 +46,15 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889411,
+            "neighbourhood_id":85889341,
             "region_id":85688651,
             "venue_id":656085235
         }
     ],
     "wof:id":656085235,
-    "wof:lastmodified":1466452163,
+    "wof:lastmodified":1491911778,
     "wof:name":"Tango Bay Suites",
-    "wof:parent_id":85889411,
+    "wof:parent_id":85889341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

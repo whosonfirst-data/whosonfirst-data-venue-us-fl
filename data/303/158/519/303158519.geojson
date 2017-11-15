@@ -2,9 +2,14 @@
   "id": 303158519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1902 W Cass St Tampa FL 33606",
+    "addr:housenumber":"1902",
+    "addr:postcode":"33606",
+    "addr:street":"W Cass St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.480873,27.949793,-82.480873,27.949793",
     "geom:latitude":27.949793,
     "geom:longitude":-82.480873,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c52176e2f7657a882d35eb5204aa238c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303158519,
-    "wof:lastmodified":1466433265,
+    "wof:lastmodified":1491934216,
     "wof:name":"Austin & Laurato",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

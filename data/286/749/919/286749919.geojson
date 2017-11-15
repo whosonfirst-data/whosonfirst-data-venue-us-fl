@@ -2,9 +2,14 @@
   "id": 286749919,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 N Rocky Point Dr Tampa FL 33607",
+    "addr:housenumber":"3001",
+    "addr:postcode":"33607",
+    "addr:street":"N Rocky Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.567868,27.967737,-82.567868,27.967737",
     "geom:latitude":27.967737,
     "geom:longitude":-82.567868,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2af30dcb022426d3a195851f70b57c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286749919,
-    "wof:lastmodified":1466438251,
+    "wof:lastmodified":1491914711,
     "wof:name":"Digital Harvest Media",
     "wof:parent_id":85889749,
     "wof:placetype":"venue",

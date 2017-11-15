@@ -2,9 +2,14 @@
   "id": 219596659,
   "type": "Feature",
   "properties": {
+    "addr:full":"5606 Arundel Dr Orlando FL 32808",
+    "addr:housenumber":"5606",
+    "addr:postcode":"32808",
+    "addr:street":"Arundel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459254,28.556149,-81.459254,28.556149",
     "geom:latitude":28.556149,
     "geom:longitude":-81.459254,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4da3f0964b52a51e1b9d6558db4546bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219596659,
-    "wof:lastmodified":1466432753,
+    "wof:lastmodified":1491934997,
     "wof:name":"Wellbeing International",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

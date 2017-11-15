@@ -2,9 +2,14 @@
   "id": 303504123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 13th St S Saint Petersburg FL 33705",
+    "addr:housenumber":"1424",
+    "addr:postcode":"33705",
+    "addr:street":"13Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.652126,27.755591,-82.652126,27.755591",
     "geom:latitude":27.755591,
     "geom:longitude":-82.652126,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"63a8064c354a3c00a10bb53c3adb1cf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303504123,
-    "wof:lastmodified":1466439224,
+    "wof:lastmodified":1491885067,
     "wof:name":"Joseph Willie Lawn Service",
     "wof:parent_id":85880513,
     "wof:placetype":"venue",

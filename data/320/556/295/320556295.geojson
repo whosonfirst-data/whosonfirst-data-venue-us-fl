@@ -2,9 +2,14 @@
   "id": 320556295,
   "type": "Feature",
   "properties": {
+    "addr:full":"752 W Flagler St Miami FL 33130",
+    "addr:housenumber":"752",
+    "addr:postcode":"33130",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.206907,25.773671,-80.206907,25.773671",
     "geom:latitude":25.773671,
     "geom:longitude":-80.206907,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"03991e172d8c5d2a575667ee7106e780",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320556295,
-    "wof:lastmodified":1466443017,
+    "wof:lastmodified":1491906064,
     "wof:name":"Synamak Holdings Ltd",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

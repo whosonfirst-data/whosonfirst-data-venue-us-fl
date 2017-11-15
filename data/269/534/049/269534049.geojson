@@ -2,9 +2,14 @@
   "id": 269534049,
   "type": "Feature",
   "properties": {
+    "addr:full":"5375 Belz Pkwy Orlando FL 32819",
+    "addr:housenumber":"5375",
+    "addr:postcode":"32819",
+    "addr:street":"Belz Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.450394,28.473538,-81.450394,28.473538",
     "geom:latitude":28.473538,
     "geom:longitude":-81.450394,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dcfbab217a0be08119efe444990b030d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269534049,
-    "wof:lastmodified":1466429372,
+    "wof:lastmodified":1491884855,
     "wof:name":"Dexter Shoe Factory Outlet",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

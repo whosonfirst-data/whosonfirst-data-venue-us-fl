@@ -2,9 +2,14 @@
   "id": 387248241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1146 51st Ave N Saint Petersburg FL 33703",
+    "addr:housenumber":"1146",
+    "addr:postcode":"33703",
+    "addr:street":"51St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.648935,27.818449,-82.648935,27.818449",
     "geom:latitude":27.818449,
     "geom:longitude":-82.648935,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -45,7 +51,7 @@
     "wof:geomhash":"14ab4c8bf97145cb2d9f5f9710819168",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":387248241,
-    "wof:lastmodified":1466442524,
+    "wof:lastmodified":1491889870,
     "wof:name":"Skaggs Art & Frame Gallery",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353868645,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 NE 1st Ave Miami FL 33132",
+    "addr:housenumber":"300",
+    "addr:postcode":"33132",
+    "addr:street":"Ne 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.192047,25.778012,-80.192047,25.778012",
     "geom:latitude":25.778012,
     "geom:longitude":-80.192047,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bff34ce87c4ce8a1bf35edb28f2480f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353868645,
-    "wof:lastmodified":1466441995,
+    "wof:lastmodified":1491906338,
     "wof:name":"Fast Import Export",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

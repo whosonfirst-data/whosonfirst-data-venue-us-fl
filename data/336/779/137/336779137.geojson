@@ -2,9 +2,14 @@
   "id": 336779137,
   "type": "Feature",
   "properties": {
+    "addr:full":"1885 SW 1st St Miami FL 33135",
+    "addr:housenumber":"1885",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.226424,25.77169,-80.226424,25.77169",
     "geom:latitude":25.77169,
     "geom:longitude":-80.226424,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c9468800de94bc093877537a53460304",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336779137,
-    "wof:lastmodified":1466438087,
+    "wof:lastmodified":1491936009,
     "wof:name":"Gran Oriente De Las Antilla",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

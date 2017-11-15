@@ -2,9 +2,14 @@
   "id": 253261039,
   "type": "Feature",
   "properties": {
+    "addr:full":"3041 Jackson St N Saint Petersburg FL 33704",
+    "addr:housenumber":"3041",
+    "addr:postcode":"33704",
+    "addr:street":"Jackson St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.64877,27.800812,-82.64877,27.800812",
     "geom:latitude":27.800812,
     "geom:longitude":-82.64877,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"211ba60a82bdbeeb85029a660824e2f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253261039,
-    "wof:lastmodified":1466431603,
+    "wof:lastmodified":1491922160,
     "wof:name":"Wheelchair Man",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

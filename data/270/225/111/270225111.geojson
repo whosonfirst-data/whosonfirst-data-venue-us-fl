@@ -2,9 +2,14 @@
   "id": 270225111,
   "type": "Feature",
   "properties": {
+    "addr:full":"9375 Boggy Creek Rd Orlando FL 32824",
+    "addr:housenumber":"9375",
+    "addr:postcode":"32824",
+    "addr:street":"Boggy Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.35083,28.43122,-81.35083,28.43122",
     "geom:latitude":28.43122,
     "geom:longitude":-81.35083,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2a42899fa96afaa4fb7ee6edf4dcf617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":270225111,
-    "wof:lastmodified":1466433322,
+    "wof:lastmodified":1491914284,
     "wof:name":"United Rentals",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

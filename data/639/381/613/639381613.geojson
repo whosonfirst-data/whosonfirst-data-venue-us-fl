@@ -2,9 +2,14 @@
   "id": 639381613,
   "type": "Feature",
   "properties": {
+    "addr:full":"7250 S Kirkman Rd Orlando FL 32819",
+    "addr:housenumber":"7250",
+    "addr:postcode":"32819",
+    "addr:street":"S Kirkman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.458614,28.457309,-81.458614,28.457309",
     "geom:latitude":28.457309,
     "geom:longitude":-81.458614,
@@ -34,7 +39,10 @@
         85688651,
         85633793,
         85866879,
-        102085847
+        102085847,
+        102191575,
+        85933091,
+        85879451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,21 @@
             "neighbourhood_id":85866879,
             "region_id":85688651,
             "venue_id":639381613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85879451,
+            "region_id":85688651,
+            "venue_id":639381613
         }
     ],
     "wof:id":639381613,
-    "wof:lastmodified":1466457929,
+    "wof:lastmodified":1491884830,
     "wof:name":"Bee Idea",
-    "wof:parent_id":85866879,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

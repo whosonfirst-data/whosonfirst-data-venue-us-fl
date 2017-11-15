@@ -2,9 +2,14 @@
   "id": 387931417,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 S County Rd Palm Beach FL 33480",
+    "addr:housenumber":"296",
+    "addr:postcode":"33480",
+    "addr:street":"S County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.036486,26.704908,-80.036486,26.704908",
     "geom:latitude":26.704908,
     "geom:longitude":-80.036486,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5e5c6803e17ff89ee0c86db72ff2f9aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":387931417,
-    "wof:lastmodified":1466449867,
+    "wof:lastmodified":1491899656,
     "wof:name":"Kitchen Capers",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

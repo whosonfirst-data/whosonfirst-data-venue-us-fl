@@ -2,9 +2,14 @@
   "id": 269980781,
   "type": "Feature",
   "properties": {
+    "addr:full":"5137 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5137",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.452837,28.552512,-81.452837,28.552512",
     "geom:latitude":28.552512,
     "geom:longitude":-81.452837,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3bd16f8be7ba84f2f0571d38cbef7b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269980781,
-    "wof:lastmodified":1466437193,
+    "wof:lastmodified":1491935002,
     "wof:name":"Perfection Sport Barber Shop",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

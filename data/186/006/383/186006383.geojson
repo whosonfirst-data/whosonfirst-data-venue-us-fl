@@ -2,9 +2,14 @@
   "id": 186006383,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 15th Ave S Saint Petersburg FL 33705",
+    "addr:housenumber":"920",
+    "addr:postcode":"33705",
+    "addr:street":"15Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.649407,27.755197,-82.649407,27.755197",
     "geom:latitude":27.755197,
     "geom:longitude":-82.649407,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f248363177dbba3ab81385fe1b76fb07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186006383,
-    "wof:lastmodified":1466433388,
+    "wof:lastmodified":1491885066,
     "wof:name":"J&L Restaurant Repairs",
     "wof:parent_id":85880513,
     "wof:placetype":"venue",

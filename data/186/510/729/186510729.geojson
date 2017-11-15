@@ -2,9 +2,14 @@
   "id": 186510729,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 SE 1st St Miami FL 33131",
+    "addr:housenumber":"26",
+    "addr:postcode":"33131",
+    "addr:street":"Se 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.192452,25.773257,-80.192452,25.773257",
     "geom:latitude":25.773257,
     "geom:longitude":-80.192452,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bd0648feabc987c9f3eb5dd60555f7de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186510729,
-    "wof:lastmodified":1466432941,
+    "wof:lastmodified":1491906313,
     "wof:name":"Allright Parking",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

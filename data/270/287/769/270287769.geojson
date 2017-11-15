@@ -2,9 +2,14 @@
   "id": 270287769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1430 SW 1st St Miami FL 33135",
+    "addr:housenumber":"1430",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.219197,25.772315,-80.219197,25.772315",
     "geom:latitude":25.772315,
     "geom:longitude":-80.219197,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"49518058de52be7599c91e42510d8ea9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270287769,
-    "wof:lastmodified":1466434372,
+    "wof:lastmodified":1491936002,
     "wof:name":"Jorge Jimenez",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

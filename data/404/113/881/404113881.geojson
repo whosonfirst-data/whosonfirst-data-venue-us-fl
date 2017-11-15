@@ -2,9 +2,14 @@
   "id": 404113881,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 52nd Ave N St Petersburg FL 33703",
+    "addr:housenumber":"118",
+    "addr:postcode":"33703",
+    "addr:street":"52Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.63845,27.819321,-82.63845,27.819321",
     "geom:latitude":27.819321,
     "geom:longitude":-82.63845,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"76c1018742f2b96cc7d047257fc7e90e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":404113881,
-    "wof:lastmodified":1466442006,
+    "wof:lastmodified":1491913786,
     "wof:name":"We Buy Ugly Homes",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 319962371,
   "type": "Feature",
   "properties": {
+    "addr:full":"2721 Poinsettia Ave West Palm Beach FL 33407",
+    "addr:housenumber":"2721",
+    "addr:postcode":"33407",
+    "addr:street":"Poinsettia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.052848,26.737903,-80.052848,26.737903",
     "geom:latitude":26.737903,
     "geom:longitude":-80.052848,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4268de5a1e64544d4a4a112060ecff07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319962371,
-    "wof:lastmodified":1466435334,
+    "wof:lastmodified":1491899781,
     "wof:name":"Florida Singles Real Estate",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

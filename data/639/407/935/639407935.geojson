@@ -2,9 +2,14 @@
   "id": 639407935,
   "type": "Feature",
   "properties": {
+    "addr:full":"10500 Biscayne Blvd Miami FL 33138",
+    "addr:housenumber":"10500",
+    "addr:postcode":"33138",
+    "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.172279,25.872367,-80.172279,25.872367",
     "geom:latitude":25.872367,
     "geom:longitude":-80.172279,
@@ -32,7 +37,12 @@
         85633793,
         85933669,
         102085771,
-        85896193
+        85896193,
+        102191575,
+        85933563,
+        85896159,
+        85933551,
+        85833929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +59,30 @@
             "neighbourhood_id":85896193,
             "region_id":85688651,
             "venue_id":639407935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933563,
+            "neighbourhood_id":85896159,
+            "region_id":85688651,
+            "venue_id":639407935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933551,
+            "neighbourhood_id":85833929,
+            "region_id":85688651,
+            "venue_id":639407935
         }
     ],
     "wof:id":639407935,
-    "wof:lastmodified":1466458206,
+    "wof:lastmodified":1491918444,
     "wof:name":"Tsao Investment Inc",
-    "wof:parent_id":85896193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

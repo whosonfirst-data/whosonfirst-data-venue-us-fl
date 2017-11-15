@@ -2,9 +2,14 @@
   "id": 253527073,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Olive Ave West Palm Beach FL 33401",
+    "addr:housenumber":"900",
+    "addr:postcode":"33401",
+    "addr:street":"S Olive Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.052118,26.704691,-80.052118,26.704691",
     "geom:latitude":26.704691,
     "geom:longitude":-80.052118,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4a1a23f77581008ef776f95f30b2da90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253527073,
-    "wof:lastmodified":1466436090,
+    "wof:lastmodified":1491899638,
     "wof:name":"Sodexho Inc",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

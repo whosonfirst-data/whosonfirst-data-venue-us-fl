@@ -2,9 +2,14 @@
   "id": 220045711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1521 SW 12th St Miami FL 33135",
+    "addr:housenumber":"1521",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.220186,25.76183,-80.220186,25.76183",
     "geom:latitude":25.76183,
     "geom:longitude":-80.220186,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3091acd2bce76217faa36e9d657c07a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":220045711,
-    "wof:lastmodified":1466444687,
+    "wof:lastmodified":1491936007,
     "wof:name":"Playground Pros Inc",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

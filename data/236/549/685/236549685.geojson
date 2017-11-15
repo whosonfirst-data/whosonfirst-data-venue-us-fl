@@ -2,9 +2,14 @@
   "id": 236549685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1317 Grand St Orlando FL 32805",
+    "addr:housenumber":"1317",
+    "addr:postcode":"32805",
+    "addr:street":"Grand St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.398835,28.526529,-81.398835,28.526529",
     "geom:latitude":28.526529,
     "geom:longitude":-81.398835,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5d51d98f7dc6a25bbd51e0867b262e7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236549685,
-    "wof:lastmodified":1466436194,
+    "wof:lastmodified":1491911384,
     "wof:name":"Carolls Special Events Inc",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

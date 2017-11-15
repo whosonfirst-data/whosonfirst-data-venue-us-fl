@@ -2,9 +2,14 @@
   "id": 270111981,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 Parker Ave West Palm Beach FL 33405",
+    "addr:housenumber":"4115",
+    "addr:postcode":"33405",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.062903,26.675701,-80.062903,26.675701",
     "geom:latitude":26.675701,
     "geom:longitude":-80.062903,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"feecef81231de2e91f3f7f9d0c502393",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270111981,
-    "wof:lastmodified":1466431357,
+    "wof:lastmodified":1491902424,
     "wof:name":"Leidi's Beauty Salon",
     "wof:parent_id":85881819,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 287201179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2143 Raper Dairy Rd Orlando FL 32822",
+    "addr:housenumber":"2143",
+    "addr:postcode":"32822",
+    "addr:street":"Raper Dairy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.302019,28.519542,-81.302019,28.519542",
     "geom:latitude":28.519542,
     "geom:longitude":-81.302019,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a22142db606474c411308618fe528f21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287201179,
-    "wof:lastmodified":1466433395,
+    "wof:lastmodified":1491901767,
     "wof:name":"Blossom Corner Apartments",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

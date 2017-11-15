@@ -2,9 +2,14 @@
   "id": 203358189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 NW 3rd Ave Miami FL 33136",
+    "addr:housenumber":"1435",
+    "addr:postcode":"33136",
+    "addr:street":"Nw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.199897,25.789464,-80.199897,25.789464",
     "geom:latitude":25.789464,
     "geom:longitude":-80.199897,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a3e073d3583a50fcd191af56f297dc06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":203358189,
-    "wof:lastmodified":1466430882,
+    "wof:lastmodified":1491920069,
     "wof:name":"Fun Land USA Corp",
     "wof:parent_id":85889171,
     "wof:placetype":"venue",

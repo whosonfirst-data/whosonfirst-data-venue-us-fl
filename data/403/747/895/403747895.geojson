@@ -2,9 +2,14 @@
   "id": 403747895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 S Dale Mabry Hwy Tampa FL 33629",
+    "addr:housenumber":"3404",
+    "addr:postcode":"33629",
+    "addr:street":"S Dale Mabry Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.506082,27.912314,-82.506082,27.912314",
     "geom:latitude":27.912314,
     "geom:longitude":-82.506082,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a74365af39255417c8541111931874de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403747895,
-    "wof:lastmodified":1466440290,
+    "wof:lastmodified":1491939092,
     "wof:name":"Family Insurance South Tampa",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

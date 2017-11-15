@@ -2,9 +2,14 @@
   "id": 286777615,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 Northwood Rd West Palm Beach FL 33407",
+    "addr:housenumber":"415",
+    "addr:postcode":"33407",
+    "addr:street":"Northwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.05461,26.735057,-80.05461,26.735057",
     "geom:latitude":26.735057,
     "geom:longitude":-80.05461,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4ba2ef1bfebeeb8d740841b693b194ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286777615,
-    "wof:lastmodified":1466438725,
+    "wof:lastmodified":1491899776,
     "wof:name":"World Famous Restaurant",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

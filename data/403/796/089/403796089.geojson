@@ -2,9 +2,14 @@
   "id": 403796089,
   "type": "Feature",
   "properties": {
+    "addr:full":"2312 N Morgan St Tampa FL 33602",
+    "addr:housenumber":"2312",
+    "addr:postcode":"33602",
+    "addr:street":"N Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.45809,27.965953,-82.45809,27.965953",
     "geom:latitude":27.965953,
     "geom:longitude":-82.45809,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c94949a7ee947dd34889e1230ed8c094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403796089,
-    "wof:lastmodified":1466441048,
+    "wof:lastmodified":1491934023,
     "wof:name":"Debra's",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

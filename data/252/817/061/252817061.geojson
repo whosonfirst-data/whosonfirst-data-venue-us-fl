@@ -2,9 +2,14 @@
   "id": 252817061,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 SW 26th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"700",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.149773,26.090701,-80.149773,26.090701",
     "geom:latitude":26.090701,
     "geom:longitude":-80.149773,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"ff8fbf3c86d391fc10f1fa1749218edc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":252817061
         }
     ],
     "wof:id":252817061,
-    "wof:lastmodified":1466430009,
+    "wof:lastmodified":1491924477,
     "wof:name":"Rogers Middle School 451",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

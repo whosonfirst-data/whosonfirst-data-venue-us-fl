@@ -2,9 +2,14 @@
   "id": 186589029,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 Brittany Dr S Saint Petersburg FL 33715",
+    "addr:housenumber":"5220",
+    "addr:postcode":"33715",
+    "addr:street":"Brittany Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.705152,27.715636,-82.705152,27.715636",
     "geom:latitude":27.715636,
     "geom:longitude":-82.705152,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"102e83783b60e361a54ad5d74c5be399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":186589029,
-    "wof:lastmodified":1466434003,
+    "wof:lastmodified":1491915504,
     "wof:name":"Bus Stop Band",
     "wof:parent_id":85880563,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336943397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 S Bayshore Dr Miami FL 33133",
+    "addr:housenumber":"2901",
+    "addr:postcode":"33133",
+    "addr:street":"S Bayshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.240032,25.72627,-80.240032,25.72627",
     "geom:latitude":25.72627,
     "geom:longitude":-80.240032,
@@ -26,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933643,
+        102085771,
+        85811627,
         85933669,
-        102085771
+        420515435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,28 @@
     "wof:geomhash":"dc8817b7bc4e6dd6d9ce8ed785b76ae4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933643,
+            "neighbourhood_id":85811627,
+            "region_id":85688651,
+            "venue_id":336943397
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420515435,
             "region_id":85688651,
             "venue_id":336943397
         }
     ],
     "wof:id":336943397,
-    "wof:lastmodified":1466440899,
+    "wof:lastmodified":1491901694,
     "wof:name":"Moore Don",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

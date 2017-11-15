@@ -2,9 +2,14 @@
   "id": 269886613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3604 W el Prado Blvd Tampa FL 33629",
+    "addr:housenumber":"3604",
+    "addr:postcode":"33629",
+    "addr:street":"W El Prado Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.503941,27.91143,-82.503941,27.91143",
     "geom:latitude":27.91143,
     "geom:longitude":-82.503941,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"67479346b8822a780246281adaa635f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269886613,
-    "wof:lastmodified":1466435593,
+    "wof:lastmodified":1491939109,
     "wof:name":"Anne Hermann",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

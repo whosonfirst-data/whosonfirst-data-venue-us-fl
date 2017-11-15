@@ -2,14 +2,20 @@
   "id": 252907917,
   "type": "Feature",
   "properties": {
+    "addr:full":"5959 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5959",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.461633,28.552314,-81.461633,28.552314",
     "geom:latitude":28.552314,
     "geom:longitude":-81.461633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5959 W Colonial Dr",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
         85889327
     ],
+    "wof:brand_id":1125152995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tpGAFOf2U2w1d8dYNYRo9_28.552314_-81.461633@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"587edff3341dda7c437a749974fe7f42",
+    "wof:geomhash":"139675bc08194ca53083f15a921097d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":252907917,
-    "wof:lastmodified":1466431318,
+    "wof:lastmodified":1510695005,
     "wof:name":"Aarons",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

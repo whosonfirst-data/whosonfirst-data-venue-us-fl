@@ -2,9 +2,14 @@
   "id": 336753573,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 NW 1st Ave Miami FL 33128",
+    "addr:housenumber":"175",
+    "addr:postcode":"33128",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.19521,25.775922,-80.19521,25.775922",
     "geom:latitude":25.775922,
     "geom:longitude":-80.19521,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3c81f28b49a60676917c63c402f9df34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336753573,
-    "wof:lastmodified":1466437633,
+    "wof:lastmodified":1491906316,
     "wof:name":"Honorable Victoria Platzer",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

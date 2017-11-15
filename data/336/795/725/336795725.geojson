@@ -2,9 +2,14 @@
   "id": 336795725,
   "type": "Feature",
   "properties": {
+    "addr:full":"18108 Sugar Brooke Dr Tampa FL 33647",
+    "addr:housenumber":"18108",
+    "addr:postcode":"33647",
+    "addr:street":"Sugar Brooke Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.313352,28.14173,-82.313352,28.14173",
     "geom:latitude":28.14173,
     "geom:longitude":-82.313352,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"fa3933fea3b365d0e1bb19d887f8bcb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336795725,
-    "wof:lastmodified":1466438376,
+    "wof:lastmodified":1491893743,
     "wof:name":"Emepe International Inc",
     "wof:parent_id":85889651,
     "wof:placetype":"venue",

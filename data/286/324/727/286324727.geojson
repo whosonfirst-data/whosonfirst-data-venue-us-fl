@@ -2,9 +2,14 @@
   "id": 286324727,
   "type": "Feature",
   "properties": {
+    "addr:full":"5925 Precision Dr Orlando FL 32819",
+    "addr:housenumber":"5925",
+    "addr:postcode":"32819",
+    "addr:street":"Precision Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459898,28.45841,-81.459898,28.45841",
     "geom:latitude":28.45841,
     "geom:longitude":-81.459898,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d3ba730c2660ef15559bab9303c49375",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286324727,
-    "wof:lastmodified":1466430754,
+    "wof:lastmodified":1491884824,
     "wof:name":"Fay Tool & Die Inc",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

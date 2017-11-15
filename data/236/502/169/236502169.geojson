@@ -2,9 +2,14 @@
   "id": 236502169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 W Main St Tampa FL 33607",
+    "addr:housenumber":"1926",
+    "addr:postcode":"33607",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.480358,27.957063,-82.480358,27.957063",
     "geom:latitude":27.957063,
     "geom:longitude":-82.480358,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"600a8486352f1bb3ff275dcc16d47ca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236502169,
-    "wof:lastmodified":1466435490,
+    "wof:lastmodified":1491934209,
     "wof:name":"West Fortune St Fish Market",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

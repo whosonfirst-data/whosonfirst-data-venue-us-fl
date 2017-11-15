@@ -2,9 +2,14 @@
   "id": 286813243,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 S Miami Ave Miami FL 33133",
+    "addr:housenumber":"3333",
+    "addr:postcode":"33133",
+    "addr:street":"S Miami Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.210664,25.747214,-80.210664,25.747214",
     "geom:latitude":25.747214,
     "geom:longitude":-80.210664,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"019e4432d509e26c0b2b614ba34300a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286813243,
-    "wof:lastmodified":1466439341,
+    "wof:lastmodified":1491892276,
     "wof:name":"Youth Encounter",
     "wof:parent_id":85896187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 638787899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 N Florida Ave Tampa FL 33602",
+    "addr:housenumber":"2101",
+    "addr:postcode":"33602",
+    "addr:street":"N Florida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.459443,27.965047,-82.459443,27.965047",
     "geom:latitude":27.965047,
     "geom:longitude":-82.459443,
@@ -34,7 +39,7 @@
         85633793,
         85931789,
         102085773,
-        420512699
+        85873255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
-            "neighbourhood_id":420512699,
+            "neighbourhood_id":85873255,
             "region_id":85688651,
             "venue_id":638787899
         }
     ],
     "wof:id":638787899,
-    "wof:lastmodified":1466451472,
+    "wof:lastmodified":1491934028,
     "wof:name":"Metropolitan Ministries Inc",
-    "wof:parent_id":420512699,
+    "wof:parent_id":85873255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

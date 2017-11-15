@@ -2,9 +2,14 @@
   "id": 169675063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2716 25th St N St Petersburg FL 33713",
+    "addr:housenumber":"2716",
+    "addr:postcode":"33713",
+    "addr:street":"25Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.667327,27.797308,-82.667327,27.797308",
     "geom:latitude":27.797308,
     "geom:longitude":-82.667327,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fcd5f62c934495c38a544efa511a776c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":169675063,
-    "wof:lastmodified":1466445142,
+    "wof:lastmodified":1491896300,
     "wof:name":"Direct Auto Dealers Supplies",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

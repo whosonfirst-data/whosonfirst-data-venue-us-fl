@@ -2,9 +2,14 @@
   "id": 236009797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2693 W Fairbanks Ave Winter Park FL 32789",
+    "addr:housenumber":"2693",
+    "addr:postcode":"32789",
+    "addr:street":"W Fairbanks Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.3849,28.593323,-81.3849,28.593323",
     "geom:latitude":28.593323,
     "geom:longitude":-81.3849,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933091,
+        85935283,
         102085847,
         85889319
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"221a97ff80c8e8031e40053d75972618",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933091,
+            "locality_id":85935283,
             "neighbourhood_id":85889319,
             "region_id":85688651,
             "venue_id":236009797
         }
     ],
     "wof:id":236009797,
-    "wof:lastmodified":1466428519,
+    "wof:lastmodified":1491917521,
     "wof:name":"Herring Larry J CPA PA",
     "wof:parent_id":85889319,
     "wof:placetype":"venue",

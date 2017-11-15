@@ -2,9 +2,14 @@
   "id": 253375167,
   "type": "Feature",
   "properties": {
+    "addr:full":"277 SW 33rd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"277",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.144183,26.083522,-80.144183,26.083522",
     "geom:latitude":26.083522,
     "geom:longitude":-80.144183,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"ed052c6d0d82a5d55bfc606e8fb8cb2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":253375167
         }
     ],
     "wof:id":253375167,
-    "wof:lastmodified":1466433430,
+    "wof:lastmodified":1491924479,
     "wof:name":"Iron-Link Communications Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

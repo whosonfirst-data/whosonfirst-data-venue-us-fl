@@ -2,9 +2,14 @@
   "id": 202575895,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Bradley Pl Palm Beach FL 33480",
+    "addr:housenumber":"101",
+    "addr:postcode":"33480",
+    "addr:street":"Bradley Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.041035,26.71917,-80.041035,26.71917",
     "geom:latitude":26.71917,
     "geom:longitude":-80.041035,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"21150c3863f996c67f66652fb259fa43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":202575895,
-    "wof:lastmodified":1466429350,
+    "wof:lastmodified":1491899651,
     "wof:name":"Great Amercn Mrtg & Capitl Co",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236898607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Orange Ave Orlando FL 32801",
+    "addr:housenumber":"1",
+    "addr:postcode":"32801",
+    "addr:street":"S Orange Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.379027,28.541311,-81.379027,28.541311",
     "geom:latitude":28.541311,
     "geom:longitude":-81.379027,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"40bd529b04514e16fa293e53b4273d85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":236898607
         }
     ],
     "wof:id":236898607,
-    "wof:lastmodified":1466441215,
+    "wof:lastmodified":1491924977,
     "wof:name":"Adams Blackwell & Diaco PA",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

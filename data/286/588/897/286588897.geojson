@@ -2,9 +2,14 @@
   "id": 286588897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4121 Centerport St Orlando FL 32827",
+    "addr:housenumber":"",
+    "addr:postcode":"4121;32827",
+    "addr:street":"Centerport St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.333002,28.43048,-81.333002,28.43048",
     "geom:latitude":28.43048,
     "geom:longitude":-81.333002,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6edf2dcd55626ab52f3eee61a3e3c70d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286588897,
-    "wof:lastmodified":1466435340,
+    "wof:lastmodified":1491914283,
     "wof:name":"Sunnyridge Farm",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

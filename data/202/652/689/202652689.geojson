@@ -2,9 +2,14 @@
   "id": 202652689,
   "type": "Feature",
   "properties": {
+    "addr:full":"457 Northwood Rd West Palm Beach FL 33407",
+    "addr:housenumber":"457",
+    "addr:postcode":"33407",
+    "addr:street":"Northwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.053842,26.735034,-80.053842,26.735034",
     "geom:latitude":26.735034,
     "geom:longitude":-80.053842,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ac09f120ad95ba05d9367e57a0504168",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":202652689,
-    "wof:lastmodified":1466430376,
+    "wof:lastmodified":1491899785,
     "wof:name":"Nowlin Flower Shop",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

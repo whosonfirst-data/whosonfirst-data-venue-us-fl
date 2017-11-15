@@ -2,9 +2,14 @@
   "id": 404114025,
   "type": "Feature",
   "properties": {
+    "addr:full":"290 Sunset Ave Palm Beach FL 33480",
+    "addr:housenumber":"290",
+    "addr:postcode":"33480",
+    "addr:street":"Sunset Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.039459,26.719052,-80.039459,26.719052",
     "geom:latitude":26.719052,
     "geom:longitude":-80.039459,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -39,7 +45,7 @@
     "wof:geomhash":"be9fc1756291c76961bed684e34f0d28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":404114025,
-    "wof:lastmodified":1466442008,
+    "wof:lastmodified":1491899671,
     "wof:name":"Coco Palm Beach",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

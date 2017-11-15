@@ -2,9 +2,14 @@
   "id": 270163605,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 NW 29th Ter Fort Lauderdale FL 33311",
+    "addr:housenumber":"425",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 29Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.183646,26.126409,-80.183646,26.126409",
     "geom:latitude":26.126409,
     "geom:longitude":-80.183646,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e9d8953c5a681286302b19807dee1a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":270163605,
-    "wof:lastmodified":1466432244,
+    "wof:lastmodified":1491916245,
     "wof:name":"True Divine Hope Outreach",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

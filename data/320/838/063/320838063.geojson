@@ -2,9 +2,14 @@
   "id": 320838063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1459 W Flagler St Miami FL 33135",
+    "addr:housenumber":"1459",
+    "addr:postcode":"33135",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.218796,25.773449,-80.218796,25.773449",
     "geom:latitude":25.773449,
     "geom:longitude":-80.218796,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bf623f0b821fb55ab7929e22263fcfad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320838063,
-    "wof:lastmodified":1466447423,
+    "wof:lastmodified":1491936022,
     "wof:name":"Flagler Village Dry Cleaner",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

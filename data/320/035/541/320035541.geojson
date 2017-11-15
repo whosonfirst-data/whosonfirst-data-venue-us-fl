@@ -2,9 +2,14 @@
   "id": 320035541,
   "type": "Feature",
   "properties": {
+    "addr:full":"3020 SW 38th Ave Miami FL 33134",
+    "addr:housenumber":"3020",
+    "addr:postcode":"33134",
+    "addr:street":"Sw 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.256064,25.734447,-80.256064,25.734447",
     "geom:latitude":25.734447,
     "geom:longitude":-80.256064,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"4cd22937a1ffef0202f82556f1cbf331",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":320035541
         }
     ],
     "wof:id":320035541,
-    "wof:lastmodified":1466433998,
+    "wof:lastmodified":1491901703,
     "wof:name":"European Transmission Tech Inc",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

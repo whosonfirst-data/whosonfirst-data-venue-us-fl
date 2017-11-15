@@ -2,9 +2,14 @@
   "id": 303048187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5521 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5521",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.454681,28.552477,-81.454681,28.552477",
     "geom:latitude":28.552477,
     "geom:longitude":-81.454681,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d11637052e154d3240a21889bdb587e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303048187,
-    "wof:lastmodified":1466431276,
+    "wof:lastmodified":1491934991,
     "wof:name":"U J Window Tinting",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303679797,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Palmetto Ave Orlando FL 32801",
+    "addr:housenumber":"225",
+    "addr:postcode":"32801",
+    "addr:street":"Palmetto Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.376704,28.545415,-81.376704,28.545415",
     "geom:latitude":28.545415,
     "geom:longitude":-81.376704,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933075,
+        85933091,
         102085847,
         85866881
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"6feffb621dc4bbebbfb6c66864c5bd8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933075,
+            "locality_id":85933091,
             "neighbourhood_id":85866881,
             "region_id":85688651,
             "venue_id":303679797
         }
     ],
     "wof:id":303679797,
-    "wof:lastmodified":1466442252,
+    "wof:lastmodified":1491924980,
     "wof:name":"Omni Window Design",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269518281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 S Flagler Dr West Palm Beach FL 33401",
+    "addr:housenumber":"1101",
+    "addr:postcode":"33401",
+    "addr:street":"S Flagler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.050176,26.704043,-80.050176,26.704043",
     "geom:latitude":26.704043,
     "geom:longitude":-80.050176,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -45,7 +51,7 @@
     "wof:geomhash":"41e0da87ee22b35859e38543c2a8fefe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":269518281,
-    "wof:lastmodified":1466429094,
+    "wof:lastmodified":1491899674,
     "wof:name":"Wellness Center",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

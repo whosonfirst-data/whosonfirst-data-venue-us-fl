@@ -2,9 +2,14 @@
   "id": 169854729,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 51st Ave N St Petersburg FL 33703",
+    "addr:housenumber":"810",
+    "addr:postcode":"33703",
+    "addr:street":"51St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.64663,27.818302,-82.64663,27.818302",
     "geom:latitude":27.818302,
     "geom:longitude":-82.64663,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"18e8ffef08db58bf702522e694bff2ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":169854729,
-    "wof:lastmodified":1466429609,
+    "wof:lastmodified":1491889861,
     "wof:name":"C & S Window & Glass Repair",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

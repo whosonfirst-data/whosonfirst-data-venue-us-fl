@@ -2,9 +2,14 @@
   "id": 219388373,
   "type": "Feature",
   "properties": {
+    "addr:full":"890 N Hastings St Orlando FL 32808",
+    "addr:housenumber":"890",
+    "addr:postcode":"32808",
+    "addr:street":"N Hastings St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.459453,28.55438,-81.459453,28.55438",
     "geom:latitude":28.55438,
     "geom:longitude":-81.459453,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"308ceedf3c1835fcecd31bed22fa729d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":219388373,
-    "wof:lastmodified":1466430016,
+    "wof:lastmodified":1491934997,
     "wof:name":"Pine Hills Church Of Christ",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286740295,
   "type": "Feature",
   "properties": {
+    "addr:full":"3148 Davie Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3148",
+    "addr:postcode":"33312",
+    "addr:street":"Davie Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.18682,26.105317,-80.18682,26.105317",
     "geom:latitude":26.105317,
     "geom:longitude":-80.18682,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ae914c6ee6b87f0feedfd23913534f8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":286740295,
-    "wof:lastmodified":1466438072,
+    "wof:lastmodified":1491916246,
     "wof:name":"All Vacuum Warehouse Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

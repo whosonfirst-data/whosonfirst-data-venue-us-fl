@@ -2,9 +2,14 @@
   "id": 252951423,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 NW 5th Ave Miami FL 33127",
+    "addr:housenumber":"2401",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.203113,25.800604,-80.203113,25.800604",
     "geom:latitude":25.800604,
     "geom:longitude":-80.203113,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -49,7 +55,7 @@
     "wof:geomhash":"66bbe3a3ec4e1b9f7fec9395751d868e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":252951423,
-    "wof:lastmodified":1466431945,
+    "wof:lastmodified":1491905711,
     "wof:name":"Energetic By Bag Inc",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203378573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2968 Ravenswood Rd Fort Lauderdale FL 33312",
+    "addr:housenumber":"2968",
+    "addr:postcode":"33312",
+    "addr:street":"Ravenswood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.170905,26.08409,-80.170905,26.08409",
     "geom:latitude":26.08409,
     "geom:longitude":-80.170905,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"8f34d78bf13a6615e0999fdb338a60cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":203378573
         }
     ],
     "wof:id":203378573,
-    "wof:lastmodified":1466431139,
+    "wof:lastmodified":1491924498,
     "wof:name":"Jose Mejia",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

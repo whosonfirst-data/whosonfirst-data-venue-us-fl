@@ -2,9 +2,14 @@
   "id": 353487565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Collins Ave Miami Beach FL 33140",
+    "addr:housenumber":"2401",
+    "addr:postcode":"33140",
+    "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.126269,25.801308,-80.126269,25.801308",
     "geom:latitude":25.801308,
     "geom:longitude":-80.126269,
@@ -29,7 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897
     ],
@@ -41,17 +48,17 @@
     "wof:geomhash":"9f2c20a3658e65301c2e7a58f392b7cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":353487565
         }
     ],
     "wof:id":353487565,
-    "wof:lastmodified":1466435945,
+    "wof:lastmodified":1491903635,
     "wof:name":"Rotbart & Associates Inc",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253118251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 W Central Blvd Orlando FL 32805",
+    "addr:housenumber":"1106",
+    "addr:postcode":"32805",
+    "addr:street":"W Central Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.395613,28.54191,-81.395613,28.54191",
     "geom:latitude":28.54191,
     "geom:longitude":-81.395613,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"8fb39700e988669de7392144856b3a61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":253118251,
-    "wof:lastmodified":1466430135,
+    "wof:lastmodified":1491911391,
     "wof:name":"Orlando Classic Marble",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

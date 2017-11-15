@@ -2,9 +2,14 @@
   "id": 286927289,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 Belvedere Rd West Palm Beach FL 33405",
+    "addr:housenumber":"1045",
+    "addr:postcode":"33405",
+    "addr:street":"Belvedere Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.06493,26.690678,-80.06493,26.690678",
     "geom:latitude":26.690678,
     "geom:longitude":-80.06493,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4ee0a7725dbbee0387a4a9e0a8863497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286927289,
-    "wof:lastmodified":1466441393,
+    "wof:lastmodified":1491921855,
     "wof:name":"Royal Palms Beauty Supply",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

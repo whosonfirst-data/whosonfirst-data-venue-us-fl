@@ -2,9 +2,14 @@
   "id": 269557615,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 E Adalee St Tampa FL 33603",
+    "addr:housenumber":"107",
+    "addr:postcode":"33603",
+    "addr:street":"E Adalee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.459472,27.972391,-82.459472,27.972391",
     "geom:latitude":27.972391,
     "geom:longitude":-82.459472,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -47,7 +53,7 @@
     "wof:geomhash":"0cf0875b1e0f6582aa336042d0eada1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":269557615,
-    "wof:lastmodified":1466429793,
+    "wof:lastmodified":1491934026,
     "wof:name":"Tam-Bay Custom Cabinet & Desk",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

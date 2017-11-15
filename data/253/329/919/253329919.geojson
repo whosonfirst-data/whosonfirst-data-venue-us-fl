@@ -2,9 +2,14 @@
   "id": 253329919,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 Candia Ave Miami FL 33134",
+    "addr:housenumber":"244",
+    "addr:postcode":"33134",
+    "addr:street":"Candia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.259561,25.73629,-80.259561,25.73629",
     "geom:latitude":25.73629,
     "geom:longitude":-80.259561,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"2cf65f8025694b25dc7ad11db9499fd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":253329919
         }
     ],
     "wof:id":253329919,
-    "wof:lastmodified":1466432676,
+    "wof:lastmodified":1491901696,
     "wof:name":"Mas Palmason Enterprises",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303639787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 W Lemon St Tampa FL 33606",
+    "addr:housenumber":"1516",
+    "addr:postcode":"33606",
+    "addr:street":"W Lemon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.47646,27.950473,-82.47646,27.950473",
     "geom:latitude":27.950473,
     "geom:longitude":-82.47646,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8c5cac0ba930397ca1e78d4e2ab475a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303639787,
-    "wof:lastmodified":1466441535,
+    "wof:lastmodified":1491934218,
     "wof:name":"Nations Floral DSL",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

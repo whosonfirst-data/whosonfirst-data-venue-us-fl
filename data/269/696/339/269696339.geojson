@@ -2,9 +2,14 @@
   "id": 269696339,
   "type": "Feature",
   "properties": {
+    "addr:full":"5698 L B McLeod Rd Orlando FL 32811",
+    "addr:housenumber":"5698;b",
+    "addr:postcode":"32811",
+    "addr:street":"L;Mcleod Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.457897,28.504654,-81.457897,28.504654",
     "geom:latitude":28.504654,
     "geom:longitude":-81.457897,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -40,7 +46,7 @@
     "wof:geomhash":"ce28bd5fafabd040bc63ed9c9d6fc67e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":269696339,
-    "wof:lastmodified":1466432282,
+    "wof:lastmodified":1491921596,
     "wof:name":"7-Eleven",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

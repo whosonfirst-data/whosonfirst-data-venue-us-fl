@@ -2,9 +2,14 @@
   "id": 253373703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 NW 1st Ave Miami FL 33136",
+    "addr:housenumber":"1201",
+    "addr:postcode":"33136",
+    "addr:street":"Nw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.196063,25.786765,-80.196063,25.786765",
     "geom:latitude":25.786765,
     "geom:longitude":-80.196063,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f0701dab6676fe74b0fc3702ad10237d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253373703,
-    "wof:lastmodified":1466433408,
+    "wof:lastmodified":1491920067,
     "wof:name":"Sheila Shine Inc",
     "wof:parent_id":85889171,
     "wof:placetype":"venue",

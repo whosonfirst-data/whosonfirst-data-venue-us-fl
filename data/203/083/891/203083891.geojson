@@ -2,9 +2,14 @@
   "id": 203083891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3135 SW 3rd Ave Miami FL 33129",
+    "addr:housenumber":"3135",
+    "addr:postcode":"33129",
+    "addr:street":"Sw 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.213347,25.751757,-80.213347,25.751757",
     "geom:latitude":25.751757,
     "geom:longitude":-80.213347,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a3370ab9f6e447718d6a5f5bbe8fa44e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203083891,
-    "wof:lastmodified":1466444786,
+    "wof:lastmodified":1491887614,
     "wof:name":"Alexander F Fox",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

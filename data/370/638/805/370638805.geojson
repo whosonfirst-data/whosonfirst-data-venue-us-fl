@@ -2,9 +2,14 @@
   "id": 370638805,
   "type": "Feature",
   "properties": {
+    "addr:full":"516 S Dixie Hwy West Palm Beach FL 33401",
+    "addr:housenumber":"516",
+    "addr:postcode":"33401",
+    "addr:street":"S Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.053581,26.708671,-80.053581,26.708671",
     "geom:latitude":26.708671,
     "geom:longitude":-80.053581,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"20827e2dc12891635ca65e318f2623b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370638805,
-    "wof:lastmodified":1466443972,
+    "wof:lastmodified":1491899673,
     "wof:name":"Madam Meat Market",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

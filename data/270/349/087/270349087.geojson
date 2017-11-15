@@ -2,9 +2,14 @@
   "id": 270349087,
   "type": "Feature",
   "properties": {
+    "addr:full":"3588 Collins Ave Miami Beach FL 33140",
+    "addr:housenumber":"3588",
+    "addr:postcode":"33140",
+    "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.123682,25.809098,-80.123682,25.809098",
     "geom:latitude":25.809098,
     "geom:longitude":-80.123682,
@@ -29,7 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933671,
         102085771,
         85804897
     ],
@@ -41,17 +48,17 @@
     "wof:geomhash":"e92f9cb60b8fb34e6facf27cbcc98c93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":-1,
+            "locality_id":85933671,
             "neighbourhood_id":85804897,
             "region_id":85688651,
             "venue_id":270349087
         }
     ],
     "wof:id":270349087,
-    "wof:lastmodified":1466435439,
+    "wof:lastmodified":1491903593,
     "wof:name":"Corporate Limousine Service",
     "wof:parent_id":85804897,
     "wof:placetype":"venue",

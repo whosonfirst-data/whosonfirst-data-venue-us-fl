@@ -2,9 +2,14 @@
   "id": 169765363,
   "type": "Feature",
   "properties": {
+    "addr:full":"4998 62nd Ave S Saint Petersburg FL 33715",
+    "addr:housenumber":"4998",
+    "addr:postcode":"33715",
+    "addr:street":"62Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.694738,27.710142,-82.694738,27.710142",
     "geom:latitude":27.710142,
     "geom:longitude":-82.694738,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"aed973aa1e608ce1b3d2ac32c9681016",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":169765363,
-    "wof:lastmodified":1466428630,
+    "wof:lastmodified":1491915504,
     "wof:name":"Inside Out Culture To Customer",
     "wof:parent_id":85880563,
     "wof:placetype":"venue",

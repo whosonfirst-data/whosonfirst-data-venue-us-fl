@@ -2,9 +2,14 @@
   "id": 236689933,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 9th St N St Petersburg FL 33704",
+    "addr:housenumber":"3101",
+    "addr:postcode":"33704",
+    "addr:street":"9Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646752,27.801175,-82.646752,27.801175",
     "geom:latitude":27.801175,
     "geom:longitude":-82.646752,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -45,7 +51,7 @@
     "wof:geomhash":"74efaad4ed1eef3961e7e3a1fe28a167",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":236689933,
-    "wof:lastmodified":1466438210,
+    "wof:lastmodified":1491922162,
     "wof:name":"Van Conversions By Drew",
     "wof:parent_id":85880545,
     "wof:placetype":"venue",

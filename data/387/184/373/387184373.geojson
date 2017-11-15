@@ -2,9 +2,14 @@
   "id": 387184373,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 14th Ave N Saint Petersburg FL 33701",
+    "addr:housenumber":"445",
+    "addr:postcode":"33701",
+    "addr:street":"14Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.639388,27.786176,-82.639388,27.786176",
     "geom:latitude":27.786176,
     "geom:longitude":-82.639388,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0b84dc417e1224fa5e4c02e177c58241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387184373,
-    "wof:lastmodified":1466441547,
+    "wof:lastmodified":1491901208,
     "wof:name":"LLC Duran Shepard",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

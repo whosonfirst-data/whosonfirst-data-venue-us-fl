@@ -2,9 +2,14 @@
   "id": 269743659,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 21st Ave N Saint Petersburg FL 33704",
+    "addr:housenumber":"900",
+    "addr:postcode":"33704",
+    "addr:street":"21St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.647754,27.791183,-82.647754,27.791183",
     "geom:latitude":27.791183,
     "geom:longitude":-82.647754,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0e5fc6d137fb80debfc17b980418647e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269743659,
-    "wof:lastmodified":1466433098,
+    "wof:lastmodified":1491901205,
     "wof:name":"Rasmussen Accounting & Tax Svc",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

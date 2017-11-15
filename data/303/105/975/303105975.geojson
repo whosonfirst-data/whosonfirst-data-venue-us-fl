@@ -2,9 +2,14 @@
   "id": 303105975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1653 SW 9th St Miami FL 33135",
+    "addr:housenumber":"1653",
+    "addr:postcode":"33135",
+    "addr:street":"Sw 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.220492,25.764895,-80.220492,25.764895",
     "geom:latitude":25.764895,
     "geom:longitude":-80.220492,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"dcd4d9c00e26b208fa1016245a658bfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303105975,
-    "wof:lastmodified":1466432324,
+    "wof:lastmodified":1491935999,
     "wof:name":"Arts Development Center",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

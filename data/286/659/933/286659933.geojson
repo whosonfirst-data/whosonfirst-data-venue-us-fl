@@ -2,9 +2,14 @@
   "id": 286659933,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 W Boy Scout Blvd Tampa FL 33607",
+    "addr:housenumber":"4211",
+    "addr:postcode":"33607",
+    "addr:street":"W Boy Scout Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.514209,27.965138,-82.514209,27.965138",
     "geom:latitude":27.965138,
     "geom:longitude":-82.514209,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -48,7 +54,7 @@
     "wof:geomhash":"83082760b68692b8ec3b3d20c253812e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":286659933,
-    "wof:lastmodified":1466436622,
+    "wof:lastmodified":1491934083,
     "wof:name":"Outback Bowl",
     "wof:parent_id":85873207,
     "wof:placetype":"venue",

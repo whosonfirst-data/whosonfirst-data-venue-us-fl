@@ -2,9 +2,14 @@
   "id": 252932989,
   "type": "Feature",
   "properties": {
+    "addr:full":"2862 21st Ave N St Petersburg FL 33713",
+    "addr:housenumber":"2862",
+    "addr:postcode":"33713",
+    "addr:street":"21St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.672227,27.790918,-82.672227,27.790918",
     "geom:latitude":27.790918,
     "geom:longitude":-82.672227,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2bfad93f037ff6cc7a4c284c7b43dbe6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":252932989,
-    "wof:lastmodified":1466431687,
+    "wof:lastmodified":1491896298,
     "wof:name":"Ad Value Productions Inc",
     "wof:parent_id":85880559,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 639398909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2708 S Chickasaw Trl Orlando FL 32829",
+    "addr:housenumber":"2708",
+    "addr:postcode":"32829",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269092,28.507924,-81.269092,28.507924",
     "geom:latitude":28.507924,
     "geom:longitude":-81.269092,
@@ -31,9 +36,9 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        85879531,
+        85889405,
         102085847,
-        85889405
+        85879531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":639398909
         },
         {
             "country_id":85633793,
             "county_id":102085847,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":639398909
         }
     ],
     "wof:id":639398909,
-    "wof:lastmodified":1466458056,
+    "wof:lastmodified":1491901274,
     "wof:name":"Lil Champ Food Store 6192",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 287247849,
   "type": "Feature",
   "properties": {
+    "addr:full":"5909 American Way Orlando FL 32819",
+    "addr:housenumber":"5909",
+    "addr:postcode":"32819",
+    "addr:street":"American Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.462611,28.462542,-81.462611,28.462542",
     "geom:latitude":28.462542,
     "geom:longitude":-81.462611,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -43,7 +49,7 @@
     "wof:geomhash":"6a6125d9acc0e978914dc0ed5444ffea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287247849,
-    "wof:lastmodified":1466434219,
+    "wof:lastmodified":1491884829,
     "wof:name":"Motel 6",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

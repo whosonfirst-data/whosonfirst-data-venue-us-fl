@@ -2,9 +2,14 @@
   "id": 638779749,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Island Ave E Miami Beach FL 33139",
+    "addr:housenumber":"5",
+    "addr:postcode":"33139",
+    "addr:street":"Island Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.146998,25.790814,-80.146998,25.790814",
     "geom:latitude":25.790814,
     "geom:longitude":-80.146998,
@@ -33,8 +38,8 @@
         85633793,
         85933671,
         102085771,
-        85866193,
-        85878933
+        85878933,
+        85866193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +54,7 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85866193,
+            "neighbourhood_id":85878933,
             "region_id":85688651,
             "venue_id":638779749
         },
@@ -58,15 +63,15 @@
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
-            "neighbourhood_id":85878933,
+            "neighbourhood_id":85866193,
             "region_id":85688651,
             "venue_id":638779749
         }
     ],
     "wof:id":638779749,
-    "wof:lastmodified":1466451312,
+    "wof:lastmodified":1491915785,
     "wof:name":"Liquitrades LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

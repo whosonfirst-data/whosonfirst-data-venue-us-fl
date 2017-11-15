@@ -2,9 +2,14 @@
   "id": 186043983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1737 N Bayshore Dr Miami FL 33132",
+    "addr:housenumber":"1737",
+    "addr:postcode":"33132",
+    "addr:street":"N Bayshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.187012,25.790813,-80.187012,25.790813",
     "geom:latitude":25.790813,
     "geom:longitude":-80.187012,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"db8e44e9d4017031175226924baaf7c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":186043983,
-    "wof:lastmodified":1466444056,
+    "wof:lastmodified":1491921179,
     "wof:name":"Miami Woman's Club",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

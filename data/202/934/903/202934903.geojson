@@ -2,9 +2,14 @@
   "id": 202934903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Clare Ave West Palm Beach FL 33401",
+    "addr:housenumber":"1200",
+    "addr:postcode":"33401",
+    "addr:street":"Clare Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.062622,26.700249,-80.062622,26.700249",
     "geom:latitude":26.700249,
     "geom:longitude":-80.062622,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8aab2fb8a30f222c09823117a4826efb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202934903,
-    "wof:lastmodified":1466434066,
+    "wof:lastmodified":1491921836,
     "wof:name":"Christafaros Inc",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

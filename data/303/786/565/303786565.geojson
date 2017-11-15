@@ -2,14 +2,20 @@
   "id": 303786565,
   "type": "Feature",
   "properties": {
+    "addr:full":"5721 4th St N Saint Petersburg FL 33703",
+    "addr:housenumber":"5721",
+    "addr:postcode":"33703",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638573,27.823689,-82.638573,27.823689",
     "geom:latitude":27.823689,
     "geom:longitude":-82.638573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5721 4th St N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
         85880525
     ],
+    "wof:brand_id":1125157603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hu0NCTGk5Ct9bndH8aCXY_27.823689_-82.638573@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"038d1386e43880d57e032accf455fa06",
+    "wof:geomhash":"b3bf390127d9acafdf6a7cb4d5cf3094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":303786565,
-    "wof:lastmodified":1466444080,
+    "wof:lastmodified":1510695442,
     "wof:name":"Fidelity National Financial",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

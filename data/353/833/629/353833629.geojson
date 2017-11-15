@@ -2,9 +2,14 @@
   "id": 353833629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1524 NW 13th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"1524",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.160209,26.146389,-80.160209,26.146389",
     "geom:latitude":26.146389,
     "geom:longitude":-80.160209,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -39,7 +45,7 @@
     "wof:geomhash":"89398d3abb82a4cc5ae64be6642cb41c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353833629,
-    "wof:lastmodified":1466441459,
+    "wof:lastmodified":1491904196,
     "wof:name":"Webb Floral Arrangement",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

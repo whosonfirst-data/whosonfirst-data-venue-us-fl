@@ -2,9 +2,14 @@
   "id": 186537647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5519 W Colonial Dr Orlando FL 32808",
+    "addr:housenumber":"5519",
+    "addr:postcode":"32808",
+    "addr:street":"W Colonial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.454711,28.552476,-81.454711,28.552476",
     "geom:latitude":28.552476,
     "geom:longitude":-81.454711,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d589e27c747ee7371f9a1b29f09f6816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":186537647,
-    "wof:lastmodified":1466433294,
+    "wof:lastmodified":1491935003,
     "wof:name":"Beauty Comb Salon Inc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

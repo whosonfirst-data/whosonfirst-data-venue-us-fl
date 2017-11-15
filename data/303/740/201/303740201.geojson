@@ -2,9 +2,14 @@
   "id": 303740201,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Brickell Ave Miami FL 33129",
+    "addr:housenumber":"2100",
+    "addr:postcode":"33129",
+    "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.199308,25.753635,-80.199308,25.753635",
     "geom:latitude":25.753635,
     "geom:longitude":-80.199308,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab355e7cae9b23ca00b37bb6569a42d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303740201,
-    "wof:lastmodified":1466443303,
+    "wof:lastmodified":1491934924,
     "wof:name":"Fairs",
     "wof:parent_id":85896163,
     "wof:placetype":"venue",

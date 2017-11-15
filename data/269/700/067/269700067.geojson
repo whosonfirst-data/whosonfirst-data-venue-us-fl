@@ -2,9 +2,14 @@
   "id": 269700067,
   "type": "Feature",
   "properties": {
+    "addr:full":"6328 International Dr Orlando FL 32819",
+    "addr:housenumber":"6328",
+    "addr:postcode":"32819",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.464741,28.462321,-81.464741,28.462321",
     "geom:latitude":28.462321,
     "geom:longitude":-81.464741,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e7a793033650eb82390227ad566be19a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":269700067,
-    "wof:lastmodified":1466432342,
+    "wof:lastmodified":1491884856,
     "wof:name":"Celebration Gift Shop",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

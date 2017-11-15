@@ -2,9 +2,14 @@
   "id": 270392513,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 Day Ave Miami FL 33133",
+    "addr:housenumber":"2929",
+    "addr:postcode":"33133",
+    "addr:street":"Day Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.240324,25.731886,-80.240324,25.731886",
     "geom:latitude":25.731886,
     "geom:longitude":-80.240324,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"181613186cbbfda271ffae1f752f14a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":270392513
         }
     ],
     "wof:id":270392513,
-    "wof:lastmodified":1466436172,
+    "wof:lastmodified":1491901716,
     "wof:name":"RMQ Construction Corp",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

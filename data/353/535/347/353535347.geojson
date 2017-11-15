@@ -2,9 +2,14 @@
   "id": 353535347,
   "type": "Feature",
   "properties": {
+    "addr:full":"2728 Keystone Dr Orlando FL 32806",
+    "addr:housenumber":"2728",
+    "addr:postcode":"32806",
+    "addr:street":"Keystone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.366088,28.510974,-81.366088,28.510974",
     "geom:latitude":28.510974,
     "geom:longitude":-81.366088,
@@ -30,7 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -42,17 +49,17 @@
     "wof:geomhash":"1099b9d57f4d423621da21702cafc449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":353535347
         }
     ],
     "wof:id":353535347,
-    "wof:lastmodified":1466436716,
+    "wof:lastmodified":1491930963,
     "wof:name":"Employment Scrning Prfssionals",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

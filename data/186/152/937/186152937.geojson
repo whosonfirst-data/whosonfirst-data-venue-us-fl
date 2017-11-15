@@ -2,14 +2,20 @@
   "id": 186152937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 S Chickasaw Trl Orlando FL 32825",
+    "addr:housenumber":"2200",
+    "addr:postcode":"32825",
+    "addr:street":"S Chickasaw Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269096,28.514779,-81.269096,28.514779",
     "geom:latitude":28.514779,
     "geom:longitude":-81.269096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 S Chickasaw Trl",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -30,40 +36,37 @@
     "wof:belongsto":[
         85688651,
         85633793,
+        85889405,
         102085847,
-        85879531,
-        85889405
+        85879531
     ],
+    "wof:brand_id":1125150547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03rntwjq4vcnti5gAy3R2y_28.514779_-81.269096@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd89c094d42cc73c6375ea22b713dc31",
+    "wof:geomhash":"57124ec39f3af3996ac067d43fc06ef3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85879531,
+            "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":186152937
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
-            "neighbourhood_id":85889405,
+            "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":186152937
         }
     ],
     "wof:id":186152937,
-    "wof:lastmodified":1466428567,
+    "wof:lastmodified":1510695849,
     "wof:name":"Dryclean USA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

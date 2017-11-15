@@ -2,9 +2,14 @@
   "id": 169775553,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 S Orange Blossom Trl Orlando FL 32805",
+    "addr:housenumber":"17",
+    "addr:postcode":"32805",
+    "addr:street":"S Orange Blossom Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.397193,28.541626,-81.397193,28.541626",
     "geom:latitude":28.541626,
     "geom:longitude":-81.397193,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"7f37af2622ec1b17d8cdf0e4c145068b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":169775553,
-    "wof:lastmodified":1466428740,
+    "wof:lastmodified":1491911383,
     "wof:name":"Durham Judson",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

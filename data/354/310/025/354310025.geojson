@@ -2,9 +2,14 @@
   "id": 354310025,
   "type": "Feature",
   "properties": {
+    "addr:full":"3231 Monegro St Miami FL 33134",
+    "addr:housenumber":"3231",
+    "addr:postcode":"33134",
+    "addr:street":"Monegro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.256657,25.74176,-80.256657,25.74176",
     "geom:latitude":25.74176,
     "geom:longitude":-80.256657,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"b3ff39bb9fb9c2becfd6acc498979d6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":354310025
         }
     ],
     "wof:id":354310025,
-    "wof:lastmodified":1466440854,
+    "wof:lastmodified":1491901689,
     "wof:name":"Terrain Holdings Corp",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286785473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4210 21st St N St Petersburg FL 33714",
+    "addr:housenumber":"4210",
+    "addr:postcode":"33714",
+    "addr:street":"21St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.6612,27.810757,-82.6612,27.810757",
     "geom:latitude":27.810757,
     "geom:longitude":-82.6612,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a1e19f9364e6231af491bca7ee75fb06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286785473,
-    "wof:lastmodified":1466438861,
+    "wof:lastmodified":1491889865,
     "wof:name":"Stefio Audio & Video Prdctns",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

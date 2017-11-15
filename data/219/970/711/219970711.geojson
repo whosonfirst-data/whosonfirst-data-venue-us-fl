@@ -2,14 +2,20 @@
   "id": 219970711,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 W Columbus Dr Tampa FL 33602",
+    "addr:housenumber":"110",
+    "addr:postcode":"33602",
+    "addr:street":"W Columbus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.46222,27.966828,-82.46222,27.966828",
     "geom:latitude":27.966828,
     "geom:longitude":-82.46222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 W Columbus Dr",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
         85873255
     ],
+    "wof:brand_id":1125156903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31cdaDU8I86mhSQhRpoWof_27.966828_-82.462220@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"81e75e0ea93152e29b22505971dbcbcf",
+    "wof:geomhash":"03365883f9d810895e722867dfc406eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219970711,
-    "wof:lastmodified":1466437813,
+    "wof:lastmodified":1510699554,
     "wof:name":"American Building Maintenance",
     "wof:parent_id":85873255,
     "wof:placetype":"venue",

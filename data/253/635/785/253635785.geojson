@@ -2,9 +2,14 @@
   "id": 253635785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2626 NW 2nd Ave Miami FL 33127",
+    "addr:housenumber":"2626",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.199221,25.801965,-80.199221,25.801965",
     "geom:latitude":25.801965,
     "geom:longitude":-80.199221,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d665e055ebeee0504ea89d9efdf9199a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253635785,
-    "wof:lastmodified":1466438056,
+    "wof:lastmodified":1491905711,
     "wof:name":"Toto International Inc",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

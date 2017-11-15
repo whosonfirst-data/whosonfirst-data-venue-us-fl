@@ -2,9 +2,14 @@
   "id": 303591327,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 SW 17th Ave Miami FL 33145",
+    "addr:housenumber":"1914",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 17Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.222172,25.753973,-80.222172,25.753973",
     "geom:latitude":25.753973,
     "geom:longitude":-80.222172,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c60e0e91fe46889ba46d8c25260a5575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303591327,
-    "wof:lastmodified":1466440709,
+    "wof:lastmodified":1491887609,
     "wof:name":"LA Arboleda Condominium Assoc",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",

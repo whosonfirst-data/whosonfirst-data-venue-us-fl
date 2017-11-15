@@ -2,9 +2,14 @@
   "id": 286996763,
   "type": "Feature",
   "properties": {
+    "addr:full":"8633 Havasu Dr Orlando FL 32829",
+    "addr:housenumber":"8633",
+    "addr:postcode":"32829",
+    "addr:street":"Havasu Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.26797,28.504991,-81.26797,28.504991",
     "geom:latitude":28.504991,
     "geom:longitude":-81.26797,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85879531
+        85879531,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +46,17 @@
     "wof:geomhash":"8b06de9fc2ba3cdcf5043724b743da1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":286996763
         }
     ],
     "wof:id":286996763,
-    "wof:lastmodified":1466442622,
+    "wof:lastmodified":1491901270,
     "wof:name":"Jim's Janitorial & Fire Rstrtn",
-    "wof:parent_id":85879531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

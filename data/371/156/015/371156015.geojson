@@ -2,9 +2,14 @@
   "id": 371156015,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 NW 5th Ave Miami FL 33127",
+    "addr:housenumber":"2330",
+    "addr:postcode":"33127",
+    "addr:street":"Nw 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.203148,25.799173,-80.203148,25.799173",
     "geom:latitude":25.799173,
     "geom:longitude":-80.203148,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"28262366fbcf07ec531a7ed0fb020aed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":371156015,
-    "wof:lastmodified":1466439943,
+    "wof:lastmodified":1491905712,
     "wof:name":"Basic XXI Inc",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",

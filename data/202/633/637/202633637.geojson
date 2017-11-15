@@ -2,9 +2,14 @@
   "id": 202633637,
   "type": "Feature",
   "properties": {
+    "addr:full":"1884 S Semoran Blvd Orlando FL 32822",
+    "addr:housenumber":"1884",
+    "addr:postcode":"32822",
+    "addr:street":"S Semoran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.310374,28.520677,-81.310374,28.520677",
     "geom:latitude":28.520677,
     "geom:longitude":-81.310374,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
-        102085847
+        102085847,
+        420515461,
+        85889363
     ],
     "wof:brand_id":420575151,
     "wof:breaches":[],
@@ -43,19 +51,28 @@
     "wof:geomhash":"a9b8a02e275b1f691a415a5732afc1a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420515461,
+            "region_id":85688651,
+            "venue_id":202633637
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85889363,
             "region_id":85688651,
             "venue_id":202633637
         }
     ],
     "wof:id":202633637,
-    "wof:lastmodified":1466430131,
+    "wof:lastmodified":1491901767,
     "wof:name":"Nextel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

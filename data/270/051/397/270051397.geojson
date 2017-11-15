@@ -2,9 +2,14 @@
   "id": 270051397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2743 W Chestnut St Tampa FL 33607",
+    "addr:housenumber":"2743",
+    "addr:postcode":"33607",
+    "addr:street":"W Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.488327,27.958755,-82.488327,27.958755",
     "geom:latitude":27.958755,
     "geom:longitude":-82.488327,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -51,7 +57,7 @@
     "wof:geomhash":"4ea65d796e588c9fc2285eadf42e2b95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":270051397,
-    "wof:lastmodified":1466430332,
+    "wof:lastmodified":1491934207,
     "wof:name":"Al Harber Business Machines",
     "wof:parent_id":85856473,
     "wof:placetype":"venue",

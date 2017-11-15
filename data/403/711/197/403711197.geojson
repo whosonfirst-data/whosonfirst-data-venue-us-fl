@@ -2,9 +2,14 @@
   "id": 403711197,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 NW 36th Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"640",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 36Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.196427,26.128759,-80.196427,26.128759",
     "geom:latitude":26.128759,
     "geom:longitude":-80.196427,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"55d67d8a42cf10f4af3098184012b355",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":403711197,
-    "wof:lastmodified":1466439713,
+    "wof:lastmodified":1491916237,
     "wof:name":"G & A International Frt Fwdg",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

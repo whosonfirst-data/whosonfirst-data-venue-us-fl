@@ -2,9 +2,14 @@
   "id": 236239513,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 SE 1st St Miami FL 33131",
+    "addr:housenumber":"94",
+    "addr:postcode":"33131",
+    "addr:street":"Se 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.191968,25.773266,-80.191968,25.773266",
     "geom:latitude":25.773266,
     "geom:longitude":-80.191968,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2c9a4911ad691a3e8cc8785fe246ea82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236239513,
-    "wof:lastmodified":1466431798,
+    "wof:lastmodified":1491906339,
     "wof:name":"Miami Stamps",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",

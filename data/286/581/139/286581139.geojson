@@ -2,9 +2,14 @@
   "id": 286581139,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 E Evanston Cir Fort Lauderdale FL 33312",
+    "addr:housenumber":"830",
+    "addr:postcode":"33312",
+    "addr:street":"E Evanston Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.190734,26.112877,-80.190734,26.112877",
     "geom:latitude":26.112877,
     "geom:longitude":-80.190734,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"28869257f2331577320e0d9626cf27c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286581139,
-    "wof:lastmodified":1466435204,
+    "wof:lastmodified":1491916227,
     "wof:name":"Haynes Paul",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

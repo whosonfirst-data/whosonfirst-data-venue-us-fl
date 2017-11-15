@@ -2,9 +2,14 @@
   "id": 286699195,
   "type": "Feature",
   "properties": {
+    "addr:full":"2807 NE 26th Ave Fort Lauderdale FL 33306",
+    "addr:housenumber":"2807",
+    "addr:postcode":"33306",
+    "addr:street":"Ne 26Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.114366,26.161274,-80.114366,26.161274",
     "geom:latitude":26.161274,
     "geom:longitude":-80.114366,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"0de494ef1e2cbc86098611a1c78a7cb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":286699195
         }
     ],
     "wof:id":286699195,
-    "wof:lastmodified":1466437319,
+    "wof:lastmodified":1491905125,
     "wof:name":"Soaps Candles and More Inc",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

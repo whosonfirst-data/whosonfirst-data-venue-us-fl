@@ -2,9 +2,14 @@
   "id": 236539453,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Grand Junction Blvd Orlando FL 32835",
+    "addr:housenumber":"110",
+    "addr:postcode":"32835",
+    "addr:street":"Grand Junction Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.472311,28.542019,-81.472311,28.542019",
     "geom:latitude":28.542019,
     "geom:longitude":-81.472311,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a57d731886950d39f1689729332ac779",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":236539453,
-    "wof:lastmodified":1466436041,
+    "wof:lastmodified":1491935001,
     "wof:name":"Big Mac Moving Inc",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

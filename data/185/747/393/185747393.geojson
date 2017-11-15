@@ -2,9 +2,14 @@
   "id": 185747393,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Driver Ave Winter Park FL 32789",
+    "addr:housenumber":"701",
+    "addr:postcode":"32789",
+    "addr:street":"Driver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.38467,28.591509,-81.38467,28.591509",
     "geom:latitude":28.591509,
     "geom:longitude":-81.38467,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933091,
+        85935283,
         102085847,
         85889319
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"7f7e1dbd0a140e5334378b148237829c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":85933091,
+            "locality_id":85935283,
             "neighbourhood_id":85889319,
             "region_id":85688651,
             "venue_id":185747393
         }
     ],
     "wof:id":185747393,
-    "wof:lastmodified":1466428459,
+    "wof:lastmodified":1491917522,
     "wof:name":"Share-A-Home of America Inc",
     "wof:parent_id":85889319,
     "wof:placetype":"venue",

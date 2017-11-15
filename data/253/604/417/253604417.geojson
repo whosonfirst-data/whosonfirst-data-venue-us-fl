@@ -2,9 +2,14 @@
   "id": 253604417,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 S Dixie Hwy West Palm Beach FL 33401",
+    "addr:housenumber":"323",
+    "addr:postcode":"33401",
+    "addr:street":"S Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.053682,26.710583,-80.053682,26.710583",
     "geom:latitude":26.710583,
     "geom:longitude":-80.053682,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"0febe16a7e5131a2a548a1ba80066c67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":253604417,
-    "wof:lastmodified":1466437492,
+    "wof:lastmodified":1491899648,
     "wof:name":"Felder-Bell",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

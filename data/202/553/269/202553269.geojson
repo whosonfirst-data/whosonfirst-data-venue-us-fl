@@ -2,9 +2,14 @@
   "id": 202553269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 W Church St Orlando FL 32805",
+    "addr:housenumber":"1015",
+    "addr:postcode":"32805",
+    "addr:street":"W Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.39464,28.540204,-81.39464,28.540204",
     "geom:latitude":28.540204,
     "geom:longitude":-81.39464,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -47,7 +53,7 @@
     "wof:geomhash":"bb9f89b70152a6ed308637242718c236",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":202553269,
-    "wof:lastmodified":1466429059,
+    "wof:lastmodified":1491911384,
     "wof:name":"BLP Products Inc",
     "wof:parent_id":85879461,
     "wof:placetype":"venue",

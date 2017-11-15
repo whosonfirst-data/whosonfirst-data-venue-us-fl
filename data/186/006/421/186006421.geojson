@@ -2,9 +2,14 @@
   "id": 186006421,
   "type": "Feature",
   "properties": {
+    "addr:full":"272 SW 33rd Ct Fort Lauderdale FL 33315",
+    "addr:housenumber":"272",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 33Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.141702,26.082504,-80.141702,26.082504",
     "geom:latitude":26.082504,
     "geom:longitude":-80.141702,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"8d0819a3886e9445bac5bb4530729b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":186006421
         }
     ],
     "wof:id":186006421,
-    "wof:lastmodified":1466433388,
+    "wof:lastmodified":1491924502,
     "wof:name":"Capitol Marine Industries Inc",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

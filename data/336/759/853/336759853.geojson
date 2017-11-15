@@ -2,9 +2,14 @@
   "id": 336759853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3356 Bird Ave Miami FL 33133",
+    "addr:housenumber":"3356",
+    "addr:postcode":"33133",
+    "addr:street":"Bird Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.248129,25.735185,-80.248129,25.735185",
     "geom:latitude":25.735185,
     "geom:longitude":-80.248129,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"d444d5c61c026af8c24ffa0efe843991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":336759853
         }
     ],
     "wof:id":336759853,
-    "wof:lastmodified":1466437739,
+    "wof:lastmodified":1491901702,
     "wof:name":"Thunderun Production",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

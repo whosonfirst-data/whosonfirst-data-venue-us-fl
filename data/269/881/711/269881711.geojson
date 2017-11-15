@@ -2,9 +2,14 @@
   "id": 269881711,
   "type": "Feature",
   "properties": {
+    "addr:full":"6018 W Livingston St Orlando FL 32835",
+    "addr:housenumber":"6018",
+    "addr:postcode":"32835",
+    "addr:street":"W Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.467409,28.547002,-81.467409,28.547002",
     "geom:latitude":28.547002,
     "geom:longitude":-81.467409,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85935127,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4dd69a35d5a4ae77d485475085021dbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85935127,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":269881711,
-    "wof:lastmodified":1466435504,
+    "wof:lastmodified":1491935001,
     "wof:name":"James Dale Yeaton",
     "wof:parent_id":85889327,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303653821,
   "type": "Feature",
   "properties": {
+    "addr:full":"1306 SW 1st Ave Fort Lauderdale FL 33315",
+    "addr:housenumber":"1306",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.143855,26.1046,-80.143855,26.1046",
     "geom:latitude":26.1046,
     "geom:longitude":-80.143855,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -51,7 +57,7 @@
     "wof:geomhash":"3bfc7032f63bb544d8739fa4b03358f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":303653821,
-    "wof:lastmodified":1466441773,
+    "wof:lastmodified":1491936873,
     "wof:name":"Dent Masters Inc",
     "wof:parent_id":85877533,
     "wof:placetype":"venue",

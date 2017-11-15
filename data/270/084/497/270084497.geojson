@@ -2,9 +2,14 @@
   "id": 270084497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 Allendale Rd West Palm Beach FL 33405",
+    "addr:housenumber":"1412",
+    "addr:postcode":"33405",
+    "addr:street":"Allendale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.071753,26.687199,-80.071753,26.687199",
     "geom:latitude":26.687199,
     "geom:longitude":-80.071753,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -42,7 +48,7 @@
     "wof:geomhash":"05f6e9bc2d578430c32457e7606d2114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":270084497,
-    "wof:lastmodified":1466430894,
+    "wof:lastmodified":1491921837,
     "wof:name":"ASAC Mechanical",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

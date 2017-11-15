@@ -2,9 +2,14 @@
   "id": 404104957,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 W Di Lido Dr Miami Beach FL 33139",
+    "addr:housenumber":"510",
+    "addr:postcode":"33139",
+    "addr:street":"W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.159624,25.7925,-80.159624,25.7925",
     "geom:latitude":25.7925,
     "geom:longitude":-80.159624,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9fb18cd5e1325f32d4b6538f8b93439d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":404104957,
-    "wof:lastmodified":1466441860,
+    "wof:lastmodified":1491915784,
     "wof:name":"Park Place Development LLC",
     "wof:parent_id":85878933,
     "wof:placetype":"venue",

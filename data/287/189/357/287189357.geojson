@@ -2,9 +2,14 @@
   "id": 287189357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1673 SW 29th Ave Fort Lauderdale FL 33312",
+    "addr:housenumber":"1673",
+    "addr:postcode":"33312",
+    "addr:street":"Sw 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.18225,26.100796,-80.18225,26.100796",
     "geom:latitude":26.100796,
     "geom:longitude":-80.18225,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"793ed636762c84a9d567b51556af328c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287189357,
-    "wof:lastmodified":1466433180,
+    "wof:lastmodified":1491916228,
     "wof:name":"Stolk Construction Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

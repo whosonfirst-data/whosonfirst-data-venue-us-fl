@@ -2,14 +2,20 @@
   "id": 638723317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1049 62nd Ave N Saint Petersburg FL 33702",
+    "addr:housenumber":"1049",
+    "addr:postcode":"33702",
+    "addr:street":"62Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646925,27.828483,-82.646925,27.828483",
     "geom:latitude":27.828483,
     "geom:longitude":-82.646925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1049 62nd Ave N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -30,16 +36,27 @@
         85633793,
         85931833,
         102085759,
+        85880551,
         85880525
     ],
+    "wof:brand_id":420574067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MkHI5TyuVeRCQ131ITFqs_27.828483_-82.646925@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461278290,
-    "wof:geomhash":"8a0f7d8d62f7b5c96279554a3048f72e",
+    "wof:geomhash":"ee685f4035e5f80e6b771004d28a32c7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085759,
+            "locality_id":85931833,
+            "neighbourhood_id":85880551,
+            "region_id":85688651,
+            "venue_id":638723317
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":638723317,
-    "wof:lastmodified":1466449283,
+    "wof:lastmodified":1510604324,
     "wof:name":"Winn-Dixie",
-    "wof:parent_id":85880525,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 370789915,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 24th St West Palm Beach FL 33407",
+    "addr:housenumber":"409",
+    "addr:postcode":"33407",
+    "addr:street":"24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.0547,26.735711,-80.0547,26.735711",
     "geom:latitude":26.735711,
     "geom:longitude":-80.0547,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -44,7 +50,7 @@
     "wof:geomhash":"c767c57b27827f496740aaf1f5d55ce3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":370789915,
-    "wof:lastmodified":1466446274,
+    "wof:lastmodified":1491899775,
     "wof:name":"Dockside Canvas",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

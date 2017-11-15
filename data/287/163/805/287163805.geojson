@@ -2,9 +2,14 @@
   "id": 287163805,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 NW 22nd St Fort Lauderdale FL 33311",
+    "addr:housenumber":"2210",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.17168,26.154811,-80.17168,26.154811",
     "geom:latitude":26.154811,
     "geom:longitude":-80.17168,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bd1fe6f6f766259be274d37b20f8df99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287163805,
-    "wof:lastmodified":1466432731,
+    "wof:lastmodified":1491904194,
     "wof:name":"Agape Worship Ctr Inc",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

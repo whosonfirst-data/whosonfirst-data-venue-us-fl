@@ -2,9 +2,14 @@
   "id": 286441751,
   "type": "Feature",
   "properties": {
+    "addr:full":"7802 Kingspointe Pkwy Orlando FL 32819",
+    "addr:housenumber":"7802",
+    "addr:postcode":"32819",
+    "addr:street":"Kingspointe Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.440641,28.453401,-81.440641,28.453401",
     "geom:latitude":28.453401,
     "geom:longitude":-81.440641,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1b1463eca60f4224b44b80a1a6c9bd49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286441751,
-    "wof:lastmodified":1466432767,
+    "wof:lastmodified":1491884875,
     "wof:name":"JAO Svc Inc",
     "wof:parent_id":85879451,
     "wof:placetype":"venue",

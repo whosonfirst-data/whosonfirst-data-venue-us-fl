@@ -2,9 +2,14 @@
   "id": 354076885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2617 Pinewood Ave West Palm Beach FL 33407",
+    "addr:housenumber":"2617",
+    "addr:postcode":"33407",
+    "addr:street":"Pinewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057894,26.737141,-80.057894,26.737141",
     "geom:latitude":26.737141,
     "geom:longitude":-80.057894,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"49df5b55bf2307f63c9142b501185a2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354076885,
-    "wof:lastmodified":1466437265,
+    "wof:lastmodified":1491899780,
     "wof:name":"Architectural Details Inc",
     "wof:parent_id":85881803,
     "wof:placetype":"venue",

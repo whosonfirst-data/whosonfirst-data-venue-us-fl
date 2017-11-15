@@ -2,9 +2,14 @@
   "id": 286894833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1361 SW 32nd St Fort Lauderdale FL 33315",
+    "addr:housenumber":"1361",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.158751,26.085615,-80.158751,26.085615",
     "geom:latitude":26.085615,
     "geom:longitude":-80.158751,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"c5ec9767f4358342a9b9ed4264fce081",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":286894833
         }
     ],
     "wof:id":286894833,
-    "wof:lastmodified":1466440800,
+    "wof:lastmodified":1491924477,
     "wof:name":"Washburn Painting of Flor",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

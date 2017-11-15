@@ -2,9 +2,14 @@
   "id": 253075841,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 E Michigan St Orlando FL 32806",
+    "addr:housenumber":"301",
+    "addr:postcode":"32806",
+    "addr:street":"E Michigan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.372207,28.512959,-81.372207,28.512959",
     "geom:latitude":28.512959,
     "geom:longitude":-81.372207,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
-        102085847
+        102085847,
+        85889297,
+        85889383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"17b88d308cc292d4aa2c8ec2fa3af35f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85889297,
+            "region_id":85688651,
+            "venue_id":253075841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":85889383,
             "region_id":85688651,
             "venue_id":253075841
         }
     ],
     "wof:id":253075841,
-    "wof:lastmodified":1466429544,
+    "wof:lastmodified":1491930960,
     "wof:name":"Central Florida Postal CU",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

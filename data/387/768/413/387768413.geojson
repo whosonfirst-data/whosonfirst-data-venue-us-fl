@@ -2,9 +2,14 @@
   "id": 387768413,
   "type": "Feature",
   "properties": {
+    "addr:full":"3265 Davie Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"3265",
+    "addr:postcode":"33312",
+    "addr:street":"Davie Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.188824,26.10512,-80.188824,26.10512",
     "geom:latitude":26.10512,
     "geom:longitude":-80.188824,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3087fc07147a5ceab69e8b60f7df6077",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387768413,
-    "wof:lastmodified":1466448710,
+    "wof:lastmodified":1491916231,
     "wof:name":"Sterling Healthcare",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

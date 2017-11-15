@@ -2,9 +2,14 @@
   "id": 286298701,
   "type": "Feature",
   "properties": {
+    "addr:full":"3818 W Bay Vista Ave Tampa FL 33611",
+    "addr:housenumber":"3818",
+    "addr:postcode":"33611",
+    "addr:street":"W Bay Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.507749,27.906427,-82.507749,27.906427",
     "geom:latitude":27.906427,
     "geom:longitude":-82.507749,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d7b1b55a7752acdab14d8949a56d284d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":286298701,
-    "wof:lastmodified":1466430293,
+    "wof:lastmodified":1491939103,
     "wof:name":"INTERNATIONAL Painter Loc 88",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

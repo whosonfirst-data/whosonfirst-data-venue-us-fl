@@ -2,9 +2,14 @@
   "id": 370902791,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Bradley Pl Palm Beach FL 33480",
+    "addr:housenumber":"250",
+    "addr:postcode":"33480",
+    "addr:street":"Bradley Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.040911,26.722849,-80.040911,26.722849",
     "geom:latitude":26.722849,
     "geom:longitude":-80.040911,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931971,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"05f58de6e3405ef5a148c2f3f96aa5fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931971,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":370902791,
-    "wof:lastmodified":1466447504,
+    "wof:lastmodified":1491899634,
     "wof:name":"Espiritu Santo USA Inc",
     "wof:parent_id":85881787,
     "wof:placetype":"venue",

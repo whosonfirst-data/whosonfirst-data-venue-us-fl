@@ -2,9 +2,14 @@
   "id": 286864189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 5th St N St Petersburg FL 33701",
+    "addr:housenumber":"1320",
+    "addr:postcode":"33701",
+    "addr:street":"5Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.640143,27.785938,-82.640143,27.785938",
     "geom:latitude":27.785938,
     "geom:longitude":-82.640143,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8724c749019cbe2bef3c8806e67a249d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":286864189,
-    "wof:lastmodified":1466440268,
+    "wof:lastmodified":1491901211,
     "wof:name":"St Petersburg Athletic Office",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

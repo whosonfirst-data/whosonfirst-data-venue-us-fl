@@ -2,9 +2,14 @@
   "id": 319827873,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 NW 19th St Fort Lauderdale FL 33311",
+    "addr:housenumber":"701",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.154331,26.151569,-80.154331,26.151569",
     "geom:latitude":26.151569,
     "geom:longitude":-80.154331,
@@ -26,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
-        102084727
+        102084727,
+        420511549,
+        85877509,
+        85877527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,37 @@
     "wof:geomhash":"36bb0f07ff5a7b92ad78c046fd5bf3a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420511549,
+            "region_id":85688651,
+            "venue_id":319827873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877509,
+            "region_id":85688651,
+            "venue_id":319827873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877527,
             "region_id":85688651,
             "venue_id":319827873
         }
     ],
     "wof:id":319827873,
-    "wof:lastmodified":1466432919,
+    "wof:lastmodified":1491904193,
     "wof:name":"Tennis Club II Condo Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

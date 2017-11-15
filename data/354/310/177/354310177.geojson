@@ -2,9 +2,14 @@
   "id": 354310177,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 16th St N St Petersburg FL 33703",
+    "addr:housenumber":"5500",
+    "addr:postcode":"33703",
+    "addr:street":"16Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.655012,27.82296,-82.655012,27.82296",
     "geom:latitude":27.82296,
     "geom:longitude":-82.655012,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b55cb55394ce4c74019d52cfe06251cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354310177,
-    "wof:lastmodified":1466440856,
+    "wof:lastmodified":1491889869,
     "wof:name":"Northeast High School",
     "wof:parent_id":85880515,
     "wof:placetype":"venue",

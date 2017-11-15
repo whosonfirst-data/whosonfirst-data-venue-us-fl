@@ -2,9 +2,14 @@
   "id": 286610215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 S Eola Dr Orlando FL 32806",
+    "addr:housenumber":"1601",
+    "addr:postcode":"32806",
+    "addr:street":"S Eola Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.369183,28.522543,-81.369183,28.522543",
     "geom:latitude":28.522543,
     "geom:longitude":-81.369183,
@@ -29,7 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
+        85933091,
         102085847,
         85889297
     ],
@@ -41,17 +48,17 @@
     "wof:geomhash":"31e3728f81b4932bc9b9a1d8c050fb86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
+            "locality_id":85933091,
             "neighbourhood_id":85889297,
             "region_id":85688651,
             "venue_id":286610215
         }
     ],
     "wof:id":286610215,
-    "wof:lastmodified":1466435723,
+    "wof:lastmodified":1491930960,
     "wof:name":"Keys To Learning",
     "wof:parent_id":85889297,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 202479629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 NW 14th Ct Fort Lauderdale FL 33311",
+    "addr:housenumber":"1231",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 14Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.155484,26.144294,-80.155484,26.144294",
     "geom:latitude":26.144294,
     "geom:longitude":-80.155484,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c807a3f77a2bf1942e7ae447555b0360",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":202479629,
-    "wof:lastmodified":1466445666,
+    "wof:lastmodified":1491904193,
     "wof:name":"Big Daddys All Purpose Lawns",
     "wof:parent_id":85877509,
     "wof:placetype":"venue",

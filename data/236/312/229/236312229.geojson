@@ -2,9 +2,14 @@
   "id": 236312229,
   "type": "Feature",
   "properties": {
+    "addr:full":"447 SW 8th Ct Miami FL 33130",
+    "addr:housenumber":"447",
+    "addr:postcode":"33130",
+    "addr:street":"Sw 8Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.208309,25.769304,-80.208309,25.769304",
     "geom:latitude":25.769304,
     "geom:longitude":-80.208309,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7ca0a98c43550e478d315d922b4e912d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236312229,
-    "wof:lastmodified":1466432836,
+    "wof:lastmodified":1491906073,
     "wof:name":"A Dish Catering",
     "wof:parent_id":85896161,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320430021,
   "type": "Feature",
   "properties": {
+    "addr:full":"9195 Boggy Creek Rd Orlando FL 32824",
+    "addr:housenumber":"9195",
+    "addr:postcode":"32824",
+    "addr:street":"Boggy Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.34873,28.436812,-81.34873,28.436812",
     "geom:latitude":28.436812,
     "geom:longitude":-81.34873,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -45,7 +51,7 @@
     "wof:geomhash":"d9650dc352f93bcb59f82083ea934212",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320430021,
-    "wof:lastmodified":1466440774,
+    "wof:lastmodified":1491914281,
     "wof:name":"Del Tropico Fd Bev of N Amer",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

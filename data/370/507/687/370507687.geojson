@@ -2,9 +2,14 @@
   "id": 370507687,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 N Lake Davis Dr Orlando FL 32806",
+    "addr:housenumber":"803",
+    "addr:postcode":"32806",
+    "addr:street":"N Lake Davis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.36633,28.533116,-81.36633,28.533116",
     "geom:latitude":28.533116,
     "geom:longitude":-81.36633,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"93e4e2690fca636b068dc58b30fd5155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":370507687,
-    "wof:lastmodified":1466441961,
+    "wof:lastmodified":1491905852,
     "wof:name":"Lake Crest Apartments",
     "wof:parent_id":85879455,
     "wof:placetype":"venue",

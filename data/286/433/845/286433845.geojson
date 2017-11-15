@@ -2,9 +2,14 @@
   "id": 286433845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 Forsythe Rd West Palm Beach FL 33405",
+    "addr:housenumber":"1407",
+    "addr:postcode":"33405",
+    "addr:street":"Forsythe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.071806,26.688094,-80.071806,26.688094",
     "geom:latitude":26.688094,
     "geom:longitude":-80.071806,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931945,
         102085845,
@@ -43,7 +49,7 @@
     "wof:geomhash":"74555a109840a05ec86c0d61cc46e277",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085845,
             "locality_id":85931945,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":286433845,
-    "wof:lastmodified":1466432634,
+    "wof:lastmodified":1491921840,
     "wof:name":"Architechtural Aluminum",
     "wof:parent_id":85881795,
     "wof:placetype":"venue",

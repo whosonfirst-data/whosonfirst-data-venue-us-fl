@@ -2,9 +2,14 @@
   "id": 220083769,
   "type": "Feature",
   "properties": {
+    "addr:full":"3612 S Sterling Ave Tampa FL 33629",
+    "addr:housenumber":"3612",
+    "addr:postcode":"33629",
+    "addr:street":"S Sterling Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.503958,27.909991,-82.503958,27.909991",
     "geom:latitude":27.909991,
     "geom:longitude":-82.503958,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9aa502bd5cc018ac8cc5b2e59374eb4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":220083769,
-    "wof:lastmodified":1466445396,
+    "wof:lastmodified":1491939113,
     "wof:name":"Electronic Document Design LLC",
     "wof:parent_id":85889733,
     "wof:placetype":"venue",

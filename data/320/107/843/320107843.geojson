@@ -2,9 +2,14 @@
   "id": 320107843,
   "type": "Feature",
   "properties": {
+    "addr:full":"7408 Lake Willis Dr Orlando FL 32821",
+    "addr:housenumber":"7408",
+    "addr:postcode":"32821",
+    "addr:street":"Lake Willis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.474827,28.397878,-81.474827,28.397878",
     "geom:latitude":28.397878,
     "geom:longitude":-81.474827,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
-        85889411
+        85889411,
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"7b58f823aa0ba43d0fec13344d183143",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889411,
             "region_id":85688651,
             "venue_id":320107843
         }
     ],
     "wof:id":320107843,
-    "wof:lastmodified":1466435220,
+    "wof:lastmodified":1491920782,
     "wof:name":"Amusement Industry Consulting",
     "wof:parent_id":85889411,
     "wof:placetype":"venue",

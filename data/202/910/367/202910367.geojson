@@ -2,9 +2,14 @@
   "id": 202910367,
   "type": "Feature",
   "properties": {
+    "addr:full":"2909 Middle River Dr Fort Lauderdale FL 33306",
+    "addr:housenumber":"2909",
+    "addr:postcode":"33306",
+    "addr:street":"Middle River Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.114672,26.164811,-80.114672,26.164811",
     "geom:latitude":26.164811,
     "geom:longitude":-80.114672,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"b8395b48ce3bb926f02d1d55dfe583f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":202910367
         }
     ],
     "wof:id":202910367,
-    "wof:lastmodified":1466433741,
+    "wof:lastmodified":1491905140,
     "wof:name":"99 Jamz",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

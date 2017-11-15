@@ -2,9 +2,14 @@
   "id": 403731097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1456 S Semoran Blvd Orlando FL 32807",
+    "addr:housenumber":"1456",
+    "addr:postcode":"32807",
+    "addr:street":"S Semoran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.310502,28.527038,-81.310502,28.527038",
     "geom:latitude":28.527038,
     "geom:longitude":-81.310502,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"79fc9939bc31d3a2f09f392f446daffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":403731097,
-    "wof:lastmodified":1466440030,
+    "wof:lastmodified":1491901768,
     "wof:name":"Mladen Antolic DC",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

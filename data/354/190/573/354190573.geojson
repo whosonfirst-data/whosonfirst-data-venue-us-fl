@@ -2,9 +2,14 @@
   "id": 354190573,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 W 28th St Miami Beach FL 33140",
+    "addr:housenumber":"1424",
+    "addr:postcode":"33140",
+    "addr:street":"W 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142986,25.804401,-80.142986,25.804401",
     "geom:latitude":25.804401,
     "geom:longitude":-80.142986,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933671,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"424ccac805a64d1fb7db9815f35b1a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -52,7 +58,7 @@
             "venue_id":354190573
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933671,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":354190573,
-    "wof:lastmodified":1466439020,
+    "wof:lastmodified":1491915783,
     "wof:name":"Globe Development Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

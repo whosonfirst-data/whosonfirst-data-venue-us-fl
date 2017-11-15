@@ -2,9 +2,14 @@
   "id": 655898217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Herald Plz Miami FL 33132",
+    "addr:housenumber":"1",
+    "addr:postcode":"33132",
+    "addr:street":"Herald Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.18654,25.789602,-80.18654,25.789602",
     "geom:latitude":25.789602,
     "geom:longitude":-80.18654,
@@ -30,7 +35,8 @@
         85633793,
         85933669,
         102085771,
-        85889181
+        85889181,
+        85889177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":85889181,
             "region_id":85688651,
             "venue_id":655898217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85889177,
+            "region_id":85688651,
+            "venue_id":655898217
         }
     ],
     "wof:id":655898217,
-    "wof:lastmodified":1466447713,
+    "wof:lastmodified":1491921182,
     "wof:name":"Cristina L Mendoza",
-    "wof:parent_id":85889181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

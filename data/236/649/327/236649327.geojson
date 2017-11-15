@@ -2,9 +2,14 @@
   "id": 236649327,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 Jackson Ave Miami FL 33133",
+    "addr:housenumber":"3175",
+    "addr:postcode":"33133",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.245347,25.734478,-80.245347,25.734478",
     "geom:latitude":25.734478,
     "geom:longitude":-80.245347,
@@ -34,8 +39,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85933669,
+        85933643,
         102085771,
         85811627
     ],
@@ -47,17 +53,17 @@
     "wof:geomhash":"a21027082e4ca7d808527dec410f960f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
-            "locality_id":85933669,
+            "locality_id":85933643,
             "neighbourhood_id":85811627,
             "region_id":85688651,
             "venue_id":236649327
         }
     ],
     "wof:id":236649327,
-    "wof:lastmodified":1466437613,
+    "wof:lastmodified":1491901679,
     "wof:name":"Oranje Industrial Corp",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",

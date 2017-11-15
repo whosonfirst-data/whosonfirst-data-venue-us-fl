@@ -2,9 +2,14 @@
   "id": 169760317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1311 N Church Ave Tampa FL 33607",
+    "addr:housenumber":"1311",
+    "addr:postcode":"33607",
+    "addr:street":"N Church Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.507616,27.955015,-82.507616,27.955015",
     "geom:latitude":27.955015,
     "geom:longitude":-82.507616,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -42,7 +48,7 @@
     "wof:geomhash":"036307d34e36a939de07f0edcad6404e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":169760317,
-    "wof:lastmodified":1466428574,
+    "wof:lastmodified":1491909530,
     "wof:name":"Metro Burger Ltd",
     "wof:parent_id":85889801,
     "wof:placetype":"venue",

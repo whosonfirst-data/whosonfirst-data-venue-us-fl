@@ -2,9 +2,14 @@
   "id": 219750505,
   "type": "Feature",
   "properties": {
+    "addr:full":"4210 W Spruce St Tampa FL 33607",
+    "addr:housenumber":"4210",
+    "addr:postcode":"33607",
+    "addr:street":"W Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.517746,27.959416,-82.517746,27.959416",
     "geom:latitude":27.959416,
     "geom:longitude":-82.517746,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
         102085773,
@@ -50,7 +56,7 @@
     "wof:geomhash":"865d183b0fdb211e2d501ebfe799fb2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":219750505,
-    "wof:lastmodified":1466434767,
+    "wof:lastmodified":1491934077,
     "wof:name":"Greater Bay Construction Co",
     "wof:parent_id":85873207,
     "wof:placetype":"venue",

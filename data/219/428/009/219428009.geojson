@@ -2,9 +2,14 @@
   "id": 219428009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1881 NE 26th St Fort Lauderdale FL 33305",
+    "addr:housenumber":"1881",
+    "addr:postcode":"33305",
+    "addr:street":"Ne 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.123275,26.159763,-80.123275,26.159763",
     "geom:latitude":26.159763,
     "geom:longitude":-80.123275,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
-        85932349,
+        85932397,
         102084727,
         85877493
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"9b88462ba5a7909e4b9e8b248050b989",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":85932349,
+            "locality_id":85932397,
             "neighbourhood_id":85877493,
             "region_id":85688651,
             "venue_id":219428009
         }
     ],
     "wof:id":219428009,
-    "wof:lastmodified":1466430567,
+    "wof:lastmodified":1491905136,
     "wof:name":"Gillis Joyce L Insurance Agcy",
     "wof:parent_id":85877493,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387024805,
   "type": "Feature",
   "properties": {
+    "addr:full":"8216 Southern Forest Dr Orlando FL 32829",
+    "addr:housenumber":"8216",
+    "addr:postcode":"32829",
+    "addr:street":"Southern Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.270316,28.501437,-81.270316,28.501437",
     "geom:latitude":28.501437,
     "geom:longitude":-81.270316,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102085847,
         85879531,
+        102085847,
         85889405
     ],
     "wof:breaches":[],
@@ -43,28 +48,24 @@
     "wof:geomhash":"1c11435709ad4b812ce5a55a37322f37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85879531,
             "region_id":85688651,
             "venue_id":387024805
         },
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085847,
-            "locality_id":-1,
             "neighbourhood_id":85889405,
             "region_id":85688651,
             "venue_id":387024805
         }
     ],
     "wof:id":387024805,
-    "wof:lastmodified":1466439091,
+    "wof:lastmodified":1491901268,
     "wof:name":"Mr Armando Pantoja",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

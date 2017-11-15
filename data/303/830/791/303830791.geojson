@@ -2,14 +2,20 @@
   "id": 303830791,
   "type": "Feature",
   "properties": {
+    "addr:full":"2498 W Sunrise Blvd Fort Lauderdale FL 33311",
+    "addr:housenumber":"2498",
+    "addr:postcode":"33311",
+    "addr:street":"W Sunrise Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.175929,26.1364,-80.175929,26.1364",
     "geom:latitude":26.1364,
     "geom:longitude":-80.175929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2498 W Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -25,29 +31,45 @@
     "sg:province":"FL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688651,
+        102191575,
         85633793,
-        85688651
+        85932397,
+        102084727,
+        85877519,
+        85865213
     ],
+    "wof:brand_id":1125152563,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNnY0MXskHBS7gftr9Lct_26.136400_-80.175929@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7631a3e8ef53f5fb141a96c6c9abe7d",
+    "wof:geomhash":"ff564af2b79e61f23cf278ab85d3b27f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85877519,
+            "region_id":85688651,
+            "venue_id":303830791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084727,
+            "locality_id":85932397,
+            "neighbourhood_id":85865213,
             "region_id":85688651,
             "venue_id":303830791
         }
     ],
     "wof:id":303830791,
-    "wof:lastmodified":1466444831,
+    "wof:lastmodified":1510693933,
     "wof:name":"Aldo Shoes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

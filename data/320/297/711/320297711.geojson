@@ -2,9 +2,14 @@
   "id": 320297711,
   "type": "Feature",
   "properties": {
+    "addr:full":"1518 W Flagler St Miami FL 33135",
+    "addr:housenumber":"1518",
+    "addr:postcode":"33135",
+    "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.221084,25.773241,-80.221084,25.773241",
     "geom:latitude":25.773241,
     "geom:longitude":-80.221084,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"d3258851578866d3c136767086c2b57c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320297711,
-    "wof:lastmodified":1466438472,
+    "wof:lastmodified":1491935993,
     "wof:name":"Rapidito Cargo Express",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

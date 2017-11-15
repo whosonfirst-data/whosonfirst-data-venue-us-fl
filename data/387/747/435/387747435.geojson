@@ -2,9 +2,14 @@
   "id": 387747435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 8th St SE Miami FL 33135",
+    "addr:housenumber":"1601",
+    "addr:postcode":"33135",
+    "addr:street":"8Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.222498,25.765604,-80.222498,25.765604",
     "geom:latitude":25.765604,
     "geom:longitude":-80.222498,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8e32cd6884481bb41532442023ec03ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":387747435,
-    "wof:lastmodified":1466448595,
+    "wof:lastmodified":1491935991,
     "wof:name":"Todo A Peso Inc",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",

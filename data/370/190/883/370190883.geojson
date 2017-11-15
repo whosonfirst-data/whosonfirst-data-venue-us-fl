@@ -2,9 +2,14 @@
   "id": 370190883,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 Central Ave St Petersburg FL 33705",
+    "addr:housenumber":"627",
+    "addr:postcode":"33705",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.64243,27.771253,-82.64243,27.771253",
     "geom:latitude":27.771253,
     "geom:longitude":-82.64243,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7e71d39f9d2e410b470548bce3d35ed4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":370190883,
-    "wof:lastmodified":1466437080,
+    "wof:lastmodified":1491933297,
     "wof:name":"Elephant Trunk",
     "wof:parent_id":85889535,
     "wof:placetype":"venue",

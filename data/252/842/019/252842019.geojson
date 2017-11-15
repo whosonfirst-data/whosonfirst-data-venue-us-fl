@@ -2,9 +2,14 @@
   "id": 252842019,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 NW 23rd Ave Fort Lauderdale FL 33311",
+    "addr:housenumber":"1250",
+    "addr:postcode":"33311",
+    "addr:street":"Nw 23Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.171341,26.141547,-80.171341,26.141547",
     "geom:latitude":26.141547,
     "geom:longitude":-80.171341,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -46,7 +52,7 @@
     "wof:geomhash":"2dbe5e181ed4db86273983adc67ac560",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":252842019,
-    "wof:lastmodified":1466430369,
+    "wof:lastmodified":1491897146,
     "wof:name":"Allsteel & Gypsum Products",
     "wof:parent_id":85865213,
     "wof:placetype":"venue",

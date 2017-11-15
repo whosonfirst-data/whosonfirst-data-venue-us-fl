@@ -2,9 +2,14 @@
   "id": 219348795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SW 39th St Fort Lauderdale FL 33315",
+    "addr:housenumber":"1401",
+    "addr:postcode":"33315",
+    "addr:street":"Sw 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.159891,26.074005,-80.159891,26.074005",
     "geom:latitude":26.074005,
     "geom:longitude":-80.159891,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688651,
         85633793,
-        102084727,
-        85877499
+        85877499,
+        102084727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"3e201c7ef4245d2d7964ffae5cfdfeb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084727,
-            "locality_id":-1,
             "neighbourhood_id":85877499,
             "region_id":85688651,
             "venue_id":219348795
         }
     ],
     "wof:id":219348795,
-    "wof:lastmodified":1466429438,
+    "wof:lastmodified":1491924476,
     "wof:name":"Amerijet International",
     "wof:parent_id":85877499,
     "wof:placetype":"venue",

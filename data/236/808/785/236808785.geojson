@@ -2,9 +2,14 @@
   "id": 236808785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 Sandy Point Sq Orlando FL 32807",
+    "addr:housenumber":"1625",
+    "addr:postcode":"32807",
+    "addr:street":"Sandy;Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.300059,28.524038,-81.300059,28.524038",
     "geom:latitude":28.524038,
     "geom:longitude":-81.300059,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"07d2f2219872fdca8c4f018c0e0c6a43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":236808785,
-    "wof:lastmodified":1466439964,
+    "wof:lastmodified":1491901766,
     "wof:name":"Bam Cleaning Services Inc",
     "wof:parent_id":85889363,
     "wof:placetype":"venue",

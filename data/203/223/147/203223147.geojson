@@ -2,9 +2,14 @@
   "id": 203223147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2564 Robert Trent Jones Dr Orlando FL 32835",
+    "addr:housenumber":"2564",
+    "addr:postcode":"32835",
+    "addr:street":"Robert Trent Jones Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.470001,28.515759,-81.470001,28.515759",
     "geom:latitude":28.515759,
     "geom:longitude":-81.470001,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bb36d55fb6d287c93c37a4c552882f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203223147,
-    "wof:lastmodified":1466429187,
+    "wof:lastmodified":1491921597,
     "wof:name":"Pcib Corp",
     "wof:parent_id":85889387,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 387575407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 4th St N St Petersburg FL 33704",
+    "addr:housenumber":"1800",
+    "addr:postcode":"33704",
+    "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.638545,27.789616,-82.638545,27.789616",
     "geom:latitude":27.789616,
     "geom:longitude":-82.638545,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"721e191d6369971272608fee14440285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":387575407,
-    "wof:lastmodified":1466447007,
+    "wof:lastmodified":1491901210,
     "wof:name":"Sterling Cleaners/Value Clnrs",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269792511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2789 Davie Blvd Fort Lauderdale FL 33312",
+    "addr:housenumber":"2789",
+    "addr:postcode":"33312",
+    "addr:street":"Davie Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.178068,26.106348,-80.178068,26.106348",
     "geom:latitude":26.106348,
     "geom:longitude":-80.178068,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85932397,
         102084727,
@@ -48,7 +54,7 @@
     "wof:geomhash":"55fb3ad4209328f1cabc4b88b2cca30b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084727,
             "locality_id":85932397,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":269792511,
-    "wof:lastmodified":1466433987,
+    "wof:lastmodified":1491916223,
     "wof:name":"Superior Meat Co Inc",
     "wof:parent_id":85865215,
     "wof:placetype":"venue",

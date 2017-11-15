@@ -2,14 +2,20 @@
   "id": 270342419,
   "type": "Feature",
   "properties": {
+    "addr:full":"12025 Gandy Blvd N St Petersburg FL 33702",
+    "addr:housenumber":"12025",
+    "addr:postcode":"33702",
+    "addr:street":"Gandy Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.593522,27.876463,-82.593522,27.876463",
     "geom:latitude":27.876463,
     "geom:longitude":-82.593522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12025 Gandy Blvd N",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
         85889557
     ],
+    "wof:brand_id":1125151125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wo4ONWVymL6shBa2o7qLG_27.876463_-82.593522@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6af5580428a469627c14af72879ecf5e",
+    "wof:geomhash":"3622e4766962240a0bb4def74d8404b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":270342419,
-    "wof:lastmodified":1466435327,
+    "wof:lastmodified":1510696831,
     "wof:name":"Racetrac",
     "wof:parent_id":85889557,
     "wof:placetype":"venue",

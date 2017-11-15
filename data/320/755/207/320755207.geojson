@@ -2,9 +2,14 @@
   "id": 320755207,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 SW Monroe Cir N Saint Petersburg FL 33703",
+    "addr:housenumber":"262",
+    "addr:postcode":"33703",
+    "addr:street":"Sw Monroe Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.64242,27.827869,-82.64242,27.827869",
     "geom:latitude":27.827869,
     "geom:longitude":-82.64242,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931833,
         102085759,
@@ -42,7 +48,7 @@
     "wof:geomhash":"add5360f8607f0b6ea92c208ddcc0de0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085759,
             "locality_id":85931833,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320755207,
-    "wof:lastmodified":1466446534,
+    "wof:lastmodified":1491913778,
     "wof:name":"M G Enterprises",
     "wof:parent_id":85880525,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253378861,
   "type": "Feature",
   "properties": {
+    "addr:full":"9601 Boggy Creek Rd Orlando FL 32824",
+    "addr:housenumber":"9601",
+    "addr:postcode":"32824",
+    "addr:street":"Boggy Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.351054,28.426091,-81.351054,28.426091",
     "geom:latitude":28.426091,
     "geom:longitude":-81.351054,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933091,
         102085847,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ab6c959f3de2250e3a66a7c2fed6be75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085847,
             "locality_id":85933091,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":253378861,
-    "wof:lastmodified":1466433496,
+    "wof:lastmodified":1491914283,
     "wof:name":"Case/Power & Equiptment",
     "wof:parent_id":85879523,
     "wof:placetype":"venue",

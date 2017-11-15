@@ -2,9 +2,14 @@
   "id": 253311025,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 S Plant Ave Tampa FL 33606",
+    "addr:housenumber":"337",
+    "addr:postcode":"33606",
+    "addr:street":"S Plant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.462814,27.940374,-82.462814,27.940374",
     "geom:latitude":27.940374,
     "geom:longitude":-82.462814,
@@ -30,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85931789,
-        102085773
+        102085773,
+        85889661,
+        85889659,
+        85889721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,37 @@
     "wof:geomhash":"85650e2993f843ed37e8b599b8435e80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085773,
             "locality_id":85931789,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85889661,
+            "region_id":85688651,
+            "venue_id":253311025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85889659,
+            "region_id":85688651,
+            "venue_id":253311025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":85889721,
             "region_id":85688651,
             "venue_id":253311025
         }
     ],
     "wof:id":253311025,
-    "wof:lastmodified":1466432387,
+    "wof:lastmodified":1491927144,
     "wof:name":"First Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],

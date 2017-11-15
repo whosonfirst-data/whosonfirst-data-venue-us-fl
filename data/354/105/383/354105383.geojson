@@ -2,9 +2,14 @@
   "id": 354105383,
   "type": "Feature",
   "properties": {
+    "addr:full":"2060 NE 2nd Ave Miami FL 33137",
+    "addr:housenumber":"2060",
+    "addr:postcode":"33137",
+    "addr:street":"Ne 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.190884,25.795977,-80.190884,25.795977",
     "geom:latitude":25.795977,
     "geom:longitude":-80.190884,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -43,7 +49,7 @@
     "wof:geomhash":"777c9a91284517e01f3d8eb864c42066",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354105383,
-    "wof:lastmodified":1466437711,
+    "wof:lastmodified":1491921180,
     "wof:name":"Braman Cadillac",
     "wof:parent_id":85889177,
     "wof:placetype":"venue",

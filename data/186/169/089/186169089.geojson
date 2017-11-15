@@ -2,9 +2,14 @@
   "id": 186169089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1467 SW 17th Ter Miami FL 33145",
+    "addr:housenumber":"1467",
+    "addr:postcode":"33145",
+    "addr:street":"Sw 17Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.219576,25.756574,-80.219576,25.756574",
     "geom:latitude":25.756574,
     "geom:longitude":-80.219576,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688651,
+        102191575,
         85633793,
         85933669,
         102085771,
@@ -44,7 +50,7 @@
     "wof:geomhash":"29d8a390b038f3b9921cf6517b3094a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085771,
             "locality_id":85933669,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":186169089,
-    "wof:lastmodified":1466428750,
+    "wof:lastmodified":1491887610,
     "wof:name":"Apu Inc",
     "wof:parent_id":85812267,
     "wof:placetype":"venue",
