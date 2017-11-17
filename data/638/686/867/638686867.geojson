@@ -7,13 +7,16 @@
     "addr:postcode":"33904",
     "addr:street":"Del Prado Blvd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.941763,26.588429,-81.941763,26.588429",
     "geom:latitude":26.588429,
     "geom:longitude":-81.941763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3501 del Prado Blvd S",
     "sg:city":"Cape Coral",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461277030,
-    "wof:geomhash":"a4f92cb8171ac61e855ab12950a099e3",
+    "wof:geomhash":"3c66070772a3ec1cef714940eaf07f0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":638686867,
-    "wof:lastmodified":1472616747,
+    "wof:lastmodified":1510943756,
     "wof:name":"PCFS Inc",
     "wof:parent_id":85888819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656292401
+    ],
+    "wof:supersedes":[
+        638636591
+    ],
     "wof:tags":[
         "advisory",
         "financial"

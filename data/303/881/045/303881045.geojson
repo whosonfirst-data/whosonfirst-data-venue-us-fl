@@ -7,13 +7,16 @@
     "addr:postcode":"33174",
     "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.337269,25.769579,-80.337269,25.769579",
     "geom:latitude":25.769579,
     "geom:longitude":-80.337269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8700 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_6ctGSPg6jdbmMV1hPm8tG3_25.769579_-80.337269@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f86886d1855f242608c53104276d3662",
+    "wof:geomhash":"80595dde62bd4bbfaa562352010b29aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,13 +68,17 @@
         }
     ],
     "wof:id":303881045,
-    "wof:lastmodified":1472615882,
+    "wof:lastmodified":1510942799,
     "wof:name":"HNTB Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656226689
+    ],
+    "wof:supersedes":[
+        638619141
+    ],
     "wof:tags":[]
 },
   "bbox": [

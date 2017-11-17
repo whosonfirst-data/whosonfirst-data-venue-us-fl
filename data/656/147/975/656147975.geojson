@@ -7,13 +7,16 @@
     "addr:postcode":"33132",
     "addr:street":"Macarthur Cswy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.173042,25.783051,-80.173042,25.783051",
     "geom:latitude":25.783051,
     "geom:longitude":-80.173042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1099 Macarthur Cswy",
     "sg:city":"Miami",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628234,
-    "wof:geomhash":"595caf9c0014c6b0fd0a3c1a33da6833",
+    "wof:geomhash":"7a6e0299139fef2ec6b7170e87963b74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":656147975,
-    "wof:lastmodified":1472617079,
+    "wof:lastmodified":1510943136,
     "wof:name":"Miami Outboard Club",
     "wof:parent_id":85868429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656147767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

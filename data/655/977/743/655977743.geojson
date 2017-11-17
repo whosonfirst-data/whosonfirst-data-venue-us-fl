@@ -7,13 +7,16 @@
     "addr:postcode":"32301",
     "addr:street":"Apalachee Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.247892,30.43088,-84.247892,30.43088",
     "geom:latitude":30.43088,
     "geom:longitude":-84.247892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1901 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461620338,
-    "wof:geomhash":"ab8c3a447f61633e42dae9551311bf2c",
+    "wof:geomhash":"f6e1bc5fc1bef7084ff13535f85176b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":655977743,
-    "wof:lastmodified":1472616744,
+    "wof:lastmodified":1510942650,
     "wof:name":"Wendy's",
     "wof:parent_id":85881345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        639230483
+    ],
+    "wof:supersedes":[
+        656016523,
+        202834011
+    ],
     "wof:tags":[
         "burger",
         "american",

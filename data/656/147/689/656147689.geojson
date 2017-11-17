@@ -7,6 +7,7 @@
     "addr:postcode":"33132",
     "addr:street":"Biscayne Blvd Ste 337",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.189232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1500 Biscayne Blvd Ste 337",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -64,13 +65,17 @@
         }
     ],
     "wof:id":656147689,
-    "wof:lastmodified":1510877270,
+    "wof:lastmodified":1510943066,
     "wof:name":"Miami-Dade County Public Schools",
     "wof:parent_id":85889181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656148543
+    ],
+    "wof:supersedes":[
+        655960497
+    ],
     "wof:tags":[
         "high",
         "middle",

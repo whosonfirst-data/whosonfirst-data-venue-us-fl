@@ -7,13 +7,16 @@
     "addr:postcode":"33122",
     "addr:street":"Nw 25Th St Ste 114",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.318481,25.79701,-80.318481,25.79701",
     "geom:latitude":25.79701,
     "geom:longitude":-80.318481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7500 NW 25th St Ste 114",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461627152,
-    "wof:geomhash":"165b4179ee81ed62c95b6ba88edb663c",
+    "wof:geomhash":"b559e75f0ea49e815714604afcf5cda6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":656123357,
-    "wof:lastmodified":1472616907,
+    "wof:lastmodified":1510943054,
     "wof:name":"K.L. Mccaul Construction, Inc.",
     "wof:parent_id":85896183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656122595
+    ],
+    "wof:supersedes":[
+        286405187
+    ],
     "wof:tags":[
         "managing",
         "butlers'",

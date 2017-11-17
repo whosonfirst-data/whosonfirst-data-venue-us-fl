@@ -7,13 +7,16 @@
     "addr:postcode":"32301",
     "addr:street":"Apalachee Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.251132,30.432944,-84.251132,30.432944",
     "geom:latitude":30.432944,
     "geom:longitude":-84.251132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461276093,
-    "wof:geomhash":"121ae02b450b5ed20f08f7ddd077cf9e",
+    "wof:geomhash":"b35f94b6e84a75e5af6b5b7ba3e0aaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":638658919,
-    "wof:lastmodified":1472616708,
+    "wof:lastmodified":1510943958,
     "wof:name":"Wendys",
     "wof:parent_id":85881345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        655977729
+    ],
+    "wof:supersedes":[
+        320295013
+    ],
     "wof:tags":[
         "eating"
     ]

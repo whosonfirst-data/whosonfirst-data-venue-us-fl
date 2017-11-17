@@ -7,13 +7,16 @@
     "addr:postcode":"33010",
     "addr:street":"Hialeah Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.270378,25.823075,-80.270378,25.823075",
     "geom:latitude":25.823075,
     "geom:longitude":-80.270378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"555 Hialeah Dr",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_0FTRZSyebS6TzJ4b8nUUaz_25.823075_-80.270378@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a409bb0a7cd8c47432eb2e61e4c7ed1",
+    "wof:geomhash":"129c3984307ad41070749213d18c21fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":354056375,
-    "wof:lastmodified":1472614399,
+    "wof:lastmodified":1510943363,
     "wof:name":"Wendys",
     "wof:parent_id":85878145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656100745
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

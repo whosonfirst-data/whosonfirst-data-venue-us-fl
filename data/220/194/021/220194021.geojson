@@ -7,13 +7,16 @@
     "addr:postcode":"32966",
     "addr:street":"20Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.4508,27.63892,-80.4508,27.63892",
     "geom:latitude":27.63892,
     "geom:longitude":-80.4508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6110 20th St",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     "wof:brand_id":420575287,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":464727013,
         "sg:id":"SG_42Tmgfbm7Ohu5ndKjBBwFV_27.638920_-80.450800@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3778cce099252cb14cf41bedd8ca0bfa",
+    "wof:geomhash":"538af5e1864a2cb462521099f847a9e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +61,17 @@
         }
     ],
     "wof:id":220194021,
-    "wof:lastmodified":1472614544,
+    "wof:lastmodified":1510944072,
     "wof:name":"Lowes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320811691
+    ],
+    "wof:supersedes":[
+        320811691
+    ],
     "wof:tags":[
         "household",
         "appliance"

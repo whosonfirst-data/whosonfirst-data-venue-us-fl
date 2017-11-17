@@ -7,13 +7,16 @@
     "addr:postcode":"32309",
     "addr:street":"Kerry Forest Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.225957,30.541327,-84.225957,30.541327",
     "geom:latitude":30.541327,
     "geom:longitude":-84.225957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2910 Kerry Forest Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461290788,
-    "wof:geomhash":"4d8d44cc1698e9c6577476c135af5002",
+    "wof:geomhash":"e9ec36cb5a39b7a078fd0b7bad734c49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,18 @@
         }
     ],
     "wof:id":639247993,
-    "wof:lastmodified":1472617214,
+    "wof:lastmodified":1510944122,
     "wof:name":"Beef OBradys",
     "wof:parent_id":420515147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        639435313
+    ],
+    "wof:supersedes":[
+        656019373,
+        655978117
+    ],
     "wof:tags":[
         "eating"
     ]

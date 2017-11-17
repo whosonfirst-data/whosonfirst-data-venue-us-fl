@@ -7,13 +7,16 @@
     "addr:postcode":"33034",
     "addr:street":"Se 1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.477006,25.467346,-80.477006,25.467346",
     "geom:latitude":25.467346,
     "geom:longitude":-80.477006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 SE 1st Ave",
     "sg:city":"Florida City",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4vyp2XcnFqGBQRW0wDQq17_25.467346_-80.477006@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cfa50f1a32fe4b34c0eeff7648cd698",
+    "wof:geomhash":"1c04aa871efaf7e4cb0d3e8eb45003bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":303409739,
-    "wof:lastmodified":1472615267,
+    "wof:lastmodified":1510941279,
     "wof:name":"Denny's",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303854681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33180",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.142511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"21215 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,6 +41,7 @@
     "wof:brand_id":1125153339,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":435586523,
         "sg:id":"SG_1DjTqYWHTN9XsKlYF3xoTi_25.972301_-80.142511@1299784598"
     },
     "wof:country":"US",
@@ -47,13 +49,17 @@
     "wof:geomhash":"7da955634183b560e514e13b55ae25f0",
     "wof:hierarchy":[],
     "wof:id":655987091,
-    "wof:lastmodified":1510699017,
+    "wof:lastmodified":1510942592,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656239947
+    ],
+    "wof:supersedes":[
+        656239947
+    ],
     "wof:tags":[
         "american",
         "pastry",

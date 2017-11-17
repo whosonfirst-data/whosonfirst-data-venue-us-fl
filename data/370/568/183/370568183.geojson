@@ -7,6 +7,7 @@
     "addr:postcode":"32801",
     "addr:street":"E Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-81.375874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 E Pine St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4VzGYJilqxNAJcUccxykUN_28.541338_-81.375874@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f01e0ad894c68c161659b1d719f4b59b",
+    "wof:geomhash":"08e25a814cfe69d70a3d7cb735dc69d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":370568183,
-    "wof:lastmodified":1491925034,
+    "wof:lastmodified":1510943820,
     "wof:name":"DLR Group Inc",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656070691
+    ],
+    "wof:supersedes":[
+        286729023
+    ],
     "wof:tags":[]
 },
   "bbox": [

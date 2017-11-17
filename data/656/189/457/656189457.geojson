@@ -15,7 +15,7 @@
     "geom:longitude":-80.163108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"260 Crandon Blvd., Ste. #1",
     "sg:city":"Key Biscayne",
     "sg:classifiers":[
@@ -40,6 +40,7 @@
     "wof:brand_id":420573893,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3234370851,
         "sg:id":"SG_0JUnvbsoMyNA5L3KNhD9Oo_25.695832_-80.163108@1303262694"
     },
     "wof:country":"US",
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":656189457,
-    "wof:lastmodified":1510603198,
+    "wof:lastmodified":1510941565,
     "wof:name":"Bank of America",
     "wof:parent_id":85888959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        639102727
+    ],
     "wof:tags":[]
 },
   "bbox": [

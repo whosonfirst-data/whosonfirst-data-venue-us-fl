@@ -7,6 +7,7 @@
     "addr:postcode":"33602",
     "addr:street":"N Tampa St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.459613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"520 N Tampa St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -72,12 +73,14 @@
         }
     ],
     "wof:id":655991431,
-    "wof:lastmodified":1510875599,
+    "wof:lastmodified":1510943895,
     "wof:name":"First Watch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656267637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

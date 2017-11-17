@@ -7,13 +7,16 @@
     "addr:postcode":"33014",
     "addr:street":"Nw 59Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.297121,25.919645,-80.297121,25.919645",
     "geom:latitude":25.919645,
     "geom:longitude":-80.297121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16250 NW 59th Ave",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461626431,
-    "wof:geomhash":"b114d4e0414f3c03503a921e26b0b9bb",
+    "wof:geomhash":"53c5e4429d5d009f260c5c5ac14aabc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":656108277,
-    "wof:lastmodified":1472616819,
+    "wof:lastmodified":1510943856,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656108461
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

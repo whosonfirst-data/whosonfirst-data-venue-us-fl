@@ -7,13 +7,16 @@
     "addr:postcode":"33901",
     "addr:street":"Hendry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.869248,26.643622,-81.869248,26.643622",
     "geom:latitude":26.643622,
     "geom:longitude":-81.869248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1415 Hendry St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -37,10 +40,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3788488580,
         "sg:id":"SG_4ZrcqVrU08h8P8oMLKVrEC_26.643622_-81.869248@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"75f199b41ec463f1ad3a1df499197d57",
+    "wof:geomhash":"903259c1a268b07a078b62e018f8ea69",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +57,17 @@
         }
     ],
     "wof:id":286361113,
-    "wof:lastmodified":1472614591,
+    "wof:lastmodified":1510942903,
     "wof:name":"Wilbur Smith Law Firm",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656290495
+    ],
+    "wof:supersedes":[
+        656290495
+    ],
     "wof:tags":[]
 },
   "bbox": [

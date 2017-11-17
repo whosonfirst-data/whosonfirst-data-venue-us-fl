@@ -7,13 +7,16 @@
     "addr:postcode":"32301",
     "addr:street":"Apalachee Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.248037,30.431661,-84.248037,30.431661",
     "geom:latitude":30.431661,
     "geom:longitude":-84.248037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1901 Apalachee Pkwy",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461622144,
-    "wof:geomhash":"c309ffe27d7979e671e385e636994953",
+    "wof:geomhash":"139e1bad35560216a2dfedb3fd959f58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +70,18 @@
         }
     ],
     "wof:id":656016523,
-    "wof:lastmodified":1472616344,
+    "wof:lastmodified":1510944150,
     "wof:name":"Wendy's",
     "wof:parent_id":420515157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        655977743,
+        639230483
+    ],
+    "wof:supersedes":[
+        202834011
+    ],
     "wof:tags":[
         "american",
         "hot",

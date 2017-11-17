@@ -7,13 +7,16 @@
     "addr:postcode":"33132",
     "addr:street":"Ne 1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.192038,25.775053,-80.192038,25.775053",
     "geom:latitude":25.775053,
     "geom:longitude":-80.192038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14 NE 1st Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461291207,
-    "wof:geomhash":"6fef59d60f16c05d057c033087718a57",
+    "wof:geomhash":"4f7187c5b98ea7af9aa73d1654b1a781",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":639266673,
-    "wof:lastmodified":1472617297,
+    "wof:lastmodified":1510943800,
     "wof:name":"Borox Corp",
     "wof:parent_id":85896175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656147895
+    ],
+    "wof:supersedes":[
+        269619801
+    ],
     "wof:tags":[
         "jeweler"
     ]

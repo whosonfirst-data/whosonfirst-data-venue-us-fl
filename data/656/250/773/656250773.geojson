@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.189428,25.801468,-80.189428,25.801468",
     "geom:latitude":25.801468,
     "geom:longitude":-80.189428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2590 Biscayne Boulevard",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461633029,
-    "wof:geomhash":"e17984862902d120ee648a484cce7480",
+    "wof:geomhash":"cbc3443bf68b1723348db8d8e6520a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":656250773,
-    "wof:lastmodified":1472617464,
+    "wof:lastmodified":1510943239,
     "wof:name":"Mario the Baker",
     "wof:parent_id":85869211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        656165233
+    ],
     "wof:tags":[
         "pizza"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"33324",
     "addr:street":"N Nob Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.287461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"819 N Nob Hill Rd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":655988253,
-    "wof:lastmodified":1510601934,
+    "wof:lastmodified":1510942884,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":420511589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656254961
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "smoothy",

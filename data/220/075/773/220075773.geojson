@@ -7,13 +7,16 @@
     "addr:postcode":"34292",
     "addr:street":"Commercial Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.385303,27.106164,-82.385303,27.106164",
     "geom:latitude":27.106164,
     "geom:longitude":-82.385303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"325 Commercial Ct",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_7fFwXPPF1jw326fDNAb7vd_27.106164_-82.385303@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a25db40a566e104cd954c34f1818bbb",
+    "wof:geomhash":"e589785755f53c8db4b0fa0a2b6b910f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":220075773,
-    "wof:lastmodified":1472614346,
+    "wof:lastmodified":1510942349,
     "wof:name":"McDonalds",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655996659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

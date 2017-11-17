@@ -7,6 +7,7 @@
     "addr:postcode":"33323",
     "addr:street":"W Sunrise Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.322763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"12801 W Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -63,13 +64,17 @@
         }
     ],
     "wof:id":655988199,
-    "wof:lastmodified":1510875274,
+    "wof:lastmodified":1510941251,
     "wof:name":"Auntie Anne's Pretzels",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        655988201
+    ],
+    "wof:supersedes":[
+        286736687
+    ],
     "wof:tags":[
         "american",
         "pastry"

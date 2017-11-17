@@ -7,13 +7,16 @@
     "addr:postcode":"33166",
     "addr:street":"Nw 36Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.314709,25.80928,-80.314709,25.80928",
     "geom:latitude":25.80928,
     "geom:longitude":-80.314709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7220 NW 36th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461631014,
-    "wof:geomhash":"252d346f1c60511822ba9cef30d1fe8a",
+    "wof:geomhash":"f63f6167b468c18c899b06901c33cb51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -71,13 +74,17 @@
         }
     ],
     "wof:id":656211031,
-    "wof:lastmodified":1472617298,
+    "wof:lastmodified":1510943042,
     "wof:name":"Helsynth Pharmaceutical Inc",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656212087
+    ],
+    "wof:supersedes":[
+        638791093
+    ],
     "wof:tags":[
         "pharmaceutical",
         "product",

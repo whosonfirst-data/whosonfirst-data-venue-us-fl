@@ -7,13 +7,16 @@
     "addr:postcode":"33161",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.17041,25.87483,-80.17041,25.87483",
     "geom:latitude":25.87483,
     "geom:longitude":-80.17041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10800 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461630721,
-    "wof:geomhash":"5c0c6a5d26cc2269ddd7edf68ad1d8e1",
+    "wof:geomhash":"a024f86a02ea7bf7f3b854418e858ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":656206061,
-    "wof:lastmodified":1472617247,
+    "wof:lastmodified":1510941522,
     "wof:name":"W LQY Radio Station",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656205495
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"

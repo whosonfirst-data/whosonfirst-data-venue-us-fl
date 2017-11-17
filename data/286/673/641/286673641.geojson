@@ -7,13 +7,16 @@
     "addr:postcode":"33025",
     "addr:street":"S University Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.247005,25.976354,-80.247005,25.976354",
     "geom:latitude":25.976354,
     "geom:longitude":-80.247005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3306 S University Dr",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4r1ShF3dLG52rEwF1qbFwq_25.976354_-80.247005@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e0343ff810471897357604d26f181cb",
+    "wof:geomhash":"4a67a8d830c86d3e6d31d93b2be92913",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":286673641,
-    "wof:lastmodified":1472615388,
+    "wof:lastmodified":1510941613,
     "wof:name":"McDonalds",
     "wof:parent_id":85829153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655985029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

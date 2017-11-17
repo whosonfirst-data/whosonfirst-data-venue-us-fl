@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"S Douglas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.254511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2600 S Douglas Rd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":286952315,
-    "wof:lastmodified":1510603199,
+    "wof:lastmodified":1510942810,
     "wof:name":"Bank of America",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656157959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "national"

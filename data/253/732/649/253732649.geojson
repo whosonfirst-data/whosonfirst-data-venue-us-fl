@@ -7,6 +7,7 @@
     "addr:postcode":"33607",
     "addr:street":"N West Shore Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-82.523954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2223 N West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_57gkvXkR8cWkzhWXJBxJCM_27.962712_-82.523954@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ae960b8d09f3f8fdc854c19c202c83b",
+    "wof:geomhash":"bfc1b7623567b6fe3ba1ef2e74d133a4",
     "wof:hierarchy":[
         {
             "campus_id":102533243,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":253732649,
-    "wof:lastmodified":1491934091,
+    "wof:lastmodified":1510942395,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":102533243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655991665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

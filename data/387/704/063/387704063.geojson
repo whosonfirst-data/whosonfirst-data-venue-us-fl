@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.190953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"801 Brickell Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":387704063,
-    "wof:lastmodified":1510695719,
+    "wof:lastmodified":1510942606,
     "wof:name":"HQ Global Workplaces",
     "wof:parent_id":85896169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656142601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "suite",

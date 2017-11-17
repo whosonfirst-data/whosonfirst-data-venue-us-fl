@@ -7,13 +7,16 @@
     "addr:postcode":"33172",
     "addr:street":"Nw 12Th St Ste 117",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.37977,25.782897,-80.37977,25.782897",
     "geom:latitude":25.782897,
     "geom:longitude":-80.37977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11401 NW 12th St Ste 117",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461631621,
-    "wof:geomhash":"d206227adc7a835c899d022f68ba9bce",
+    "wof:geomhash":"2df70f04ed9b897986535110716cbea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":656222921,
-    "wof:lastmodified":1472617398,
+    "wof:lastmodified":1510944109,
     "wof:name":"Sprint",
     "wof:parent_id":85851691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656220421
+    ],
+    "wof:supersedes":[
+        656222443
+    ],
     "wof:tags":[]
 },
   "bbox": [

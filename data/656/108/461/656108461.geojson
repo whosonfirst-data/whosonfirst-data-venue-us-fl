@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.297319,25.920775,-80.297319,25.920775",
     "geom:latitude":25.920775,
     "geom:longitude":-80.297319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16250 NW 59th Ave Ste 208",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461626439,
-    "wof:geomhash":"c22c7c94a0823aee74ca546864d68f8e",
+    "wof:geomhash":"76df4dd847ebc6e2d18cdc05ba685366",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":656108461,
-    "wof:lastmodified":1472616843,
+    "wof:lastmodified":1510943856,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        656108277
+    ],
     "wof:tags":[
         "car"
     ]

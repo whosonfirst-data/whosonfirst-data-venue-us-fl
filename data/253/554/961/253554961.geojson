@@ -7,13 +7,16 @@
     "addr:postcode":"32504",
     "addr:street":"Airport Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.214378,30.480856,-87.214378,30.480856",
     "geom:latitude":30.480856,
     "geom:longitude":-87.214378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Airport Blvd",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6vgjKGW0CaDQD2LoC4qe3I_30.480856_-87.214378@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b244dfef9db53a141efe83ab953f92e",
+    "wof:geomhash":"f70e5800c7d27fbb94302f1515a359df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":253554961,
-    "wof:lastmodified":1472615621,
+    "wof:lastmodified":1510943817,
     "wof:name":"Lowe's",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219865839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"

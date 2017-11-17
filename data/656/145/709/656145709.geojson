@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.189078,25.766924,-80.189078,25.766924",
     "geom:latitude":25.766924,
     "geom:longitude":-80.189078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Brickell Ave Ste 3300",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628143,
-    "wof:geomhash":"089e4ef6171ae17fddd2241892ed7e6d",
+    "wof:geomhash":"c7c54a11552e16d0a96eff122a60dbfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,16 @@
         }
     ],
     "wof:id":656145709,
-    "wof:lastmodified":1472617045,
+    "wof:lastmodified":1510942784,
     "wof:name":"Bank of America",
     "wof:parent_id":85896151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        656140811,
+        236921131
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

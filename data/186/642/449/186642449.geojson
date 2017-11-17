@@ -7,13 +7,16 @@
     "addr:postcode":"34711",
     "addr:street":"E Highland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.755567,28.551616,-81.755567,28.551616",
     "geom:latitude":28.551616,
     "geom:longitude":-81.755567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 E Highland Ave",
     "sg:city":"Clermont",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_04bK1DE86e4IivK97wTU3g_28.551616_-81.755567@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b2d208bdb353bd04b5b9cfd7f0bea4b",
+    "wof:geomhash":"200df7f801227484fe330c08243d3dfe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":186642449,
-    "wof:lastmodified":1472615226,
+    "wof:lastmodified":1510942752,
     "wof:name":"Clermont Cardiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656325849
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

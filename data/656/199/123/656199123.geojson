@@ -7,13 +7,16 @@
     "addr:postcode":"33156",
     "addr:street":"S Dadeland Blvd # 1708",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.314808,25.685493,-80.314808,25.685493",
     "geom:latitude":25.685493,
     "geom:longitude":-80.314808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9155 S Dadeland Blvd # 1708",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461630431,
-    "wof:geomhash":"e353a50d46e6ce2702e6233cc4ee1810",
+    "wof:geomhash":"fe7cc1f49749ca6299d913bd7f86a415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +71,17 @@
         }
     ],
     "wof:id":656199123,
-    "wof:lastmodified":1472617167,
+    "wof:lastmodified":1510943728,
     "wof:name":"Baker Plastic Surgery",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656198205
+    ],
+    "wof:supersedes":[
+        353932739
+    ],
     "wof:tags":[
         "physician",
         "family",

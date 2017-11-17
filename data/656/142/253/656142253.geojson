@@ -7,13 +7,16 @@
     "addr:postcode":"33131",
     "addr:street":"South;Second Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.190117,25.770776,-80.190117,25.770776",
     "geom:latitude":25.770776,
     "geom:longitude":-80.190117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 South East Second Avenue",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461627981,
-    "wof:geomhash":"93a66cdc70e14f6e2fa5094e2c307b4e",
+    "wof:geomhash":"e55b6612dd85b4463c8d999887610cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":656142253,
-    "wof:lastmodified":1472617006,
+    "wof:lastmodified":1510942376,
     "wof:name":"Hyatt Regency Miami",
     "wof:parent_id":85896179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656139363
+    ],
+    "wof:supersedes":[
+        656139363
+    ],
     "wof:tags":[]
 },
   "bbox": [

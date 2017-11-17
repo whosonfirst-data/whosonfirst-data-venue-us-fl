@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.254562,28.597916,-81.254562,28.597916",
     "geom:latitude":28.597916,
     "geom:longitude":-81.254562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9357 University Blvd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461625219,
-    "wof:geomhash":"6a611940a0957c6e6647130e396db84f",
+    "wof:geomhash":"331570a7d7c8be67141d472c9a58e793",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":656081935,
-    "wof:lastmodified":1472616756,
+    "wof:lastmodified":1510943179,
     "wof:name":"University Animal Hospital PA",
     "wof:parent_id":85889301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        656081763
+    ],
     "wof:tags":[
         "veterinarian",
         "boarding/pet",

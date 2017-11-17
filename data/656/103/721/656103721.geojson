@@ -7,6 +7,7 @@
     "addr:postcode":"33012",
     "addr:street":"W 49Th St Ste 1504",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.317626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1695 W 49th St Ste 1504",
     "sg:city":"Hialeah",
     "sg:classifiers":[],
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":656103721,
-    "wof:lastmodified":1510602827,
+    "wof:lastmodified":1510941583,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656102737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

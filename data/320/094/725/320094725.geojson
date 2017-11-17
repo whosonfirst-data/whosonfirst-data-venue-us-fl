@@ -7,13 +7,16 @@
     "addr:postcode":"33432",
     "addr:street":"S Ocean Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.070452,26.348978,-80.070452,26.348978",
     "geom:latitude":26.348978,
     "geom:longitude":-80.070452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 S Ocean Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4AavS3ZOHCzN1ScozrQXIx_26.348978_-80.070452@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"255964c99b0a079edee4645f062a53fc",
+    "wof:geomhash":"f4d3c000c2fd548bea8d958a260b72e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":320094725,
-    "wof:lastmodified":1472614611,
+    "wof:lastmodified":1510943478,
     "wof:name":"VFIS Of Florida",
     "wof:parent_id":85830923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655897339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,7 +15,7 @@
     "geom:longitude":-84.246628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"1820 Raymond Diehl Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -46,6 +46,7 @@
     "wof:brand_id":420575933,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":153958877,
         "sg:id":"SG_6qycdcZKsNZ84FRlQtXbQS_30.500868_-84.246628@1299784598"
     },
     "wof:country":"US",
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":655978097,
-    "wof:lastmodified":1510602426,
+    "wof:lastmodified":1510943120,
     "wof:name":"Outback Steakhouse",
     "wof:parent_id":85881333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        656018871
+    ],
     "wof:tags":[
         "american",
         "steakhouse"
