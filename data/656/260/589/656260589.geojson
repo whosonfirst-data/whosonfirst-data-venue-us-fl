@@ -2,18 +2,24 @@
   "id": 656260589,
   "type": "Feature",
   "properties": {
-    "addr:full":"2003 Lion Country Safari Rd Loxahatchee FL 33470",
+    "addr:city":"Loxahatchee",
+    "addr:full":"2003 Lion Country Safari Road Loxahatchee, Fl 33470-3977",
+    "addr:house_number":"2003",
     "addr:housenumber":"2003",
-    "addr:postcode":"33470",
+    "addr:phone":"+1 561-793-1084",
+    "addr:postcode":"33470-3977",
+    "addr:road":"Lion Country Safari Road",
+    "addr:state":"FL",
     "addr:street":"Lion Country Safari Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.322319,26.708425,-80.322319,26.708425",
-    "geom:latitude":26.708425,
-    "geom:longitude":-80.322319,
+    "geom:bbox":"-80.32244,26.70803,-80.32244,26.70803",
+    "geom:latitude":26.70803,
+    "geom:longitude":-80.32244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2003 Lion Country Safari Rd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "american"
     ],
     "sg:website":"http://www.lioncountrysafari.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533567
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500105,
         "sg:id":"SG_2pHNhYgEEyaW8AB5udSLSj_26.708425_-80.322319@1303262713"
     },
     "wof:country":"US",
     "wof:created":1461633589,
-    "wof:geomhash":"be747980eea0cddffb65a011b1fb1a36",
+    "wof:geomhash":"36f8d9e04d677eb4916d4463146f82e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":656260589,
-    "wof:lastmodified":1472617455,
+    "wof:lastmodified":1533949353,
     "wof:name":"Lion Country Safari",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -80.322319,
-    26.708425,
-    -80.322319,
-    26.708425
+    -80.32244,
+    26.70803,
+    -80.32244,
+    26.70803
 ],
-  "geometry": {"coordinates":[-80.32231899999999,26.708425],"type":"Point"}
+  "geometry": {"coordinates":[-80.32244,26.70803],"type":"Point"}
 }

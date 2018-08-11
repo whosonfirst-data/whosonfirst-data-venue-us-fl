@@ -7,6 +7,7 @@
     "addr:postcode":"32601",
     "addr:street":"Nw 6Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330871,29.657517,-82.330871,29.657517",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.330871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1107 NW 6th St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0Ekp9IRDNrejW2fseGBGtr_29.657517_-82.330871@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"59837109350d0dcaae943124a0efd932",
+    "wof:geomhash":"0c700a2ae6ca5ee6756b782e56d8d811",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":202629741,
-    "wof:lastmodified":1472614953,
+    "wof:lastmodified":1533949252,
     "wof:name":"Gator Alarm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656033911
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical",

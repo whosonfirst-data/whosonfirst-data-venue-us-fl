@@ -7,6 +7,7 @@
     "addr:postcode":"33431",
     "addr:street":"Glades Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174974,26.367969,-80.174974,26.367969",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.174974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8221 Glades Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5z45gOYCdA7GYEwmXJcNFC_26.367969_-80.174974@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"09af81abc36a9ec70d8b99b3d4b2de97",
+    "wof:geomhash":"e93ec3f44720520e057475427f7b35cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":203228317,
-    "wof:lastmodified":1472614783,
+    "wof:lastmodified":1533949246,
     "wof:name":"Yezekyan Fine Jewelers Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655899989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"

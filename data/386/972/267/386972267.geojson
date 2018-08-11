@@ -7,6 +7,7 @@
     "addr:postcode":"32789",
     "addr:street":"Lee Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.373563,28.605846,-81.373563,28.605846",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.373563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1850 Lee Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_14PT3sRmTZk44D95orm2dQ_28.605846_-81.373563@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f3b993d7f8c213a0d9f23236f6723a5",
+    "wof:geomhash":"a64fd2a918a124fcec29c93954220b40",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":386972267,
-    "wof:lastmodified":1472615878,
+    "wof:lastmodified":1533949258,
     "wof:name":"Anxiety & Stress Control Ctr",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656064789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"

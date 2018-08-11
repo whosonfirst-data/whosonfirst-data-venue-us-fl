@@ -7,6 +7,7 @@
     "addr:postcode":"33607",
     "addr:street":"W Cypress St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517064,27.952135,-82.517064,27.952135",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.517064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4350 W Cypress St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5br82V3JlPw7oMjANJny0S_27.952135_-82.517064@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"163a64cf6f163f9c44dfa7005abaf28d",
+    "wof:geomhash":"c43fdcbd3354999433f4e9eec8ca079b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":386966027,
-    "wof:lastmodified":1472615908,
+    "wof:lastmodified":1533949274,
     "wof:name":"Salt Payroll Consultants",
     "wof:parent_id":85889693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639352133
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"

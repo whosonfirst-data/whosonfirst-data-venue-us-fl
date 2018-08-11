@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"S Douglas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.255077,25.763001,-80.255077,25.763001",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.255077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 S Douglas Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7JUfTjYHmO11T4cPYV632k_25.763001_-80.255077@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2972dfe21bc6b2c6e5369c146fc94fcc",
+    "wof:geomhash":"f44e52e0645df858cbc8ae8594e3986d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":235956323,
-    "wof:lastmodified":1472614215,
+    "wof:lastmodified":1533949331,
     "wof:name":"Singer & Xenos  Inc",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656157035
+    ],
+    "wof:supersedes":[
+        320766605
+    ],
     "wof:tags":[
         "advisory"
     ]

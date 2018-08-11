@@ -7,6 +7,7 @@
     "addr:postcode":"33432",
     "addr:street":"Nw 13Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090004,26.362042,-80.090004,26.362042",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.090004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"123 NW 13th St",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4AdqOOUnHDytB0W7wbv6PJ_26.362042_-80.090004@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"86b5fba539de93db4633f2f7a2bb04b4",
+    "wof:geomhash":"68d02204dbe9ff337e23903a8f925707",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":286749523,
-    "wof:lastmodified":1472615457,
+    "wof:lastmodified":1533949269,
     "wof:name":"Career Blazers Resume Svc Inc",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638936151
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"

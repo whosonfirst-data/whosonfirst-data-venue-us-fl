@@ -7,6 +7,7 @@
     "addr:postcode":"33126",
     "addr:street":"Nw 42Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.263802,25.7757,-80.263802,25.7757",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.263802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"351 NW 42nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461627326,
-    "wof:geomhash":"ec668e3566c861f825be9d3cc2018cd4",
+    "wof:geomhash":"d448a4e3b1e824624c791b78e7267c48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":656127137,
-    "wof:lastmodified":1472616909,
+    "wof:lastmodified":1533949278,
     "wof:name":"Casuso MD",
     "wof:parent_id":85819549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656129377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"

@@ -7,6 +7,7 @@
     "addr:postcode":"33140",
     "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-80.13775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4302 Alton Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461277017,
-    "wof:geomhash":"2abde96f16980a4784848b80a82f748a",
+    "wof:geomhash":"125ee763d83b1562d48e86adf01d6974",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,15 @@
         }
     ],
     "wof:id":638686643,
-    "wof:lastmodified":1491903598,
+    "wof:lastmodified":1533949335,
     "wof:name":"Bassan & Bloom Mds PA",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639273575,
+        656171435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

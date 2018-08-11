@@ -7,6 +7,7 @@
     "addr:postcode":"34102",
     "addr:street":"10Th St S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.792736,26.138034,-81.792736,26.138034",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.792736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"895 10th St S",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_7KvusN8lD57go0RfyJVN9u_26.138034_-81.792736@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdbb8f30ef02c91a9bd4c48655011eb6",
+    "wof:geomhash":"5300c821773604f1aea81ea2c00954a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":287030263,
-    "wof:lastmodified":1472614246,
+    "wof:lastmodified":1533949217,
     "wof:name":"Allied Marine Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186179075
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"

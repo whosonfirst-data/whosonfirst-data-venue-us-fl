@@ -7,6 +7,7 @@
     "addr:postcode":"33155",
     "addr:street":"Sw 60Th Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.293126,25.741275,-80.293126,25.741275",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.293126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 SW 60th Ct",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_1EtvOeSt3Ruh4lbW6jIO7q_25.741275_-80.293126@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2e1dbe4ede8e93e8e3f435a59cc244dc",
+    "wof:geomhash":"f4f48fa45b33fbb8966b54a774d64907",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":236071201,
-    "wof:lastmodified":1472614378,
+    "wof:lastmodified":1533949336,
     "wof:name":"Miami Childrens-Cardiac Surg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656195203
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

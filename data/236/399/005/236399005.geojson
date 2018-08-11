@@ -7,6 +7,7 @@
     "addr:postcode":"32819",
     "addr:street":"W Sand Lake Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.487206,28.449872,-81.487206,28.449872",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.487206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7598 W Sand Lake Rd",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_0E7EXHnrU4PHHsLnI9ASuP_28.449872_-81.487206@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"5162538dab97c53af5aa16f489a93d0b",
+    "wof:geomhash":"019682c0b85ad73839b363150467a66b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":236399005,
-    "wof:lastmodified":1472615335,
+    "wof:lastmodified":1533949324,
     "wof:name":"Planet Hollywood",
     "wof:parent_id":85889355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639398879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operator",

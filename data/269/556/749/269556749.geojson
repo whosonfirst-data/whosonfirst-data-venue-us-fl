@@ -7,6 +7,7 @@
     "addr:postcode":"33186",
     "addr:street":"Sw 137Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.416576,25.682319,-80.416576,25.682319",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.416576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9010 SW 137th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_30eBjIDO51v5q1TOfaLzMg_25.682319_-80.416576@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f2008b97983ba141751a1faa91c0de6",
+    "wof:geomhash":"9fb6cd4e5eb5f810104aaca64db817f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":269556749,
-    "wof:lastmodified":1472614589,
+    "wof:lastmodified":1533949259,
     "wof:name":"Nor AM Energy Svc",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639239225
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company"

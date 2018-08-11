@@ -7,6 +7,7 @@
     "addr:postcode":"33139",
     "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133049,25.79073,-80.133049,25.79073",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.133049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"407 Lincoln Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461289404,
-    "wof:geomhash":"d77b699dd467dd54b7e5c5d9650cb1e0",
+    "wof:geomhash":"7a2fcc0be1d6f1ee8c3eb84e44839682",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":639189627,
-    "wof:lastmodified":1472616883,
+    "wof:lastmodified":1533949261,
     "wof:name":"Guillermo Font MD",
     "wof:parent_id":85849877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639253915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

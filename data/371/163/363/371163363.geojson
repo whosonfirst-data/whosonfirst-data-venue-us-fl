@@ -7,6 +7,7 @@
     "addr:postcode":"33919",
     "addr:street":"Mcgregor Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.913482,26.548082,-81.913482,26.548082",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.913482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13451 McGregor Blvd",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6Y0BdHkJSJPr5yQszVHSFP_26.548082_-81.913482@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e1c64275e95caee25e6e2d2454213e2",
+    "wof:geomhash":"c361dd4e6a6814266c8e8ae7b8633c0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":371163363,
-    "wof:lastmodified":1472615958,
+    "wof:lastmodified":1533949274,
     "wof:name":"Restaurant Management Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185787737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

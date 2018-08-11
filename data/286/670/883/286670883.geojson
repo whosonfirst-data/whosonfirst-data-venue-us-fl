@@ -2,18 +2,24 @@
   "id": 286670883,
   "type": "Feature",
   "properties": {
-    "addr:full":"18328 Gulf Blvd Indian Shores FL 33785",
+    "addr:city":"Indian Shores",
+    "addr:full":"18328 Gulf Blvd Indian Shores, Fl 33785-2006",
+    "addr:house_number":"18328",
     "addr:housenumber":"18328",
-    "addr:postcode":"33785",
+    "addr:phone":"+1 727-391-6211",
+    "addr:postcode":"33785-2006",
+    "addr:road":"Gulf Blvd",
+    "addr:state":"FL",
     "addr:street":"Gulf Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.835755,27.836396,-82.835755,27.836396",
-    "geom:latitude":27.836396,
-    "geom:longitude":-82.835755,
+    "geom:bbox":"-82.83776,27.83883,-82.83776,27.83883",
+    "geom:latitude":27.83883,
+    "geom:longitude":-82.83776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18328 Gulf Blvd",
     "sg:city":"Indian Shores",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "sanctuary",
         "bird"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526319,
+        102533325
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -47,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200399,
         "sg:id":"SG_0UOaaxUHDk7EiKztCYWlec_27.836396_-82.835755@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"26abb5f55d8d5cec5dd86e48924a1779",
+    "wof:geomhash":"6269ff15c7a47466905dbdcb73a4f4b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":286670883,
-    "wof:lastmodified":1472615399,
-    "wof:name":"Suncoast Seabird Sanctuary Inc",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Suncoast Seabird Sanctuary",
     "wof:parent_id":85844127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -82.835755,
-    27.836396,
-    -82.835755,
-    27.836396
+    -82.83776,
+    27.83883,
+    -82.83776,
+    27.83883
 ],
-  "geometry": {"coordinates":[-82.83575500000001,27.836396],"type":"Point"}
+  "geometry": {"coordinates":[-82.83776,27.83883],"type":"Point"}
 }

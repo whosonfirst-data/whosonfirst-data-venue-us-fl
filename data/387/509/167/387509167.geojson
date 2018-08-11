@@ -7,6 +7,7 @@
     "addr:postcode":"33618",
     "addr:street":"W Busch Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.492565,28.035902,-82.492565,28.035902",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.492565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2901 W Busch Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_7Srq9q0iAli1uMfpFF66vA_28.035902_-82.492565@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"61212398b30ca63029a1c6d895891fed",
+    "wof:geomhash":"6fe8f774669ef558730356152749780e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":387509167,
-    "wof:lastmodified":1472616017,
+    "wof:lastmodified":1533949242,
     "wof:name":"Mynatt Insurance",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387664723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33615",
     "addr:street":"Webb Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.575046,28.000583,-82.575046,28.000583",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.575046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6101 Webb Rd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6WGb5Yj8SSck60p77nk8op_28.000583_-82.575046@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba95824bcd074ab39a962e69a18d1b56",
+    "wof:geomhash":"3f33d3f7bbc04f7021fe6c144cc885dd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":186399543,
-    "wof:lastmodified":1472615071,
+    "wof:lastmodified":1533949269,
     "wof:name":"AHS Medical Research Inc",
     "wof:parent_id":85889775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639322869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

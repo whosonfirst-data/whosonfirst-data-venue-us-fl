@@ -7,6 +7,7 @@
     "addr:postcode":"34472",
     "addr:street":"Se Maricamp Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.013618,29.105083,-82.013618,29.105083",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.013618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9264 SE Maricamp Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6SE0tyuimgChFxkjRwtYHd_29.105083_-82.013618@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0d018c5d63bc077b0b3d8c18690fd55",
+    "wof:geomhash":"80d5fd7ee9bd0133b6f70adeada98dbc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":304052653,
-    "wof:lastmodified":1472614337,
+    "wof:lastmodified":1533949266,
     "wof:name":"Snappy Tomato Pizza Co",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655996917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

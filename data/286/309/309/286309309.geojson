@@ -7,6 +7,7 @@
     "addr:postcode":"33907",
     "addr:street":"College Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.876151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7290 College Pkwy",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":286309309,
-    "wof:lastmodified":1511322839,
+    "wof:lastmodified":1533949229,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85888833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        304080703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

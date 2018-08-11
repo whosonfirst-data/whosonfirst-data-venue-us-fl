@@ -7,6 +7,7 @@
     "addr:postcode":"33609",
     "addr:street":"N Dale Mabry Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.505745,27.946808,-82.505745,27.946808",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.505745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"232 N Dale Mabry Hwy",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461621502,
-    "wof:geomhash":"3f49040230f9b4590242ae43f3f5d042",
+    "wof:geomhash":"997ca5a4aadbd677db0588242f97def7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":656002497,
-    "wof:lastmodified":1472616143,
+    "wof:lastmodified":1533949343,
     "wof:name":"Donatello",
     "wof:parent_id":420513301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656269769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

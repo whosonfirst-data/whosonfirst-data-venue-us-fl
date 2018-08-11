@@ -7,6 +7,7 @@
     "addr:postcode":"32216",
     "addr:street":"Century;Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.572304,30.312402,-81.572304,30.312402",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.572304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Century 21 Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_782v6uTEUJOag9mEbWsLuN_30.312402_-81.572304@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3203c78e031f0f012c799d75f979dbc",
+    "wof:geomhash":"80e0e33172e87a1b58f700f5f7d7b0da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":219517895,
-    "wof:lastmodified":1472615192,
+    "wof:lastmodified":1533949221,
     "wof:name":"CBJ Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220152511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

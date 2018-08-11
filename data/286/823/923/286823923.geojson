@@ -7,6 +7,7 @@
     "addr:postcode":"34285",
     "addr:street":"Tamiami Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.444248,27.094787,-82.444248,27.094787",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.444248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 Tamiami Trl",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0SpKr3MAZTxE9fvw3Vo4hk_27.094787_-82.444248@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef1c368f5f21cbcf506bba6ff9a2b3ef",
+    "wof:geomhash":"be116997837c4e40597da16e0988d1f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":286823923,
-    "wof:lastmodified":1472615497,
+    "wof:lastmodified":1533949244,
     "wof:name":"Greene Rehab Services",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638687123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

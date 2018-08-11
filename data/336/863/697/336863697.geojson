@@ -7,6 +7,7 @@
     "addr:postcode":"33139",
     "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132887,25.790583,-80.132887,25.790583",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.132887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"420 Lincoln Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_0ZmhL9mYxJb0EoXbzrdUGW_25.790583_-80.132887@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e951624247ca4c4e931c1ff8d160b4e",
+    "wof:geomhash":"053ed39b431821076f56bcae8b0d67d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":336863697,
-    "wof:lastmodified":1472614904,
+    "wof:lastmodified":1533949233,
     "wof:name":"Mega Models",
     "wof:parent_id":85849877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303888855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "modeling"

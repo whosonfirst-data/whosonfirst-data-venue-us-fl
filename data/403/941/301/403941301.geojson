@@ -7,6 +7,7 @@
     "addr:postcode":"33469",
     "addr:street":"Cypress Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.091983,26.963976,-80.091983,26.963976",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.091983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1406 Cypress Dr",
     "sg:city":"Jupiter",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3KZtJVkdcWTK1SiS3biLc8_26.963976_-80.091983@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d7c2146fb47ae34716076d60190a8f0",
+    "wof:geomhash":"03b4f85fabd0fa27a37c32814f65c8ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":403941301,
-    "wof:lastmodified":1472616366,
+    "wof:lastmodified":1533949343,
     "wof:name":"Pasquale Restaurant & Deli",
     "wof:parent_id":85888941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656260219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

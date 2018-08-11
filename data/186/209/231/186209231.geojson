@@ -7,6 +7,7 @@
     "addr:postcode":"32504",
     "addr:street":"N 9Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.208872,30.477914,-87.208872,30.477914",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.208872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5153 N 9th Ave",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6cPQxzybl26U9Ow4id0pqE_30.477914_-87.208872@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"816291dbd7fab91ca9b1c04a3176db1c",
+    "wof:geomhash":"2b11a1e9777ba3f4be2ef83f7002ef41",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":186209231,
-    "wof:lastmodified":1472614796,
+    "wof:lastmodified":1533949251,
     "wof:name":"Andres Walker Facs MD",
     "wof:parent_id":85816679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656026103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

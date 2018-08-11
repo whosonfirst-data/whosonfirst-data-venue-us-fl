@@ -7,6 +7,7 @@
     "addr:postcode":"33323",
     "addr:street":"W Sunrise Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.322519,26.144522,-80.322519,26.144522",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.322519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12801 W Sunrise Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_23dsEr0gJgDzAytBhs49Xt_26.144522_-80.322519@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3baf9f30cadc195fbd1b9f1c8ecb8ab9",
+    "wof:geomhash":"fa404a01fd0d0d8f68d665486567054f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":269569205,
-    "wof:lastmodified":1472614715,
+    "wof:lastmodified":1533949277,
     "wof:name":"Burlington Coat Factory",
     "wof:parent_id":85842167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638987909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family",

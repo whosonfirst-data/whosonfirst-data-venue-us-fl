@@ -7,6 +7,7 @@
     "addr:postcode":"33130",
     "addr:street":"W Flagler St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.194393,25.773859,-80.194393,25.773859",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.194393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"44 W Flagler St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461627652,
-    "wof:geomhash":"b2336266a385483f17b50aad4d65b1f0",
+    "wof:geomhash":"a4ec9d1bc69210074a2adae6dea6a067",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,16 @@
         }
     ],
     "wof:id":656134649,
-    "wof:lastmodified":1472616975,
+    "wof:lastmodified":1533949301,
     "wof:name":"McClure John Atty",
     "wof:parent_id":85889173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656134787,
+        656135219,
+        656136813
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

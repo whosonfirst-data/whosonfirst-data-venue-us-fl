@@ -7,6 +7,7 @@
     "addr:postcode":"32952",
     "addr:street":"E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.684696,28.357244,-80.684696,28.357244",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.684696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"780 E Merritt Island Cswy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_1UxEW25m8xdBjAI7YLrcnZ_28.357244_-80.684696@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3d62d293ab790b4dfdac88fb5074f3f",
+    "wof:geomhash":"608e0593e48d628f7a1757fcea72a875",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":403794263,
-    "wof:lastmodified":1472616260,
+    "wof:lastmodified":1533949267,
     "wof:name":"Supercuts",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656096293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

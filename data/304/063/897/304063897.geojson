@@ -7,6 +7,7 @@
     "addr:postcode":"33771",
     "addr:street":"E Bay Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.743785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3665 E Bay Dr",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":304063897,
-    "wof:lastmodified":1512143576,
+    "wof:lastmodified":1533949277,
     "wof:name":"UPS Store",
     "wof:parent_id":85820349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185844081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mailing",

@@ -7,6 +7,7 @@
     "addr:postcode":"32303",
     "addr:street":"John Knox Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.277988,30.474489,-84.277988,30.474489",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.277988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"325 John Knox Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0Dn5tA3uzMhgOe5HjbHNBg_30.474489_-84.277988@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a7207878f31ab40bf63fcb3226e8d72",
+    "wof:geomhash":"9137636d26270bfb058e995e60a20513",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":319842597,
-    "wof:lastmodified":1472614300,
+    "wof:lastmodified":1533949269,
     "wof:name":"Dialamerica Marketing Inc",
     "wof:parent_id":85881373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639323575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"

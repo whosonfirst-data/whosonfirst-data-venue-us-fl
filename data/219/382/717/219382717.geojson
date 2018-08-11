@@ -7,6 +7,7 @@
     "addr:postcode":"32707",
     "addr:street":"Sunnytown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.344081,28.665723,-81.344081,28.665723",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.344081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Sunnytown Rd",
     "sg:city":"Casselberry",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_7ci03H2WmD6lIFV6pJW2Pv_28.665723_-81.344081@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ce7c31d72ec6a36103f670d682937ad",
+    "wof:geomhash":"f92736f249e3fa13f47ea1781241aa79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":219382717,
-    "wof:lastmodified":1472614983,
+    "wof:lastmodified":1533949251,
     "wof:name":"Sovereign Healthcare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655929147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

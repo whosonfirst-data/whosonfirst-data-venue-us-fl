@@ -2,18 +2,23 @@
   "id": 638925231,
   "type": "Feature",
   "properties": {
-    "addr:full":"1818 E 9th Ave Tampa FL 33605",
+    "addr:city":"Tampa",
+    "addr:full":"1818 Ninth Ave. E. Tampa, Fl 33605-3818",
+    "addr:house_number":"1818",
     "addr:housenumber":"1818",
-    "addr:postcode":"33605",
+    "addr:postcode":"33605-3818",
+    "addr:road":"Ninth Ave. E.",
+    "addr:state":"FL",
     "addr:street":"E 9Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.438178,27.961752,-82.438178,27.961752",
-    "geom:latitude":27.961752,
-    "geom:longitude":-82.438178,
+    "geom:bbox":"-82.43917,27.96177,-82.43917,27.96177",
+    "geom:latitude":27.96177,
+    "geom:longitude":-82.43917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1818 E 9th Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -27,7 +32,11 @@
     "sg:phone":"+1 813 247 6323",
     "sg:postcode":"33605",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533243,
+        102533907
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400784,
         "sg:id":"SG_0kQ7rtTlYnz6otDuHoObib_27.961752_-82.438178@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461283399,
-    "wof:geomhash":"2161c30b097ee887a782ce738cfd8d21",
+    "wof:geomhash":"037e60f9b10ae505a08263080c3e9b89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":638925231,
-    "wof:lastmodified":1472617413,
-    "wof:name":"YBOR City State Museum",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Ybor City Museum State Park",
     "wof:parent_id":85859345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.438178,
-    27.961752,
-    -82.438178,
-    27.961752
+    -82.43917,
+    27.96177,
+    -82.43917,
+    27.96177
 ],
-  "geometry": {"coordinates":[-82.43817799999999,27.961752],"type":"Point"}
+  "geometry": {"coordinates":[-82.43917,27.96177],"type":"Point"}
 }

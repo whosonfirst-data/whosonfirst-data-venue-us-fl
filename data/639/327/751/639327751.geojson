@@ -7,6 +7,7 @@
     "addr:postcode":"33313",
     "addr:street":"W Sunrise Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.232945,26.13581,-80.232945,26.13581",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.232945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6289 W Sunrise Blvd",
     "sg:city":"Plantation",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461292559,
-    "wof:geomhash":"d7186491c04b97eb45b7a859b656926b",
+    "wof:geomhash":"1fa01df538636625ac53197bd8d858ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":639327751,
-    "wof:lastmodified":1472617574,
+    "wof:lastmodified":1533949342,
     "wof:name":"Automatic Cash Register Svc",
     "wof:parent_id":85851519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656250929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "register",

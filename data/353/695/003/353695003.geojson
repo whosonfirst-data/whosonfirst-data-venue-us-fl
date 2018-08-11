@@ -7,6 +7,7 @@
     "addr:postcode":"33141",
     "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.121073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7474 Collins Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":353695003,
-    "wof:lastmodified":1512142607,
+    "wof:lastmodified":1533949334,
     "wof:name":"Bank Of America",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656172499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

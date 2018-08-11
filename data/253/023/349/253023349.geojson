@@ -2,18 +2,24 @@
   "id": 253023349,
   "type": "Feature",
   "properties": {
-    "addr:full":"71 N Federal Hwy Boca Raton FL 33432",
+    "addr:city":"Boca Raton",
+    "addr:full":"71 N Federal Hwy Boca Raton, Fl 33432-3919",
+    "addr:house_number":"71",
     "addr:housenumber":"71",
-    "addr:postcode":"33432",
+    "addr:phone":"+1 561-395-6766",
+    "addr:postcode":"33432-3919",
+    "addr:road":"N Federal Hwy",
+    "addr:state":"FL",
     "addr:street":"N Federal Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.086481,26.351033,-80.086481,26.351033",
-    "geom:latitude":26.351033,
-    "geom:longitude":-80.086481,
+    "geom:bbox":"-80.0864,26.35095,-80.0864,26.35095",
+    "geom:latitude":26.35095,
+    "geom:longitude":-80.0864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"71 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -31,7 +37,12 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102528421,
+        102533615
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -41,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200381,
         "sg:id":"SG_3hC3PAJGGRphXu2jwgHZxa_26.351033_-80.086481@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e157cb7e67ad117cf42a608bb9efbf4",
+    "wof:geomhash":"1f741a1c1b93a66993a6310c603a3bd3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":253023349,
-    "wof:lastmodified":1472614232,
+    "wof:lastmodified":1533949353,
     "wof:name":"Boca Raton Historical Society",
     "wof:parent_id":85846319,
     "wof:placetype":"venue",
@@ -70,10 +82,10 @@
     ]
 },
   "bbox": [
-    -80.086481,
-    26.351033,
-    -80.086481,
-    26.351033
+    -80.0864,
+    26.35095,
+    -80.0864,
+    26.35095
 ],
-  "geometry": {"coordinates":[-80.08648100000001,26.351033],"type":"Point"}
+  "geometry": {"coordinates":[-80.0864,26.35095],"type":"Point"}
 }

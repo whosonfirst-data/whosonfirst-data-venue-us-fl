@@ -7,6 +7,7 @@
     "addr:postcode":"33156",
     "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.329598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"12647 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":304031377,
-    "wof:lastmodified":1512142785,
+    "wof:lastmodified":1533949337,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656200367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

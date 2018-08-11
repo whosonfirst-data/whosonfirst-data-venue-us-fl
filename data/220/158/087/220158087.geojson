@@ -7,6 +7,7 @@
     "addr:postcode":"33165",
     "addr:street":"Sw 56Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.369064,25.715373,-80.369064,25.715373",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.369064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10700 SW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5M4TsxjybFxjsIk4cUnVko_25.715373_-80.369064@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"a96c4e7ea6a396914607abb086060b45",
+    "wof:geomhash":"c5393c71c3674df2a0236841ea2bb97f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":220158087,
-    "wof:lastmodified":1472614517,
+    "wof:lastmodified":1533949338,
     "wof:name":"Iglesia Luterana San Pablo",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656208537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

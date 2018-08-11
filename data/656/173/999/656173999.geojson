@@ -7,6 +7,7 @@
     "addr:postcode":"33142",
     "addr:street":"Nw 36Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242599,25.809099,-80.242599,25.809099",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.242599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2900 NW 36th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461629330,
-    "wof:geomhash":"f62f9bb3af3b2909307dc215f391df83",
+    "wof:geomhash":"22607cba6fc459d9d174e374a82da467",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":656173999,
-    "wof:lastmodified":1472617137,
+    "wof:lastmodified":1533949335,
     "wof:name":"Seidle's Bill Nissan Inc",
     "wof:parent_id":85866187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656176863
+    ],
+    "wof:supersedes":[
+        387609311
+    ],
     "wof:tags":[
         "body",
         "shop",

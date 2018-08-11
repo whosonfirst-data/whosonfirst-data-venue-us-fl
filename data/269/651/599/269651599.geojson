@@ -7,6 +7,7 @@
     "addr:postcode":"33165",
     "addr:street":"Sw 56Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.359977,25.715655,-80.359977,25.715655",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.359977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10250 SW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3IqjveB4X76GYFqbgIuzZX_25.715655_-80.359977@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ffafccde1339b40984489a474c444485",
+    "wof:geomhash":"deaaec62807c7f179927d486c6784cc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":269651599,
-    "wof:lastmodified":1472615108,
+    "wof:lastmodified":1533949279,
     "wof:name":"Active Rehab Service Inc",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639381887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

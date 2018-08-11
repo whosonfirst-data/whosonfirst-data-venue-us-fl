@@ -2,18 +2,24 @@
   "id": 303223267,
   "type": "Feature",
   "properties": {
-    "addr:full":"1801 N Ocean Blvd Boca Raton FL 33432",
+    "addr:city":"Boca Raton",
+    "addr:full":"1801 N Ocean Blvd Boca Raton, Fl 33432-1946",
+    "addr:house_number":"1801",
     "addr:housenumber":"1801",
-    "addr:postcode":"33432",
+    "addr:phone":"+1 561-338-1473",
+    "addr:postcode":"33432-1946",
+    "addr:road":"N Ocean Blvd",
+    "addr:state":"FL",
     "addr:street":"N Ocean Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.068696,26.370776,-80.068696,26.370776",
-    "geom:latitude":26.370776,
-    "geom:longitude":-80.068696,
+    "geom:bbox":"-80.06929,26.36736,-80.06929,26.36736",
+    "geom:latitude":26.36736,
+    "geom:longitude":-80.06929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1801 N Ocean Blvd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -32,7 +38,12 @@
         "program"
     ],
     "sg:website":"www.gumbolimbo.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102528421,
+        102533615
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200753,
         "sg:id":"SG_7SlsMAWIi6UavSBVnwgvqi_26.370776_-80.068696@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fa31d1cf5a75a0e04137a390676d1ef",
+    "wof:geomhash":"6f24d265e51332eb087c110dd94b1fa1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,8 +70,8 @@
         }
     ],
     "wof:id":303223267,
-    "wof:lastmodified":1472614849,
-    "wof:name":"Gumbo Limbo Environmental",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Gumbo Limbo Nature Center",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -71,10 +83,10 @@
     ]
 },
   "bbox": [
-    -80.068696,
-    26.370776,
-    -80.068696,
-    26.370776
+    -80.06929,
+    26.36736,
+    -80.06929,
+    26.36736
 ],
-  "geometry": {"coordinates":[-80.068696,26.370776],"type":"Point"}
+  "geometry": {"coordinates":[-80.06929,26.36736],"type":"Point"}
 }

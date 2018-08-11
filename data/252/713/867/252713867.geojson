@@ -2,17 +2,22 @@
   "id": 252713867,
   "type": "Feature",
   "properties": {
-    "addr:full":"4333 E Silver Springs Blvd Ocala FL 34470",
+    "addr:city":"Ocala",
+    "addr:full":"4333 E Silver Springs Blvd Ocala, Fl 34470-5001",
+    "addr:house_number":"4333",
     "addr:housenumber":"4333",
-    "addr:postcode":"34470",
+    "addr:phone":"+1 352-291-4455",
+    "addr:postcode":"34470-5001",
+    "addr:road":"E Silver Springs Blvd",
+    "addr:state":"FL",
     "addr:street":"E Silver Springs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.076113,29.204623,-82.076113,29.204623",
-    "geom:latitude":29.204623,
-    "geom:longitude":-82.076113,
+    "geom:bbox":"-82.07794,29.20347,-82.07794,29.20347",
+    "geom:latitude":29.20347,
+    "geom:longitude":-82.07794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +37,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -42,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200684,
         "osm:way":449003657,
         "sg:id":"SG_0ogSyATryTX1A2xSejyPXZ_29.204623_-82.076113@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e97d79fd26b32e5ee9555309f78bb51a",
+    "wof:geomhash":"3b29538c9eee06f0145d5e8a47ec4557",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,8 +66,8 @@
         }
     ],
     "wof:id":252713867,
-    "wof:lastmodified":1510943389,
-    "wof:name":"Appleton Museum of Art",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Appleton Museum Of Art",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -71,10 +78,10 @@
     ]
 },
   "bbox": [
-    -82.076113,
-    29.204623,
-    -82.076113,
-    29.204623
+    -82.07794,
+    29.20347,
+    -82.07794,
+    29.20347
 ],
-  "geometry": {"coordinates":[-82.07611300000001,29.204623],"type":"Point"}
+  "geometry": {"coordinates":[-82.07794,29.20347],"type":"Point"}
 }

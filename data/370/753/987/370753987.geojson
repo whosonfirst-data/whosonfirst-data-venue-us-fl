@@ -7,6 +7,7 @@
     "addr:postcode":"33181",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160868,25.898864,-80.160868,25.898864",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.160868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13499 Biscayne Blvd",
     "sg:city":"North Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1dUdhaT0c6clTzmojdH7eo_25.898864_-80.160868@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"208ccf83fca9a9c47d12932afcc28861",
+    "wof:geomhash":"9747bfd9d3a19a85dc05a304e7054d10",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":370753987,
-    "wof:lastmodified":1472615814,
+    "wof:lastmodified":1533949244,
     "wof:name":"L Christian Intl Inc",
     "wof:parent_id":85879293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639070265
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic"

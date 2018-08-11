@@ -7,6 +7,7 @@
     "addr:postcode":"33777",
     "addr:street":"Bryan Dairy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.759233,27.872336,-82.759233,27.872336",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.759233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8787 Bryan Dairy Rd",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6Rx6DMLmksCBdS0jDQa22Z_27.872336_-82.759233@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5fd368750dea0fd3214693b1eb3d587",
+    "wof:geomhash":"8d5a128781dc030c08ed0c6a576b4d90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":387278569,
-    "wof:lastmodified":1472615987,
+    "wof:lastmodified":1533949220,
     "wof:name":"Orthopaedic Assoc W Fla PA",
     "wof:parent_id":85853001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202877063
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

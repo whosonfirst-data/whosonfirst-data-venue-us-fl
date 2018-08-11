@@ -7,6 +7,7 @@
     "addr:postcode":"32907",
     "addr:street":"Malabar Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.637636,27.998478,-80.637636,27.998478",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.637636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1120 Malabar Rd SE",
     "sg:city":"Palm Bay",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4jOoV9chrhxUdDi8Q4TJEl_27.998478_-80.637636@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f818836694da092896ea10ebe0805fe",
+    "wof:geomhash":"3114377a810bd31adbe3c11325ae9b5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":371128649,
-    "wof:lastmodified":1472615951,
+    "wof:lastmodified":1533949263,
     "wof:name":"Taco Bell",
     "wof:parent_id":85868543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655984025
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

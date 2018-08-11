@@ -7,6 +7,7 @@
     "addr:postcode":"33401",
     "addr:street":"N Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053569,26.714889,-80.053569,26.714889",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.053569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"205 N Dixie Hwy",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461617648,
-    "wof:geomhash":"4cb5957907433630394c47d4fc1eab85",
+    "wof:geomhash":"889c44e767640447c76f9302ecd317f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":655913815,
-    "wof:lastmodified":1472616404,
+    "wof:lastmodified":1533949275,
     "wof:name":"Palm Beach Guardian Ad Litem",
     "wof:parent_id":85881801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639362999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

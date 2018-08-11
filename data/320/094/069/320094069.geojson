@@ -7,6 +7,7 @@
     "addr:postcode":"34293",
     "addr:street":"Tamiami Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.399774,27.049723,-82.399774,27.049723",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.399774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4000 Tamiami Trl",
     "sg:city":"Venice",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6RjMdt1D5fKPSWhto9bYz7_27.049723_-82.399774@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b27e9d6e440e43a2f58db2c9c3a26f3a",
+    "wof:geomhash":"72b85fc02df67afc27be3c516393c04e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":320094069,
-    "wof:lastmodified":1472614591,
+    "wof:lastmodified":1533949253,
     "wof:name":"Property Appraiser",
     "wof:parent_id":85816997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655936835
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33145",
     "addr:street":"S Douglas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254548,25.750077,-80.254548,25.750077",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.254548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2307 S Douglas Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461285589,
-    "wof:geomhash":"2551e10735e12f9e707e0d066a412c61",
+    "wof:geomhash":"558e1ae7b4f2db3e4a13766f8538b84c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":639022065,
-    "wof:lastmodified":1472616140,
+    "wof:lastmodified":1533949335,
     "wof:name":"International Sunshine Realty",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656183991
+    ],
+    "wof:supersedes":[
+        270345877
+    ],
     "wof:tags":[
         "management"
     ]

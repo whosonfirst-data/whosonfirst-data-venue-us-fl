@@ -7,6 +7,7 @@
     "addr:postcode":"34240",
     "addr:street":"Palm View Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.304963,27.311441,-82.304963,27.311441",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.304963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1552 Palm View Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_70pIdmLP9ka6JbPd8D7XCp_27.311441_-82.304963@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"57b3c356e1f86c5148d1e2ff5c75aa2f",
+    "wof:geomhash":"58be1b4f8d917bd9bdea4fc365d6e94a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":303963401,
-    "wof:lastmodified":1472615917,
+    "wof:lastmodified":1533949349,
     "wof:name":"Oak Ford Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656311965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "course",

@@ -7,6 +7,7 @@
     "addr:postcode":"33132",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187835,25.777212,-80.187835,25.777212",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.187835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6Uz7MAeDjS6itfNeeKiIEE_25.777212_-80.187835@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab2c4a236d450e3ec1dbe4e450b69291",
+    "wof:geomhash":"e6599e6f11484ec8fa38c1a5437ef0d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,15 @@
         }
     ],
     "wof:id":403815595,
-    "wof:lastmodified":1472616271,
+    "wof:lastmodified":1533949329,
     "wof:name":"Norman Arty Davis",
     "wof:parent_id":85866181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656140107,
+        656145487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"34685",
     "addr:street":"E Lake Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.704517,28.072094,-82.704517,28.072094",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.704517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"750 E Lake Rd",
     "sg:city":"Palm Harbor",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0OXTvEE9WI0L6a2VtMUHie_28.072094_-82.704517@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9035526e8812221acfaabf3fe887fa4e",
+    "wof:geomhash":"52013fd45a86051da19b121229618906",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":387928273,
-    "wof:lastmodified":1472616080,
+    "wof:lastmodified":1533949267,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655997595
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"32569",
     "addr:street":"Mary Esther Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.654374,30.414487,-86.654374,30.414487",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.654374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Mary Esther Blvd",
     "sg:city":"Mary Esther",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_4seFBlttQUxH21czV7jdzx_30.414487_-86.654374@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e24401c0f1aaa50239df7574e2e3747f",
+    "wof:geomhash":"6db5879c5652a15b5a56cb93fd7934b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":253473315,
-    "wof:lastmodified":1472615531,
+    "wof:lastmodified":1533949262,
     "wof:name":"Great Steak & Potato",
     "wof:parent_id":85888869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655979401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"34233",
     "addr:street":"Bee Ridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.476795,27.298823,-82.476795,27.298823",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.476795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4411 Bee Ridge Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_55L35PzFuV6bb4Yq2PpCJC_27.298823_-82.476795@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b625bd69b7725c4cde2f2f8dacab356",
+    "wof:geomhash":"cb1c0ff97b6a9d3842337cb5a8047664",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":269760899,
-    "wof:lastmodified":1472615464,
+    "wof:lastmodified":1533949221,
     "wof:name":"Intrawerks Inc",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        235961089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "reseller",

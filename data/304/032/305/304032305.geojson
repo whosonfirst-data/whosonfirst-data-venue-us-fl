@@ -7,6 +7,7 @@
     "addr:postcode":"33556",
     "addr:street":"Wayne Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.583457,28.1373,-82.583457,28.1373",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.583457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18701 Wayne Rd",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_7Sl2JjKx1TkNaHmeEUXVrT_28.137300_-82.583457@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e4f4aecc59ce8b21ebc9349fc276dae",
+    "wof:geomhash":"08aa5c0bb5e827514e5c631af5eae37a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":304032305,
-    "wof:lastmodified":1472614297,
+    "wof:lastmodified":1533949343,
     "wof:name":"Carriage Vending Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656264407
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"

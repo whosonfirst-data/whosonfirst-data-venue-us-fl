@@ -7,6 +7,7 @@
     "addr:postcode":"32578",
     "addr:street":"John Sims Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.470091,30.516757,-86.470091,30.516757",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.470091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1047 John Sims Pkwy",
     "sg:city":"Niceville",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_2T4FDWbhuDvveAfeBfqBmG_30.516757_-86.470091@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"844d6576e1b335c53341d85cb0ee0448",
+    "wof:geomhash":"9f743534601ac3311e836faf3fcdd947",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":236444995,
-    "wof:lastmodified":1472615420,
+    "wof:lastmodified":1533949252,
     "wof:name":"Twin Cities Cinema",
     "wof:parent_id":85867467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656032763
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

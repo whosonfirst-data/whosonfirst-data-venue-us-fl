@@ -7,6 +7,7 @@
     "addr:postcode":"33156",
     "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.329582,25.65372,-80.329582,25.65372",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.329582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12651 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461618556,
-    "wof:geomhash":"0aa47ab1ee718b129fd620498dbf1b77",
+    "wof:geomhash":"b361ef08e4f0a584cf3844b1b77bfefd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,15 @@
         }
     ],
     "wof:id":655937007,
-    "wof:lastmodified":1472616524,
+    "wof:lastmodified":1533949337,
     "wof:name":"Southpark Centre",
     "wof:parent_id":85851433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236317763,
+        656201039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

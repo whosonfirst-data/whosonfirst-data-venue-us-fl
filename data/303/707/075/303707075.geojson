@@ -7,6 +7,7 @@
     "addr:postcode":"33602",
     "addr:street":"S 12Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.446834,27.946331,-82.446834,27.946331",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.446834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"223 S 12th St",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_59ppJdMbeCFkjS984mtJKL_27.946331_-82.446834@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f299ceea0d5951e3de67addb236b693",
+    "wof:geomhash":"08cda4d3a39f29778d562c6829548e33",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303707075,
-    "wof:lastmodified":1472615828,
+    "wof:lastmodified":1533949343,
     "wof:name":"Starship Dining Yacht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656267197
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"

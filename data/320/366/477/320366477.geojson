@@ -7,6 +7,7 @@
     "addr:postcode":"33410",
     "addr:street":"Burns Rd;Beach Gdns",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083067,26.830405,-80.083067,26.830405",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.083067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3370 Burns Rd",
     "sg:city":"Palm Beach Gdns",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_18gC8a995yWjO7093LrjAx_26.830405_-80.083067@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f3f4f009466ad0448fef0b6d33dbd60",
+    "wof:geomhash":"563a733427331a2fb18fe5f1a5594862",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":320366477,
-    "wof:lastmodified":1472615382,
+    "wof:lastmodified":1533949246,
     "wof:name":"Jorge L Castriz MD",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639101705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

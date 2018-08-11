@@ -7,6 +7,7 @@
     "addr:postcode":"33156",
     "addr:street":"S Dadeland Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314869,25.685443,-80.314869,25.685443",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.314869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9200 S Dadeland Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461630416,
-    "wof:geomhash":"4feb8ffbe56800603a98f339f64cd0b8",
+    "wof:geomhash":"1f5167f453e006435501f2e9728b74f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":656198705,
-    "wof:lastmodified":1472617223,
+    "wof:lastmodified":1533949337,
     "wof:name":"Automatic Transmission Service Group",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656201127
+    ],
+    "wof:supersedes":[
+        287144005
+    ],
     "wof:tags":[
         "transmission",
         "transmissions-other"

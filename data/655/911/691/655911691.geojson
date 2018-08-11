@@ -2,18 +2,24 @@
   "id": 655911691,
   "type": "Feature",
   "properties": {
-    "addr:full":"42 N Beach St Ormond Beach FL 32174",
+    "addr:city":"Ormond Beach",
+    "addr:full":"42 N Beach St Ormond Beach, Fl 32174",
+    "addr:house_number":"42",
     "addr:housenumber":"42",
+    "addr:phone":"+1 386-677-2952",
     "addr:postcode":"32174",
+    "addr:road":"N Beach St",
+    "addr:state":"FL",
     "addr:street":"N Beach St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.056162,29.287002,-81.056162,29.287002",
-    "geom:latitude":29.287002,
-    "geom:longitude":-81.056162,
+    "geom:bbox":"-81.04609,29.28854,-81.04609,29.28854",
+    "geom:latitude":29.28854,
+    "geom:longitude":-81.04609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"42 N Beach St",
     "sg:city":"Ormond Beach",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 386 677 2952",
     "sg:postcode":"32174",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525923
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200087,
         "sg:id":"SG_4grFSO8szGTYEXGvZkqQE3_29.287002_-81.056162@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461617573,
-    "wof:geomhash":"9e8e3618a69361e8b999cadb5512ba46",
+    "wof:geomhash":"da757f7b28c297dcac520e12c73743ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":655911691,
-    "wof:lastmodified":1472616396,
+    "wof:lastmodified":1533949352,
     "wof:name":"Ormond Beach Historal Trust",
     "wof:parent_id":85839841,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.056162,
-    29.287002,
-    -81.056162,
-    29.287002
+    -81.04609,
+    29.28854,
+    -81.04609,
+    29.28854
 ],
-  "geometry": {"coordinates":[-81.056162,29.287002],"type":"Point"}
+  "geometry": {"coordinates":[-81.04609000000001,29.28854],"type":"Point"}
 }

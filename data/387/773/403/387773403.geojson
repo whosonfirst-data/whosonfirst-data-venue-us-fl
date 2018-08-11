@@ -7,6 +7,7 @@
     "addr:postcode":"32789",
     "addr:street":"Lee Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.384176,28.6058,-81.384176,28.6058",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.384176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2699 Lee Rd",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_52O4DSdYvT3OC9R1rH2maV_28.605800_-81.384176@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec436f512a6351d5e4635794efaf564a",
+    "wof:geomhash":"6306dd18c8c4d78d605f6399d3e29599",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,18 @@
         }
     ],
     "wof:id":387773403,
-    "wof:lastmodified":1472616054,
+    "wof:lastmodified":1533949259,
     "wof:name":"ONeal Liebman & Cooper PA",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656064851,
+        656065177
+    ],
+    "wof:supersedes":[
+        336726587
+    ],
     "wof:tags":[]
 },
   "bbox": [

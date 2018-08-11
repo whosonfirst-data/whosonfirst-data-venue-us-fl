@@ -7,6 +7,7 @@
     "addr:postcode":"32217",
     "addr:street":"Powers Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.613202,30.249402,-81.613202,30.249402",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.613202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6653 Powers Ave",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461282385,
-    "wof:geomhash":"d598963174c439059caab112b27eb54f",
+    "wof:geomhash":"9521de497ebd15a339b3c9b8de224de1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":638886611,
-    "wof:lastmodified":1472617292,
+    "wof:lastmodified":1533949328,
     "wof:name":"Florida Biomedical Eqp Sls Svc",
     "wof:parent_id":85870715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639428351
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

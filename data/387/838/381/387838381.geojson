@@ -7,6 +7,7 @@
     "addr:postcode":"33014",
     "addr:street":"Nw 151St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297907,25.910855,-80.297907,25.910855",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.297907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5979 NW 151st St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5BP5V0TuVSMQfNCR0Zfl24_25.910855_-80.297907@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd7eafc0b065c0e3f30395929d725ae6",
+    "wof:geomhash":"5ea1b03a62a2e6d4e460dfb4e4990f5b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":387838381,
-    "wof:lastmodified":1472616066,
+    "wof:lastmodified":1533949269,
     "wof:name":"Property Management For Ofcs",
     "wof:parent_id":85833923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656108049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

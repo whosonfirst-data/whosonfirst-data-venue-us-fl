@@ -7,6 +7,7 @@
     "addr:postcode":"32953",
     "addr:street":"N Courtenay Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.702682,28.381789,-80.702682,28.381789",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.702682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1395 N Courtenay Pkwy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461279546,
-    "wof:geomhash":"5ad76202b717bc32309bc0fa82792a52",
+    "wof:geomhash":"368d39845ac74df38e0521a2bf30a75a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,15 @@
         }
     ],
     "wof:id":638769715,
-    "wof:lastmodified":1472617000,
+    "wof:lastmodified":1533949267,
     "wof:name":"Brogan Terriann",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638784699,
+        656096869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

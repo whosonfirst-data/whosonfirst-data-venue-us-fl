@@ -7,6 +7,7 @@
     "addr:postcode":"34747",
     "addr:street":"Celebration Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.547015,28.326677,-81.547015,28.326677",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.547015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Celebration Pl",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6DlaJfBm8xUNGMahwJqegb_28.326677_-81.547015@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"875313e3461b586ac6a7c30ccf0f371a",
+    "wof:geomhash":"319b6b254308e200983df6183135b4a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":202632977,
-    "wof:lastmodified":1472614946,
+    "wof:lastmodified":1533949240,
     "wof:name":"Jerry Rubin MD",
     "wof:parent_id":85889321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639009967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

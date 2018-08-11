@@ -7,6 +7,7 @@
     "addr:postcode":"32789",
     "addr:street":"N Orlando Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.365215,28.602399,-81.365215,28.602399",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.365215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 N Orlando Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_468sY3kKqLo8jRzuoshg5t_28.602399_-81.365215@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"4dc5030dc883c4c9f4b6fa1275af07e9",
+    "wof:geomhash":"84b831dc094258514cbed1d20e5602c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":269902995,
-    "wof:lastmodified":1472615640,
+    "wof:lastmodified":1533949229,
     "wof:name":"Gift Faire The",
     "wof:parent_id":85889929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270499233
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

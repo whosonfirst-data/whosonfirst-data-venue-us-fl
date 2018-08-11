@@ -7,6 +7,7 @@
     "addr:postcode":"33496",
     "addr:street":"Clint Moore Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.146287,26.407932,-80.146287,26.407932",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.146287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2901 Clint Moore Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5peLNcva8N1vkJMwNAaSJ8_26.407932_-80.146287@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"53eb0a9c5080feb59b68b6563cb94bdc",
+    "wof:geomhash":"a476208c27f947744b167ad0f4db5c30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":253382701,
-    "wof:lastmodified":1472615353,
+    "wof:lastmodified":1533949278,
     "wof:name":"Lang Realty Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639379029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"

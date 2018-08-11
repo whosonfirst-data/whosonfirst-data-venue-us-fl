@@ -7,6 +7,7 @@
     "addr:postcode":"34233",
     "addr:street":"Bee Ridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.489286,27.298747,-82.489286,27.298747",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.489286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3920 Bee Ridge Rd",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2FTZtMOOY3D8yaGhjKUZov_27.298747_-82.489286@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad5da1da308a416f7e103815c3d2dfa7",
+    "wof:geomhash":"9730c8ffabdbfa00c139a15c48ba52c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":253343567,
-    "wof:lastmodified":1472615297,
+    "wof:lastmodified":1533949220,
     "wof:name":"Bee Ridge Ob/Gyn",
     "wof:parent_id":85841893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202933415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

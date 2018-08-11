@@ -2,18 +2,24 @@
   "id": 386928073,
   "type": "Feature",
   "properties": {
-    "addr:full":"6830 N Federal Hwy Boca Raton FL 33487",
+    "addr:city":"Boca Raton",
+    "addr:full":"6830 N Federal Hwy Boca Raton, Fl 33487",
+    "addr:house_number":"6830",
     "addr:housenumber":"6830",
+    "addr:phone":"+1 561-997-2575",
     "addr:postcode":"33487",
+    "addr:road":"N Federal Hwy",
+    "addr:state":"FL",
     "addr:street":"N Federal Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.076091,26.41073,-80.076091,26.41073",
-    "geom:latitude":26.41073,
-    "geom:longitude":-80.076091,
+    "geom:bbox":"-80.07623,26.40955,-80.07623,26.40955",
+    "geom:latitude":26.40955,
+    "geom:longitude":-80.07623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6830 N Federal Hwy",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -34,7 +40,12 @@
         "memorabilia"
     ],
     "sg:website":"www.sportsimmortals.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102528421,
+        102533615
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -44,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200045,
         "sg:id":"SG_2tKdjmUSNkSG48eMA2vrTI_26.410730_-80.076091@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"89eef4f2f2edda06de5c84f7ef5504c1",
+    "wof:geomhash":"c36d7c7f25d8831b98df5793c738521c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,8 +72,8 @@
         }
     ],
     "wof:id":386928073,
-    "wof:lastmodified":1472615871,
-    "wof:name":"Sports Immortals",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Sports Immortals Museum",
     "wof:parent_id":85825079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -75,10 +87,10 @@
     ]
 },
   "bbox": [
-    -80.076091,
-    26.41073,
-    -80.076091,
-    26.41073
+    -80.07623,
+    26.40955,
+    -80.07623,
+    26.40955
 ],
-  "geometry": {"coordinates":[-80.07609100000001,26.41073],"type":"Point"}
+  "geometry": {"coordinates":[-80.07623,26.40955],"type":"Point"}
 }

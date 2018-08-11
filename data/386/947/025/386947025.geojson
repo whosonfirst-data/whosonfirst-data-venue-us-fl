@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258797,25.751458,-80.258797,25.751458",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.258797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2222 Ponce de Leon Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2utt4P3TEmOgwmqwBUsk25_25.751458_-80.258797@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8d913936d6734dec77fe32169b8c981",
+    "wof:geomhash":"60bffa63e66f0d6997547e52aebcf7a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":386947025,
-    "wof:lastmodified":1472615880,
+    "wof:lastmodified":1533949276,
     "wof:name":"Elliott McKiever and Stowe",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639364057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

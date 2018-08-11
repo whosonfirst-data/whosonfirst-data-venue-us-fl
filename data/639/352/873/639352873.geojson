@@ -7,6 +7,7 @@
     "addr:postcode":"33401",
     "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-80.05564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Palm St",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461293083,
-    "wof:geomhash":"5d9fe84ef2f2e2ca205f251ca8270fae",
+    "wof:geomhash":"e210e0ff5e599ffdccb19ce005c2f016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":639352873,
-    "wof:lastmodified":1491921820,
+    "wof:lastmodified":1533949274,
     "wof:name":"Cunningham & Durrance",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202421165
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

@@ -7,6 +7,7 @@
     "addr:postcode":"32707",
     "addr:street":"State Road 436",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.319772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1291 State Road 436",
     "sg:city":"Casselberry",
     "sg:classifiers":[],
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":656041295,
-    "wof:lastmodified":1512143008,
+    "wof:lastmodified":1533949254,
     "wof:name":"McDonald's",
     "wof:parent_id":85889927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656042461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

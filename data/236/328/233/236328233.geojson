@@ -7,6 +7,7 @@
     "addr:postcode":"33317",
     "addr:street":"W Broward Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254075,26.120739,-80.254075,26.120739",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.254075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8000 W Broward Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0aAObKCtu8hePWipkOAN53_26.120739_-80.254075@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"415bc7a90f1a0b78a571f253fa164139",
+    "wof:geomhash":"d0510b63f6e6fb55e49cd10c317fda14",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":236328233,
-    "wof:lastmodified":1472615184,
+    "wof:lastmodified":1533949219,
     "wof:name":"Foot Locker",
     "wof:parent_id":85896121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219416267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

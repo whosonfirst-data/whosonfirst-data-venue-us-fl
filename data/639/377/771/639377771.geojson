@@ -2,18 +2,24 @@
   "id": 639377771,
   "type": "Feature",
   "properties": {
-    "addr:full":"2505 1st St Fort Myers FL 33901",
+    "addr:city":"Fort Myers",
+    "addr:full":"2505 First Street Fort Myers, Fl 33901",
+    "addr:house_number":"2505",
     "addr:housenumber":"2505",
+    "addr:phone":"+1 239-337-9505",
     "addr:postcode":"33901",
+    "addr:road":"First Street",
+    "addr:state":"FL",
     "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.865575,26.646808,-81.865575,26.646808",
-    "geom:latitude":26.646808,
-    "geom:longitude":-81.865575,
+    "geom:bbox":"-81.86539,26.64693,-81.86539,26.64693",
+    "geom:latitude":26.64693,
+    "geom:longitude":-81.86539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2505 1st St",
     "sg:city":"Fort Myers",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533509,
+        102533563
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200222,
         "sg:id":"SG_7mROg7JL5N63F7OAij2LCd_26.646808_-81.865575@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461293592,
-    "wof:geomhash":"9b4e9c5d75905c565011451e5103ac6e",
+    "wof:geomhash":"f30406fb4c360bc67cbb477e51ac14ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":639377771,
-    "wof:lastmodified":1472617740,
-    "wof:name":"Fort Myers Burroughs Home",
+    "wof:lastmodified":1533949351,
+    "wof:name":"Fort Myers - Burroughs Home",
     "wof:parent_id":85889257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -81.865575,
-    26.646808,
-    -81.865575,
-    26.646808
+    -81.86539,
+    26.64693,
+    -81.86539,
+    26.64693
 ],
-  "geometry": {"coordinates":[-81.86557500000001,26.646808],"type":"Point"}
+  "geometry": {"coordinates":[-81.86539,26.64693],"type":"Point"}
 }

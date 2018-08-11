@@ -7,6 +7,7 @@
     "addr:postcode":"32953",
     "addr:street":"N Courtenay Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.705524,28.402524,-80.705524,28.402524",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.705524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2460 N Courtenay Pkwy",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3OkMsrnp0ZrcPH373mv8Hz_28.402524_-80.705524@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"df8ed14a853753963197022e9be31b50",
+    "wof:geomhash":"5832c12dcece00c46b7a42ca7fc1adc4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":270110229,
-    "wof:lastmodified":1472614660,
+    "wof:lastmodified":1533949246,
     "wof:name":"Nurse Staffing Merritt Island",
     "wof:parent_id":85889167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638720195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

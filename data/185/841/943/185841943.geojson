@@ -2,18 +2,24 @@
   "id": 185841943,
   "type": "Feature",
   "properties": {
-    "addr:full":"1819 Taylor Rd Port Orange FL 32128",
+    "addr:city":"Port Orange",
+    "addr:full":"1819 Taylor Rd Port Orange, Fl 32128",
+    "addr:house_number":"1819",
     "addr:housenumber":"1819",
+    "addr:phone":"+1 386-788-3234",
     "addr:postcode":"32128",
+    "addr:road":"Taylor Rd",
+    "addr:state":"FL",
     "addr:street":"Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.056448,29.084278,-81.056448,29.084278",
-    "geom:latitude":29.084278,
-    "geom:longitude":-81.056448,
+    "geom:bbox":"-81.04862,29.08869,-81.04862,29.08869",
+    "geom:latitude":29.08869,
+    "geom:longitude":-81.04862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1819 Taylor Rd",
     "sg:city":"Port Orange",
     "sg:classifiers":[
@@ -27,17 +33,21 @@
     "sg:phone":"+1 386 788 3234",
     "sg:postcode":"32128",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525923
+    ],
     "wof:belongsto":[
         85633793,
         85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200120,
         "sg:id":"SG_3nkPIwL209zRVnts454R1i_29.084278_-81.056448@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"91b81622763f411c6a9253aa44077c27",
+    "wof:geomhash":"e6461f27c84a08205f4d75bad2f8cf69",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +59,7 @@
         }
     ],
     "wof:id":185841943,
-    "wof:lastmodified":1472614551,
+    "wof:lastmodified":1533949352,
     "wof:name":"Museum Center At Spruce Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.056448,
-    29.084278,
-    -81.056448,
-    29.084278
+    -81.04862,
+    29.08869,
+    -81.04862,
+    29.08869
 ],
-  "geometry": {"coordinates":[-81.056448,29.084278],"type":"Point"}
+  "geometry": {"coordinates":[-81.04862,29.08869],"type":"Point"}
 }

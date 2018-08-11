@@ -7,6 +7,7 @@
     "addr:postcode":"33410",
     "addr:street":"Burns Rd;Beach Gdns",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083145,26.830558,-80.083145,26.830558",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.083145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3365 Burns Rd",
     "sg:city":"Palm Beach Gdns",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_79xCjvYD6hBYlvcEqD1JRC_26.830558_-80.083145@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b90da7cca94319ed769e47056e1f7ce0",
+    "wof:geomhash":"63f30c8aa7581a9a570adbb9886b226b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":353743847,
-    "wof:lastmodified":1472615258,
+    "wof:lastmodified":1533949249,
     "wof:name":"Mays & Schry Dental",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655917609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

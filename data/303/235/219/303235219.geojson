@@ -7,6 +7,7 @@
     "addr:postcode":"33606",
     "addr:street":"S Howard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.482959,27.936303,-82.482959,27.936303",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.482959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 S Howard Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3JJMM87N7IFIOKyfakg8dh_27.936303_-82.482959@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c3c4732d0da355caed984e8cccbbf18",
+    "wof:geomhash":"74133ea95d15e5d93967387719349449",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":303235219,
-    "wof:lastmodified":1472614855,
+    "wof:lastmodified":1533949343,
     "wof:name":"Wiskey Park",
     "wof:parent_id":85873289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656268947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

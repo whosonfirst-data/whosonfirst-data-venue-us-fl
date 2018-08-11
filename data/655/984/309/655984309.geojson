@@ -7,6 +7,7 @@
     "addr:postcode":"32940",
     "addr:street":"N Wickham Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.696889,28.230974,-80.696889,28.230974",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.696889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7720 N Wickham Rd",
     "sg:city":"Melbourne",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461620648,
-    "wof:geomhash":"d50546707ef9e125d309a9ae0eb099bd",
+    "wof:geomhash":"99a15d78ae96283b06afb4db572c8931",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":655984309,
-    "wof:lastmodified":1472616830,
+    "wof:lastmodified":1533949267,
     "wof:name":"Toyo Sushi",
     "wof:parent_id":85849935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656095873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sushi",

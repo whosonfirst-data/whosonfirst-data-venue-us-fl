@@ -2,18 +2,23 @@
   "id": 656065375,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Holt Ave Winter Park FL 32789",
+    "addr:city":"Winter Park",
+    "addr:full":"1000 Holt Avenue Winter Park, Fl 32789",
+    "addr:house_number":"1000",
     "addr:housenumber":"1000",
     "addr:postcode":"32789",
+    "addr:road":"Holt Avenue",
+    "addr:state":"FL",
     "addr:street":"Holt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.348626,28.592562,-81.348626,28.592562",
-    "geom:latitude":28.592562,
-    "geom:longitude":-81.348626,
+    "geom:bbox":"-81.35578,28.59844,-81.35578,28.59844",
+    "geom:latitude":28.59844,
+    "geom:longitude":-81.35578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1000 Holt Ave",
     "sg:city":"Winter Park",
     "sg:classifiers":[
@@ -28,7 +33,12 @@
     "sg:postcode":"32789",
     "sg:province":"FL",
     "sg:website":"www.rollins.edu/cfam/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102521829,
+        102533551,
+        102533657
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503002,
         "sg:id":"SG_1lv510QucOIrKXmgm9idTh_28.592562_-81.348626@1303262662"
     },
     "wof:country":"US",
     "wof:created":1461624454,
-    "wof:geomhash":"ce6b6d2912e27936146c8f71b9511a29",
+    "wof:geomhash":"74a53e0cedf5144168dd1501f4fc15ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +67,7 @@
         }
     ],
     "wof:id":656065375,
-    "wof:lastmodified":1472616616,
+    "wof:lastmodified":1533949352,
     "wof:name":"Cornell Fine Arts Museum",
     "wof:parent_id":420515543,
     "wof:placetype":"venue",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.348626,
-    28.592562,
-    -81.348626,
-    28.592562
+    -81.35578,
+    28.59844,
+    -81.35578,
+    28.59844
 ],
-  "geometry": {"coordinates":[-81.348626,28.592562],"type":"Point"}
+  "geometry": {"coordinates":[-81.35578,28.59844],"type":"Point"}
 }

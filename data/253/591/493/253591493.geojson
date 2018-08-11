@@ -7,6 +7,7 @@
     "addr:postcode":"32246",
     "addr:street":"Leon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.536258,30.298553,-81.536258,30.298553",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.536258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3115 Leon Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4oJjjsS1QnoWnn8hTemuO3_30.298553_-81.536258@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"288a00e8da18d568e62ed0480418bc28",
+    "wof:geomhash":"ccddd2e5912a4eb7cf7688b291952006",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":253591493,
-    "wof:lastmodified":1472615641,
+    "wof:lastmodified":1533949248,
     "wof:name":"Cyco Cycle Inc",
     "wof:parent_id":85805281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656014169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"

@@ -2,17 +2,22 @@
   "id": 169622049,
   "type": "Feature",
   "properties": {
-    "addr:full":"4820 Bayshore Dr Naples FL 34112",
+    "addr:city":"Naples",
+    "addr:full":"4820 Bayshore Dr Naples, Fl 34112-7336",
+    "addr:house_number":"4820",
     "addr:housenumber":"4820",
-    "addr:postcode":"34112",
+    "addr:phone":"+1 239-643-7275",
+    "addr:postcode":"34112-7336",
+    "addr:road":"Bayshore Dr",
+    "addr:state":"FL",
     "addr:street":"Bayshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.770391,26.107736,-81.770391,26.107736",
-    "geom:latitude":26.107736,
-    "geom:longitude":-81.770391,
+    "geom:bbox":"-81.77041,26.10833,-81.77041,26.10833",
+    "geom:latitude":26.10833,
+    "geom:longitude":-81.77041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -35,18 +40,23 @@
         "organization"
     ],
     "sg:website":"www.naplesgarden.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525043,
+        102533891
+    ],
     "wof:belongsto":[
         85633793,
         85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201167,
         "osm:node":2145971159,
         "sg:id":"SG_6R6hFsCSH2pUyarzCMLKWo_26.107736_-81.770391@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee5e20fc408820b939e3b4a044f644ad",
+    "wof:geomhash":"4abaff47bf4f79cacba78e3531c558f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":169622049,
-    "wof:lastmodified":1510942098,
+    "wof:lastmodified":1533949353,
     "wof:name":"Naples Botanical Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -81.770391,
-    26.107736,
-    -81.770391,
-    26.107736
+    -81.77041,
+    26.10833,
+    -81.77041,
+    26.10833
 ],
-  "geometry": {"coordinates":[-81.770391,26.107736],"type":"Point"}
+  "geometry": {"coordinates":[-81.77041,26.10833],"type":"Point"}
 }

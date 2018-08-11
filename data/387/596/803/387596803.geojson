@@ -2,18 +2,24 @@
   "id": 387596803,
   "type": "Feature",
   "properties": {
-    "addr:full":"255 Live Oak Dr Vero Beach FL 32963",
+    "addr:city":"Vero Beach",
+    "addr:full":"255 Live Oak Dr Vero Beach, Fl 32963",
+    "addr:house_number":"255",
     "addr:housenumber":"255",
+    "addr:phone":"+1 772-589-5050",
     "addr:postcode":"32963",
+    "addr:road":"Live Oak Dr",
+    "addr:state":"FL",
     "addr:street":"Live Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.414042,27.757173,-80.414042,27.757173",
-    "geom:latitude":27.757173,
-    "geom:longitude":-80.414042,
+    "geom:bbox":"-80.41104,27.75569,-80.41104,27.75569",
+    "geom:latitude":27.75569,
+    "geom:longitude":-80.41104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"255 Live Oak Dr",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
     "sg:phone":"+1 772 589 5050",
     "sg:postcode":"32963",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527921
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201291,
         "sg:id":"SG_6VwrELhCdGoRmQhpdnR4GU_27.757173_-80.414042@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"14b948732153c89572e3db7ac48727b8",
+    "wof:geomhash":"d8b8b9b602939ab82c5ada404e747e52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":387596803,
-    "wof:lastmodified":1472616031,
+    "wof:lastmodified":1533949353,
     "wof:name":"Environmental Learning Center",
     "wof:parent_id":85889875,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.414042,
-    27.757173,
-    -80.414042,
-    27.757173
+    -80.41104,
+    27.75569,
+    -80.41104,
+    27.75569
 ],
-  "geometry": {"coordinates":[-80.41404199999999,27.757173],"type":"Point"}
+  "geometry": {"coordinates":[-80.41104,27.75569],"type":"Point"}
 }

@@ -2,18 +2,23 @@
   "id": 387262871,
   "type": "Feature",
   "properties": {
-    "addr:full":"3978 Hanover Cir Loxahatchee FL 33470",
+    "addr:city":"Loxahatchee",
+    "addr:full":"3978 Hanover Cir Loxahatchee, Fl 33470",
+    "addr:house_number":"3978",
     "addr:housenumber":"3978",
     "addr:postcode":"33470",
+    "addr:road":"Hanover Cir",
+    "addr:state":"FL",
     "addr:street":"Hanover Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.347334,26.72886,-80.347334,26.72886",
-    "geom:latitude":26.72886,
-    "geom:longitude":-80.347334,
+    "geom:bbox":"-80.3495,26.72845,-80.3495,26.72845",
+    "geom:latitude":26.72845,
+    "geom:longitude":-80.3495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3978 Hanover Cir",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -30,17 +35,19 @@
     "sg:tags":[
         "stable"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85633793,
         85688651
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502649,
         "sg:id":"SG_5wgXzF8JITLUvLci0qA75J_26.728860_-80.347334@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b29cb01537e3e902e3913f55c8cd105",
+    "wof:geomhash":"6824116577f405a91a2d211b83be9eca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387262871,
-    "wof:lastmodified":1472615986,
+    "wof:lastmodified":1533949353,
     "wof:name":"White Fences Equestrian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -64,10 +71,10 @@
     ]
 },
   "bbox": [
-    -80.347334,
-    26.72886,
-    -80.347334,
-    26.72886
+    -80.3495,
+    26.72845,
+    -80.3495,
+    26.72845
 ],
-  "geometry": {"coordinates":[-80.347334,26.72886],"type":"Point"}
+  "geometry": {"coordinates":[-80.34950000000001,26.72845],"type":"Point"}
 }

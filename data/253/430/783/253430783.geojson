@@ -7,6 +7,7 @@
     "addr:postcode":"33064",
     "addr:street":"N Federal Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.098096,26.270749,-80.098096,26.270749",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.098096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3170 N Federal Hwy",
     "sg:city":"Lighthouse Point",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_22giL2gvPgkz4zolCCYDDw_26.270749_-80.098096@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b9f4a57b45d67797678b9e054a240bc",
+    "wof:geomhash":"09ff2d825f78acb91708e03e2baa128f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":253430783,
-    "wof:lastmodified":1472615480,
+    "wof:lastmodified":1533949240,
     "wof:name":"Bateman & Co Realtors",
     "wof:parent_id":85830479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639012527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

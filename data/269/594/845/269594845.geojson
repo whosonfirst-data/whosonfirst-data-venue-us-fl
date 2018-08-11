@@ -7,6 +7,7 @@
     "addr:postcode":"34769",
     "addr:street":"13Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.275664,28.246124,-81.275664,28.246124",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.275664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"602 13th St",
     "sg:city":"St Cloud",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0lnHbYm3NB7DrKVO6WOOhX_28.246124_-81.275664@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c378f9b2399c13be0578b043997b48b1",
+    "wof:geomhash":"5e67487e47f49ddbe1d97f17afeeee85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":269594845,
-    "wof:lastmodified":1472614848,
+    "wof:lastmodified":1533949236,
     "wof:name":"Budget Inn",
     "wof:parent_id":85889519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353978723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

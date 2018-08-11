@@ -7,6 +7,7 @@
     "addr:postcode":"33607",
     "addr:street":"N West Shore Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.524066,27.954345,-82.524066,27.954345",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.524066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 N West Shore Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7gLMpzvPLhYKigoqfVrNX7_27.954345_-82.524066@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8eb4a3701fbd573eef45a5401d2d669",
+    "wof:geomhash":"72ed8638dd38e9ffaca7450ea8d713c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":403892949,
-    "wof:lastmodified":1472616319,
+    "wof:lastmodified":1533949238,
     "wof:name":"Signature Concepts",
     "wof:parent_id":85889687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370636761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "demonstration"

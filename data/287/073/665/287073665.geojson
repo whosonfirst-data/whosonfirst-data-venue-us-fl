@@ -7,6 +7,7 @@
     "addr:postcode":"34239",
     "addr:street":"S East Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527734,27.322525,-82.527734,27.322525",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.527734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1219 S East Ave",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6stXQ3cvTonUnBeOwDkhc4_27.322525_-82.527734@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8ccb2b946b0eb1595c61747c4a1e489",
+    "wof:geomhash":"5878f0bdd6e65f453375995f6ced9be9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":287073665,
-    "wof:lastmodified":1472614370,
+    "wof:lastmodified":1533949270,
     "wof:name":"Eye Care Associates",
     "wof:parent_id":85847153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639335483
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

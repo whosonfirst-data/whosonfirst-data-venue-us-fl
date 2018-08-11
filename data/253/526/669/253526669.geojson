@@ -7,6 +7,7 @@
     "addr:postcode":"33149",
     "addr:street":"Crandon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.162394,25.699138,-80.162394,25.699138",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.162394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"240 Crandon Blvd",
     "sg:city":"Key Biscayne",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_3TydGpVHVgcjXSRYxBxztF_25.699138_-80.162394@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e0b6bd7f0e309fcf80669e455327030",
+    "wof:geomhash":"85fc7a64b9d0b096b3120d4172dea9b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":253526669,
-    "wof:lastmodified":1472615585,
+    "wof:lastmodified":1533949227,
     "wof:name":"Popov Engineers Nwg Inc",
     "wof:parent_id":85888959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253229749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

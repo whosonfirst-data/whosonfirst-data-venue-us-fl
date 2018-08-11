@@ -7,6 +7,7 @@
     "addr:postcode":"34994",
     "addr:street":"Se Central Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247437,27.180948,-80.247437,27.180948",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.247437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10 SE Central Pkwy",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_6mM2vaVeqV6jGl2oybxjLo_27.180948_-80.247437@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e40748cb8bd12f19c97745320c1f02b7",
+    "wof:geomhash":"e0187be75f80dca571bba6f6254cd6db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":320538283,
-    "wof:lastmodified":1472615688,
+    "wof:lastmodified":1533949244,
     "wof:name":"Robert A Kutner",
     "wof:parent_id":85889629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638687081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"

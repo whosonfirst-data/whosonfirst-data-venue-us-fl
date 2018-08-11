@@ -2,18 +2,24 @@
   "id": 639044427,
   "type": "Feature",
   "properties": {
-    "addr:full":"507 Kumquat Ct Sarasota FL 34236",
+    "addr:city":"Sarasota",
+    "addr:full":"507 Kumquat Court Sarasota, Fl 34230-0398",
+    "addr:house_number":"507",
     "addr:housenumber":"507",
-    "addr:postcode":"34236",
+    "addr:phone":"+1 941-365-3759",
+    "addr:postcode":"34230-0398",
+    "addr:road":"Kumquat Court",
+    "addr:state":"FL",
     "addr:street":"Kumquat Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.540214,27.340393,-82.540214,27.340393",
-    "geom:latitude":27.340393,
-    "geom:longitude":-82.540214,
+    "geom:bbox":"-82.53742,27.33503,-82.53742,27.33503",
+    "geom:latitude":27.33503,
+    "geom:longitude":-82.53742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"507 Kumquat Ct",
     "sg:city":"Sarasota",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "organization",
         "welfare"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527435
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201118,
         "sg:id":"SG_54uYfwh2ZwbBQdBK9KhH5l_27.340393_-82.540214@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461286145,
-    "wof:geomhash":"d86203859ab76194a49d07e1a3976cd1",
+    "wof:geomhash":"317244736e944591dc132227209514fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":639044427,
-    "wof:lastmodified":1472616182,
-    "wof:name":"Resurrection House Inc",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Resurrection House",
     "wof:parent_id":85889575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -82.540214,
-    27.340393,
-    -82.540214,
-    27.340393
+    -82.53742,
+    27.33503,
+    -82.53742,
+    27.33503
 ],
-  "geometry": {"coordinates":[-82.54021400000001,27.340393],"type":"Point"}
+  "geometry": {"coordinates":[-82.53742,27.33503],"type":"Point"}
 }

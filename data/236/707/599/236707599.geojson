@@ -7,6 +7,7 @@
     "addr:postcode":"32801",
     "addr:street":"E Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.374293,28.541409,-81.374293,28.541409",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.374293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 E Pine St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_6cQ7kb6IVpP6MwdJoOqTKL_28.541409_-81.374293@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b3000576dcbed940bde2d7b7749efa9",
+    "wof:geomhash":"65f72c6af6fbafd737ef3a3891ffd737",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":236707599,
-    "wof:lastmodified":1472615661,
+    "wof:lastmodified":1533949235,
     "wof:name":"Raymond James",
     "wof:parent_id":85879515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320861761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security",

@@ -7,6 +7,7 @@
     "addr:postcode":"34472",
     "addr:street":"Emerald Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.983194,29.085285,-81.983194,29.085285",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.983194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"484 Emerald Rd",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5AF99kZrmUEyICjc6m9MCx_29.085285_-81.983194@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"af3001d2b5f604168174d27a88dfbd60",
+    "wof:geomhash":"381a74ebb524218d756139a784923c9b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":186532041,
-    "wof:lastmodified":1472615181,
+    "wof:lastmodified":1533949350,
     "wof:name":"Iglesia Nuevo Horizonte",
     "wof:parent_id":85848765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656319277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

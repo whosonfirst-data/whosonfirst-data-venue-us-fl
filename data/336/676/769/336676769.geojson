@@ -2,18 +2,24 @@
   "id": 336676769,
   "type": "Feature",
   "properties": {
-    "addr:full":"2000 NE Jensen Beach Blvd Jensen Beach FL 34957",
+    "addr:city":"Jensen Beach",
+    "addr:full":"2000 Ne Jensen Beach Blvd Jensen Beach, Fl 34957",
+    "addr:house_number":"2000",
     "addr:housenumber":"2000",
+    "addr:phone":"+1 772-225-3200",
     "addr:postcode":"34957",
+    "addr:road":"Ne Jensen Beach Blvd",
+    "addr:state":"FL",
     "addr:street":"Ne Jensen Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.225689,27.244251,-80.225689,27.244251",
-    "geom:latitude":27.244251,
-    "geom:longitude":-80.225689,
+    "geom:bbox":"-80.22604,27.24414,-80.22604,27.24414",
+    "geom:latitude":27.24414,
+    "geom:longitude":-80.22604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2000 NE Jensen Beach Blvd",
     "sg:city":"Jensen Beach",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 772 225 3200",
     "sg:postcode":"34957",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530923
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200250,
         "sg:id":"SG_5zZ0jaMmauaXm8d07WYf6w_27.244251_-80.225689@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"769ba7a8470c437b79e541788fb6ef0f",
+    "wof:geomhash":"c3cea9aad5370ecd52b67424c32cdb34",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":336676769,
-    "wof:lastmodified":1472614484,
-    "wof:name":"Art War & Peace Museum",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Art War And Peace Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.225689,
-    27.244251,
-    -80.225689,
-    27.244251
+    -80.22604,
+    27.24414,
+    -80.22604,
+    27.24414
 ],
-  "geometry": {"coordinates":[-80.225689,27.244251],"type":"Point"}
+  "geometry": {"coordinates":[-80.22604,27.24414],"type":"Point"}
 }

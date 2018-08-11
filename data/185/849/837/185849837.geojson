@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258479,25.747143,-80.258479,25.747143",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.258479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2605 Ponce de Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0Et5ebq8HsQ9WkHh2y07fV_25.747143_-80.258479@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e136ada12b9bf5b5fc06828743e6e3de",
+    "wof:geomhash":"cc35c39e5ceb1773bbcfa773b42ec3d9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":185849837,
-    "wof:lastmodified":1472614554,
+    "wof:lastmodified":1533949329,
     "wof:name":"Jonathan Drucker Pa",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656157617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

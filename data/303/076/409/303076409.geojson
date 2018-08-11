@@ -7,6 +7,7 @@
     "addr:postcode":"33301",
     "addr:street":"E Broward Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140385,26.122216,-80.140385,26.122216",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.140385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 E Broward Blvd",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_59xfHVw30HDZ2HBTv6nXmG_26.122216_-80.140385@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"817da4d007acd345bc572c62e65ab794",
+    "wof:geomhash":"f1ffee3687db7e356ddf3149c69ac0c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":303076409,
-    "wof:lastmodified":1472614269,
+    "wof:lastmodified":1533949270,
     "wof:name":"VSL Pharmaceuticals",
     "wof:parent_id":85877495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639330215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pharmaceutical",

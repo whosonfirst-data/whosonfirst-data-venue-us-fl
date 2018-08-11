@@ -7,6 +7,7 @@
     "addr:postcode":"33122",
     "addr:street":"Nw 25",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324011,25.796906,-80.324011,25.796906",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.324011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7800 NW 25 St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461627140,
-    "wof:geomhash":"59ec56b39759fe594679dfebe886ac23",
+    "wof:geomhash":"c768e49b258e118ba6c77529838d3d83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":656123119,
-    "wof:lastmodified":1472616896,
+    "wof:lastmodified":1533949274,
     "wof:name":"Doral Billiards & Sports Bar",
     "wof:parent_id":85833933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656123741
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hall",

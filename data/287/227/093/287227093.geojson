@@ -7,6 +7,7 @@
     "addr:postcode":"33157",
     "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.353811,25.599676,-80.353811,25.599676",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.353811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18300 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_3gTPGpwxxRWLRpvbWhMwGq_25.599676_-80.353811@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"07441d5f685f789c401039e78e0ac7d8",
+    "wof:geomhash":"36e4169715de8399b91ae212170373c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":287227093,
-    "wof:lastmodified":1472614705,
+    "wof:lastmodified":1533949339,
     "wof:name":"Boat Center",
     "wof:parent_id":85841337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656203369
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

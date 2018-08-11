@@ -2,19 +2,25 @@
   "id": 303700505,
   "type": "Feature",
   "properties": {
-    "addr:full":"255 Beach Dr NE St Petersburg FL 33701",
+    "addr:city":"St Petersburg",
+    "addr:full":"255 Beach Drive Ne St Petersburg, Fl 33701-3498",
+    "addr:house_number":"255",
     "addr:housenumber":"255",
-    "addr:postcode":"33701",
+    "addr:phone":"+1 727-896-2667",
+    "addr:postcode":"33701-3498",
+    "addr:road":"Beach Drive Ne",
+    "addr:state":"FL",
     "addr:street":"Beach Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.632497,27.774169,-82.632497,27.774169",
-    "geom:latitude":27.774169,
-    "geom:longitude":-82.632497,
+    "geom:bbox":"-82.63244,27.7743,-82.63244,27.7743",
+    "geom:latitude":27.7743,
+    "geom:longitude":-82.63244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"255 Beach Dr NE",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -29,7 +35,13 @@
     "sg:postcode":"33701",
     "sg:province":"FL",
     "sg:website":"www.fine-arts.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526319,
+        102533243,
+        102533325,
+        102533907
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -40,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200121,
         "sg:id":"SG_28Vt8MPNpBYVjyHGqddfQX_27.774169_-82.632497@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"8248251f3e9e5cdf13b30591626995e7",
+    "wof:geomhash":"483426a0745bbda62f5b581439d719c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +69,7 @@
         }
     ],
     "wof:id":303700505,
-    "wof:lastmodified":1491938324,
+    "wof:lastmodified":1533949352,
     "wof:name":"Museum Of Fine Arts",
     "wof:parent_id":85889527,
     "wof:placetype":"venue",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.632497,
-    27.774169,
-    -82.632497,
-    27.774169
+    -82.63244,
+    27.7743,
+    -82.63244,
+    27.7743
 ],
-  "geometry": {"coordinates":[-82.632497,27.774169],"type":"Point"}
+  "geometry": {"coordinates":[-82.63244,27.7743],"type":"Point"}
 }

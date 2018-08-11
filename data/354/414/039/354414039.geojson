@@ -7,6 +7,7 @@
     "addr:postcode":"32202",
     "addr:street":"W Duval St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.659583,30.329854,-81.659583,30.329854",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.659583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"117 W Duval St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1T2AsrAS28RIeScN7wjmnY_30.329854_-81.659583@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"901d4d6274846ee7eab76cfacb59073a",
+    "wof:geomhash":"36a65064f143ff6b75899d215b6f0aca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":354414039,
-    "wof:lastmodified":1472614966,
+    "wof:lastmodified":1533949221,
     "wof:name":"Jacksonville General Counsel",
     "wof:parent_id":85888915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202969205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city",

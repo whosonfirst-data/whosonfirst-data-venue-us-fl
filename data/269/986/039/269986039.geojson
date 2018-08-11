@@ -7,6 +7,7 @@
     "addr:postcode":"32501",
     "addr:street":"N E St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.229552,30.430467,-87.229552,30.430467",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.229552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1717 N E St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5oM0PnbfquRs4EcQoiaK2q_30.430467_-87.229552@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"dcc5675133520b8777378e115dc4081b",
+    "wof:geomhash":"0ee9b71c4df5b75589a5c66876d0a976",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":269986039,
-    "wof:lastmodified":1472615681,
+    "wof:lastmodified":1533949269,
     "wof:name":"Manning H Hanline Jr MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169716517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

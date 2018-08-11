@@ -7,6 +7,7 @@
     "addr:postcode":"33426",
     "addr:street":"S Congress Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089901,26.488452,-80.089901,26.488452",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.089901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 S Congress Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_37iOwWdfOhPH9CjYTZSNi3_26.488452_-80.089901@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa0b90d3fc70ea2816f8b8f5a4b7987b",
+    "wof:geomhash":"84eec9182e1b83ccd26e5999949d253f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":253472701,
-    "wof:lastmodified":1472615535,
+    "wof:lastmodified":1533949229,
     "wof:name":"MVP Sports & Screenprinting",
     "wof:parent_id":85810391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        270349725
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"

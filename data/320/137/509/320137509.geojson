@@ -7,6 +7,7 @@
     "addr:postcode":"33050",
     "addr:street":"Overseas Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.035672,24.729151,-81.035672,24.729151",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.035672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11090 Overseas Hwy",
     "sg:city":"Marathon",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4IwJR3KDQGl5BpsuqnkMZT_24.729151_-81.035672@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d350d91861fadc64a5ec3ba8a39365d",
+    "wof:geomhash":"e9e347dd1066f4d5feaf5aa3eeb0c1bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":320137509,
-    "wof:lastmodified":1472614775,
+    "wof:lastmodified":1533949263,
     "wof:name":"Deli",
     "wof:parent_id":85842163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655985503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"

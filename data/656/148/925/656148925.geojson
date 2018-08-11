@@ -7,6 +7,7 @@
     "addr:postcode":"33132",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187897,25.775299,-80.187897,25.775299",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.187897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628272,
-    "wof:geomhash":"35dd2f1b46ede6438b4e74a1cebcaa2b",
+    "wof:geomhash":"0bd6d9deb24798fb0f7af3003737d724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":656148925,
-    "wof:lastmodified":1472617068,
+    "wof:lastmodified":1533949327,
     "wof:name":"Law Offices of William F Fabra",
     "wof:parent_id":85896173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656147599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

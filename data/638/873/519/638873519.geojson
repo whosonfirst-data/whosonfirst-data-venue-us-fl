@@ -2,18 +2,24 @@
   "id": 638873519,
   "type": "Feature",
   "properties": {
-    "addr:full":"81 Lighthouse Ave Saint Augustine FL 32080",
+    "addr:city":"St Augustine",
+    "addr:full":"81 Lighthouse Ave St Augustine, Fl 32080-4650",
+    "addr:house_number":"81",
     "addr:housenumber":"81",
-    "addr:postcode":"32080",
+    "addr:phone":"+1 904-829-0745",
+    "addr:postcode":"32080-4650",
+    "addr:road":"Lighthouse Ave",
+    "addr:state":"FL",
     "addr:street":"Lighthouse Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.288379,29.886332,-81.288379,29.886332",
-    "geom:latitude":29.886332,
-    "geom:longitude":-81.288379,
+    "geom:bbox":"-81.28752,29.88551,-81.28752,29.88551",
+    "geom:latitude":29.88551,
+    "geom:longitude":-81.28752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"81 Lighthouse Ave",
     "sg:city":"Saint Augustine",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -41,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200999,
         "sg:id":"SG_5emprinaTrGD61FSWdcSFx_29.886332_-81.288379@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461282042,
-    "wof:geomhash":"8f8a234a2811f6ed657ea8d30b6f6489",
+    "wof:geomhash":"9c91f570fe20f5b55c1101f4b4a7789f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +66,8 @@
         }
     ],
     "wof:id":638873519,
-    "wof:lastmodified":1472617257,
-    "wof:name":"Saint Agstine Lghthouse Museum",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Saint Augustine Lighthouse And Museum",
     "wof:parent_id":85803071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -70,10 +78,10 @@
     ]
 },
   "bbox": [
-    -81.288379,
-    29.886332,
-    -81.288379,
-    29.886332
+    -81.28752,
+    29.88551,
+    -81.28752,
+    29.88551
 ],
-  "geometry": {"coordinates":[-81.28837900000001,29.886332],"type":"Point"}
+  "geometry": {"coordinates":[-81.28752,29.88551],"type":"Point"}
 }

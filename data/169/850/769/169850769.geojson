@@ -2,18 +2,24 @@
   "id": 169850769,
   "type": "Feature",
   "properties": {
-    "addr:full":"621 Industrial Dr Tallahassee FL 32310",
+    "addr:city":"Tallahassee",
+    "addr:full":"621 Industrial Dr Tallahassee, Fl 32310-4805",
+    "addr:house_number":"621",
     "addr:housenumber":"621",
-    "addr:postcode":"32310",
+    "addr:phone":"+1 850-224-6163",
+    "addr:postcode":"32310-4805",
+    "addr:road":"Industrial Dr",
+    "addr:state":"FL",
     "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.292126,30.433486,-84.292126,30.433486",
-    "geom:latitude":30.433486,
-    "geom:longitude":-84.292126,
+    "geom:bbox":"-84.29325,30.43344,-84.29325,30.43344",
+    "geom:latitude":30.43344,
+    "geom:longitude":-84.29325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"621 Industrial Dr",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "merchandise"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533179
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200882,
         "sg:id":"SG_1wPeoY3vFdKZgCI2Nwlij5_30.433486_-84.292126@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb0b30cce2fc89a1e6575d149b337df4",
+    "wof:geomhash":"b1c838592926bc7450c88f7b1fd3c776",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":169850769,
-    "wof:lastmodified":1472614641,
+    "wof:lastmodified":1533949352,
     "wof:name":"621 Gallery",
     "wof:parent_id":85881325,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -84.292126,
-    30.433486,
-    -84.292126,
-    30.433486
+    -84.29325,
+    30.43344,
+    -84.29325,
+    30.43344
 ],
-  "geometry": {"coordinates":[-84.292126,30.433486],"type":"Point"}
+  "geometry": {"coordinates":[-84.29325,30.43344],"type":"Point"}
 }

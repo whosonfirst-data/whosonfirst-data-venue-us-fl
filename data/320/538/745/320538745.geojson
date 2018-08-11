@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259097,25.762069,-80.259097,25.762069",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.259097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 Ponce de Leon Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6IjH3KzGf38SG9Ztgv1XUz_25.762069_-80.259097@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"145874ee35ea74f3adaf7f885c79de9b",
+    "wof:geomhash":"68d432af511309b7a0442ee42957d236",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,15 @@
         }
     ],
     "wof:id":320538745,
-    "wof:lastmodified":1472615699,
+    "wof:lastmodified":1533949333,
     "wof:name":"Feiler Leach & McCarron LLP",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219596297,
+        656155777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

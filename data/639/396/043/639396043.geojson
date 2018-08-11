@@ -2,18 +2,23 @@
   "id": 639396043,
   "type": "Feature",
   "properties": {
-    "addr:full":"6866 Caroline St Milton FL 32570",
+    "addr:city":"Milton",
+    "addr:full":"6866 Caroline St Milton, Fl 32570-2201",
+    "addr:house_number":"6866",
     "addr:housenumber":"6866",
-    "addr:postcode":"32570",
+    "addr:postcode":"32570-2201",
+    "addr:road":"Caroline St",
+    "addr:state":"FL",
     "addr:street":"Caroline St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.036325,30.623186,-87.036325,30.623186",
-    "geom:latitude":30.623186,
-    "geom:longitude":-87.036325,
+    "geom:bbox":"-87.03689,30.62282,-87.03689,30.62282",
+    "geom:latitude":30.62282,
+    "geom:longitude":-87.03689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6866 Caroline St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -27,18 +32,22 @@
     "sg:phone":"+1 850 626 9830",
     "sg:postcode":"32570",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529397
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200413,
         "sg:id":"SG_7kdueJ0M9sscj5hz9xTtbC_30.623186_-87.036325@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461294028,
-    "wof:geomhash":"b0c45a74ae44032cc5b675566c03db52",
+    "wof:geomhash":"e38af5cd121652a39fed3fad3c78d550",
     "wof:hierarchy":[],
     "wof:id":639396043,
-    "wof:lastmodified":1472617743,
+    "wof:lastmodified":1533949351,
     "wof:name":"Santa Rosa Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.036325,
-    30.623186,
-    -87.036325,
-    30.623186
+    -87.03689,
+    30.62282,
+    -87.03689,
+    30.62282
 ],
-  "geometry": {"coordinates":[-87.03632500000001,30.623186],"type":"Point"}
+  "geometry": {"coordinates":[-87.03689,30.62282],"type":"Point"}
 }

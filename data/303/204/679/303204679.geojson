@@ -7,6 +7,7 @@
     "addr:postcode":"33411",
     "addr:street":"Royal Palm Beach Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230156,26.68464,-80.230156,26.68464",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.230156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"675 Royal Palm Beach Blvd",
     "sg:city":"West Palm Beach",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7hobyJIrxtNdQvKOjJjRno_26.684640_-80.230156@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f3e238d8913397da7437b0a820324d7",
+    "wof:geomhash":"af1f4851ac815fa294f22133de641d6e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303204679,
-    "wof:lastmodified":1472614741,
+    "wof:lastmodified":1533949248,
     "wof:name":"Royal Palm Beach Shopping Plz",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655914179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shopping",

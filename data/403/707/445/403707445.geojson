@@ -7,6 +7,7 @@
     "addr:postcode":"32209",
     "addr:street":"W 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.6628,30.346463,-81.6628,30.346463",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.6628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"655 W 8th St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0TDkvvsqwr0ZYxPzY39SdI_30.346463_-81.662800@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b9b58f71cf17a93201c6901e2154a3f",
+    "wof:geomhash":"861e0c1c418f31b105e52fc5ca332ecb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":403707445,
-    "wof:lastmodified":1472616099,
+    "wof:lastmodified":1533949248,
     "wof:name":"Shands Jacksonville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656009821
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

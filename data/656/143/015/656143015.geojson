@@ -2,18 +2,24 @@
   "id": 656143015,
   "type": "Feature",
   "properties": {
-    "addr:full":"190 SE 12th Ter Miami FL 33131",
+    "addr:city":"Miami",
+    "addr:full":"190 Se 12Th Ter Miami, Fl 33131-3204",
+    "addr:house_number":"190",
     "addr:housenumber":"190",
-    "addr:postcode":"33131",
+    "addr:phone":"+1 305-358-9572",
+    "addr:postcode":"33131-3204",
+    "addr:road":"Se 12Th Ter",
+    "addr:state":"FL",
     "addr:street":"Se 12Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.190012,25.761404,-80.190012,25.761404",
-    "geom:latitude":25.761404,
-    "geom:longitude":-80.190012,
+    "geom:bbox":"-80.19006,25.76116,-80.19006,25.76116",
+    "geom:latitude":25.76116,
+    "geom:longitude":-80.19006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"190 SE 12th Ter",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -31,7 +37,12 @@
         "trust"
     ],
     "sg:website":"http://www.dadeheritagetrust.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102530161,
+        102533719
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -42,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200775,
         "sg:id":"SG_4polv4zZcP0uJ0GKhOvZx1_25.761404_-80.190012@1303262682"
     },
     "wof:country":"US",
     "wof:created":1461628025,
-    "wof:geomhash":"ed2a9e723729bb6de4d74a9427082dae",
+    "wof:geomhash":"ea48cef90ae6a629fc75b9c570ac9203",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":656143015,
-    "wof:lastmodified":1472617007,
+    "wof:lastmodified":1533949351,
     "wof:name":"Dade Heritage Trust",
     "wof:parent_id":85896169,
     "wof:placetype":"venue",
@@ -71,10 +83,10 @@
     ]
 },
   "bbox": [
-    -80.190012,
-    25.761404,
-    -80.190012,
-    25.761404
+    -80.19006,
+    25.76116,
+    -80.19006,
+    25.76116
 ],
-  "geometry": {"coordinates":[-80.190012,25.761404],"type":"Point"}
+  "geometry": {"coordinates":[-80.19006,25.76116],"type":"Point"}
 }

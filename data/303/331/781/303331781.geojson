@@ -7,6 +7,7 @@
     "addr:postcode":"32308",
     "addr:street":"Riggins Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.23792,30.458956,-84.23792,30.458956",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.23792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1620 Riggins Rd",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1TjzlbFY5B0WJtMwc3COGK_30.458956_-84.237920@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c61069e3fa3bdf5200e1628d619f096a",
+    "wof:geomhash":"0738979c885ef77c13e09e2f80772185",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303331781,
-    "wof:lastmodified":1472615098,
+    "wof:lastmodified":1533949249,
     "wof:name":"Spurgeon W Mc Williams PA",
     "wof:parent_id":85881335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656018705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

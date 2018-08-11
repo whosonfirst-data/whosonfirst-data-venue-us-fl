@@ -7,6 +7,7 @@
     "addr:postcode":"33161",
     "addr:street":"Ne 119Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.182503,25.892,-80.182503,25.892",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.182503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"175 NE 119th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461630693,
-    "wof:geomhash":"5554a9456cc016c02047b82eea390188",
+    "wof:geomhash":"1ef5ae52d5a5a3c5f0df72820bdba6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":656205455,
-    "wof:lastmodified":1472617264,
+    "wof:lastmodified":1533949227,
     "wof:name":"Holly House Apartments",
     "wof:parent_id":85896159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253230067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

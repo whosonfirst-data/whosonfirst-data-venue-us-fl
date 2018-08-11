@@ -7,6 +7,7 @@
     "addr:postcode":"33126",
     "addr:street":"Nw 7Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318406,25.776991,-80.318406,25.776991",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.318406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 NW 7th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_3XefiJFWha2267kwE4xrAu_25.776991_-80.318406@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ad256b5b6b302bb546dee6c7308f538",
+    "wof:geomhash":"c35bf52a068205ee7db5754920e1de72",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":219187659,
-    "wof:lastmodified":1472614260,
+    "wof:lastmodified":1533949260,
     "wof:name":"Carani Meat Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639245085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

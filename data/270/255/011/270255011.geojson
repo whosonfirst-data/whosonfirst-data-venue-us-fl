@@ -7,6 +7,7 @@
     "addr:postcode":"33410",
     "addr:street":"Burns Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073942,26.832002,-80.073942,26.832002",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.073942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2503 Burns Rd",
     "sg:city":"Palm Beach Gardens",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5pQnL1GfxsgmOGPO4Nv8p3_26.832002_-80.073942@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b3362ee93decf7f6e85b4aa72a8cda7",
+    "wof:geomhash":"218f915b6ed3d5baab7c269b68880bcd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":270255011,
-    "wof:lastmodified":1472615070,
+    "wof:lastmodified":1533949231,
     "wof:name":"Palm Bch Cardiovascular Clinic",
     "wof:parent_id":85834759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320306783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

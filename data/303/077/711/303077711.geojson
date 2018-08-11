@@ -7,6 +7,7 @@
     "addr:postcode":"32220",
     "addr:street":"Otis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.895208,30.321358,-81.895208,30.321358",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.895208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 Otis Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5k1Bs6zDs3GVGOdWXYTZ7O_30.321358_-81.895208@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9d6293a49b48fe8b5e5a4055b630953",
+    "wof:geomhash":"8f0f100a598f8fe1d18e280dcdc89b66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":303077711,
-    "wof:lastmodified":1472614306,
+    "wof:lastmodified":1533949245,
     "wof:name":"Otis Rd Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638698579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

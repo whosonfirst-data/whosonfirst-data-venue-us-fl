@@ -2,18 +2,24 @@
   "id": 656118391,
   "type": "Feature",
   "properties": {
-    "addr:full":"28655 S Dixie Hwy Homestead FL 33033",
+    "addr:city":"Miami",
+    "addr:full":"28655 South Dixie Highway Miami, Fl 33033",
+    "addr:house_number":"28655",
     "addr:housenumber":"28655",
+    "addr:phone":"+1 305-248-6345",
     "addr:postcode":"33033",
+    "addr:road":"South Dixie Highway",
+    "addr:state":"FL",
     "addr:street":"S Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.445233,25.500292,-80.445233,25.500292",
-    "geom:latitude":25.500292,
-    "geom:longitude":-80.445233,
+    "geom:bbox":"-80.44425,25.50048,-80.44425,25.50048",
+    "geom:latitude":25.50048,
+    "geom:longitude":-80.44425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"28655 S Dixie Hwy",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -48,7 +54,10 @@
         "arcade"
     ],
     "sg:website":"http://www.coralcastle.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532907
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -59,11 +68,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400132,
         "sg:id":"SG_7SBfpF7Y75B7ybB4RMMsDn_25.500292_-80.445233@1303262676"
     },
     "wof:country":"US",
     "wof:created":1461626909,
-    "wof:geomhash":"99c32f63fc520ff2147cd362c6d0fb20",
+    "wof:geomhash":"4a894a6bb7ca623e8838165d4391eae2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,8 +86,8 @@
         }
     ],
     "wof:id":656118391,
-    "wof:lastmodified":1472616899,
-    "wof:name":"Coral Castle Inc",
+    "wof:lastmodified":1533949351,
+    "wof:name":"Coral Castle Museum",
     "wof:parent_id":85834687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -90,10 +100,10 @@
     ]
 },
   "bbox": [
-    -80.445233,
-    25.500292,
-    -80.445233,
-    25.500292
+    -80.44425,
+    25.50048,
+    -80.44425,
+    25.50048
 ],
-  "geometry": {"coordinates":[-80.445233,25.500292],"type":"Point"}
+  "geometry": {"coordinates":[-80.44425,25.50048],"type":"Point"}
 }

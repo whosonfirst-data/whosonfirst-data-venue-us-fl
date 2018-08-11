@@ -7,6 +7,7 @@
     "addr:postcode":"32505",
     "addr:street":"N Palafox St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.241436,30.463675,-87.241436,30.463675",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.241436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5101 N Palafox St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_1QTTvimiWOGBsJAC3ZXhFE_30.463675_-87.241436@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fb8f2261f45f9988c24b0b04bcaed75",
+    "wof:geomhash":"44c9390615d91a65c77cf8fe7cee1ffb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":269928607,
-    "wof:lastmodified":1472615664,
+    "wof:lastmodified":1533949251,
     "wof:name":"Brentwood Animal Hospital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656026519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

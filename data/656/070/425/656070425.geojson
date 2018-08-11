@@ -7,6 +7,7 @@
     "addr:postcode":"32801",
     "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.377292,28.540363,-81.377292,28.540363",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.377292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"109 E Church St",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461624715,
-    "wof:geomhash":"bc637f3b39b14f76b9f2955c88b49c13",
+    "wof:geomhash":"535c094b3364cfab3c71aa74960b92a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":656070425,
-    "wof:lastmodified":1472616639,
+    "wof:lastmodified":1533949332,
     "wof:name":"Fire Rescue Services",
     "wof:parent_id":85866881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639444489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

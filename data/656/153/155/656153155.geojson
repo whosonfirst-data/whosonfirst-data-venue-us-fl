@@ -7,6 +7,7 @@
     "addr:postcode":"33133",
     "addr:street":"Florida Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241491,25.72903,-80.241491,25.72903",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.241491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3000 Florida Ave",
     "sg:city":"Coconut Grove",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628451,
-    "wof:geomhash":"ba9981a70647315213efb66e6c644736",
+    "wof:geomhash":"faeb47af5831679615a9d65c92b3f6f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":656153155,
-    "wof:lastmodified":1472617031,
+    "wof:lastmodified":1533949326,
     "wof:name":"Mayfair Hotel",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656153659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

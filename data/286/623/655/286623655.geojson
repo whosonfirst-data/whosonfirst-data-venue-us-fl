@@ -7,6 +7,7 @@
     "addr:postcode":"32207",
     "addr:street":"Prudential Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.662176,30.316307,-81.662176,30.316307",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.662176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Prudential Dr",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3MIEVUkHcIIlTG5nOKqGhY_30.316307_-81.662176@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a2b6e184505194e8d8f88e2b71bee2d",
+    "wof:geomhash":"b22979d28ce5dd5e797b0edd234666d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":286623655,
-    "wof:lastmodified":1472615331,
+    "wof:lastmodified":1533949239,
     "wof:name":"Baptist Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387307767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

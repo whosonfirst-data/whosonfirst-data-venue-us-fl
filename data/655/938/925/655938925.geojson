@@ -7,6 +7,7 @@
     "addr:postcode":"33138",
     "addr:street":"Ne 79Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184226,25.847919,-80.184226,25.847919",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.184226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"687 NE 79th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461618627,
-    "wof:geomhash":"2d030289ee5ab04162251a7e565dc407",
+    "wof:geomhash":"4a38d9900052eaacb6808f3c08de7483",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":655938925,
-    "wof:lastmodified":1472616560,
+    "wof:lastmodified":1533949333,
     "wof:name":"Caviar & Fine Food",
     "wof:parent_id":85896193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656167297
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

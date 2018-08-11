@@ -7,6 +7,7 @@
     "addr:postcode":"33314",
     "addr:street":"Stirling Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21712,26.046543,-80.21712,26.046543",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.21712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6349 Stirling Rd",
     "sg:city":"Davie",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7WdCWZSohwzWjM8Dwfnr3o_26.046543_-80.217120@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"29e401654b0eb0cf1429d5c5ee67b6e3",
+    "wof:geomhash":"397a302c58d577ca860984d7951ba2fd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":253367629,
-    "wof:lastmodified":1472615323,
+    "wof:lastmodified":1533949342,
     "wof:name":"Davie Pawn & Jewelry",
     "wof:parent_id":85842191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656251575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"

@@ -2,18 +2,24 @@
   "id": 656007805,
   "type": "Feature",
   "properties": {
-    "addr:full":"829 N Davis St Jacksonville FL 32202",
+    "addr:city":"Jacksonville",
+    "addr:full":"829 N Davis St Jacksonville, Fl 32202-4734",
+    "addr:house_number":"829",
     "addr:housenumber":"829",
-    "addr:postcode":"32202",
+    "addr:phone":"+1 904-632-5555",
+    "addr:postcode":"32202-4734",
+    "addr:road":"N Davis St",
+    "addr:state":"FL",
     "addr:street":"N Davis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.667254,30.334835,-81.667254,30.334835",
-    "geom:latitude":30.334835,
-    "geom:longitude":-81.667254,
+    "geom:bbox":"-81.66678,30.33503,-81.66678,30.33503",
+    "geom:latitude":30.33503,
+    "geom:longitude":-81.66678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"829 N Davis St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,7 +33,12 @@
     "sg:phone":"+1 904 632 5555",
     "sg:postcode":"32202",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531193,
+        102531583,
+        102534233
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -38,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200455,
         "sg:id":"SG_7Wwf1WHGluXZEWFfiEDCN4_30.334835_-81.667254@1303262647"
     },
     "wof:country":"US",
     "wof:created":1461621734,
-    "wof:geomhash":"e278a98fa55ae3f79ae57f88827837ed",
+    "wof:geomhash":"b6b6bfbfbd0e062552303cbea62e9c03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +67,8 @@
         }
     ],
     "wof:id":656007805,
-    "wof:lastmodified":1472616268,
-    "wof:name":"Ritz Theatre And LaVilla Museum",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Ritz Theatre & Lavilla Museum",
     "wof:parent_id":85870689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -65,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.667254,
-    30.334835,
-    -81.667254,
-    30.334835
+    -81.66678,
+    30.33503,
+    -81.66678,
+    30.33503
 ],
-  "geometry": {"coordinates":[-81.667254,30.334835],"type":"Point"}
+  "geometry": {"coordinates":[-81.66678,30.33503],"type":"Point"}
 }

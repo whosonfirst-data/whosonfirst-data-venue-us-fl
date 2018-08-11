@@ -7,6 +7,7 @@
     "addr:postcode":"32812",
     "addr:street":"Hoffner Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.312692,28.480605,-81.312692,28.480605",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.312692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5448 Hoffner Ave",
     "sg:city":"Orlando",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_3yLWQ0f17Ql25rMOHgvjKN_28.480605_-81.312692@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0444164b2f548818795efb18d840f4d",
+    "wof:geomhash":"f919a31baf8a1fa8a98d2cf31d812968",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":303542725,
-    "wof:lastmodified":1472615627,
+    "wof:lastmodified":1533949223,
     "wof:name":"General Brokerage Svc Inc",
     "wof:parent_id":85879439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253047451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -2,18 +2,23 @@
   "id": 656170379,
   "type": "Feature",
   "properties": {
-    "addr:full":"2000 Convention Center Dr Miami Beach FL 33139",
+    "addr:city":"Miami Beach",
+    "addr:full":"2000 Convention Center Dr Miami Beach, Fl 33139-1806",
+    "addr:house_number":"2000",
     "addr:housenumber":"2000",
-    "addr:postcode":"33139",
+    "addr:postcode":"33139-1806",
+    "addr:road":"Convention Center Dr",
+    "addr:state":"FL",
     "addr:street":"Convention Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.134958,25.79568,-80.134958,25.79568",
-    "geom:latitude":25.79568,
-    "geom:longitude":-80.134958,
+    "geom:bbox":"-80.13686,25.79312,-80.13686,25.79312",
+    "geom:latitude":25.79312,
+    "geom:longitude":-80.13686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2000 Convention Center Dr",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -28,7 +33,12 @@
     "sg:postcode":"33139",
     "sg:province":"FL",
     "sg:website":"www.mbgarden.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102530161,
+        102533719
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201207,
         "sg:id":"SG_71mEbi6lQ4CMm2FC3BLRDx_25.795680_-80.134958@1303262689"
     },
     "wof:country":"US",
     "wof:created":1461629182,
-    "wof:geomhash":"22b47882d67d4da85c3ab4379cf48918",
+    "wof:geomhash":"f496e75c3fbbae35dfc8eb83c227b012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +67,7 @@
         }
     ],
     "wof:id":656170379,
-    "wof:lastmodified":1472617105,
+    "wof:lastmodified":1533949351,
     "wof:name":"Miami Beach Botanical Garden",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.134958,
-    25.79568,
-    -80.134958,
-    25.79568
+    -80.13686,
+    25.79312,
+    -80.13686,
+    25.79312
 ],
-  "geometry": {"coordinates":[-80.134958,25.79568],"type":"Point"}
+  "geometry": {"coordinates":[-80.13686,25.79312],"type":"Point"}
 }

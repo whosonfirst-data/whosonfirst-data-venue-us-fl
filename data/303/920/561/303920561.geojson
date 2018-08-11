@@ -7,6 +7,7 @@
     "addr:postcode":"33012",
     "addr:street":"W 49Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316413,25.866664,-80.316413,25.866664",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.316413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1675 W 49th St",
     "sg:city":"Hialeah",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_39RRPqS2p7x0V9zetijOFW_25.866664_-80.316413@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ff4f1683817fc21222c30f429185a0e",
+    "wof:geomhash":"8c47c1808b7b4aea724fbcefaaf4d482",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303920561,
-    "wof:lastmodified":1472615927,
+    "wof:lastmodified":1533949220,
     "wof:name":"Havana Madrid",
     "wof:parent_id":85878159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202942753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cuban"

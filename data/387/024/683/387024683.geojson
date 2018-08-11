@@ -7,6 +7,7 @@
     "addr:postcode":"33146",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-80.258476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4000 Ponce de Leon Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_0zVsrIYWJtcEgctCtyaiqH_25.733199_-80.258476@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"52b5a29e1a38e4b0dcd357cf3661c176",
+    "wof:geomhash":"81ac0e8a202cc32c07bf713e67460496",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":387024683,
-    "wof:lastmodified":1491901684,
+    "wof:lastmodified":1533949252,
     "wof:name":"HBO Latin America Group",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        655932349
+    ],
+    "wof:supersedes":[
+        219336679
+    ],
     "wof:tags":[
         "television"
     ]

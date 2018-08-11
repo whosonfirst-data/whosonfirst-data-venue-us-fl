@@ -7,6 +7,7 @@
     "addr:postcode":"33609",
     "addr:street":"W Kennedy Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.517832,27.944918,-82.517832,27.944918",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.517832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4347 W Kennedy Blvd",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_73THvVYkwX5Q2MG9J5PP1R_27.944918_-82.517832@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a63e685af9f76ac4995cf4f90388a6d",
+    "wof:geomhash":"9d3128003a6650637c4deba46de25243",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":336613501,
-    "wof:lastmodified":1472614278,
+    "wof:lastmodified":1533949343,
     "wof:name":"Happy Tails Dog Grooming",
     "wof:parent_id":85873267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656269863
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

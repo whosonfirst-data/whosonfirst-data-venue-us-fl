@@ -2,17 +2,22 @@
   "id": 656148209,
   "type": "Feature",
   "properties": {
-    "addr:full":"980 MacArthur Causeway Miami FL 33132",
+    "addr:city":"Miami",
+    "addr:full":"980 Macarthur Cswy Miami, Fl 33132-1604",
+    "addr:house_number":"980",
     "addr:housenumber":"980",
-    "addr:postcode":"33132",
+    "addr:phone":"+1 305-373-5437",
+    "addr:postcode":"33132-1604",
+    "addr:road":"Macarthur Cswy",
+    "addr:state":"FL",
     "addr:street":"Macarthur Causeway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.178001,25.785601,-80.178001,25.785601",
-    "geom:latitude":25.785601,
-    "geom:longitude":-80.178001,
+    "geom:bbox":"-80.1761,25.78334,-80.1761,25.78334",
+    "geom:latitude":25.78334,
+    "geom:longitude":-80.1761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,12 @@
     "sg:postcode":"33132",
     "sg:province":"FL",
     "sg:website":"www.miamichildrensmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102530161,
+        102533719
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -41,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200804,
         "osm:way":480955424,
         "sg:id":"SG_7TxnjYdaYuwsxmjjSwfKn6_25.785601_-80.178001@1303262683"
     },
     "wof:country":"US",
     "wof:created":1461628242,
-    "wof:geomhash":"76c2c96f522df7f2be0158a315bae187",
+    "wof:geomhash":"42cbdc59a68f7f6e9681b60600c602a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":656148209,
-    "wof:lastmodified":1510942159,
-    "wof:name":"Miami Children's Museum",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Miami Children'S Museum",
     "wof:parent_id":85868429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.178001,
-    25.785601,
-    -80.178001,
-    25.785601
+    -80.1761,
+    25.78334,
+    -80.1761,
+    25.78334
 ],
-  "geometry": {"coordinates":[-80.17800099999999,25.785601],"type":"Point"}
+  "geometry": {"coordinates":[-80.17610000000001,25.78334],"type":"Point"}
 }

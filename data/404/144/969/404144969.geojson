@@ -7,6 +7,7 @@
     "addr:postcode":"32751",
     "addr:street":"Lucien Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.396109,28.621936,-81.396109,28.621936",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.396109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2250 Lucien Way",
     "sg:city":"Maitland",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4pLJhUcIIMYOWBqgBVA0SN_28.621936_-81.396109@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"29aca0a6b8e0f6bf059c53352c20ab17",
+    "wof:geomhash":"909dd003ce9fcba392ac3e4ef38278c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":404144969,
-    "wof:lastmodified":1472616263,
+    "wof:lastmodified":1533949256,
     "wof:name":"M J Harris Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656056969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

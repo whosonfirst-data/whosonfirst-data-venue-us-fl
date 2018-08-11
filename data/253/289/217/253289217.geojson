@@ -7,6 +7,7 @@
     "addr:postcode":"32159",
     "addr:street":"Us Hwy 441",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.90758,28.892,-81.90758,28.892",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.90758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 US Hwy 441",
     "sg:city":"Lady Lake",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_4dDTbENOboNBxZOBmmiEd6_28.892000_-81.907580@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"87eb64201511bb536dfc9446e53bf1bb",
+    "wof:geomhash":"3ab995a8ce82d103ada23278aeb0dd22",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":253289217,
-    "wof:lastmodified":1472615056,
+    "wof:lastmodified":1533949219,
     "wof:name":"Workers Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202785347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

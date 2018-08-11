@@ -2,17 +2,22 @@
   "id": 269602375,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 E Park Ave Tallahassee FL 32301",
+    "addr:city":"Tallahassee",
+    "addr:full":"301 East Park Avenue Tallahassee, Fl 32301",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
+    "addr:phone":"+1 850-922-2459",
     "addr:postcode":"32301",
+    "addr:road":"East Park Avenue",
+    "addr:state":"FL",
     "addr:street":"E Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.27833,30.442026,-84.27833,30.442026",
-    "geom:latitude":30.442026,
-    "geom:longitude":-84.27833,
+    "geom:bbox":"-84.27937,30.44193,-84.27937,30.44193",
+    "geom:latitude":30.44193,
+    "geom:longitude":-84.27937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533179
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -42,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200133,
         "osm:way":497227644,
         "sg:id":"SG_1L7zEqXAR8jMd9QI611DjJ_30.442026_-84.278330@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"429a750a17ec67ec94bfefcf1824c9f2",
+    "wof:geomhash":"4492a793a49f0af0b00432bdb6d61b65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":269602375,
-    "wof:lastmodified":1510943901,
+    "wof:lastmodified":1533949353,
     "wof:name":"Knott House Museum",
     "wof:parent_id":85881327,
     "wof:placetype":"venue",
@@ -71,10 +80,10 @@
     ]
 },
   "bbox": [
-    -84.27833,
-    30.442026,
-    -84.27833,
-    30.442026
+    -84.27937,
+    30.44193,
+    -84.27937,
+    30.44193
 ],
-  "geometry": {"coordinates":[-84.27833,30.442026],"type":"Point"}
+  "geometry": {"coordinates":[-84.27937,30.44193],"type":"Point"}
 }

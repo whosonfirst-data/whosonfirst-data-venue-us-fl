@@ -2,18 +2,23 @@
   "id": 303177759,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 W Hillsboro Blvd Deerfield Beach FL 33073",
+    "addr:city":"Deerfield Beach",
+    "addr:full":"1300 W Hillsboro Blvd Deerfield Beach, Fl 33442",
+    "addr:house_number":"1300",
     "addr:housenumber":"1300",
-    "addr:postcode":"33073",
+    "addr:postcode":"33442",
+    "addr:road":"W Hillsboro Blvd",
+    "addr:state":"FL",
     "addr:street":"W Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.12138,26.318084,-80.12138,26.318084",
-    "geom:latitude":26.318084,
-    "geom:longitude":-80.12138,
+    "geom:bbox":"-80.12012,26.318,-80.12012,26.318",
+    "geom:latitude":26.318,
+    "geom:longitude":-80.12012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1300 W Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -31,7 +36,12 @@
         "gallery"
     ],
     "sg:website":"www.sfrm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102528421,
+        102530841
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -40,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201163,
         "sg:id":"SG_0wR8ajMHWCOoHZRk8Vru5h_26.318084_-80.121380@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"d33ed0bb36ac4397ba78d5d05a86b979",
+    "wof:geomhash":"f4dc8a0f032a45da040a3010d5273079",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +67,7 @@
         }
     ],
     "wof:id":303177759,
-    "wof:lastmodified":1472614717,
+    "wof:lastmodified":1533949353,
     "wof:name":"South Florida Railway Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     ]
 },
   "bbox": [
-    -80.12138,
-    26.318084,
-    -80.12138,
-    26.318084
+    -80.12012,
+    26.318,
+    -80.12012,
+    26.318
 ],
-  "geometry": {"coordinates":[-80.12138,26.318084],"type":"Point"}
+  "geometry": {"coordinates":[-80.12012,26.318],"type":"Point"}
 }

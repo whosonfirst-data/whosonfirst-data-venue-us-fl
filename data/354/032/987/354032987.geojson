@@ -7,6 +7,7 @@
     "addr:postcode":"34741",
     "addr:street":"W Oak St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.410954,28.300826,-81.410954,28.300826",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.410954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 W Oak St",
     "sg:city":"Kissimmee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2cquaziWYTEhoDCD7N5TpC_28.300826_-81.410954@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"e17c7320eaa7b27286e013cf4b17f387",
+    "wof:geomhash":"f9d1a2a6ef01ac4fc99ff6e406504093",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":354032987,
-    "wof:lastmodified":1472614289,
+    "wof:lastmodified":1533949217,
     "wof:name":"Florida ENT Adult-Pediatrics",
     "wof:parent_id":85878535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203016323
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

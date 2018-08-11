@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Se 2Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190041,25.770055,-80.190041,25.770055",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.190041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 SE 2nd Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2nzaBp1xnP87rc4UQ7IcrJ_25.770055_-80.190041@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"698f36862925a44f8378835a5c80b6e6",
+    "wof:geomhash":"56d20f574a155df05844a4e31ba49f38",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":286866161,
-    "wof:lastmodified":1472615529,
+    "wof:lastmodified":1533949266,
     "wof:name":"Hyatt Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638909263
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ope",

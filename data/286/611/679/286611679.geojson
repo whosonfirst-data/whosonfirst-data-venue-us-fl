@@ -7,6 +7,7 @@
     "addr:postcode":"34103",
     "addr:street":"Tamiami Trl N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.800311,26.209217,-81.800311,26.209217",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.800311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5150 Tamiami Trl N",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6skfFEl1uz4h8BLuUCX5MC_26.209217_-81.800311@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"34ea10980fd2d5323749258fe1d3cb96",
+    "wof:geomhash":"529a162f47f530a5a165bb009852c7d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":286611679,
-    "wof:lastmodified":1472615325,
+    "wof:lastmodified":1533949236,
     "wof:name":"Mark S Goodman",
     "wof:parent_id":85889217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403752107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

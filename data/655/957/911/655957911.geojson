@@ -7,6 +7,7 @@
     "addr:postcode":"33141",
     "addr:street":"71St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125603,25.8561,-80.125603,25.8561",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.125603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 71st St",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461619464,
-    "wof:geomhash":"8c20eec1bda3ddd7288af4162cb2b401",
+    "wof:geomhash":"f9d871940944d5a2971beb757690b9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":655957911,
-    "wof:lastmodified":1472616659,
+    "wof:lastmodified":1533949319,
     "wof:name":"Levitt-Weinstein Memorial Chapels",
     "wof:parent_id":85865457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639396823
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"

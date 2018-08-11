@@ -7,6 +7,7 @@
     "addr:postcode":"33139",
     "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140558,25.774333,-80.140558,25.774333",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.140558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Alton Rd",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_4yh1WRubjlzquxicabkSS6_25.774333_-80.140558@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1209754dfde38971b0aa341fd3c8cc85",
+    "wof:geomhash":"bbfbe5e0e63e62948c2d91708fdc2e1a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":236058233,
-    "wof:lastmodified":1472614323,
+    "wof:lastmodified":1533949334,
     "wof:name":"Monty's Seafood Restaurant",
     "wof:parent_id":85882045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656170581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

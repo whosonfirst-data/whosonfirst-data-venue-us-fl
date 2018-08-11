@@ -7,6 +7,7 @@
     "addr:postcode":"33146",
     "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-80.26305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"420 Dixie Hwy",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_4eym4fhMo3uknxRRgTzEZ9_25.725370_-80.263050@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"304ca878d3c8b2b3cba9cb39bf694417",
+    "wof:geomhash":"106abb1145c26788f7379bb100decd0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":286834085,
-    "wof:lastmodified":1491901701,
+    "wof:lastmodified":1533949334,
     "wof:name":"Gaebe Murphy Mullen Antonelli",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656186719
+    ],
+    "wof:supersedes":[
+        286688235
+    ],
     "wof:tags":[
         "firm",
         "law"

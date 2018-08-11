@@ -7,6 +7,7 @@
     "addr:postcode":"33133",
     "addr:street":"S Bayshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234866,25.73157,-80.234866,25.73157",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.234866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2601 S Bayshore Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_5zmINU5STmr9zHqLLYM23R_25.731570_-80.234866@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f10948f1af6abd4cca5c326a1dd23b25",
+    "wof:geomhash":"1bbeb30bbe429eef4dfef07a571dcd3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,13 +69,17 @@
         }
     ],
     "wof:id":253413649,
-    "wof:lastmodified":1472615420,
+    "wof:lastmodified":1533949330,
     "wof:name":"Axcez Communications No Americ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656152277
+    ],
+    "wof:supersedes":[
+        236500347
+    ],
     "wof:tags":[
         "communications",
         "consultant"

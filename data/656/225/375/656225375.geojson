@@ -7,6 +7,7 @@
     "addr:postcode":"33173",
     "addr:street":"Sw 87Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.333946,25.696939,-80.333946,25.696939",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.333946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7800 SW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461631752,
-    "wof:geomhash":"9deb824f481f6b349d1218a566310ce6",
+    "wof:geomhash":"4e8a6131832142879dccc45bc37cec21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":656225375,
-    "wof:lastmodified":1472617353,
+    "wof:lastmodified":1533949340,
     "wof:name":"Gaviria, J Milton",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656223701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

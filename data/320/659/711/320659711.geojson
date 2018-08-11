@@ -7,6 +7,7 @@
     "addr:postcode":"33614",
     "addr:street":"W Waters Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.493514,28.025525,-82.493514,28.025525",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.493514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3105 W Waters Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_15kCcWPnIdwj2F20l0BWkJ_28.025525_-82.493514@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d1b72dafa4b420bb5b284565059ff44",
+    "wof:geomhash":"e40055a196883be01c6c7c3d7fbe9be4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":320659711,
-    "wof:lastmodified":1472615787,
+    "wof:lastmodified":1533949243,
     "wof:name":"Nixon & Assoc",
     "wof:parent_id":85873285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655882295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

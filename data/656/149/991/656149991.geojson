@@ -7,6 +7,7 @@
     "addr:postcode":"33133",
     "addr:street":"S Bayshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.232803,25.732901,-80.232803,25.732901",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.232803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2550 S Bayshore Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628319,
-    "wof:geomhash":"816da73795cc9fde8e95df3d3a2bda78",
+    "wof:geomhash":"34fe9df5834aae35924d7d67808ad80d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,18 @@
         }
     ],
     "wof:id":656149991,
-    "wof:lastmodified":1472617075,
+    "wof:lastmodified":1533949326,
     "wof:name":"Monty's Coconut Grove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656150891
+    ],
+    "wof:supersedes":[
+        186568283,
+        639260513
+    ],
     "wof:tags":[]
 },
   "bbox": [

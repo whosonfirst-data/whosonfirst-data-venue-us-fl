@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.190835,25.765974,-80.190835,25.765974",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.190835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"888 Brickell Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5MyVVYrKLIJMxHXJBz5Afd_25.765974_-80.190835@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"238cc83dfa1d8840410bbae2a5171920",
+    "wof:geomhash":"a87e3ef1f311be64867d01f711299acf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":269807969,
-    "wof:lastmodified":1472615578,
+    "wof:lastmodified":1533949325,
     "wof:name":"Tawfik & Assoc Inc",
     "wof:parent_id":85896169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656145035
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"

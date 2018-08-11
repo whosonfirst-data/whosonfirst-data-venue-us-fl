@@ -7,6 +7,7 @@
     "addr:postcode":"33133",
     "addr:street":"S Bayshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22706,25.737008,-80.22706,25.737008",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.22706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2550 S Bayshore Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_60Ct1oLde0wePoW64O0V44_25.737008_-80.227060@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"77a21cb9e3f4fce07b278a75d5a914c0",
+    "wof:geomhash":"1157bf5e59520fa3dcc7d8a997c16db0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,12 +68,16 @@
         }
     ],
     "wof:id":186568283,
-    "wof:lastmodified":1472615183,
+    "wof:lastmodified":1533949332,
     "wof:name":"Montys Restaurant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639260513,
+        656149991,
+        656150891
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

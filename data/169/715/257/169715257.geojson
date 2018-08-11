@@ -2,18 +2,24 @@
   "id": 169715257,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 E Ocean Ave Boynton Beach FL 33435",
+    "addr:city":"Boynton Beach",
+    "addr:full":"129 E Ocean Ave Boynton Beach, Fl 33435-4536",
+    "addr:house_number":"129",
     "addr:housenumber":"129",
-    "addr:postcode":"33435",
+    "addr:phone":"+1 561-742-6780",
+    "addr:postcode":"33435-4536",
+    "addr:road":"E Ocean Ave",
+    "addr:state":"FL",
     "addr:street":"E Ocean Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.062609,26.527169,-80.062609,26.527169",
-    "geom:latitude":26.527169,
-    "geom:longitude":-80.062609,
+    "geom:bbox":"-80.06354,26.52718,-80.06354,26.52718",
+    "geom:latitude":26.52718,
+    "geom:longitude":-80.06354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"129 E Ocean Ave",
     "sg:city":"Boynton Beach",
     "sg:classifiers":[
@@ -27,7 +33,12 @@
     "sg:phone":"+1 561 742 6780",
     "sg:postcode":"33435",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102533567,
+        102533615
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -36,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200535,
         "sg:id":"SG_2r2HxGtZWcPzjHsHw3caP1_26.527169_-80.062609@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccdab5c1c68780f8d7b28c65fbc18af3",
+    "wof:geomhash":"2099ec58dc5c6ec9d5bf5999810159b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +64,8 @@
         }
     ],
     "wof:id":169715257,
-    "wof:lastmodified":1472614493,
-    "wof:name":"Schoolhouse Childrens Museum",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Schoolhouse Children'S Museum And Learning Center",
     "wof:parent_id":85807599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -62,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.062609,
-    26.527169,
-    -80.062609,
-    26.527169
+    -80.06354,
+    26.52718,
+    -80.06354,
+    26.52718
 ],
-  "geometry": {"coordinates":[-80.06260899999999,26.527169],"type":"Point"}
+  "geometry": {"coordinates":[-80.06354,26.52718],"type":"Point"}
 }

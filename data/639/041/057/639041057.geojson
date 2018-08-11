@@ -2,18 +2,24 @@
   "id": 639041057,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 Savannah Rd Fort Pierce FL 34982",
+    "addr:city":"Fort Pierce",
+    "addr:full":"210 Savannah Rd Fort Pierce, Fl 34982-3447",
+    "addr:house_number":"210",
     "addr:housenumber":"210",
-    "addr:postcode":"34982",
+    "addr:phone":"+1 772-464-4672",
+    "addr:postcode":"34982-3447",
+    "addr:road":"Savannah Rd",
+    "addr:state":"FL",
     "addr:street":"Savannah Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.324903,27.417955,-80.324903,27.417955",
-    "geom:latitude":27.417955,
-    "geom:longitude":-80.324903,
+    "geom:bbox":"-80.32294,27.41795,-80.32294,27.41795",
+    "geom:latitude":27.41795,
+    "geom:longitude":-80.32294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"210 Savannah Rd",
     "sg:city":"Fort Pierce",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 772 464 4672",
     "sg:postcode":"34982",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527921
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200824,
         "sg:id":"SG_7R5nSNkJ0hXouqBZV45f3K_27.417955_-80.324903@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461286075,
-    "wof:geomhash":"202c4692025f81109d3aff616af92c15",
+    "wof:geomhash":"f8bc815ed0b286df91125364552bc638",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":639041057,
-    "wof:lastmodified":1472616149,
+    "wof:lastmodified":1533949353,
     "wof:name":"Heathcote Botanical Gardens",
     "wof:parent_id":85888867,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.324903,
-    27.417955,
-    -80.324903,
-    27.417955
+    -80.32294,
+    27.41795,
+    -80.32294,
+    27.41795
 ],
-  "geometry": {"coordinates":[-80.32490300000001,27.417955],"type":"Point"}
+  "geometry": {"coordinates":[-80.32294,27.41795],"type":"Point"}
 }

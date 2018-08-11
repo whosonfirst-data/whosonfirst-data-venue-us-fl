@@ -7,6 +7,7 @@
     "addr:postcode":"33613",
     "addr:street":"E Fletcher Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.419429,28.069216,-82.419429,28.069216",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.419429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 E Fletcher Ave",
     "sg:city":"Tampa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4L1GmHj7JfA6h2m985s2gp_28.069216_-82.419429@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3151774e0df59070ddb4b9c6d05a6cb8",
+    "wof:geomhash":"baf66a64544a8a46f1ce75d028f4b393",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":286618853,
-    "wof:lastmodified":1472615330,
+    "wof:lastmodified":1533949271,
     "wof:name":"Suncoast Dialysis Ctr",
     "wof:parent_id":85889713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639337055
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

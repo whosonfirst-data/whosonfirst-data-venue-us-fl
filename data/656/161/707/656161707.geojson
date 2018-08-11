@@ -7,6 +7,7 @@
     "addr:postcode":"33136",
     "addr:street":"Nw 17Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210403,25.7915,-80.210403,25.7915",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.210403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 NW 17th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628806,
-    "wof:geomhash":"bef7d04848b560feebcdab8e1209af72",
+    "wof:geomhash":"b00502442f75cf965ce2374b609acd06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":656161707,
-    "wof:lastmodified":1472617074,
+    "wof:lastmodified":1533949332,
     "wof:name":"Bascom Palmer Eye Institute Anne Bts Lch Eye Hsptl",
     "wof:parent_id":85869575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656163057
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

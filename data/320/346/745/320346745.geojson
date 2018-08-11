@@ -7,6 +7,7 @@
     "addr:postcode":"34788",
     "addr:street":"Us Hwy 441",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.784621,28.822692,-81.784621,28.822692",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.784621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10401 US Hwy 441",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4VMydtpSAs5mJ1h9rCzdZP_28.822692_-81.784621@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c4ec307fd9f2bb911ed05042aec2287",
+    "wof:geomhash":"79a350a8dde8c0aa354872b5525d3bc4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":320346745,
-    "wof:lastmodified":1472615362,
+    "wof:lastmodified":1533949226,
     "wof:name":"Claire's Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        253178249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "item",

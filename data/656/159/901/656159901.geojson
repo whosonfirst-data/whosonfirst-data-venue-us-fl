@@ -7,6 +7,7 @@
     "addr:postcode":"33135",
     "addr:street":"Sw 8 Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228703,25.765469,-80.228703,25.765469",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.228703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2059 SW 8 Street",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628720,
-    "wof:geomhash":"37e45b3d5293f40c362646b47d761d4c",
+    "wof:geomhash":"cb898b089995654cf4679876db143bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":656159901,
-    "wof:lastmodified":1472617084,
+    "wof:lastmodified":1533949332,
     "wof:name":"Frank Joyeria Jewelry and Pawn",
     "wof:parent_id":85896199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656161261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

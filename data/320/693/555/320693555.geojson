@@ -7,6 +7,7 @@
     "addr:postcode":"32501",
     "addr:street":"W Garden St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.232026,30.411369,-87.232026,30.411369",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.232026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1385 W Garden St",
     "sg:city":"Pensacola",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_4qWBVcDVUV7hUyud0dLKMt_30.411369_-87.232026@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f09a0c7b4ada456b407deaf58fb3f6ec",
+    "wof:geomhash":"3bdd54134d5bbe3418a6a70e48d44561",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":320693555,
-    "wof:lastmodified":1472615803,
+    "wof:lastmodified":1533949251,
     "wof:name":"Approved Properties",
     "wof:parent_id":85847003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656025099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33173",
     "addr:street":"Sw 87Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.334138,25.702305,-80.334138,25.702305",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.334138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7001 SW 87th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_762p35yFk8HLmQeFrzEj9O_25.702305_-80.334138@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"878ee9bae83412c70f23b4c0b45fdfee",
+    "wof:geomhash":"7d33f826cde35f1e0e2b205153d72784",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":269826577,
-    "wof:lastmodified":1472615568,
+    "wof:lastmodified":1533949340,
     "wof:name":"Pediatrics Professional Assoc",
     "wof:parent_id":85896197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656225449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

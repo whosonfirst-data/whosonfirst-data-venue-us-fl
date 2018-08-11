@@ -7,6 +7,7 @@
     "addr:postcode":"33498",
     "addr:street":"State Rd 7",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.203555,26.370032,-80.203555,26.370032",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.203555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20423 State Rd 7",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0IpfvUE7Hm52i6P2hRAiRH_26.370032_-80.203555@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"806eafce97aee5877ef51080edc554c9",
+    "wof:geomhash":"9fb4540c64373b41f8c1184af13fa4d4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303876887,
-    "wof:lastmodified":1472615907,
+    "wof:lastmodified":1533949250,
     "wof:name":"Alphamart Inc",
     "wof:parent_id":85806551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638763825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

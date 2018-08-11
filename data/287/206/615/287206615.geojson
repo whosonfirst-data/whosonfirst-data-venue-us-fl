@@ -2,18 +2,24 @@
   "id": 287206615,
   "type": "Feature",
   "properties": {
-    "addr:full":"433 S Palmetto Ave Daytona Beach FL 32114",
+    "addr:city":"Daytona Beach",
+    "addr:full":"433 S Palmetto Ave Daytona Beach, Fl 32114-4921",
+    "addr:house_number":"433",
     "addr:housenumber":"433",
-    "addr:postcode":"32114",
+    "addr:phone":"+1 386-258-3856",
+    "addr:postcode":"32114-4921",
+    "addr:road":"S Palmetto Ave",
+    "addr:state":"FL",
     "addr:street":"S Palmetto Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.01773,29.204404,-81.01773,29.204404",
-    "geom:latitude":29.204404,
-    "geom:longitude":-81.01773,
+    "geom:bbox":"-81.01717,29.20425,-81.01717,29.20425",
+    "geom:latitude":29.20425,
+    "geom:longitude":-81.01717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"433 S Palmetto Ave",
     "sg:city":"Daytona Beach",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "merchandise"
     ],
     "sg:website":"www.artleague.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525923
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201075,
         "sg:id":"SG_3soSLEWfZc5XWryHUogvzj_29.204404_-81.017730@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"9968dcbe333cd909dc355a114b4562b6",
+    "wof:geomhash":"3e58fa8cbb20b0bc93821cc7163c8ea8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":287206615,
-    "wof:lastmodified":1472614681,
+    "wof:lastmodified":1533949352,
     "wof:name":"Art League Of Daytona Beach",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -81.01773,
-    29.204404,
-    -81.01773,
-    29.204404
+    -81.01717,
+    29.20425,
+    -81.01717,
+    29.20425
 ],
-  "geometry": {"coordinates":[-81.01773,29.204404],"type":"Point"}
+  "geometry": {"coordinates":[-81.01716999999999,29.20425],"type":"Point"}
 }

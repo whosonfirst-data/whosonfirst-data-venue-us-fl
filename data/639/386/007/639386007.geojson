@@ -7,6 +7,7 @@
     "addr:postcode":"33146",
     "addr:street":"Monza Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284238,25.707424,-80.284238,25.707424",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.284238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 Monza Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461293765,
-    "wof:geomhash":"ac8ecc266648b1cf21db3e425ac20d01",
+    "wof:geomhash":"decea4dace32edbf718df2012cd1c924",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":639386007,
-    "wof:lastmodified":1472617733,
+    "wof:lastmodified":1533949334,
     "wof:name":"Miami Coalition",
     "wof:parent_id":85849871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656186511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33176",
     "addr:street":"Sw 136Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.337762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8888 SW 136th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -84,12 +85,14 @@
         }
     ],
     "wof:id":656230511,
-    "wof:lastmodified":1511323472,
+    "wof:lastmodified":1533949341,
     "wof:name":"Gap",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656230823
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "infant",

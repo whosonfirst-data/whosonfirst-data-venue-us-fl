@@ -7,6 +7,7 @@
     "addr:postcode":"33334",
     "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137857,26.205158,-80.137857,26.205158",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.137857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Corporate Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_2b9QgJI92ca3H2RsU8o6Ed_26.205158_-80.137857@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"06fb4c85d42987bcf2bf79fb5fae0a16",
+    "wof:geomhash":"026555a424fa24f06c0a8080461b471e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":287090211,
-    "wof:lastmodified":1472614440,
+    "wof:lastmodified":1533949248,
     "wof:name":"Southland Title Svc",
     "wof:parent_id":85812263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638738089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

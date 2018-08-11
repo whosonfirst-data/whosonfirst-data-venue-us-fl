@@ -7,6 +7,7 @@
     "addr:postcode":"33176",
     "addr:street":"Sw 136Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.336241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8888 SW 136th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -56,12 +57,15 @@
         }
     ],
     "wof:id":270503615,
-    "wof:lastmodified":1510877355,
+    "wof:lastmodified":1533949341,
     "wof:name":"BCBG",
     "wof:parent_id":85826359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656229349,
+        656230879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

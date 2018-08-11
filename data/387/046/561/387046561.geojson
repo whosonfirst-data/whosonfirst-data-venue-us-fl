@@ -7,6 +7,7 @@
     "addr:postcode":"33470",
     "addr:street":"Southern Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.249083,26.68181,-80.249083,26.68181",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.249083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12977 Southern Blvd",
     "sg:city":"Loxahatchee",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_5GI8SK9hMF02F6GAl1sWEx_26.681810_-80.249083@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c8ad9b7b92c63b5b565743860a0d7584",
+    "wof:geomhash":"8117afd6df218f44f7c3c2d6a6e51a23",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":387046561,
-    "wof:lastmodified":1472615936,
+    "wof:lastmodified":1533949244,
     "wof:name":"Medical Specialists of The Pal",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387835899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -7,6 +7,7 @@
     "addr:postcode":"33433",
     "addr:street":"W Palmetto Park Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.159216,26.350384,-80.159216,26.350384",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.159216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7301 W Palmetto Park Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_0u86emgh5QbxRx3HKjP8Tt_26.350384_-80.159216@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4e9df246e3479e43c92820f0e994f96",
+    "wof:geomhash":"6125f70e459d143a74f17fa3b5ecf9fd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":303158609,
-    "wof:lastmodified":1472614677,
+    "wof:lastmodified":1533949219,
     "wof:name":"American Diabetes Services",
     "wof:parent_id":85806547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203274095
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

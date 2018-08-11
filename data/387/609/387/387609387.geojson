@@ -7,6 +7,7 @@
     "addr:postcode":"33165",
     "addr:street":"Sw 56Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.358655,25.715693,-80.358655,25.715693",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.358655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 SW 56th St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3CZtNUh0ERQRrDjuNAo5S6_25.715693_-80.358655@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"78fb573612055564f92b6f68e6825f77",
+    "wof:geomhash":"b3c6976731505075e24baecad965a10b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":387609387,
-    "wof:lastmodified":1472616033,
+    "wof:lastmodified":1533949338,
     "wof:name":"Freedlander's Chiropractic",
     "wof:parent_id":85857287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656210099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

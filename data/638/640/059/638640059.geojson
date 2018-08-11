@@ -7,6 +7,7 @@
     "addr:postcode":"34994",
     "addr:street":"Se Ocean Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.250228,27.197529,-80.250228,27.197529",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.250228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 SE Ocean Blvd",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461275525,
-    "wof:geomhash":"bffab6c953ad05fa7a9630e983967237",
+    "wof:geomhash":"818a59a360fd4c9a01e86b1ae3db4dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":638640059,
-    "wof:lastmodified":1472616418,
+    "wof:lastmodified":1533949245,
     "wof:name":"Martin County Tax Appraiser",
     "wof:parent_id":420515309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638697745
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "policy"

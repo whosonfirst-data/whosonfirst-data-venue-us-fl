@@ -2,18 +2,24 @@
   "id": 320372417,
   "type": "Feature",
   "properties": {
-    "addr:full":"3120 31st St S St Petersburg FL 33712",
+    "addr:city":"Saint Petersburg",
+    "addr:full":"3120 31St St S Saint Petersburg, Fl 33712-3719",
+    "addr:house_number":"3120",
     "addr:housenumber":"3120",
-    "addr:postcode":"33712",
+    "addr:phone":"+1 727-866-6401",
+    "addr:postcode":"33712-3719",
+    "addr:road":"31St St S",
+    "addr:state":"FL",
     "addr:street":"31St St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.675159,27.738343,-82.675159,27.738343",
-    "geom:latitude":27.738343,
-    "geom:longitude":-82.675159,
+    "geom:bbox":"-82.6751,27.73936,-82.6751,27.73936",
+    "geom:latitude":27.73936,
+    "geom:longitude":-82.6751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3120 31st St S",
     "sg:city":"St Petersburg",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 727 866 6401",
     "sg:postcode":"33712",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533325,
+        102533907
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -36,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200938,
         "sg:id":"SG_45CZ3ym1PxZaSHDiaiOHcV_27.738343_-82.675159@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"188da3d225311bfac2a8430d69855d05",
+    "wof:geomhash":"198fe4cec75e81f50195d1cbffb6f4e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":320372417,
-    "wof:lastmodified":1472615396,
+    "wof:lastmodified":1533949351,
     "wof:name":"Pinellas Pioneer Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.675159,
-    27.738343,
-    -82.675159,
-    27.738343
+    -82.6751,
+    27.73936,
+    -82.6751,
+    27.73936
 ],
-  "geometry": {"coordinates":[-82.67515899999999,27.738343],"type":"Point"}
+  "geometry": {"coordinates":[-82.6751,27.73936],"type":"Point"}
 }

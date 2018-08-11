@@ -7,6 +7,7 @@
     "addr:postcode":"33486",
     "addr:street":"Meadows Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101455,26.360127,-80.101455,26.360127",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.101455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"899 Meadows Rd",
     "sg:city":"Boca Raton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2QKxKijQca4TJQ8LNsZNqK_26.360127_-80.101455@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"aea44788b677ce8d602b9ecc04c64524",
+    "wof:geomhash":"60665d959f0511f56a17ac73fff48aab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":287002919,
-    "wof:lastmodified":1472614191,
+    "wof:lastmodified":1533949221,
     "wof:name":"Toon & Bataskov MD PA",
     "wof:parent_id":85819651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186627335
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

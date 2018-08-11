@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191732,25.762262,-80.191732,25.762262",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.191732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 Brickell Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6PLkzBAWHZ6Im8uXVMzhwu_25.762262_-80.191732@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e5fee71894f2416019f100783c450db",
+    "wof:geomhash":"220a6f6d7946fd86f35f9f95f0f4344c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":253512033,
-    "wof:lastmodified":1472615550,
+    "wof:lastmodified":1533949325,
     "wof:name":"Jorge Diaz-Silveira",
     "wof:parent_id":85896169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656146223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"S Douglas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254511,25.747339,-80.254511,25.747339",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.254511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2600 S Douglas Rd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461275185,
-    "wof:geomhash":"238813f21a79a468f21e14419631de6e",
+    "wof:geomhash":"d925ba46c5fde6f25059b1c9b3659848",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":638628673,
-    "wof:lastmodified":1472616322,
+    "wof:lastmodified":1533949248,
     "wof:name":"Louis J Aguirre & Assoc",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638735675
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

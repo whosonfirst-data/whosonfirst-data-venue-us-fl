@@ -2,18 +2,24 @@
   "id": 638683271,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 N Adams St Tallahassee FL 32303",
+    "addr:city":"Tallahassee",
+    "addr:full":"700 N Adams St Tallahassee, Fl 32303-6131",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
-    "addr:postcode":"32303",
+    "addr:phone":"+1 850-488-4661",
+    "addr:postcode":"32303-6131",
+    "addr:road":"N Adams St",
+    "addr:state":"FL",
     "addr:street":"N Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.282012,30.450135,-84.282012,30.450135",
-    "geom:latitude":30.450135,
-    "geom:longitude":-84.282012,
+    "geom:bbox":"-84.2826,30.44966,-84.2826,30.44966",
+    "geom:latitude":30.44966,
+    "geom:longitude":-84.2826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"700 N Adams St",
     "sg:city":"Tallahassee",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "state"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533179
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200752,
         "sg:id":"SG_0QpOzhyvsCDMFNBFWSzKXl_30.450135_-84.282012@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461276853,
-    "wof:geomhash":"2c3ad32d8f3c46a5dd8a18ce30d8de74",
+    "wof:geomhash":"51e7b84d9653082a9430c0c54112ac93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":638683271,
-    "wof:lastmodified":1472616753,
-    "wof:name":"Florida Governor's Mansion",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Florida Governors Mansion Foundation",
     "wof:parent_id":420515143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -84.282012,
-    30.450135,
-    -84.282012,
-    30.450135
+    -84.2826,
+    30.44966,
+    -84.2826,
+    30.44966
 ],
-  "geometry": {"coordinates":[-84.28201199999999,30.450135],"type":"Point"}
+  "geometry": {"coordinates":[-84.2826,30.44966],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 656131889,
   "type": "Feature",
   "properties": {
-    "addr:full":"591 NW 27 St Miami FL 33127",
+    "addr:city":"Miami",
+    "addr:full":"591 Nw 27Th St Miami, Fl 33127",
+    "addr:house_number":"591",
     "addr:housenumber":"591",
+    "addr:phone":"+1 305-576-1051",
     "addr:postcode":"33127",
+    "addr:road":"Nw 27Th St",
+    "addr:state":"FL",
     "addr:street":"Nw 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.205025,25.801792,-80.205025,25.801792",
-    "geom:latitude":25.801792,
-    "geom:longitude":-80.205025,
+    "geom:bbox":"-80.20448,25.80189,-80.20448,25.80189",
+    "geom:latitude":25.80189,
+    "geom:longitude":-80.20448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"591 NW 27 St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -33,7 +39,12 @@
     "sg:postcode":"33127",
     "sg:province":"FL",
     "sg:website":"www.margulieswarehouse.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102530161,
+        102533719
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -44,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200091,
         "sg:id":"SG_2nqGQMXw3lZe7lUWA10sKa_25.801792_-80.205025@1303262679"
     },
     "wof:country":"US",
     "wof:created":1461627530,
-    "wof:geomhash":"0cbc7497685e2f48443df7b39904fb1d",
+    "wof:geomhash":"bc53f14f0dd2d71c7ab76e3b31434933",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +73,8 @@
         }
     ],
     "wof:id":656131889,
-    "wof:lastmodified":1472616985,
-    "wof:name":"The Margulies Collection at the Warehouse",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Margulies Collection",
     "wof:parent_id":85896167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -71,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.205025,
-    25.801792,
-    -80.205025,
-    25.801792
+    -80.20448,
+    25.80189,
+    -80.20448,
+    25.80189
 ],
-  "geometry": {"coordinates":[-80.20502500000001,25.801792],"type":"Point"}
+  "geometry": {"coordinates":[-80.20448,25.80189],"type":"Point"}
 }

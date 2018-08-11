@@ -7,6 +7,7 @@
     "addr:postcode":"32068",
     "addr:street":"Blanding Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.865448,30.070752,-81.865448,30.070752",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.865448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2530 Blanding Blvd",
     "sg:city":"Middleburg",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0LbtjOqRDdUtGQloaxSQXG_30.070752_-81.865448@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8b526d4bb7dda4e79c3dd5c9355f91d",
+    "wof:geomhash":"78e8873bba64c79e76069f0b469c4864",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":253469863,
-    "wof:lastmodified":1472615545,
+    "wof:lastmodified":1533949260,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655974379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

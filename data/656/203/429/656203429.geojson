@@ -2,18 +2,23 @@
   "id": 656203429,
   "type": "Feature",
   "properties": {
-    "addr:full":"16701 SW 72nd Ave Palmetto Bay FL 33157",
+    "addr:city":"Miami",
+    "addr:full":"16701 Sw 72Nd Ave Miami, Fl 33157",
+    "addr:house_number":"16701",
     "addr:housenumber":"16701",
     "addr:postcode":"33157",
+    "addr:road":"Sw 72Nd Ave",
+    "addr:state":"FL",
     "addr:street":"Sw 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.305286,25.623382,-80.305286,25.623382",
-    "geom:latitude":25.623382,
-    "geom:longitude":-80.305286,
+    "geom:bbox":"-80.30832,25.61596,-80.30832,25.61596",
+    "geom:latitude":25.61596,
+    "geom:longitude":-80.30832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16701 SW 72nd Ave",
     "sg:city":"Palmetto Bay",
     "sg:classifiers":[
@@ -33,7 +38,11 @@
     "sg:postcode":"33157",
     "sg:province":"FL",
     "sg:website":"www.deeringestate.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102532907
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200194,
         "sg:id":"SG_0wOXQM1ccqaqtoJyRYHnat_25.623382_-80.305286@1303262697"
     },
     "wof:country":"US",
     "wof:created":1461630609,
-    "wof:geomhash":"808c93172ce2466bb8502d7feb2a50a3",
+    "wof:geomhash":"ba8eb91fb3bf03ef5dbb77d52dd4f0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":656203429,
-    "wof:lastmodified":1472617266,
+    "wof:lastmodified":1533949353,
     "wof:name":"Deering Estate At Cutler",
     "wof:parent_id":85828373,
     "wof:placetype":"venue",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.305286,
-    25.623382,
-    -80.305286,
-    25.623382
+    -80.30832,
+    25.61596,
+    -80.30832,
+    25.61596
 ],
-  "geometry": {"coordinates":[-80.305286,25.623382],"type":"Point"}
+  "geometry": {"coordinates":[-80.30831999999999,25.61596],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"34471",
     "addr:street":"Se 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.134291,29.16719,-82.134291,29.16719",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.134291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3045 SE 3rd Ave",
     "sg:city":"Ocala",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_4H9ni82R2dxNxW5pGgzE5r_29.167190_-82.134291@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"233f0145ab9e4ae5734da1be978dcabe",
+    "wof:geomhash":"27d106f510651760603f914465680dee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303754983,
-    "wof:lastmodified":1472615877,
+    "wof:lastmodified":1533949349,
     "wof:name":"475 1 Hour Cleaners",
     "wof:parent_id":85889261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656318541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"

@@ -7,6 +7,7 @@
     "addr:postcode":"32119",
     "addr:street":"S Nova Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.026355,29.17135,-81.026355,29.17135",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.026355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1725 S Nova Rd",
     "sg:city":"South Daytona",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6nUWW6VouWPdv1L7sYmlFt_29.171350_-81.026355@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"61483a164799cf9d1dca8f2655147495",
+    "wof:geomhash":"05a5b4d0f01600b34874d4d79b0246ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":185935929,
-    "wof:lastmodified":1472614611,
+    "wof:lastmodified":1533949270,
     "wof:name":"Advanced Generator Svc",
     "wof:parent_id":85888747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        639327481
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"

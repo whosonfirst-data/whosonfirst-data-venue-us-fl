@@ -2,18 +2,24 @@
   "id": 639424819,
   "type": "Feature",
   "properties": {
-    "addr:full":"380 E Hillsboro Blvd Deerfield Beach FL 33441",
+    "addr:city":"Deerfield Bch",
+    "addr:full":"380 E Hillsboro Blvd Deerfield Bch, Fl 33441-3540",
+    "addr:house_number":"380",
     "addr:housenumber":"380",
-    "addr:postcode":"33441",
+    "addr:phone":"+1 954-429-0378",
+    "addr:postcode":"33441-3540",
+    "addr:road":"E Hillsboro Blvd",
+    "addr:state":"FL",
     "addr:street":"E Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.097699,26.318368,-80.097699,26.318368",
-    "geom:latitude":26.318368,
-    "geom:longitude":-80.097699,
+    "geom:bbox":"-80.09742,26.31835,-80.09742,26.31835",
+    "geom:latitude":26.31835,
+    "geom:longitude":-80.09742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"380 E Hillsboro Blvd",
     "sg:city":"Deerfield Beach",
     "sg:classifiers":[
@@ -27,19 +33,25 @@
     "sg:phone":"+1 954 429 0378",
     "sg:postcode":"33441",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527565,
+        102528421,
+        102530841
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200404,
         "sg:id":"SG_2rcWEvrwYZ6hsLAub2DNG6_26.318368_-80.097699@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461294813,
-    "wof:geomhash":"90f01c725e77570e81841841d6984ae9",
+    "wof:geomhash":"f5a65fbe1726c5bc8d358133cbc1b0b2",
     "wof:hierarchy":[],
     "wof:id":639424819,
-    "wof:lastmodified":1472617779,
-    "wof:name":"Deerfield Beach Historical Soc",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Deerfield Beach Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -48,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.097699,
-    26.318368,
-    -80.097699,
-    26.318368
+    -80.09742,
+    26.31835,
+    -80.09742,
+    26.31835
 ],
-  "geometry": {"coordinates":[-80.09769900000001,26.318368],"type":"Point"}
+  "geometry": {"coordinates":[-80.09742,26.31835],"type":"Point"}
 }

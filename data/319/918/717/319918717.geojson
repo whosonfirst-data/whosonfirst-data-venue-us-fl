@@ -2,19 +2,25 @@
   "id": 319918717,
   "type": "Feature",
   "properties": {
-    "addr:full":"1925 4th St N Saint Petersburg FL 33704",
+    "addr:city":"St Petersburg",
+    "addr:full":"1925 4Th St N St Petersburg, Fl 33704",
+    "addr:house_number":"1925",
     "addr:housenumber":"1925",
+    "addr:phone":"+1 727-821-8992",
     "addr:postcode":"33704",
+    "addr:road":"4Th St N",
+    "addr:state":"FL",
     "addr:street":"4Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.638487,27.790242,-82.638487,27.790242",
-    "geom:latitude":27.790242,
-    "geom:longitude":-82.638487,
+    "geom:bbox":"-82.63846,27.79004,-82.63846,27.79004",
+    "geom:latitude":27.79004,
+    "geom:longitude":-82.63846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1925 4th St N",
     "sg:city":"Saint Petersburg",
     "sg:classifiers":[
@@ -33,7 +39,13 @@
         "family",
         "child"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526319,
+        102533243,
+        102533325,
+        102533907
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -44,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200850,
         "sg:id":"SG_4b1MHMFnKYz9N3l4r25Np5_27.790242_-82.638487@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c845bfa7eceb8c811be94c70f8310f7",
+    "wof:geomhash":"b6bf14ef12f57e04f0b1b5e2e352ea8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +73,8 @@
         }
     ],
     "wof:id":319918717,
-    "wof:lastmodified":1491901205,
-    "wof:name":"Great Explrtions - Chld Museum",
+    "wof:lastmodified":1533949353,
+    "wof:name":"Great Explorations - The Children'S Museum",
     "wof:parent_id":85880519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -74,10 +87,10 @@
     ]
 },
   "bbox": [
-    -82.638487,
-    27.790242,
-    -82.638487,
-    27.790242
+    -82.63846,
+    27.79004,
+    -82.63846,
+    27.79004
 ],
-  "geometry": {"coordinates":[-82.638487,27.790242],"type":"Point"}
+  "geometry": {"coordinates":[-82.63845999999999,27.79004],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Brickell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.192186,25.760728,-80.192186,25.760728",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.192186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1390 Brickell Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3e8ma90tAStXRxjG8yTPiC_25.760728_-80.192186@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0e1279aca566855a1346643d29a80f5",
+    "wof:geomhash":"380bb524dd79e3770c32d2da5db18d62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":236592455,
-    "wof:lastmodified":1472615591,
+    "wof:lastmodified":1533949280,
     "wof:name":"Cole Scott & Kissane",
     "wof:parent_id":85896169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656138971
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

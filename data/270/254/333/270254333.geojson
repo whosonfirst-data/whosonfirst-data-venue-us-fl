@@ -7,6 +7,7 @@
     "addr:postcode":"33771",
     "addr:street":"Ulmerton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.779848,27.894561,-82.779848,27.894561",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.779848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10225 Ulmerton Rd",
     "sg:city":"Largo",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_19OkrJ7h9bppwiBsSF3MnT_27.894561_-82.779848@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"2a42647d97d635b5aa298cbf6cf8b554",
+    "wof:geomhash":"6c3b26fd22350101ab17f8152c875426",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":270254333,
-    "wof:lastmodified":1472615077,
+    "wof:lastmodified":1533949233,
     "wof:name":"Data Age",
     "wof:parent_id":85889113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303876173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",

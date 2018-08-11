@@ -7,6 +7,7 @@
     "addr:postcode":"33131",
     "addr:street":"Biscayne Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187303,25.771815,-80.187303,25.771815",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.187303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 Biscayne Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_51xumMbR28iPDRnZPU2sS7_25.771815_-80.187303@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"993a41384cc8562ffb82470d7722c999",
+    "wof:geomhash":"d1923b4f446c45dfdee61110a7bafaaa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":185795123,
-    "wof:lastmodified":1472614487,
+    "wof:lastmodified":1533949293,
     "wof:name":"McDermott Will & Emery LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656141029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

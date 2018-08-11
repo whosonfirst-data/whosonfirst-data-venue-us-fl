@@ -2,18 +2,24 @@
   "id": 387370245,
   "type": "Feature",
   "properties": {
-    "addr:full":"2336 14th Ave Vero Beach FL 32960",
+    "addr:city":"Vero Beach",
+    "addr:full":"2336 14Th Ave Vero Beach, Fl 32960-3302",
+    "addr:house_number":"2336",
     "addr:housenumber":"2336",
-    "addr:postcode":"32960",
+    "addr:phone":"+1 772-778-3435",
+    "addr:postcode":"32960-3302",
+    "addr:road":"14Th Ave",
+    "addr:state":"FL",
     "addr:street":"14Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.399212,27.642087,-80.399212,27.642087",
-    "geom:latitude":27.642087,
-    "geom:longitude":-80.399212,
+    "geom:bbox":"-80.39901,27.64251,-80.39901,27.64251",
+    "geom:latitude":27.64251,
+    "geom:longitude":-80.39901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2336 14th Ave",
     "sg:city":"Vero Beach",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 772 778 3435",
     "sg:postcode":"32960",
     "sg:province":"FL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527921
+    ],
     "wof:belongsto":[
         85688651,
         85633793,
@@ -37,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401200806,
         "sg:id":"SG_7dJAJgTYxlhCYRINUMZ34i_27.642087_-80.399212@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ebafa2be3aeadd60fce9566a376425e",
+    "wof:geomhash":"f9a42bcdd2a4bdc20275125101f3297b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":387370245,
-    "wof:lastmodified":1472615999,
-    "wof:name":"Indian River Historical Soc",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Indian River County Historical Society",
     "wof:parent_id":85889861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.399212,
-    27.642087,
-    -80.399212,
-    27.642087
+    -80.39901,
+    27.64251,
+    -80.39901,
+    27.64251
 ],
-  "geometry": {"coordinates":[-80.39921200000001,27.642087],"type":"Point"}
+  "geometry": {"coordinates":[-80.39901,27.64251],"type":"Point"}
 }

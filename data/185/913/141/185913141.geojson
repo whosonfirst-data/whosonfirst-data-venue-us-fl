@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258343,25.765273,-80.258343,25.765273",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.258343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"747 Ponce de Leon Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_32vH3fnMzwUM6aUjPlVJQP_25.765273_-80.258343@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bf7a851e746e34b7a865ea8968abd99",
+    "wof:geomhash":"f1d937f6d924afa9e1c9ef305fa1917b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":185913141,
-    "wof:lastmodified":1472614590,
+    "wof:lastmodified":1533949327,
     "wof:name":"Dr Eleonor Pimentel",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656155381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

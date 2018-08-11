@@ -7,6 +7,7 @@
     "addr:postcode":"32953",
     "addr:street":"Borman Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.686389,28.357779,-80.686389,28.357779",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.686389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"255 Borman Dr",
     "sg:city":"Merritt Island",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1IpUoJSKfuqMDqxep7QtIo_28.357779_-80.686389@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc6267c92a9d34116a5221c1cc4e1ba9",
+    "wof:geomhash":"eb49a95193ff7398eb317ce14e1cbbcd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":253593705,
-    "wof:lastmodified":1472615644,
+    "wof:lastmodified":1533949267,
     "wof:name":"Francis Kaszuba MD",
     "wof:parent_id":85896101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656097259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

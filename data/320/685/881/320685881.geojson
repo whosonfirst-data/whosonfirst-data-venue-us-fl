@@ -7,6 +7,7 @@
     "addr:postcode":"32223",
     "addr:street":"San Jose Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.632666,30.140423,-81.632666,30.140423",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.632666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12412 San Jose Blvd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6Lm8uweiDttKgrKhOtRqi7_30.140423_-81.632666@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"93bffee65d51459b867a5d2fdf69345f",
+    "wof:geomhash":"a1dbd423756eeb8cde78aba492adf655",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":320685881,
-    "wof:lastmodified":1472615799,
+    "wof:lastmodified":1533949236,
     "wof:name":"General Business Services",
     "wof:parent_id":85816563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        386954367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

@@ -2,18 +2,24 @@
   "id": 639064801,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 N Collins St Plant City FL 33563",
+    "addr:city":"Plant City",
+    "addr:full":"119 N Collins St Plant City, Fl 33563-3311",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
-    "addr:postcode":"33563",
+    "addr:phone":"+1 813-754-1578",
+    "addr:postcode":"33563-3311",
+    "addr:road":"N Collins St",
+    "addr:state":"FL",
     "addr:street":"N Collins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.123342,28.01549,-82.123342,28.01549",
-    "geom:latitude":28.01549,
-    "geom:longitude":-82.123342,
+    "geom:bbox":"-82.12329,28.01527,-82.12329,28.01527",
+    "geom:latitude":28.01527,
+    "geom:longitude":-82.12329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 N Collins St",
     "sg:city":"Plant City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "photographer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530949
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201034,
         "sg:id":"SG_5YPq2pE1YxESKrToMXCL4N_28.015490_-82.123342@1294086031"
     },
     "wof:country":"US",
     "wof:created":1461286579,
-    "wof:geomhash":"0067d4a2cfb216618772df0198dddde0",
+    "wof:geomhash":"3166a43d857e5e6e9532e7fbea3bf872",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":639064801,
-    "wof:lastmodified":1472616257,
-    "wof:name":"Plant City Photo Archives Inc",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Plant City Photo Archives",
     "wof:parent_id":85889461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -82.123342,
-    28.01549,
-    -82.123342,
-    28.01549
+    -82.12329,
+    28.01527,
+    -82.12329,
+    28.01527
 ],
-  "geometry": {"coordinates":[-82.12334199999999,28.01549],"type":"Point"}
+  "geometry": {"coordinates":[-82.12329,28.01527],"type":"Point"}
 }

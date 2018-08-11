@@ -7,6 +7,7 @@
     "addr:postcode":"33144",
     "addr:street":"8Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.310145,25.762972,-80.310145,25.762972",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.310145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7105 8th St SW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_3CgeFNhrl7Q7q3qUKT0tfb_25.762972_-80.310145@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"41fde1be3349b19b272fc2fb729d0df2",
+    "wof:geomhash":"6024b511128a43b761ba1bf3fa626f60",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,15 @@
         }
     ],
     "wof:id":203305223,
-    "wof:lastmodified":1472614853,
+    "wof:lastmodified":1533949278,
     "wof:name":"MJM Realty Services Corp",
     "wof:parent_id":85855949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        252821371,
+        202982839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"32958",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.478086,27.816245,-80.478086,27.816245",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.478086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1290 Main St",
     "sg:city":"Sebastian",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461625960,
-    "wof:geomhash":"a77bccdad70c79c6992731eda2863f8d",
+    "wof:geomhash":"15a4ba6e0ec08e12f55a48f9dc40bc66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":656098445,
-    "wof:lastmodified":1472616833,
+    "wof:lastmodified":1533949222,
     "wof:name":"Sebastian U S Post Office",
     "wof:parent_id":420514197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236054795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

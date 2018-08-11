@@ -7,6 +7,7 @@
     "addr:postcode":"33321",
     "addr:street":"N University Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.252503,26.213593,-80.252503,26.213593",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.252503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7421 N University Dr",
     "sg:city":"Fort Lauderdale",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_55H8tcrhvWmikvjGk0iOZE_26.213593_-80.252503@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2454ad504be0931f265ed224cf33afc",
+    "wof:geomhash":"1bd36cf9aec1c3c81f25632bb19e20b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,15 @@
         }
     ],
     "wof:id":320104939,
-    "wof:lastmodified":1472614666,
+    "wof:lastmodified":1533949342,
     "wof:name":"Brietstein Richard J DPM PA",
     "wof:parent_id":85876899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403799803,
+        656253079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

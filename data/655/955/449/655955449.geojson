@@ -7,6 +7,7 @@
     "addr:postcode":"33139",
     "addr:street":"Collins Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129898,25.7918,-80.129898,25.7918",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.129898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1685 Collins Ave",
     "sg:city":"Miami Beach",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461619364,
-    "wof:geomhash":"1deefefba05c205d7047d36e767f931e",
+    "wof:geomhash":"079753e6f521af6bfbeddb31c81ee63d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":655955449,
-    "wof:lastmodified":1472616622,
+    "wof:lastmodified":1533949264,
     "wof:name":"Blue Door At Delano",
     "wof:parent_id":85882039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        655986427
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

@@ -2,19 +2,25 @@
   "id": 371037985,
   "type": "Feature",
   "properties": {
-    "addr:full":"1140 SW 13th Ave Miami FL 33135",
+    "addr:city":"Miami",
+    "addr:full":"1140 Sw 13Th Ave Miami, Fl 33135",
+    "addr:house_number":"1140",
     "addr:housenumber":"1140",
+    "addr:phone":"+1 305-858-3789",
     "addr:postcode":"33135",
+    "addr:road":"Sw 13Th Ave",
+    "addr:state":"FL",
     "addr:street":"Sw 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.216407,25.762447,-80.216407,25.762447",
-    "geom:latitude":25.762447,
-    "geom:longitude":-80.216407,
+    "geom:bbox":"-80.2167,25.76242,-80.2167,25.76242",
+    "geom:latitude":25.76242,
+    "geom:longitude":-80.2167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1140 SW 13th Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -31,7 +37,13 @@
     "sg:tags":[
         "business"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531023,
+        102530161,
+        102532907,
+        102533719
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -42,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401201204,
         "sg:id":"SG_3GSAygjkYW0tohBpvQdOE9_25.762447_-80.216407@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"6dce810250f08b7e840a6ff6491b3a7f",
+    "wof:geomhash":"72c552c5273ef7e36b3840c475f6cd32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":371037985,
-    "wof:lastmodified":1491935999,
-    "wof:name":"Presidio Politico Historico",
+    "wof:lastmodified":1533949352,
+    "wof:name":"Presidio Politico Historico Cubano",
     "wof:parent_id":85866185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
@@ -70,10 +83,10 @@
     ]
 },
   "bbox": [
-    -80.216407,
-    25.762447,
-    -80.216407,
-    25.762447
+    -80.2167,
+    25.76242,
+    -80.2167,
+    25.76242
 ],
-  "geometry": {"coordinates":[-80.216407,25.762447],"type":"Point"}
+  "geometry": {"coordinates":[-80.2167,25.76242],"type":"Point"}
 }

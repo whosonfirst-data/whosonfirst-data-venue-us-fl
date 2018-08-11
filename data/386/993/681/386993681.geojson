@@ -7,6 +7,7 @@
     "addr:postcode":"33126",
     "addr:street":"Blue Lagoon Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.297409,25.783116,-80.297409,25.783116",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.297409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6505 Blue Lagoon Dr",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3oGEyuMRJ5mQbJyIYBhjFc_25.783116_-80.297409@1294086031"
     },
     "wof:country":"US",
-    "wof:geomhash":"261bc3327ad83dfe2c69dbf7cf57ea6e",
+    "wof:geomhash":"974afe4c008ca9db0120b7d33272f93d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,15 @@
         }
     ],
     "wof:id":386993681,
-    "wof:lastmodified":1472615934,
+    "wof:lastmodified":1533949275,
     "wof:name":"Marubeni Business Machines Inc",
     "wof:parent_id":85896183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        638845577,
+        656127775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"

@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Valencia Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256203,25.747999,-80.256203,25.747999",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.256203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"75 Valencia Ave",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628560,
-    "wof:geomhash":"a4d4e14de78e03dcfc4aa0e15e4aa272",
+    "wof:geomhash":"2dbd98918ba3e91283cdd4081e26331d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":656155793,
-    "wof:lastmodified":1472617075,
+    "wof:lastmodified":1533949329,
     "wof:name":"Tomlin Michael T Atty",
     "wof:parent_id":85896157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        656157219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

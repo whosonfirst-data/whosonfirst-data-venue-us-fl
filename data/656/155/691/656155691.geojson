@@ -7,6 +7,7 @@
     "addr:postcode":"33134",
     "addr:street":"Ponce De Leon Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-11",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259102,25.762199,-80.259102,25.762199",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.259102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"999 Ponce De Leon Blvd",
     "sg:city":"Coral Gables",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461628557,
-    "wof:geomhash":"2bdc8fa2831da3eeb5067ea4cfccc7c2",
+    "wof:geomhash":"a35a385157bb86fd233d50ed047449da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":656155691,
-    "wof:lastmodified":1472617074,
+    "wof:lastmodified":1533949331,
     "wof:name":"Bofill & Vilar PA Atty",
     "wof:parent_id":85889189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-fl",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        656158805
+    ],
+    "wof:supersedes":[
+        320646643
+    ],
     "wof:tags":[
         "personal",
         "injury"
